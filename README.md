@@ -22,6 +22,7 @@ hatch run lcls --help
 ## Commands
 
 * `hatch run lcls games search --search-mode [default|exact] {NAME}` - Search IGDB by name. `--search-mode` can be used to force exact matches
+* `hatch run lcls gemini generate-json {DOMAIN}` - Generate the JSON response for the domain.
 
 ## Development
 
