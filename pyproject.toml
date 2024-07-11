@@ -1,0 +1,128 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "llm-complex-leisure-search"
+dynamic = ["version"]
+description = ''
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+keywords = []
+authors = [{ name = "Mark Hall", email = "mark.hall@work.room3b.eu" }]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: PyPy",
+]
+dependencies = ["httpx", "typer", "pydantic>=2,<3", "pydantic_settings>=2,<3"]
+
+[project.scripts]
+lcls = "llm_complex_leisure_search.cli:app"
+
+[project.urls]
+Documentation = "https://github.com/Mark Hall/llm-complex-leisure-search#readme"
+Issues = "https://github.com/Mark Hall/llm-complex-leisure-search/issues"
+Source = "https://github.com/Mark Hall/llm-complex-leisure-search"
+
+[tool.hatch.version]
+path = "llm_complex_leisure_search/__about__.py"
+
+[tool.hatch.envs.default]
+extra-dependencies = ["ruff>=0.5.0"]
+
+[tool.hatch.envs.default.scripts]
+style = "ruff check --fix {args:.}"
+format = "ruff format {args:.}"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+
+[tool.ruff.lint]
+select = [
+  "A",
+  "ARG",
+  "B",
+  "C",
+  "D",
+  "DTZ",
+  "E",
+  "EM",
+  "F",
+  "FBT",
+  "I",
+  "ICN",
+  "ISC",
+  "N",
+  "PLC",
+  "PLE",
+  "PLR",
+  "PLW",
+  "Q",
+  "RUF",
+  "S",
+  "T",
+  "TID",
+  "UP",
+  "W",
+  "YTT",
+]
+ignore = [
+  # Allow non-abstract empty methods in abstract base classes
+  "B027",
+  # Allow boolean positional values in function calls, like `dict.get(... True)`
+  "FBT003",
+  # Ignore single-line string concatenations
+  "ISC001",
+  # Ignore checks for possible passwords
+  "S105",
+  "S106",
+  "S107",
+  # Ignore complexity
+  "C901",
+  "PLR0911",
+  "PLR0912",
+  "PLR0913",
+  "PLR0915",
+  # Pick the pydocstyle preferences (no blank line before class docs, multi-line starts on first line)
+  "D203",
+  "D213",
+]
+unfixable = [
+  # Don't touch unused imports
+  "F401",
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["museum_map"]
+
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "all"
+
+[tool.ruff.lint.per-file-ignores]
+# Tests can use magic values, assertions, and relative imports
+"tests/**/*" = ["PLR2004", "S101", "TID252"]
+
+[tool.coverage.run]
+source_pkgs = ["llm_complex_leisure_search", "tests"]
+branch = true
+parallel = true
+omit = ["llm_complex_leisure_search/__about__.py"]
+
+[tool.coverage.paths]
+llm_complex_leisure_search = [
+  "llm_complex_leisure_search",
+  "*/llm-complex-leisure-search/llm_complex_leisure_search",
+]
+tests = ["tests", "*/llm-complex-leisure-search/tests"]
+
+[tool.coverage.report]
+exclude_lines = ["no cov", "if __name__ == .__main__.:", "if TYPE_CHECKING:"]
