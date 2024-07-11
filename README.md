@@ -22,3 +22,14 @@ hatch run lcls --help
 ## Commands
 
 * `games search {NAME}` - Search IGDB by name
+
+## Development
+
+The project uses [pre-commit](https://pre-commit.com/) and [Ruff](https://docs.astral.sh/ruff/) to ensure code-style consistency.
+Run
+
+```{console}
+pre-commit install
+```
+
+to ensure style checks are run before committing changes.
