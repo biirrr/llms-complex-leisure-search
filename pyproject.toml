@@ -22,7 +22,13 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = ["httpx", "typer", "pydantic>=2,<3", "pydantic_settings>=2,<3"]
+dependencies = [
+  "google-generativeai==0.7.2",
+  "httpx",
+  "typer",
+  "pydantic>=2,<3",
+  "pydantic_settings>=2,<3",
+]
 
 [project.scripts]
 lcls = "llm_complex_leisure_search.cli:app"

@@ -10,14 +10,21 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class IGDBSettings(BaseModel):
     """Settings for the IGDB API."""
 
-    client_id: str
-    client_secret: str
+    client_id: str = ""
+    client_secret: str = ""
+
+
+class GeminiSettings(BaseModel):
+    """Settings for the Gemini API."""
+
+    api_key: str = ""
 
 
 class Settings(BaseSettings):
     """Application-wide settings."""
 
-    igdb: IGDBSettings
+    igdb: IGDBSettings = IGDBSettings()
+    gemini: GeminiSettings = GeminiSettings()
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", env_nested_delimiter=".")
 
