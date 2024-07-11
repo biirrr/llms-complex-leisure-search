@@ -17,16 +17,19 @@ Please provide a ranked list of your 20 best guesses for the correct answer. Ple
 """  # noqa: E501
 
 
-def generate_json(domain: str) -> dict | None:
-    """Generate JSON using Gemini using an example request."""
+def generate_multiple_responses(prompt: str) -> list[dict | None]:
+    """Generate multiple responses for a prompt using Gemini."""
+    responses = []
+    for _ in range(0, 3):
+        responses.append(generate_single_response(prompt))
+    return responses
+
+
+def generate_single_response(prompt: str) -> dict | None:
+    """Generate single response for the prompt using Gemini."""
     genai.configure(api_key=settings.gemini.api_key)
     model = genai.GenerativeModel("gemini-1.5-flash")
-    response = model.generate_content(
-        TEMPLATE.format(
-            domain=domain,
-            request="""I'm looking for one of those virus movies with a very specific ending. Hi all. Just hoping someone out there can identify a movie from its ending. I've googled all sorts of combinations and done everything I can think of to find out what it is, but I've still come up blank. Ok, so it's another one of those post deadly virus survivor films.  I can't even remember who was in it, but I remember it had a pretty brutal ending. After spending the movie trying to figure out how to survive and by the end it looked like death was inevitable, so to be kind the male protagonist shot everyone he had been travelling with in their car.  As he is about to turn the gun on himself, the army come to the scene and it turns out they had an answer to help survive. I just remember thinking it was a cruel thing that the character would have to then live with. Any help on this would be fabulous because I really can't find the movie this engine belongs to! Thanks in advance.""",  # noqa: E501
-        )
-    )
+    response = model.generate_content(prompt)
     text = response.text
     if "[" in text and "]" in text:
         return json.loads(text[text.find("[") : text.rfind("]") + 1])

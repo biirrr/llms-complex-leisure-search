@@ -3,15 +3,24 @@
 # SPDX-License-Identifier: MIT
 """Gemini-related CLI commands."""
 
-from rich import print as console
-from typer import Typer
+import json
+from typing import Annotated
 
-from llm_complex_leisure_search.gemini import generate_json as api_generate_json
+from typer import Argument, FileText, FileTextWrite, Typer
+
+from llm_complex_leisure_search.gemini import generate_multiple_responses
 
 group = Typer(name="gemini", help="Commands for Gemini-related processing")
 
 
 @group.command()
-def generate_json(domain: str) -> None:
+def process_requests(
+    requests: Annotated[FileText, Argument()],
+    responses: Annotated[FileTextWrite, Argument()],
+) -> None:
     """Generate JSON using Gemini."""
-    console(api_generate_json(domain))
+    result = []
+    for entry in json.load(requests):
+        entry["gemini"] = generate_multiple_responses(entry["templated_request"])
+        result.append(entry)
+    json.dump(result, responses)
