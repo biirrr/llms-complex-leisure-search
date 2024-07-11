@@ -21,7 +21,7 @@ hatch run lcls --help
 
 ## Commands
 
-* `games search {NAME}` - Search IGDB by name
+* `games search --search-mode [default|exact] {NAME}` - Search IGDB by name. `--search-mode` can be used to force exact matches
 
 ## Development
 

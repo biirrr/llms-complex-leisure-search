@@ -3,12 +3,21 @@
 # SPDX-License-Identifier: MIT
 """IGDB API functions."""
 
+from enum import Enum
+
 from httpx import Client
 
 from llm_complex_leisure_search.settings import settings
 
 
-def search(name: str) -> list[dict]:
+class SearchMode(str, Enum):
+    """Search modes."""
+
+    DEFAULT = "default"
+    EXACT = "exact"
+
+
+def search(name: str, search_mode: SearchMode = SearchMode.DEFAULT) -> list[dict]:
     """Search the IGDB API by name."""
     with Client(timeout=30) as client:
         response = client.post(
@@ -30,5 +39,7 @@ def search(name: str) -> list[dict]:
                 ],
                 data=f'fields id,name,url,parent_game;limit 100;search "{name}";',
             )
+            if search_mode == SearchMode.EXACT:
+                return [entry for entry in response.json() if name == entry["name"]]
             return response.json()
         return []
