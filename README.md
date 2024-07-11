@@ -21,8 +21,8 @@ hatch run lcls --help
 
 ## Commands
 
-* `hatch run lcls games search --search-mode [default|exact] {NAME}` - Search IGDB by name. `--search-mode` can be used to force exact matches
-* `hatch run lcls gemini generate-json {DOMAIN}` - Generate the JSON response for the domain.
+* `hatch run lcls games search --search-mode [default|exact] {NAME}` - Search IGDB by name. `--search-mode` can be used to force exact matches.
+* `hatch run lcls gemini process-requests {INPUT} {OUTPUT}` - Use Gemini to run the `templated_request`\ s from the `INPUT` file and write the result to `OUTPUT`.
 
 ## Development
 
