@@ -6,10 +6,11 @@ The project is installed using [Hatch](https://hatch.pypa.io). Install that [fro
 
 ## Configuration
 
-Configuration settings are loaded from a `.env` file in the root directory. The following settings must be set
+Configuration settings are loaded from a `.env` file in the root directory. The following settings can be set
 
 * `IGDB.CLIENT_ID` - IGDB API client identifier
 * `IGDB.CLIENT_SECRET` - IGDB API client secret
+* `GEMINI.API_KEY` - Gemini API key
 
 ## Running the CLI
 
