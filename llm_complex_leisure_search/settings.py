@@ -20,11 +20,19 @@ class GeminiSettings(BaseModel):
     api_key: str = ""
 
 
+class LLMSettings(BaseModel):
+    """General settings for all LLMs."""
+
+    retest_target: int = 3
+    max_attempts: int = 10
+
+
 class Settings(BaseSettings):
     """Application-wide settings."""
 
     igdb: IGDBSettings = IGDBSettings()
     gemini: GeminiSettings = GeminiSettings()
+    llm: LLMSettings = LLMSettings()
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", env_nested_delimiter=".")
 
