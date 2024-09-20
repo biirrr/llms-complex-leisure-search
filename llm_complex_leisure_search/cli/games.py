@@ -25,7 +25,7 @@ group = Typer(name="games", help="Commands for game-related processing")
 
 @group.command()
 def extract() -> None:
-    """Extract all solved threads."""
+    """Extract all solved games threads."""
     records = []
     for filename in ["posts01.csv", "posts02.csv"]:
         with open(os.path.join("data", "games", filename)) as in_f:
