@@ -15,13 +15,14 @@ from llm_complex_leisure_search.books.data import (
 )
 
 group = Typer(name="books", help="Commands for book-related processing")
+ANNOTATION_SOURCE_FILES = ["posts_jdoc.csv", "posts_extra.csv"]
 
 
 @group.command()
 def extract() -> None:
     """Extract all solved book threads."""
     records = []
-    for filename in ["posts01.csv", "posts02.csv"]:
+    for filename in ANNOTATION_SOURCE_FILES:
         with open(os.path.join("data", "books", filename)) as in_f:
             reader = DictReader(in_f)
             for record in reader:
@@ -35,7 +36,7 @@ def extract() -> None:
 def stats() -> None:
     """Summary statistics for the books data-set."""
     thread_ids = set()
-    for filename in ["posts01.csv", "posts02.csv"]:
+    for filename in ANNOTATION_SOURCE_FILES:
         with open(os.path.join("data", "books", filename)) as in_f:
             reader = DictReader(in_f)
             for record in reader:
