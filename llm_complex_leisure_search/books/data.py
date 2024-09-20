@@ -57,7 +57,7 @@ def extract_solved_threads(posts: list[dict]) -> list[dict]:
             and not solution["solved"]  # and it has not already been marked as solved
         ):
             solution["solved"] = True
-            solution["title"] = post["answer"]
+            solution["title"] = post["answer"][: post["answer"].find(":")]
             solution["author"] = post["answer"][post["answer"].find(":") + 1 :]
             solution["confirmed"] = True
         elif post["solved"] == "confirmed":
