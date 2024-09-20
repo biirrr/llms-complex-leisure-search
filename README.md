@@ -24,13 +24,15 @@ hatch run lcls --help
 
 ### Data pre-processing
 
-* `hatch run lcls books extract` - Extract all solved threads into data/books/solved.json
-* `hatch run lcls games extract` - Extract all solved threads into data/games/solved.json
+* `hatch run lcls books extract` - Extract all solved books threads into data/books/solved.json
+* `hatch run lcls games extract` - Extract all solved games threads into data/games/solved.json
+* `hatch run lcls movies extract` - Extract all solved movies threads into data/movies/solved.json
 
 ### Data statistics
 
 * `hatch run lcls books stats` - Show basic statistics for the books data-set
 * `hatch run lcls games stats` - Show basic statistics for the games data-set
+* `hatch run lcls movies stats` - Show basic statistics for the movies data-set
 
 ### Experiments
 
