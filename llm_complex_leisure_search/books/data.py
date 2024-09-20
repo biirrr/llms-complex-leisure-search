@@ -49,16 +49,16 @@ def extract_solved_threads(posts: list[dict]) -> list[dict]:
             and not solution["solved"]  # and it has not already been marked as solved
         ):
             solution["solved"] = True
-            solution["title"] = post["answer"][: post["answer"].find(":")]
-            solution["author"] = post["answer"][post["answer"].find(":") + 1 :]
+            solution["author"] = post["answer"][: post["answer"].find(":")].strip()
+            solution["title"] = post["answer"][post["answer"].find(":") + 1 :].strip()
         elif (
             post["solved"] == "solved and confirmed"  # If the post is solved
             and ":" in post["answer"]  # and there is a semi-colon (author - title)
             and not solution["solved"]  # and it has not already been marked as solved
         ):
             solution["solved"] = True
-            solution["title"] = post["answer"][: post["answer"].find(":")]
-            solution["author"] = post["answer"][post["answer"].find(":") + 1 :]
+            solution["author"] = post["answer"][: post["answer"].find(":")].strip()
+            solution["title"] = post["answer"][post["answer"].find(":") + 1 :].strip()
             solution["confirmed"] = True
         elif post["solved"] == "confirmed":
             solution["confirmed"] = True
