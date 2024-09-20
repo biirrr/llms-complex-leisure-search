@@ -22,8 +22,25 @@ hatch run lcls --help
 
 ## Commands
 
+### Data pre-processing
+
+* `hatch run lcls books extract` - Extract all solved threads into data/books/solved.json
+* `hatch run lcls games extract` - Extract all solved threads into data/games/solved.json
+
+### Data statistics
+
+* `hatch run lcls books stats` - Show basic statistics for the books data-set
+* `hatch run lcls games stats` - Show basic statistics for the games data-set
+
+### Experiments
+
 * `hatch run lcls games search --search-mode [default|exact] {NAME}` - Search IGDB by name. `--search-mode` can be used to force exact matches.
 * `hatch run lcls gemini process-requests {INPUT} {OUTPUT}` - Use Gemini to run the `templated_request`\ s from the `INPUT` file and write the result to `OUTPUT`.
+
+## Data
+
+All data is in the `data` directory, split into sub-folders by data-set. In the sub-folders the annotation data is in
+the `.csv` files. The `solved.json` files contain all threads that have been maked as solved.
 
 ## Development
 
