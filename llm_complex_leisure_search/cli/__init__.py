@@ -5,9 +5,11 @@
 
 from typer import Typer
 
+from llm_complex_leisure_search.cli.books import group as books_group
 from llm_complex_leisure_search.cli.games import group as games_group
 from llm_complex_leisure_search.cli.gemini import group as gemini_group
 
 app = Typer()
+app.add_typer(books_group)
 app.add_typer(games_group)
 app.add_typer(gemini_group)
