@@ -56,9 +56,9 @@ def stats() -> None:
             if task["confirmed"]:
                 confirmed = confirmed + 1
     console(
-        f"""Book Stats
+        f"""Movie Stats
 ==========
 Total threads: {total}
-Solved: {solved}
-Confirmed: {confirmed}"""
+Solved: {solved} ({solved/total:.2f})
+Confirmed: {confirmed} ({confirmed/total:.2f})"""
     )

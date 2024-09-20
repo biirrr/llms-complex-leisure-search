@@ -67,6 +67,6 @@ def stats() -> None:
         f"""Games Stats
 ===========
 Total threads: {total}
-Solved: {solved}
-Confirmed: {confirmed}"""
+Solved: {solved} ({solved/total:.2f})
+Confirmed: {confirmed} ({confirmed/total:.2f})"""
     )
