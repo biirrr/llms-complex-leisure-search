@@ -36,7 +36,7 @@ def extract() -> None:
 
 
 @group.command()
-def gemini() -> None:
+def query_gemini() -> None:
     """Process the books with Gemini."""
     with open(os.path.join("data", "books", "solved.json")) as in_f:
         tasks = json.load(in_f)

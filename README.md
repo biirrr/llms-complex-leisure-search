@@ -30,7 +30,7 @@ hatch run lcls --help
 
 ### LLM processing
 
-* `hatch run lcls books gemini` - Use Gemini to process all solved book requests.
+* `hatch run lcls books query-gemini` - Use Gemini to process all solved book requests.
 
 ### Data statistics
 
