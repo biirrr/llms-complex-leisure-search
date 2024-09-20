@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024-present Mark Hall <mark.hall@work.room3b.eu>
+#
+# SPDX-License-Identifier: MIT
 """Data extraction functionality for games."""
 
 from rich.progress import track
