@@ -68,10 +68,14 @@ def query_gemini() -> None:
 @group.command()
 def aggregate_gpt(source_folder: str, suffix: str) -> None:
     """Aggregate the GPT 4o Mini files."""
+    with open(os.path.join("data", "movies", f"ignored_{suffix}.txt")) as in_f:
+        ignored = [thread_id.strip() for thread_id in in_f.readlines() if thread_id.strip()]
     tasks = {}
     for filename in os.listdir(source_folder):
         if filename.endswith(".json"):
             parts = filename.split(".")
+            if parts[0] in ignored:
+                continue
             if parts[0] not in tasks:
                 tasks[parts[0]] = []
             with open(os.path.join(source_folder, filename)) as in_f:
