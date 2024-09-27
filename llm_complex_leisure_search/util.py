@@ -3,6 +3,8 @@
 # SPDX-License-Identifier: MIT
 """Utility functionality."""
 
+import re
+
 
 class JSONExtractionError(Exception):
     """Error indicating that no valid JSON could be extracted."""
@@ -44,3 +46,21 @@ def split_book_title_by_author(answer: str) -> tuple[str, str]:
         )
     else:
         return (answer.strip(), None)
+
+
+def split_title_years(answer: str) -> tuple[str, list[str]]:
+    """Split an answer containing the text `title (year)` into a `(title, [year, year, ...])` tuple."""
+    if "(" in answer and ")" in answer:
+        title = answer[: answer.find("(")].strip()
+        year_parts = [
+            v.strip()
+            for split1 in answer[answer.find("(") + 1 : answer.find(")")].split(",")
+            for v in split1.split(";")
+        ]
+        years = []
+        for part in year_parts:
+            match = re.search("[0-9]{4}", part)
+            if match is not None:
+                years.append(match.group(0))
+        return (title, years)
+    return (answer, [])
