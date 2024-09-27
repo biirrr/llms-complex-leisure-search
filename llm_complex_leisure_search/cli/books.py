@@ -66,6 +66,37 @@ def query_gemini() -> None:
 
 
 @group.command()
+def aggregate_gpt(source_folder: str, suffix: str) -> None:
+    """Aggregate the GPT 4o Mini files."""
+    tasks = {}
+    for filename in os.listdir(source_folder):
+        if filename.endswith(".json"):
+            parts = filename.split(".")
+            if parts[0] not in tasks:
+                tasks[parts[0]] = []
+            with open(os.path.join(source_folder, filename)) as in_f:
+                try:
+                    data = json.load(in_f)
+                    if "suggestions" in data:
+                        tasks[parts[0]].append(data["suggestions"])
+                    elif "recommendations" in data:
+                        tasks[parts[0]].append(data["recommendations"])
+                except json.JSONDecodeError:
+                    pass
+    results = []
+    for key, value in tasks.items():
+        results.append({"thread_id": key, "results": value})
+        for attempt in value:
+            for entry in attempt:
+                title, author = split_book_title_by_author(entry["answer"])
+                entry["title"] = title
+                entry["author"] = author
+
+    with open(os.path.join("data", "books", f"gpt-4o-mini_{suffix}.json"), "w") as out_f:
+        json.dump(results, out_f)
+
+
+@group.command()
 def stats() -> None:
     """Summary statistics for the books data-set."""
     console("Book stats\n##########")
@@ -80,41 +111,42 @@ def stats() -> None:
         with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
         console(f"Solved: {suffix}: {len(tasks)}")
-    for suffix in ANNOTATION_SOURCE_FILES:
-        with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
-            tasks = json.load(in_f)
-        with open(os.path.join("data", "books", f"gemini_{suffix}.json")) as in_f:
-            gemini_tasks = json.load(in_f)
-            gemini_solution = 0
-            gemini_solved = 0
-            gemini_solution_ranks = []
-            for gemini_task in gemini_tasks:
-                found = False
-                for task in tasks:
-                    if task["thread_id"] == gemini_task["thread_id"]:
-                        found = True
-                        break
-                if found:
-                    if len(gemini_task["results"]) > 0:
-                        gemini_solution = gemini_solution + 1
-                    for result_list in gemini_task["results"]:
-                        if result_list[0]["title"] == task["title"]:
-                            gemini_solved = gemini_solved + 1
+    for label, prefix in [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]:
+        for suffix in ANNOTATION_SOURCE_FILES:
+            with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
+                tasks = json.load(in_f)
+            with open(os.path.join("data", "books", f"{prefix}_{suffix}.json")) as in_f:
+                llm_tasks = json.load(in_f)
+                llm_solution = 0
+                llm_solved = 0
+                llm_solution_ranks = []
+                for llm_task in llm_tasks:
+                    found = False
+                    for task in tasks:
+                        if task["thread_id"] == llm_task["thread_id"]:
+                            found = True
                             break
-                    gemini_solution_rank = None
-                    for result_list in gemini_task["results"]:
-                        for idx, result in enumerate(result_list):
-                            if result["title"] == task["title"]:
-                                if gemini_solution_rank is None:
-                                    gemini_solution_rank = idx
-                                else:
-                                    gemini_solution_rank = min(gemini_solution_rank, idx)
-                    if gemini_solution_rank is not None:
-                        gemini_solution_ranks.append(gemini_solution_rank)
-            console(f"Gemini Solution: {suffix}: {gemini_solution} ({gemini_solution / len(tasks):.2f})")
-            console(f"Gemini Solved: {suffix}: {gemini_solved} ({gemini_solved / len(tasks):.2f})")
-            console(
-                f"Gemini Found: {suffix}: {len(gemini_solution_ranks)} ({len(gemini_solution_ranks) / len(tasks):.2f})"
-            )
-            if (len(gemini_solution_ranks)) > 0:
-                console(f"Gemini Average Rank: {suffix}: {sum(gemini_solution_ranks) / len(gemini_solution_ranks)}")
+                    if found:
+                        if len(llm_task["results"]) > 0:
+                            llm_solution = llm_solution + 1
+                        for result_list in llm_task["results"]:
+                            if result_list[0]["title"] == task["title"]:
+                                llm_solved = llm_solved + 1
+                                break
+                        llm_solution_rank = None
+                        for result_list in llm_task["results"]:
+                            for idx, result in enumerate(result_list):
+                                if result["title"] == task["title"]:
+                                    if llm_solution_rank is None:
+                                        llm_solution_rank = idx
+                                    else:
+                                        llm_solution_rank = min(llm_solution_rank, idx)
+                        if llm_solution_rank is not None:
+                            llm_solution_ranks.append(llm_solution_rank)
+                console(f"{label} Solution: {suffix}: {llm_solution} ({llm_solution / len(tasks):.2f})")
+                console(f"{label} Solved: {suffix}: {llm_solved} ({llm_solved / len(tasks):.2f})")
+                console(
+                    f"{label} Found: {suffix}: {len(llm_solution_ranks)} ({len(llm_solution_ranks) / len(tasks):.2f})"
+                )
+                if (len(llm_solution_ranks)) > 0:
+                    console(f"{label} Average Rank: {suffix}: {sum(llm_solution_ranks) / len(llm_solution_ranks)}")
