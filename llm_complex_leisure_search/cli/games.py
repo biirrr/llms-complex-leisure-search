@@ -48,19 +48,34 @@ def query_gemini() -> None:
     for suffix in ANNOTATION_SOURCE_FILES:
         with open(os.path.join("data", "games", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
-        results = []
-        for task in track(tasks, description="Querying Gemini"):
-            result = {
-                "thread_id": task["thread_id"],
-                "results": generate_multiple_responses(task["prompt"]),
-            }
-            for attempt in result["results"]:
-                if attempt is not None:
-                    for entry in attempt:
-                        title, years = split_title_years(entry["answer"])
-                        entry["title"] = title
-                        entry["years"] = years
-            results.append(result)
+        if os.path.exists(os.path.join("data", "games", f"gemini_{suffix}.json")):
+            with open(os.path.join("data", "games", f"gemini_{suffix}.json")) as in_f:
+                results = json.load(in_f)
+        else:
+            results = []
+        for task in track(tasks, description=f"Querying Gemini ({suffix})"):
+            # Check if the task has already been processed
+            exists = False
+            for result in results:
+                if result["thread_id"] == task["thread_id"]:
+                    exists = True
+                    break
+            if exists:
+                continue
+            try:
+                result = {
+                    "thread_id": task["thread_id"],
+                    "results": generate_multiple_responses(task["prompt"]),
+                }
+                for attempt in result["results"]:
+                    if attempt is not None:
+                        for entry in attempt:
+                            title, years = split_title_years(entry["answer"])
+                            entry["title"] = title
+                            entry["years"] = years
+                results.append(result)
+            except Exception as e:
+                console(e)
         with open(os.path.join("data", "games", f"gemini_{suffix}.json"), "w") as out_f:
             json.dump(results, out_f)
 
@@ -115,7 +130,7 @@ def stats() -> None:
         with open(os.path.join("data", "games", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
         console(f"Solved: {suffix}: {len(tasks)}")
-    for label, prefix in [("GPT 4o Mini", "gpt-4o-mini")]:
+    for label, prefix in [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]:
         for suffix in ANNOTATION_SOURCE_FILES:
             with open(os.path.join("data", "games", f"solved_{suffix}.json")) as in_f:
                 tasks = json.load(in_f)
