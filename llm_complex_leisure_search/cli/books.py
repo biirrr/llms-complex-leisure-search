@@ -48,8 +48,20 @@ def query_gemini() -> None:
     for suffix in ANNOTATION_SOURCE_FILES:
         with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
-        results = []
-        for task in track(tasks, description="Querying Gemini"):
+        if os.path.exists(os.path.join("data", "books", f"gemini_{suffix}.json")):
+            with open(os.path.join("data", "books", f"gemini_{suffix}.json")) as in_f:
+                results = json.load(in_f)
+        else:
+            results = []
+        for task in track(tasks, description=f"Querying Gemini ({suffix})"):
+            # Check if the task has already been processed
+            exists = False
+            for result in results:
+                if result["thread_id"] == task["thread_id"]:
+                    exists = True
+                    break
+            if exists:
+                continue
             result = {
                 "thread_id": task["thread_id"],
                 "results": generate_multiple_responses(task["prompt"]),
