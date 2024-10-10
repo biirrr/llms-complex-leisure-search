@@ -8,8 +8,10 @@ import os
 from csv import DictReader
 
 from rich import print as console
+from rich.progress import track
 from typer import Typer
 
+from llm_complex_leisure_search.gemini import generate_multiple_responses
 from llm_complex_leisure_search.movies.data import (
     extract_solved_threads,
 )
@@ -38,6 +40,44 @@ def extract() -> None:
         solved = extract_solved_threads(first_posts, records, ignored)
         with open(os.path.join("data", "movies", f"solved_{suffix}.json"), "w") as out_f:
             json.dump(solved, out_f)
+
+
+@group.command()
+def query_gemini() -> None:
+    """Process the books with Gemini."""
+    for suffix in ANNOTATION_SOURCE_FILES:
+        with open(os.path.join("data", "movies", f"solved_{suffix}.json")) as in_f:
+            tasks = json.load(in_f)
+        if os.path.exists(os.path.join("data", "movies", f"gemini_{suffix}.json")):
+            with open(os.path.join("data", "movies", f"gemini_{suffix}.json")) as in_f:
+                results = json.load(in_f)
+        else:
+            results = []
+        for task in track(tasks, description=f"Querying Gemini ({suffix})"):
+            # Check if the task has already been processed
+            exists = False
+            for result in results:
+                if result["thread_id"] == task["thread_id"] and len(result["results"]) >= 3:  # noqa: PLR2004
+                    exists = True
+                    break
+            if exists:
+                continue
+            try:
+                result = {
+                    "thread_id": task["thread_id"],
+                    "results": generate_multiple_responses(task["prompt"]),
+                }
+                for attempt in result["results"]:
+                    if attempt is not None:
+                        for entry in attempt:
+                            title, years = split_title_years(entry["answer"])
+                            entry["title"] = title
+                            entry["years"] = years
+                results.append(result)
+            except Exception as e:
+                console(e)
+        with open(os.path.join("data", "movies", f"gemini_{suffix}.json"), "w") as out_f:
+            json.dump(results, out_f)
 
 
 @group.command()
@@ -90,7 +130,7 @@ def stats() -> None:
         with open(os.path.join("data", "movies", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
         console(f"Solved: {suffix}: {len(tasks)}")
-    for label, prefix in [("GPT 4o Mini", "gpt-4o-mini")]:
+    for label, prefix in [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]:
         for suffix in ANNOTATION_SOURCE_FILES:
             with open(os.path.join("data", "movies", f"solved_{suffix}.json")) as in_f:
                 tasks = json.load(in_f)
