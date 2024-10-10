@@ -106,7 +106,10 @@ def aggregate_gpt(source_folder: str, suffix: str) -> None:
             for entry in attempt:
                 title, author = split_book_title_by_author(entry["answer"])
                 entry["title"] = title
-                entry["author"] = author
+                if author:
+                    entry["qualifiers"] = [author]
+                else:
+                    entry["qualifiers"] = []
 
     with open(os.path.join("data", "books", f"gpt-4o-mini_{suffix}.json"), "w") as out_f:
         json.dump(results, out_f)

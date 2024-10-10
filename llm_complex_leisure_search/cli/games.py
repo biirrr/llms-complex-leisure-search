@@ -72,7 +72,7 @@ def query_gemini() -> None:
                         for entry in attempt:
                             title, years = split_title_years(entry["answer"])
                             entry["title"] = title
-                            entry["years"] = years
+                            entry["qualifiers"] = years
                 results.append(result)
             except Exception as e:
                 console(e)
@@ -109,7 +109,7 @@ def aggregate_gpt(source_folder: str, suffix: str) -> None:
             for entry in attempt:
                 title, years = split_title_years(entry["answer"])
                 entry["title"] = title
-                entry["years"] = years
+                entry["qualifiers"] = years
 
     with open(os.path.join("data", "games", f"gpt-4o-mini_{suffix}.json"), "w") as out_f:
         json.dump(results, out_f)
