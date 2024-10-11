@@ -83,7 +83,7 @@ def search(name: str, search_mode: SearchMode = SearchMode.DEFAULT) -> list[dict
                     ("Authorization", f"Bearer {auth_data['access_token']}"),
                     ("Accept", "application/json"),
                 ],
-                data=f'fields id,name,release_dates,url,parent_game;limit 100;search "{name}";',
+                data=f'fields id,name,release_dates,url,parent_game,rating,rating_count;limit 100;search "{name}";',
             )
             results = response.json()
             if search_mode == SearchMode.EXACT:
@@ -101,7 +101,7 @@ def search(name: str, search_mode: SearchMode = SearchMode.DEFAULT) -> list[dict
                         data=f"fields y;limit 100;where id = ({','.join([str(v) for v in entry['release_dates']])});",
                     )
                     dates = response.json()
-                    entry["release_years"] = list({date["y"] for date in dates})
+                    entry["release_years"] = list({date["y"] for date in dates if "y" in date})
                 else:
                     entry["release_years"] = []
             return results
