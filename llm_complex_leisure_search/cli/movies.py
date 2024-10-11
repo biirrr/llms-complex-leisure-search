@@ -143,12 +143,15 @@ def lookup_answers() -> None:
                 movies = search(answer["answer"][0], SearchMode.EXACT)
                 if len(movies) > 0:
                     answer["exists"] = True
-                    answer["popularity"] = sum(movie["popularity"] for movie in movies) / len(movies)
+                    answer["popularity"] = sum(
+                        [movie["popularity"] for movie in movies if "popularity" in movie]
+                    ) / len(movies)
                 for qualifier in answer["answer"][1]:
                     for movie in movies:
                         if qualifier == movie["release_date"][:4]:
                             answer["exists_with_qualifier"] = True
-                            answer["popularity"] = movie["popularity"]
+                            if "popularity" in movie:
+                                answer["popularity"] = movie["popularity"]
                 sleep(0.1)
                 with open(os.path.join("data", "movies", "unique-answers.json"), "w") as out_f:
                     json.dump(answers, out_f)
