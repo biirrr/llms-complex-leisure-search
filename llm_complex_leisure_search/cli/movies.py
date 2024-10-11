@@ -126,10 +126,23 @@ def extract_answers() -> None:
         for suffix in ANNOTATION_SOURCE_FILES:
             with open(os.path.join("data", "movies", f"{prefix}_{suffix}.json")) as in_f:
                 answers.update(extract_all_answers(json.load(in_f)))
+    if os.path.exists(os.path.join("data", "movies", "unique-answers.json")):
+        with open(os.path.join("data", "movies", "unique-answers.json")) as in_f:
+            data = json.load(in_f)
+    else:
+        data = []
+    result = []
+    for answer in track(answers, description="Merging answers"):
+        found = False
+        for old_answer in data:
+            answer_tuple = (old_answer["answer"][0], tuple(old_answer["answer"][1]))
+            if answer_tuple == answer:
+                result.append(old_answer)
+                found = True
+        if not found:
+            result.append({"answer": answer, "exists": False, "exists_with_qualifier": False, "popularity": 0})
     with open(os.path.join("data", "movies", "unique-answers.json"), "w") as out_f:
-        json.dump(
-            [{"answer": v, "exists": False, "exists_with_qualifier": False, "popularity": 0} for v in answers], out_f
-        )
+        json.dump(result, out_f)
 
 
 @group.command()
@@ -148,7 +161,7 @@ def lookup_answers() -> None:
                     ) / len(movies)
                 for qualifier in answer["answer"][1]:
                     for movie in movies:
-                        if qualifier == movie["release_date"][:4]:
+                        if "release_date" in movies and qualifier == movie["release_date"][:4]:
                             answer["exists_with_qualifier"] = True
                             if "popularity" in movie:
                                 answer["popularity"] = movie["popularity"]

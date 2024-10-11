@@ -126,10 +126,23 @@ def extract_answers() -> None:
         for suffix in ANNOTATION_SOURCE_FILES:
             with open(os.path.join("data", "games", f"{prefix}_{suffix}.json")) as in_f:
                 answers.update(extract_all_answers(json.load(in_f)))
+    if os.path.exists(os.path.join("data", "games", "unique-answers.json")):
+        with open(os.path.join("data", "games", "unique-answers.json")) as in_f:
+            data = json.load(in_f)
+    else:
+        data = []
+    result = []
+    for answer in track(answers, description="Merging answers"):
+        found = False
+        for old_answer in data:
+            answer_tuple = (old_answer["answer"][0], tuple(old_answer["answer"][1]))
+            if answer_tuple == answer:
+                result.append(old_answer)
+                found = True
+        if not found:
+            result.append({"answer": answer, "exists": False, "exists_with_qualifier": False, "popularity": 0})
     with open(os.path.join("data", "games", "unique-answers.json"), "w") as out_f:
-        json.dump(
-            [{"answer": v, "exists": False, "exists_with_qualifier": False, "popularity": 0} for v in answers], out_f
-        )
+        json.dump(result, out_f)
 
 
 @group.command()
@@ -137,7 +150,7 @@ def lookup_answers() -> None:
     """Lookup the answers in the IGDB."""
     with open(os.path.join("data", "games", "unique-answers.json")) as in_f:
         answers = json.load(in_f)
-    for answer in track(answers, description="Looking up answers"):
+    for idx, answer in enumerate(track(answers, description="Looking up answers")):
         if not answer["exists"]:
             try:
                 games = search(answer["answer"][0], SearchMode.EXACT)
@@ -150,8 +163,9 @@ def lookup_answers() -> None:
                             answer["exists_with_qualifier"] = True
                             answer["popularity"] = game["rating_count"] if "rating_count" in game else 0
                 sleep(0.3)
-                with open(os.path.join("data", "games", "unique-answers.json"), "w") as out_f:
-                    json.dump(answers, out_f)
+                if idx % 100 == 0:
+                    with open(os.path.join("data", "games", "unique-answers.json"), "w") as out_f:
+                        json.dump(answers, out_f)
             except Exception as e:
                 console(e)
     with open(os.path.join("data", "games", "unique-answers.json"), "w") as out_f:
