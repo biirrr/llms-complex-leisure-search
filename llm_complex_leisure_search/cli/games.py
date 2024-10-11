@@ -143,11 +143,12 @@ def lookup_answers() -> None:
                 games = search(answer["answer"][0], SearchMode.EXACT)
                 if len(games) > 0:
                     answer["exists"] = True
-                answer["popularity"] = sum([g["rating_count"] for g in games if "rating_count" in g])
+                    answer["popularity"] = sum([g["rating_count"] for g in games if "rating_count" in g]) / len(games)
                 for qualifier in answer["answer"][1]:
                     for game in games:
                         if qualifier in [str(v) for v in game["release_years"]]:
                             answer["exists_with_qualifier"] = True
+                            answer["popularity"] = game["rating_count"] if "rating_count" in game else 0
                 sleep(0.3)
                 with open(os.path.join("data", "games", "unique-answers.json"), "w") as out_f:
                     json.dump(answers, out_f)

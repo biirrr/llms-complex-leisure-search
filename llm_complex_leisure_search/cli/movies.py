@@ -6,6 +6,7 @@
 import json
 import os
 from csv import DictReader
+from time import sleep
 
 from rich import print as console
 from rich.progress import track
@@ -15,6 +16,7 @@ from llm_complex_leisure_search.gemini import generate_multiple_responses
 from llm_complex_leisure_search.movies.data import (
     extract_solved_threads,
 )
+from llm_complex_leisure_search.movies.themoviedb import SearchMode, search
 from llm_complex_leisure_search.util import extract_all_answers, split_title_years
 
 group = Typer(name="movies", help="Commands for movie-related processing")
@@ -128,6 +130,32 @@ def extract_answers() -> None:
         json.dump(
             [{"answer": v, "exists": False, "exists_with_qualifier": False, "popularity": 0} for v in answers], out_f
         )
+
+
+@group.command()
+def lookup_answers() -> None:
+    """Lookup the answers in the IGDB."""
+    with open(os.path.join("data", "movies", "unique-answers.json")) as in_f:
+        answers = json.load(in_f)
+    for answer in track(answers, description="Looking up answers"):
+        if not answer["exists"]:
+            try:
+                movies = search(answer["answer"][0], SearchMode.EXACT)
+                if len(movies) > 0:
+                    answer["exists"] = True
+                    answer["popularity"] = sum(movie["popularity"] for movie in movies) / len(movies)
+                for qualifier in answer["answer"][1]:
+                    for movie in movies:
+                        if qualifier == movie["release_date"][:4]:
+                            answer["exists_with_qualifier"] = True
+                            answer["popularity"] = movie["popularity"]
+                sleep(0.1)
+                with open(os.path.join("data", "movies", "unique-answers.json"), "w") as out_f:
+                    json.dump(answers, out_f)
+            except Exception as e:
+                console(e)
+    with open(os.path.join("data", "movies", "unique-answers.json"), "w") as out_f:
+        json.dump(answers, out_f)
 
 
 @group.command()

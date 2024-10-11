@@ -87,7 +87,9 @@ def search(name: str, search_mode: SearchMode = SearchMode.DEFAULT) -> list[dict
             )
             results = response.json()
             if search_mode == SearchMode.EXACT:
-                results = [entry for entry in results if name == entry["name"]]
+                results = [
+                    entry for entry in results if name == entry["name"] or name.replace(" and ", " & ") == entry["name"]
+                ]
             for entry in results:
                 if "release_dates" in entry:
                     sleep(0.3)

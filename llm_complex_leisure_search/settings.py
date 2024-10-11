@@ -14,6 +14,12 @@ class IGDBSettings(BaseModel):
     client_secret: str = ""
 
 
+class TheMovieDBSettings(BaseModel):
+    """Settings for the TheMovieDB."""
+
+    bearer_token: str = ""
+
+
 class GeminiSettings(BaseModel):
     """Settings for the Gemini API."""
 
@@ -33,6 +39,7 @@ class Settings(BaseSettings):
     igdb: IGDBSettings = IGDBSettings()
     gemini: GeminiSettings = GeminiSettings()
     llm: LLMSettings = LLMSettings()
+    themoviedb: TheMovieDBSettings = TheMovieDBSettings()
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", env_nested_delimiter=".")
 
