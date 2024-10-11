@@ -64,3 +64,13 @@ def split_title_years(answer: str) -> tuple[str, list[str]]:
                 years.append(match.group(0))
         return (title, years)
     return (answer, [])
+
+
+def extract_all_answers(solutions: list) -> list[tuple[str, tuple[str, ...]]]:
+    """Extract all answers from a list of solutions."""
+    result = []
+    for thread in solutions:
+        for result_list in thread["results"]:
+            for entry in result_list:
+                result.append((entry["title"], tuple(entry["qualifiers"])))
+    return result

@@ -15,10 +15,11 @@ from llm_complex_leisure_search.games.data import (
     extract_solved_threads,
 )
 from llm_complex_leisure_search.gemini import generate_multiple_responses
-from llm_complex_leisure_search.util import split_title_years
+from llm_complex_leisure_search.util import extract_all_answers, split_title_years
 
 group = Typer(name="games", help="Commands for game-related processing")
 ANNOTATION_SOURCE_FILES = ["jdoc", "extra"]
+LLM_MODELS = [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]
 
 
 @group.command()
@@ -116,6 +117,20 @@ def aggregate_gpt(source_folder: str, suffix: str) -> None:
 
 
 @group.command()
+def extract_answers() -> None:
+    """Extract all unique answers."""
+    answers = set()
+    for _, prefix in track(LLM_MODELS, description="Extracting answers"):
+        for suffix in ANNOTATION_SOURCE_FILES:
+            with open(os.path.join("data", "games", f"{prefix}_{suffix}.json")) as in_f:
+                answers.update(extract_all_answers(json.load(in_f)))
+    with open(os.path.join("data", "games", "unique-answers.json"), "w") as out_f:
+        json.dump(
+            [{"answer": v, "exists": False, "exists_with_qualifier": False, "popularity": 0} for v in answers], out_f
+        )
+
+
+@group.command()
 def stats() -> None:
     """Summary statistics for the games data-set."""
     console("Games stats\n##########")
@@ -130,7 +145,7 @@ def stats() -> None:
         with open(os.path.join("data", "games", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
         console(f"Solved: {suffix}: {len(tasks)}")
-    for label, prefix in [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]:
+    for label, prefix in LLM_MODELS:
         for suffix in ANNOTATION_SOURCE_FILES:
             with open(os.path.join("data", "games", f"solved_{suffix}.json")) as in_f:
                 tasks = json.load(in_f)
