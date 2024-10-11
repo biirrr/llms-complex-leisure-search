@@ -37,6 +37,10 @@ def ensure_result_format() -> None:
                                 else:
                                     console(f"[red bold] No year information in {entry['title'].keys()}")
                                     return
+                                if "title" in entry["title"]:
+                                    entry["title"] = entry["title"]["title"]
+                                else:
+                                    console(f"[red bold] No title informatio nin {entry['title'].keys()}")
                             if "qualifiers" not in entry:
                                 if "author" in entry:
                                     if entry["author"]:
