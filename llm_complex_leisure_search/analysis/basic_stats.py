@@ -4,6 +4,8 @@ import json
 import os
 from csv import DictReader
 
+import numpy
+
 
 def data_set_summary_stats(domain: str, data_set: str) -> dict:
     """Generate basic summary statistics for a data-set."""
@@ -18,6 +20,28 @@ def data_set_summary_stats(domain: str, data_set: str) -> dict:
         result["human.solved"] = len(json.load(in_f))
     result["human.solved.fraction"] = result["human.solved"] / result["threads.total"]
     return result
+
+
+def llm_summary_stats(domain: str, data_set: str, llm: str) -> dict:
+    """Generate basic summary statistics for a model."""
+    with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+        solved = json.load(in_f)
+    with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+        solutions = json.load(in_f)
+    result_lengths = []
+    for solution in solutions:
+        for result_list in solution["results"]:
+            result_lengths.append(len(result_list))
+    row = {
+        "threads.answered": len(solutions),
+        "threads.answered.fraction": len(solutions) / len(solved),
+        "results.length.min": numpy.min(result_lengths),
+        "results.length.q1": numpy.percentile(result_lengths, 0.25),
+        "results.length.median": numpy.percentile(result_lengths, 0.5),
+        "results.length.q3": numpy.percentile(result_lengths, 0.75),
+        "results.length.max": numpy.max(result_lengths),
+    }
+    return row
 
 
 def llm_solved_at_rank(domain: str, data_set: str, llm: str, rank: int) -> dict:

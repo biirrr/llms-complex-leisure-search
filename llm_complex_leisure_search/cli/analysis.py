@@ -9,7 +9,12 @@ from csv import DictWriter
 from rich.progress import track
 from typer import Typer
 
-from llm_complex_leisure_search.analysis.basic_stats import artifact_counts, data_set_summary_stats, llm_solved_at_rank
+from llm_complex_leisure_search.analysis.basic_stats import (
+    artifact_counts,
+    data_set_summary_stats,
+    llm_solved_at_rank,
+    llm_summary_stats,
+)
 
 group = Typer(name="analysis", help="Commands for data analysis")
 
@@ -31,6 +36,34 @@ def summary_stats() -> None:
                 row = {"domain": domain, "data.set": data_set}
                 row.update(data_set_summary_stats(domain, data_set))
                 writer.writerow(row)
+
+
+@group.command()
+def model_stats() -> None:
+    """Generate model summary statistics."""
+    with open(os.path.join("analysis", "model-summary.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "data.set",
+                "model",
+                "threads.answered",
+                "threads.answered.fraction",
+                "results.length.min",
+                "results.length.q1",
+                "results.length.median",
+                "results.length.q3",
+                "results.length.max",
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating summary stats"):
+            for data_set in DATA_SETS:
+                for model in MODELS:
+                    row = {"domain": domain, "data.set": data_set, "model": model}
+                    row.update(llm_summary_stats(domain, data_set, model))
+                    writer.writerow(row)
 
 
 @group.command()
@@ -85,5 +118,6 @@ def artifact_stats() -> None:
 def all_stats() -> None:
     """Generate all statistics."""
     summary_stats()
+    model_stats()
     recall_stats()
     artifact_stats()
