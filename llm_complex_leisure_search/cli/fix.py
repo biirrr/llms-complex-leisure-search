@@ -62,3 +62,34 @@ def ensure_result_format() -> None:
 
                 with open(os.path.join("data", category, f"{model}_{data_set}.json"), "w") as out_f:
                     json.dump(solutions, out_f)
+
+
+@group.command()
+def ensure_only_valid_threads() -> None:
+    """Ensure no duplicate threads or ignored threads are included."""
+    for category in track(CATEGORIES, description="Applying fixes"):
+        for model in MODELS:
+            for data_set in DATA_SETS:
+                with open(os.path.join("data", category, f"{model}_{data_set}.json")) as in_f:
+                    solutions = json.load(in_f)
+                with open(os.path.join("data", category, f"ignored_{data_set}.txt")) as in_f:
+                    ignored = {line.strip() for line in in_f.readlines()}
+                with open(os.path.join("data", category, f"solved_{data_set}.json")) as in_f:
+                    valid = set()
+                    for task in json.load(in_f):
+                        valid.add(task["thread_id"])
+
+                tmp = []
+                seen_ids = set()
+                for solution in solutions:
+                    if (
+                        solution["thread_id"] not in seen_ids
+                        and solution["thread_id"] not in ignored
+                        and solution["thread_id"] in valid
+                    ):
+                        tmp.append(solution)
+                        seen_ids.add(solution["thread_id"])
+                solutions = tmp
+
+                with open(os.path.join("data", category, f"{model}_{data_set}.json"), "w") as out_f:
+                    json.dump(solutions, out_f)
