@@ -9,7 +9,7 @@ from csv import DictWriter
 from rich.progress import track
 from typer import Typer
 
-from llm_complex_leisure_search.analysis.basic_stats import data_set_summary_stats, llm_solved_at_rank
+from llm_complex_leisure_search.analysis.basic_stats import artifact_counts, data_set_summary_stats, llm_solved_at_rank
 
 group = Typer(name="analysis", help="Commands for data analysis")
 
@@ -39,18 +39,46 @@ def recall_stats() -> None:
     with open(os.path.join("analysis", "recall.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "data.set"]
-            + [f"{llm}.recall.{rank + 1}" for llm in MODELS for rank in range(0, 20)]
-            + [f"{llm}.recall.{rank + 1}.fraction" for llm in MODELS for rank in range(0, 20)],
+            fieldnames=["domain", "data.set", "model"]
+            + [f"recall.{rank + 1}" for llm in MODELS for rank in range(0, 20)]
+            + [f"recall.{rank + 1}.fraction" for llm in MODELS for rank in range(0, 20)],
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating recall stats"):
             for data_set in DATA_SETS:
-                row = {"domain": domain, "data.set": data_set}
                 for model in MODELS:
+                    row = {"domain": domain, "data.set": data_set, "model": model}
                     for rank in range(0, 20):
                         row.update(llm_solved_at_rank(domain, data_set, model, rank))
-                writer.writerow(row)
+                    writer.writerow(row)
+
+
+@group.command()
+def artifact_stats() -> None:
+    """Generate artifact statistics."""
+    with open(os.path.join("analysis", "artifacts.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "data.set",
+                "model",
+                "generated.total",
+                "generated.existing",
+                "generated.existing.fraction",
+                "generated.existing.exact",
+                "generated.existing.exact.fraction",
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating artifact stats"):
+            if domain == "books":
+                continue
+            for data_set in DATA_SETS:
+                for model in MODELS:
+                    row = {"domain": domain, "data.set": data_set, "model": model}
+                    row.update(artifact_counts(domain, data_set, model))
+                    writer.writerow(row)
 
 
 @group.command()
@@ -58,3 +86,4 @@ def all_stats() -> None:
     """Generate all statistics."""
     summary_stats()
     recall_stats()
+    artifact_stats()
