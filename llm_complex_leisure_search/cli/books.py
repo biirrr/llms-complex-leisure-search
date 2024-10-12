@@ -7,7 +7,6 @@ import json
 import os
 from csv import DictReader
 
-from rich import print as console
 from rich.progress import track
 from typer import Typer
 
@@ -141,59 +140,3 @@ def extract_answers() -> None:
             result.append({"answer": answer, "exists": False, "exists_with_qualifier": False, "popularity": 0})
     with open(os.path.join("data", "books", "unique-answers.json"), "w") as out_f:
         json.dump(result, out_f)
-
-
-@group.command()
-def stats() -> None:
-    """Summary statistics for the books data-set."""
-    console("Book stats\n##########")
-    for suffix in ANNOTATION_SOURCE_FILES:
-        thread_ids = set()
-        with open(os.path.join("data", "books", f"posts_{suffix}.csv")) as in_f:
-            reader = DictReader(in_f)
-            for record in reader:
-                thread_ids.add(record["thread_id"])
-        console(f"Total threads: {suffix}: {len(thread_ids)}")
-    for suffix in ANNOTATION_SOURCE_FILES:
-        with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
-            tasks = json.load(in_f)
-        console(f"Solved: {suffix}: {len(tasks)}")
-    for label, prefix in [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]:
-        for suffix in ANNOTATION_SOURCE_FILES:
-            with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
-                tasks = json.load(in_f)
-            with open(os.path.join("data", "books", f"{prefix}_{suffix}.json")) as in_f:
-                llm_tasks = json.load(in_f)
-                llm_solution = 0
-                llm_solved = 0
-                llm_solution_ranks = []
-                for llm_task in llm_tasks:
-                    found = False
-                    for task in tasks:
-                        if task["thread_id"] == llm_task["thread_id"]:
-                            found = True
-                            break
-                    if found:
-                        if len(llm_task["results"]) > 0:
-                            llm_solution = llm_solution + 1
-                        for result_list in llm_task["results"]:
-                            if result_list[0]["title"] == task["title"]:
-                                llm_solved = llm_solved + 1
-                                break
-                        llm_solution_rank = None
-                        for result_list in llm_task["results"]:
-                            for idx, result in enumerate(result_list):
-                                if result["title"] == task["title"]:
-                                    if llm_solution_rank is None:
-                                        llm_solution_rank = idx
-                                    else:
-                                        llm_solution_rank = min(llm_solution_rank, idx)
-                        if llm_solution_rank is not None:
-                            llm_solution_ranks.append(llm_solution_rank)
-                console(f"{label} Solution: {suffix}: {llm_solution} ({llm_solution / len(tasks):.2f})")
-                console(f"{label} Solved: {suffix}: {llm_solved} ({llm_solved / len(tasks):.2f})")
-                console(
-                    f"{label} Found: {suffix}: {len(llm_solution_ranks)} ({len(llm_solution_ranks) / len(tasks):.2f})"
-                )
-                if (len(llm_solution_ranks)) > 0:
-                    console(f"{label} Average Rank: {suffix}: {sum(llm_solution_ranks) / len(llm_solution_ranks)}")
