@@ -14,10 +14,23 @@ class IGDBSettings(BaseModel):
     client_secret: str = ""
 
 
+class TheMovieDBSettings(BaseModel):
+    """Settings for the TheMovieDB."""
+
+    bearer_token: str = ""
+
+
 class GeminiSettings(BaseModel):
     """Settings for the Gemini API."""
 
     api_key: str = ""
+
+
+class LLMSettings(BaseModel):
+    """General settings for all LLMs."""
+
+    retest_target: int = 3
+    max_attempts: int = 10
 
 
 class Settings(BaseSettings):
@@ -25,6 +38,8 @@ class Settings(BaseSettings):
 
     igdb: IGDBSettings = IGDBSettings()
     gemini: GeminiSettings = GeminiSettings()
+    llm: LLMSettings = LLMSettings()
+    themoviedb: TheMovieDBSettings = TheMovieDBSettings()
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", env_nested_delimiter=".")
 
