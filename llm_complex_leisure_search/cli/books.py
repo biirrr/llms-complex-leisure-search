@@ -16,7 +16,7 @@ from llm_complex_leisure_search.books.data import (
 from llm_complex_leisure_search.gemini import generate_multiple_responses as gemini_generate
 from llm_complex_leisure_search.llms.llama import generate_multiple_responses as llama_generate
 from llm_complex_leisure_search.settings import settings
-from llm_complex_leisure_search.util import extract_all_answers, split_book_title_by_author
+from llm_complex_leisure_search.util import split_book_title_by_author
 
 group = Typer(name="books", help="Commands for book-related processing")
 ANNOTATION_SOURCE_FILES = ["jdoc", "extra"]
@@ -160,30 +160,3 @@ def aggregate_gpt(source_folder: str, model: str, data_set: str) -> None:
 
     with open(os.path.join("data", "books", f"{model}_{data_set}.json"), "w") as out_f:
         json.dump(results, out_f)
-
-
-@group.command()
-def extract_answers() -> None:
-    """Extract all unique answers."""
-    answers = set()
-    for _, prefix in track(LLM_MODELS, description="Extracting answers"):
-        for suffix in ANNOTATION_SOURCE_FILES:
-            with open(os.path.join("data", "books", f"{prefix}_{suffix}.json")) as in_f:
-                answers.update(extract_all_answers(json.load(in_f)))
-    if os.path.exists(os.path.join("data", "books", "unique-answers.json")):
-        with open(os.path.join("data", "books", "unique-answers.json")) as in_f:
-            data = json.load(in_f)
-    else:
-        data = []
-    result = []
-    for answer in track(answers, description="Merging answers"):
-        found = False
-        for old_answer in data:
-            answer_tuple = (old_answer["answer"][0], tuple(old_answer["answer"][1]))
-            if answer_tuple == answer:
-                result.append(old_answer)
-                found = True
-        if not found:
-            result.append({"answer": answer, "exists": False, "exists_with_qualifier": False, "popularity": 0})
-    with open(os.path.join("data", "books", "unique-answers.json"), "w") as out_f:
-        json.dump(result, out_f)

@@ -17,7 +17,7 @@ from llm_complex_leisure_search.movies.data import (
     extract_solved_threads,
 )
 from llm_complex_leisure_search.movies.themoviedb import SearchMode, search
-from llm_complex_leisure_search.util import extract_all_answers, split_title_years
+from llm_complex_leisure_search.util import split_title_years
 
 group = Typer(name="movies", help="Commands for movie-related processing")
 ANNOTATION_SOURCE_FILES = ["jdoc", "extra"]
@@ -116,33 +116,6 @@ def aggregate_gpt(source_folder: str, model: str, data_set: str) -> None:
 
     with open(os.path.join("data", "movies", f"{model}_{data_set}.json"), "w") as out_f:
         json.dump(results, out_f)
-
-
-@group.command()
-def extract_answers() -> None:
-    """Extract all unique answers."""
-    answers = set()
-    for _, prefix in track(LLM_MODELS, description="Extracting answers"):
-        for suffix in ANNOTATION_SOURCE_FILES:
-            with open(os.path.join("data", "movies", f"{prefix}_{suffix}.json")) as in_f:
-                answers.update(extract_all_answers(json.load(in_f)))
-    if os.path.exists(os.path.join("data", "movies", "unique-answers.json")):
-        with open(os.path.join("data", "movies", "unique-answers.json")) as in_f:
-            data = json.load(in_f)
-    else:
-        data = []
-    result = []
-    for answer in track(answers, description="Merging answers"):
-        found = False
-        for old_answer in data:
-            answer_tuple = (old_answer["answer"][0], tuple(old_answer["answer"][1]))
-            if answer_tuple == answer:
-                result.append(old_answer)
-                found = True
-        if not found:
-            result.append({"answer": answer, "exists": False, "exists_with_qualifier": False, "popularity": 0})
-    with open(os.path.join("data", "movies", "unique-answers.json"), "w") as out_f:
-        json.dump(result, out_f)
 
 
 @group.command()

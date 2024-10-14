@@ -16,12 +16,9 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     llm_solved_at_rank,
     llm_summary_stats,
 )
+from llm_complex_leisure_search.constants import DATA_SETS, DOMAINS, LLMS
 
 group = Typer(name="analysis", help="Commands for data analysis")
-
-DOMAINS = ["books", "games", "movies"]
-MODELS = ["gemini", "gpt-3_5", "gpt-4o-mini", "llama"]
-DATA_SETS = ["extra", "jdoc"]
 
 
 @group.command()
@@ -40,15 +37,15 @@ def summary_stats() -> None:
 
 
 @group.command()
-def model_stats() -> None:
-    """Generate model summary statistics."""
-    with open(os.path.join("analysis", "model-summary.csv"), "w") as out_f:
+def llm_stats() -> None:
+    """Generate llm summary statistics."""
+    with open(os.path.join("analysis", "llm-summary.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
             fieldnames=[
                 "domain",
                 "data.set",
-                "model",
+                "llm",
                 "threads.answered",
                 "threads.answered.fraction",
                 "results.length.min",
@@ -61,10 +58,10 @@ def model_stats() -> None:
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating summary stats"):
             for data_set in DATA_SETS:
-                for model in MODELS:
+                for llm in LLMS:
                     try:
-                        row = {"domain": domain, "data.set": data_set, "model": model}
-                        row.update(llm_summary_stats(domain, data_set, model))
+                        row = {"domain": domain, "data.set": data_set, "llm": llm}
+                        row.update(llm_summary_stats(domain, data_set, llm))
                         writer.writerow(row)
                     except FileNotFoundError as e:
                         console(e)
@@ -76,18 +73,18 @@ def recall_stats() -> None:
     with open(os.path.join("analysis", "recall.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "data.set", "model"]
+            fieldnames=["domain", "data.set", "llm"]
             + [f"recall.{rank + 1}" for rank in range(0, 20)]
             + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating recall stats"):
             for data_set in DATA_SETS:
-                for model in MODELS:
+                for llm in LLMS:
                     try:
-                        row = {"domain": domain, "data.set": data_set, "model": model}
+                        row = {"domain": domain, "data.set": data_set, "llm": llm}
                         for rank in range(0, 20):
-                            row.update(llm_solved_at_rank(domain, data_set, model, rank))
+                            row.update(llm_solved_at_rank(domain, data_set, llm, rank))
                         writer.writerow(row)
                     except KeyError as e:
                         console(f"{e} not found")
@@ -104,7 +101,7 @@ def artifact_stats() -> None:
             fieldnames=[
                 "domain",
                 "data.set",
-                "model",
+                "llm",
                 "generated.total",
                 "generated.existing",
                 "generated.existing.fraction",
@@ -117,10 +114,10 @@ def artifact_stats() -> None:
             if domain == "books":
                 continue
             for data_set in DATA_SETS:
-                for model in MODELS:
+                for llm in LLMS:
                     try:
-                        row = {"domain": domain, "data.set": data_set, "model": model}
-                        row.update(artifact_counts(domain, data_set, model))
+                        row = {"domain": domain, "data.set": data_set, "llm": llm}
+                        row.update(artifact_counts(domain, data_set, llm))
                         writer.writerow(row)
                     except KeyError as e:
                         console(f"{e} not found")
@@ -132,6 +129,6 @@ def artifact_stats() -> None:
 def all_stats() -> None:
     """Generate all statistics."""
     summary_stats()
-    model_stats()
+    llm_stats()
     recall_stats()
     artifact_stats()
