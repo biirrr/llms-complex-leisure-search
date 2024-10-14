@@ -20,7 +20,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
 group = Typer(name="analysis", help="Commands for data analysis")
 
 DOMAINS = ["books", "games", "movies"]
-MODELS = ["gemini", "gpt-4o-mini", "llama"]
+MODELS = ["gemini", "gpt-3_5", "gpt-4o-mini", "llama"]
 DATA_SETS = ["extra", "jdoc"]
 
 

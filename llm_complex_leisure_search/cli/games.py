@@ -84,9 +84,9 @@ def query_gemini() -> None:
 
 
 @group.command()
-def aggregate_gpt(source_folder: str, suffix: str) -> None:
-    """Aggregate the GPT 4o Mini files."""
-    with open(os.path.join("data", "movies", f"ignored_{suffix}.txt")) as in_f:
+def aggregate_gpt(source_folder: str, model: str, data_set: str) -> None:
+    """Aggregate the GPT files."""
+    with open(os.path.join("data", "movies", f"ignored_{data_set}.txt")) as in_f:
         ignored = [thread_id.strip() for thread_id in in_f.readlines() if thread_id.strip()]
     tasks = {}
     for filename in os.listdir(source_folder):
@@ -114,7 +114,7 @@ def aggregate_gpt(source_folder: str, suffix: str) -> None:
                 entry["title"] = title
                 entry["qualifiers"] = years
 
-    with open(os.path.join("data", "games", f"gpt-4o-mini_{suffix}.json"), "w") as out_f:
+    with open(os.path.join("data", "games", f"{model}_{data_set}.json"), "w") as out_f:
         json.dump(results, out_f)
 
 

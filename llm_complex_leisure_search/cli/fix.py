@@ -13,7 +13,7 @@ from typer import Typer
 group = Typer(name="fix", help="Commands for data fixes")
 
 CATEGORIES = ["books", "games", "movies"]
-MODELS = ["gemini", "gpt-4o-mini", "llama"]
+MODELS = ["gemini", "gpt-3_5", "gpt-4o-mini", "llama"]
 DATA_SETS = ["extra", "jdoc"]
 
 
