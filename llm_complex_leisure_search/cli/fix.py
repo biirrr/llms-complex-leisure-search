@@ -10,20 +10,21 @@ from rich import print as console
 from rich.progress import track
 from typer import Typer
 
-group = Typer(name="fix", help="Commands for data fixes")
+from llm_complex_leisure_search.constants import DATA_SETS, DOMAINS, LLMS
+from llm_complex_leisure_search.util import split_book_title_by_author
 
-CATEGORIES = ["books", "games", "movies"]
-MODELS = ["gemini", "gpt-3_5", "gpt-4o-mini", "llama"]
-DATA_SETS = ["extra", "jdoc"]
+group = Typer(name="fix", help="Commands for data fixes")
 
 
 @group.command()
 def ensure_result_format() -> None:
     """Ensure all result files are in the correct format."""
-    for category in track(CATEGORIES, description="Applying fixes"):
-        for model in MODELS:
+    for domain in track(DOMAINS, description="Applying fixes"):
+        for llm in LLMS:
             for data_set in DATA_SETS:
-                with open(os.path.join("data", category, f"{model}_{data_set}.json")) as in_f:
+                if not os.path.exists(os.path.join("data", domain, f"{llm}_{data_set}.json")):
+                    continue
+                with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
                     solutions = json.load(in_f)
 
                 for solution in solutions:
@@ -41,6 +42,8 @@ def ensure_result_format() -> None:
                                     entry["title"] = entry["answer"]["Title"]
                                 elif "bookTitle" in entry["answer"]:
                                     entry["title"] = entry["answer"]["bookTitle"]
+                                elif "answer" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["answer"]
                                 if "Author" in entry["answer"]:
                                     entry["qualifiers"] = entry["answer"]["Author"]
                                 elif "author" in entry["answer"]:
@@ -74,6 +77,10 @@ def ensure_result_format() -> None:
                                     else:
                                         entry["qualifiers"] = []
                                     del entry["author"]
+                                if " by " in entry["title"]:
+                                    title, author = split_book_title_by_author(entry["title"])
+                                    entry["title"] = title
+                                    entry["qualifiers"] = [author]
                             if isinstance(entry["qualifiers"], int):
                                 entry["qualifiers"] = [str(entry["qualifiers"])]
                             elif isinstance(entry["qualifiers"], str):
@@ -86,21 +93,23 @@ def ensure_result_format() -> None:
                                 )
                                 return
 
-                with open(os.path.join("data", category, f"{model}_{data_set}.json"), "w") as out_f:
+                with open(os.path.join("data", domain, f"{llm}_{data_set}.json"), "w") as out_f:
                     json.dump(solutions, out_f)
 
 
 @group.command()
 def ensure_only_valid_threads() -> None:
     """Ensure no duplicate threads or ignored threads are included."""
-    for category in track(CATEGORIES, description="Applying fixes"):
-        for model in MODELS:
+    for domain in track(DOMAINS, description="Applying fixes"):
+        for llm in LLMS:
             for data_set in DATA_SETS:
-                with open(os.path.join("data", category, f"{model}_{data_set}.json")) as in_f:
+                if not os.path.exists(os.path.join("data", domain, f"{llm}_{data_set}.json")):
+                    continue
+                with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
                     solutions = json.load(in_f)
-                with open(os.path.join("data", category, f"ignored_{data_set}.txt")) as in_f:
+                with open(os.path.join("data", domain, f"ignored_{data_set}.txt")) as in_f:
                     ignored = {line.strip() for line in in_f.readlines()}
-                with open(os.path.join("data", category, f"solved_{data_set}.json")) as in_f:
+                with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
                     valid = set()
                     for task in json.load(in_f):
                         valid.add(task["thread_id"])
@@ -117,5 +126,12 @@ def ensure_only_valid_threads() -> None:
                         seen_ids.add(solution["thread_id"])
                 solutions = tmp
 
-                with open(os.path.join("data", category, f"{model}_{data_set}.json"), "w") as out_f:
+                with open(os.path.join("data", domain, f"{llm}_{data_set}.json"), "w") as out_f:
                     json.dump(solutions, out_f)
+
+
+@group.command()
+def everything() -> None:
+    """Apply all fixes."""
+    ensure_only_valid_threads()
+    ensure_result_format()
