@@ -85,12 +85,12 @@ def query_llama() -> None:
     for suffix in ANNOTATION_SOURCE_FILES:
         with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
             tasks = json.load(in_f)
-        if os.path.exists(os.path.join("data", "books", f"llama_{suffix}.json")):
-            with open(os.path.join("data", "books", f"llama_{suffix}.json")) as in_f:
+        if os.path.exists(os.path.join("data", "books", f"llama-3-2_{suffix}.json")):
+            with open(os.path.join("data", "books", f"llama-3-2_{suffix}.json")) as in_f:
                 results = json.load(in_f)
         else:
             results = []
-        for task in track(tasks, description=f"Querying Llama ({suffix})"):
+        for task in track(tasks, description=f"Querying Llama 3.2 ({suffix})"):
             # Check if the task has already been processed
             exists = False
             for result in results:
@@ -120,7 +120,7 @@ def query_llama() -> None:
                             else:
                                 entry["qualifiers"] = []
             results.append(result)
-            with open(os.path.join("data", "books", f"llama_{suffix}.json"), "w") as out_f:
+            with open(os.path.join("data", "books", f"llama-3-2_{suffix}.json"), "w") as out_f:
                 json.dump(results, out_f)
 
 

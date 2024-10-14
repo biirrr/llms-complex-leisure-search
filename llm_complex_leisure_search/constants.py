@@ -4,5 +4,5 @@
 """Application-wide constants."""
 
 DOMAINS = ["books", "games", "movies"]
-LLMS = ["gemini", "gpt-3_5", "gpt-4o-mini", "llama"]
+LLMS = ["gemini", "gpt-3-5", "gpt-4o-mini", "llama-3-2"]
 DATA_SETS = ["extra", "jdoc"]
