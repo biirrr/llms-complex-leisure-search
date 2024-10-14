@@ -36,9 +36,9 @@ def llm_summary_stats(domain: str, data_set: str, llm: str) -> dict:
         "threads.answered": len(solutions),
         "threads.answered.fraction": len(solutions) / len(solved),
         "results.length.min": numpy.min(result_lengths),
-        "results.length.q1": numpy.percentile(result_lengths, 0.25),
-        "results.length.median": numpy.percentile(result_lengths, 0.5),
-        "results.length.q3": numpy.percentile(result_lengths, 0.75),
+        "results.length.q1": numpy.percentile(result_lengths, 25),
+        "results.length.median": numpy.percentile(result_lengths, 50),
+        "results.length.q3": numpy.percentile(result_lengths, 75),
         "results.length.max": numpy.max(result_lengths),
     }
     return row

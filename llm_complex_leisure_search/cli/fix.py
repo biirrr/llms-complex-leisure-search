@@ -13,7 +13,7 @@ from typer import Typer
 group = Typer(name="fix", help="Commands for data fixes")
 
 CATEGORIES = ["books", "games", "movies"]
-MODELS = ["gemini", "gpt-4o-mini"]
+MODELS = ["gemini", "gpt-4o-mini", "llama"]
 DATA_SETS = ["extra", "jdoc"]
 
 
@@ -27,8 +27,34 @@ def ensure_result_format() -> None:
                     solutions = json.load(in_f)
 
                 for solution in solutions:
+                    results = []
+                    for result_set in solution["results"]:
+                        results.append([entry for entry in result_set if entry["answer"]])
+                    solution["results"] = results
                     for result_set in solution["results"]:
                         for entry in result_set:
+                            if "title" not in entry and isinstance(entry["answer"], list):
+                                entry["title"] = entry["answer"][0]
+                                entry["qualifiers"] = entry["answer"][1:]
+                            elif "title" not in entry and isinstance(entry["answer"], dict):
+                                if "Title" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["Title"]
+                                elif "bookTitle" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["bookTitle"]
+                                if "Author" in entry["answer"]:
+                                    entry["qualifiers"] = entry["answer"]["Author"]
+                                elif "author" in entry["answer"]:
+                                    entry["qualifiers"] = [entry["answer"]["author"]]
+                                if len(entry["answer"]) == 1:
+                                    if list(entry["answer"].values())[0].startswith("by "):  # noqa: RUF015
+                                        entry["title"] = list(entry["answer"].keys())[0]  # noqa: RUF015
+                                        entry["qualifiers"] = [list(entry["answer"].values())[0][3:]]  # noqa: RUF015
+                                    else:
+                                        entry["title"] = list(entry["answer"].keys())[0]  # noqa: RUF015
+                                        entry["qualifiers"] = [list(entry["answer"].values())[0]]  # noqa: RUF015
+                            # if "title" not in entry:
+                            #     print(entry)
+                            #     return
                             if isinstance(entry["title"], dict):
                                 if "year" in entry["title"]:
                                     entry["qualifiers"] = entry["title"]["year"]

@@ -6,6 +6,7 @@
 import os
 from csv import DictWriter
 
+from rich import print as console
 from rich.progress import track
 from typer import Typer
 
@@ -19,7 +20,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
 group = Typer(name="analysis", help="Commands for data analysis")
 
 DOMAINS = ["books", "games", "movies"]
-MODELS = ["gemini", "gpt-4o-mini"]
+MODELS = ["gemini", "gpt-4o-mini", "llama"]
 DATA_SETS = ["extra", "jdoc"]
 
 
@@ -61,9 +62,12 @@ def model_stats() -> None:
         for domain in track(DOMAINS, description="Generating summary stats"):
             for data_set in DATA_SETS:
                 for model in MODELS:
-                    row = {"domain": domain, "data.set": data_set, "model": model}
-                    row.update(llm_summary_stats(domain, data_set, model))
-                    writer.writerow(row)
+                    try:
+                        row = {"domain": domain, "data.set": data_set, "model": model}
+                        row.update(llm_summary_stats(domain, data_set, model))
+                        writer.writerow(row)
+                    except FileNotFoundError as e:
+                        console(e)
 
 
 @group.command()
@@ -73,17 +77,22 @@ def recall_stats() -> None:
         writer = DictWriter(
             out_f,
             fieldnames=["domain", "data.set", "model"]
-            + [f"recall.{rank + 1}" for llm in MODELS for rank in range(0, 20)]
-            + [f"recall.{rank + 1}.fraction" for llm in MODELS for rank in range(0, 20)],
+            + [f"recall.{rank + 1}" for rank in range(0, 20)]
+            + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating recall stats"):
             for data_set in DATA_SETS:
                 for model in MODELS:
-                    row = {"domain": domain, "data.set": data_set, "model": model}
-                    for rank in range(0, 20):
-                        row.update(llm_solved_at_rank(domain, data_set, model, rank))
-                    writer.writerow(row)
+                    try:
+                        row = {"domain": domain, "data.set": data_set, "model": model}
+                        for rank in range(0, 20):
+                            row.update(llm_solved_at_rank(domain, data_set, model, rank))
+                        writer.writerow(row)
+                    except KeyError as e:
+                        console(f"{e} not found")
+                    except FileNotFoundError as e:
+                        console(e)
 
 
 @group.command()
@@ -109,9 +118,14 @@ def artifact_stats() -> None:
                 continue
             for data_set in DATA_SETS:
                 for model in MODELS:
-                    row = {"domain": domain, "data.set": data_set, "model": model}
-                    row.update(artifact_counts(domain, data_set, model))
-                    writer.writerow(row)
+                    try:
+                        row = {"domain": domain, "data.set": data_set, "model": model}
+                        row.update(artifact_counts(domain, data_set, model))
+                        writer.writerow(row)
+                    except KeyError as e:
+                        console(f"{e} not found")
+                    except FileNotFoundError as e:
+                        console(e)
 
 
 @group.command()

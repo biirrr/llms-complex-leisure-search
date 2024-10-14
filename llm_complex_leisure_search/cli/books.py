@@ -13,7 +13,9 @@ from typer import Typer
 from llm_complex_leisure_search.books.data import (
     extract_solved_threads,
 )
-from llm_complex_leisure_search.gemini import generate_multiple_responses
+from llm_complex_leisure_search.gemini import generate_multiple_responses as gemini_generate
+from llm_complex_leisure_search.llms.llama import generate_multiple_responses as llama_generate
+from llm_complex_leisure_search.settings import settings
 from llm_complex_leisure_search.util import extract_all_answers, split_book_title_by_author
 
 group = Typer(name="books", help="Commands for book-related processing")
@@ -57,24 +59,69 @@ def query_gemini() -> None:
             # Check if the task has already been processed
             exists = False
             for result in results:
-                if result["thread_id"] == task["thread_id"]:
+                if result["thread_id"] == task["thread_id"] and len(result["results"]) >= settings.llm.retest_target:
                     exists = True
                     break
             if exists:
                 continue
             result = {
                 "thread_id": task["thread_id"],
-                "results": generate_multiple_responses(task["prompt"]),
+                "results": gemini_generate(task["prompt"]),
             }
             for attempt in result["results"]:
                 if attempt is not None:
                     for entry in attempt:
                         title, author = split_book_title_by_author(entry["answer"])
                         entry["title"] = title
-                        entry["author"] = author
+                        entry["qualifiers"] = [author]
             results.append(result)
         with open(os.path.join("data", "books", f"gemini_{suffix}.json"), "w") as out_f:
             json.dump(results, out_f)
+
+
+@group.command()
+def query_llama() -> None:
+    """Process the books with Llama."""
+    for suffix in ANNOTATION_SOURCE_FILES:
+        with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
+            tasks = json.load(in_f)
+        if os.path.exists(os.path.join("data", "books", f"llama_{suffix}.json")):
+            with open(os.path.join("data", "books", f"llama_{suffix}.json")) as in_f:
+                results = json.load(in_f)
+        else:
+            results = []
+        for task in track(tasks, description=f"Querying Llama ({suffix})"):
+            # Check if the task has already been processed
+            exists = False
+            for result in results:
+                if result["thread_id"] == task["thread_id"] and len(result["results"]) >= settings.llm.retest_target:
+                    exists = True
+                    break
+            if exists:
+                continue
+            result = {
+                "thread_id": task["thread_id"],
+                "results": llama_generate(task["prompt"]),
+            }
+            for attempt in result["results"]:
+                if attempt is not None:
+                    for entry in attempt:
+                        if isinstance(entry["answer"], dict) and "title" in entry["answer"]:
+                            entry["title"] = entry["answer"]["title"]
+                            if "author" in entry["answer"] and entry["answer"]["author"] is not None:
+                                entry["qualifiers"] = [entry["answer"]["author"]]
+                            else:
+                                entry["qualifiers"] = []
+                        elif isinstance(entry["answer"], str):
+                            title, author = split_book_title_by_author(entry["answer"])
+                            entry["title"] = title
+                            if author is not None:
+                                entry["qualifiers"] = [author]
+                            else:
+                                entry["qualifiers"] = []
+            results.append(result)
+            with open(os.path.join("data", "books", f"llama_{suffix}.json"), "w") as out_f:
+                json.dump(results, out_f)
 
 
 @group.command()
