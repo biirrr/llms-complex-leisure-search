@@ -44,18 +44,39 @@ def ensure_result_format() -> None:
                                     entry["title"] = entry["answer"]["bookTitle"]
                                 elif "answer" in entry["answer"]:
                                     entry["title"] = entry["answer"]["answer"]
+                                elif "name" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["name"]
+                                elif "text" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["text"]
+                                elif "game" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["game"]
+                                elif "suggestion" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["suggestion"]
+                                elif "question" in entry["answer"]:
+                                    entry["title"] = entry["answer"]["question"]
+                                elif isinstance(entry["answer"], dict):
+                                    entry["title"] = next(iter(entry["answer"].keys()))
                                 if "Author" in entry["answer"]:
                                     entry["qualifiers"] = entry["answer"]["Author"]
                                 elif "author" in entry["answer"]:
                                     entry["qualifiers"] = [entry["answer"]["author"]]
-                                if len(entry["answer"]) == 1:
-                                    if list(entry["answer"].values())[0].startswith("by "):  # noqa: RUF015
-                                        entry["title"] = list(entry["answer"].keys())[0]  # noqa: RUF015
-                                        entry["qualifiers"] = [list(entry["answer"].values())[0][3:]]  # noqa: RUF015
-                                    else:
-                                        entry["title"] = list(entry["answer"].keys())[0]  # noqa: RUF015
-                                        entry["qualifiers"] = [list(entry["answer"].values())[0]]  # noqa: RUF015
+                                elif "year" in entry["answer"]:
+                                    entry["qualifiers"] = [entry["answer"]["year"]]
+                                elif "release_year" in entry["answer"]:
+                                    entry["qualifiers"] = [entry["answer"]["release_year"]]
+                                elif "releaseYear" in entry["answer"]:
+                                    entry["qualifiers"] = [entry["answer"]["releaseYear"]]
+                                elif "release year" in entry["answer"]:
+                                    entry["qualifiers"] = [entry["answer"]["release year"]]
+                                elif isinstance(entry["answer"], dict):
+                                    entry["qualifiers"] = next(iter(entry["answer"].values()))
+                            #     else:
+                            #         print(entry)
+                            #         entry["qualifiers"] = []
                             # if "title" not in entry:
+                            #     print(entry)
+                            #     return
+                            # if "qualifiers" not in entry:
                             #     print(entry)
                             #     return
                             if isinstance(entry["title"], dict):
