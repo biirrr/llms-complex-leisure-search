@@ -114,8 +114,8 @@ def query_llama() -> None:
                     for entry in attempt:
                         if isinstance(entry["answer"], dict) and "title" in entry["answer"]:
                             entry["title"] = entry["answer"]["title"]
-                            if "author" in entry["answer"] and entry["answer"]["author"] is not None:
-                                entry["qualifiers"] = [entry["answer"]["author"]]
+                            if "year" in entry["answer"] and entry["answer"]["year"] is not None:
+                                entry["qualifiers"] = [entry["answer"]["year"]]
                             else:
                                 entry["qualifiers"] = []
                         elif isinstance(entry["answer"], str):
