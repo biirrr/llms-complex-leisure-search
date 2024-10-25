@@ -45,7 +45,7 @@ def llm_summary_stats(domain: str, data_set: str, llm: str) -> dict:
 
 
 def llm_solved_at_rank(domain: str, data_set: str, llm: str, rank: int) -> dict:
-    """Calculate how many solved tasks at a given rank in the results."""
+    """Calculate how many solved tasks at a given rank in any one of the three result lists."""
     with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
         solved = json.load(in_f)
     with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
@@ -62,6 +62,24 @@ def llm_solved_at_rank(domain: str, data_set: str, llm: str, rank: int) -> dict:
                 if found:
                     total_found += 1
     result = {f"recall.{rank + 1}": total_found, f"recall.{rank + 1}.fraction": total_found / len(solved)}
+    return result
+
+
+def llm_solved_at_rank_single(domain: str, data_set: str, llm: str, rank: int) -> dict:
+    """Calculate how many solved tasks at a given rank in each of the result lists."""
+    with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+        solved = json.load(in_f)
+    with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+        solutions = json.load(in_f)
+    total_found = 0
+    for task in solved:
+        for solution in solutions:
+            if task["thread_id"] == solution["thread_id"]:
+                for result_list in solution["results"]:
+                    for entry in result_list[: rank + 1]:
+                        if task["title"] == entry["title"]:
+                            total_found += 1
+    result = {f"recall.{rank + 1}": total_found, f"recall.{rank + 1}.fraction": total_found / (len(solved) * 3)}
     return result
 
 

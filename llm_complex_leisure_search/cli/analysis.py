@@ -14,6 +14,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     artifact_counts,
     data_set_summary_stats,
     llm_solved_at_rank,
+    llm_solved_at_rank_single,
     llm_summary_stats,
 )
 from llm_complex_leisure_search.constants import DATA_SETS, DOMAINS, LLMS
@@ -78,13 +79,33 @@ def recall_stats() -> None:
             + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
-        for domain in track(DOMAINS, description="Generating recall stats"):
+        for domain in track(DOMAINS, description="Generating any request recall stats"):
             for data_set in DATA_SETS:
                 for llm in LLMS:
                     try:
                         row = {"domain": domain, "data.set": data_set, "llm": llm}
                         for rank in range(0, 20):
                             row.update(llm_solved_at_rank(domain, data_set, llm, rank))
+                        writer.writerow(row)
+                    except KeyError as e:
+                        console(f"{e} not found")
+                    except FileNotFoundError as e:
+                        console(e)
+    with open(os.path.join("analysis", "recall-single.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=["domain", "data.set", "llm"]
+            + [f"recall.{rank + 1}" for rank in range(0, 20)]
+            + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating single request recall stats"):
+            for data_set in DATA_SETS:
+                for llm in LLMS:
+                    try:
+                        row = {"domain": domain, "data.set": data_set, "llm": llm}
+                        for rank in range(0, 20):
+                            row.update(llm_solved_at_rank_single(domain, data_set, llm, rank))
                         writer.writerow(row)
                     except KeyError as e:
                         console(f"{e} not found")
