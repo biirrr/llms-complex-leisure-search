@@ -64,17 +64,17 @@ def llm_stats() -> None:
 
 
 @group.command()
-def recall_stats() -> None:
-    """Generate recall statistics."""
-    with open(os.path.join("analysis", "recall-best.csv"), "w") as out_f:
+def solved_stats() -> None:
+    """Generate solved statistics."""
+    with open(os.path.join("analysis", "solved-best.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
             fieldnames=["domain", "llm"]
-            + [f"recall.{rank + 1}" for rank in range(0, 20)]
-            + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
+            + [f"solved.{rank + 1}" for rank in range(0, 20)]
+            + [f"solved.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
-        for domain in track(DOMAINS, description="Generating any request recall stats"):
+        for domain in track(DOMAINS, description="Generating best solved stats"):
             for llm in LLMS:
                 try:
                     row = {"domain": domain, "llm": llm}
@@ -85,15 +85,15 @@ def recall_stats() -> None:
                     console(f"{e} not found")
                 except FileNotFoundError as e:
                     console(e)
-    with open(os.path.join("analysis", "recall-average.csv"), "w") as out_f:
+    with open(os.path.join("analysis", "solved.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
             fieldnames=["domain", "llm"]
-            + [f"recall.{rank + 1}" for rank in range(0, 20)]
-            + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
+            + [f"solved.{rank + 1}" for rank in range(0, 20)]
+            + [f"solved.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
-        for domain in track(DOMAINS, description="Generating single request recall stats"):
+        for domain in track(DOMAINS, description="Generating solved stats"):
             for llm in LLMS:
                 try:
                     row = {"domain": domain, "llm": llm}
@@ -142,5 +142,5 @@ def all_stats() -> None:
     """Generate all statistics."""
     summary_stats()
     llm_stats()
-    recall_stats()
+    solved_stats()
     artifact_stats()

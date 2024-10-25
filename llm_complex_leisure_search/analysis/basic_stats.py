@@ -73,7 +73,7 @@ def llm_solved_at_rank(domain: str, llm: str, rank: int) -> dict:
                             found = True
                 if found:
                     total_found += 1
-    result = {f"recall.{rank + 1}": total_found, f"recall.{rank + 1}.fraction": total_found / len(solved)}
+    result = {f"solved.{rank + 1}": total_found, f"solved.{rank + 1}.fraction": total_found / len(solved)}
     return result
 
 
@@ -95,7 +95,7 @@ def llm_solved_at_rank_single(domain: str, llm: str, rank: int) -> dict:
                         if task["title"] == entry["title"]:
                             total_found += 1
                             break
-    result = {f"recall.{rank + 1}": total_found, f"recall.{rank + 1}.fraction": total_found / (len(solved) * 3)}
+    result = {f"solved.{rank + 1}": total_found, f"solved.{rank + 1}.fraction": total_found / (len(solved) * 3)}
     return result
 
 
