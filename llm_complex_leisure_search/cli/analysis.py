@@ -172,3 +172,4 @@ def all_stats() -> None:
     llm_stats()
     solved_stats()
     artifact_stats()
+    duplicate_stats()
