@@ -17,7 +17,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     llm_solved_at_rank_single,
     llm_summary_stats,
 )
-from llm_complex_leisure_search.constants import DATA_SETS, DOMAINS, LLMS
+from llm_complex_leisure_search.constants import DOMAINS, LLMS
 
 group = Typer(name="analysis", help="Commands for data analysis")
 
@@ -26,15 +26,12 @@ group = Typer(name="analysis", help="Commands for data analysis")
 def summary_stats() -> None:
     """Generate summary statistics."""
     with open(os.path.join("analysis", "summary.csv"), "w") as out_f:
-        writer = DictWriter(
-            out_f, fieldnames=["domain", "data.set", "threads.total", "human.solved", "human.solved.fraction"]
-        )
+        writer = DictWriter(out_f, fieldnames=["domain", "threads.total", "human.solved", "human.solved.fraction"])
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating summary stats"):
-            for data_set in DATA_SETS:
-                row = {"domain": domain, "data.set": data_set}
-                row.update(data_set_summary_stats(domain, data_set))
-                writer.writerow(row)
+            row = {"domain": domain}
+            row.update(data_set_summary_stats(domain))
+            writer.writerow(row)
 
 
 @group.command()
@@ -45,7 +42,6 @@ def llm_stats() -> None:
             out_f,
             fieldnames=[
                 "domain",
-                "data.set",
                 "llm",
                 "threads.answered",
                 "threads.answered.fraction",
@@ -58,14 +54,13 @@ def llm_stats() -> None:
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating summary stats"):
-            for data_set in DATA_SETS:
-                for llm in LLMS:
-                    try:
-                        row = {"domain": domain, "data.set": data_set, "llm": llm}
-                        row.update(llm_summary_stats(domain, data_set, llm))
-                        writer.writerow(row)
-                    except FileNotFoundError as e:
-                        console(e)
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(llm_summary_stats(domain, llm))
+                    writer.writerow(row)
+                except FileNotFoundError as e:
+                    console(e)
 
 
 @group.command()
@@ -74,43 +69,41 @@ def recall_stats() -> None:
     with open(os.path.join("analysis", "recall.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "data.set", "llm"]
+            fieldnames=["domain", "llm"]
             + [f"recall.{rank + 1}" for rank in range(0, 20)]
             + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating any request recall stats"):
-            for data_set in DATA_SETS:
-                for llm in LLMS:
-                    try:
-                        row = {"domain": domain, "data.set": data_set, "llm": llm}
-                        for rank in range(0, 20):
-                            row.update(llm_solved_at_rank(domain, data_set, llm, rank))
-                        writer.writerow(row)
-                    except KeyError as e:
-                        console(f"{e} not found")
-                    except FileNotFoundError as e:
-                        console(e)
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    for rank in range(0, 20):
+                        row.update(llm_solved_at_rank(domain, llm, rank))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
     with open(os.path.join("analysis", "recall-single.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "data.set", "llm"]
+            fieldnames=["domain", "llm"]
             + [f"recall.{rank + 1}" for rank in range(0, 20)]
             + [f"recall.{rank + 1}.fraction" for rank in range(0, 20)],
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating single request recall stats"):
-            for data_set in DATA_SETS:
-                for llm in LLMS:
-                    try:
-                        row = {"domain": domain, "data.set": data_set, "llm": llm}
-                        for rank in range(0, 20):
-                            row.update(llm_solved_at_rank_single(domain, data_set, llm, rank))
-                        writer.writerow(row)
-                    except KeyError as e:
-                        console(f"{e} not found")
-                    except FileNotFoundError as e:
-                        console(e)
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    for rank in range(0, 20):
+                        row.update(llm_solved_at_rank_single(domain, llm, rank))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
 
 
 @group.command()
@@ -121,7 +114,6 @@ def artifact_stats() -> None:
             out_f,
             fieldnames=[
                 "domain",
-                "data.set",
                 "llm",
                 "generated.total",
                 "generated.existing",
@@ -134,16 +126,15 @@ def artifact_stats() -> None:
         for domain in track(DOMAINS, description="Generating artifact stats"):
             if domain == "books":
                 continue
-            for data_set in DATA_SETS:
-                for llm in LLMS:
-                    try:
-                        row = {"domain": domain, "data.set": data_set, "llm": llm}
-                        row.update(artifact_counts(domain, data_set, llm))
-                        writer.writerow(row)
-                    except KeyError as e:
-                        console(f"{e} not found")
-                    except FileNotFoundError as e:
-                        console(e)
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(artifact_counts(domain, llm))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
 
 
 @group.command()

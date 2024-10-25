@@ -6,28 +6,37 @@ from csv import DictReader
 
 import numpy
 
+from llm_complex_leisure_search.constants import DATA_SETS
 
-def data_set_summary_stats(domain: str, data_set: str) -> dict:
+
+def data_set_summary_stats(domain: str) -> dict:
     """Generate basic summary statistics for a data-set."""
     result = {}
-    with open(os.path.join("data", domain, f"posts_{data_set}.csv")) as in_f:
-        reader = DictReader(in_f)
-        thread_ids = set()
-        for line in reader:
-            thread_ids.add(line["thread_id"])
-        result["threads.total"] = len(thread_ids)
-    with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
-        result["human.solved"] = len(json.load(in_f))
+    thread_ids = set()
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"posts_{data_set}.csv")) as in_f:
+            reader = DictReader(in_f)
+            for line in reader:
+                thread_ids.add(line["thread_id"])
+    result["threads.total"] = len(thread_ids)
+    solved = 0
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + len(json.load(in_f))
+    result["human.solved"] = solved
     result["human.solved.fraction"] = result["human.solved"] / result["threads.total"]
     return result
 
 
-def llm_summary_stats(domain: str, data_set: str, llm: str) -> dict:
+def llm_summary_stats(domain: str, llm: str) -> dict:
     """Generate basic summary statistics for a model."""
-    with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
-        solved = json.load(in_f)
-    with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
-        solutions = json.load(in_f)
+    solved = []
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + json.load(in_f)
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
     result_lengths = []
     for solution in solutions:
         for result_list in solution["results"]:
@@ -44,12 +53,15 @@ def llm_summary_stats(domain: str, data_set: str, llm: str) -> dict:
     return row
 
 
-def llm_solved_at_rank(domain: str, data_set: str, llm: str, rank: int) -> dict:
+def llm_solved_at_rank(domain: str, llm: str, rank: int) -> dict:
     """Calculate how many solved tasks at a given rank in any one of the three result lists."""
-    with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
-        solved = json.load(in_f)
-    with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
-        solutions = json.load(in_f)
+    solved = []
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + json.load(in_f)
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
     total_found = 0
     for task in solved:
         for solution in solutions:
@@ -65,12 +77,15 @@ def llm_solved_at_rank(domain: str, data_set: str, llm: str, rank: int) -> dict:
     return result
 
 
-def llm_solved_at_rank_single(domain: str, data_set: str, llm: str, rank: int) -> dict:
+def llm_solved_at_rank_single(domain: str, llm: str, rank: int) -> dict:
     """Calculate how many solved tasks at a given rank in each of the result lists."""
-    with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
-        solved = json.load(in_f)
-    with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
-        solutions = json.load(in_f)
+    solved = []
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + json.load(in_f)
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
     total_found = 0
     for task in solved:
         for solution in solutions:
@@ -83,10 +98,12 @@ def llm_solved_at_rank_single(domain: str, data_set: str, llm: str, rank: int) -
     return result
 
 
-def artifact_counts(domain: str, data_set: str, llm: str) -> dict:
+def artifact_counts(domain: str, llm: str) -> dict:
     """Count how many entries exist."""
-    with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
-        solutions = json.load(in_f)
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
     with open(os.path.join("data", domain, "unique-answers.json")) as in_f:
         unique_answers = json.load(in_f)
         for answer in unique_answers:
