@@ -150,6 +150,11 @@ def duplicate_stats() -> None:
                 "results.duplicates",
                 "results.duplicates.fraction",
                 "duplicates.average",
+                "duplicates.min",
+                "duplicates.q1",
+                "duplicates.median",
+                "duplicates.q3",
+                "duplicates.max",
             ],
         )
         writer.writeheader()

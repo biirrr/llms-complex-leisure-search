@@ -151,4 +151,9 @@ def duplicate_counts(domain: str, llm: str) -> dict:
         "results.duplicates": thread_duplicates,
         "results.duplicates.fraction": thread_duplicates / (len(solutions) * 3),
         "duplicates.average": sum(duplicates) / len(duplicates),
+        "duplicates.min": numpy.min(duplicates),
+        "duplicates.q1": numpy.percentile(duplicates, 25),
+        "duplicates.median": numpy.percentile(duplicates, 50),
+        "duplicates.q3": numpy.percentile(duplicates, 75),
+        "duplicates.max": numpy.max(duplicates),
     }
