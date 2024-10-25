@@ -108,6 +108,8 @@ def ensure_result_format() -> None:
                                 entry["qualifiers"] = [entry["qualifiers"]]
                             elif isinstance(entry["qualifiers"], list):
                                 entry["qualifiers"] = [str(v) for v in entry["qualifiers"]]
+                            elif entry["qualifiers"] is None:
+                                entry["qualifiers"] = []
                             else:
                                 console(
                                     f"[red bold] Unsupported qualifiers type {entry['qualifiers'].__class__.__name__}"
