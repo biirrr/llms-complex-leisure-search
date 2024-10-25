@@ -12,11 +12,13 @@ from rich import print as console
 from rich.progress import track
 from typer import Typer
 
-from llm_complex_leisure_search.gemini import generate_multiple_responses
+from llm_complex_leisure_search.gemini import generate_multiple_responses as gemini_generate
+from llm_complex_leisure_search.llms.llama import generate_multiple_responses as llama_generate
 from llm_complex_leisure_search.movies.data import (
     extract_solved_threads,
 )
 from llm_complex_leisure_search.movies.themoviedb import SearchMode, search
+from llm_complex_leisure_search.settings import settings
 from llm_complex_leisure_search.util import split_title_years
 
 group = Typer(name="movies", help="Commands for movie-related processing")
@@ -68,7 +70,7 @@ def query_gemini() -> None:
             try:
                 result = {
                     "thread_id": task["thread_id"],
-                    "results": generate_multiple_responses(task["prompt"]),
+                    "results": gemini_generate(task["prompt"]),
                 }
                 for attempt in result["results"]:
                     if attempt is not None:
@@ -116,6 +118,51 @@ def aggregate_gpt(source_folder: str, model: str, data_set: str) -> None:
 
     with open(os.path.join("data", "movies", f"{model}_{data_set}.json"), "w") as out_f:
         json.dump(results, out_f)
+
+
+@group.command()
+def query_llama() -> None:
+    """Process the movies with Llama."""
+    for suffix in ANNOTATION_SOURCE_FILES:
+        with open(os.path.join("data", "movies", f"solved_{suffix}.json")) as in_f:
+            tasks = json.load(in_f)
+        if os.path.exists(os.path.join("data", "movies", f"llama-3-2_{suffix}.json")):
+            with open(os.path.join("data", "movies", f"llama-3-2_{suffix}.json")) as in_f:
+                results = json.load(in_f)
+        else:
+            results = []
+        for task in track(tasks, description=f"Querying Llama 3.2 ({suffix})"):
+            # Check if the task has already been processed
+            exists = False
+            for result in results:
+                if result["thread_id"] == task["thread_id"] and len(result["results"]) >= settings.llm.retest_target:
+                    exists = True
+                    break
+            if exists:
+                continue
+            result = {
+                "thread_id": task["thread_id"],
+                "results": llama_generate(task["prompt"]),
+            }
+            for attempt in result["results"]:
+                if attempt is not None:
+                    for entry in attempt:
+                        if isinstance(entry["answer"], dict) and "title" in entry["answer"]:
+                            entry["title"] = entry["answer"]["title"]
+                            if "year" in entry["answer"] and entry["answer"]["year"] is not None:
+                                entry["qualifiers"] = [entry["answer"]["year"]]
+                            else:
+                                entry["qualifiers"] = []
+                        elif isinstance(entry["answer"], str):
+                            title, years = split_title_years(entry["answer"])
+                            entry["title"] = title
+                            if years is not None:
+                                entry["qualifiers"] = years
+                            else:
+                                entry["qualifiers"] = []
+            results.append(result)
+            with open(os.path.join("data", "movies", f"llama-3-2_{suffix}.json"), "w") as out_f:
+                json.dump(results, out_f)
 
 
 @group.command()
