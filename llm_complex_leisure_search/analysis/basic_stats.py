@@ -131,3 +131,24 @@ def artifact_counts(domain: str, llm: str) -> dict:
         "generated.existing.exact": existing_titles_with_qualifier,
         "generated.existing.exact.fraction": existing_titles_with_qualifier / titles,
     }
+
+
+def duplicate_counts(domain: str, llm: str) -> dict:
+    """Count how many duplicates exist."""
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
+    thread_duplicates = 0
+    duplicates = []
+    for solution in solutions:
+        for result_list in solution["results"]:
+            uniques = {(result["title"], tuple(result["qualifiers"])) for result in result_list}
+            if len(result_list) - len(uniques) > 0:
+                thread_duplicates += 1
+            duplicates.append(len(result_list) - len(uniques))
+    return {
+        "results.duplicates": thread_duplicates,
+        "results.duplicates.fraction": thread_duplicates / (len(solutions) * 3),
+        "duplicates.average": sum(duplicates) / len(duplicates),
+    }
