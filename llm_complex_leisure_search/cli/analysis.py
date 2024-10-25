@@ -66,7 +66,7 @@ def llm_stats() -> None:
 @group.command()
 def recall_stats() -> None:
     """Generate recall statistics."""
-    with open(os.path.join("analysis", "recall.csv"), "w") as out_f:
+    with open(os.path.join("analysis", "recall-best.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
             fieldnames=["domain", "llm"]
@@ -85,7 +85,7 @@ def recall_stats() -> None:
                     console(f"{e} not found")
                 except FileNotFoundError as e:
                     console(e)
-    with open(os.path.join("analysis", "recall-single.csv"), "w") as out_f:
+    with open(os.path.join("analysis", "recall-average.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
             fieldnames=["domain", "llm"]

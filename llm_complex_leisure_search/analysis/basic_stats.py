@@ -94,6 +94,7 @@ def llm_solved_at_rank_single(domain: str, llm: str, rank: int) -> dict:
                     for entry in result_list[: rank + 1]:
                         if task["title"] == entry["title"]:
                             total_found += 1
+                            break
     result = {f"recall.{rank + 1}": total_found, f"recall.{rank + 1}.fraction": total_found / (len(solved) * 3)}
     return result
 
