@@ -29,8 +29,8 @@ class BinaryEqualSplitter:
             elif negative_idx.shape[0] < positive_idx.shape[0]:
                 expand_idx = numpy.random.choice(negative_idx, size=positive_idx.shape[0], replace=True)
                 expanded_train_idx = numpy.append(expand_idx, positive_idx)
-            train_subset = train[expanded_train_idx]
-            yield train_subset, test
+            expanded_train = train[expanded_train_idx]
+            yield expanded_train, test
 
     def get_n_splits(self, data, classes, groups=None):  # noqa: ARG002
         """Return the number of splits."""
