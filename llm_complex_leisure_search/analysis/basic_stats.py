@@ -157,3 +157,30 @@ def duplicate_counts(domain: str, llm: str) -> dict:
         "duplicates.q3": numpy.percentile(duplicates, 75),
         "duplicates.max": numpy.max(duplicates),
     }
+
+
+def confidence_counts(domain: str, llm: str) -> dict:
+    """Analyse the confidence distribution."""
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
+    confidence = []
+    no_confidence = 0
+    for solution in solutions:
+        for result_list in solution["results"]:
+            for result in result_list:
+                if "normalised_confidence" in result:
+                    confidence.append(result["normalised_confidence"])
+                else:
+                    no_confidence += 1
+    return {
+        "confidence.average": numpy.average(confidence),
+        "confidence.std": numpy.std(confidence),
+        "confidence.min": numpy.min(confidence),
+        "confidence.q1": numpy.percentile(confidence, 25),
+        "confidence.median": numpy.percentile(confidence, 50),
+        "confidence.q3": numpy.percentile(confidence, 75),
+        "confidence.max": numpy.max(confidence),
+        "confidence.noscore": no_confidence,
+    }

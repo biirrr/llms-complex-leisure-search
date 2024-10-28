@@ -12,6 +12,7 @@ from typer import Typer
 
 from llm_complex_leisure_search.analysis.basic_stats import (
     artifact_counts,
+    confidence_counts,
     data_set_summary_stats,
     duplicate_counts,
     llm_solved_at_rank,
@@ -163,6 +164,38 @@ def duplicate_stats() -> None:
                 try:
                     row = {"domain": domain, "llm": llm}
                     row.update(duplicate_counts(domain, llm))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
+
+
+@group.command()
+def confidence_stats() -> None:
+    """Generate duplicate statistics."""
+    with open(os.path.join("analysis", "confidence.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "llm",
+                "confidence.average",
+                "confidence.std",
+                "confidence.min",
+                "confidence.q1",
+                "confidence.median",
+                "confidence.q3",
+                "confidence.max",
+                "confidence.noscore",
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating duplicate stats"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(confidence_counts(domain, llm))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")

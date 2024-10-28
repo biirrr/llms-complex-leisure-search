@@ -154,7 +154,41 @@ def ensure_only_valid_threads() -> None:
 
 
 @group.command()
+def normalise_confidence() -> None:
+    """Normalise the confidence values."""
+    for domain in track(DOMAINS, description="Applying fixes"):
+        for llm in LLMS:
+            for data_set in DATA_SETS:
+                with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+                    solutions = json.load(in_f)
+                    for solution in solutions:
+                        for result_list in solution["results"]:
+                            confidences = []
+                            for result in result_list:
+                                if "confidence" in result:
+                                    confidences.append(float(result["confidence"]))
+                            if len(confidences) > 0:
+                                if max(confidences) <= 1:
+                                    for result in result_list:
+                                        if "confidence" in result:
+                                            result["normalised_confidence"] = max(float(result["confidence"]), 0)
+                                elif max(confidences) <= 10:  # noqa: PLR2004
+                                    for result in result_list:
+                                        if "confidence" in result:
+                                            result["normalised_confidence"] = max(float(result["confidence"]) / 10.0, 0)
+                                elif max(confidences) <= 100:  # noqa: PLR2004
+                                    for result in result_list:
+                                        if "confidence" in result:
+                                            result["normalised_confidence"] = max(
+                                                float(result["confidence"]) / 100.0, 0
+                                            )
+                with open(os.path.join("data", domain, f"{llm}_{data_set}.json"), "w") as out_f:
+                    json.dump(solutions, out_f)
+
+
+@group.command()
 def everything() -> None:
     """Apply all fixes."""
     ensure_only_valid_threads()
     ensure_result_format()
+    normalise_confidence()
