@@ -30,6 +30,8 @@ dependencies = [
   "typer",
   "pydantic>=2,<3",
   "pydantic_settings>=2,<3",
+  "scikit-learn>=1.5,<1.6",
+  "scipy>=1.14.1,<1.15",
 ]
 
 [project.scripts]

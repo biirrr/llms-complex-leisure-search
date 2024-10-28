@@ -19,6 +19,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     llm_solved_at_rank_single,
     llm_summary_stats,
 )
+from llm_complex_leisure_search.analysis.correlation_stats import correlate_correct
 from llm_complex_leisure_search.constants import DOMAINS, LLMS
 
 group = Typer(name="analysis", help="Commands for data analysis")
@@ -173,7 +174,7 @@ def duplicate_stats() -> None:
 
 @group.command()
 def confidence_stats() -> None:
-    """Generate duplicate statistics."""
+    """Generate confidence statistics."""
     with open(os.path.join("analysis", "confidence.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
@@ -196,6 +197,27 @@ def confidence_stats() -> None:
                 try:
                     row = {"domain": domain, "llm": llm}
                     row.update(confidence_counts(domain, llm))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
+
+
+@group.command()
+def confidence_correlation() -> None:
+    """Generate confidence - correctness stats."""
+    with open(os.path.join("analysis", "correlate-correct.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=["domain", "llm", "lr.confidence.avg", "lr.confidence.stdev", "lr.rank.avg", "lr.rank.stdev"],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating duplicate stats"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(correlate_correct(domain, llm))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")

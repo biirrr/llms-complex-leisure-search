@@ -12,7 +12,7 @@ from llm_complex_leisure_search.cli.fix import group as fix_group
 from llm_complex_leisure_search.cli.games import group as games_group
 from llm_complex_leisure_search.cli.movies import group as movies_group
 
-app = Typer()
+app = Typer(pretty_exceptions_enable=False)
 app.add_typer(analysis_group)
 app.add_typer(books_group)
 app.add_typer(data_group)
