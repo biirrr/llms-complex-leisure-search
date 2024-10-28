@@ -78,4 +78,5 @@ def correlate_correct(domain: str, llm: str) -> dict:
     scores = cross_val_score(lr, scores, classes, cv=splitter)
     result["lr.rank.avg"] = numpy.average(scores)
     result["lr.rank.stdev"] = numpy.std(scores)
+
     return result
