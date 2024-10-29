@@ -160,3 +160,24 @@ def aggregate_gpt(source_folder: str, model: str, data_set: str) -> None:
 
     with open(os.path.join("data", "books", f"{model}_{data_set}.json"), "w") as out_f:
         json.dump(results, out_f)
+
+
+@group.command()
+def merge_openlibrary_answers(source_file: str) -> None:
+    """Merge the openlibrary answer lookups."""
+    with open(os.path.join("data", "books", "unique-answers.json")) as in_f:
+        answers = json.load(in_f)
+    with open(source_file) as in_f:
+        for line in track(in_f.readlines(), description="Merging answer lookups"):
+            lookup = json.loads(line)
+            if "docs" in lookup:
+                for doc in lookup["docs"]:
+                    for answer in answers:
+                        if doc["title"] == answer["answer"][0]:
+                            answer["exists"] = True
+                            if len(set(doc["author_name"]).intersection(set(answer["answer"][1]))) == len(
+                                answer["answer"][1]
+                            ):
+                                answer["exists_with_qualifier"] = True
+    with open(os.path.join("data", "books", "unique-answers.json"), "w") as out_f:
+        json.dump(answers, out_f)
