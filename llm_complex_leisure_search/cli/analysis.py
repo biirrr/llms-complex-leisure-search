@@ -210,7 +210,22 @@ def confidence_correlation() -> None:
     with open(os.path.join("analysis", "correlate-correct.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "llm", "lr.confidence.avg", "lr.confidence.stdev", "lr.rank.avg", "lr.rank.stdev"],
+            fieldnames=[
+                "domain",
+                "llm",
+                "lr.confidence.avg",
+                "lr.confidence.stdev",
+                "lr.confidence.pos.avg",
+                "lr.confidence.pos.stdev",
+                "lr.confidence.neg.avg",
+                "lr.confidence.neg.stdev",
+                "lr.rank.avg",
+                "lr.rank.stdev",
+                "lr.rank.pos.avg",
+                "lr.rank.pos.stdev",
+                "lr.rank.neg.avg",
+                "lr.rank.neg.stdev",
+            ],
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating duplicate stats"):

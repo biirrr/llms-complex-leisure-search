@@ -13,9 +13,10 @@ from llm_complex_leisure_search.constants import DATA_SETS
 class BinaryEqualSplitter:
     """A splitter generating equally weighted splits for binary classification data."""
 
-    def __init__(self, n_splits=2):
+    def __init__(self, n_splits=2, test="all"):
         """Initialise the new splitter."""
         self.n_splits = n_splits
+        self.test = test
 
     def split(self, data, classes, groups=None):  # noqa: ARG002
         """Generate splits."""
@@ -30,7 +31,14 @@ class BinaryEqualSplitter:
                 expand_idx = numpy.random.choice(negative_idx, size=positive_idx.shape[0], replace=True)
                 expanded_train_idx = numpy.append(expand_idx, positive_idx)
             expanded_train = train[expanded_train_idx]
-            yield expanded_train, test
+            if self.test == "positive":
+                test_subset = test[numpy.where(classes[test] == 1)[0]]
+                yield expanded_train, test_subset
+            elif self.test == "negative":
+                test_subset = test[numpy.where(classes[test] == 0)[0]]
+                yield expanded_train, test_subset
+            else:
+                yield expanded_train, test
 
     def get_n_splits(self, data, classes, groups=None):  # noqa: ARG002
         """Return the number of splits."""
@@ -64,19 +72,33 @@ def correlate_correct(domain: str, llm: str) -> dict:
                                 rank[1].append(False)
 
     splitter = BinaryEqualSplitter(n_splits=20)
+    splitter_positive = BinaryEqualSplitter(n_splits=20, test="positive")
+    splitter_negative = BinaryEqualSplitter(n_splits=20, test="negative")
     lr = LogisticRegression()
     result = {}
 
-    scores = numpy.array(confidence[0])
+    data = numpy.array(confidence[0])
     classes = numpy.array(confidence[1])
-    scores = cross_val_score(lr, scores, classes, cv=splitter)
+    scores = cross_val_score(lr, data, classes, cv=splitter)
     result["lr.confidence.avg"] = numpy.average(scores)
     result["lr.confidence.stdev"] = numpy.std(scores)
+    scores = cross_val_score(lr, data, classes, cv=splitter_positive)
+    result["lr.confidence.pos.avg"] = numpy.average(scores)
+    result["lr.confidence.pos.stdev"] = numpy.std(scores)
+    scores = cross_val_score(lr, data, classes, cv=splitter_negative)
+    result["lr.confidence.neg.avg"] = numpy.average(scores)
+    result["lr.confidence.neg.stdev"] = numpy.std(scores)
 
-    scores = numpy.array(rank[0])
+    data = numpy.array(rank[0])
     classes = numpy.array(rank[1])
-    scores = cross_val_score(lr, scores, classes, cv=splitter)
+    scores = cross_val_score(lr, data, classes, cv=splitter)
     result["lr.rank.avg"] = numpy.average(scores)
     result["lr.rank.stdev"] = numpy.std(scores)
+    scores = cross_val_score(lr, data, classes, cv=splitter_positive)
+    result["lr.rank.pos.avg"] = numpy.average(scores)
+    result["lr.rank.pos.stdev"] = numpy.std(scores)
+    scores = cross_val_score(lr, data, classes, cv=splitter_negative)
+    result["lr.rank.neg.avg"] = numpy.average(scores)
+    result["lr.rank.neg.stdev"] = numpy.std(scores)
 
     return result
