@@ -3,6 +3,7 @@
 import json
 import os
 
+import numpy
 from scipy.stats import mannwhitneyu
 
 from llm_complex_leisure_search.constants import DATA_SETS
@@ -34,6 +35,16 @@ def compare_artifact_rank_stats(domain: str, llm: str) -> dict:
     mwu_less = mannwhitneyu(real_ranks, artifact_ranks, alternative="less")
     mwu_greater = mannwhitneyu(real_ranks, artifact_ranks, alternative="greater")
     return {
+        "real.rank.min": numpy.min(real_ranks),
+        "real.rank.q1": numpy.quantile(real_ranks, 0.25),
+        "real.rank.median": numpy.quantile(real_ranks, 0.50),
+        "real.rank.q3": numpy.quantile(real_ranks, 0.75),
+        "real.rank.max": numpy.max(real_ranks),
+        "artifact.rank.min": numpy.min(artifact_ranks),
+        "artifact.rank.q1": numpy.quantile(artifact_ranks, 0.25),
+        "artifact.rank.median": numpy.quantile(artifact_ranks, 0.50),
+        "artifact.rank.q3": numpy.quantile(artifact_ranks, 0.75),
+        "artifact.rank.max": numpy.max(artifact_ranks),
         "mwu.two_sided.statistic": mwu.statistic,
         "mwu.two_sided.pvalue": mwu.pvalue,
         "mwu.less.statistic": mwu_less.statistic,
