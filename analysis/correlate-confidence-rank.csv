@@ -1,0 +1,13 @@
+domain,llm,pearsonr.two_sided.statistic,pearsonr.two_sided.pvalue
+books,gemini,-0.6403619476273072,0.0
+books,gpt-3-5,-0.8381146461330624,0.0
+books,gpt-4o-mini,-0.7865987027073716,0.0
+books,llama-3-2,-0.2681366207255166,4.663255692718641e-180
+games,gemini,-0.7461687839968331,0.0
+games,gpt-3-5,-0.8454830333084103,0.0
+games,gpt-4o-mini,-0.842184929774674,0.0
+games,llama-3-2,-0.45112894716099766,0.0
+movies,gemini,-0.6486077269560019,0.0
+movies,gpt-3-5,-0.8416972345098191,0.0
+movies,gpt-4o-mini,-0.7938945222124796,0.0
+movies,llama-3-2,-0.33927547338207775,0.0

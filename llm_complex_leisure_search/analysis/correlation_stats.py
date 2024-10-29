@@ -4,6 +4,7 @@ import json
 import os
 
 import numpy
+from scipy.stats import pearsonr
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import StratifiedKFold, cross_val_score
 
@@ -46,7 +47,7 @@ class BinaryEqualSplitter:
 
 
 def correlate_correct(domain: str, llm: str) -> dict:
-    """Calculate logistics regressions."""
+    """Calculate logistics regressions for confidence and rank to success."""
     solved = []
     solutions = []
     for data_set in DATA_SETS:
@@ -118,3 +119,21 @@ def correlate_correct(domain: str, llm: str) -> dict:
     result["lr.combined.neg.stdev"] = numpy.std(scores)
 
     return result
+
+
+def correlate_confidence_rank(domain: str, llm: str) -> dict:
+    """Calculate correlation between confidence and rank."""
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
+    confidences = []
+    ranks = []
+    for solution in solutions:
+        for result_list in solution["results"]:
+            for idx, result in enumerate(result_list):
+                if "normalised_confidence" in result:
+                    confidences.append(result["normalised_confidence"])
+                    ranks.append(idx)
+    corr = pearsonr(confidences, ranks)
+    return {"pearsonr.two_sided.statistic": corr.statistic, "pearsonr.two_sided.pvalue": corr.pvalue}

@@ -19,7 +19,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     llm_solved_at_rank_single,
     llm_summary_stats,
 )
-from llm_complex_leisure_search.analysis.correlation_stats import correlate_correct
+from llm_complex_leisure_search.analysis.correlation_stats import correlate_confidence_rank, correlate_correct
 from llm_complex_leisure_search.constants import DOMAINS, LLMS
 
 group = Typer(name="analysis", help="Commands for data analysis")
@@ -203,7 +203,17 @@ def confidence_stats() -> None:
 
 
 @group.command()
-def confidence_correlation() -> None:
+def all_stats() -> None:
+    """Generate all statistics."""
+    summary_stats()
+    llm_stats()
+    solved_stats()
+    artifact_stats()
+    duplicate_stats()
+
+
+@group.command()
+def confidence_correct_correlation() -> None:
     """Generate confidence - correctness stats."""
     with open(os.path.join("analysis", "correlate-correct.csv"), "w") as out_f:
         writer = DictWriter(
@@ -232,7 +242,7 @@ def confidence_correlation() -> None:
             ],
         )
         writer.writeheader()
-        for domain in track(DOMAINS, description="Generating duplicate stats"):
+        for domain in track(DOMAINS, description="Calculating correlations"):
             for llm in LLMS:
                 try:
                     row = {"domain": domain, "llm": llm}
@@ -245,10 +255,26 @@ def confidence_correlation() -> None:
 
 
 @group.command()
-def all_stats() -> None:
-    """Generate all statistics."""
-    summary_stats()
-    llm_stats()
-    solved_stats()
-    artifact_stats()
-    duplicate_stats()
+def confidence_rank_correlation() -> None:
+    """Generate confidence - rank stats."""
+    with open(os.path.join("analysis", "correlate-confidence-rank.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "llm",
+                "pearsonr.two_sided.statistic",
+                "pearsonr.two_sided.pvalue",
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Calculating correlations"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(correlate_confidence_rank(domain, llm))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
