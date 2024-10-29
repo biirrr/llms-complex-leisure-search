@@ -122,7 +122,17 @@ def solved_stats() -> None:
             fieldnames=[
                 "domain",
                 "llm",
-                *itertools.chain(*[[f"solved.{rank + 1}.avg", f"solved.{rank + 1}.stdev"] for rank in range(0, 20)]),
+                *itertools.chain(
+                    *[
+                        [
+                            f"solved.{rank + 1}.avg",
+                            f"solved.{rank + 1}.stdev",
+                            f"solved.{rank + 1}.fraction.avg",
+                            f"solved.{rank + 1}.fraction.stdev",
+                        ]
+                        for rank in range(0, 20)
+                    ]
+                ),
             ],
         )
         writer.writeheader()

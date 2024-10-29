@@ -109,7 +109,7 @@ def llm_solved_at_rank_avg(domain: str, llm: str, rank: int) -> dict:
             solved = solved + json.load(in_f)
         with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
             solutions = solutions + json.load(in_f)
-    totals = [0, 0, 0]
+    totals = numpy.array([0, 0, 0])
     for task in solved:
         for solution in solutions:
             if task["thread_id"] == solution["thread_id"]:
@@ -118,7 +118,13 @@ def llm_solved_at_rank_avg(domain: str, llm: str, rank: int) -> dict:
                         if task["title"] == entry["title"]:
                             totals[idx] += 1
                             break
-    result = {f"solved.{rank + 1}.avg": numpy.average(totals), f"solved.{rank + 1}.stdev": numpy.std(totals)}
+    totals_frac = totals / len(solved)
+    result = {
+        f"solved.{rank + 1}.avg": numpy.average(totals),
+        f"solved.{rank + 1}.stdev": numpy.std(totals),
+        f"solved.{rank+1}.fraction.avg": numpy.average(totals_frac),
+        f"solved.{rank+1}.fraction.stdev": numpy.std(totals_frac),
+    }
     return result
 
 
