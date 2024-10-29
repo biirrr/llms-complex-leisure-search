@@ -180,3 +180,37 @@ def correlate_popularity_rank(domain: str, llm: str) -> dict:
         "kendalltau.statistic": kendall_corr.statistic,
         "kendalltau.pvalue": kendall_corr.pvalue,
     }
+
+
+def correlate_popularity_confidence(domain: str, llm: str) -> dict:
+    """Calculate correlation between popularity of the answer and confidence."""
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
+    with open(os.path.join("data", domain, "unique-answers.json")) as in_f:
+        answers = json.load(in_f)
+    popularities = []
+    ranks = []
+    for solution in solutions:
+        for result_list in solution["results"]:
+            for result in result_list:
+                found = None
+                for answer in answers:
+                    if answer["answer"][0] == result["title"]:
+                        found = answer
+                        break
+                if found is not None and "normalised_confidence" in result:
+                    popularities.append(found["popularity"])
+                    ranks.append(result["normalised_confidence"])
+    pearson_corr = pearsonr(popularities, ranks)
+    spearman_corr = spearmanr(popularities, ranks)
+    kendall_corr = kendalltau(popularities, ranks)
+    return {
+        "pearsonr.statistic": pearson_corr.statistic,
+        "pearsonr.pvalue": pearson_corr.pvalue,
+        "spearmanr.statistic": spearman_corr.statistic,
+        "spearmanr.pvalue": spearman_corr.pvalue,
+        "kendalltau.statistic": kendall_corr.statistic,
+        "kendalltau.pvalue": kendall_corr.pvalue,
+    }
