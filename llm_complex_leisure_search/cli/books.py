@@ -175,6 +175,8 @@ def merge_openlibrary_answers(source_file: str) -> None:
                     for answer in answers:
                         if doc["title"] == answer["answer"][0]:
                             answer["exists"] = True
+                            if "readinglog_count" in doc:
+                                answer["popularity"] = doc["readinglog_count"]
                             if len(set(doc["author_name"]).intersection(set(answer["answer"][1]))) == len(
                                 answer["answer"][1]
                             ):
