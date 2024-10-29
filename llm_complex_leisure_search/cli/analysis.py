@@ -263,8 +263,12 @@ def confidence_rank_correlation() -> None:
             fieldnames=[
                 "domain",
                 "llm",
-                "pearsonr.two_sided.statistic",
-                "pearsonr.two_sided.pvalue",
+                "pearsonr.statistic",
+                "pearsonr.pvalue",
+                "spearmanr.statistic",
+                "spearmanr.pvalue",
+                "kendalltau.statistic",
+                "kendalltau.pvalue",
             ],
         )
         writer.writeheader()

@@ -4,7 +4,7 @@ import json
 import os
 
 import numpy
-from scipy.stats import pearsonr
+from scipy.stats import kendalltau, pearsonr, spearmanr
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import StratifiedKFold, cross_val_score
 
@@ -135,5 +135,14 @@ def correlate_confidence_rank(domain: str, llm: str) -> dict:
                 if "normalised_confidence" in result:
                     confidences.append(result["normalised_confidence"])
                     ranks.append(idx)
-    corr = pearsonr(confidences, ranks)
-    return {"pearsonr.two_sided.statistic": corr.statistic, "pearsonr.two_sided.pvalue": corr.pvalue}
+    pearson_corr = pearsonr(confidences, ranks)
+    spearman_corr = spearmanr(confidences, ranks)
+    kendall_corr = kendalltau(confidences, ranks)
+    return {
+        "pearsonr.statistic": pearson_corr.statistic,
+        "pearsonr.pvalue": pearson_corr.pvalue,
+        "spearmanr.statistic": spearman_corr.statistic,
+        "spearmanr.pvalue": spearman_corr.pvalue,
+        "kendalltau.statistic": kendall_corr.statistic,
+        "kendalltau.pvalue": kendall_corr.pvalue,
+    }
