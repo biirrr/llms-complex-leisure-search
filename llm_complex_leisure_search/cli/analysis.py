@@ -20,6 +20,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     llm_solved_stats,
     llm_summary_stats,
 )
+from llm_complex_leisure_search.analysis.comparison_stats import compare_artifact_rank_stats
 from llm_complex_leisure_search.analysis.correlation_stats import (
     correlate_confidence_rank,
     correlate_correct,
@@ -234,6 +235,36 @@ def all_stats() -> None:
     solved_stats()
     artifact_stats()
     duplicate_stats()
+
+
+@group.command()
+def compare_artifact_ranks() -> None:
+    """Generate stats whether the real/artifact answer rank distributions differ."""
+    with open(os.path.join("analysis", "compare-artifact-ranks.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "llm",
+                "mwu.two_sided.statistic",
+                "mwu.two_sided.pvalue",
+                "mwu.greater.statistic",
+                "mwu.greater.pvalue",
+                "mwu.less.statistic",
+                "mwu.less.pvalue",
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Calculating distribution stats"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(compare_artifact_rank_stats(domain, llm))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
 
 
 @group.command()
