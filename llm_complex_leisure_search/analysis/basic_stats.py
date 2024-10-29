@@ -2,6 +2,7 @@
 
 import json
 import os
+from collections import Counter
 from csv import DictReader
 
 import numpy
@@ -97,6 +98,42 @@ def llm_solved_at_rank_single(domain: str, llm: str, rank: int) -> dict:
                             break
     result = {f"solved.{rank + 1}": total_found, f"solved.{rank + 1}.fraction": total_found / (len(solved) * 3)}
     return result
+
+
+def llm_solved_stats(domain: str, llm: str) -> dict:
+    """Calculate statistics of how many solved across all result lists."""
+    solved = []
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + json.load(in_f)
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
+    found_counts = []
+    for task in solved:
+        for solution in solutions:
+            if task["thread_id"] == solution["thread_id"]:
+                found_count = 0
+                for result_list in solution["results"]:
+                    found = False
+                    for entry in result_list:
+                        if task["title"] == entry["title"]:
+                            found = True
+                            break
+                    if found:
+                        found_count += 1
+                found_counts.append(found_count)
+    counts = Counter(found_counts)
+    return {
+        "solved.0": counts[0],
+        "solved.1": counts[1],
+        "solved.2": counts[2],
+        "solved.3": counts[3],
+        "solved.0.fraction": counts[0] / len(solved),
+        "solved.1.fraction": counts[1] / len(solved),
+        "solved.2.fraction": counts[2] / len(solved),
+        "solved.3.fraction": counts[3] / len(solved),
+    }
 
 
 def artifact_counts(domain: str, llm: str) -> dict:

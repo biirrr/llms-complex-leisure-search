@@ -17,11 +17,13 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     duplicate_counts,
     llm_solved_at_rank,
     llm_solved_at_rank_single,
+    llm_solved_stats,
     llm_summary_stats,
 )
 from llm_complex_leisure_search.analysis.correlation_stats import (
     correlate_confidence_rank,
     correlate_correct,
+    correlate_popularity_confidence,
     correlate_popularity_rank,
 )
 from llm_complex_leisure_search.constants import DOMAINS, LLMS
@@ -106,6 +108,24 @@ def solved_stats() -> None:
                     row = {"domain": domain, "llm": llm}
                     for rank in range(0, 20):
                         row.update(llm_solved_at_rank_single(domain, llm, rank))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
+    with open(os.path.join("analysis", "solved-stats.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=["domain", "llm"]
+            + [f"solved.{rank}" for rank in range(0, 4)]
+            + [f"solved.{rank}.fraction" for rank in range(0, 4)],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating solved stats"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(llm_solved_stats(domain, llm))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")
@@ -311,6 +331,36 @@ def popularity_rank_correlation() -> None:
                 try:
                     row = {"domain": domain, "llm": llm}
                     row.update(correlate_popularity_rank(domain, llm))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
+
+
+@group.command()
+def popularity_confidence_correlation() -> None:
+    """Generate popularity - confidence stats."""
+    with open(os.path.join("analysis", "correlate-popularity-confidence.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "llm",
+                "pearsonr.statistic",
+                "pearsonr.pvalue",
+                "spearmanr.statistic",
+                "spearmanr.pvalue",
+                "kendalltau.statistic",
+                "kendalltau.pvalue",
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Calculating correlations"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    row.update(correlate_popularity_confidence(domain, llm))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")
