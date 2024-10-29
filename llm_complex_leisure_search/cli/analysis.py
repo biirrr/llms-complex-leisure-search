@@ -225,6 +225,12 @@ def confidence_correlation() -> None:
                 "lr.rank.pos.stdev",
                 "lr.rank.neg.avg",
                 "lr.rank.neg.stdev",
+                "lr.combined.avg",
+                "lr.combined.stdev",
+                "lr.combined.pos.avg",
+                "lr.combined.pos.stdev",
+                "lr.combined.neg.avg",
+                "lr.combined.neg.stdev",
             ],
         )
         writer.writeheader()

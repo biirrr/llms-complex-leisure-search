@@ -56,6 +56,7 @@ def correlate_correct(domain: str, llm: str) -> dict:
             solutions = solutions + json.load(in_f)
     confidence = [[], []]
     rank = [[], []]
+    combined = [[], []]
     for task in solved:
         for solution in solutions:
             if task["thread_id"] == solution["thread_id"]:
@@ -64,12 +65,15 @@ def correlate_correct(domain: str, llm: str) -> dict:
                         if "normalised_confidence" in entry:
                             confidence[0].append([entry["normalised_confidence"]])
                             rank[0].append([idx])
+                            combined[0].append([entry["normalised_confidence"], idx])
                             if task["title"] == entry["title"]:
                                 confidence[1].append(True)
                                 rank[1].append(True)
+                                combined[1].append(True)
                             else:
                                 confidence[1].append(False)
                                 rank[1].append(False)
+                                combined[1].append(False)
 
     splitter = BinaryEqualSplitter(n_splits=20)
     splitter_positive = BinaryEqualSplitter(n_splits=20, test="positive")
@@ -100,5 +104,17 @@ def correlate_correct(domain: str, llm: str) -> dict:
     scores = cross_val_score(lr, data, classes, cv=splitter_negative)
     result["lr.rank.neg.avg"] = numpy.average(scores)
     result["lr.rank.neg.stdev"] = numpy.std(scores)
+
+    data = numpy.array(combined[0])
+    classes = numpy.array(combined[1])
+    scores = cross_val_score(lr, data, classes, cv=splitter)
+    result["lr.combined.avg"] = numpy.average(scores)
+    result["lr.combined.stdev"] = numpy.std(scores)
+    scores = cross_val_score(lr, data, classes, cv=splitter_positive)
+    result["lr.combined.pos.avg"] = numpy.average(scores)
+    result["lr.combined.pos.stdev"] = numpy.std(scores)
+    scores = cross_val_score(lr, data, classes, cv=splitter_negative)
+    result["lr.combined.neg.avg"] = numpy.average(scores)
+    result["lr.combined.neg.stdev"] = numpy.std(scores)
 
     return result
