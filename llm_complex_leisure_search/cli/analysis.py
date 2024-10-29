@@ -3,6 +3,7 @@
 # SPDX-License-Identifier: MIT
 """Analysis-related CLI commands."""
 
+import itertools
 import os
 from csv import DictWriter
 
@@ -16,6 +17,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     data_set_summary_stats,
     duplicate_counts,
     llm_solved_at_rank,
+    llm_solved_at_rank_avg,
     llm_solved_at_rank_single,
     llm_solved_stats,
     llm_summary_stats,
@@ -109,6 +111,27 @@ def solved_stats() -> None:
                     row = {"domain": domain, "llm": llm}
                     for rank in range(0, 20):
                         row.update(llm_solved_at_rank_single(domain, llm, rank))
+                    writer.writerow(row)
+                except KeyError as e:
+                    console(f"{e} not found")
+                except FileNotFoundError as e:
+                    console(e)
+    with open(os.path.join("analysis", "solved-average.csv"), "w") as out_f:
+        writer = DictWriter(
+            out_f,
+            fieldnames=[
+                "domain",
+                "llm",
+                *itertools.chain(*[[f"solved.{rank + 1}.avg", f"solved.{rank + 1}.stdev"] for rank in range(0, 20)]),
+            ],
+        )
+        writer.writeheader()
+        for domain in track(DOMAINS, description="Generating average solved stats"):
+            for llm in LLMS:
+                try:
+                    row = {"domain": domain, "llm": llm}
+                    for rank in range(0, 20):
+                        row.update(llm_solved_at_rank_avg(domain, llm, rank))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")

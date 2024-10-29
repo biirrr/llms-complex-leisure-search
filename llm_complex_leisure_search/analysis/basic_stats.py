@@ -100,6 +100,28 @@ def llm_solved_at_rank_single(domain: str, llm: str, rank: int) -> dict:
     return result
 
 
+def llm_solved_at_rank_avg(domain: str, llm: str, rank: int) -> dict:
+    """Calculate how many solved tasks at a given rank as an average of the three runs."""
+    solved = []
+    solutions = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + json.load(in_f)
+        with open(os.path.join("data", domain, f"{llm}_{data_set}.json")) as in_f:
+            solutions = solutions + json.load(in_f)
+    totals = [0, 0, 0]
+    for task in solved:
+        for solution in solutions:
+            if task["thread_id"] == solution["thread_id"]:
+                for idx, result_list in enumerate(solution["results"]):
+                    for entry in result_list[: rank + 1]:
+                        if task["title"] == entry["title"]:
+                            totals[idx] += 1
+                            break
+    result = {f"solved.{rank + 1}.avg": numpy.average(totals), f"solved.{rank + 1}.stdev": numpy.std(totals)}
+    return result
+
+
 def llm_solved_stats(domain: str, llm: str) -> dict:
     """Calculate statistics of how many solved across all result lists."""
     solved = []
