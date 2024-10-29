@@ -127,8 +127,6 @@ def artifact_stats() -> None:
         )
         writer.writeheader()
         for domain in track(DOMAINS, description="Generating artifact stats"):
-            if domain == "books":
-                continue
             for llm in LLMS:
                 try:
                     row = {"domain": domain, "llm": llm}
