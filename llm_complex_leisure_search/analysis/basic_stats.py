@@ -50,6 +50,7 @@ def llm_summary_stats(domain: str, llm: str) -> dict:
         "results.length.median": numpy.percentile(result_lengths, 50),
         "results.length.q3": numpy.percentile(result_lengths, 75),
         "results.length.max": numpy.max(result_lengths),
+        "results.total": sum(result_lengths),
     }
     return row
 

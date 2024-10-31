@@ -62,6 +62,7 @@ def llm_stats() -> None:
                 "results.length.median",
                 "results.length.q3",
                 "results.length.max",
+                "results.total",
             ],
         )
         writer.writeheader()
