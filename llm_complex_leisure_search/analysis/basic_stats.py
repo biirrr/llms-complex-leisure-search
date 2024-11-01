@@ -101,6 +101,18 @@ def llm_solved_at_rank_single(domain: str, llm: str, rank: int) -> dict:
     return result
 
 
+def llm_solved_mmr(domain: str, data: dict, solved_factor: int = 1, field_suffix: str = "") -> dict:
+    """Calculate the MMR for the given set of solved data."""
+    solved = []
+    for data_set in DATA_SETS:
+        with open(os.path.join("data", domain, f"solved_{data_set}.json")) as in_f:
+            solved = solved + json.load(in_f)
+    total = 0
+    for rank in range(1, 21):
+        total = total + (1 / rank * data[f"solved.{rank}{field_suffix}"])
+    return {"mmr": total / (len(solved) * solved_factor)}
+
+
 def llm_solved_at_rank_avg(domain: str, llm: str, rank: int) -> dict:
     """Calculate how many solved tasks at a given rank as an average of the three runs."""
     solved = []

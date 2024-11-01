@@ -19,6 +19,7 @@ from llm_complex_leisure_search.analysis.basic_stats import (
     llm_solved_at_rank,
     llm_solved_at_rank_avg,
     llm_solved_at_rank_single,
+    llm_solved_mmr,
     llm_solved_stats,
     llm_summary_stats,
 )
@@ -82,7 +83,7 @@ def solved_stats() -> None:
     with open(os.path.join("analysis", "solved-best.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "llm"]
+            fieldnames=["domain", "llm", "mmr"]
             + [f"solved.{rank + 1}" for rank in range(0, 20)]
             + [f"solved.{rank + 1}.fraction" for rank in range(0, 20)],
         )
@@ -93,6 +94,7 @@ def solved_stats() -> None:
                     row = {"domain": domain, "llm": llm}
                     for rank in range(0, 20):
                         row.update(llm_solved_at_rank(domain, llm, rank))
+                    row.update(llm_solved_mmr(domain, row))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")
@@ -101,7 +103,7 @@ def solved_stats() -> None:
     with open(os.path.join("analysis", "solved.csv"), "w") as out_f:
         writer = DictWriter(
             out_f,
-            fieldnames=["domain", "llm"]
+            fieldnames=["domain", "llm", "mmr"]
             + [f"solved.{rank + 1}" for rank in range(0, 20)]
             + [f"solved.{rank + 1}.fraction" for rank in range(0, 20)],
         )
@@ -112,6 +114,7 @@ def solved_stats() -> None:
                     row = {"domain": domain, "llm": llm}
                     for rank in range(0, 20):
                         row.update(llm_solved_at_rank_single(domain, llm, rank))
+                    row.update(llm_solved_mmr(domain, row, solved_factor=3))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")
@@ -123,6 +126,7 @@ def solved_stats() -> None:
             fieldnames=[
                 "domain",
                 "llm",
+                "mmr",
                 *itertools.chain(
                     *[
                         [
@@ -143,6 +147,7 @@ def solved_stats() -> None:
                     row = {"domain": domain, "llm": llm}
                     for rank in range(0, 20):
                         row.update(llm_solved_at_rank_avg(domain, llm, rank))
+                    row.update(llm_solved_mmr(domain, row, field_suffix=".avg"))
                     writer.writerow(row)
                 except KeyError as e:
                     console(f"{e} not found")
