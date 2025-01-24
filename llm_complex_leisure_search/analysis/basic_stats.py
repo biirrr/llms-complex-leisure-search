@@ -109,7 +109,12 @@ def llm_solved_mmr(domain: str, data: dict, solved_factor: int = 1, field_suffix
             solved = solved + json.load(in_f)
     total = 0
     for rank in range(1, 21):
-        total = total + (1 / rank * data[f"solved.{rank}{field_suffix}"])
+        if rank > 1:
+            total = total + (
+                1 / rank * (data[f"solved.{rank}{field_suffix}"] - data[f"solved.{rank - 1}{field_suffix}"])
+            )
+        else:
+            total = total + (1 / rank * data[f"solved.{rank}{field_suffix}"])
     return {"mmr": total / (len(solved) * solved_factor)}
 
 
