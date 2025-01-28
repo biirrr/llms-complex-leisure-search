@@ -1,3 +1,4 @@
+import re
 import requests
 import urllib.parse
 
@@ -25,7 +26,8 @@ def extract_matches(response):
 
 
 def search_openlibrary(author: str, title: str):
-    # url-encoded title and author 
+    # url-encoded title and author
+    title = re.sub(f' +', '+', title)
     title = urllib.parse.quote_plus(title)
     author = urllib.parse.quote_plus(author)
     url = f'{BASE_URL}?title={title}&author={author}'
