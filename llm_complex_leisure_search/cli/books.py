@@ -13,8 +13,10 @@ from typer import Typer
 from llm_complex_leisure_search.books.data import (
     extract_solved_threads,
 )
-from llm_complex_leisure_search.gemini import generate_multiple_responses
-from llm_complex_leisure_search.util import extract_all_answers, split_book_title_by_author
+from llm_complex_leisure_search.gemini import generate_multiple_responses as gemini_generate
+from llm_complex_leisure_search.llms.llama import generate_multiple_responses as llama_generate
+from llm_complex_leisure_search.settings import settings
+from llm_complex_leisure_search.util import split_book_title_by_author
 
 group = Typer(name="books", help="Commands for book-related processing")
 ANNOTATION_SOURCE_FILES = ["jdoc", "extra"]
@@ -57,30 +59,75 @@ def query_gemini() -> None:
             # Check if the task has already been processed
             exists = False
             for result in results:
-                if result["thread_id"] == task["thread_id"]:
+                if result["thread_id"] == task["thread_id"] and len(result["results"]) >= settings.llm.retest_target:
                     exists = True
                     break
             if exists:
                 continue
             result = {
                 "thread_id": task["thread_id"],
-                "results": generate_multiple_responses(task["prompt"]),
+                "results": gemini_generate(task["prompt"]),
             }
             for attempt in result["results"]:
                 if attempt is not None:
                     for entry in attempt:
                         title, author = split_book_title_by_author(entry["answer"])
                         entry["title"] = title
-                        entry["author"] = author
+                        entry["qualifiers"] = [author]
             results.append(result)
         with open(os.path.join("data", "books", f"gemini_{suffix}.json"), "w") as out_f:
             json.dump(results, out_f)
 
 
 @group.command()
-def aggregate_gpt(source_folder: str, suffix: str) -> None:
-    """Aggregate the GPT 4o Mini files."""
-    with open(os.path.join("data", "movies", f"ignored_{suffix}.txt")) as in_f:
+def query_llama() -> None:
+    """Process the books with Llama."""
+    for suffix in ANNOTATION_SOURCE_FILES:
+        with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
+            tasks = json.load(in_f)
+        if os.path.exists(os.path.join("data", "books", f"llama-3-2_{suffix}.json")):
+            with open(os.path.join("data", "books", f"llama-3-2_{suffix}.json")) as in_f:
+                results = json.load(in_f)
+        else:
+            results = []
+        for task in track(tasks, description=f"Querying Llama 3.2 ({suffix})"):
+            # Check if the task has already been processed
+            exists = False
+            for result in results:
+                if result["thread_id"] == task["thread_id"] and len(result["results"]) >= settings.llm.retest_target:
+                    exists = True
+                    break
+            if exists:
+                continue
+            result = {
+                "thread_id": task["thread_id"],
+                "results": llama_generate(task["prompt"]),
+            }
+            for attempt in result["results"]:
+                if attempt is not None:
+                    for entry in attempt:
+                        if isinstance(entry["answer"], dict) and "title" in entry["answer"]:
+                            entry["title"] = entry["answer"]["title"]
+                            if "author" in entry["answer"] and entry["answer"]["author"] is not None:
+                                entry["qualifiers"] = [entry["answer"]["author"]]
+                            else:
+                                entry["qualifiers"] = []
+                        elif isinstance(entry["answer"], str):
+                            title, author = split_book_title_by_author(entry["answer"])
+                            entry["title"] = title
+                            if author is not None:
+                                entry["qualifiers"] = [author]
+                            else:
+                                entry["qualifiers"] = []
+            results.append(result)
+            with open(os.path.join("data", "books", f"llama-3-2_{suffix}.json"), "w") as out_f:
+                json.dump(results, out_f)
+
+
+@group.command()
+def aggregate_gpt(source_folder: str, model: str, data_set: str) -> None:
+    """Aggregate the GPT files."""
+    with open(os.path.join("data", "movies", f"ignored_{data_set}.txt")) as in_f:
         ignored = [thread_id.strip() for thread_id in in_f.readlines() if thread_id.strip()]
     tasks = {}
     for filename in os.listdir(source_folder):
@@ -111,32 +158,28 @@ def aggregate_gpt(source_folder: str, suffix: str) -> None:
                 else:
                     entry["qualifiers"] = []
 
-    with open(os.path.join("data", "books", f"gpt-4o-mini_{suffix}.json"), "w") as out_f:
+    with open(os.path.join("data", "books", f"{model}_{data_set}.json"), "w") as out_f:
         json.dump(results, out_f)
 
 
 @group.command()
-def extract_answers() -> None:
-    """Extract all unique answers."""
-    answers = set()
-    for _, prefix in track(LLM_MODELS, description="Extracting answers"):
-        for suffix in ANNOTATION_SOURCE_FILES:
-            with open(os.path.join("data", "books", f"{prefix}_{suffix}.json")) as in_f:
-                answers.update(extract_all_answers(json.load(in_f)))
-    if os.path.exists(os.path.join("data", "books", "unique-answers.json")):
-        with open(os.path.join("data", "books", "unique-answers.json")) as in_f:
-            data = json.load(in_f)
-    else:
-        data = []
-    result = []
-    for answer in track(answers, description="Merging answers"):
-        found = False
-        for old_answer in data:
-            answer_tuple = (old_answer["answer"][0], tuple(old_answer["answer"][1]))
-            if answer_tuple == answer:
-                result.append(old_answer)
-                found = True
-        if not found:
-            result.append({"answer": answer, "exists": False, "exists_with_qualifier": False, "popularity": 0})
+def merge_openlibrary_answers(source_file: str) -> None:
+    """Merge the openlibrary answer lookups."""
+    with open(os.path.join("data", "books", "unique-answers.json")) as in_f:
+        answers = json.load(in_f)
+    with open(source_file) as in_f:
+        for line in track(in_f.readlines(), description="Merging answer lookups"):
+            lookup = json.loads(line)
+            if "docs" in lookup:
+                for doc in lookup["docs"]:
+                    for answer in answers:
+                        if doc["title"] == answer["answer"][0]:
+                            answer["exists"] = True
+                            if "readinglog_count" in doc:
+                                answer["popularity"] = doc["readinglog_count"]
+                            if len(set(doc["author_name"]).intersection(set(answer["answer"][1]))) == len(
+                                answer["answer"][1]
+                            ):
+                                answer["exists_with_qualifier"] = True
     with open(os.path.join("data", "books", "unique-answers.json"), "w") as out_f:
-        json.dump(result, out_f)
+        json.dump(answers, out_f)

@@ -1,0 +1,13 @@
+domain,llm,threads.answered,threads.answered.fraction,results.length.min,results.length.q1,results.length.median,results.length.q3,results.length.max,results.total
+books,gemini,188,1.0,17,18.0,19.0,20.0,21,10646
+books,gpt-3-5,188,1.0,3,6.0,9.0,20.0,21,6592
+books,gpt-4o-mini,188,1.0,10,19.0,19.0,20.0,21,10131
+books,llama-3-2,188,1.0,1,19.0,20.0,22.0,100,11480
+games,gemini,562,1.0,15,19.0,20.0,20.0,21,32804
+games,gpt-3-5,562,1.0,2,8.0,10.0,20.0,21,21962
+games,gpt-4o-mini,562,1.0,5,19.0,19.0,20.0,21,30585
+games,llama-3-2,562,1.0,0,20.0,20.0,22.0,38,34350
+movies,gemini,777,1.0,2,19.0,20.0,20.0,22,44421
+movies,gpt-3-5,777,1.0,2,8.0,20.0,20.0,21,33717
+movies,gpt-4o-mini,777,1.0,10,19.0,19.0,20.0,21,42280
+movies,llama-3-2,777,1.0,0,19.0,20.0,21.0,35,46815
