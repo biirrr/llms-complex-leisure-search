@@ -46,7 +46,7 @@ Source = "https://github.com/Mark Hall/llm-complex-leisure-search"
 path = "llm_complex_leisure_search/__about__.py"
 
 [tool.hatch.envs.default]
-extra-dependencies = ["ruff==0.5.1"]
+extra-dependencies = ["ruff==0.11.5"]
 
 [tool.hatch.envs.default.scripts]
 style = "ruff check --fix --exit-non-zero-on-fix {args:.}"
@@ -57,6 +57,7 @@ target-version = "py311"
 line-length = 120
 
 [tool.ruff.lint]
+exclude = ["llm_complex_leisure_search/books/*.py","llm_complex_leisure_search/books/*.ipynb"]
 select = [
   "A",
   "ARG",

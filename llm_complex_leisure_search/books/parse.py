@@ -1,26 +1,17 @@
+import datetime
 import glob
 import os
-import requests
-import datetime
-import dateutil.parser as parser
 import re
 import time
 
 import pandas as pd
+import requests
 from bs4 import BeautifulSoup
+from dateutil import parser
 
+WEEKDAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
-WEEKDAYS = [
-    'Monday',
-    'Tuesday',
-    'Wednesday',
-    'Thursday',
-    'Friday',
-    'Saturday',
-    'Sunday'
-]
-
-RELATIVE_DAYS = ['Today', 'Yesterday']
+RELATIVE_DAYS = ["Today", "Yesterday"]
 
 
 def has_relative_day(time_string: str) -> bool:
@@ -94,14 +85,14 @@ def extract_user_time(user_time_td, topic_file: str):
 
 
 def extract_topic_number(tr):
-    onclick = tr.attrs['onclick']
-    if 'lt.talktopic_go' in onclick:
+    onclick = tr.attrs["onclick"]
+    if "lt.talktopic_go" in onclick:
         if m := re.match(r"lt.talktopic_go\(event, '/topic/(\d+)(#n\d+)?'\)", onclick):
             topic_number = m.group(1)
         else:
-            print('no topic number in talktopic_go:', onclick)
+            print("no topic number in talktopic_go:", onclick)
     else:
-        print('no lt.talktopic_go')
+        print("no lt.talktopic_go")
     return topic_number
 
 
@@ -128,13 +119,13 @@ def parse_found(topic_title):
 
 def parse_row(tr, topic_file):
     topic_number = extract_topic_number(tr)
-    tds = tr.find_all('td')
+    tds = tr.find_all("td")
     # if len(tds) != 4:
     #     for td in tds:
     #         print(td)
     #     for td in tds:
     #         print('td.text:', td.text)
-    if len(tds) == 5 and 'ignore' in tds[4].attrs['class']:
+    if len(tds) == 5 and "ignore" in tds[4].attrs["class"]:
         tds = tds[1:]
     topic_title_td, num_posts_td, user_time_td, _ = tds
     topic_title = parse_topic_title(topic_title_td)
@@ -142,18 +133,18 @@ def parse_row(tr, topic_file):
     unread, num_posts = parse_num_posts(num_posts_td)
     found = parse_found(topic_title)
     return {
-        'topic_number': topic_number,
-        'topic_title': topic_title,
-        'user': user,
-        'last_post_timestamp': timestamp,
-        'crawl_timestamp': datetime.datetime.now().isoformat(),
-        'num_posts': num_posts,
-        'found': found
+        "topic_number": topic_number,
+        "topic_title": topic_title,
+        "user": user,
+        "last_post_timestamp": timestamp,
+        "crawl_timestamp": datetime.datetime.now().isoformat(),
+        "num_posts": num_posts,
+        "found": found,
     }
 
 
 def read_topic_file(topic_file):
-    with open(topic_file, 'rt') as fh:
+    with open(topic_file) as fh:
         soup = BeautifulSoup(fh, "lxml")
         return soup
 
@@ -166,18 +157,16 @@ def parse_topic_page(topic_file: str):
     #   div topictable
     #     div talktabcontent
     #       table talktable
-    talk_table = soup.find(id='talktable')
+    talk_table = soup.find(id="talktable")
 
-    thread_rows = talk_table.find_all('tr')
+    thread_rows = talk_table.find_all("tr")
     # URL, timestamp, user, found, num_posts
     threads = []
     for tr in thread_rows:
-        if 'onclick' not in tr.attrs:
+        if "onclick" not in tr.attrs:
             continue
-        if 'pinnedtopic' in tr.attrs['class']:
+        if "pinnedtopic" in tr.attrs["class"]:
             continue
         thread_info = parse_row(tr, topic_file)
         threads.append(thread_info)
     return threads
-
-
