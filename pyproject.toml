@@ -46,7 +46,7 @@ Source = "https://github.com/Mark Hall/llm-complex-leisure-search"
 path = "llm_complex_leisure_search/__about__.py"
 
 [tool.hatch.envs.default]
-extra-dependencies = ["ruff>=0.5.0"]
+extra-dependencies = ["ruff==0.5.1"]
 
 [tool.hatch.envs.default.scripts]
 style = "ruff check --fix --exit-non-zero-on-fix {args:.}"
