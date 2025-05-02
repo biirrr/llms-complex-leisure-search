@@ -39,7 +39,9 @@ def extract_json(text: str) -> str:
 
 def split_book_title_by_author(answer: str) -> tuple[str, str]:
     """Split an answer containing the text `title by author` into a `(title, author)` tuple."""
-    if " by " in answer:
+    if answer is None:
+        return (None, None)
+    elif " by " in answer:
         return (
             answer[: answer.find(" by ")].strip(),
             answer[answer.find(" by ") + 4 :].strip(),

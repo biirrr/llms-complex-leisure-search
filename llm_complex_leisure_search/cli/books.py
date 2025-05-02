@@ -10,16 +10,14 @@ from csv import DictReader
 from rich.progress import track
 from typer import Typer
 
-from llm_complex_leisure_search.books.data import (
-    extract_solved_threads,
-)
+from llm_complex_leisure_search.books.data import PROMPT_TEMPLATE, extract_solved_threads
 from llm_complex_leisure_search.gemini import generate_multiple_responses as gemini_generate
 from llm_complex_leisure_search.llms.llama import generate_multiple_responses as llama_generate
 from llm_complex_leisure_search.settings import settings
 from llm_complex_leisure_search.util import split_book_title_by_author
 
 group = Typer(name="books", help="Commands for book-related processing")
-ANNOTATION_SOURCE_FILES = ["jdoc", "extra"]
+ANNOTATION_SOURCE_FILES = ["jdoc", "extra", "goodreads"]
 LLM_MODELS = [("Gemini", "gemini"), ("GPT 4o Mini", "gpt-4o-mini")]
 
 
@@ -42,6 +40,26 @@ def extract() -> None:
         solved = extract_solved_threads(first_posts, records, ignored)
         with open(os.path.join("data", "books", f"solved_{suffix}.json"), "w") as out_f:
             json.dump(solved, out_f)
+
+
+@group.command()
+def extract_goodreads() -> None:
+    """Extract the unsolved goodreads threads."""
+    tasks = []
+    with open(os.path.join("data", "books", "goodreads_unsolved_requests-2025-04-15.tsv")) as in_f:
+        reader = DictReader(in_f, delimiter="\t")
+        for line in reader:
+            tasks.append(
+                {
+                    "thread_id": line["thread_id"],
+                    "request": line["comment_text"],
+                    "prompt": PROMPT_TEMPLATE.format(request=line["comment_text"]),
+                    "title": "Not-answered-yet",
+                    "author": "Not-answered-yet",
+                }
+            )
+    with open(os.path.join("data", "books", "solved_goodreads.json"), "w") as out_f:
+        json.dump(tasks, out_f)
 
 
 @group.command()
@@ -75,16 +93,19 @@ def query_gemini() -> None:
                         entry["title"] = title
                         entry["qualifiers"] = [author]
             results.append(result)
-        with open(os.path.join("data", "books", f"gemini_{suffix}.json"), "w") as out_f:
-            json.dump(results, out_f)
+            with open(os.path.join("data", "books", f"gemini_{suffix}.json"), "w") as out_f:
+                json.dump(results, out_f)
 
 
 @group.command()
 def query_llama() -> None:
     """Process the books with Llama."""
     for suffix in ANNOTATION_SOURCE_FILES:
-        with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
-            tasks = json.load(in_f)
+        if os.path.exists(os.path.join("data", "books", f"solved_{suffix}.json")):
+            with open(os.path.join("data", "books", f"solved_{suffix}.json")) as in_f:
+                tasks = json.load(in_f)
+        else:
+            tasks = []
         if os.path.exists(os.path.join("data", "books", f"llama-3-2_{suffix}.json")):
             with open(os.path.join("data", "books", f"llama-3-2_{suffix}.json")) as in_f:
                 results = json.load(in_f)
