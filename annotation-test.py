@@ -83,16 +83,15 @@ for entry in data:
             if collections.Counter(label_values).most_common(1)[0][1] > len(annotators) / 2:
                 annotation["final_label"] = collections.Counter(label_values).most_common(1)[0][0]
                 majority_annotations.append(annotation)
-            else:
-                if entry["data"]["domain"] == "book":
-                    if f"label.3" in annotation:
-                        annotation["final_label"] = annotation[f"label.3"]
-                elif entry["data"]["domain"] == "game":
-                    if f"label.6" in annotation:
-                        annotation["final_label"] = annotation[f"label.6"]
-                elif entry["data"]["domain"] == "movie":
-                    if f"label.4" in annotation:
-                        annotation["final_label"] = annotation[f"label.4"]
+            elif entry["data"]["domain"] == "book":
+                if "label.3" in annotation:
+                    annotation["final_label"] = annotation["label.3"]
+            elif entry["data"]["domain"] == "game":
+                if "label.6" in annotation:
+                    annotation["final_label"] = annotation["label.6"]
+            elif entry["data"]["domain"] == "movie":
+                if "label.4" in annotation:
+                    annotation["final_label"] = annotation["label.4"]
         else:
             non_divergent_annotations.append(annotation)
 
@@ -155,7 +154,8 @@ with open("annotations.html", "w") as out_f:
     print("<html>", file=out_f)
     print("<head>", file=out_f)
     print("  <title>Shared annotations</title>", file=out_f)
-    print("""  <script>
+    print(
+        """  <script>
     function mouseEnter(ev) {
       for(const span of document.querySelectorAll("#entry-" + ev.target.getAttribute("data-id") + " p span")) {
         const idx = Number.parseInt(span.getAttribute("data-idx"));
@@ -177,12 +177,17 @@ with open("annotations.html", "w") as out_f:
         span.addEventListener("mouseleave", mouseLeave);
       }
     });
-  </script>""", file=out_f)
-    print("""  <style>
+  </script>""",
+        file=out_f,
+    )
+    print(
+        """  <style>
     .highlight {
       background: #ffff00;
     }
-  </style>""", file=out_f)
+  </style>""",
+        file=out_f,
+    )
     print("</head>", file=out_f)
     print("<body>", file=out_f)
     print("  <h1>Shared annotations</h1>", file=out_f)
@@ -196,7 +201,10 @@ with open("annotations.html", "w") as out_f:
         if entry["id"] in annotations_map:
             print("    <ol>", file=out_f)
             for annotation in annotations_map[entry["id"]]:
-                print(f'    <li><span data-id="{annotation['id']}" data-start="{annotation['start']}" data-end="{annotation['end']}">{annotation["label"]}: {annotation["text"]}</span></li>', file=out_f)
+                print(
+                    f'    <li><span data-id="{annotation["id"]}" data-start="{annotation["start"]}" data-end="{annotation["end"]}">{annotation["label"]}: {annotation["text"]}</span></li>',
+                    file=out_f,
+                )
             print("    </ol>", file=out_f)
         print("  </section>", file=out_f)
     print("</body>", file=out_f)
