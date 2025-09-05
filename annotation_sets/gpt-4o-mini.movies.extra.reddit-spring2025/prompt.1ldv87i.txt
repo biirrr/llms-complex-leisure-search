@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie about rebel teenage girls. I watched this movie a
+long time ago, maybe 2013, and it had this group of popular/rebel
+girls and there was a nerdy one who wanted to fit in, and the girls
+arranged for her to kiss a skater (?) boy for the first time. I just
+remember it had this scene of this girl applying butter and sprinkles
+as lipstick, and I think she had a younger sister."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

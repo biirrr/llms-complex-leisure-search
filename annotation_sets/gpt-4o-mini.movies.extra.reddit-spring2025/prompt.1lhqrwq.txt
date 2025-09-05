@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "asian horror-ish film i saw while passing by a dvd shop as a
+kid. i only managed to get a glimpse of a short part of the movie so i
+don't have a lot of details. i think it was a school setting ? there
+are only girls there and the scene starts off with an adult, probably
+a teacher, pointing a long gun out of the window and shooting girls
+who are running away in an open courtyard. the teacher has blood on
+her light-coloured clothes. the next scene is of these two girls who
+are hiding from this teacher, who is inspecting the classrooms. when
+she enters the room the girls are hiding in, the girls start crawling
+to hide. the tables have a small gap at the bottom where they can see
+the teacher's shoes as she walks. they finally reach the door, but
+there is some distance between their hiding space and the door, so one
+girl (Girl A) tells the other girl (Girl B) to run while she distracts
+the teacher. Girl A dives towards the teacher and they fall to the
+ground but she ends up getting shot a lot in the process. Girl B
+manages to escape from the room. i don't know any other part of the
+movie. i haven't been able to find it since i saw a snippet of it on
+some deserted dvd store in an empty shopping mall. that was before
+2018 i think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

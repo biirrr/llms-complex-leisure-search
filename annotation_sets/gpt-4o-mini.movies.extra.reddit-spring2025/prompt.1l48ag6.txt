@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie with a women in white dress. Hi everyone I'm trying to
+recall a movie its on the tip of my tongue, it's a horror movie and I
+wanted to watch it but forgot the name I believe it was on netflix
+though I no longer have a subscription to it It featured a woman in a
+white dress and blonde hair and she carried like this candlestick and
+her soon to be husband had a failing clay mining business and had a
+sister that was creepy and she had to marry him for financial reasons
+I think? sorry it's best I can remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

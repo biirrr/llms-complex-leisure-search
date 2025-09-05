@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-2000s] Gauntlet-ish game where you throw huge
+wooden hammers. Platform(s): PC, maybe DOS? Genre: Top-down action
+game, similar to Gauntlet Estimated year of release: I have no idea
+for sure, but I'm reasonably certain I played it on a floppy disc as a
+kid in the very early 2000s Graphics/art style: Pretty sure the
+graphics were more drawn than pixel art. 2d, simple medieval aesthetic
+I believe. Cartoony moreso than realistic. Notable characters: Main
+character had a really big wooden hammer I'm pretty sure. Maybe wore
+green, was possibly bald or wore a hat. Notable gameplay mechanics:
+You throw hammers similar to how you throw weapons in Gauntlet.
+There's a hub area and you walk to different level entrances. I feel
+like the final boss was fought in the hub area as well. Other details:
+Unfortunately I can't think of any other useful information; I can't
+picture what any of the enemies looked like or the general vibe of
+them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

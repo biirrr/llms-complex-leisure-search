@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where two young guys break into a woman's house with a
+shotgun. Came out in 2000s or 2010s. Two young guys with a shotgun who
+don't speak a lot of English break into this woman's house. They hold
+her hostage, she and one of the guys hit it off a little. The end was
+incredibly startling and graphic when they shoot her in the face with
+the shotgun while she's sitting on the couch. The social and emotional
+dynamic between the three was incredibly well done. What movie was
+this!?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

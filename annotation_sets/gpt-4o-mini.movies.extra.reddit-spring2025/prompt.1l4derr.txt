@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help find a movie I watched once lol. The movie is literally
+about a descendent of king Arthur the sword in the stone dude, but
+it's a younger boy who found the sword in the stone in a construction
+site and obvi pulled it out, then like Monsters show up but when they
+show up like time for everyone else like stops and they seem to
+disappear. They meet Merlin who is disguised as a teenager and eats a
+lot of chicken to regain his strength, near the end of the movie they
+go to the boys school and have to recruit all the students to help
+like fight this man or woman and they get Merlin the hypnotize the
+adults in school so they can get it done. It's like all I can remember
+but I can't seem to find it anywhere, help pls"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

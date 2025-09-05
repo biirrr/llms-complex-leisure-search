@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010] a roguelike/dungeon crawler. So I'll try explain
+as best I can. It's a dungeon crawler/ rogue like game It's got old
+school graphics on purpose, I think the game starts off with you being
+kicked off a cliff into a dungeon. You choose 4 characters with
+portraits, and you choose classes The game is you move room to room,
+and click around for secrets, weapons, potions Fight monsters. Think
+magic was used by combining certain runes. I played on PC, roughly 10
+years ago I reckon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

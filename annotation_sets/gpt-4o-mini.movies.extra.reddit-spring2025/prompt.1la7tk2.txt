@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Wolf guy and a kid. So I watched this movie when I was
+really young It had a guy who was actually a wolf(or vice versa), a
+kid who had a wooden sword that was turned stronger by a girl who was
+from a magic tribe/family, and at the end they had a war against some
+goblin or dragon ruler or something This is pretty dumb but I can't
+get it out of my head Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

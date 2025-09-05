@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old Black &amp; White Movie - Ends with the Antagonist
+Stepping out of an Airship and falling to his doom.. This is an old
+movie I saw on late night TV about 30 years ago, so my recollections
+arent the best, but here goes nothing. I believe it was British. It
+involved numerous people crossing paths with and plotting against the
+antagonist who was some kind of conman I think? One character was an
+older lady who I believe was a novelist, at one point she tries to
+acquire a """"""""mickey finn"""""""" which is some kind of knock out
+drug. She's hilariously misinformed and out of her depth trying to buy
+this from patrons in a seedy pub at the wrong end of town. The one
+part that is most clear in my memory is the final scene where everyone
+had ended up on an airship in flight, the antagonist is unaware having
+been unconscious. He wakes up, berates his would be captors and says
+he is off to report them to the police before stepping out the door of
+the airship and falling to his presumed demise."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

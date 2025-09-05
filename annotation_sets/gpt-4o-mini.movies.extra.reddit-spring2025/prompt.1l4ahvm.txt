@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "WMWT: mid-70s to mid-80s, low budget, action/ fantasy,
+tragic deaths of summoned allies. This is a long shot. I've spent ages
+trying to find this film. I used ChatGPT and spent \~ 10 rounds
+narrowing options. I now appeal to your wisdom. Help me
+r/whatmoviewasthat; you're my only hope!"""""""" Here goes: I think
+this was shown in a **Canadian theatre** sometime from about **1975 to
+1983** (*possibly* a **made for TV movie** though I don't think so).
+It was a **low-budget action movie** (lower budget than The Keep or
+Time Bandits). It had **medieval fantasy** elements (I think European
+but it could have been Asian, like a Shaw Brothers movie). The tone
+was **serious** IIRC. There was a powerful **evil character**,
+*possibly* with special powers. The movie featured a good man or woman
+who **summoned several different good allies**. These allies seemed
+distinct to me (e.g., a swordsman, a strongman...). Several or most of
+these allies died tragically (this was the most upsetting part to me
+as a child). It may have been an Asian film dubbed into English but I
+am not sure about this. **It is not** Hawk the Slayer, Sword and the
+Sorcerer, The Archer: Fugitive from the Empire, Ator the Fighting
+Eagle. Thanks for whatever help you might be able to provide!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Biker movie. Been trying to find a movie i watched with my
+father. Bunch of bikers sitting in a field one female some of the
+bikers bull either a knife or a gun on the couple and then cut her t
+shirt off then the boyfriend fights back and beats them up. I watched
+this when i had a high fever when i was a child with my dad i think i
+fell asleep half way through would like to see the rest of the film
+Edit extra info I watched the film in the late 90s / early eighties it
+was on uk television late night. The girl was hispanic or maybe
+italien all the people spoke with american accents"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

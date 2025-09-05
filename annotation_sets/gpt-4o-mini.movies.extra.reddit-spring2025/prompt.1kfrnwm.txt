@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "GUYS PALESE HELP. I'm looking for the title of a film that I
+watched over and over again as a child, I remember little or nothing
+except that some kids went to save a magical world on board living
+machines (which normally they live in nature). I specifically remember
+a scene where a little girl tries to take one of these machines but it
+runs away making the little girl cry and then she is consoled by one
+of these machines that come to """"""""choose"""""""" her as their
+master and there the mentor on duty explains to them that these
+creatures choose who should drive them. I think that from the quality
+in which I watched it it was 90/80 I'm also afraid it was a series or
+a special but please any help would be very much appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

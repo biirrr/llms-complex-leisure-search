@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][1998 - 2000?] Zelda style game, starting at dock of
+ship. Platform(s): PS1 Genre: Fantast Estimated year of release: 1999
+Graphics/art style: 3D Notable characters: human characters Notable
+gameplay mechanics: opening little woddenchests, map was grassy with
+castle ruins Other details: started the game by docking a big wooden
+ship on an island, blocky 3D characters male playable charactr
+possibly blue hair ran around by yourself but there were scripted
+moments and you would ahve characters around you possibly melee
+attacks not monkey island!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

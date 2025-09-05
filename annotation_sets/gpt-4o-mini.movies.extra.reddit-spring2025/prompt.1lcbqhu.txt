@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Have another kid, why don't ya?"""""""" - Steve Buscemi
+scene. Title is all I remember. He's in a car, waiting for a family
+with a bunch of kids to cross the street in front of him, getting
+super impatient. Don't think I watched the whole movie, just passed by
+while others in my family were watching, so I have no further memories
+or context."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

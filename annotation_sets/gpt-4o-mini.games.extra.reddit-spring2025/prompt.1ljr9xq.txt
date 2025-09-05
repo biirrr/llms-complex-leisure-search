@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "Help me find the game please [PC][1990-2010s] Grey 2D point-
+and-click adventure with non-human protagonist and tractor death
+scene. Genre: 2D point-and-click quest Style: Dark/depressive
+atmosphere Release period: Probably 2000-2015 Graphics: 2D Color
+scheme: Predominantly gray tones Characters: Complete absence of
+people, only strange creatures At the beginning of the game, the main
+character (non-human creature) puts a brick on the pedal of a
+car/tractor The car hits some other creature Before dying, the hit
+creature asks the main character for something and flies
+away/disappears Soundtrack: Musical soundtrack Interface: classic
+point-and-click Possible setting: Surreal/absurd world Exceptions:
+This is NOT: The Neverhood Machinarium Fran Bow The Cat Lady Harvester
+I Have No Mouth, and I Must Scream"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about time travel scientists who cause a global war -
+WW3 that is inevitable. I'm trying to name a movie (I think it's a
+movie, maybe a TV movie, don't think it's an episode of """"""""the
+outer limits"""""""" as I searched already for it, and it seems it
+isn't) about a group of scientists who are attempting to avoid a
+future global nuclear war - WW3. The basic premise is as follows: Late
+60s-mid 70s era movie/tv movie Countdown clock to d-day/doomsday Large
+screen viewing - I believe the machine itself was tube in shape and
+most of the set was beige/off white along with the machine The central
+theme is that the USA has made a time machine and can see the future,
+by doing so, word gets out eventually, leading to an increasing state
+of confrontation with the USSR/China etc. The whole thing escalates
+until they nuke each other. What happens is that, by seeing the future
+that has a nuclear war, they cause the nuclear war. This movie came to
+mind, as I just watched """"""""Paycheck"""""""" with Ben Affleck and
+it's pretty much a copy of the central idea of this. It may be an
+episode of a TV anthology style show, but I was so sure it's an old
+movie. Any help would be greatly appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

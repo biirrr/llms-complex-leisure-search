@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][around 2010] PvP Shooter (Demo?) with advanced graphics
+for the time that came free with a pc components i bought back then. I
+dont know if it ever had a full version, the maps you could play were
+kinda dark and rugged (maybe post apocalyptic?) places, maybe a
+parking lot. The technical highlights were pieces of cloth hanging
+from a few spots on the map and you could shoot holes in them with
+them eventually falling into pieces when perforated enough"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

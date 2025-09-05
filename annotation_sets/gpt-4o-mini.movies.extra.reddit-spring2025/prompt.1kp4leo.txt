@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror/comedy film, where characters in the movie universe
+are aware they are part of the movie.. The only element I remember
+clearly is a duo, male and female, who seem to be tasked with ensuring
+the film progresses properly. They have conversations about their
+satisfaction/ or lack thereof in their life. At one point, the male
+character decides he wants to be the killer himself, and dresses like
+an electrician to ambush some girls having a get-together at home
+after the lights go out. Any help would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

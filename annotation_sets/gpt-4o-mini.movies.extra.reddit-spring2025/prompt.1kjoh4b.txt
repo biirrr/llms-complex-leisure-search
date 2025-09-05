@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Nameeee!!. A scene that was in a gang, they attacked someone
+in his house, and he is a person who knows how to fight, and he was
+running away between the stairs and the gang kidnapped a girl or his
+sister and someone from the gang touch her ass and the Then the two
+came and freed this girl while she was going out with them, she took
+off her underwear and put it in the mouth of the person who held her
+ass, what is the name of this movie?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

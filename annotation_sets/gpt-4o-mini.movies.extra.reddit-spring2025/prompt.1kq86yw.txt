@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "i NEED this movie/show name. ive been trying to find this
+movie/show starring Devon Bostick who starred in the 100, diary of a
+wimpy kid and so much more. the only source i have is this photo of
+him kissing a girl, im convinced that this could be lost media or
+something because ive been searching and searching and so far no
+luck. if anyone knows or recognises this please let me know!! &lt;3"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

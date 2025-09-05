@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2010's] """"""""Racist"""""""" turn-based
+artillery game (like Worms) about conquering the world. You could
+choose with which ethnicity you wanted to play. Each ethnicity had 3
+lands in the World. I remember that 3 of the land were in the Americas
+and the owners of it were indiginous people and had typical tribal
+clothes, 3 of the lands were in Europe and the owners were white and
+had big noses, 3 of the lands were in Africa and the owners were
+black, had big lips and wore tribal clothes and the last 3 lands were
+in Asia and the owners were asians, had big teeth and wore the
+stereotypical chinese conical hat. The game always had something in
+the middle to avoid contact between the teams (you could only have a
+character on the other side if you threw him). The weapons were sticks
+(could get on fire), stones, bowl of eggs, bowl without eggs."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

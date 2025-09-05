@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Random art movie=>á. Hello! Im looking for an art film,
+where the characters are a younger boy and his sister, as well as an
+older man. The entire film takes place in a flat, which the siblings
+break into at the beginning of the movie, and the closing scene shows
+them leaving the street. What I still remember from the film is that
+they decorate the apartment as if they were in a cave, and somehow,
+with the scenes, they wanted to convey the concept of birth. The film
+is dominated by red colors, and thats about all I remember from it.
+If I remember correctly, the language was French/Spanish/Portuguese"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please Help Me Find This Movie. Please Help Me Find This
+Movie. Obscure extremely violent found footage film from the early
+2000s. The film follows a Woman journalist? from the UK? to a tent in
+the American? desert inhabited by a death cult? and a serial killer.
+The cult members allow themselves to be ritualistically murdered over
+several days by the serial killer. 90% of the film takes place inside
+of a white tent? in the desert. the final scene is that of the serial
+killer getting in his car and driving away. not 100% on any of the
+details as i am only going off my memory of a single veiwing i do
+remember the first killing was with a knife. i cant remember if the
+leader was pretending to run a cult so he could kill people or if the
+followers knew about what was going to happen. Please do not say The
+Sacrament. When I say extremely violent I mean extremely violent and
+disturbing. I remember bits and pieces from a single veiwing over 15
+years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] A browser game (maybe? i don't remember) PVP
+Americans against soviets. Platform(s): PC/Browser Genre: Military,
+Shooter Estimated year of release: By the graphics, 2007ish? I
+genuinely dont know Graphics/art style: Battlefield 2/COD MW2 (the old
+one) ish graphics (Memory is very foggy) Notable characters: I only
+remember that the original character for the soviets had a guy with a
+huge forehead and was bald Notable gameplay mechanics: Had tanks and
+helicopters, had different gamemodes (i think?) but the main one was
+capture the flag. Other details: The game had their own website and
+had cosmetics you can pay with real money or points from the game,
+from what i remember it had a lot of people playing, i remember there
+was an airport map and some kind of farm map, also remember there
+being a middle eastern map. The game had different classes for each
+soldiers. You also had to download a third party app too i think.
+That's all i could remember but i used to play a lot as a kid"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

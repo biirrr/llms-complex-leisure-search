@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "French or French Canadian Oddball Junkyard Film with
+Brutalist Architecture. A man lives in a junk yard or antiques yard.
+Theres a woman, maybe a sister who sometimes joins him. There is some
+significance to visit a brutalist monument near the end of the film.
+One of them brushes their tether with going toothpaste going
+everywhere. The man highlights a book from a famous entrepreneur
+(maybe Steve Jobs). Zooming out, you see he has highlighted nearly
+every sentence. It doesnt seem to be a really low-budget film."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

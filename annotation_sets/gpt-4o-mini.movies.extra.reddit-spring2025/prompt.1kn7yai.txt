@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Woman musician with a blonde shaggy cut is r*ped, it impacts
+her life tremendously. This movie would likely have been out in the
+early 2000s. The main character is a woman with a blonde shaggy
+haircut. I can hear her voice singing a song in my head, but I cant
+place the words. It might be something like the anger lies in you
+but my memories of this are so vague. Her voice is very Mazzy Star
+like. She is a rape victim and I believe the movie centers around her
+struggles to cope and move forward. I remember I bought it on VHS for
+five dollars from a Walmart bin. I really wish I had more to go on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Childhood movie I only saw once.. I swear I saw this movie
+where the man dude was like a fox or something (not fantastic mr fox).
+He runs into this village and the villagers that mistake him for some
+other animal. He becomes assimilated into this village and he hides
+his real identity for awhile until the end of the movie. The villagers
+get mad at him for hiding but I think they eventually forgive him. I
+NEED HELP IVE BEEN THINKING ABOUT THIS FOR YEARS."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

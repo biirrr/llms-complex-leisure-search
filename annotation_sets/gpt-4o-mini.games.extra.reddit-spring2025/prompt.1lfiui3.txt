@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps4] [vr] [2017-2019] multiplayer shooter game like tf2. I
+have very vague memories of playing this game. I can't remember if
+it's vr only or vr optional but I know i played it on the psvr. Its
+artstyle was more cartoony than tf2 but it hard an almost ww2 style
+esthetic. I remember one trailer for it had like an opera thing going
+on where it was gameplay mixed with an opera remix where the words are
+changed around to match the gameplay. I believe the game was shut down
+and taken off the stores. I also believe it was ftp"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

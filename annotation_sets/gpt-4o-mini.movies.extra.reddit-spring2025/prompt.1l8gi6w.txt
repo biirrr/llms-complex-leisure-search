@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A supernatural villain in a movie. OK so this is a movie I
+think from the 90s where the villain is I guess supernatural but he
+has a pair of attachments in his thumbs that are like little knives
+and he cut his face off in front of somebody to scare them but not his
+eyes or his mouth just like the round of his face and then he's like a
+demon or something and then he actually gets one of the protagonist
+killed or shot. That's all i got, good luck >z"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Group trapped on a ship with a deadly creature. I believe it
+was a group of people on a ship and some kind of creature gets in. The
+part I really remember was they walk into a room that was full of
+people and it is all skeletons and blood everywhere all over the
+ceiling and walls. I think a man and woman make it out in the end to
+an island or something but I am totally unsure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

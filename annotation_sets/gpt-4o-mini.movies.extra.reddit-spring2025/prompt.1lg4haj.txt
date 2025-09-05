@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Search for a film where a boy on a swing gets hit and
+kidnapped. Hi, I search for a movie, where a fat psychokiller hits a
+boy on a swing and put him in a black bag, but the boy is still
+alive."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

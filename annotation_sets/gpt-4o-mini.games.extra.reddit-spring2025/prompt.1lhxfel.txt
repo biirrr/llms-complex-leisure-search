@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS][2000s] 3d person medieval/fantasy action hack'n'slash.
+Platform(s): PS2, PS1? ... Genre: action, hack´n´slash Estimated year
+of release: 2000's Graphics/art style: gothic, cartoon... Notable
+characters: skeleton lich king, main warrior with long hair (elf?)
+Notable gameplay mechanics: gear upgrades in shop... I only remember
+playing the demo for this game. You start in a sort of graveyard where
+you fight skeletons. You play as a warrior with a sword and a shield
+(maybe long hair?) and you can buy gear from a shop (armor and weapon
+upgrades). The gameplay had a similar feel to Jak and Daxter or
+Ratchet and Clank, or maybe Medievil."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

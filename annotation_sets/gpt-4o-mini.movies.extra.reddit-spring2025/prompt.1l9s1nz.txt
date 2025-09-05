@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for an old fully CGI sci-fi/fantasy movie I watched
+before 2015. Hey everyone! Im hoping someone here can help me find a
+CGI animated movie I watched many years agoprobably sometime before
+2015. Its not a game, trailer, or seriesdefinitely a standalone CGI
+movie. Heres what I remember: """""""" The main character was a male
+with stylized hair, very much like Cloud from Final Fantasy. He was
+sort of beautiful or cool-looking. """""""" The style was sci-
+fi/fantasy, kind of like Final Fantasy in tone and visuals. """"""""
+There were swordsmaybe big or energy-style weaponsand at least one
+motorcycle or futuristic bike involved. """""""" Toward the end, there
+was a fight against a big monster. """""""" It was fully CGI, not
+hand-drawn animation or live-action. """""""" It wasnt Chinese or
+Japanese anime-styleit may have been in English or dubbed. Ive
+already ruled out: Final Fantasy: Advent Children, Tekken: Blood
+Vengeance, Appleseed, Kingsglaive, Vexille, Gantz: O, Blassreiter, and
+Kaena: The Prophecy. It wasnt a trailer either. Any help would be
+massively appreciated! Ive been trying to remember this for years and
+its driving me nuts ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,51 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Thriller, 19972001. The protagonist's neighbor is a
+fugitive serial killer. Please help me find the title, I've been
+looking for this movie for years.. Solved: it was Arlington Road!
+Theres a movie that keeps popping into my mind from time to time, but
+Ive never been able to identify it. I've searched on Google, asked
+ChatGPT, and even browsed the full filmography of an actor I suspect
+might be in it, still nothing. This is probably the first time Im
+asking on Reddit, and Im really hoping someone here recognizes it. I
+remember watching this film on TV with my mother, and even she has no
+memory of it, which is starting to make it feel like some sort of
+fever dream. I must have been between 7 and 11 years old, so I likely
+saw it between 1997 and 2001. It aired in prime time on an Italian TV
+channel (if any Italians are reading, Im talking about *Canale 5*). I
+*think* the movie might be American, but Im not completely sure.
+Theres a scene that made me think it was from the US, Ill explain
+below. Heres what I remember: The film opens with a young boy running
+down the street. He isnt shown clearly at first, I believe at one
+point only his shoes are visible as he runs. Eventually, the camera
+shows the boys hand, badly injured by a firecracker, held tightly to
+his chest. From this point, my memory is hazy. I believe hes helped
+by his fathers new neighbor. The mother is nowhere to be seen. I
+dont know if the boy is motherless or if she's just not part of the
+story, but the father starts getting to know this new neighbor. I have
+a vague memory of the actor playing the neighbor. I think it might
+have been **Philip Seymour Hoffman**, but after checking his
+filmography I didnt find anything that matches. Maybe it was someone
+who looked like him? In any case, at some point, the boys father
+begins to feel suspicious about the neighbor and starts investigating
+him. Theres one scene I clearly remember: the father goes to what
+looks like a library or archive, where he reads old newspapers on a
+screen. We dont really have anything like that in Italy, and Ive
+only seen those kinds of setups in American movies, thats what makes
+me think this might be a US film. I also remember the ending pretty
+clearly. Eventually, the father realizes the neighbor is a fugitive
+serial killer. The father tries to escape by car (cant remember if
+the son is with him or not). But once hes in the car, it explodes. I
+believe the explosion is shown from a distance, maybe even from the
+neighbors point of view as he watches. I think thats actually how
+the film ends. Does any of this ring a bell for anyone? I know the
+description is a bit patchy, but Id really appreciate any help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

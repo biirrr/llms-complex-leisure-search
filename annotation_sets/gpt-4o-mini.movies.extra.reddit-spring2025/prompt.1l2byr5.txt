@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What Movie Is It?. There were these short tiktok clips of a
+man walking through some facility with a suitcase. He was doing some
+shenanigans like immediately changing his suit to a different one by
+ripping it off around the neck (or was it just a white part, a
+""""""""shirt"""""""" he ripped off??), and when he got to the
+security guard room, he talked and confused them and took the guard's
+plaque with his name and posed as him, different security took the
+guard because of a bracelet the first one put on him and then the main
+character plugged something into... well, something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

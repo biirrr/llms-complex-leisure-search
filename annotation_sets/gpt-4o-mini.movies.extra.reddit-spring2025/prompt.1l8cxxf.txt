@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Move from a different university?. SOLVED!!! *Unable to edit
+Flair* I remember this one, but I also remember another film very
+similar to the premise of Birth with Nicole Kidman. It was a woman who
+lost her husband, but her brother-in-law, which was her dead husband's
+brother, claimed that he's actually her husband' spirit. The wife
+initially did not believe that her husband was actually in his
+brother's body. She thought her brother-in-law was a liar, but
+eventually, with all the things that he knew, she figured it must be
+her husband coming back to life; but she realized that her brother-in-
+law actually just read the letters that was written to her. He studied
+everything down to a T and was able to Regurgitate the information as
+if he was him. The movie came out around 2005 to 2008. I cannot
+remember the actors names nor can I remember the movie title. Every
+time I try to look for the movie based on how I describe it, it keeps
+coming up with this film or other similar, but never the exact one. I
+feel like i watched it in an alternate universe. Please tell me
+somebody remembers it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "gangsters, shotgun peephole scene, scared highway cops, tall
+bald silent guy, a fight with gangster girls, and a prison ending. Hey
+everyone, Ive been trying to remember the name of this movie I
+watched when I was a kid, about 10 years ago (so probably early 2010s
+or late 2000s), and its been stuck in my head for ages. Heres what I
+remember: * The movie starts with a guy holding a shotgun and knocking
+on the door of a house full of gangsters. When someone inside peeks
+through the peephole, the guy shoots him straight through it. Very
+intense opening. * The main characters were either two or three
+friends. One of them was a tall, bald guy who didnt speak or said
+very little. He was the intimidating, silent type. * Theres a scene
+where two cops are parked on a highway. One of them starts to turn on
+the siren, but the other stops him because they realise the cars going
+by are filled with gangsters, and the cops are scared to get involved.
+Its clear that these gangsters run the road. * Theres also a
+memorable scene where a group of gangster girls shows up, and the main
+characters end up fighting them with guns. * The film has a gritty,
+violent, and intense vibe. Im pretty sure it was in English and
+likely American-made, maybe a crime or action movie. * At the end of
+the movie, the bald guy who barely spoke gets sent to prison. After a
+time skip, hes bailed out, and thats when the movie ends. I watched
+it sometime between 20122015, but it could be older than that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

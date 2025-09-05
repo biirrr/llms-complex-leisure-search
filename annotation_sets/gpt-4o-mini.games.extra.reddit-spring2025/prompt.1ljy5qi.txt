@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNKNOWN] Not sure if full game or just preview but I do
+remember playing it.. Hi, first time posting here. I don't post on
+reddit but recently came across a video that featured this sub so
+decided to give it a shot. It was a game where you spawn in a inside a
+small house or tent in the middle of nowhere (not sure if you're
+looking for someone) and after getting out you have to look for food
+to feed a giant bird (can't remember if the bird was mechanical or
+not). I remember the setting being kinda post-apocalyptic, the most
+distinguishable part I would say is that there's an abandoned
+amusement park you can explore with giant slides and there would be
+black mists (enemies?) in the amusement park. I remember seeing a
+youtuber (can't remember who) playing it and decided to play it myself
+but I was young and barely remember specifics of the game much less
+the title. Please help. I think the name was just 3 letters but take
+that with a massive grain of salt..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

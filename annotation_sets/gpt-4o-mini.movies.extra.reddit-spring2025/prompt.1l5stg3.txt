@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Medievil movie I only know one scene of.. I was doom
+scrolling one night and I saw a clip of this movie (pretty sure it was
+a movie anyway) so here was the scene to my memory: Live action Some
+peasant (or knight of a different army I couldn't tell) was begging
+this other knight (who was a douche) not to kill a bunch of people,
+and the the knight was still wanting to kill them. I forgot how it got
+to this point but they agreed to duel each other or something like
+that, and the douche couldn't stand in the slippery mud, so instead of
+fighting him the good knight/possible peasant guy just kinda stabbed
+his sword in the ground and let the other peasant kill the guy while
+he was slipping in the mud. (Pretty sure it was also raining but I
+could be wrong) This was a few weeks ago, so I'm afraid that is all I
+can give info wise"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

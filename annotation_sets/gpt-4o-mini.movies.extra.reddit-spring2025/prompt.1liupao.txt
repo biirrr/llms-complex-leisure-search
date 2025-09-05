@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me remember the title of this movie. 2000´s or
+2010s - at the beginning of the movie two young women are at a party
+and they meet two boys who invite them at the beach the next day and
+the whole movie is basically that day which is pretty awkward. They
+borrow bikes to get there which I think break and they hide them and
+when they get to the beach the boys are with others girls and are kind
+of put off by them actually showing up and one of the main character
+girls tries to grab one of the boys in the water and hes really not
+into it. On their way home they find kittens in a garbage can and take
+them with them but end up putting them back in the trash. Thats all I
+remember but its been driving me crazy, thank you all in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser/PC] [Online] [Early 2000s] Online Game where you
+build rooms/upload cool avatars or chill in others rooms. Tryna figure
+out this one game I think called Wrld or something adjacent to that,
+cant find anything on it online. You can be any 2D to 3D character as
+your avatar, you were able to create a room and add music to it. You
+could visit other peoples rooms or just chill areas. old browser game
+very scene and night core-esque players but genuinely you could look
+like anything, something like that. Cant find any pics on how it
+looked. Any info helps yall! I hope you guys can figure it out bc
+Ive talked about this game w multiple people and the closest Ive
+gotten is someone mentioning it was possibly called Wrld."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

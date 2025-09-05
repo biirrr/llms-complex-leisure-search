@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help!! I need help identifying a movie.. I need help
+identifying a movie that I cant think of. In the movie, this young
+woman finds her parents dead. I think theyve been horrifically
+murdered. Anyway, she wakes up and doesnt recognize her husband. He
+explains that hes her husband and hes gonna take care of her. I
+forget a lot of of the scenes, but I do know that theres one where
+her sister tries to visit her and the husband wont allow it. Theres
+a priest that comes to her door and speaks with her. The whole time
+youre thinking this is really strange. Then, you learn near the end
+of the movie that shes really been possessed this whole time and
+shes going through an exorcism. The man that told her he was her
+husband is really this demon/Satan thats been placating her so he can
+possess her body. I cannot find the name of this movie anywhere. Can
+someone please help me?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

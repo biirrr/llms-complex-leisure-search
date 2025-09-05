@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC / PS1] [19998?] Medieval slasher like Nightmare
+Creatures. The graphics I remember are PS1-era, sk in the late 90's,
+beginning of the 00's. I remember it was similar to Nightmare
+Creatures, third person medieval game, the character was female and
+was wearing very revealing clothes, can't remember if bikini-like
+clothing. I'm almost sure it's not Nightmare Creatures because I've
+checked the character clothes and couldn't find anything. Maybe I'm
+confused but I think it had the word """"""""Dungeon"""""""" in the
+name. I've searched for Dungeon Keeper and Dungeon Siege, and it's not
+it. Any ideas? Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie possibly involving a conflict in an African country,
+with a scene where a womans arm is amputated and sewn back on her
+body?. I was talking about movies with someone who can't deal with
+body horror, and she mentioned this scene in a *non-horror* movie
+where a woman's hand is imputed and sewn to her hip (presumably after
+she's dead?) and then her leg was sewn to her shoulder. She said this
+happened in Blood Diamond. But that scene does not exist in Blood
+Diamond. Any idea what movie she might be remembering? Maybe it was
+just in dialogue and she pictured it? Or is this memory the result of
+a bad trip or something, lol. Thanks if anyone knows!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

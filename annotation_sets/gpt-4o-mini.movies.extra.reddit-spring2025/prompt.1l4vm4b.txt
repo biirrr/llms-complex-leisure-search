@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where two guys leave a new Cadillac in a garage for a
+hitman. I think this movie is from the mid to late 80s. Two guys are
+parking an expensive car (I think a Cadillac) in a garage, they wipe
+it clean from fingerprints and leave it there for a hitman or someone
+they have a contract with. But the hitman later finds them and says
+there were no car for him in the garage. The two guys swear to him
+that they left it there for him. The hitman says no one has ever seen
+his face and then he takes the two guys out. What is this movie?
+Please help me out"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "not a movie but a tv show. Several years ago, I started
+watching a series. I think it was on Netflix or Amazon Prime (I'm not
+sure). It was Spanish and a horror series. I remember that in the
+series, they took a group of young people to some sort of abandoned
+house and forced them to do stuff, but I think they gradually died,
+more or less in the style of """"""""Saw."""""""" I think at one point
+they were playing hide-and-seek or something like that. I also
+remember that there was a blind girl in the group. I think they
+canceled it because it was kind of bad and didn't have many viewers,
+but I need to know what it was called."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

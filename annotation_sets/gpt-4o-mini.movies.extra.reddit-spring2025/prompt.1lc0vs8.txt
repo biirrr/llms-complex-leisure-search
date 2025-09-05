@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can anyone help me with the name of this horror movie/show ,
+seen in early/mid nineties on tv. I have always wondered what
+movie/show this was since seeing as a kid. Aired early to mid nineties
+when I was 5/7 years old. Somewhere around then on cable TV There was
+a man and woman, they go to this old mansion, can't remember why.
+While there at least one of them drinks or eats some kind of green
+goo. Then it shows their body melt an turn into the goo, all of these
+creatures come out of rooms of the house and eat the person's body
+while it turns into the goo while the head remains, seems like there
+may have been a person at the mansion in control of the
+creatures.Later on it shows the woman's head in the hospital, while
+the man looks, and talks to her, head only no body. I know it's vague
+an a long shot, but I seen this as a kid an ive wonderd about it for
+25 years , never could identify it. I could never remember much more ,
+but I remember it scared the crap out of me as a kid, and those are
+the parts I remembered. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

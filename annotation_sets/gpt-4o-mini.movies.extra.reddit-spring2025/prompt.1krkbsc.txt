@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "whats the tv show name. all i remember about the tv show is
+that its a young boy who has ginger hair/ brown hair i think and he
+has a younger brother who always cries and blames him?? and he also
+has this nice friend thats a boy and i think hies parents hair color
+is blonde for the mom and brown for the dad not sure what the tv show
+is called is bc i cant remember it edit: and i suddenly remembered
+that i think their accents were british not sure but i think it is"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

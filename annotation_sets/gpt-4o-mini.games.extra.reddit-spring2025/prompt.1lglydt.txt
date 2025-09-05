@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2004+] Asian game - DMC-like, except you control
+allies. Platform(s): PC Genre: Around 2004-2008 Graphics/art style:
+Old anime style, blocky, 3rd person camera Notable characters: You
+control an 'anime guy' who controls allies/troops (the troops are very
+low detail - they are like these silvery-steel humanoids). At first
+you start with a big monster ally, but he gets destroyed, so for the
+next levels you switch to other sorts of troops: crossbowmen,
+swordsmen or tank troops. You can only control one of these per level
+Notable gameplay mechanics: DMC-like, but control 3-4 units at once,
+who orbit you or go attack enemies if you order them to, otherwise
+DMC-like beat-em-up. You can only tell the units to orbit you or
+attack, nothing else Other details: Level-based gameplay, very linear.
+You also level up yourself and your troops"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a horror film I watched 5+ years ago. I don't
+remember the exact time I watched this but it was definitely more than
+5 years ago. I can only remember one scene and it is very disturbing.
+Basically a young white woman is tied down either onto a chair or bed
+by an older woman (I can't remember if they kidnapped the young woman
+or if the woman was working for them) and the older woman has a son
+who was sitting on a chair and he has some neurological issues and I
+think was overweight. The older woman puts a condom on her son and
+makes him ejaculate using her hands, she then takes his sperm and puts
+it into a syringe that she then injects into the captured woman's
+uterus. I cannot for the life of me remember anything else about this
+film and I can't find any leads on reddit or using ai film finders.
+Can anyone help me figure this film out, I'm 90 percent sure this was
+an American English film but I could be wrong. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

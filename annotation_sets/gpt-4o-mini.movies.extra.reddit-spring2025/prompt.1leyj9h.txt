@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A man confesses to a priest that he is about to kill him..
+All I remember is that I watched this late at night a few years ago. A
+man was confessing to the priest that he killed a man, and when the
+priest asked Who did you kill? the man answered You, father. then
+shot him (I think) This particular scene stuck out to me. EDIT: The
+movie in question is In Bruges, thank you all for the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

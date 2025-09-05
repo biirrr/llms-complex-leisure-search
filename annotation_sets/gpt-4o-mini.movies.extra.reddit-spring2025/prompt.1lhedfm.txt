@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I am trying to find a movie!. Im trying to find a movie
+its two or three people total and they are trying to get the one
+person home while the one person is high as shit and the person is
+holding onto the wall while walking home and the other people are
+helping him get home."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

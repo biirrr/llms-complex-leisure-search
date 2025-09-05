@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Switch][2018+] Tank game where you connect multiple
+switches to make a level. Im like 80% sure its part of Nintendo
+Direct when the Switch was still new. The game might not have been
+released as Ive never seen any Switchtuber cover it. The trailer for
+it goes like this: A bunch of switches are laid out on a table in a
+domino fashion (not the falling-in-line kind, the way you actually
+play domino). A guy swipes a finger from one edge of a switch to
+another, creating a path between the rooms inside the switch. They
+would do this for all switches and the game starts. Tanks could pass
+through those paths and walk across switch screens like it was one big
+level. I remember it having the iconic Nintendo happy people playing
+video games together in a white void with colorful props theme."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

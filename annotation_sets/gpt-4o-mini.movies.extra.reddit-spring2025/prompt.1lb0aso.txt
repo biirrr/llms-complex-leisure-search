@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror/Thriller involving an orphanage and musical
+prodigies. Hello A young woman is a musical prodigy (I think piano or
+cello) She grew up in an orphanage with other musical prodigies
+Something happens that unlocks her memories from that time (drugs?
+Unsure) She also has some hallucinations (iirc there's a scene with
+bugs) Spoiler ending It turns out that at the orphanage the kids were
+(drugged? hypnotized?) to become musical prodigies and also sexually
+abused (to fall in love with the headmaster?) She goes back and has
+her revenge (and I think it was pretty gore) I hope I'm not mixing
+different movies together! I'm pretty sure it's from 2010s The main
+character is a white tall brunette actress"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows] [2000?-2015?] Farm defence shooter. STORY: from
+what I remember there were scientist driving a truck, they crash it,
+radioactive barrels fall out and into the farm field, plants mutate
+and attack the farmer GAMEPLAY: you would be behind a fence and the
+mutated plants would run up to it, hit it and the fences health would
+go down but between waves you can upgrade your fence. I think there
+were different guns you could get not sure but there was varying
+enemies types like ranged, tank, and fast. Your camera or vision was
+stuck to one spot Looking out to the field and used the mouse to aim
+around the screen. OTHER: This is all I remember about this game the
+years listed in the title are most likely off but I put around when I
+remember playing it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

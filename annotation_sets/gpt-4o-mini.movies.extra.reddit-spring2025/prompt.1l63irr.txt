@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Couple try to trick an old man by having the woman pose as
+his dead wife (maybe?). So, totally stumped and my wife is thinking of
+a movie when we put on Grey Man (Gosling/Evans) and something
+triggered a memory of a movie with this vague description. Been
+racking my brain with her limited set of clues lol 1) there is a
+couple (but maybe a fellow friend con man) 2) there is some sort of
+box the couple is trying to find. (Wife thinks music box) 3) there is
+an old man that they try to trick him is some way that the female of
+the couple is the old man's dead wife by wearing a dress (white, again
+maybe?) 4) and things go wrong. I tried asking about actors she
+remembered or the period of time the movie was set in and no more
+recollections If anyone has the vaguest idea, it would be awesome lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s Movie Criminals Digging/Drilling. I'm trying to remember
+a 90s Movie where a kid/kids are trying to stop criminals who are
+drilling (possibly under a school). I remember something with the fire
+sprinklers system being activated. The guy running the digging (want
+to say his name is Ollie) yells at the boss in an Irish accent
+""""""""we can't drill without water!"""""""". And ultimately turns
+the main water line back on and says """"""""come on lads""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Beastmaster-like movie. I thought there was a scene in the
+movie Beastmaster where the protagonist must lay still while hes
+covered in ants to prove he is worthy of&something? Apparently it is
+not in that film. Does anyone know what I might be thinking of? Its
+got a similar scantily clad muscle bound guy with a sword, I think a
+witch, and 80s fantasy vibe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000s slasher movie. Hey guys, Ive been trying to
+find this old slasher movie from the early 2000s for years. I saw it
+when I was a kid, and now Im 30 and seriously losing my mind trying
+to remember what it was. Heres what I remember: A group of teens go
+on a trip  I think they take a boat to some forest-y hotel or camp
+type place. The owners of the hotel are a married couple, and they
+start killing off the group. One of the girls in the group is super
+quiet, has braided hair like Wednesday Addams, and turns out shes
+working with the killers. Theres also this one woman in the group
+with amazing boobs  no other way to put it. Shes having sex with her
+boyfriend, and mid-hookup, the killers attack and kill him. Her whole
+body gets covered in blood. If I remember right, that same woman
+survives and ends up killing the murderers at the end. Please help me
+figure out what this movie is. I need closure before I go insane."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

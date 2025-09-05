@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding name of older movie. Hello I have been
+searching for a particular movie for so many years and Ive tried
+different Google searches and each time found no results. I suspect
+because its such an old movie, perhaps 40s and 50s. I only saw bits
+and pieces of it most likely on TCM (Turner Classic Movies). What I
+did see of it, it was about a family who I think were having trouble
+with their mortgage and a man came to their house to collect money or
+give them a deadline as to which to make the payment otherwise they
+would lose the home. The Father had his son do something to the mans
+car to where the man ended up having to stay there with the family and
+ended up really liking the family and even falling in love with the
+daughter. Any help would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

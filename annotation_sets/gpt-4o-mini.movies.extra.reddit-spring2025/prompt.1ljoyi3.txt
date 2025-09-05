@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s/early 2000s lesbian movie I can only remember like one
+scene. Theres this movie i remember watching as a kid, and theres this
+scene where the love interest pulls into a gas station? or something
+where the main character works and i believe she faked fixing her car
+that didnt have any problems. i was just suddenly hit with nostalgia
+from it google is not helping rn"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

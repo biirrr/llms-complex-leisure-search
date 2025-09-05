@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie. I have been looking for a movie for many years, I saw
+it on open TV, it started with a man who wanted to run away with his
+daughter or kill her but in the end he has an accident in his truck
+and dies. The girl goes to school and apparently there are other
+parents who killed their daughters on their birthday. I don't remember
+if it was 15 or 16. It turns out that they couldn't have children and
+they made a pact with the devil, who instead took over them at a
+certain age. The girl asks for help from a classmate of hers to
+baptize her and tries to drown her, saying that her soul can only be
+saved if she dies before the demon possesses her. In the end the girl
+chooses the side of evil and joins others like her, her teacher and
+her boyfriend too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

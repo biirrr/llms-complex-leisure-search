@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie that ends in a Yurt. My wife says we both saw this
+movie because we thought it looked funny, but wasn't. All she
+remembers is that maybe it's a road trip that ends with them in the
+desert is a yurt and somebody gets shot. It was possibly written by
+the star of the movie, and he has written some books, as well. It's a
+movie from the last ten years. Probably. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

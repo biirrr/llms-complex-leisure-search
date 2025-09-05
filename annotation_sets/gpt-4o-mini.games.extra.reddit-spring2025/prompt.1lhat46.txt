@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [around 2017] FMV-style game. remember a game played
+from first-person view with real filmed actors. The start showed a guy
+and a girl having sex in bed (there was nudity). Then a maniac broke
+in and stabbed the girl in bed. After that, you had to run away and
+make quick choices. Wrong choices meant instant death. The game looked
+like a real movie, not animated. It was probably an indie PC game. If
+you know this game, please help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

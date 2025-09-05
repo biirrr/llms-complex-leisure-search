@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Mid to late 70's (horror?) movie. My parents saw a double
+feature at a drive in in the late 70's. My dad says it was called
+psychic surgery, but I can't find anything named that or similar. He
+says it was very bloody, and features a tribe that removed organs with
+just their hands (the psychic surgery). But the unique thing was, a
+quick 4 note tone would play with increasing pitch before anything
+violent, and then decreasing pitch after the violent parts. Any ideas?
+He still has ptsd when he hears similar sounds as the tone that
+played."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

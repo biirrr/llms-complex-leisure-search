@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2020 maybe?] A game about a white dog going on an
+adventure to seemingly look for it's owner?. So ok I'll get straight
+to the point, the game looks soft shaded and has no outline, and it's
+kind of like a platformer/side scroller game, and the main character
+is a white dog, you start from a house, and you see your owner
+leaving. And I remember one stage on the game where you ride on a
+cart, and the other stage I remember is when you go through a dent and
+you use the teeth of a huge skull to get out I'm not sure if the dog
+had a spot somewhere on its body or if it had floppy ears, but that's
+how I remembered it so far.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

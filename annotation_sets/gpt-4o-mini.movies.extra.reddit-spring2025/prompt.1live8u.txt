@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "This may be from a show - cant remember. I recently saw a
+clip on social media of a show that I know Ive seen, but have since
+lost the clip and cant remember. A male character mentions to a
+female character that he can smell her boyfriend/situationship on her,
+she responds something along the lines of I do? Oh, that is quite
+dreamy I believe she may have had an English accent, but I cant
+quite remember. she may have been wearing some kind of coat. Please
+help! Ive asked Google and ChatGPT and neither knows what Im talking
+about. Hoping I didnt somehow make this up =-"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

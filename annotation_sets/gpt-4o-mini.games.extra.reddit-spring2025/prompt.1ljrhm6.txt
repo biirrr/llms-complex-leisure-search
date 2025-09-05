@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3] [year 2010 to 2014] a topdown fighting game with
+puzzles about trying to be a hero?. **Platform(s): ps3** **Genre:
+topdown fighter game with some puzzles** **Estimated year of release:
+not sure but 2010 to 2014** **Graphics/art style: 3d game with
+cartoonish characters** **Notable characters: the main character was a
+guy with a big shin who tried to be a hero i think but was bad at it ?
+the game had an insanely humorous tone i think he might have been the
+mayor of his town** **Notable gameplay mechanics: it was a 2 player
+co-op top down fighting game with some puzzles and you could find
+items to change the main character's playstyle or moves while the
+second player had to choose from a couple of sidekicks with set
+moves** **Other details: i frankly only played the demo of it so i
+might have missed out on a lot of details**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

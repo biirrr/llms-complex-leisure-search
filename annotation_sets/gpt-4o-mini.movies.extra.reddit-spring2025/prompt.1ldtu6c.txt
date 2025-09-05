@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Fantasy movie (80s or 90s). I've been trying to remember the
+title of this movie. I watched it's trailer many years ago so I don't
+have much to go on. What I can recall is the main character sort of
+slept for many years then woke up in the future. Mc is a white blonde
+male with shoulder length hair. The villain is looking for an item, he
+actually says in while torturing some guys 'The Item, where is it?'.
+There was a scene where the villain used a cross bow on a girl, I
+think the girl shielded the Mc. There's also a girl, she punched the
+Mc the first time they met. I think she's the one that woke the Mc up.
+The also seem to fall in love. I think it was a sequel or so, I also
+think the title has 'Dragon' in it but I could be wrong. The trailer
+was part of Jackie chan's ThunderBolt movie at the time (vcd), so I'm
+guessing it might've come around that year. Please help =G<þ B"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

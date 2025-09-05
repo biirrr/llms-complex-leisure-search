@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Super weird movie I saw as a kid. I dont think it was a
+movie a kid should watch but my grandmother had a thing for weird
+movies. This one was on at one time and i dont remember very much of
+the plot at all but i remember a few scenes. It was live action.
+First, there was a cat girl who helped the main character escape from
+prison in some alternate dimension. She kills some mouse prison guards
+and says something along the lines of """"""""dont forget about
+me"""""""" with blood dripping from her mouth and he replies """"""""I
+dont think I ever will be able to"""""""". Secondly, I remember the
+main character had a body double. Not sure how it worked but while he
+was in the alternate dimension something else had control of his body
+or something like that. His body double sang """"""""Brick
+House"""""""" by the Commodores before proposing to his girlfriend.
+The girlfriend mentions somethinf about the ring not being his
+grandmother's ring and the body double is like """"""""oh i threw that
+old thing away, you dont want that"""""""" Lastly, I remember the body
+double put a spray in a bunch of children's toys and it got one one
+guy, who then proceeded to view his clothes as alive. He strips naked
+and runs across the screen at the end of the movie, urging the
+audience to take their clothes off too. I honestly do not remember
+what the movie was abiut but I do remember that the guy needed to get
+out of the other world and prevent his company from shipping the toys.
+It was a SUPER weird movie haha. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

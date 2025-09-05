@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Disabled boy transforms?. My boyfriend has been thinking
+about a movie most likely from the early 2000s that ends with a flesh
+like monster trying to break down the wall where the protagonists are
+hiding. One protagonist is in a wheelchair and screams something like
+""""""""I am Dennis"""""""" and transforms and fights the monster.
+Help it's bothering us so much that we don't know what it's called."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

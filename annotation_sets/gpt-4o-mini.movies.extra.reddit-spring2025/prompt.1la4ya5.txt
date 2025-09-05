@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci fi film i seen about 15 or so years ago. can anyone help
+me find name of a great sci fi film there is very few words said in
+alien ship carrying a prisoner the last of his species crashes on way
+to deliver him back you can't see the prisoner but he turns out to be
+last human alive in universe and he has a plan and gets revenge very
+few words in film loved but can find it or name the the ship crash
+everything was part of the human prisoners plan and he wipes out the
+hole alone species who made him tje last human but you don't find out
+the prisoner is human till.near end and it blows your mind he had a
+prisoner suit so you couldn't see his head it was like a helmet but
+aliens were cautious of him please someone has to know and again tjere
+is probably 30 words said in hole film"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

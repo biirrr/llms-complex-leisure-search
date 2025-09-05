@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "My aunt and I are trying to figure out the name of this
+movie.. The movie is about a wealthy man who has a home automation
+system, and a girl lives across the street from him, watching his
+every move with a spyglass. He has an accident (possibly caused by
+her), and she goes to take care of him. Then she takes over his life.
+At one point in the movie, she and one of her lovers cut off one of
+his fingers to go to the bank and withdraw money using the wealthy
+man's fingerprint. She also drills into the cast on his injured leg."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

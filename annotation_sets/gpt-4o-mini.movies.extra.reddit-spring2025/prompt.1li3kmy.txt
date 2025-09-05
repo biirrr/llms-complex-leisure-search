@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Weird home invasion movie about aliens and/or shapeshifting
+paranormal creatures??. Okay so in the pandemic like early 2020, I
+remember watching this movie were it starts out with a guy on a huge
+property taking water samples and he meets this new age goth girl who
+thinks shes a witch, shes the daughter of this family who live in a
+huge property in a forest maybe? And they start experiencing weird
+shit around the home, there might be a crazy lady who lives on the far
+end of the property, and it might have been because there were like
+aliens or other things living in a well in her house and they crawl
+out and try to kill/or shapeshift into the family members and it
+becomes like a home invasion movie?? I have been searching for years
+and have not been able to track it down but I remember it being
+absolutely batshit so would really like to watch it again, any help
+would be amazing!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "a woman gets a parasite from swimming somewhere and starts
+getting mutations. i remember seeing it years ago, she kills another
+woman in a bathtub because when that woman freaked out, she put her
+hands over her mouth to prevent her from screaming but then realizes
+she suffocated her because her hands were covered in slime, and then
+locks herself in the bathroom. at some point i think she discovers she
+was pregnant and then gets a nightmare or something that she instead
+births gross parasite eggs that look like frog eggs and she gets
+extremely possessive over those eggs. the movie title was very simple,
+something like """"""""infected"""""""" or """"""""host"""""""" or
+""""""""parasite"""""""" (but frustratingly, lots of movies share
+those kinds of names)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

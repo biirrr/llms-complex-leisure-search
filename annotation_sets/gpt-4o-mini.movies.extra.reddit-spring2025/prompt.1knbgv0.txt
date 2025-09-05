@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-fi movie where dad goes looking for daughter through
+space. I cant remember if it was a full movie or like a mini move but
+the plot is a dad and daughter work in like this space ship salvage
+yard and his daughter leaves with her boyfriend through space. The dad
+borrows a ship from his friend and goes looking for her. But the more
+he jumps through wormholes the slower time is for him so by the time
+he actually catches up to his daughter theyre the same age or shes
+older. Then when he returns the ship the friend who he got the ship
+from has died and her daughter now works where she used too. Its been
+bothering me for days I cant think of the name of this movie"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

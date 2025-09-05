@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie with a bittersweet love triangle. Unfortunately I
+can't remember anything about this movie except one moment: a young
+man and young woman love each other, and a third woman loves the man
+but it's unrequited. The young man faces the unrequited, more or less
+asking permission to be with his love. And the third woman says,
+""""""""Go to her! I'll be fine!"""""""" or something close to that.
+Then the young man goes to be with his love interest and the other
+woman cries bittersweetly. I faintly remember the unrequited's voice
+being high-pitched, and I think had an American accent, but I could be
+wrong. I'm 90% sure the movie came out before 2010 and 100% sure it
+came out before 2015. And that's all I've got. Sorry it's so vague.
+Can anyone help me?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

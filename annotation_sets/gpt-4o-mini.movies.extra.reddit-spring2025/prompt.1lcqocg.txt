@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Siberian gulag, Polish nobleman, bodies hidden in a coffin -
+searching movie. I'm looking for a movie (I watched before 2009) - a
+color, not B&amp;W. The film is set in the 19th century. The main
+character is a Polish nobleman, well educated and French-speaking. He
+is arrested by the Russians and sent to Siberia. His young wife goes
+to Siberia after some time to be by his side. In the gulag, she helps
+the head of the colony by teaching his children or looking after them.
+In time, she gives birth to three children, but they all die -
+probably of typhus. After the death of the third child, he asks the
+warden for a cart and an escort soldier to transport the child's body
+in a coffin. In reality, she hides her husband in the coffin. At night
+she secretly feeds him while the soldier sleeps. They travel for a
+long time and arrive in a town (probably in Turkey or with oriental
+architecture). Thank you in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

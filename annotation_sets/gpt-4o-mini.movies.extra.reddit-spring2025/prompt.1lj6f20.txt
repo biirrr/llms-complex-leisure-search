@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie where a little girl is home alone with her dad, dead
+on the couch, and trying to survive.. Hi Reddit ! I tried my best to
+remember the name of a movie I watched a while ago... And I need your
+help. lol. I watched it at least 10 years ago. It's a very dark story.
+It's basically the story of a little girl (who's around 7, 8yo? can't
+remember) and her dad, a hard rock musician in the United States. Her
+dad, who's having drug issues, is going through some trouble and
+decides to escape with her and find shelter in a house in the
+countryside. So the 2 characters are going in the house, and shortly
+after that, the dad dies on the sofa (probably an overdose). The rest
+of the movie is about his daughter trying to survive alone in the
+house, until she finds someone. If I remember correctly, the people
+she find aren't really friendly (a mother and her son with heavy
+mental health issues). Any help would be appreciated ! :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

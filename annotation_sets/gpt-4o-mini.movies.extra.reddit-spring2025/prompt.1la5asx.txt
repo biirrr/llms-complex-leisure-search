@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Im being gaslit by the internet. Whats the movie where a
+family moves to a small town to give the father (who was an author)
+inspiration for his novel. His wife is a bad interior designer and his
+daughter plays an instrument. He goes into town, watches some musical
+performance and ends up being introduced to a drug that will help him
+write. If Im not mistaken I remember it being blood but maybe not.
+This drug helps him immensely but he becomes somewhat of a zombie and
+starts losing time and eventually his daughter gets into it to help
+her playing. Thats all I really remember of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

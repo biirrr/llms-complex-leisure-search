@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Non-English language film where a guy wakes up to find he
+can't walk.. I was flipping channels as a kid and I saw this single,
+very disturbing scene from a foreign -language film (possibly Spanish)
+where a man wakes up in a bed (either in a hospital room or a prison
+cell) and slowly realises his legs don't work. He starts screaming and
+shouting and eventually falls out of bed and drags himself to the
+room's door, which is locked. The scene ended with him sobbing and
+screaming on the floor. I have never forgotten this scene
+(obviously!). It would have been on British TV in the very early
+eighties, in the evening."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

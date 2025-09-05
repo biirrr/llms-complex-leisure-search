@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "If I dont find out what movie this is Ill go insane. I
+thought of a random specific scene in a movie where a kid is wearing a
+helmet and its a movie in a school setting, I would say 90s and
+theyre elementary students. And the kid is always wearing a helmet
+&amp; one day he has a camera attached to it and I think the reasoning
+he gives is hes always getting hurt or is parents are asking what he
+did that day and he cant remember so they attached the camera so they
+can know. I THINK thats what he says. Ive been googling for like 45
+mins and Im not coming up with a single thing at this point Im
+thinking I made it up. Can anyone help me so I can finally go to bed
+?!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

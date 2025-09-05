@@ -1,0 +1,35 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "British school murder film. Can anyone help me please. Ive
+had this movie in my memory forever but I never knew the name of it
+and no one else Ive asked remembers it. The story is very vague for
+me because I dont remember that much I just remember there was a
+nasty ass plot twist in the end. So heres the story kind of: theres
+been a murder at like this British posh upper class school and a boy
+is under heavy suspicion. A woman cop is interviewing him and
+investigating but he manages to tell her such a convincing story about
+a secret dark brotherhood with religious people killing their
+girlfriends and taking their bones in a suitcase or something. And
+hes so good looking and charismatic he manages to convince the woman
+his friend is part of this and is the murderer. Theres also a thing
+that the brotherhood uses playing cards for something so after shes
+let him go she finds a playing card and realizes it was him all along
+but hes already well on his way. I also remember there was something
+about incest? And someone killed their own parents and buried them
+under the house or something and there was a scene with possibly a
+murder in a greenhouse at the school. And I also vaguely remember a
+scene between the main character and his friend pointing guns at
+eachother under a bridge in the rain. Maybe Im mixing movies together
+I dont know but I need to find out its been bugging me for years. I
+THINK the movie was called something with mind maybe idk. And it may
+have been released around the 2000s or 2010s I think. please help
+me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

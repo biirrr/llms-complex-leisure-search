@@ -1,0 +1,37 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Distant childhood memories of a movie I wasnt supposed to
+be watching. Alright youre going to have to bear with me on this one&
+When I was super young, like 5 or 6, I watched a movie with my dad and
+sister that I DEFINITELY was not supposed to be watching. From what I
+remember, which isnt a lot, I gathered that it must be an R rated
+horror/thriller movie. We also watched it with captions on so theres
+a chance its a foreign film. However, I can only really recall one
+scene clearly and the rest is pretty hazy. I would say that in maybe
+the first 15-20 minutes theres a scene where the main protagonist (a
+middle aged father of one son &amp; seemingly skinny troubled man with
+light scruff/facial hair) gets bad news of some kind while at work and
+proceeds to get in his car and scream FUUUUCKKKK really loudly like
+a million times on his commute home. This is the only scene that
+really stuck with me as a kid. The rest of what I remember about the
+movie is random vibes. It was a very gray/white movie. In general, I
+think the father was sort of a deadbeat, perhaps failing at his job,
+and there were marital problems of sorts. The main plot revolved
+around his kid being abducted by these strange nightmarish creatures.
+I dont think they really talked, they just dragged people behind them
+with chains in this weird desert dream world (I dont know where they
+were even taking them though). The father ends up getting his act
+together enough to chase them down and rescue his son though. Thats
+really all I have to go off of, and I know its not much, but Id love
+to watch this movie as an adult with more awareness and memory
+capacity. If someone by any chance has any ideas of what this could
+be, Id lose my shit. Good luck!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

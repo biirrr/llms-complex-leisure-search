@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010] A Game about experimenting, 3D Sideview.. I think
+it's the same era as gamehouse, but It was on a different folder as I
+remember, it wasn't directly on Gamehouse. It was a different game
+bundle, also had a lot of games but not as much as gamehouse. The game
+is 3D Sideview, I think it was about experiments. So we have different
+items, it could be a puzzle or a sandbox. The game had electricities,
+balls, platforms and wires and even conveyor belts, and etc. I think
+the game has something to do with scientist thingy... It was fun as a
+kid making machines and stuff... Now I just wanna see it again. But i
+can't remember the title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

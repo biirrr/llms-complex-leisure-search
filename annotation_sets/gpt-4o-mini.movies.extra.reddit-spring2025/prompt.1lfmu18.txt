@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What's that popular movie from the 2000s (?) about terrorism
+called.... ...wherein a group of people smuggle an RPG rocket and
+mount it on a fishing boat, planning to ram it into the side of a
+tanker?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-2007 (probably)] been looking for this one for a
+decade now and it still hasnt showed up. Platform(s): PC Genre:
+survival horror Estimated year of release: 1995-2007 Graphics/art
+style: resident evil like/ i think it was a 3rd person game at some
+parts at least Notable characters: i dont really remember Notable
+gameplay mechanics: ability to transform into a red demon to do
+puzzles like moving boxes Other details: The game started in a train
+station or a church, inside the church there were zombie like enemies
+Also remember the last level or one of the last being you as the male
+protagonist having to fight said red demon and a woman, the map was
+dark i think it was like some void or space"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

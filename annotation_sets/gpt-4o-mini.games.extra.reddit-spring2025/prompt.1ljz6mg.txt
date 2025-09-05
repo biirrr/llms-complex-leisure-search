@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s]fighting game that had the behemoths art style.
+First time making a post so sorry in advance. Anyways I remember
+playing a 2d platform fighting game which had the Behemoth's animation
+and art style. It was around 2014-2016 that I played it but I'm pretty
+sure the game is older than that. I remember pretty clearly that the
+bear character from castle crashers was in that game or a pretty
+similarly looking character. It was like gun mayhem but with no guns
+and you would choose a side and fight against another team with your
+own. There where like classes of big bears, small and agile bears, and
+medium bears. And I swear to god the game actually exist but I just
+can't seem to find any information in all the years I've spent
+searching for it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

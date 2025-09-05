@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "British indie movie, dark comedy, end 90s or start 00s (i
+think). I remember some scenes from the movie, and i think it takes
+place on a hotel. Theres a woman who is control of her life and seems
+to have an important career in an important position. Theres a man and
+i dont remember their relation, but this man acts like a spoiled child
+thats annoys her as hell, and wants to control her. He does things
+that complicates things for her ( for example, not that it happened in
+the movie, dropping plates intentionally on the floor, etc..), like a
+child not having its will. In the end, she gives up, and let him have
+his will, seemingly being his servant. In one scene you see her
+carrying his luggage Maybe the plot is that his father is tired of him
+being a childish asshole, unable to grow up. The father probably hires
+her to discipline and educate him, but its an impossible task for her.
+Tried prompting chatgpt in loads of ways but no luck. Im not sure
+about any of this, since i remember it very faintly, but the film was
+unique and very good."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

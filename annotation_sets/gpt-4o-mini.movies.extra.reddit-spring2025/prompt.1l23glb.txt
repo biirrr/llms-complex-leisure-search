@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Recent Werewolf Movie. Hey all, I watched a good werewolf
+film recently but can't find the name. Set in rural Europe possibly
+early 20th century. Lead actor was 30-ish attractive Irish looking
+with black hair. His character was a studious type, visiting a hamlet.
+I think the young son of the farmer he was staying with was the
+werewolf. He tracks animal mutilations amidst the crops. The ending
+takes place in the village church, at night, where townfolks have
+taken sanctuary and there's a weird supernatural 'osmosis' whereby the
+mother dies but the son is cured of his lycanthropy. Cheers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

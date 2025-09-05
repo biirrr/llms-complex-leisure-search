@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "An older WWII movie where.... A group of people are hiding
+in a cellar, sewer; they are trying to escape the Nazis during the
+Warsaw appraising. A baby starts to cry and a fighter/soldier offers
+to help the exhausted mother. She hands him the baby and after a few
+minutes he stops crying. When he hands the baby back, the mother
+discovers the baby has been smothered. This has been driving me crazy
+for YEARS! It was an older movie if only because I was just a kid when
+it aired on TV. I really hope you all can help me. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

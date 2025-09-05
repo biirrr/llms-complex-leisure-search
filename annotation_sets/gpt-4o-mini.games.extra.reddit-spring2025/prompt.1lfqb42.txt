@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015 - 2017] Pixel side scrolling rpg 2D Fnaf fan Game
+where you play as the Animatronics possessed by the kids trying to get
+free, i remember it being really depressing.. Not much else i
+remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

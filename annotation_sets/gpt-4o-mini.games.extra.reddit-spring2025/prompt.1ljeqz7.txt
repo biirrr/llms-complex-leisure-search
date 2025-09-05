@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android/IOS] [Unknown] Help me find the name of this mobile
+detective game!. So I used to play this mobile game in which you
+essentially play as a detective. I remember there being: \-a front
+profile for your detective character which you could customize. \-An
+office which you could customize as well. A drawer with case files you
+that you click on to start the case. \- I remember certain cases had
+you clicking on the correct location at the map, and some had you play
+this candy crush sort of minigame to help you progress to the location
+of the crime. Can't seem to find it anywhere anymore, so any help
+would be great!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

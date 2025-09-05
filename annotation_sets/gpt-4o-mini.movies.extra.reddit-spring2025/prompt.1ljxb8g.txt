@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "need help trying to find this movie i watched on prime video
+a while ago!!!. so this movie was a horror/time loop. it started with
+a bunch of teenagers (i think) and they went on a road trip or
+something. they drove past a tall building with a girl screaming at
+them and one of the girls in the car screamed and cursed back and
+started laughing with the rest of her friends. There was also a scene
+where they entered this room and on the wall there was a pentagram
+(may have been upside down) and basically toward the end, this group
+of friends end up in a building and start disappearing one by one and
+the last one remaining is a girl and as she tries to find her friends
+she looks out the window and sees a group of people driving past that
+building. she realized she was looking down at herself and friends
+entering the town. she starts screaming at them to leave that town but
+she is met with herself screaming and cursing back at her and driving
+away. she realizes she is stuck in a time loop. thats all i remember
+PLS HELP ME FIND THIS MOVIE i watched it in 2019 i think? its not a
+new movie there was also a lot of cursing in the movie if that helps
+lol UPDATE: movie name is satanic (2016)!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

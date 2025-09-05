@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-Fi movie maybe 20 years ago. I saw a sci-fi movie about
+20 years ago or a bit longer, where people think they travelling in a
+space ship to another planet but are in fact in a fake space ship
+still on Earth. The are being observed how they are surviving the long
+distance to another planet. The people grow their own food and have
+young families on the space ship. A young person believes that the
+gravity isn't real and discovers the space ship is in a large hangar
+on Earth. Please note: There was a television series very similar to
+this movie but I want to know the name of the movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

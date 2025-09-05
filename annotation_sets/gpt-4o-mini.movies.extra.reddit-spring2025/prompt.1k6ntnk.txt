@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help naming movie?. This is going to be a hard one because I
+remember too little about it. The main thing I remember is the
+characters, men, trying to join a club(loose term, maybe a secret
+society?) and after joining they would cut a horizontal line across
+their skin just below the pant line, above the crotch. It was part of
+the Induction process. I think they'd show each other the scar as an
+""""""""I'm one of you"""""""" sign. MAYBE it was a white guy trying
+to gain the trust of Native Americans? I remember this from when I was
+younger, so its probably from the 90's or earlier. I literally can't
+remember anything else about the movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

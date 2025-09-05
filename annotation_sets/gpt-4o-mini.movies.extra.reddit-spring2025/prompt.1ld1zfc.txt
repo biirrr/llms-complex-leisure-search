@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A weird movie from the 70s (probably?!). All I remember is
+it's a really old movie about two couples on vacation (not sure). It
+looked like was set in late 19th-early 20th century (clothes,
+hairstyles). Now the only two memorable details I remember are: 1. Two
+main male characters, one with a beard and one with a moustache, were
+fichting naked in a room with the fireplace (it was definitely
+fighting unless I've repressed something=) 2. Character with a
+moustache goes out and freezes to death in the snow. And that's the
+ending as far as I remember. I hope someone else knows this movie
+because I feel like I dreamt it or accidentally watched some old p*rn
+15 years ago and imagined the plot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

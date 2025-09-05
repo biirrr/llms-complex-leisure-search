@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Animated sci-fi hip-hop epic. Growing up in the early 2000's
+I remember watching this animated (or anime maybe?) movie several
+times. I believe it was a sci-fi hip-hop space opera featuring alot of
+record scratching and lewd (for lack of a better word) body movement.
+I distinctly remember one scene where someone was using record
+scratches to mind control women into shaking their butts around. I
+know this sounds like a fever dream and honestly it might've been. I
+asked my family about it several times but no one seems to know what
+I'm talking about. It was either made back in the 80's or 90's and I
+believe the word """"""""twisters"""""""" was somewhere in the title.
+This movie helped shape my music tastes so any help would be
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

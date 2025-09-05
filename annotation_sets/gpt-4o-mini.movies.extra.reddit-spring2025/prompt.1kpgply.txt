@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Weird homemade skits. Ok so in the early to mid 90s I rented
+a movie and it was just some guy who made a bunch of homemade skits
+and it was mostly unfunny and lame. The only one I can kind of
+remember was called King Dong and he was dressed like an ape and
+running around the backyard with like a giant fake dong but it didn't
+really look like a dong, just a big cylinder and it had two straps so
+he could hold it up while running around."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

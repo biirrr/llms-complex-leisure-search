@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me with this movie title!. Hi, I'm really
+struggling to remember the title of a film. It's about some teenagers
+in rural Nevada or Arizona who are left to grow up on their own after
+the dads move out of town for work. I don't remember much else apart
+from one girl getting pregnant and the father returns at the end.
+Also, a scene where they're drinking beers on scrap cars I think. Can
+anyone help me try to pin down this film. I can't find it on
+anything."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

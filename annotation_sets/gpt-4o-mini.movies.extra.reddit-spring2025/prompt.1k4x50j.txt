@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a boy hitman?. I saw this in the 2010s. The
+protagonist is a tween (ish) boy who lives in a kind of urban commune
+with his mother. The moms boyfriend is the leader of the commune,
+which is located in what looks like abandoned housing projects. He
+runs some criminal enterprise where he sends the kids out as assassins
+for hire and gets the money in return. The climactic scene of the film
+is when the boy shoots the leader while holding his baby sibling in
+his lap, and the baby has earmuff style hearing protectors. I want to
+say its Scandinavian or northern European in origin. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

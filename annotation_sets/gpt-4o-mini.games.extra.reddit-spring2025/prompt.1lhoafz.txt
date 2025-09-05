@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC cd-rom] [Late 90s/early 2000's] A text based adventure
+game. I have such vague memories of this game (sorry) but it's been
+bugging me for years. The cd-rom cover was a kind of
+alternative/punk/mosher dude. Wearing black, possibly with spiky hair.
+It *may* have had his name in the title. I remember you played as this
+guy and you went about doing things, interacting with people, going
+places and it was a text based game so you typed in the prompts. Tbh,
+I can't even remember what the overall mission of the game was... It
+wasn't a huge or popular game so it could've been an independent
+developer. I had never heard of the game or known of anyone else
+playing it after. My friend loaned it to me in the early 2000's but
+could have came out in the late 90's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2008] RPG Dungeon side-view Plataform, Comedy.
+hello, okay so in this game you start in an intro where you are
+playing some kind of DnD tabletop and end up getting immersed in the
+game (after going to the bathroom I believe), your character is quite
+slick making jokes and remarks, you fight common dungeon enemies
+collect things unlock new areas. the place you save the game is like a
+chained box in a giant room with a halo of light, there's some kind of
+god(?) there. I feel like this one should have been easy but I
+struggled searching and even with chatGPT lol. Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

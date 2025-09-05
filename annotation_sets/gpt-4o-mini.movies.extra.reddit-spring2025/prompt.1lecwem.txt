@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a horror i watched a while ago. My memory is
+quite foggy but the film had scenes where guys / demons dressed up
+looking like construction workers or maybe michael myers looking
+suits, would go out and then use jackhammer and other similar tools to
+kill people. Anyone has idea ? EDIT: Film is called ROUTE 666 (2001)!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

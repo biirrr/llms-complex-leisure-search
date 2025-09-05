@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90's movie. Just trying to figure out if it was a fever
+dream or an actual film from the 90s. I remember people that were
+large ants in hiding in the attic and the town possibly had apple in
+the name. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

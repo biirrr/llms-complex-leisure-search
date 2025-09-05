@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Late 90s (possible 80's) action movie with two
+men/""""""""monks"""""""" who could move things with their mind and
+control people.. I am trying to remember a movie that I watched back
+in the early 2000s on TV, in it it had two """"""""monks"""""""", (not
+sure if they were actually called monks) in the movie but they did
+train in a monastery/school to allow them to control things and
+potentially people with their minds. The part that I remember the most
+is at the end, one of the monks controls a knife (at least I think it
+was) with his mind and uses it to stab the other guy in the forehead
+with it. The last scene is the guy who was stabbed waking up in the
+hospital where the nurse or doctor tells him they had to remove part
+of his brain, but its ok no one uses that part, only for the guy to
+realise he can no longer use his power."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

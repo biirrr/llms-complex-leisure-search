@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "what's that movie. i swear, i remember it as """"""""the
+loud house"""""""". it's a live action very old show. there's this
+uncle, john(?), and like every viewer thinks he's super hot. his niece
+is michelle i think and she's a little girl."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

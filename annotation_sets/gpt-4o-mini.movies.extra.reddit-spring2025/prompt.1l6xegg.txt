@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I'm looking for a movie where there are two groups of alien
+creatures where there is a Romeo and Juliet plot told in rhyme. The
+boy is blue the girl is red and they met up to hang out in secret.
+Later they decide to take a rocket to leave the planet and find a new
+one and the families follow. At the end they find that the couple
+ended up back home and they have a child that is purple."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

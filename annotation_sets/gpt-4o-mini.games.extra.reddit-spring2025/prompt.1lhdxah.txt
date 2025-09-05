@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Flash] [1998-99] Disney Gargoyles Flash Game. I have a
+memory of playing a flash game of Disneys Gargoyles back in the late
+90s. When trying to see if I could play it again, I discovered there's
+zero information about it. It's so obscure I'm beginning to question
+my own memory but I know it had to be real. I remember I had seen it
+advertised on toon Disney. I was a gargoyles fan and by 98 or 99
+gargoyles had been out of the spot light for awhile. However when toon
+Disney launched they aired reruns of it at 5am. I remember setting an
+alarm to wake up early and watch them. The actual game itself I can
+remember was a disappointment and not very fun but I can't remember
+the context of what the objectives were. Someone tell me I'm not crazy
+and find evidence of this thing lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

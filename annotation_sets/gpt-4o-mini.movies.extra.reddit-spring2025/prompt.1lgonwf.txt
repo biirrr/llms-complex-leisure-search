@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A guy standing in front of a fish tank rolls up his sleeve
+then puts other arm in the water to grab something.. I'm pretty sure
+it was an action/adventure movie and I'm positive it was pre-2000
+cause I remember my mom laughing at that scene. I vaguely remember he
+mightve taken a watch off too. Ok now that I've slept on it I remember
+more. *a guy walks into a room like he doesn't want anyone seeing him.
+Brown hair. Wearing a suit. Walks to fish tank and takes off his
+jacket, removes watch and rolls up the sleeve on his right arm then
+puts his left arm into the tank. There is no interaction with the fish
+in anyway. Most likely 90s movie or early early 2000s. So range from
+1990-2005. It is not: * Naked gun *Fish called wanda *Harry crumb
+*Deuce Bigelow * Loaded Weapon * Million dollar mystery *Batman
+returns (although the scene is similar and triggered the memory) And
+still checking the other ones mentioned."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

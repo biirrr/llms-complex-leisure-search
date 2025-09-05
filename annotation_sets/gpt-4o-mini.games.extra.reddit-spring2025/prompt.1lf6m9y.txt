@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gameboy Advance SP] [Unknown] Japanese fashion dress up
+game. What I can remember: 1. It has a town map where you can visit
+shops. You can't walk around. It's static. You'll be directly taken to
+the shop, sometimes you can see the NPCs there 2. You need to befriend
+and talk to the female NPCs to get fashion items? 3. Anime art style.
+4. It has a mini game. I forgot. 5. IIRC, it's only in Japanese
+because I tried finding an English version of the ROM when I was
+young. 6. You can wear the clothing items from NPC and they will
+compliment you and gain xp points when you talk to them wearing it 7.
+You're either in middle school or high school 8. You can mix and match
+fashion pieces and wear them to school every day. 9. You can ask your
+npc friends for a fashion sleepover 10. Each clothing piece has an
+attribute, and each friendable NPC has a personality or attribute na
+they are attracted to. Like one NPC is sporty, and there are clothing
+pieces that have the sporty attribute and another attribute (elegant
+for example). Then both the elegant loving and sporty loving NPCs will
+compliment u when u talk to them Edit: more details added I tried
+googling japanese fashion game several times and still couldn't find
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

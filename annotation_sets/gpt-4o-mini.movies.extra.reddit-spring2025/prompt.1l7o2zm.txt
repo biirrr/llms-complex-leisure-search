@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help with vigilante movie. A long time ago, around
+2007-2010 I found a dvd at home. I was a kid and I watched this movie.
+Recently I decided I want to find it online but I dont have the name
+and only small portion of the plot. I think I can recognize it if I
+had a picture of the main character (the husband). Its a similar plot
+to Law Abiding Citizen. It was a lesser known movie. I believe it was
+something like, the husband works some desk job, him and his wife live
+in the suburbs. Heres when it gets foggy for me but there are few
+ways it went. He was staying late at work and was on the phone with
+his wife, he later comes home at night, and finds his wife dead.
+Another possible option: he was on the phone and she was getting
+kidnapped. Hes just a regular joe but goes to find the guy
+responsible for her murder/kidnapping and tortures him I believe in
+his house basement. I recall he tied the guy to a wooden chair and
+hammered nails into the guys hands fixing them to the chair armrest.
+Possibly using a corded drill and drilled into his hands. Thats all I
+remember lol. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

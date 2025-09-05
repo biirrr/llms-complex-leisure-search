@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old movie featuring a hard-bitten, bullying type of femme
+fatale. Edit: Its *Detour* (1945). It would have been released in the
+1940s-1950s, probably. I dont think the main characters was a tough-
+detective type like in a lot of noir movies: he really got pushed
+around by this woman. A lot of femmes fatales are depicted as having
+an elegant, victimized persona and use that to their advantage, but
+this one was a total bully, coarse-talking I think, and wanted to look
+tough. To be honest Ive never seen the movie so I dont have any
+other details; I just remember a description I read of this womanI
+think she was lower-class economically, blond maybe, and described as
+really gritty and tough-talking. Thanks for any suggestions!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

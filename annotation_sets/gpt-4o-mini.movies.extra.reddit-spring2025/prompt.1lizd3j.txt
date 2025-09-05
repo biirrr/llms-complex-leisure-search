@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Late 90s alien abduction tv movie. We are looking for a home
+video style movie from the late 90s or earlier about two kids, maybe a
+boy and a girl at home alone that get abducted by aliens that come
+into the house. Disclaimer: might be real footage. Still scared as an
+grown ass adult."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

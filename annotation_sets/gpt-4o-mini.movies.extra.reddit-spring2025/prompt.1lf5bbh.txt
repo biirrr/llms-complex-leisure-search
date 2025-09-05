@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "2010s rom com about four people from different countries. A
+vageuly indie, very European movie (the languages switched pretty
+regularly). I can remember the plot in pretty specific detail but
+mostly from the trailer, which was doing the rounds at the time on
+youtube - there was an Italian man who, although in a relationship
+with someone else, developed a crush on a French girl (I think the
+thumbnail was her looking over her shoulder as she rides a bike? She
+had dark hair and dark eyes, fair skin). There was a German woman who
+worked as a flight attendant and one scene (also in the trailer)
+involved someone she was sleeping with asking her to speak German to
+him so she began reciting the safety awareness briefing from the
+beginning of every flight. She was blonde. There was a fourth person
+too and the tone of the movie was light-hearted hijinks as everyone
+confusedly fell in love with each other even though they all had
+somebody else. I'm pretty sure at some point the Italian man
+accidentally broke his French crush's leg and so offers to help take
+care of her kids while his partner (possibly the German woman?) is
+away. Keen for any leads! Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

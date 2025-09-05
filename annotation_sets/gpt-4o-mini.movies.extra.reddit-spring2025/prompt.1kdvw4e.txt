@@ -1,0 +1,31 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can you Help me Name this fantasy movie ?. The movie was an
+independent film or at least it seemed like one. It may not have been
+American but it sounded close enough like maybe it was American or
+Canadian. I think k it came out in 2017 or around there. The main
+charachter was a young woman who somehow had magic. And the series was
+a dark fantasy series. A little medieval. And she needed to cross the
+moors for some reason. And there was a dark sorcerer somewhere. And
+then she somehow met a master who was always wearing a hooded cloak
+and he taught her some magic or something. The girl was courageous and
+there wasn't any stupid """"""""woke girl logic"""""""" to make her
+strong. She was just a well written character whose strength came from
+a place of peace and determination and not plot armor. In the end I
+think her and friends or maybe a side kick or something won some
+battle with the big bad sorcerer. The whole movie had a good plot
+through and through. And it looked a little indie but if you ignored
+the faded colors a bit it seemed professional. The master who taught
+her or protected her or whatever is actually famous. I watched the
+movie and recognized him instantly. I first thought he was Brendan
+Fraser then I thought he was Nathan Fillamon. Not sure but he looks
+like them and he's famous."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

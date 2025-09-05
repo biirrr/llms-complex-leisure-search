@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Scene that has song like reborn. Hi guys Im so annoyed
+right now does anybody no a scene from a movie or show that has a
+similar sound of the first ten seconds to the song reborn by kid cudi
+and Ye on kids see ghosts. I cant remember what its from or whos in
+it all I remember is the sounds."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

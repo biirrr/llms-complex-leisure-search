@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie where a woman returns to her childhood house
+with her sister and the town has a dark past. Ok, so my memory on this
+movie is hazy and I suspect it was released during the mid 2010s. But
+anyways the movie start with a woman talking to her psychiatrist and
+she then moves in with her sister, parents are out of the picture. The
+town people are wary of her moving back, and a man even visits her
+house and attacks her. I remember the staircase being in front of the
+front door and I think she knocked the dude down the stairs (or not
+idk). I think children went missing and they pinned the blame or
+atleast some of the responsibility on her. Anyways the big bad in the
+movie is a supernatural, ghostly old woman and I remember the main
+girl entering some underground bunker and finding a book/pictures of
+kids holding hands with her and dolls made of sticks. I dont really
+remember how it ends, but any help is appreciated. I tried ChatGPT but
+it was a dead end. This has been a serious itch in my brain, thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

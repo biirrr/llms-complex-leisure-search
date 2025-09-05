@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this horror plz. So it's a horror film, I think
+from the mid to late 2010s, maybe early 20s. It was set in the forest,
+Siberian wilderness kind of vibes. I don't remember much other than a
+scene at around the 2/3rds through mark. A village was in flames, and
+a monster that had been following the main character (male i think)
+finally is shown after stalking the character for a while. The monster
+was a large mammal looking thing with large antlers and dark
+appearance. Please save me I'm starting to think I hallucinated the
+whole thing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

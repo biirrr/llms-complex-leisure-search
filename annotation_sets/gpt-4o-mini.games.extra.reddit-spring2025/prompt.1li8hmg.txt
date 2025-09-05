@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-2000] Turn based shooting game similar to JA2.
+Platform(s): PC Genre: Turn based shooting, I think Estimated year of
+release: 30 years ago Graphics/art style: Don't remember Notable
+characters: Don't remember Notable gameplay mechanics: Other details:
+I originally though it was a Jagged Alliance game, but after spending
+a few bucks on JA2, I don't think this is it. All I can remember is
+that I spent hours and hours trying to create the perfect character
+before even starting the game. Google search best description says
+that it is similar to the Travellers table top game, but this was on a
+PC. Essentially, you start off with in character creation mode, and
+you put him/her through some military branch training. You can keep
+advancing their training and skills as they age, but RNG might kick
+them out of training and you have to begin the game. If you don't get
+kicked out, you could earn a ton of skills and begin your campaign at
+up to 70 or so years old. I don't remember if you go out and hire a
+team at this point a la JA. Not a lot to go on, but hopefully one of
+you remembers something like this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

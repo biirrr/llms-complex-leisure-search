@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a movie like Saw. This has been bothering me
+since I was a kid. I remember watching a horror movie when I was a
+kid, and I believe it was released sometime between the 1980s and
+2010. There were scenes where the characters had to cross a thin
+wooden pathif they fell, they would land on a bunch of saw blades.
+There were also traps, like sharp metal spikes coming out of the
+walls. I recall two villains: one was a bald man with an axe, and the
+other (as far as I remember) was a woman with a masculine build who
+used a bow and arrows to kill people. This movie is like Saw where the
+characters has to find their way out by escaping bunch and bunch of
+trap. Finding this movie would really mean a lot to me, as I want to
+watch it again. I remember being completely hooked the first time I
+saw it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

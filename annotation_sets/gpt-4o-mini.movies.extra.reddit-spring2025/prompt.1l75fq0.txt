@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about plane. Hello, I hope you can help me. I'm
+looking for a movie about a woman who is afraid of flying because she
+had an accident as a child and then she gets on a plane and strange
+things happen. The ending is that she is still the girl on the plane
+and everything that had happened until now was a vision to save
+herself. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

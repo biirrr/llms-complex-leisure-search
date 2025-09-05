@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "[Movie][90s/2000s] A mysterious man gives beads to children
+ whoever picks the black one is taken away and never returns. I'm
+trying to find a film I watched as a child, most likely from the 1980s
+or 1990s. I believe it was either British or American. In the movie, a
+mysterious man arrives in a small town and gives out small
+objectslike beads or stonesto the local children. Each child picks
+one randomly. If a child picks a black bead, the man takes that child
+away with him. The child never returns. It's implied that the man is
+taking the child to train or raise them to be like him, but the film
+doesn't explain much detail about this. The tone was mysterious and a
+bit fantastical, but not sci-fi or horror. The black bead seemed to
+symbolize being """"""""chosen."""""""" The children were not harmed.
+I remember this scene very clearly but cannot remember the title of
+the film."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

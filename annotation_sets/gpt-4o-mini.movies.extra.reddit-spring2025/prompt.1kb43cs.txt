@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "guy rewinds the movie in the movie. I cant remember much of
+it. I think I saw a youtube summary. If I remember right this family
+is kidnapped and right when the mother goes to grab the gun or does
+grab the gun the antagonist rewinds the movie in the movie. I think he
+also spoke to the camera like we were there or he knew we were
+watching. Im pretty sure the message was about how we could save them
+at any point by just turning off the movie but we are too curious and
+it leads to a bad ending."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

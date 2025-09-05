@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010]Point&amp;Click Choices Matter
+Shipwreck/Planecrash 2D game with Female protagonist. Platform(s): PC
+Genre: RPG / Point &amp; Click Estimated year of release: 2010s?
+Graphics/art style: 2D, cartoony/stylized Notable characters: The
+player character is a female writer(?) with glasses, there is another
+male nerdy character with glasses who is balding, a wife and husband
+characters too Notable gameplay mechanics: You can make choices during
+the story and different characters die due to these choices, you can
+end up forming a tribe and make a life on the island on one of the
+endings or escape the island, stuff like that. You can explore the
+island, and I remember one of the deaths are by electrocution if you
+don't turn off something. Other details: I hope this is enough as a
+starting point, I am fairly certain I didn't hallucinate this game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

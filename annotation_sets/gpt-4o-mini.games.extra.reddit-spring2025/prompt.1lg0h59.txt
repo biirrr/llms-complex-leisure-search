@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation 4][2017-2018] Falling Blocks and Hammers. I've
+been trying to find a game for the past 4 years where your characters
+have to stop bombs and falling blocks with a mallet, the game is in 3D
+and i think it was medieval themed. IT IS NOT TRICKY TOWERS OR LITTLE
+BIG PLANET I could be misremembering but I'm nigh on 100% sure i
+played it with my mom on Playstation, it was splitscreen too (well
+couch co op with both characters on screen) Each area was a 4x4 grid
+with a 3x3 where the blocks would fall."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

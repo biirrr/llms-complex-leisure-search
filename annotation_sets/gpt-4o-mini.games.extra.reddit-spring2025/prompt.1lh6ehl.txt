@@ -1,0 +1,40 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2000-2010] Isometric Action JRPG that I've seen on
+YouTube. **Platform(s):** PC? **Genre:** Isometric Action JRPG
+**Estimated year of release:** 2000-2010 **Graphics/art style:** 8-bit
+Pixel art. Real-time combat like some legend. Vibrant colors -- not
+dark or muted. **Notable characters:** \- The protagonist is typical
+hero in JRPG. He's very small. His outfit looks like the Dragon Quest
+3 protagonist -- being fully dressed and all. \- You can fight a god
+and turns out there was a god inside that god. Both of them are women.
+\- There's a boss who's a giant woman that you can jump and bounce on
+her breasts. She will make comments while you're doing so. **Notable
+gameplay mechanics:** \- You fight and explore in isometric viewpoint.
+\- This game seems to track what you've done and judge you
+accordingly. The villagers will form a mob to hunt you down if you
+stole/killed something/someone. **Other details:** \- Text box is
+located on the panel below the gameplay area. \- I believe this was
+translated from Japanese to English. The language tone used here is
+informal. The dialogue are very out of place (quite rude and crude)
+compared to the game with that graphics. \- Limited and fixed screen
+space. The screen doesn't scroll with you, but it's sectioned like
+rooms. (Even though there are outdoor area. I've seen this game on
+Youtube many years before, but the title was very weird (abnormal
+font, not normal English that is typed. Could've been Romanji and some
+symbols for all I know) and I couldn't track that down. Even tried in
+Watch History, no dice. I just wanted to see that video again, it was
+like 20 minutes so the video couldn't come before 2010 (since YouTube
+has a video length restriction before then). As for the YouTubers,
+I've tried checking both Slimecicle and Indeimaus and it was not both
+of them (I could've been mistaken though.) I believe the YouTuber
+played this through his emulator. It's not Legend of Zelda for sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

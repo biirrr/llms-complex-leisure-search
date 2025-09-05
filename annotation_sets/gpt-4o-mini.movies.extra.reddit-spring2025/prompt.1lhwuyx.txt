@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I CANT FIND THIS ANIMATED MOVIE FROM MY CHILDHOOD. I was
+born in 2008 so this movie should be between that and 2018. (my
+childhood) What i remember: Animation style was like in ''UP!'' There
+was an evil queen that chased someone or a group of people. There was
+a scene where in a thunderstorm she appeared in the light of lightning
+rays and i remember that scared the shit out of me. The people running
+where in a dessert at one point maybe. There was a joke where they
+where running in a field and there was a random gate with no fence.
+they ran through it and the last one closed the gate. The chaser/queen
+had a castle in/on a cliff. There was a cave in the cliff where when
+she caught the person she was chasing she chained them up there. There
+was def a thunderstorm with lightning at the start when the queen
+begun to chase. If anyone could help me i would sincerely appreciate
+it because this is driving me crazy hahaha."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

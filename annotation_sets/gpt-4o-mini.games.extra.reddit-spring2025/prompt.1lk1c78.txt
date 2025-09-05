@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2012-18] A slight top-down shooter where you go down.
+Platform: PC, played it on itch.io Genre: I'd say adventure with some
+light shooting Estimated year: It should be somewhere around the last
+5-6 years? Not a new game by any means Artsyle: I'm fairly certain it
+was pixel art Characters: The MC had a blue skin,a plain green dress
+and a bunny hood, the other characters were animal crossing-like with
+one character being a crow/raven who took your blood as a donation, if
+you donated enough blood then he'd give you a seed Gameplay: Nothing
+too complex, all you could do was walk around and shoot blobs of flesh
+which were uncommon Other: The game has 1 ending but does have a
+secret boss that is created by the seed Mr. Crow/Raven gives you, the
+game ends with you laying down in what i recall to be an empty grave"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

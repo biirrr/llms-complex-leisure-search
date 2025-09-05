@@ -1,0 +1,32 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Aliens pretending to be human - 90s/early 00s - comedy (?).
+Saw this on TV in the early 00s, guessing it first came out a few
+years before that. In the movie, there are a number of aliens
+disguised as men in black suits (I believe also wearing hats)
+pretending to be humans. They look convincing enough, but their
+knowledge of human customs falls short and it is played up for comedic
+effect. One line I remember is one of the aliens asking a man, who was
+smoking a cigarette, if he was aware there was a burning stick hanging
+from his face - or something to that effect. There's also a scene in
+an elevator (eerily specific, I know). It probably also had liberal
+use of fisheye lens effects. ~~Not entirely sure this is from the same
+movie, but I also remember a scene where one of the aliens, upon first
+arriving on Earth, steps out onto the road to try and shake hands with
+a car coming down the road, and they get hit. They later mention there
+were so many cars all over, the aliens thought cars were the dominant
+species on the planet.~~ This scene is in fact from Hitchhiker's Guide
+to the Galaxy, and not the movie I am looking for. EDIT: Found! It was
+a series called The Strangerers. For anyone stumbling upon this thread
+in the future, it looks like the entire series is available on
+YouTube: [https://www.youtube.com/@robgrantsthestrangerers1434](https:
+//www.youtube.com/@robgrantsthestrangerers1434)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

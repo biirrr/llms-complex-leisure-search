@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I only recall seeing a single scene of this movie as a child
+and I was fixated by it. As an adult I have no idea what it was..
+Scene - High energy, music and motorcycles doing stunt jumps over a
+swimming pool and probably a few ladies in bikinis being impressed...
+It's probably going to be late 80s or early 90s. It may well be an
+episode of Baywatch for all I know. But any help or suggestions
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

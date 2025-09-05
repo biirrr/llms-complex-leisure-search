@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Crazy serial killer lady?. Not sure if movie or TV show A
+small American town is suffering a series of mishaps up to and
+including murder. It is eventually shown to be a wild older woman
+committing all the crimes. There is a flashback scene or smth wherein
+the wild lady is shown to have gone on a night out I think but is gang
+raped by a bunch of guys, possibly on a car, finally they grab the
+future town sheriff who is basically passed out and make him assault
+her too while basically unconscious. So it gets revealed the men being
+murdered plus the sheriff investigating it were all somewhat
+responsible for the wild ladies' spree of crime Bonus one of the main
+characters a young lady is revealed to be the product of this awful
+event in the past."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What b 4/10 star time travel movie was this?. The movie got
+slammed by everyone but i liked it. Totally a b movie Theres
+scientists in an underground lab building and testing a time portal.
+And the main guy volunteers and gets brain damage. Outsider forces
+attack the underground lab via an elevator. Theres a guy in a
+wheelchair saying theyre all d#ad as they watch a handheld camcorder
+from the future, or future past idk xd? And theres an rogue assassin
+amoung the scientist team"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

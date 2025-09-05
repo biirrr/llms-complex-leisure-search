@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie/Show where a government worker(president maybe)
+shoots himself. So I believe its a kdrama I once watched where a man
+working for the government/president or teacher shoots himself in an
+epidemic, I believe its about zombies. Im pretty sure its not all
+of us are dead or sweet home but I cant remember what show it was. It
+also could be a western show or movie but Im not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

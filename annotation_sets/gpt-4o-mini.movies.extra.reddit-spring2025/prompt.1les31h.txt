@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s - 2000s movie about girl detective. I watched this movie
+as a kid, so it wouldve come out around the 90s to 2000s. The main
+character was a girl who was solving some sort of mystery. I remember
+two scenes from the movie: one where the main character attends her
+older ?sisters engagement shower, where her sister opens gifts, but
+the main character insists on opening the gift and when she does it
+starts a fire. I believe it was slater revealed that her sister set it
+up, presumably because she wasnt happy with the wedding or something.
+In another scene, the main character works with a kid in a wheelchair
+who uses a telescope to spy on someone."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

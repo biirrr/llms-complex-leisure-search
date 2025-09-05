@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-Fi movies from the 1970s to the 80s. I can't remember
+the clip of the movie I saw on YouTube a few years ago. It's a scene
+of about 2 or 3 minutes. It's a movie from the 1970s to the 1980s, and
+the genre is science fiction. All the actors are white, so it seems to
+be an American or Russian movie. There were female fighters wearing
+uniforms like white leotards and armed with needle guns. A man who
+seems to be the protagonist restrains one of the female fighters from
+behind. Soon after, two female fighters rushed to attack, but the one
+who was restrained by a stray bullet died. The two people who rushed
+right after that were also shot in the chest and knocked down in an
+instant. That's the content. The image quality was like the old movie,
+so I think there is little information on the Internet, but is there
+anyone here who has a lot of knowledge?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

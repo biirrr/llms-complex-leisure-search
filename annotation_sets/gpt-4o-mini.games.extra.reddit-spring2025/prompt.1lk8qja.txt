@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Sorcerer/Fantasy Game. Platform: PC Genre:
+Adventure/RPG Estimated Year of Release: 1990s Graphic Style: Spooky
+Notable Characters: Blue Wizard Notable Gameplay Mechanics: Not sure
+Other Details: I remember at the start of the game you speak with a
+wizard in a castle and on the first level youre in a barn of sorts
+thats on fire. There are some sort of skeletons or monsters you have
+to get past in the first level as well. I dont remember much of this
+game but have a vague memory of playing it when I was very young and
+its bothering me that I cant find anything online about it with
+vague information. Edit: I think you were able to select your
+character at the start of the game as well. Something like choosing
+between different warriors or sorcerers maybe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

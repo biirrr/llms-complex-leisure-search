@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "More of a TV show. Looking for my son.. TV show about a
+mechanic dad in a wheelchair, and his kids. They build cars, cars came
+to life, then they protect them. And the alive cars defend the earth
+from other robots. He says it's not transformers brand but similar.
+And the kids become friends with the robot, and they form a Voltron
+like entity. Please help. I'm sorry it's all jumbled, I'm typing as my
+10 year old is describing it to me. Thank you for all your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

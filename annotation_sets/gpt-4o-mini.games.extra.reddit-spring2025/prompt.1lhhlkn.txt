@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid-late 90s] Third person sci-fi shooter, dark
+atmosphere. Only ever played a demo of it. A third-person shooter
+where you infiltrate some kind of sci-fi facility at night. The camera
+is standard third person, behind the back, not isometric. The
+protagonist is male or a robot/cyborg completely covered in a dark
+combat suit. The only weapon I remember is shooting out yellowish
+boomerang shaped projectiles. The level starts outside, at night, in a
+rocky canyon, then you advance to the facility with bunkers and other
+structures you can enter. I think there is also a 3d model of a plane
+flying over the facility. Distinguishing feautre: level
+geometry(bunkers, buildings) and some enemies (the patrolling plane)
+are 3d objects while the protagonist and human enemies are 2d sprites.
+The only enemy type I remember are human soldiers in white sci-fi
+armor (a bit like stormtroopers) that have gory death animation of
+being blasted to pieces"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What movie is this. A girl who is disabled and is about
+10-12 is on a wheel chair and visits this other lil girl's house.(i
+swear i know no context) The lil girl tries to put on a watch on the
+disabled girls wrist and it doesnt fit and the mom walks in n the lil
+girl goes on to tell the mom of the wheelchaired kid that she should
+buy her a watch from the drug store and has colourful straps. Also cut
+to another scene they go on a ferris wheel while the mom takes on lot
+of convincing to let the kid go on the ferris wheel. One of the girls
+name should be amy (or is it the mom idk) If someone could help lord
+this is eating my brain up"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

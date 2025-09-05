@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2009-2015] Game like the steep. \[SOLVED\] Hi! I am
+looking for a game from childhood, it was Extremely simmilar to the
+Steep. I was even wondering if it maybe was the steep, but The steep
+is too new. This game was probably from 2008-2013. You started at the
+top of a mountain and were sliding down on skis or snowboard. You were
+making tricks. You could buy new winter jackets (or unlock it). I
+rembember that in the background of one menu your character was
+sitting in the chair and his jacket on and super chill music was
+playing. (I think it might have been store, or just menu for changing
+jackets ect.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

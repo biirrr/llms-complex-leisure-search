@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][def 2010+] Low poly puzzle game, end cutscene is penis
+joke.. SOLVED in 2019-2022 (dont take my word tho) I watched a youtube
+video by a streamer (might be slimecicle? unsure) playing this game.
+\- Platform: PC and seems like a steam game, given the fact a somewhat
+popular streamer was playing. Genre: 3D first-person puzzle game where
+you walk around the map to complete a puzzle/task. Estimated year of
+release: watched the youtube video around 2019-2022 Graphics/art
+style: low poly game, map is well-lit. its not creepy at all and
+theres no time limit to completing the game. Notable characters:
+Singleplayer Notable gameplay mechanics: SEE SIMILAR GAME, 'THE
+WITNESS'. Gameplay involves the player allowing power to pass through
+cables by solving short puzzles on screens blocking the cables. When a
+cable has power properly flowing through it, the 'lamp?' connected to
+it will light up. Once all the lamps are lit up, the ending cutscene
+of the game is the players POV panning upwards as they observe a
+simple line connecting all the lamps like a Connect the dots drawing,
+ultimately drawing a penis. Map is squareish and not big, where the
+middle courtyard is a patch of green, and somewhat nature-ish rocks
+and greenery to emphasise the fact that its grass. Building (grey) is
+like castle walls, where there are towers at each corner (with more
+cables / plugging spots to be found) once again refer to The Witness
+for how the map pretty much looks like"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

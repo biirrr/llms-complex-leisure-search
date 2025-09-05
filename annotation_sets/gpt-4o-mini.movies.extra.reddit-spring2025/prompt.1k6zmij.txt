@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "70's TV movie that no one remembers but me. For a long time
+I've been searching for the name of a made-for-TV movie from the 70's
+and I've yet to find someone who even remembers it. It is NOT Doberman
+Patrol, a similar-themed movie from the same decade. In Doberman
+Patrol, a man is locked in a department store after hours and is
+trying to escape the guard dogs. The movie I remember opens with a
+security guard locking up an office complex at the end of the work
+day. He lets a guard dog out into the lobby. There is a worker in the
+complex who might have fallen asleep at this desk or something but he
+wakes up and comes down the elevator to find the place locked up. The
+dog comes at him and he flees back to the elevator. At the same time,
+there is a guy who had stowed away in the complex to rob it or do some
+criminal mischief. Both the worker and the criminal realize they're
+not alone in the building when they see the elevator lights going
+through the floors and they play cat and mouse trying to avoid each
+other. I forget how it ends. I've searched thru movie databases and
+haven't found anything close to this. Incidentally, Doberman Patrol
+has also been released under the title Trapped, from 1973."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Family films featuring two boys who dropped molten lead on
+hands. Not as bad as it sounds. It was a live action film and all I
+remember is that two boys (teens, I think) made a brotherhood pact
+that involved a tiny, hot drop of lead or something in their hands and
+then they shook hands to cement their pact. Please help me identify
+this movie. It was probably made in the 90s or just before or just
+after."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

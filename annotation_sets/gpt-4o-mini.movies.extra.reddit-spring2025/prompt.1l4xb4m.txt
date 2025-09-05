@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Name? About 2 estranged brothers in a segregated futuristic
+society. This movie was played during a free period in class when I
+was in like middle school, it was an older movie even back then. What
+I know: Live action Sci-fi What I think I know: Disney Plot: Two
+brothers (white) were raised together, but at their coming-of-age, the
+government separated them stating that one brother was elite, and in a
+higher caste while the other brother had a minor health problem that
+destined he be a worker in the lower ranks. I believe the
+""""""""defective"""""""" brother snuck into the area where the
+""""""""elites"""""""" lived and did so until he found his brother
+where they had a confrontation I think they swam a great distance in
+the ocean (defective trying to prove they're equals), and the elite
+brother starts to drown. The defective brother brings him to safety
+and they reconcile. It was an older movie (90s or older) but the
+setting was supposed to be somewhat futuristic (sci-fi). I haven't
+been able to find it for the life of me lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A film maybe early 2000s where a man touches an alien in the
+street. No idea what this is or when it was released, all i remember
+is a man touching a glowing kind of alien in the middle of the street
+and maybe being killed, it then cuts to people running where theres 5
+in a room and a dude bangs on the door before being let in, sorry if
+this isnt helpful enough"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

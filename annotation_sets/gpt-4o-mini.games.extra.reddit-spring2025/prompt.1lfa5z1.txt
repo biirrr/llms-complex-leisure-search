@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Before 2018] Game about guy in orange hoodie.
+Estimated year of release: Before 2018 Graphics/art style: Pretty
+realistic, vibrant colors Notable characters: Protagonist with short
+brown hair, Orange hoodie and pistols. People from the tutorial look a
+bit like Hondo Ohnaka from Star wars Notable gameplay mechanics:
+Collecting seeds falling from a tree (To make Dynamite?) Other
+details: Game starts in a Snowy Village and shows you all the
+mechanics, including stealth and jumping from a tower into Water. You
+then are teleported to a lush grassland biome with a lot of water and
+a temple, where you can also collect the seeds falling from a tree. I
+think the game icon was orange. My dad told me not to go right (i
+think) after going to the second area. if you walked through the water
+at the edge of the game, you would go out of bounds and just die. The
+HUD was a bluish tone. Game had a German Voice Over"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

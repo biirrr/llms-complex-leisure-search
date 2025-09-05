@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a middle aged bald man meeting his doppelganger
+from a parallel reality, the doppelganger agreed to help the
+gouvernement only on the condition he could meet his counterpart.. It
+seemed to happen in the second half of the 20th century. There was a
+very somber/night aesthetic. The main character and his double were
+bald and possibly 50yo ? Maybe they were Jewish ? Possibly one of them
+had a wife called Elisa. My father watched it one day and I never knew
+what it was. Maybe it was a tv show."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

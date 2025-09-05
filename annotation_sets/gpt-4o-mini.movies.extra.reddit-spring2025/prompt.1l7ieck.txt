@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Mans daughter is kidnapped by older white woman who is a
+gangster in their town. Him and the brother try to get her back.. She
+has a lot of cops and politicians on payroll and in one scene a black
+officer stops one of her workers with drugs and in a later scene the
+gangster lady has a party and kills the black cop in front of
+everybody at the party"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

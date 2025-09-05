@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] 2,5D puzzle game from my childhood.
+**Platform(s): PC** **Genre:Puzzle** **Estimated year of release: End
+of 90s or early 2000s** **Graphics/art style: Cartoon style**
+**Notable characters: None** **Notable gameplay mechanics: Lifting
+characters between platform with a crane over lava** **Other
+details:** So there is this game from my childhood. It was a simple
+puzzle game. You controlled one or more yellow figures in a 2,5D
+level. You needed to use to pieces on the level (for example: Boxes,
+Canes and few other things.) to reach the end with the yellow figures.
+The game had a few world. The worlds were in Castle style, Icy Tundra,
+Toxic wastlend and Lava Lake. In the game you pushed the crates in
+holes to clear paths or used crane (limited times) to move boxes or
+the oter yellow figures to other part of the map."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

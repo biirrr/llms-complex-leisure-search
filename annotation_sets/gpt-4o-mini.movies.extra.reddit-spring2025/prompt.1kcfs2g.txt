@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Angry cop dad. It was on TV at night during a cold month in
+2005ish. Kids were bullying another kid. They had him knocked down on
+the ground and were spinning his own bike wheel inches away from his
+face. Later, his angry cop father does the same things to the bullies
+with his police motorcycle. I think there was also a scene where the
+dad isn't happy with the son dressing up for Halloween, there may have
+been a wolf, and I believe the dad dies or gets seriously injured and
+the boy is looking at the stitches on his neck at breakfast and the
+dad gets angry."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

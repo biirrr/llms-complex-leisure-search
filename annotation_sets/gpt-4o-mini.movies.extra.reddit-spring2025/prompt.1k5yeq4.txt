@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help with Thriller movie. Thriller movie *SPOILER AT THE END
+Watched in last 3-4 years and pretty sure it was made around the same
+time So it's a movie a bout 1 or 2 people. They unalive someone....
+I'm pretty sure they ran them over. Then I think they end up burying
+them or the evidence in the back yard. A relative of the victim
+suspects them and comes to their house........... Maybe they find
+what's buried? Can't remember. Then at the end............ ....... . .
+. . . . . . As the relative is leaving the culprits house, culprit may
+purposely..... but if I remember correctly they accidentally, run over
+the victims family member who was running from their house. Hope this
+is enough >"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Found on tiktok. Hi so theres a scene that i saw on tiktok
+and i want to Watch that movie with my dad is the scene where a Guy
+Does a pay forward chain in i think mcdonalds then goes back in the
+drive tells a lady STOPPP so he can get in the drive and he ordered 55
+pizzas 55 pies ect& and the guy ahead of him says hes not gonna pay it
+and the black woman from behind starts ordering also 55 pizzas ect.. i
+found that pretty funny if someone can say the name of it please"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

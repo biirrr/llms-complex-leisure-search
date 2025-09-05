@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Religious Horror. Hello, I am searching for this movie that
+I saw with my friends. I don't remember what platform it was on but I
+remember a lot of the movie. I think the movie was just one word,
+could be two though. I'm like so sure the main actress was Zoe Perry
+but when searching her name nothing of that movie shows up. Anyways,
+she goes to her parents place where her dad is on his bed. He's old,
+doesn't really move and is supposedly possessed. There's a being in
+the movie that slowly drives everyone to kill themselves. Another
+scene is where the main actress is in the shower and gets jumpscared
+by her dad being there. The mom hangs herself, the caregiver kills
+themselves, and the brother kills himself in the end after the being
+gives him a vision that his family is dead. He almost died beforehand
+in some like barn. The place is also like in the middle of nowhere.
+This doesn't sound like much actually but any help is appreciated.
+Thanks!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

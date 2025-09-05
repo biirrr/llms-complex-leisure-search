@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A woman kills a family with a shotgun, and there's an
+organization trying to maximize suffering?. I think the movie begins
+with the murders. I think there's an organization in the basement
+torturing people for some reason? Researching death or something. I
+think it ends with the woman in charge of the organization finding out
+the answer and killing herself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

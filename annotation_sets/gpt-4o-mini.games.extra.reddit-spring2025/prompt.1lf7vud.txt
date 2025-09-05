@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2010s] a game where you are stuck in a lagoon
+preparing for a monster attack. It is like a 2d lagoon/dock where you
+have a lot of characters you can control and at night a monster
+attacks you. You can enter buildings and find items to set traps like
+pour gasoline on the ground and light it to damage it. (I also
+remember there were items like a teddy bear which I didn't know what
+it did). I hope someone remembers this game I want to play it And
+there are other (sequals?) To the game where the area and the
+characters change but 1 remember the lagoon ones details better"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

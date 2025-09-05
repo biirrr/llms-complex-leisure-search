@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][early 00s] Soul-like game where you defeat bosses to
+harvest their soul and be able to transform into them. Platform: PS2
+Estimated Release Date: 2002-2007 Graphics: realistic (for 2000s) oni-
+like early souls games Mechanics: ability to kill bosses to harvest
+their soul and be able to posses their souls in order to reincarnate
+as the character. Other comments: there was definitely a snow level,
+and some kind of soul currency that you could use/collect (?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

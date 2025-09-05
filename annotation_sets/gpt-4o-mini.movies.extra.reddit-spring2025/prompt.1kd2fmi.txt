@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A Scandinavian/North European children's movie from the
+2000's. I honestly don't think I can find this, but I really liked it
+as a child. I don't remember it well, sorry about that. It was about a
+boy who lived with his father in Denmark - most likely since there
+were a lot of """"""""swimming houses.""""""""- his mother was an old
+opera singer, and he would listen to her singing all the time. He also
+had a great Swiss Army knife that his father gave him, and there was a
+scene of them choosing a lobster from the market and trying to cook
+it. The movie also had a very """"""""blue-grey"""""""" filter on it,
+typical for Scandinavian movies. I'm sorry that I can't give more
+details about the movie; I was very young. If you do find this, please
+reply to the post."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC OR CONSOLE] [Mid 2000s] Third person stealth game.
+**Platform(s): Possible Xbox 360 and/or PS3** **Genre: From what I
+remember it had stealth** **Estimated year of release: This was when
+E3 was a big deal and had graphics similar to Alan Wake ,so 2006 to
+2011 if I had to guess** **Graphics/art style: Those early year HD
+games like Alan Wake, Gears of War, etc** **Notable characters: I
+believe it featured a father protecting his house from the gameplay
+footage I remember** **Notable gameplay mechanics: From the game demo
+trailer, it appears to be heavily focused on stealth.** **Other
+details: To my last memory, I remember the dad telling his daughter to
+stay here (her room) like it was a cutscene. He steps out of her room
+into the hallway at the top of the staircase, where he crouches down
+and in front of him is the bathroom with the lights on and a masked
+thug. He sneaks up on him and chokes him out, but after that, my
+memory is fuzzy.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

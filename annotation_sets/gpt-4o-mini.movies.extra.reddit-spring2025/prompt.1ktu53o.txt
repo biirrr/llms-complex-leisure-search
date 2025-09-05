@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Cringy Christian Animated Cartoon Movie??. Have tried
+desperately to find this film. Its a movie I was gifted by a uber-
+religious family member, it wouldve been the early 2000s when I
+received it. It has children and anthropomorphic animals, who are at
+one point washed down a river and must escape. It has the Gnu Song in
+it as well, but its definitely not the Muppets! Hope you folks can
+help me with these scant details, but no worries if not- Ive been
+hunting for this thing for years!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

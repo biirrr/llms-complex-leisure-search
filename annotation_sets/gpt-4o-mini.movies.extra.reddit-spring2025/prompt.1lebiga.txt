@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding a very old movie.. It has been decades
+since I last saw this one so my memory of it is very spotty. All I
+remember of it is, one of the good guys gets shot at the heart with
+the bullet piercing all the way through, something happens to the
+antagonist and he falls into hell where giant worm like creatures eat
+(or tunnel?) into his body on his way down a fiery pit. In the end,
+there's a scene where the guy who got shot is in heaven or has a
+vision of heaven or something and there's light streaming through his
+bullet hole. Also the ghost of the guy who fell into hell is seen
+sitting in the back of a car."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

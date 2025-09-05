@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie With Blonde Female Cop and Multiple Twists. So I can't
+remember much about this movie, other than it didn't get great
+reviews, but I liked it as a kid. I remember there are multiple twists
+upon twists throughout the film, and it ends with the main character,
+a short-haired, blonde female cop actually being recruited to some
+agency or something. I apologize for not having more to go off of. I
+want to say it was an early 2000s film. Edit: Someone asked if it was
+Silent Hill, but no. It wasn't a horror film. The twists throughout
+the film are revealed to not be real and she is actually being
+recruited/tested the entire time. I want to say it was like a suspense
+thriller type film. Edit 2: I also remember a scene in slow motion
+outside in the rain where she sees a male character driving away or
+walking away, and there's one of those """"""""twists"""""""" that
+ultimately at the end of the film turns out to NOT be a real twist.
+I'm sorry if this is all confusing. It's not making much sense to me
+either at this point. Edit 3: u/ChickenFriedApe found it! It was the
+movie Basic (2003)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

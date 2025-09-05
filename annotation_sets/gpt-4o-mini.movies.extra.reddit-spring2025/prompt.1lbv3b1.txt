@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "The been looking for a movie for years and then I randomly
+saw a reels about it, but I cant find the screenshot >à so here I am
+again. The movie is about a teenage boy (around 16) and some bad
+people go to his house and talk to his parents and convince them to
+take him away. Then the boy runs away jumping through the window. This
+movie is from around 2013 so I dont remember it very well, but I
+think this boy had some visions and would draw it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

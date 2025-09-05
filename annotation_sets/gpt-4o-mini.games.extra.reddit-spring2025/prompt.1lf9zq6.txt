@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360/PS3][2000/10s] Shooter you got points per
+target/kill. I'm trying to remember this shooter where you run through
+a level and shoot targets/people getting points per kill and style
+points. It was on older gen systems and I feel like the name began
+with a C (I might be wrong there) I'll update as I remember more but I
+can't remember what it was called, I keep thinking Condemned but it's
+definitely not that or Convict something. I'm basically craving an
+arcade style shooter and this came to mind but I've gone blank on the
+name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

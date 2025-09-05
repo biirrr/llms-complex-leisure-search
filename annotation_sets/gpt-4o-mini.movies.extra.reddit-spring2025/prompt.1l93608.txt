@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "please help - girl goes to a funeral and sees her boyfriend
+who is actually married. I saw this movie a while ago and I really
+enjoyed it, and I went to find it again or another movie by the same
+director and I cant find it anywhere. I remember it opening on a girl
+and her boyfriend, but she had to leave for a funeral. At the funeral,
+she sees her boyfriend there with his wife and baby, learning he was
+lying the whole time. Other details I rememberat one point she sent
+nudes to him out of spite; her ex girlfriend was also at the funeral
+and they were getting along and I think even kissed at one point"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a futuristic house. It's a movie about a family
+that buys or gets to try a new state of the art smart house. I
+remember a scene where the kids threw a party and when there parents
+arrive the house tells them to throw everything on the floor and all
+the mess disappears. I also vaguely remember the boy find the computer
+the house runs on and reprograms her a bit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

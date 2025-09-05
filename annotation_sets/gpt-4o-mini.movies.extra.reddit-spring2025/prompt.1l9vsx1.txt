@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "[70s/80s] Can someone help me find the name of this movie
+that's been coming up in my youtube shorts?. Can someone help me find
+the name of this movie that's been coming up in my youtube shorts? It
+has this guy that wears a black suit and mask and fights with a sword
+and there's this giant in it and there's an actor in it who i think is
+one of the bad guys that has voiced some characters in alot of pixar
+movies but i don't know his name. (I think he voiced the little guy
+that gets thrown through a wall in The Incredibles and the dinosaur
+from Toy Story)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[UNKNOWN PLATFORM] [2010's] Dueling Game with Good Movement
+&amp; Emphasis on Tracking. Trying to figure out the gameplay for a
+game I saw that looked to be 1v1 dueling where there was heavy
+emphasis on movement and tracking the moving opponenet. Iirc there may
+have been swords? Trying my best to figure this one out"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

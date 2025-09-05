@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "going crazy trying to remember. ok so the movie is about 2
+girls(teens or early 20s). all i remember is that they went to a
+ladies mansion. the lady is crazy &amp; the girls want to trick her
+into giving them her money. came out maybe in 2016/2017. the movie
+seemed dreamlike visually at times. i swore the crazy lady was Angela
+bettis&..but its not. for the life of me cant remember any of the
+actresses"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

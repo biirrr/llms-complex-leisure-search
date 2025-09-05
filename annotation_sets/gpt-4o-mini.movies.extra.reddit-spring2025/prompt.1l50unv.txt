@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Monster movie title. Solved&..creature with John savage as
+the mad scientist&.went on Tubi and worked my way thru sci fi& Elite (
+is there any other kind) soldier-types are sent into an underground
+bunker to find out about experiments gone wrong& theres a mad
+scientist ( I tried Anthony head and Jon voigt ) a subordinate
+scientist& some type of killing monsters& the next to last movie shot
+has a guy get shot at doorway by the boss and the last shot has the
+lady soldier get poisoned while leaving on a plane/ helicopter& thank
+you&"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

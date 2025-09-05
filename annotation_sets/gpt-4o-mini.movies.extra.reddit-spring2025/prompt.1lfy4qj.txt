@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Scifi horror TV episode from 90s/00s - A portal to another
+dimension opened in the US desert showing a beautiful 1800 farm
+family, but they a. Hi everyone, I'm trying to find an episode form a
+scifi horror TV show from the 90s/00s, like Twilight Zone but that is
+not Twilight Zone: In this episode, a unpassable Portal opened in the
+middle of the US Desert (Nevada maybe?). The military is moved there
+and bring lots of scientists. On the other side of the portal that is
+a farm and a family living there, like in the 1800s: The old grandpa,
+the mother, the father, the beautiful young adult daughter, maybe a
+young son and a dog. The military discovered that the portal briefly
+opens at certain time of the day (If a remember a bird from the farm
+cross the portal giving them the hint). So they put a baseball toss
+machine shooting the portal constantly, with soldiers refilling the
+machine. One of the scientists during the investigation fall in love
+with the young blond daughter from the other side and seems that she
+also fall for him. After some days, the scientist know the exactly
+time to cross the portal and he runs for it. Only to discover that the
+family are some type of vampires/ghoul/monster that gangs him up to
+eat him. The episode finish with the Old Grandpa in the farm opening a
+book and casting a """"""""Close Porta"""""""" spell. It's being YEARS
+and I've never found this episode again and I cant remember what what
+show it is. Thank you in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

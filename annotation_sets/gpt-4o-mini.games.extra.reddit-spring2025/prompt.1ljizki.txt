@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2020] A side-scroller where you're trying to
+survive in your haunted(?) house.. Sorry in advance if this is too
+long a post. It was a game I'd watched on Youtube pre-2020, possibly
+on Markiplier's channel, but I'm not sure. In it you'd play as a man
+who had black/brown swept back hair, walked hunched over, and carried
+around a candle to light the way. One part of the game would take
+place in his huge, dark house which would sometimes spawn shadowy
+monsters that you'd have to avoid the entire night (the camera would
+pan to the room it spawns in, sometimes mutliple spawn at once), and
+another would take place with the same man walking through the woods
+until you find the ghost of a girl, I think his daughter, while also
+avoiding more horrors. At the end of each day or night, you'd be shown
+a visual of a spiralling clock/calendar ticking down the days until
+some bigger shadowy boss appears, which might conclude the end of the
+game. Another tidbit is that you can collect notes/pages in the house
+written by the character you play as where he talks about his
+experience living in his home, and about some deceased relative. The
+game was definitely a side-scroller, and the visuals heavily reminded
+me of Don't Starve, though maybe a little bit more grim. And hopefully
+my artistic rendition from memory gives a better idea of what I'm
+talking about. Other than that, thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

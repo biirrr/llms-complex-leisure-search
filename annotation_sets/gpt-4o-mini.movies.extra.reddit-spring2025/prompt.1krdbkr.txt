@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can't recall a low budget horror/thriller movie. It was a
+slasher/horror/thriller that starts with bunch of teenagers going into
+an abandoned house to participate in some kind of ritual/tarot
+reading. But at the last moment, they change their mind. It turns out
+that the man who suggested them to do that ritual/reading actually
+wanted to lure them into the house on purpose for some
+killers/vengeful spirits Spirits of 3 teens/ killers (2 girls and one
+guy) start killing them. There was a lot of singing. I remember there
+was a scene in the kitche where someone was about to be cooked (?).
+Also, a scene where a girl got killed in an empty swimming pool with a
+chainsaw. There was a moment of breaking the 4th wall where the
+killers sang that they did it all because we, the watchers, enjoy
+watching at murder. If I remember right, it had 2 parts, but I am not
+sure. It is a niche movie. The whole movie gave very strong theatrical
+vibe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

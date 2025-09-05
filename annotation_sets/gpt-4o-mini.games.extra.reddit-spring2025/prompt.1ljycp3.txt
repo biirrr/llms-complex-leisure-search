@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX] [2000s-2010s?] Alien Puzzle Game. Ive been searching
+for this game on and off for the better part of 10 years now. I
+remember playing this on a demo disc that also had other games on it.
+I dont remember where I received this disc from. I believe it was a
+top-down camera perspective puzzle game where you were playing as an
+alien or some weird looking character pushing sand blocks and possibly
+bombs to get to your goal. I vividly remember there being a cutscene
+of the little alien dude singing Why Cant We Be Friends and
+clapping to the disappointment of no one else joining him. I dont
+have much more information off the top of my head due to this being
+like a 5 minute demo from when I was a child. I will respond with more
+information to any questions if I can remember anything. Thank you for
+any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

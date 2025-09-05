@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Im trying to find the title of a classical movie/series not
+sure which it is. Theres a movie or series I watched growing up. The
+only thing I can remember from it was that, there was a male character
+named Bow West, and he went to a desert country. Anytime the locals
+hear the name Mustapha Ali, they repeat it and bow their heads. He got
+thirsty at a time in the desert and saw a mirage. Its comedy and its
+classical. Not sure if its a movie or series now. Please can anyone
+help me find the title of this movie? Ive been searching for the
+title, but cant seem to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to Find an Old Black &amp; White Film I Saw Late at
+Night - Just a Bunch of Men Talking in a Tavern 3/3. Ive been trying
+to name this for years. I saw it sometime between 2008 and 2012, late
+at night, one of those things you watch just because nothing else is
+on. It was black and white, definitely an older movie. What I remember
+is a bunch of men sitting around drinking, in a place kind of like a
+tavern not a bar, more traditional. The movie was mostly just
+dialogue. There was this one guy talking about how much he missed his
+girlfriend or wife, and he kept saying how even though she had small
+boobs (I know), he loved her so much and missed her like crazy. It
+stuck with me for some reason, maybe because I have been trying to
+name it. I didn't even like it that much but it's eating me away.
+Please help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

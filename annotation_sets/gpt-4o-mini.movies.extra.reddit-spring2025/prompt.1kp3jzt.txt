@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sex crime movie from the '90s. Hi, I'm looking for a movie I
+watched when I was a kid to refresh my memory. The movie was a crime /
+thriller / drama movie from the '90 which includes a sex scene from
+behind. This particular scene was taking place outside the villa,
+probably under the rain. As far as I remember the girl was wearing
+something white, I guess a shirt or a white body. Thanks y'all!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

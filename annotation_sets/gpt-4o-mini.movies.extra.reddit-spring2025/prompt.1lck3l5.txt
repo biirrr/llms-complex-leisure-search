@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to remember the name of a movie about a cult. All I
+can remember, is that Colt had raised this young lady to be a
+sacrifice so she knew that she was being. the very end of this movie
+there is a scene where it is a nighttime setting in the middle of a
+forest this cult built a square wooden structure, high up with a
+wooden platform. Everybody was wearing black, except the young girl
+who is in her early to mid 20s, she is wearing a white gown. They like
+this platform on fire and one of two things happen. 1) she jumps off
+and her mother takes the place and gets burnt on the platform as the
+young girl runs away through a field. 2) her mother has a change of
+heart and pushes her off the platform and sacrifices herself to be
+burned, and the girl runs through a field to get away. As shes
+running through the field, the movie ends and thats it. Thats all I
+can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

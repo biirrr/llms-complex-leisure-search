@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where the guy has regenerative powers.. I can't
+remember when this movie was created. but i'll give as much details as
+possible. Guy has regenerative powers, there was a scene where he was
+in a car with his parents when he was a child? they crashed into a
+train and chemicals get spilled everywhere and he gains powers from
+it. He became a superhero and doesnt know he has regenerative powers
+until he discovers a black and white film of him getting shot in the
+head by a dude with a gun. there was also a plot where he has a
+romance plot with a female superhero. There is a scene where there are
+cops infront of a building and the female superhero arrive and the
+cops say something along the lines of ''The heart stealer is on the
+roof'' and when she gets to the roof, the superhero is setting on a
+chair with a romantic dinner infront him for them to enjoy. I
+unfortunately can't remember what their suits looked like."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

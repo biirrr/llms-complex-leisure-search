@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "B Grade horror set in a hospital. I used to have the DVD of
+this and weirdly loved it but now I can't for the life of me remember
+what it was called! Definitely not well known, quite obviously b grade
+horror film featuring a group of friends who end up in a hospital
+waiting room after some sort of accident. There's a triage nurse who
+calls them through one by one but they never come back, eventually the
+remaining friends get angry and go to find them themselves. It would
+be 2005-2015 ish I reckon. Pretty sure it had a one word title,, some
+sort of very bland generic word for a horror movie but I don't know
+100% HELP PLEASE"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

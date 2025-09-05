@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] Game That Was On Wildtangent. Platform(s): PC
+Genre: Puzzle Platformer Estimated year of release: 2000-2008
+Graphics/art style: 2D, maybe pixel art Notable characters: Generic
+looking male character with brown hair Other details: Took place in
+some kind of sewer system, some levels involved glowing toxic ooze and
+some levels had you ride in a vehicle; getting hit once resulted in
+death, which was a quick animation of your character getting dazed,
+and then you restart the level instantly Really struggling to describe
+it more beyond it being a 2D puzzle-platformer where you played as a
+guy exploring an underground sewer system I think? There was green
+sludge and some levels had you play in some sort of vehicle? It was on
+the HP Wildtangent software that was bundled in with some PCs in the
+mid-late 2000's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

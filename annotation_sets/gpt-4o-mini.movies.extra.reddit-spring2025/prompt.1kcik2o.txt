@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80's/90s movie where remaining time of life is used as
+currency. Not the Justin Timberlake movie.. I can see this clearly in
+my head on my grandmother's old TV. It was on one day and the
+characters basically has credit card wipers implanted into them and it
+allowed them to pay for stuff with miinutes. There was a scene where a
+guy gambled his last minutes away, possibly in a casino. It was older
+and definitely not super high quality. Definitely before 1995. If
+anyone can find this one I will be in debt and amazed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

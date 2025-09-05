@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][2022/3ish] Please help me find this Indie survival
+game. Platform: 1OS Genre: Dark Fantasy Survival/Adventure RPG EST.
+Year of release: 2020=2023 Graphics/art style: Indie/dark fantasy, 2D,
+art style referenced in link (looks just like the games art style but
+it isn't it and not by same dev) see attached link Notable characters:
+the cover art for the game is a boy with black hair I think there is a
+plague mask referenced Other details: okay, so this game you would
+start out in the woods you get dropped off in by a stump, you can
+craft and pick up things in game, toolbar at bottom of screen, you
+build your own tools and there are monsters that come out at night."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

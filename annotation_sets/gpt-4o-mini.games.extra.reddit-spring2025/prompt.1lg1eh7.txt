@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] [Prob 2D]. In this game you were supposed to
+fix a theater (not sure) in a tree, with a big clock on it. There was
+a time limit (11 o'clock I think). The Games were in different
+directions, 4 different ways. Everything is on the drawing I drew by
+memory with the Notes app (sorry it's not the best one). It seems
+pretty similar to Adiboo, but I can't find it among these games. I'm
+not even sure it's an educational game. I've been looking for this
+game I used to play as a really young kid, in hope to finish it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

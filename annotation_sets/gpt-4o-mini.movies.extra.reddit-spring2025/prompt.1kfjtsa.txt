@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "sci fi indie film. Ok so this movie was an indie film from
+like I dunno, ten years back maybe? The protagonist is like, ex
+military I think, is an operative, and I'm pretty sure he dies at the
+end. The United States is divided and he's got to go to California?
+And California is part of some conglomeration of states, after a civil
+war has divided the country. He's being guided by an ai the whole time
+and I seem to remember the ai is voiced by John Goodman (but not
+sure). The protagonist gets involved with a femme fatale, and the ai
+is giving him its predictive analysis which normally he goes along
+with, but decides to ditch it. And then he ends up getting killed at
+the end, if I remember correctly. Really trying to remember this
+one... it was pretty good."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

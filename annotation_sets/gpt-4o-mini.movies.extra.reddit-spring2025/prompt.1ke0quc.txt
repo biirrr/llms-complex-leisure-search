@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can remember so much about the movie except the name.
+Theres a movie I saw in the early days of Netflix streaming. May have
+been around 2012. Kind of an indie film. Likely no big names attached
+to it. It started with a guy in a college dorm walks into a room,
+looking for a roommate, where there are candles in a circle with one
+candle in the middle. He blows out the middle candle and finds himself
+trapped in some sort of Limbo. The setting is like Coherence. Hes in
+the house, but its pitch black outside, and theres no way out. Most
+of the movie has him tormented in the isolation. No threats, but
+sounds and shadows all over to almost make him go insane. The ending
+involved &gt;!his parents and little sister showing up at the dorm.
+The candle set up is the same. The little girl blows out the candle
+and the three end up in the Limbo place and swap places with the guy.
+He finds himself back and sees the roommate. They both know what
+happened. They exchange concerning looks and leave the house without
+saying anything!&lt;"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC-Online] [2000s] [Point and Click Adventure Game]. I
+remember playing this online, and there were a series of games. Pretty
+sure they were flash games. Genre - Horror, adventure There was
+continuity in the series and it was based on solving puzzles and
+escaping each location. Each game was based on different locations
+like a musuem, circus, hotel, lake cabin etc. Art style - like hand
+drawn doodles. The games all had a horror theme, but it was not too
+scary. This was the era when friv was famous for playing games. But i
+remember playing this on some other website, but sadly cannot
+recollect the website name or the game name. Pls pls pls help :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

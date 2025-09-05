@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "An art house horror movie about mushrooms set during Covid?.
+Or at least I think youre meant to think its Covid. Its either set
+in or was released in 2020. British actors mainly, I want to say? I
+THINK it was a horror movie, but it was more like Annihilation-style
+weird and psychological. I dont remember it being especially& good,
+it clearly wasnt memorable enough for me to recall its name. There
+were some mushrooms involved, and maybe something cosmic? I think the
+main character mightve been a disease ecologist."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

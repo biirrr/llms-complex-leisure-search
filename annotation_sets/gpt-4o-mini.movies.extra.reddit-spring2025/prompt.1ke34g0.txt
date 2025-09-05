@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Aliens use tall devices to pound laser like force into the
+Earth. What movie??. What move has an alien race that purely wants to
+destroy Earth by landing tower like structures all around Earth, that
+sit on tall legs, and pound the Earth with some sort of force that is
+meant to destroy the Earth??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

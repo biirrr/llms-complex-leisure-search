@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old Mecha movie. so, I remembered an old mecha movie I saw
+as a wee boy around 1994-1999. I remember Mechs fighting. I remember
+it being some sort of Mech Warrior type movie. I think the plot was,
+Humans lost war to aliens or something like that, and then they find
+some Underdog Ex military McChad down on his luck to pilot a trash
+mech they repair from scratch to fight one last duel against the
+?Aliens? in a 1v1. I dont think it was Robot Jox. Anyone can think of
+something? \*it was Robo Warriros 1996\*"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

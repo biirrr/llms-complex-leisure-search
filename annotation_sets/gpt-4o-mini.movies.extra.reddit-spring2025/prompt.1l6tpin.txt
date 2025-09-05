@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie, it was shit but need to settle a debate now
+cant remember it. Its about a dude who is in the hospital, he wakes
+up in the same hospital but its in a black void, basically the twist
+of the movie is hes in a coma (why it was shit) and he messages a
+number, turns out he messages his irl phone and he does afterwards,
+the film had a couple bad guys, 3 sexy nurses and some doctors and
+stuff, it was weird and on Netflix, the dude also spends the whole
+film wearing a bandage on his head, I thought the main actor was Devon
+sawa (he looks like how I remember him) but apparently it aint"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

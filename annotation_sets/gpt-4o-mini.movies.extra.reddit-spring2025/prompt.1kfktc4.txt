@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Independent film that came out in the 2010s or so about a
+poor black kid who wants to be a superhero.. I don't remember the
+title but know it was an independent film that was shown on either the
+Sundance Channel or Independent Channel back when they did show
+independent films. One event that happens in the movie to make the
+main character become a real-life superhero is that he is with a bunch
+of friends playing in an abandoned building in a bathroom. One of the
+boys hits this little boy too hard in the head and the kid starts
+bleeding and acting funny. He then falls into a stall dead and the
+boys freak out and leave the body. Eventually the kid's parents report
+him missing and discover his body later on. There was a local child
+molester or someone on the rejestry that was blamed for the murder
+instead."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

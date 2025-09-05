@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A sci-fi show which I am not sure whether it was a TV
+Programme or a Movie.. So I have only some faded memories of that show
+or movie so basically there were people who are fighting and I am not
+still sure whether they fight with like is it a beyblade or Card thing
+and it is real life show or movie, not any animation and one thing I
+remember is whenever they fight they go to different dimension to
+fight with their opponents and the people were mostly asian so please
+help me to find it I have tried to search it but never found it.
+Another thing it was mainly 1 v 1 fight."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

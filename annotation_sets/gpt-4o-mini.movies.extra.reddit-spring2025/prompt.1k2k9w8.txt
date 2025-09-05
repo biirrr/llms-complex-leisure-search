@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I know this isn't a movie (it's a TV show episode) but I
+need to find this none the less. About 4 years ago I saw the video on
+YouTube of someone talking about Heath Ledgers Joker quote
+""""""""Give a man a mask and he will become his true self"""""""" and
+he brought up an episode of a show that I can not find or remember,
+the episode was that they gave everyone in the audience a snow white
+colored cheap drama type looking mask, they then let the audience
+choose weither something good or bad would happen to a person,
+everyone in the bar with them was in on it as well, the audience ended
+up choosing every single bad option, it ended with them choosing the
+option for him to get kidnapped and when he tried to run he got hit by
+a car, but it turned out the last one was scripted and the real person
+was given a TV and told what happened. I think before this one they
+also did one where no one was given a mask and they choose all the
+good options but I could be wrong about that. Either way I really want
+to find it for something I'm researching, either the video or the
+episode from the show."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

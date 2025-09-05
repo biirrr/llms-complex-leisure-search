@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Brain and the internet are NO help to find this movie. ADD
+brain is slowly going crazy because I can't remember a movie that I
+have seen. I have tried movie/plot lists and a few internet AI movie
+finders but no luck. Major plot points I remember: Aliens or
+futuristic society (or both?) | Team game is played in dome/ stadium |
+Game uses energy released by imprisoned (buried?) enemy | General
+public is unaware of imprisoned/buried enemy. Thanks for any help
+y'all have."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

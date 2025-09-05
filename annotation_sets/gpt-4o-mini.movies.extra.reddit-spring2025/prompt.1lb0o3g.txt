@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s sniper / assassin movie. Please help me find a movie for
+a customer!! I work in a media store and a very nice person needs help
+finding a movie that he remembers very little of, but has been trying
+to find for decades. Here's what he remembers: - 90s movie, believes
+it was in the theater around the same time as Malcolm X (1992) - Plot
+follows exceptional sniper assassin man and potential sidekick or
+partner, no love interest - He does not believe it's the movie Sniper
+with Tom Berenger (1993) or Silent Trigger with Dolph Lundren (1996) -
+A distinct opening / early-on scene features a tall, isolated
+communication tower in a jungle; sniper main character assassinates
+enemies who are actively looking for him with binoculars,
+demonstrating his sniper ability and general badassery Any help or
+direction y'all can provide would be so so appreciated. Thanks in
+advance!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

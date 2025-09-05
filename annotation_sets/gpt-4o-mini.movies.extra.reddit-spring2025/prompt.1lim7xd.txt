@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000's Family Movie. Hi all, I could really use some
+help figuring out what movie has been stuck in my brain for the past
+few days. I remember watching it as a kid, it was one we rented from
+Blockbuster, in the early 2000's. It was a family movie and was a
+cute, sweet, and clean comedy. It was about a family of four - a mom,
+dad, younger son, and teenage daughter - who had a family restaurant.
+I think it was a pizza place, but I remember that the whole movie took
+place at the restaurant and it was opening night. The big scene that I
+remember was too the end. The teen daughter's crush was eating at the
+restaurant and some how had his food over spiced. His mouth was on
+fire and he climbed up on the table and breathed on one of the fire
+sprinklers in the sealing. That triggered the fire alarm to go off and
+all of the sprinklers to turn on. He cooled down his mouth with the
+sprinkler he breathed on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

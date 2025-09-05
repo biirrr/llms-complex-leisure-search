@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Patsy Cline made for TV biopic that Im certain was not
+starring Jessica Lange. Help! I swear someone made this film and I
+watched it in the early 2000s. Does anyone know what its called? It
+was not a documentary. And Im mostly positive it was not made in the
+80s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

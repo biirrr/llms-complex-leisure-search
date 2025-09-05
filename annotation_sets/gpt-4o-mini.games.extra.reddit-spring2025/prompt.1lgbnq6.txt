@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][Late 2000s] Strategy game where you control one of
+four countries or corporations, very industrial looking UI.
+**Platform(s):Browser, maybe Miniclip or Kongregate** **Genre:
+Strategy** **Estimated year of release:Late 2000s** **Graphics/art
+style:Isometric Sprites, kind of like Starcraft** **Notable
+characters:Four presidents/CEOs** **Notable gameplay mechanics:You
+built up troops, missiles or other attacks to use against the other
+three players, last one standing won.** **Other details:I think there
+was an Island in the center.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

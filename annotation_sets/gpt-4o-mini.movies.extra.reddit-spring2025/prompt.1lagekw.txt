@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Treasure hunt movie with illiterate character that isn't
+illiterate. This movie is at least 20 years old and in color. Main
+character was a boy, 10-14 by my best guess. I think he was blond. For
+some reason that I can't recall he's part of this treasure hunt with
+this guy who has a servant (or slave?) who is a black man that is
+apparently illiterate and is also either dead, mute or both. The
+treasure hunter trusts this character because he can't read the clues
+to where the treasure is or communicate with other characters. In the
+end this illiterate character can actually read and the child realizes
+it when he sees that the character has betrayed the main character and
+murdered him or been murdered by him. Someone was definitely murdered.
+Don't remember who. I also think there was something to do with a goat
+and a pun about a kid being a baby goat, but I might be conflating two
+different treasure hunting movies."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

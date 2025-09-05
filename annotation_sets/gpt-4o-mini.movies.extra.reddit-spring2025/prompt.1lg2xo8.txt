@@ -1,0 +1,35 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-Fi film. Putting a spoiler flair bc I am going to spoil
+the end of this movie in efforts to find it. This movie is a sci fi
+film about a guy up in space by himself. He goes crazy, at the end he
+calls someone (I believe his wife?) and hes told that it was all an
+experiment and he was never even in space in the first place, and if
+he opens the door to the pressure chamber he can just leave. But then
+it turns into this whole thing because you dont know for sure if that
+phone call is also part of his delusions so at this point you really
+dont know if he was ever in space or if he was, if he still is
+currently. I know the end is him ultimately deciding to leave the
+space craft and I remember when he does its like, everything is
+crashing. Things are falling from the air and after he emerges from
+the space craft he has to go through this like obstacle course that
+looks like an underground building. I know he reaches light at the end
+I believe that the end is left up for interpretation bc I dont
+remember if I personally thought he was ever in space or not At first
+I was almost positive it was the movie Moon but it isnt. I
+rewatched moon last night and although the stories are insanely
+similar, it isnt the movie I watched. Coming back to edit because I
+remember another detail, I swear, Samuel L Jackson appears at some
+point and tries to kill our main guy? No idea why, but I remember it
+happening. I went and looked at Jacksons filmography and couldnt
+figure it out still. And thats all I got. Does anyone know what movie
+this is?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

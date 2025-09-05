@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "HELP ME!! I CANT REMEMBER TO SAVE MY LIFE!. okay so a little
+while, back I watched this sci-fi show on Roku channel(yes yes ik
+super lame lol). The show was superrr good, but i had to put a pause
+on it since I had to go to school nd stuff wtv, wtv. Anyways, the show
+was about this teenage boy whos dad was barely in his life because he
+was an astronaut, but his son never hated him for it or anything like
+that I think. The boy had a childhood friend, a mom, and a school
+where he would get bullied because his dad was a famous astronaut
+while he was, pretty much, a loser. Then he meets this girl who he lwk
+likes but she has a secret of her own. soon he finds out that his dad
+wasnt a normal astronaut but was either an alien or worked with aliens
+(i cant remember). so an organization, who worked with his father,
+hunted this boy down since the father died and tried to get info
+about his father off him and stuff. They realized he knew nothing and
+left which, unsurprisingly, spiked the boys interest in his father.
+DOES ANYONE KNOW THIS SHOW?!?? PLSS I BEGG"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

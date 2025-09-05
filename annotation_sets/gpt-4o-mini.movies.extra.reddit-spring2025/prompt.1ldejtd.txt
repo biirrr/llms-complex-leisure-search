@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Suited dancing dudes. I recorded this during the early COVID
+lockdown, if memory serves from Turner Classic Movies, but at the time
+didnt have a mind to make note of what it was (and this was the only
+portion of it I saw). Anybody happen to know?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

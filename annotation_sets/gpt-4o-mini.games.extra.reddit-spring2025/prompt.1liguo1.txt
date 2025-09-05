@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX ONE] [2015] Online pixelated RPG. Hello, for the past
+month I've been trying to remember a game I used to play on my Xbox
+one in 2015 (around). The game was as if Minecraft and Terraria had a
+baby - it was 3D, pixelated, and an RPG game. If I remember correctly
+it was a free game, and basically the only game I would play on my
+Xbox. I think you were able to choose what class your character would
+be, and I would always choose melee. There was also caves where you
+were able to do boss fights and eventually upgrade your character to
+unlock new swords/weapons and armour. That's unfortunately all I
+remember about the game, but hopefully if anyone has any questions
+they will jog my memory and I'll be able to answer if it means finding
+this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

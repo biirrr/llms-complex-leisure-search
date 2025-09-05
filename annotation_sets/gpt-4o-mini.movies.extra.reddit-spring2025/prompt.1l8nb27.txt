@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me find this movie. I watched it as a kid, so it
+was a long time ago. The main guy got into a fight and lost his tooth.
+He gave the tooth to a woman, and later, when she fell into some kind
+of depression, she ground the tooth into dust and ate it. The news
+reported that the killer had murdered the main guy and used some kind
+of joss/incense stick on his corpse. Roughly around 2010."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

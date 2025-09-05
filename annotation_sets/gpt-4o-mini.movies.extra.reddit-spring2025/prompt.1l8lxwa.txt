@@ -1,0 +1,37 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Two brothers, a struggling writer and a priest in a
+wheelchair, who turns out to be the Antichrist.. Release date:
+2000-2015. Country of origin: Unknown, it was dubbed, mostly Caucasian
+actors. --------------------- At the beginning, various accidents make
+the life of the priest difficult and eventually a group of ragged-
+looking humanoids besiege the house the priest lives in. The audience
+is lead to believe that these beings are demons but in fact they are
+angels, trying to destroy the nascent Antichrist. They manage to get
+to him and they try to crucify him (not sure) but the writer-brother
+intervenes and saves the priest. Later the priest - having woken up to
+his own real identity - murders his writer-borther (with a dagger?),
+takes his unfinished manuscript (diary?), finishes it and declares it
+as the sacred text of a new religion. The last shots show the priest
+(now as the Antichrist) ushering people inside a temple as he's about
+the give a sermon from the book of his late brother.
+--------------------- Some tidbits: The number 11 might have been
+significant. Maybe there was a time-limit on stopping the coming of
+the Antichrist (11 PM?). Maybe there is a scene set in a cemetary
+where the father of the two brothers, tells the writer-brother to
+protect the priest at all costs. --------------------- It's not: Black
+Circle Boys (1997) Dark House (2014) Lost Souls (2000) Megiddo: The
+Omega Code 2 (2001) Midnight Mass (2021) Shelter (2010)
+---------------------
+https://www.gyakorikerdesek.hu/szorakozas__filmek-
+sorozatok__13033740-egy-film-cimet-keresek-roviden-egy-paprol-szol-es-
+egy-iro-testverrol-aki-proba"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

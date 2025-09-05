@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [1995-2000] looking old 3rd person game.. Hi I'm
+looking for and old ps1 game I used to play. Dont remember much since
+I play it in a friend's console but you started in an warehouse i
+think tied to a chair and in there you have a car and also a woman
+that talks to you, also theres another section i believe where you can
+sneak/fight black suit dudes in a garden time environment i never
+could beat the first level but it have to game modes and was always
+3rd person."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

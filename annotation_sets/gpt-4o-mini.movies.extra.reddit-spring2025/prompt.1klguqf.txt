@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "guy rejected by girl tries to burn himself in tanning bed. I
+feel like this was an 80s or 90s movie. Young guy (high school or
+college age) with low self-esteem gets rejected or broken up with by a
+girl and tries to burn himself in a tanning bed. His friend pulls him
+out and says something like """"""""why are you being so
+stupid?"""""""" and the guy responds something to the effect of
+""""""""I deserve to suffer"""""""". It was a relatively minor part of
+the movie. Might have been a comedy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What is this C movie?. It was playing silently at a Mexican
+restaurant today without subtitles. Plot seemed to be that this woman
+had to save a bunch of other women from the ultimate Bad Woman- a tall
+harsh-looking blond with a pixie cut. Near the end of the movie the
+good women flee in a USAF plane and run one of the other bad womens
+jeeps into another vehicle causing a CGI explosion. I dunno, the
+budget clearly wasnt that high but Im genuinely curious what this
+movie was. TIA."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

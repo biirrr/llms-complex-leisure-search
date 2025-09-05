@@ -1,0 +1,32 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Boyfriend shoots girlfriend in the head during sex -
+paranormal events ensue. I watched this horror movie around 10 years
+ago, and its been stuck in my head ever since. In one of the first
+scenes, a guy is having sex with his girlfriend. As part of their sex
+play, she gives him a gun. He pulls the trigger thinking its empty,
+but it goes off and he shoots her in the head, killing her. He panics
+and doesnt know what to do with the body, so he keeps it in the
+house. Afterward, paranormal things start happening. I specifically
+remember: * The entire movie mostly takes place inside the guys
+house. * In one creepy scene, hes exhausted and lies down near the
+corpse and the corpses hand starts stroking his head, causing him to
+jolt awake, only to find that the corpse didn't actually move. * In
+another scene, someone else enters the house to do a wellness check on
+him since he hasn't left his home in days. The person enters the room
+where the corpse should be but the body has disappeared. When the
+person leaves, the corpse suddenly reappears. It was in English and
+had a very eerie vibe but not over-the-top gore, but psychological and
+supernatural horror. I think they tried to keep it open ended about
+whether the guy was going insane and hallucinating or if the
+paranormal stuff was really happening. Don't remember the ending at
+all. Does anyone know what this movie is?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

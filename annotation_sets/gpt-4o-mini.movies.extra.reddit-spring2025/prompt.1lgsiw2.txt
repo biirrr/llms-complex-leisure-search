@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old Western movie with cowboy riding through snow?. My dads
+trying to remember a Western he watched at the cinema as a kid and the
+only scene he can remember is a cowboy riding across a snow-covered
+hill or mountain, and then he maybe gets shot at. This was some time
+before 1975, and he lived in East Timor which isnt exactly cutting-
+edge so it might have been pretty old already. Any suggestions for
+what it could be would be appreciated! Thanks :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

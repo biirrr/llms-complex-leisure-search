@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90's Martial arts under ground fight movie. All I remember
+is it was an under ground fight movie kind of like the kick boxer
+series. The one thing I remember that set it slightly apart was the
+cage/ arena whatever had weapons in it. and I think bettors could pay
+to have other weapons dropped into the arena? I have been trying to
+find this movie since I was a kid in the late 90's I think i caught it
+late night in 98 or 99 if that helps. Edit: pretty sure the main guy
+was a white guy as well, was reminded of this by another comment. edit
+2. the arena was a cage that was also a pit, so the spectators were up
+above the arena."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

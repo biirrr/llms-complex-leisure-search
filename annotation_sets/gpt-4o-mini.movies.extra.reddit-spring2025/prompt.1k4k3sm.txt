@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a movie wich title I totally forgot. Hey there,
+I am so desperate finding a movie that plays in space, there's humans
+&amp; aliens type of enemies. The main character I believe is a guy
+who's really fast in typing in coordinates to warp (I believe that was
+it) Another part of the movie I seem to remember is where he main
+character goes out into battle with others in small spaceships and his
+friend's spaceship is badly damaged and tries to land back on the deck
+but crashes on the landing area, then a drone comes out and pushes
+away the wrecked ship. The end I do remember and it's where the main
+character is jumping warps or gates and he has to enter a big big code
+so the enemy that follows him ends up at the biiiiiiiiiiiiiiig fleet
+of human ships and they get destroyed cuz the enemy is jumping the
+gates I think it was. It's an older movie, and nothing to do with Star
+Wars or Star Trek I really hope someone can help out here !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

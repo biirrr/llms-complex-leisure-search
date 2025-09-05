@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Late 1980s] [Maybe Mac] Photograph Monsters For Newspaper.
+I have a vague memory of this game played at a friend's house as child
+so my description might be off. You play as a young photographer for a
+newspaper. You must take pictures of the monsters or aliens that have
+invaded the town. It was either b/w or the cyan/magenta color scheme.
+You walk between screens like in Kings Quest games. Does this sound
+vaguely familiar to anyone else?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

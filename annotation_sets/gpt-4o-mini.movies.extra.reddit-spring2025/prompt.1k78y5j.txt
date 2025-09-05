@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for Tubi movie about pregnant girl named Mona. I'm
+looking for that movie on Tubi where a young pregnant girl named Mona
+has a lesbian sister with short red hair and an alcoholic mother and
+she beats up her coworker and gets fired from her job at the grocery
+store"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

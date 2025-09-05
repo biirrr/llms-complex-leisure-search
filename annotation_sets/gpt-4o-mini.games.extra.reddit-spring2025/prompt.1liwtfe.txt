@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2020?] Turn-based battle arena game. Platform(s)
+:PC, web game. Genre: Turn based, top view, battle arena, monsters
+Estimated year of release: Between 2010-2020, (probably) Graphics/art
+style: Simple, with cute monsters Notable characters: A small green
+dragon and a golem Notable gameplay mechanics: Other details: I dont
+remember much about the game, if i am not mistaken it was a turn-based
+game in which you were in an arena and you battled with your monsters
+(kinda like pokemon, but you had more than 1 monster at a time). One
+of the monsters was like a small green dragon and other was like a
+greyish golem that stood putting his fists on the ground. The monsters
+had abilities like dissipate. I also remember there was a special
+mechanic that you got SP (special points if i remember correctly?) and
+when you got enough you could do a powerful summoning. As you
+progressed through the game you got more monsters. If I remember
+correctly it was divided in levels."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

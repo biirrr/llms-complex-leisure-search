@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find an old movie: masked teens go place to place,
+one dies in each scene. I saw this movie as a kid (probably around
+2005 or earlier) on a rental DVD in Japan (Japanese dubbed). Heres
+what I remember: - It was a foreign film (likely American or
+European), possibly released in the 1990s or early 2000s. - It
+featured a group of wealthy teens (boys and girls, maybe 6 in total).
+- They wore different types of masks. One of them wore a blank, white
+mask like the Japanese performer from Golden Bomber (very
+expressionless). - They were rebelling against adults/society in some
+way. - They moved from place to place  not just one location like a
+mall  and in each place, one of them died (often by being shot). -
+The deaths looked symbolic or acted, not gory or realistic  more like
+theatrical portrayals. - The police and their parents tried to talk to
+them, but the kids didnt respond or were not convinced. - The group
+got smaller and smaller. In the end, I think the leader (a boy) was
+the last one remaining. - The overall vibe was eerie, symbolic, and
+felt a bit low-budget or old in terms of video quality. It wasnt a
+slasher or horror film  more like a psychological or symbolic
+thriller with social commentary. Does anyone recognize this?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX][2007-2008] Help me remember this mech game. Hi
+everyone, making another post because I have flashbacks of this game
+in the back of my mind but I can't recall the game name
+**Platform(s):** XBOX (the first one) **Genre:** Third person action
+shooter **Estimated year of release:** Should be late 2000's, probably
+2008 or a bit later **Graphics/art style:** Third person shooter
+(think like Fortnite, when aiming, it goes over the shoulder),
+realistic graphics **Notable characters:** I don't recall any beside
+mechs, I don't think the game had a story mode **Notable gameplay
+mechanics:** From what I recall, the game was a open map shooter, like
+Battlefield, setting in a pseudo-futuristic era (not quite as advanced
+as Titanfall 2, there was no grappling hook or cloaking device for
+example). The mechs were not called down like in TF1/TF2, but rather
+ressources that would spawn on the map and you had to fight to climb
+and pilot it **Other details:** It may sound weird, but I vividly
+remember the game having Papa Roach in the OST"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

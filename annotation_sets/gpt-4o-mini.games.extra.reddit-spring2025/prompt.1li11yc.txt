@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/PS4/PS5] [2023-2025] Game trailer (not yet released)
+Souls Like Game?. Hey guys, what's this game with a trailer somewhen
+between 2023-2024 but not yet released. But the trailer is like Sun
+Wukong. But the Main character is like a ninja. The game is like souls
+but a bit faster paced in action. The trailer goes like this, the Main
+character is like riding on a horse drawn carriage riding fast. then
+something like ambushes him. and then the next scene he is fighting a
+boss, and the main character can like jump and spin like a drill. i
+think it could be made from japan. iirc it has like Dark or shadow in
+the title something like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

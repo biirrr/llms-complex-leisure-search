@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1995-2005]Side-scroller shoot'em-up with robot a
+protagonist. I played this as a demo around 2000 +/- 5 year. It was a
+regular arcade side-scroller, the type of Abuse, where the hero was a
+robot / mech / mech suit. In the demo, there were two selectable
+robots: \- a heavy red one, with a large cannon whose last upgrade was
+massive chargeable superlaser and last but one was a bomb with a large
+AoE; the robot couldn't jump much but had rocket jets on legs that
+allowed him to slowly fly up platforms \- a lean grey one with a laser
+sword, which got progressively longer and stronger with upgrades; the
+robot couldn't fly but could do a double jump"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

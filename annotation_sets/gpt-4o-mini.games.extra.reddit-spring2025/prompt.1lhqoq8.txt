@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[3DS] [2017] A 3DS game of Submarines. Hello, Please help me
+find this 3DS game. When I was younger I played a game on 3DS it was a
+submarine game where you could shoot other players while playing a
+submarine or do missions, there were different maps including an
+aquarium map, but since the Nintendo eshop closed I can't find it
+anymore. If you have any ideas, don't hesitate. Thank you so much"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

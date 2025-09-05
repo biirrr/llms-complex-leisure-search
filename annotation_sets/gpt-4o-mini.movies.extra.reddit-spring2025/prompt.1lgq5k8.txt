@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old horror movie with sorceress and monster creature in cave
+pit. I have been trying to find the name of an old horror movie I
+watched in TV during childhood. My memory if it is all hazy and I
+recollect only the ending where there is a sorceress and a monster
+creature in a cave pit. The protagonists were to be sacrificed or fed
+to the creature, but they drop a bomb or something into the creature's
+mouth which explodes when the creature chews on it and they escape.
+Thanks in advance for any clues! (EDIT: The movie is """"""""The Lair
+of the White Worm (1988)"""""""" as identified by u/Apprehensive-
+Wolf114 below.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

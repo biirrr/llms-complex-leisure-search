@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Nordic Film where woman and brother-in-law form an
+attraction to each other after husband is captured and assumed dead
+during war.. 2000-2010? I think from one of the Nordic states. A
+womans husband is captured at war in the Middle East. He is assumed
+dead. They have two children. The woman forms a close bond to her
+husbands brother, and the relationship has a lot of sexual tension,
+maybe they do form a romantic relationship. Cant recall. The brother
+is very present in the kids lives. The husband is found to be alive. I
+recall the daughter not wanting to wear her chosen outfit to her dads
+funeral. Was played late one night on SBS. Missed the beginning."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

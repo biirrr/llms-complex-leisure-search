@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking to identify movie by teaser or trailer.. I'm trying
+to figure out a movie teaser or trailer I saw most likely in this
+decade. In it 2 persons, probably women, are in a house and start
+arguing then prepare to attack each other, just as another woman
+enters the house and totally oblivious to the first 2 persons actions
+she starts taking away, forcing the first 2 persons to hide their
+actions and pretend that things are fine between them. The 2 persons
+who almost attacked each other, possibly have no choice but to work
+together. Movie is action or comedy. I would be grateful if you can
+identify this movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I'm about 50% sure I dreamed this at this point, but here
+goes. A human (pretty sure it's a guy) either discovers that
+leprechauns exist, or already knew they did before the film started
+This leprechaun couple tells the human about how their son is
+""""""""not even a hundred years old yet"""""""" at some point,
+because that's when they become teenagers or something The leprechaun
+kid starts flying because he fell in love, and that's the only time
+they can His two friends hang on to his feet and they fly away out of
+some kind of trouble they got themselves into Also most of it, or at
+least what I remember, took place at night So yeah, that's all I got.
+Did my toddler self just imagine it all, or does this movie actually
+exist?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

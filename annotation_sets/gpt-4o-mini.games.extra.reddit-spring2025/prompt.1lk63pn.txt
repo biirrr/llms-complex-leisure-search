@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020 or later]A shooter game with lantern in the
+offhand and gun in the mainhand. I remember this game I found in on
+[itch.io](http://itch.io), it was a free game with 3d pixel graphics,
+black and white(?). The player character can use multiple types of
+guns and their lantern as a grappling hook of sorts. Thank you very
+much if you can tell me the name of the game. Solved: Enchain"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

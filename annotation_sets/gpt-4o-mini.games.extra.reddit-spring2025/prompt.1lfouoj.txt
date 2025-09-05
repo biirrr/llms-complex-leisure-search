@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1985] Text-based adventure game, chase, stone, dog.
+Platform(s): PC Genre: adventure Estimated year of release: 1980-1990
+Graphics/art style: no graphics, text only Notable characters: orcs?
+group of people chasing you Notable gameplay mechanics: N/A text based
+only Other details: Begins with something like you are standing on a
+hill... remember a dog barking nearby... you throw a bone at the dog
+to get past... people chasing you, you follow a specific path to top
+of a cliff, you hide from the people chasing you. I remember something
+important about a rock/stone. This would have been very early
+personal-use (not apple) pc computer, possibly floppy disc. I have
+checked Zork and Cave Adventure and it's VERY similar but wrong story.
+No graphics at all, not even rudimentary pixels, no internet or multi-
+player, not live. I played it in the 1980s but it may have been old by
+the time I played it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

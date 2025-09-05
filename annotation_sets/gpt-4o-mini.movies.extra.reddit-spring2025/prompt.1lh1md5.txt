@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Eastern movie (probably japanese) about a depressed and near
+extinct mankind (people are not reproducing due to their lack of
+libido), also weird creatures seem to roam the earth.. I found this
+movie like this a year ago when I was mindlessly browsing through
+IMDB, I can't remember the name of it now, but I'd like to watch it, I
+also remember reading a review that said that in the movie, there's a
+group of scientists in a bunker trying to find a solution to the lack
+of sexual desire in people."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

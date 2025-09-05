@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "This is a challenge. Theres this movie where at the end the
+first responders are outside of the house and the main character is
+smoking a cigarette which shes known not to do but the old lady that
+the movie was about smoked, implying that she was possessed by her and
+then the movie ends. Its driving me insane. Its not The Visit and I
+dont think its the Taking of Deborah Logan. Please help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

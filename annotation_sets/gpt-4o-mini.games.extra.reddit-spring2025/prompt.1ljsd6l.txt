@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90's] Shareware arena type """"""""game"""""""" where
+you watch mutant rat type cyborgs fight in a catacomb. I think it was
+part of an educational CD game where you explore a town and solve
+simple puzzles, which started when you didn't start the actual game
+for a while. You could only experience it in a small window and you'd
+just watch two rat looking mutated creatures get selected from a
+roaster and they'd fight against each other. If I remember correctly
+they were like 3D models but the fight happened in a 2D type fighting
+game, with a health bar and everything. You don't control them either
+you just watch the fight happen. If I'm not mistaken the
+""""""""game"""""""" would end even before one of them won the fight
+so what I had might've been a demo. This is kinda my blue whale, so if
+anyone knows what I'm talking about I'd be so stoked to know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

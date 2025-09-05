@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Car simulator with impact in real life.. Movie where a
+character entered a car simulator (real car with big screen ahead) in
+a dark giant room, and every impact in game would show in real life. I
+remember that he crashed in game and the impact showed in real life. I
+think he died and car flipped or got squeezed, can't recall properly.
+Also, before crashing, I think his steering wheel got disconnected
+from the car. I have seen this almost 20 years ago, and the
+movie/series can be earlier as well. I couldn't find it on google and
+chatgpt and always got suggested other movies with games. No worries
+if you don't know"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

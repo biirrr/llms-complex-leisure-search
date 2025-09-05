@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I just want to watch this movie =-. I cant remember the name
+of this movie I've tried looking it up but I haven't found anything
+its a military movie came out in at least the last 2 years its in a
+modern day world and a small group of military guys get dropped off in
+a jungle to catch thsi drug dealer I think? The complex that they are
+breaking into is a big white building i remember like only two of the
+guys survive one got exploded by a rocket launcher and I think the
+guys at the end of the movie where captured for a little bit? Sorry
+not very clear = I think they were just trying to snipe the drug dude
+or something idk Any help is appreciated!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

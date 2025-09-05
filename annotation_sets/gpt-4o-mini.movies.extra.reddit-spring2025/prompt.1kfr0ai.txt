@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help with movie title. I remember randomly watching
+it in the 90s, early 00s at the latest. I think it was set in like the
+20s or 30s, white man is going around in the south trying to sell a
+record player, I think its was a gramophone. He comes across a black
+lady house and tries to sell it to her, she says no, but he comes back
+the next day and they eventually get romantic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

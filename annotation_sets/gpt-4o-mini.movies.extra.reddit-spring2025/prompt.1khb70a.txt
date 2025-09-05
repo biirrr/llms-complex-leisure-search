@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Dark erotic thriller. Not an easy one.... I think I watched
+this movie in very early 90s. It was an erotic thriller. I feel like
+it might have had a cheap, TV-movie quality to it, but probably a
+direct-to-video title due to its seemingly very dark themes. Maybe the
+picture had a greenish tint? The main character was a dude who had
+been married to a transgender person without knowing it. Someone at
+some point in the movie mocked the main character, saying something
+along the lines: """"""""How could you not have known? You only fucked
+her in the ass in the dark? What did she tell you? That her pussy is
+too tight?"""""""" I think the one saying this could have been an
+evil, manipulative woman the main dude was now maybe having some sort
+of affair with. A scene in the movie, I think the final scene, had the
+manipulative woman call the police and leave the telephone receiver on
+a table, and then she coaxed the dude to rape her. So the dude
+commenced raping her while screaming something about how he was raping
+her, for the cops to hear. Now I feel like maybe there was also a
+scene where he was in prison after that. Also, possibly, the dude was
+repeatedly watching and rewinding some VHS tapes for some reason.
+Possibly some sort of surveillance or session tapes? Memory is very
+hazy, I might even be mixing this up with a different film here.
+That's all I recall. I really would like to know what this was, but I
+don't have very high hopes of anyone knowing this one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

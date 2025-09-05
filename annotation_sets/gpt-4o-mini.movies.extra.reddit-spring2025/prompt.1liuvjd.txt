@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "60s horror. Looking for a movie seen in the late 60s. Might
+have been black and white. I don't remember much but what I do
+remember is large dolls, like half human size. I think there was more
+than one but not sure. Terrorizing a person or people or family with
+knives. The doll I think was a blonde child maybe 2 feet tall and
+kinda walked like a zombie with a knife in hand. Did I make this movie
+up in my dreams?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

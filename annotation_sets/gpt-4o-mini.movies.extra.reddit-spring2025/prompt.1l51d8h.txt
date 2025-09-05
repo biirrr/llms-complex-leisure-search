@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "(Horror) Little boy who screams and seems autistic. Mother
+on the brink. Ends up with demon locked in basement and they feed it
+(possibly).. It's relatively new. The mother couldn't cope. I think
+she recently separated from the kids dad. He couldn't comunicate and
+screamed and whined. Might have used a board to communicate. I
+remember the end of the film where they trapped the demon(?) in the
+basement and visited it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

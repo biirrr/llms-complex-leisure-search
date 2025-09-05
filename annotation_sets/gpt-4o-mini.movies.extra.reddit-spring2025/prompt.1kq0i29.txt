@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help. I am going crazy trying to remember what movie this
+is.. This is a movie that has a girl in a hospital or orphanage for
+sick kids. She is paralized and has a younger boy in another bed she
+talks to. She discovers that she isn't really sick but has been
+drugged by the nun. She escapes, is trained as an assassin, and comes
+back to the orphanage at the end to kill the nun and save her friend."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

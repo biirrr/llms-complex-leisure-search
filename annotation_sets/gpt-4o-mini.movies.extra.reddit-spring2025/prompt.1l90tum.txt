@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Indian film, period piece. Trying to remember the name of an
+Indian film I streamed a few years back. Opening scene had a woman in
+a white dress under the control of some men, and a different group of
+men objected to the way she was treated. In the background was a
+British outpost and they got involved after the two groups of men
+started fighting. It has the tone of an old Western. Watching RRR now
+and it had a similar vibe of being outrageous and epic at the same
+time. Thanks for suggestions!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac] [Early 2010s, late 2000s] Desert adventure with female
+main character and a scene with a living mummy. Genre:
+Adventure/Puzzle Estimated year of release: Late 2000s, Early 2010s
+Graphics/art style: Old but photorealistic"""""""" Notable
+characters: Female main character, a revived mummy, bedouins Notable
+gameplay mechanics: I don't really remember much about the gameplay,
+it probably contained simple puzzles, that was what my father usually
+played Other details: I vividly remember a few scenes. The first one I
+think was from this game (but I might be wrong) and was about a guy
+finding a crystal object, likely a crystal skull with his pickaxe. The
+next thing I remember is the female main character talking to a guy in
+the desert, who is suddenly stabbed with a curved knife from behind by
+a bedouin like character. The last thing I remember is a scene, where
+she opens a sarcophagus and a mummy (without its bandages) climbs out.
+It then sits down in a boat while you keep exploring the area. The
+puzzle in this room contained scarabs. I know it's not a lot to go off
+of but I just have been thinking about this for years now. Would love
+to get some help :D Edit: I found it with ChatGPTs help. The Game is
+Atlantis III: The new world. I was right about the scene with the
+crystal skull, the guy in the desert being stabbed from behind with a
+curved knife and the scene with the mummy. The mummy then gave you a
+box with a scarab inside, thats what I remembered as a scarab puzzle.
+The mummy also later sits in a wooden boat. The game came out in 2001
+however (the year I was born) so my father just played games that were
+already old at the time. I was way off with my estimation = Also all
+those scenes happened within the first 15 min, so I dont think I got
+very far"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

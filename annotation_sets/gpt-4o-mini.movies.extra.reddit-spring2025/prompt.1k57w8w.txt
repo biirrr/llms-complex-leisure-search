@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Going crazy about this: Cheap movie about time travel. I
+once saw this movie about a out of luck actor (or stand up comedian)
+whose marriage is falling apart. He wants to save it and he eventually
+travels through time and at the end he meets his wife in a store
+(maybe a laundromat) in time to prevent her from traveling to another
+state with their child. I also remember the movie is mostly set among
+Hollywood wanna bes. I only have these tiny bits in my mind but I know
+this movie exists. Can anyone help me?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

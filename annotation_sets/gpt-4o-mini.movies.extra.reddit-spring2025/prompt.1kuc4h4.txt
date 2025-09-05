@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What is this film. Kids fantasy film I remember watching
+this film with my brother a year ago (?), and i remember that there
+was two children who were siblings, and they fell down a hole in the
+floor of the boys bedroom (they were in a new house) and they fell
+into a cavern with armadillos (?). I also remember there was something
+to do with marble, i think. My brother insists there was a white gas
+and Chris Pratt starred in it. He also says there was floating hands
+in a castle where they fight the white gas. Please help, my family is
+tearing itself apart lmao. There was also a one-armed robot and a
+dragon apparently. EDIT: We saw it in the cinema so it was quite
+recent, probably late 2023 to early 2024."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

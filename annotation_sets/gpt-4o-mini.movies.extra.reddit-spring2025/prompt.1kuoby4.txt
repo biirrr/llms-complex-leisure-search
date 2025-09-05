@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie from the 80s. Trying to see if anyone can figure out
+this movie, it was one of my favorites as a kid and I dont know
+anyone else that knows it. Starts out with a boy in Sweden who lives
+with his abusive aunt and uncle. Gets whisked off to a foreign land
+where he goes on an adventure and fights an evil knight in a castle
+who turns boys into ravens. At the end of the movie he finds out his
+dad is the king of the land and he lives with his new best friend who
+accompanied him on his adventure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

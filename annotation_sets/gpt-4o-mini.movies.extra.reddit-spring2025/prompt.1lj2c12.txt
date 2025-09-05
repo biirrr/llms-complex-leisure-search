@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80's cop thriller where Japanese detective gets pissed and
+starts flicking people off. I say 80's film but idk. Probably 80's.
+Just saw this scene a year back when my dad was watching TV and I know
+his dumbass will not remember/know what I'm talking about xD There was
+a crowd of people I think in the parking lot and the detective wanted
+to do something or say something but was kind of held back by his
+higher ups. He started to lose his shit and was punching the air and
+ending up raising his fist/flicking off the Chief of Police to his
+right, and maybe some media person to his left. Right after he
+immediately bows to people around him because he wants them to know
+he's good with them, but fuck the bosses. I think he gets suspended
+for this. I think I remember the scene after he was on the phone with
+his boss who was also asian (but they are working in America, maybe in
+LA). Film seemed like Rush Hour in that it's a cop movie where it has
+both seriousness and lots of humor."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

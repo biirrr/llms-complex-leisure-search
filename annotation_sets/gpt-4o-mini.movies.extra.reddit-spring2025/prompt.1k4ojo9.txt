@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Time travel movie/show with specific quote.. It goes
+something along the lines of Sinatra never using his influence to get
+Kennedy elected and something about the movie Taxi Driver never being
+made, which meant Hinckley was never motivated to take a shot at
+Reagan"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

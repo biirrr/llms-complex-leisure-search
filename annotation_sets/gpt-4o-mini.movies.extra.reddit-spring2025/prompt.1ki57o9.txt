@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Weird floating entities and crossing storylines. Hi folks,
+I'm struggling to find the name of a film I saw years ago. From memory
+there were approximately 5 different storylines which all seem to
+crossover, as in, one story ends and another begins and they seem to
+go round in a circle. In each story there's these weird winged
+entities which float around. One story has someone driving a friend to
+a hospital, only to find it's abandoned and he came get out. Another
+story has a couple of people in a car travelling through a desert
+landscape, and another story has a girl trying to escape from a house.
+I think I remember seeing a pentagram in a poster for it. It's driving
+me nuts, any help would be appreciated. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

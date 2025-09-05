@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Whats the film?. I can remember a scene from a film where
+the main character meets a troupe of Hare Krishna monks on bicycles
+covered in light. The MC joins them and they end up near a river, I
+think this is in New York or a similar big city. When at the river,
+the MC smokes with one of the monks who I think says they are actually
+an acting troupe, and will take them to their next location. This will
+be a relatively recent film (2010s-now?) Sorry I cant give anymore
+information but my husband and I would love any help you can give!
+Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

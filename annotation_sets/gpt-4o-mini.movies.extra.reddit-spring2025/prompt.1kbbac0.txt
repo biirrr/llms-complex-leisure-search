@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I watched it ~17yrs ago. [FOUND] This has been haunting me
+for months. I have no idea what the plot was but it had such a vibe
+that my preteen self emulated it in with barbie heads. I think it was
+a new release at the rental store, so probably came out around 2007.
+Its an indie film, low budget. The setting is the middle of nowhere
+desert in a rickety old house. There are two main characters, a father
+and young daughter. There might be a grandma, not sure. The father is
+losing his mind over something I think and might have a shotgun at
+some point. The daughter has funky barbie heads for friends and talks
+to them. They may talk back. Theres a heavy orange filter over most
+of the movie, if not all. There might be fishbowl effects used, but if
+not there was some experimental filming styles for sure. Did anyone
+else watch this? Does anyone remember the name?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

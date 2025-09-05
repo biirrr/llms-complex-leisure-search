@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movies that have the naming theme like the Bye Bye Man. I
+don't know I just imagine this or not but I could've sworn there was a
+sting of movie that had a similar naming convention ie """"""""the so
+and so man"""""""" and I remember one of them was really good and had
+more of a cosmic horror element to it but I for the life of me can not
+think of the movies name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

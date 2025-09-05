@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "guys help me out on finding this movie. theres this family
+and like one kid is seen talking to himself at night n stuff and
+pigeons like hit the house and fall down and they find out this is a
+sign of aliens? so then the mom or smt installs a camera to see whats
+going on and the aliens are not seen but its shadow is seen as it
+goes down the stairs or smt and so like they do their best to protect
+the kid only for the aliens to abduct the other sibling and like the
+mom later finds drawings of aliens and how there were signs they
+missed"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

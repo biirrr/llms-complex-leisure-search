@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[3DS][2017]A 3DS game about dinosaurs. Hello when I was
+younger my cousin had a 3ds dinosaur game I never played it but he
+showed me the game. In the game you played as a dinosaur and you
+progressed until you found other dinosaurs and fought with them, then
+at the end of the game you collected footprints, claws... and then you
+unlocked other dinosaurs the game doesn't seem interesting put like
+that but I found it incredible when I was little if you have an idea
+don't hesitate. Thank you so much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

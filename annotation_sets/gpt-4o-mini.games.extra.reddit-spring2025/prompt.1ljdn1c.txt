@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC I think][unknown] game where you are a girl going to
+therapy/doc appointments. Disclaimer: I never played it, I watched a
+YouTubers play through (Markiplier probably?) and cant find it for
+the life of me now. I have memory issues so the details are pretty
+fuzzy unfortunately. Platform: Pretty sure pc Genre: not positive tbh,
+but I think either text-based or point and click Year: no clue, I
+would say within the last 5-10 years but thats just a guess really
+Graphics: pretty basic 2d graphics, to the best of my memory you are
+often getting a birds eye view of the scene (which is mostly the
+waiting room at the clinic) Characters: you play as a girl/young
+woman, who is regularly going to see a doctor/therapist for some kind
+of experimental treatment I think. Those are the only two characters I
+can remember being in the game Other: I think there is something about
+a trash can in the lobby of the clinic, like you spot something
+important in it while youre waiting for one of your appointments
+maybe? Its definitely geared towards adults even though the
+protagonist might be a teen, and its somewhat dark thematically."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

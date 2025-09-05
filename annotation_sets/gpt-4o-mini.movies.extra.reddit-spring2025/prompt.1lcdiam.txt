@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for movie, possibly came out in 70s or 80s,
+Holocaust movie, woman hides Jews in her farmhouse. \*\*SOLVED\*\* The
+film I was looking for was Hidden in Silence (1996). I dont remember
+very much about this movie except for the ending. It was about a woman
+who lives on a farm who harbors Jews in her house during WW2. It ends
+with American soldiers entering her home and they get angry with her I
+believe because of how well they perceive her to be living during
+wartime. But when they search the house the find the people she
+protected in her attic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

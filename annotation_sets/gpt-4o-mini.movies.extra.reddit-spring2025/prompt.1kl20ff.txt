@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "alien movie that used to be on netflix. the whole premise is
+that scientists are creating this new kind of species and when its
+first hatched its kind of like a slug. then they have two of them
+fight and one kills the other. two of the scientists who are married
+smuggle the other one into the basement and it turns into a humanoid
+that they raise as their daughter. it cant talk but it makes noise.
+then when it turns of age, it grows wings and turns into a man and
+eventually it sas the scientist that was its mother and it kills
+her husband. it was on netflix like 5-8 years ago. ive never seen it
+anywhere else. PLEASE i need this answer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

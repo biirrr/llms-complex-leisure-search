@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Bus riding outlaws. Pretty sure it's a late 80's film about
+a traveling group of Outlaw punks led by a wanted man who calls
+himself """"""""King"""""""" who has a silver coin that he often rolls
+over his knuckles. It ends with &gt;!King being caught at a bus
+station when after being able to slip by the police with a fake name
+the rookie member of his group calls out to him in excitement because
+hes finally able to do the coin trick too!&lt;"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

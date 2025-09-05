@@ -1,0 +1,44 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please Help me find this movie!!. I'm trying to find the
+name for what I believe is a killer shark movie that would have came
+out around the late 90s to early 2000s, It was shown on TV when I was
+about 5-6 year ago (around 2006-2007) and I can only remember the
+first 5 minutes of the movie. I've tried googling it but I can't find
+it anywheres so maybe someone here will know. Bare in mind that I saw
+this once about 20 years ago when I was a child so I might not be
+completely correct about all the details. This seems like a long shot
+but hopefully someone will know this movie! The first scene i remember
+i believe is the opening scene, and starts out in one of those sea
+paddock that has an underwater gate to the open sea and a facility
+built on top of the water (kinda like the ones they keep dolphins in?
+But has a warehouse looking building on top), there is railing and
+metal bridges going over the water. I believe there is a tour of the
+facility going on and the dialog introduces the facility as a
+military/private contractor type reseach facility. Theres a bunch of
+men in swat gear patroling around the water and I think a dummy/food
+is lowered into water and it gets eaten by whatever is in the water (i
+believe its a shark trained to kill ppl but idk) Anyways something
+goes wrong and the shark/whatever is in the water escapes and there's
+a scientist/researcher who runs to stop the underwater gate from
+opening via a wheel and he fails to keep the gate closed , thus the
+shark gets loose. And thats all I remember about the first scene The
+second scene I remember happens right after the first one, its a time
+skip to like 10 years into the future where I believe the
+scientist/researcher who couldn't stop the gate from opening is
+homeless and living in a box on a walkway by the beach. I believe he's
+homeless because he tried to warn people about the killer shark/thing
+in the water and the company fired him/discredited him. And thats all
+I got. I dont believe the films centers around the
+scientist/researcher but I think he's an important character that tell
+the actual main character what's going on with the shark. If anyone
+knows this film pls let me know! And thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

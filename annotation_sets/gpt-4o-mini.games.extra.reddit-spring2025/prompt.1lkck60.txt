@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s~2000s] Dino platformer where you traversed a
+tower. **Platform(s):** PC **Genre:** Platformer **Estimated year of
+release:** Hard to say, played it early in the 2000s so probably in
+that range. **Graphics/art style:** Simple and colorful but can't
+recall it clearly, perhaps 16bit. **Notable characters:** I believe
+you played as a dinosaur with bosses being big dinosaurs. **Notable
+gameplay mechanics:** The way you fought enemies was by throwing
+turquoise/light blue eggs in a fixed arc. You traversed a tower, with
+levels being generally small. The width of the levels was always
+fixed, but you could scroll vertically in a level. Every tenth level
+was dedicated to a boss."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

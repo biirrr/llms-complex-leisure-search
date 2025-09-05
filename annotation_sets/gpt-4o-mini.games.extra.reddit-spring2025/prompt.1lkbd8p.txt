@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS] [2000's] Game with a similar visual style to
+Fire Emblem: Shadow Dragon. I never owned a 3DS, never owned anything
+other than the redesigned DS most are familiar with, I owned it until
+about 2014. As a kid I had picked up some game in a pawn shop with a
+very similar visual style to Fire Emblem: Shadow Dragon, with the very
+old looking maps and anime styled characters. The gameplay is not
+similar, in the game I had you navigated politics within your nation,
+recruiting generals of other armies to join your siege on enemy
+castles. For each group you'd recruit, you'd have more 'power' for
+your units to swing at brick, stone, and wooden walls before they
+break through them all. They'd start at the left half of the screen
+and smash layer through layer, losing people infrequently, before
+hitting the right end of the screen and going into battle. Each of the
+units was represented with some leader, most of them had slightly
+different uniforms. Your goal was to have your army kill theirs and
+take the castle. Outside of combat, random things could occur such as
+finding a field of cows and bringing them home, trade deals with other
+countries, etc. What I can absolutely say for certain is that the game
+I played was on the Nintendo DS. I had other consoles but I wouldn't
+confuse a handheld system for my wii or playstation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

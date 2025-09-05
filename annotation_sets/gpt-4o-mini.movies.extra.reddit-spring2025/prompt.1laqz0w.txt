@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "what alien movie is this?. i dont remember much because i
+was just a kid but i think the plot is basically a group of friends
+who found aliens/an alien spaceship maybe in a forest? and they were
+held captive in this dark, slimey spaceship kind of place but two of
+them escaped. when they got out, they were shot by the US military
+because the government didnt want the information getting out. any
+ideas? thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

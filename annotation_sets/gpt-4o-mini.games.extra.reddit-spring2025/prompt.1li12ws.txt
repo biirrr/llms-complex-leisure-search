@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][Late 90s?] Avant-grade console game where each
+button press shows you a unique screen / setpiece. I distinctly
+remember reading a review about a game where each button press would
+take you to a different screen. An A press would take you to a
+different screen than a B press, then the same thing would apply to
+the next screen. So there would be a lot of different possibilities.
+It wasnt really a typical game with a plot, more like an artsy,
+avant-garde\* concept. And yes auto-correct screwed my thread title&
+It may have been for a CD-based console such as Sega CD. I read about
+it in GamePro, or Sega Visions. Timeframe was around mid-to-late
+90s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

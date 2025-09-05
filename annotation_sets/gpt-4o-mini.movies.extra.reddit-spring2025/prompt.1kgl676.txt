@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "HELP ME! I CANT FIND THIS MOVIE AND ITS DRIVING ME CRAZY.
+This movie was filmed either in the early 2000s or late 90s. It
+follows this plot: the movie starts with the group of young boys
+riding their bikes to school. Then we see one of the boys is living in
+an abusive household. The group runs away in the night. On their
+journey they are looking for one of the boys dads who crashed or was
+lost in a plane accident. Through the movie they encounter a lot. One
+of the incidents being they trespassed and got chased off land by
+dogs. Another is they are walking in this huge field and have to run
+away from something and end up having to jump off a cliff into a lake?
+At the end of the movie they find the plane and the kid knows its his
+dads plane because he flips the visor down and a picture of he and
+his father falls out. It is NOT THE following movies: the skykids (the
+flyboys), the runways, Alaska, or on our own. Please help I am going
+insane"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

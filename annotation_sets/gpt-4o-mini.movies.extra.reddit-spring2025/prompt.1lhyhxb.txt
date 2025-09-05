@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a TV Show. Hello, please excuse my bad english.
+I am looking for a action/adventure tv show probably from the 80s,
+maybe beginning of 90s. I think that it plays on a island. There are 1
+or 2 kids in the show. I remember nothing but one single thing from
+the opening or ending trailer, but I will come back soon to this
+detail. The show is NOT supernatural and it plays in our time and
+world. There is always a lot of forest and nature in the episodes. The
+thing I remember is that during the opening credits ( maybe ending
+credit but I think opening) there are a lot of scene from the show
+that are shown rapidely, and one scene is a dragon/dinosaur head
+sticking out of a lake. I remeber the episode and it is not a real
+animal (NOT supernatural) but a fake dinosaur machine build by some
+bad guys to scare off some other people if I remember right. So, in
+the opening credit there is briefly a fake dino head seen sticking out
+of water. I thank all of you for your help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

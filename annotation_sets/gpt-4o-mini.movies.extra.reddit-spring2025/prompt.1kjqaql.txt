@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "2000s or early 2010s coming of age movie. Sorry I don't have
+much to go on but here it goes... It was an independent movie. Main
+character is a teen introvert boy with glasses who was in love with
+neighbor girl. Throughout the movie he gets more confident. I remember
+a scene where he was sitting on the curb outside his house. A lot of
+story was around this clean suburban neighborhood. I recall the music
+being fantastic. I remember he wore a plain white t shirt for a lot of
+scenes. The female teen lead may have been somewhat famous for
+90s/2000s. Was a comedy I think, perhaps a dark comedy, but really
+great drama scenes as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

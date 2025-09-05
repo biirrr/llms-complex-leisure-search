@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][80s] Barely remembered game about a guy navigating
+through spaceship. I vaguely remember a game on nes - a spaceman
+navigating through levels of a huge rocket spaceship, trying to get to
+the top. There might have been a timer. Levels alternate between top-
+down box-pushing puzzle and sidescrolling platformer: during the top-
+down part you push boxes (like sokoban) or blow them up with bombs
+(like bomberman, but bombs are limited and rare) in order to get to
+doors leading to platformer levels. On platformer levels you seek
+items like abovementioned bombs, fight alien enemies and sometimes
+find doors onto the next top-down puzzle level. Since each top-down
+level can have multiple doors, entire game map is non-linear and has
+dead-end branches. Can't get it out of my head but can't remember
+either :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

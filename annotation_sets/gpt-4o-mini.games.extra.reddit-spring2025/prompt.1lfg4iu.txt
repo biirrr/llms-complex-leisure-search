@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2023?] I genuinely cannot find the existence of this
+indie horror game other than this one video.. Apparently its called
+Night of Nightmares? But I cant find anything and I mean ANYTHING
+about this indie game. I remember seeing TikTok clips of other
+streamers playing it a few years ago but thats pretty much all I
+know. https://youtu.be/4DS_zU2W8tg?si=a- exUgeJFWp|f2TP"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

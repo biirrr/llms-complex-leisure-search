@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "can only remember one scene&. (FOUND: sleepy hollow) so, the
+scene im remembering is distinctly about a guy and a girl. the guy is
+riding on a horse, and strolls up on this beautiful girl in a huge
+white dress and black or brown cape. hes aiming a gun at her and
+theyre in this huge, dead snowy forest. and another scene is her
+riding on the back of his horse.. i am struggling !!! =-=- it almost
+reminded me of maybe a gothic film or something similar to the vibe of
+dark shadows and alice in wonderland. ugh!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

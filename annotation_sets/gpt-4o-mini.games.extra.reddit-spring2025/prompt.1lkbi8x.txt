@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GBC] [99-04] turn based top down Pokémon clone. Genre: turn
+based Estimated year of release:1999-2004? Graphics/art style:top down
+Pokémon clone Notable characters: I believe one of the guys in my
+party was a candle. Also later in the game there was a ship wrecked
+pirate boss I never beat Notable gameplay mechanics:the game was
+clearly heavily inspired by Pokémon so it was turn based and you
+couldn't walk far without having to fight these guys against foes you
+randomly find Other details: I believe my mom bought me this new from
+toys are us. The game starts in what I believe is a dessert like
+environment Solved: Dragon warrior monsters 2"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

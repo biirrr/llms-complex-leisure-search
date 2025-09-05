@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Spanish or Italian Coming of Age Doppelganger Movie. Trying
+to find this movie I saw in college (2015 - 2019) about a teenage girl
+who meets a boy on the street who looks identical to her. Over time,
+she befriends this boy and introduces him to her father so that he can
+take the brunt of his affection and abuse. The movie takes place in
+either Spain or Italy, with a summer-y feel to it. It's a sad ending,
+with the boy maybe running away and the father's abuse escalating as a
+result. In my memories, the girl is played by Dafne Keen but she
+would've been too young at the time, the actress likely just looks
+similar to her now. I remember the dad being Jordi Mollà but again,
+nothing like this movie is on his IMDb page. The movie poster was blue
+with the girl and boy's heads facing in opposite directions,
+highlighting their similar appearance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "1980s made-for-tv horror film. I have a memory of watching a
+horror film as a child, probably on the ABC network. This would've
+been sometime in the early to mid 80s. All I remember is a little girl
+is playing on the roof of the family house, and she falls off.
+Simultaneously, the mother is in the kitchen holding a watermelon and
+she accidentally drops it and it splatters on the floor. Quite
+symbolic. The little girl died. Shortly after, her sibling, I think it
+was a little boy, is in bed in the dark, and a ghostly shadow figure
+of the little girl who died emerges at the foot of the bed. It still
+gives me goosebumps. Anybody have any idea what the film is called?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

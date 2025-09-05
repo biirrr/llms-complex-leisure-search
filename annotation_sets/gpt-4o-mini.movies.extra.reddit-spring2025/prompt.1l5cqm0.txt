@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please stop titling posts """"""""I need help finding this
+movie!"""""""" and such. Yeah, we know.. That's what the whole
+subreddit is for. An informative title would probably get more people
+reading your post with interest. Moderators, please consider a group
+rule about this. Also, we don't need lengthy descriptions about how
+you and your brother used to watch this one blah blah blah and your
+mom once blah blah blah but for the life of you, you just can't
+remember blah blah blah and it's driving you crazy blah blah blah.
+None of that helps us identify the movie!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

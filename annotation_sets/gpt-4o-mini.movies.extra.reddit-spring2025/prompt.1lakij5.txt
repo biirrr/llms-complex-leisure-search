@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A girl gets seizures/convulsions and only treats herself
+with booze. It's a film about a girl that meets a guy and she keeps
+having seizures while traveling in a car with him. It's not GARDEN
+STATE. She treats her (i'm supposing) epilepsy by drinking copious
+amounts of booze. I must have seen this sometime around 2002-2004 on
+HBO from Spain but the movie was 100% American and in English."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

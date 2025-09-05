@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Childhood movie that has stumped me for years. Whenever I
+would go to my grandmother's house I would look through her impressive
+collection of VHS tapes, and I more often than not would pick this one
+movie. I loved it, and want to show it to my kids, but I have been
+trying for years to find the name on Google with no luck. It was about
+a kid who, with her extended family, traveled to this mansion of a
+recently deceased family member. I remember there was some kind of
+mystery they were trying to solve in the creepy old place, and maybe a
+creepy butler? The details get foggy. I specifically remember they
+mentioned the word """"""""Windfall"""""""". For some reason that
+stuck with me. There was definitely some sense of competition on who
+was going to inherit the wealth. I remember it being very macabre,
+which explains a lot about my teenage years that followed. That's all
+I remember. I hope someone can help! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

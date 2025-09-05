@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2006-2010] World War II Furry Third Person Shooter
+w/cards. **Platform(s):** PC **Genre:** Third Person Shooter
+**Estimated year of release:** 2006\~2010 **Graphics/art style:**
+Cartoony **Notable characters:** Furry soldiers **Notable gameplay
+mechanics:** It was multiplayer, I remember gamemodes like free-for-
+all, capture the flag, and TDM. Iirc there were no loadouts, you had
+""""""""character cards"""""""", each with a loadout, and you could
+use multiple cards of the same character to upgrade them. I am pretty
+sure the gameplay was Team Fortress-ish, but it was not a hero
+shooter. just cartoony like that. **Other details:** I downloaded it
+from a now defunct site/blog from back in the day, they used to
+provide clean downloads and links for new game demos and free-to-play
+titles, also working as a hub for new game news. I tried Wayback
+Machine, but had no luck with it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I've been looking for this movie for YEARS to no avail :(. I
+was really young, so it must have been around 2010, and can only
+recall one scene: a couple was in a house, talking with an old man
+missing a chunk of his face, dressed in black and with a hat. He was
+the antagonist, and had the couple's son kidnapped, trapped in the
+bathroom of that same house, blinded and deaf. I can't recall any more
+details. Thanks in advance for any help. PD: not an english speaker,
+sorry in advance for any misunderstanding."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

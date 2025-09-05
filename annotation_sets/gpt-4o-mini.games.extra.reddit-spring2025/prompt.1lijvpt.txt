@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS] [2018-19] Ad spamming cash grabbing idle mobile game
+where you break circles with balls. Okay so I remember playing this
+one game while eating around 2018-19. It was Voodoo (mobile game
+company)-esque w/ a simple 2d style and resembled games like Ball
+Crusher and it was one of those """"""""sit there and make money and
+buy upgrades"""""""" games. It would start out w/ 1 or 2 circles youd
+have to tap to break. More circles would appear after you break all of
+them. Quickly, you would be able to buy a white ball that would bounce
+around the black square and break all the circles for you, and after
+that, you could buy more balls. I remember the upgrades being sports
+balls like basketballs and whatnot. The circles would change different
+vibrant colors depending on the hits required to break them, red (and
+probably some others, I didnt get that far) for more hits needed and
+light blue for less hits needed. I still used tapping sometimes LOL
+Idk if it got yanked off the App Store or what. Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

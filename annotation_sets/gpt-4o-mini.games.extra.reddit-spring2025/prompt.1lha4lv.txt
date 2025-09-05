@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc and perhaps consoles?] [2018-2023] Souls-like game with
+a secret ending where you choose not to complete the main quest and
+instead chill with a homeless person in a swamp. I remember seeing
+footage of this secret ending a few years ago but since I never played
+the game the title didnt stick around in my memory. I think you
+unlocked the secret ending by finding the aforementioned homeless guy
+and giving him some kind of dead animal, then the two of you cook and
+eat it together while he plays an instrument and the credits roll. I'm
+like 70% sure it was a souls-like game. Did I dream this or is it a
+real game? Edit: fixed phrasing. Also, this is a mobile post, sorry in
+advance if the formatting is messed up on desktop"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help finding a movie please.. Hello, I was recently flipping
+through some DVDs that were for sale at my local library, there was
+one I was going to buy but I didn't have cash on me. I went back a few
+days later, but someone else had purchased it. I believe it was post
+2015, it seemed like an indie movie, I remember the cover had a lot of
+blue tones. The premise from what I remember was a man was hitchhiking
+to meet up with a woman who he was pen-pals with. The woman had
+recently been released from jail/prison. The man who picks up the
+hitchhiker decides to steal his identity so he can meet the woman
+instead. It is possible I flipped the characters and the man picked up
+a hitchhiker who then steals his identity. I tried asking Google about
+this and it couldn't find what I was looking for since I didn't have
+much specific information. I didn't recognize any of the actors names,
+it felt like an indie/B movie. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

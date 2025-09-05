@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Loup Garou??. Please help me remember where I remember this
+from! It's making me NUTS! It was a cartoon, my memory is telling me
+it was either early Disney (40s-60s era) or something similar. Over
+the top campy moments of comedy, like most cartoons. All I for sure
+remember is one of the characters saying, all shocked/scared-
+like....""""""""Le Loup-Garoooou?!!"""""""" My brain keeps trying to
+tell me that it's the animated film """"""""The Legend of Sleepy
+Hollow"""""""" from 1949, but I just watched that recently and if it's
+in there, I didn't catch it. Seriously. Please help. This silly thing
+has been driving be bonkers for YEARS!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360][EARLY 2010'S] Coloured people (yellow, purple,
+blue) would have unique abilities and had to collect stuff before
+leaving in a car, had several levels, went up to the 10's.
+**Platform(s): It was on Xbox 360** **Genre: Maybe stealth?**
+**Estimated year of release: early 2010's** **Graphics/art style:
+really really simple, talking simply coloured outlines for enemies and
+people** **Notable characters: Unable to remember them, just each one
+had a unique ability and colour, blue, purple, yellow** **Notable
+gameplay mechanics: I think the purple or blue one (darker colours)
+could go invisible** **Other details: Not Hotline Miami (would've said
+masks instead of people)**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

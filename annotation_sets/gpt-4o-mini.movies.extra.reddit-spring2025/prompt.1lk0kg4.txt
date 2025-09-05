@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Robert De Niro type character in a movie with fat woman
+[Repost]. I'm looking for again. I remember only one scene. The
+characted played by Robert De Niro (or Dustin Hoffman or somebody
+similar) is virgin man. The character is 35-40 years old, I think. He
+saw fat woman (perhaps prostitute), which was friend of other person,
+but I don't remember exactly. Then, they have sex (although it wasnt
+showed probably) and he is glad, because it was his first time. It was
+typical road movie and Im sure that it was during long travel and
+rather action movie than comedy. I think that it was typical road
+movie with a motel scene or something similar. Perhaps it was action
+movie (or comedy) from 90s or 2000s. Definitely USA. Perhaps its
+Mandela Effect and it isnt any of these actors, but Im sure
+mentioned scene. I am sure that it could be quite popular movie. It
+isn't """"""""Rain Man"""""""" definitely."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

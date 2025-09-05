@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie that just came into my head and now I need to find out
+what it is.. I remember being a kid when I watched it so i don't
+exactly know much. The main scene that's living in my head is it was a
+house in the middle of nowhere I think and at night these alien things
+attacked them and got into the house. A girl and I think a infant got
+put in a secret compartment in the floor with a shotgun to keep them
+safe. I also remember a giant hole in the floor and when a few people
+went into it, it was like thousands of tunnels like a giant ant colony
+filled with the aliens. I don't remember anything else but that. It
+also looked set in the desert in the house scene, well that's what I
+gathered from the dirt and zero trees or civilization."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A scene that I was sure was from Barry, but apparently
+isn't. I'm a little vague on the details, but in this scene, a couple
+is walking on the beach when the guy suddenly gets jumped and killed.
+Not-Barry then walks up to the girl, who says """"""""Mom?"""""""".
+Not-Barry replies """"""""No."""""""" and shoots her in the head. I
+was somehow sure this was from Barry, but I just binged the entire
+show and no such thing happens anywhere. Does anyone recognize the
+scene I'm describing and know what it's actually from?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

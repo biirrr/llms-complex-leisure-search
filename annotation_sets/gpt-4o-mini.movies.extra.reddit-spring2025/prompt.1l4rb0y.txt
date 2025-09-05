@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What is this movie?. I remember seeing this movie on comedy
+central like 20 years ago. It was medieval movie with a works and elfs
+kind of and I think Seth Greene was in it. The only big scene that I
+remember was when there's a women who's I guess someone of the
+nobility who got high on weed and there was a serious scne as she was
+stumbling all over the place. I have searched this for years and the
+only movie I could find was the medieval movie where they go on a trip
+and turn into dogs at one scene and blow each other lol it's not that
+movie. What is this movie?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Weird scene I saw while scrolling cant find anymore. I was
+scrolling one day and came across a scene from a movie where there was
+this scraggly dude yellow teeth the whole southern sketchy dude vibe,
+and he was driving this girl clearly maybe a hitchhiker or something
+else. Very different than the dude she wore a dress like a normalish
+dress with like some small pattern on it. The big thing was that she
+seemed extremely uncomfortable and the dude kept grabbing her crotch
+and it seemed like not in a malicious way he seemed very casual just
+talking while he did it. It cut to them at a motel which looked really
+rundown etc. I think he asked for a single room but Im not sure. This
+movie or tv show was filmed fairly recently from the looks of it but
+set in an older time maybe like 50s 70s possibly 80s although it could
+be different I just thought that might be the case. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

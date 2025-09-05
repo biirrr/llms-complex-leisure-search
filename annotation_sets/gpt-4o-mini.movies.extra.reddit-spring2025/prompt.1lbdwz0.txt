@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Disturbing film about friend group. I was watching a Youtube
+video about disturbing movies that were more on the obscure side, so
+not the most common ones such as American Psycho or Silence of the
+lambs but more so Parents (1989) and Possession (1981). I was trying
+to find the YouTube video however I cannot which is kind of a bummer
+because I'm not the biggest fan of traditional horror but rather
+psychological horror as there is an element of realness to them as in
+it could actually happen to somebody in real life which adds a scarier
+element to them, however thats just my opinion. Their was another
+movie referenced about a group of i think highschool/college friends
+who end up turning on one of there female members in the group thier
+behaviour eventually becomes borderline abusive towards her as they
+basically start to tourment her. The main scene I rememeber the video
+describing was a metaphoric scene where the friend group tie rope
+around a bird representing the friend there bullying. Everytime the
+bird goes to fly they take it in turns to pull the bird down
+tormenting the bird as if so there friend. It would be a big help if
+anyone could help me find the movie so I can give it a watch. From my
+memory the film did not look new and was most likely made around the
+time that the others were mentioned as well. Thank you for making it
+this far and listening hope i somebody known the film I'm describing
+or youtube video it self if I'm lucky."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

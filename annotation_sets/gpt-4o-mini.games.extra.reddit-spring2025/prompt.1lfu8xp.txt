@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][2016-17]offroad freeroam driving game. A simple
+freeroam offroad mobile game game where you drive a red baja truck
+through a desert mountains area. A prominent feature is that groups of
+B2 bombers could be occasionally seen flying in formation in the
+distance. It was third person and the ui was just simple controls. It
+also wasn't a big name game, it was just an indie game. There was only
+one map and the only color the truck could be is red."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

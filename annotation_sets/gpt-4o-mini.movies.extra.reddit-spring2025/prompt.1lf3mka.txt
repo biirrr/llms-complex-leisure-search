@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Pretty messed-up war-ish movie. I caught this movie on TV
+one insomniac night a couple of decades ago, probably, and it messed
+with my head. Shocking stuff. Theres a young man who, I think, is
+drafted and, at one point, attempts suicide by slashing his wrists and
+forearms. Hes saved my a medical staff. The look of wild ecstasy on
+his face as he cut himself is one thing that was really messed up. I
+think the actor may have had red hair and I think part of the story
+was that his parents turned him in for going AWOL but its been a
+really lingering time. This flick was dark, to say the least. Dark,
+raw, and bleak. I thought it was titled The Front or The Line but
+thats fuzzy, too. Sorry for so much inexactitude. Every Google search
+imaginable hasnt worked."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

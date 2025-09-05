@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Late 2010s or early 2013s][Browser/Flash] Tank game. I
+tried searching this game everywhere and I cant seem to find it at the
+start of the game you'd choose parts of your tank or class, it had
+this """"""""iron man blueprint"""""""" feeling to it, the gameplay
+was 2D viewed from the side, you could fire and run up hills and
+stuff, but the most important aspect I think is that in the boss fight
+it would have a giant robot on the background, firing missiles at the
+player, and you had to break its limbs one by one. plz help on this
+one thanks alot"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

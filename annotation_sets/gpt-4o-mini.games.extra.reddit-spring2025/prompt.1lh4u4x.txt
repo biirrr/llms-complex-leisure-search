@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation 1/2] [2000s] A shooter alien game where you go
+out on a mission [unknown] [Crash graphics]. Hii im from Argentina, I
+was playing some old games, and I remembered a game from my childhood
+that I had a lot of fun playing with my cousin. The game was a
+futuristic third-person shooter, with two characters: a black man and
+a blonde woman. The game was for two players co-op, and you had to
+kill aliens. The game was 3D, and if I'm not mistaken, you could
+upgrade your weapons. I played this game back in 2013/14, and it was
+for PlayStation 2, but the game looked like it was from the 2000s. The
+game's music, now that I remember, was similar to
+""""""""Megalomaniac."""""""" You can look it up on YouTube. I have no
+idea if the game could be played on PlayStation 1, but I'm sure I
+played it on PlayStation 2. I don't remember much else, except for the
+opening cinematic where they were preparing these characters, the man
+and the woman, as if for a mission, and that's when we started
+playing. Maybe I can remember more details, but I can't remember them
+right now. If anyone can help me remember or tell me the name of the
+game, I would really appreciate it! [(looks like Hero's Duty (from
+Wreck-it Ralph movie) but with old Crash's
+graphics)](https://images.app.goo.gl/A8anW)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

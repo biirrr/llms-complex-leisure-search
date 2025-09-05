@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "70s Horror Movie - People living in the walls&.. *Confirmed*
+The Sentinel 1977 Looking for a horror movie from the 70s or late 60s.
+In color, not black-and-white The plot. A family or someone (girl)
+moves into an old house. -Or it could be someone is admitted into a
+hospital or even a mental hospital for an extended period of time, but
+the building is a large old house. But there are a few people she
+discusses the events with - so not sure if its her family or other
+inmates. Soon after the female lead discovers there are beings (like
+shadows or dark beings?) that come out at night. They live in the
+walls? In Other rooms? Or parts of the house that have been sealed
+off? Not sure exactly tbh As usual, no one believes her but one night
+she discovers or is brought to an old woman that sits in the top attic
+room of the building. The room is dusty, dirty and dark. The old woman
+sits on a chair, staring out of the front top window of the house.
+They discussed something, details of the plot, or what is happening,
+how the old lady got there (? No idea) etc., and the female lead,
+either escapes or is let free and returns to the main part of the
+house. Some type of event occurs where it is believed that the shadow
+beings are removed and everything returns back to normal but at the
+last scene, the young girl is now sitting in the chair in the top
+attic room staring out the front window. * it was not Dont Be Afraid
+of the Dark& Just watched that and its definitely not it&."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

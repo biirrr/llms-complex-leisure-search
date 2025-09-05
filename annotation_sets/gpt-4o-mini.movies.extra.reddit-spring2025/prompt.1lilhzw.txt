@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie Trailer I Saw When I Was Younger That I Want to
+Remember. So there was a movie trailer that I saw that played before
+another movie on dvd (I cant remember this movie at all so it doesn't
+bother me). The trailer includes a scene of a girl in a classroom
+talking about a creature or something that stays in the darkest corner
+of your room. There is then a scene where she is in her room at her
+desk and she turns and looks at a dark corner. The only other thing I
+remember is that the girls face is taken off. I want to remember the
+name because it scared me as a kid. I probably saw this in the early
+to mid 2010's, but there is a chance that the dvd I was watching was a
+movie from the 2000's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

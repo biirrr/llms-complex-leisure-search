@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows/DOS][mid-90s] Game where you fly a small space ship
+around on a Mars-like world rescuing people from an alien invasion.
+Platform(s): Windows/DOS Genre: First person flight sim/shooter
+Estimated year of release: 1995-1997 Graphics/art style: Simple 3D
+graphics Notable characters: None Notable gameplay mechanics: None I
+can remember Other details: I remember there being this big slow alien
+ship that would move around the map destroying settlements. The main
+objective was to rescue as many people from the settlements as
+possible. I remember there being a voice clip when you set down at a
+settlement where someone would say """"""""On mah way!"""""""". And
+the alien ship, if you got too close to it, made this repetitive sound
+that was like a cross between a large ocean liner's engine and a
+klaxon that gave me nightmares as a kid."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "please help my dad find this movie. Hi, my dad needs help.
+He watched a movie in the mid 80s that he can't remember the name of.
+So this movie: \- came out in the 80s or earlier \- the actors were
+speaking either english or french (but most likely english) \- In the
+beggining of the movie a man saves another man that was either poor or
+criminal. This scene took place on the beach (or forest) in the rainy
+day. \- My dad is not sure but he thinks that later it turns out that
+the saved man was rich or he gave the inheritance for the man that
+saved him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

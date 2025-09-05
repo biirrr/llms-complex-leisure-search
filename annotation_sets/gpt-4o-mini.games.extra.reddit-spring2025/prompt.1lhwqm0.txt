@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [around 2013] Im looking for a indie game from around
+this time. Please help. Im looking for a game i played some time after
+2013. I only rememver that because it was some time after Bioshock
+infinite vane out. you walk around in some Big white hallways, I think
+you have some kind of portal gun, or something to place stuff with..
+(its not the portal games). Its first person, no voilece and you solve
+puzzles, and you have to get over stuff i think. In the end you go
+(but you are in the sky?) , and there is a lot of really tall
+stairways and it might be a building of some kind far up in the air.
+Im pretty sure its a indie game and it might start with the letter
+""""""""T"""""""" and its a computer game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

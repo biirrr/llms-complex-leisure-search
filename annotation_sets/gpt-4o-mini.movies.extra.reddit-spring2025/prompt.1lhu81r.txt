@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "From the childs perspective. Trying to think of the name of
+the movie from the late 90s or early 2000s where the little girl lived
+in a house with her dead father, who sat in a chair and was bloated,
+she thought he was fat and farting, but he was actually dead and
+decomposing. I think the title had the word Water in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

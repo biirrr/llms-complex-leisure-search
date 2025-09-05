@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation 2][Early 2000s] Max Payne esq game. I don't
+remember much about the game other than a few things. 1. Im pretty
+sure the first mission started you in a alleyway. 2. As the mission
+progresses, I believe you fought through a restaurant, and chased
+someone through a construction site. 3. You fought a bunch of
+underlings, and the game had both melee and gun combat, I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

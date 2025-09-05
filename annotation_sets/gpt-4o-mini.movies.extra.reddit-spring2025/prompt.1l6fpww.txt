@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "French language movie where a guy wakes up in a yellow
+bedroom, pre 2008. I watched the beginning in 2007 or 2008 in a
+language centre. I think he wakes from a dream of a woman, possibly a
+mermaid, very glittery, prophetic vibes. His bedroom is entirely
+yellow, including clothes, furnishings, even his toothbrush. He gets
+ready and then possibly cycles off"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

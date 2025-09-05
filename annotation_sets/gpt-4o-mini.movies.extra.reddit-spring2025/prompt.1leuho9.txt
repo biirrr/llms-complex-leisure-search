@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Woman spends night in torture house.. Ive seen miracles in
+this sub, so here goes: A woman is in a seedy part of town. She is
+either kidnapped or wanders into a regular looking house, but in
+reality it is a torture chamber. I think she goes from floor to floor
+looking to escape but she meets with disaster and pain. In the end,
+she escapes, and greets the morning light. That is all I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

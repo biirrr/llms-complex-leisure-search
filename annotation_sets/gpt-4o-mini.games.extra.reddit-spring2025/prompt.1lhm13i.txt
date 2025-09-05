@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Circa 2015-2017] Game, where you needed to build
+structures to collect mana.. Hello guys! Please, I need your help. So,
+about 8-10 years ago, I stumbled on this video on youtube, where a guy
+was doing a review of a new survival indie game. In this game, you
+played as a mage who would cast spells from all of the 4 elements.
+However, to cast these spells, you would need to collect the specific
+type of mana, needed to cast the spell. For example, if you wanted to
+use the """"""""levitate"""""""" spell to fly around, you would need
+some """"""""air"""""""" mana. To get a specific type of mana, you
+could either simply scavenge for ressources (berries, grass, wood etc)
+and turn them into small amounts of mana, or you could build
+structures, that would generate this type of mana for you, e. g. if
+you needed a steady income of air mana, you would build windmills. The
+game was first person based and kinda low-poly. If there's anyone here
+that also has seen this game, I would be very happy to get any clues.
+It has been bothering me for at least 4 years now :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A scene where a woman tries to look for an exit in a place
+that doesn't have one. So, I remember stopping in front of the TV to
+watch a small bit of some random movie when I was a kid (I can't
+remember my exact age but I would say this was around mid '00s). All I
+remember is a scene of a woman in a place where there was no exit
+(looked like a fancy house or a mansion, not sure) and she went back
+and forth in a hallway trying to look for a way out. After some time
+she jumped through something, possibly a big mirror, that turned out
+to be I think a window and she was finally able to get out of that
+place. I have no idea of anything else about the movie or how the
+woman looked like exactly. Googling hasn't resulted in anything. I've
+just wondered for a long long time what movie that was from and what
+was the context! EDIT: The scene is from The Avengers (1998)! Thanks
+u/despereight675309 !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s/early 90s? Horror movie help please!. I watched this
+horror film on a video rental in the late 80s/early 90s. It was a
+really good film and for 30 odd years I've been wondering what it was
+called! This is what I can remember: """""""" A group of young people
+were staying in an old house. I think it was a large, whitish house.
+One by one, they got killed. """""""" One of the killers was a slim,
+old man with grey hair wearing denim dungarees, weilding an axe or
+sythe. I can picture him so easily in my minds eye now. """""""" I
+think there was a camper trailer and one of the women (who got killed)
+ran into the camper trailer. She had long dark hair. In the camper
+trailer, she turned the taps and she screamed as blood came out the
+taps. """""""" I vaguely recall someone else (I think a young man) was
+killed by falling through the old rickety wooden floors of the house.
+He fell through multiple floors then landed and drowned in a thick,
+white slimy substance in the cellar. I remember my friend saying she
+think's the film may have been called """"""""Ghost House"""""""", but
+I've googled """"""""Ghost House"""""""" and nothing matches. It was a
+great film and we all enjoyed it. I'd love to know what it was called
+and perhaps watch it again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

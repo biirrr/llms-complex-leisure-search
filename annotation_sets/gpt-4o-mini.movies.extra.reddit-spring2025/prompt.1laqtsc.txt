@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Action movie with time traveling/manipulating. Edit: gonna
+put this list here coz there are some crazy suggestions being thrown
+at me. Films that it is NOT: ARQ, in time, about time, predestination,
+bttf, anon, 7 splinters in time, looper, FAQ about time travel,
+primer, equals, tenet, source code. I saw a movie on Netflix, made
+after 2010. A man (somebody like Clive Owen) gets involved in some bad
+dealings and there's a bit of a time traveling thing going on. He
+tries to make a deal with some other men under a large skyscraper,
+very brutalist style, concrete and grey. At one point he meets a woman
+in a cafe and goes back to her apartment but he leaves after a bit.
+There's a knock at the door and it's the same man again but he's out
+of breath and the woman is surprised and exclaims that he """"""""was
+quick to come back"""""""" but it turns out that it was himself but
+the future version. At a later part of the film it shows the
+""""""""future"""""""" guy going to the apartment after being in a
+fight (or something) which explains why he was out of breath.
+EDIT:this scene plays out as the protag is in the apartment and the
+woman answers the door but won't let the guest in, from our
+perspective we think that the visitor at the door would be the woman's
+ex, but the same scene in the future we see that it's the guy who
+wants to get in. At the end of the film he's sat in a café next to a
+window explaining his situation to the woman and how he """"""""has
+time now""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

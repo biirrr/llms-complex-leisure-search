@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What horror movie features a scene where someone (possessed)
+is killed in a police car. I dont remember the scene/plot properly
+but its from a horror movie where I think a police officer has to
+transport a person who is cursed/ possessed to the hospital but on the
+way the person dies. UPDATE: I have remembered more details so I will
+add them in here. - If I recall correctly the police office was a
+woman - I think the person who was possessed was a child - It took her
+much longer than expected to arrive at the hospital Becasue she was
+struggling to find her way (kept taking wrong turns or something) so
+her superiors become suspicious of her not realising there were darker
+things at play"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

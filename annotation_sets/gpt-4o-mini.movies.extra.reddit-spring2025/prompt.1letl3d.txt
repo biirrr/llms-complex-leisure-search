@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie few years ago. It had two sisters as the main
+characters, they got kidnapped and brought to a house which I think
+had a lot of decoration lights and overall weird decoration. There was
+a mentally childlike adult man and another kidnapper, I think it was
+the mother of the man, they locked the girls in the basement, the
+other girl was hallucinating from trauma, and the other one wanted her
+to wake up from it, and she did from time to time. I also think there
+was a scene where the other girl had the kidnapper put make up on her
+and act as a doll bc if the man found out she was real he would rip
+the girl apart."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

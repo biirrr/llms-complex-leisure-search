@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s movie about bootcamp summer camp. American movie in
+English I saw when I was very little, fairly certain it's from the
+90s. All I can recall is what I think is the final or one of the last
+scenes in the movie where the main character's parents come to get him
+from the ( I think ) bootcamp type summer camp and the mean head drill
+instructor /camp leader is trying to get the kid and ends up on the
+far side of a cabin with broken glass all over the floor from the kid
+and his parents all angry and they think they're safe but the drill
+instructor guy walks barefoot across the broken glass to get to them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

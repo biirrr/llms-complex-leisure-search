@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Man looking out a window, doesnt move. My colleague keeps
+talking about this film but cant remember the title. A woman (maybe a
+couple?) lives in a block of flats and sees a man on the building
+opposite hers who is always looking out the window, but never moves.
+Thriller/suspense TIA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,43 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "searching for a anne frank movie or tv series. ok so theres
+alot i mean a lot of films and series about this stori but im looking
+for a very specific one ITS NOT A DOCUMENTARY ok so most stories are
+about what you see in her diary in that attic the one im searching is
+more raw and uncensored because yea you see that storie but you also
+see what happend after she is arrested you see a scene where tha
+father tells his family to put on as mutch clote as posible and walk
+with him normally none know where they are going and surprise they go
+to the attic of his buisness you see them accepting more people even a
+dentis and anna remarks that sadly he is practicing again and you see
+a scene where he is doing dental work to an adult woman and they are
+trying to silence her and she is helping him after the arrest i
+remember a scene where she is sitting in a wodden bench crying of
+shame because she is forced to sit down naked in that bench and theres
+a man near her (btw no actual nudity in this movie you just know she
+is like that but never see any actual girl parts of her. she is
+covering when these scenes are showed) i remember her being sent to
+the concentration camp her and her sister having short hair talking to
+a former friend in the same camp but she is in a better area so they
+speak with a fence between them her seeing her sister margot die and
+her walking around naked like going crazy only holding a old blanket
+because her clothes had fleas and dying in the camp the final scenes
+are of 1945 once the war is over and her father otto being released
+and not knowing anything about his wife and doughters so theres was a
+comission of information where people would go and say where they
+where and WHO THEY KNEW in the camps. so one day they call otto frank
+and they give him the name of another woman survival that mention she
+knew her daughters inside the camps so he goes to visit her ..... im
+not sure how this scene take place i think she wouldnt open the door
+because of ptsd but she opens when he says he is otto frank father of
+anna and sadly lets him in and you see the man crying later because
+his family is dead"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

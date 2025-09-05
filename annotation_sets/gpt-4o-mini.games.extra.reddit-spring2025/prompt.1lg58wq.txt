@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2021-2022] NSFW Dating Sim/Visual Novel set in a bunker
+during the apocalypse.. I don't remember much other than starting at
+the bunker with your family and a robot and then moving on to a town.
+I believe it had a drawn art style, not one of those uncanny valley
+semi-realistic graphics a lot of these type of games have. Can't seem
+to find it at itch.io or anywhere for the matter, so at least trying
+to remember it. Gameplay wise, i don't think it had any mechanics
+other than a typical sustem where you had to make the other person
+like you to get scenes with them, and making some basic choices. No
+survival mechanics or anything like that from what i can recall.
+Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

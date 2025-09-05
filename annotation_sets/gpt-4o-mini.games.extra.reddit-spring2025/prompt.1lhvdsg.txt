@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [early 90s?] side scroller with a diver guy in some
+sort of flying chair. Alright, I'm going absolutely crazy trying to
+remember a game I played on my grandparents' pc back in the early 90s.
+As I remember it, you played as a guy in a diving suit/space suit
+sitting in some sort of jetpack/hover chair and flew around inside
+some sort of tunnel and had to avoid/shoot things coming out the
+walls. It was a side scroller. I absolutely cannot find this game
+anywhere, does it ring any sort of bell for anyone? I'm half wondering
+if I made it up. ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

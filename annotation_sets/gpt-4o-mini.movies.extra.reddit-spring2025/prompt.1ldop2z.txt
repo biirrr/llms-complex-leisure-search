@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Possible Blaxploitation Film. I cant, for the life of me,
+remember the name! *Update:* Mausoleum (1983) Its a low-budget film,
+possibly from the 70s or 80s. I think the woman (Im pretty sure she
+was a slightly older woman) grabbed the kitchen knife and went
+upstairs. Either the other person in the house was possessed, or the
+house was haunted. She heard the spirits then ran outside the house.
+The one detail that stands out to me is when shes running down the
+stairs, she says something along the lines of, No more grieving; Im
+leaving!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

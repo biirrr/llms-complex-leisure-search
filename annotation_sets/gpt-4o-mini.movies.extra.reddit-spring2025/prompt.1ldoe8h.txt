@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this christmas movie !. I dont have any
+pictures but i loosely remember the plot,although whenever I google it
+other movies pop up. The movie is about a wife who lost her memory in
+a car crash and is staying at her parents house because she doesnt yet
+feel comfortable with the husband since she doesnt remember him. Its
+set during Christmas time. At one point the wife sees she had a
+business she started from home (I think it was something she made
+herself like handmade products) But the husband is hesitant about
+showing it to her because its later found out the business completely
+consumed her time. At one point its revealed that the business took so
+much of her time that they ,,fell out of love?,, and she was actually
+on her way to file for divorce when the she got in the car crash. Then
+she realises how much of the time business stole from her and how she
+didnt realize how much her husband still loved her and having her
+around. I watched it a few years ago and loved how cliche it was haha
+so im hoping to find it again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

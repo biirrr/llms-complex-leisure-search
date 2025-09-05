@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Victorian gentleman manipulating elements.
+Hello! I've been getting into browser games again recently. I
+remembered a game that I would love to play again now that my English
+is better, so I would understand the game's story better. But I can't
+for the love of me find it anywhere. Even chatgpt didn't help (but I
+might be bad at writing prompts, lol). So, from what I remember, the
+main thing was that the protagonist, a Victorian-looking man with a
+moustache and a top hat, is controlling elements (one at a time) using
+a cane. He also transformed into an elemental form during that. For
+example, he turned into a stone man while using stone. Each element's
+action had its own sound effect. While using air, mostly to move up
+and to the side when there was a wind stream, his top head floated on
+his head. The head just looked like a wind gust. The game was
+basically a 2D platformer with a bit of a story. The colour palette
+was muted, pastels and stuff and it kinda looked like a painting a
+bit. I played it circa 2012 - 2015. I don't remember much of the
+story. I know there was an explosion at the beginning and he had to
+save his woman, I think? There definitely was a woman involved. I
+can't remember more right now, but I'll edit this if something else
+shows up in my memory. Thank you for any answer. I'm desperate. It's
+almost midnight here and I'll probably lose sleep over this, lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

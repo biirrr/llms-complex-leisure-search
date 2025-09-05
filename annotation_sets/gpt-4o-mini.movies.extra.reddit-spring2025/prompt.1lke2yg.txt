@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "high school movie. it was a movie that came out this year or
+maybe within the past 2 years, it featured 2 girls in high school as
+the main characters and they both went to juvie but lied about their
+experience there to their female empowerment group (?) so they would
+fight back against being bullied. all i can remember is at the end of
+the movie there was a football game and the rival team was gonna put
+peanut butter on their schools team mascot because he was allergic,
+but the girl group started killing all the football players. please
+help!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie I watched a few years ago.. Release year falls
+rougly somewhere between 2015-2022. Pretty sure I watched this in
+either 2021 or 2022. Here's what I remember of the plot: Main
+character, very generic """"""""dude"""""""", I keep thinking it's
+Liam Hemsworth but it's not, has a girlfriend and she tells him her ex
+is stalking her. He seems to be a lunatic. Fast forward, she either
+ghosts him or breaks up with him? Anyways, Liam Fakesworth tries to
+contact her and shows up at her place? Somehow meets a new boyfriend
+of hers (who she told that Unliam Hemsworth is now a creepy ex
+stalker). They have a fight, knife and/or gun involved. And I think
+there's another iteration of her telling the same story again. I don't
+remember how it was resolved but I guess Liam Hemsgreatvalue got the
+good ending. Bonus: Main character may have been a cop / firefighter
+something? It may have been an indie movie, but seemed very well made
+iirc. I tried to find this several times already with google, chatgpt,
+and so on. Nothing ever came up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

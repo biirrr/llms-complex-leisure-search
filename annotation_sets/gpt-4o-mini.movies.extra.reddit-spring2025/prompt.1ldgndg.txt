@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie that came on tv during Halloween season. It was a
+movie that came on tv either on nick at nite or Disney. It was a girl
+and her younger brother. I THINK the sister reads some cursed book and
+her brother gets taken by some monster/creature and she has to go save
+him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

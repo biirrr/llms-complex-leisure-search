@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Weird dentist movie?. I remember as a young child (I grew up
+in the very early 2000s if that helps) and seeing this movie on TV
+with an actor who I thought was Leslie Neilson but I keep looking up
+his movies and can't find it. It was really weird to me as a child
+which is why I still remember it lol but it was about this dentist guy
+and this girl who's like two faced I guess and she frames him for
+murder by creating a cast of his teeth and biting the victim she
+created? And he eventually finds out he's being framed and he also
+finds the dentures in a teddy bear? And then rips his own teeth out
+with pliers???? Like I said I just have flashes of memories from
+watching as a child but I'd really like to know what this movie was
+lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

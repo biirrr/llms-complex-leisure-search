@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a shark movie. The main character is attacked
+by a shark and hallucinates her whole life. She imagines being married
+to the surgeon who is doing surgery on her. She hallucites going to
+Tharp and being scared to go into the pool. She was white and the
+surgeon was black. She endsbup dying on the operation table at the
+very end of the movie and I'm really trying to figure out what it's
+called. It may have been on prime video it's been years since I've
+watched it and I don't think it was very popular."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

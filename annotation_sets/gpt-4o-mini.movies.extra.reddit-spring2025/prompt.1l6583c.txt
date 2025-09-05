@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Film where adults begin to behave childishly due to
+contamination in the water.. I''m trying to find a movie I watched
+sometime between 2010 and 2015. It's a live-action film, definitely
+not horror, but more of a sci-fi or fantasy with suspense. The main
+character is a girl, around 10 years old, who leads a group of
+friends. They ride their bikes a lot, and one of the boys in the group
+has a stutter. The central plot involves the adults in their town
+starting to act like children due to water contamination. It gets
+pretty chaotic, and I specifically remember the local hospital
+transforming into something like a nursery to handle all the regressed
+adults. I remember watching it on Netflix at some point, but it's
+probably been removed by now. I think it might be an independent or
+not-very-well-known film. Any help would be greatly appreciated!
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

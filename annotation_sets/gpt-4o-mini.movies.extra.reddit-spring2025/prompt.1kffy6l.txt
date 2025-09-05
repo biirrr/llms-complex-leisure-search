@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help me find this movie. Hi all, I've been trying to find
+out the name of this movie for years, but had no luck yet. In the year
+2000 my mother made me watch a movie with her, I still remember
+clearly some scenes, but nothing else.. The whole plot was around a
+ghost mother (or maybe she was alive?) throwing her son off a cliff in
+the sea, or maybe she jumped in with her son.. This event happened
+every year, periodically, on the same day, and I remember there was
+someone that was watching this happen. I also remember a scene where
+someone wakes up staring at the ceiling, in a room full of candles,
+and there was someone watching him/her right above his/her face. I'm
+sure though, the movie revolved around the ghost jumping in the sea
+with her son/throwing him in, every year on the same day. I'm sure
+I've seen the movie not after the year 2000, so it's gotta be a movie
+older than that. Help me please, it's been bugging me for years :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

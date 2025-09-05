@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "please help me find this movie. description : the plot is
+basically that a married couple is facing issues in their marriage so
+they decide to 'meet for the first time' once again by pretending not
+to know each other. the movie starts by both of them at baggage claim
+when their eyes meet and then the guy asks the girl for her number.
+Turns out they stay in the same hotel right above and below each other
+and they spend their days together in a hotel whilst talking about
+their marriage to each other but still pretending to not know each
+other. In the end it si revealed that they are actually married and on
+the brink of divorce but the ending is happy as they end up together.
+Please let me know if anyone knows this movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

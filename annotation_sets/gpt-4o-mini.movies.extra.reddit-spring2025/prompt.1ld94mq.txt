@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie that has scenes of canals and clouds indoors. I saw
+a movie recommended on tik tok a while ago and I can't figure out what
+it was called. I believe it was made somewhere between the 90s and
+early 2000s. I saw stills of scenes that seemed to be inside of maybe
+a mansion or some beautiful building. I think there were boats on
+canals and beautiful clouds. It reminded me of a renaissance painting.
+The people in the boats might have been arriving to a party. I wish I
+could give more information :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

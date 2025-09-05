@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Having trouble finding a movie, late 80s, early 90s. All I
+remember is that the poster of the movie is a girl dressed like Aubrey
+Hepburn with a pearl necklace looking in one of those mirrors for
+theater with lights, I think they are called makeup mirrors, and the
+plot of the movie was that the girl lives alone with her dad, and she
+doesn't get along with the new girlfriend, the girl is a troublemaker,
+that's it, please help me find it. I had this movie on VHS, maybe it
+was a direct to video film."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

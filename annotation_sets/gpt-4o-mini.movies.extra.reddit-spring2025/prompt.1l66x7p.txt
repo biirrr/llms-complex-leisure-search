@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Battle droid (maybe). I apologize in advance if this has
+been asked/answered before. I did try searching with no luck. Maybe my
+searching skills arent good enough. I am looking for the name of a
+movie that is probably at least a couple decades old. Possibly 1980s
+to 2000s. I recall the movie as being in an urban school setting. The
+main character was a young adult male. I have the impression he was a
+teacher or substitute. He believed he was a battle droid built by a
+brilliant inventor. I recall two scenes. In the first scene, a group
+of violent male teens is in a car. The main character stealthily hooks
+a chain to a car door handle, crawls under the car, hooks the other
+end of the chain to the car door on the other side, then stands up and
+tosses a grenade in the open car window, and walks off as the car
+explodes. In the second scene that I recall, another man notices a
+bleeding scratch on the main characters neck, and realizes/deduces
+the main character is not a battle droid, but rather the brilliant
+inventors biological son. Thats how I recall it, but its been a
+long time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

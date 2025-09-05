@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "title of the movie please. the first scene (i think) is
+about her family is masacered in their house and she survived by
+pretending to be dead. the boss told to his men to double check if
+there's still alive and a man saw the girl is alive but didn't snitch.
+idk, but the man i guess, raise the girl and trained her the girl
+killed those who killed her family one by one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

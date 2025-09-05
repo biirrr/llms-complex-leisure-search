@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Find a movie based on a single scene. Hello, searching for a
+movie that is probably a comedy where I can only remember a single
+scene, the scene featured the husband or father of the main character
+calling on a payphone from what I think was an inventors expo. In the
+background there is a duo seated in a copy of the Time Machine from
+the 2002 movie The Time Machine, the scene switches back and forth
+between both callers and in between each cut between the speaking
+characters the machine disappears leaving behind smoke as if it time
+travelled. The machine/time travel was completely irrelevant to the
+plot and was simply an Easter egg for attentive viewers. Appreciate
+the help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

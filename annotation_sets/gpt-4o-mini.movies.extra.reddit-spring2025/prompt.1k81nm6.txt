@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Alien? Childhood. Can someone help identify this movie? All
+I remember about the movie was this scene , there was a group of
+people were walking in the forest, then it started raining face
+hugger-type aliens. The face hugger type aliens started attacking the
+group, latching onto everyones face, sucking them. I was scared (5
+yrs old) so I looked away after that. But as an adult now, Im curious
+and eager to rewatch it = I looked everywhere and I cant find the
+name of it. If anyone has any idea pls let me know. I seen it on tv in
+the mid 90s. Thank you for your time!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

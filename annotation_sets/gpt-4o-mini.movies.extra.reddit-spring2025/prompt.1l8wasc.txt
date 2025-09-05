@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Film with woman having to use panic button?. Ive just had a
+memory of a film, I cant remember the whole plot, but I swear there
+was a bit in the film where this woman has a panic button, because
+shes being stalked or followed or something, and I remember theres
+this police officer who would come to her house every time she would
+press it, and shed press it a lot even when nothing was wrong, and I
+think eventually the police officer gets killed at some point. Dunno
+if Im just making this up, but now its annoying me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

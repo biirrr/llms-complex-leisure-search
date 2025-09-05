@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "TV /anthology /twilight zone style 80s-90s. SOLVED!!
+TWILIGHT ZONE 1985: S1E14 Im looking for an episode of a TV series.
+It was on network television in the US . A couple in their 30s is at a
+somewhat remote cabin. Hes a professional photographer. He tells the
+wife about a Native American belief that if their photo is taken that
+it takes their soul . I believe he develops pictures either he took or
+from negatives that he found . When the pictures are developed, a
+warrior comes to life and is confused about where he is so he tries to
+un alive the couple. The husband tries to take his picture again, but
+the shutter gets stuck. The wife has an inexpensive discount store
+type of 110 camera. She snapped a picture and the man disappears. If I
+should repost on another board, please give suggestions ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

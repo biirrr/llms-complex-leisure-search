@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Shadow of a figure with beak in the shower. I once saw a
+scene in TV with a man in, what looked like, public showers. It was
+all white and he was washing himself with some soap. Behind him was
+either white tiled wall or white shower curtain, I'm not sure. Behind
+that curtain was a figure of a person, presumably male, with a beak
+like as if it was wearing a bird mask. This figure was walking from
+one side to the other and the man seemed unaware of its presence.
+Maybe because it was just some shadow/ghost. Again I'm not sure. But
+you could still hear the sound of fast footsteps on the wet tiles and
+someone's whistling. Either the man's or some other person's that was
+in the public showers. I've seen this somewhere around late 00's and
+early 10's. I don't even know if it was a scene in the movie, series
+or commercial. It might've been anything at this point. I have to find
+it. It haunts me to this day."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Before 2014] Mario fan game. It's a Mario game that I
+played when I was younger, I'm pretty sure it was a Windows fan game,
+I played it on Windows XP. The only thing I remember is that right at
+the beginning an enemy/boss is a big fish (probably that purple
+pufferfish that is a recurring enemy in the series) that uses jump
+attacks. I'm not sure about that, I don't remember well or maybe I'm
+mixing up the games, but I remember there being something with
+weapons/violence."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

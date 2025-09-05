@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s - possibly from the 90s] Green Blob
+platformer. I only remember my Nan calling this game 'Green Blob',
+which I'm pretty sure isn't the actual name but is a good descriptor
+for the small green sprite you play as. It was a platformer with
+jumping, ladders, an umbrella-type power up and enemies included
+canons. The goal of each level was to reach the end. I remember there
+being doors and potentially there may have been keys for some doors.
+The art style was very of its day. Not sure what to call it. Maybe
+pixel art, but that doesn't feel right. I only played this game when I
+was a child, and I think it was on a Windows XP computer. I remember
+the old grey menus of Windows XP. I think the icon for the game was
+the green blob sprite."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

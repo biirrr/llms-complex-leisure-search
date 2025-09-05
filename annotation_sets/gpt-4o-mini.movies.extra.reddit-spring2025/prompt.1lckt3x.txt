@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for old cartoon/film: girl with talking panda and
+potions in square bottles. Hey guys! I'm trying to remember an old
+cartoon or movie I watched when I was a kid and I can't find the name.
+I'll list what I remember to see if anyone recognizes it: """""""" The
+protagonist is a young adult or teenager, probably oriental (Japanese
+or Chinese, I'm not sure). """""""" She has a panda that talks to her
+(I don't know if it's a magical animal or a talking friend). """"""""
+I remember she used potions in square bottles, usually pink. """"""""
+One scene that sticks out in my memory is of her near some rocks in a
+lake. """""""" It was dubbed in Portuguese. """""""" I don't think it
+was Japanese anime, maybe a Western cartoon with a similar style.
+"""""""" It may have been a drawing or even a game, but I remember it
+more as a drawing. """""""" It was something I had on CD, maybe a DVD
+or old physical media. If anyone recognizes it or has any ideas,
+please let me know! This memory is a little vague, but these details
+are what I remember most. It cost!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

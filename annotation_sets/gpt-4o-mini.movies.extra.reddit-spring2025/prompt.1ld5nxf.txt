@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Anyone have any idea of this Horror movie??. I am still
+searching for this horror movies for last 15 years , all I remember is
+a scene where there is a couple with a kid (most likely in a red
+dress) and they are in a parking garage. There is a liquid like
+substance where the entity/evil spirit drawn the child into &amp; they
+couple trying to save child, they saved the child but the entity took
+the man inside the water like substance. From the looks of it , it
+seems a movie from late 80s to early 2000s . And no, it's not mirror
+(2008)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

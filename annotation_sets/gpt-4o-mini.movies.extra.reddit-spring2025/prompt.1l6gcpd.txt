@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "15/20 year old movie. Demented teenager, in love with her
+older brother when he goes to war and dies In charge of her little
+brother, she's bullied and so is her brother She kidnaps people that
+she deems rude/bullies and hides them in her barn to torture them (one
+specific method is she cuts off a man's <F and assaults a girl with
+it) Her little brother finds them and kills himself with a gun she
+gifted him for his bday"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

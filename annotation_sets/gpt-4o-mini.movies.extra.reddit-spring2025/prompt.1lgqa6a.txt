@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Vintage sci-fi movie with planet Mars coming close to earth
+and prehistoric creatures. I remember watching this old sci-fi movie
+in TV during my childhood where there are scenes with planet Mars
+coming close to earth and dinosaurs and other prehistoric creatures
+appearing. I also remember a scene where a person bangs dishes or
+utensils to make a noise and scare the creatures away. Finally the
+planet Mars moves away and creatures disappear. I haven't been able to
+find it despite a lot of Googling with key words. Anyone here has any
+clue what the movie could have been? It could be a very obscure
+vintage low-budget flick. Thanks! (EDIT: The movie is """"""""On the
+Comet (Na komete, 1970)"""""""" as identified by u/Apprehensive-
+Wolf114 below.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

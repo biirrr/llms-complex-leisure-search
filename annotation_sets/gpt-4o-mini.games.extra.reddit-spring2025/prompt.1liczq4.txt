@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, I believe] [Early 2010's] Horror game in a house in
+which at the end a girl ghost is in the middle with a tornado of
+things flying around her. I remember watching this game on a german
+speaking YouTube channel. The whole game is 3D. In the beginning you
+had to enter a house. There was a section in which you could see a
+television in the middle and I think see the images of another room.
+In a part of the game you have to use vents to go further in the game
+(at the end of one of the videos of the series the youtuber is in a
+vent and edits a jumpscare of himself into the video). At the end the
+girl is in the middle of a big room and there are a lot of objects
+flying around her. Edit: I believe that there were some columns inside
+this big room. In the beginning I also remember vaguely about a
+cutscene that followed a river, but this might be a false memory."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

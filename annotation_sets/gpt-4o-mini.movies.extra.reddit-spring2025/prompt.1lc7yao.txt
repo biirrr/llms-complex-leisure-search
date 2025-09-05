@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for the name of the movie where a woman has a metal
+wire tied around her neck and is pulled up in the opening.. I came
+across the Baron VonWestphalen YouTube channel, which contains
+gruesome death scenes of female characters. The intro is pretty much
+the same in every video uploaded. Im interested in finding out the
+name of the first scene, where a woman has a metal wire tied around
+her neck and is pulled up in the opening. I feel like Ive seen it
+somewhere before, but I cant remember where. Please help me identify
+it. Here is the link: [https://www.youtube.com/watch?v=XE87i6uT2M4](ht
+tps://www.youtube.com/watch?v=XE87i6uT2M4)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

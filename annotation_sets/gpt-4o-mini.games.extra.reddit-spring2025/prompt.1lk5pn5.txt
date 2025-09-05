@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Fps shooter][early 2000s] fps shooter with level selection
+and open jungle+ hospital/jail levels where you shot hairless ugly
+mutants similar to 2004 far cry. There was this one really really old
+game my father had on our old family computer that died out years ago.
+I don't remember much but i have been looking for it since forever. It
+was a first person shooter where you were on some kind of island that
+was used for a science experiment that failed and made these really
+ugly creepy looking mutants that were hairless and skin colored and
+there were dog-like ones and chimp-like ones and then hairless gorilla
+looking ones that were like mini bosses. There was a level selection
+system and a level were you were in a hospital/prison mix and went
+past cells filled with these mutants and hospital beds with dead ones.
+There was also a part where i remember there was a model of a wild
+boar in the forest section of the island that didn't move and you
+could slowly push it around. I don't remember anything else. Please if
+anybody has an idea let me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

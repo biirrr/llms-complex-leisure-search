@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help finding a 90s skinemax movie. Ok, so this is a
+softcore/late night style movie about two girls who go backpacking to
+Europe. One of them has sex with a guy the first night there and he
+ends up robbing them. Since they dont have money now, they start
+working in a castle/hotel where the owner is a lady. They find out
+that in this castle there is some sort of magical miniature model of
+the castle with little figures representing the guests, and when you
+put these figures together in the model, they end up there in real
+life and hook up. In the end they end up hooking up with each other."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help identify two old horror movies.. Hi all! Sometimes I
+try to remember some movies I've seen on TV like 30+ years ago and
+there were two films I cannot find till this day. One is some kind of
+horror where a group of ppl ride the snowmoviles, get in an accident
+and end in a weird house. Some go for help and dies, others perish in
+nthe house (remember one being killed by hanging on the fan blades)
+and in the end there was smth scary. The other is maybe part of some
+antology where a strange kid had an insect collection - like a church
+with bugs and one time he fed a girl a cookied with bugs. So I'll be
+very happy if you help me identify those movies. Need closure xD Thx
+all! Upd. I've found them, thanks for all the help and responses! The
+Chill Factor and The Willies. Guys, you are the best!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

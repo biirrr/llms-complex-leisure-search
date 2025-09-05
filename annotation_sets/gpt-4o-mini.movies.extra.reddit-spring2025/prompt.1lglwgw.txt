@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can you name the movie I saw on HBO in 1987?. I think it was
+the summer of 1987 on summer vacation when late at night I came across
+a movie about a group of home invaders who make their way into a house
+with a teenage girl home alone and hold her hostage as they rob the
+place. The girl's boyfriend comes over because they had a date and the
+girl answers the door and tries to get rid of him, so he doesn't get
+taken hostage too by saying she's feeling sick, and the date is off.
+This all I remember of the plot. I should mention that I don't think
+anyone famous was in it and one of the home invaders was female. It's
+been 38 years, and I haven't found **anything** on this movie. Can you
+help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

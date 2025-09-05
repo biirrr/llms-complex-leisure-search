@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a black """"""""Karen"""""""" and karma. Looking
+for a movie I saw a short clip of on Facebook. In the clip, a young
+blonde girl is trying to get to her seat in first class on a plane,
+only to be yelled at by a Black """"""""Karen"""""""" who thinks the
+white girl (who I think is named Celina in the movie) is not old
+enough or rich enough to be in first class. After a short argument,
+the flight attendant checks the white girl's ticket and confirms that
+she does have a first-class seat  and they are actually seated next
+to each other. Later, the Black woman is shown being greeted in an
+office by an older white man named Bob, who welcomes her to her new
+job as head of marketing (I think that's the job title). Bob gets a
+phone call and tells """"""""Karen"""""""" to wait in the lobby 
+hell be right back. Of course, sitting on the couch is Celina.
+""""""""Karen"""""""" accuses her of following her and tries to drag
+her out of the building. Just then, Bob comes back and greets Celina
+warmly. """"""""Karen"""""""" freezes in disbelief. After that, I
+dont know what happens  and I cant find the clip or the movie
+again"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

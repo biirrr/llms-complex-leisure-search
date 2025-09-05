@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "B movie/plane crash/nightime/critter. I watched this while
+ago but cant remember the title, hope you can help. The plane is half
+empty, a mum has her teen daughter with her who's recording
+everything, so it's kind of found footage. For some reason the plane
+crashes, most of the film is in the dark (low buget!) And you dont get
+to see waphat the creatures are that start abducting/killing the
+survivors of the crash. Eventually the day dawns, I forget the next
+bit until the very, ery end.. no spoilers... but 'whatever' the
+strange creatires are, you finally get to see them in all their glory
+(blew the buget on this scene) where they kill one of the park
+wardens, or owners of the santuary place. It was good trashy fun Can
+you help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

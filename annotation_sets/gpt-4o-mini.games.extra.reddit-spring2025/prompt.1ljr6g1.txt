@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][Unknown] A zombie Survival Apocalypse Game. Hey,
+this game, I cant remember what its called - its a zombie survival
+game where you have a map and a set amount of time in the day. You
+could upgrade different things on your base like a heater for winter,
+cooker to cook food etc. I remember you have to upgrade your fence in
+case a wandering horde appeared at night. You chose a location on the
+map and your guy would have to walk for however many hours, possibly
+encountering zombies that was fought in a text-based way and outside
+player control. You could come across survivors and trade items with
+them to try and get supplies you needed. You had health, infection,
+food, energy etc that you had to be careful about. I believe there was
+a sequel to this game as well. Most of the game was text based and no
+animation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2014] Horror game in which you walk down an infinite
+pixelated hallway, you could only walk forwards or turn around and
+walk the other direction.. I think I was watching a very small
+streamer play this game about 11 years ago. It was 3d but the graphics
+were very basic and quite pixelated. The textures on the walls would
+become gradually more unusual and warped, and I think you could see
+creatures in front of you out in the darkness every once in a while.
+There was no gameplay other than walking forward or backwards. I
+remember some mention that supposedly the game would corrupt or
+destroy files on your computer as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "=¬ [PC][2010s] 2D game with pale woman visiting abandoned
+orphanage. Hi! I'm trying to remember the name of a game I saw
+YouTubers play around the late 2010s. It was a 2D (not pixel, not 3D)
+game with a dark but not super scary vibe  kind of like Fran Bow or
+Whispering Willows. Not gory or action-heavy, just unsettling. Here's
+what I remember clearly: You play as a pale, thin woman in an elegant
+blue dress The game starts with her in a taxi, and she asks the driver
+to stop Hes surprised, because the place is abandoned She walks into
+an old building  Im pretty sure its an orphanage where she grew up
+The building is broken down, and shes remembering traumatic memories
+from her childhood as she explores Its not Rule of Rose, Fran Bow, or
+The Path. And its not a pixel-art game or 3D. Im desperate to find
+it  any ideas would mean the world! =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

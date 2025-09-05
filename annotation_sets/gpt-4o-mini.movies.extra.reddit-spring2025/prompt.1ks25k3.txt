@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I don't know if anyone can find this cause this is like a
+fever dream type movie. So i had this CD given by my parents, it was
+probs made during the somewhere in the 2000s It was like about some
+kid (animal of some sorts possibly a rabbit?), and his father who was
+sailor, and im not sure if he had a mother. They had a boat/ship, and
+suddenly there was like a pretty huge wave as the father was in the
+ocean, and the father swept away, and was gone, The kid now goes on an
+adventure finding his father. There was one scene that the kid had to
+go into a almost cruise ship or just a regular ship to travel
+somewhere. Im sorry if the description is not good but this was a long
+time ago since i've watched the movie, it was almost realistic but
+more on the animated side."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console] [2000s] 1st FPS. SOLVED I played this game with a
+cousin in the early 2000s and have been trying to find it ever since.
+From what I remember, it was a first person shooter whose whole shtick
+was that each side had a limited number of troops on the battlefield
+at once- and when you died, you did not respawn, but simply took
+control of an AI ally that was still alive. Rinse and repeat until one
+army was completely defeated. I believe it was on the original Xbox,
+and had sort of Medal of Honor WW2 vibes but none of them seem to have
+this feature. The map I remember playing was a snowy city, sort of
+like Verdansk."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

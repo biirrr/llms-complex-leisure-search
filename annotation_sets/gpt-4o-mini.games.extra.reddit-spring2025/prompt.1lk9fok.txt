@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android] [mid 2010s] So there's this warrior with an axe
+game. I used to play this game as a kid in the mid 2010s, you're a guy
+with an axe who roams around the map fighting enemies which may be
+humans with weapons,giants, or even a dragon in a particular area of
+the map (could be fire or ice type) It's an Android game btw, the app
+icon is a warrior who seems to have a ponytail with an axe"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

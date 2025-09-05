@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie hair attack in phone booth. Hi all, Im trying to
+remember the title of a horror/thriller movie I saw as a kid 
+probably in the early 2000s  on Filmnet (Netherlands/Belgium). I
+never finished it because it terrified me. Heres what I remember:
+"""""""" A girl at school is called into the principals (or deans)
+office. """""""" Shes left alone for a while. """""""" A monster or
+creature appears, and she hides under the desk. """""""" The phone
+rings on the desk  she tries to answer it& But she ends up grabbing a
+gross hand or claw instead. """""""" She runs away from the school and
+hides in a phone booth outside. """""""" Then shes attacked  or
+surrounded  by a mass of hair, possibly from the monster. """""""" I
+think she dies at that point, but idk I stopped watching. Other notes:
+"""""""" Likely from the late 90s or early 2000s, aired on Filmnet in
+that era. """""""" The overall vibe was creepy and supernatural, not
+comedic or overly gory. Ive never been able to find this film again,
+and it still haunts me a bit. Does this ring a bell for anyone? Thanks
+so much for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

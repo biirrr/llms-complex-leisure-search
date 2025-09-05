@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "That One Movie Where a Teen Trips into an MMORPG World. So,
+when I was a little kid, I remember watching this scene where a
+teenager gets bullied and punched in the woods by some typical
+bullies. Then, they throw him to the ground, force a pill into his
+mouth, and spit in it to make him swallow it. After that, the main
+character goes on a bad trip, seeing himself as a character from an
+MMORPG-type game. The whole scene is very psychedelic. This was
+probably around 20062008, but the movie itself was likely from the
+early 2000s. My parents never let me finish the movie after that scene
+ it was kind of disturbing  but it stuck with me for the rest of my
+life."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

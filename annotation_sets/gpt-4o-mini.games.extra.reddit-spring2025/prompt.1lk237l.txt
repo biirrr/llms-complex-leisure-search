@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015ish] Strategy game maybe, playing as a God,
+conquering ladnmasses. EDIT: Solved, """"""""Eador: masters of the
+broken world"""""""". Hello! I'm looking for a not so old, maybe
+strategy game, I can't remember the name, and google couldn't help me
+either. What i remember: \- You played as a god, who lost his
+memories, \- you had a minion who you can spoke between missions, \-
+for the missions, you have to select a floating landmass to conquer it
+and add it to your land, maybe some material required to choose the
+landmass, \- in a scene between missions you talk with your minion
+jokingly, that you don't have any special power, like the other gods
+and your minion tells you that you can travel back in time (reloading
+saved game). Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

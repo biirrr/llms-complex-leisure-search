@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s or 90s horror movie that aired on tv from 1994-1995.
+Also could be from a series. Been looking for 10 years. I saw a movie
+or tv series when I was a kid that scared me really bad. The only
+problem is I dont have much memory of too many scenes only one in
+particular. This aired on tv approximately 1994-1995 during the day
+time based on where I was living at the time. The one scene I remember
+very vividly is a villain or character accessing a mans home through
+the garage door using a numeric keypad code located on the garage or
+house. I vividly remember the fingers pressing in the code and the
+suspense that followed. This scene really sticks out in my mind. I
+also want to say the garage door opening and revealing who was trying
+to get in. I think there was a man (it was only one character) hiding
+in the house from whatever it was. Im also leaning more towards late
+80s or early 90s it didnt appear too old. There was a scene with fire
+too not too long after maybe whatever was trying to get catching fire
+cause thats when I screamed for my dad lol. But yea the scene I
+remember really well was the nails or fingers pressing the code and
+something happening to get inside the house. There is a chance this
+was also the main character entering the house to hide but I remember
+it being really suspenseful. Its not are you afraid of the dark
+because it was much more adult horror! X files doesnt ring a bell
+cause I cant find it but I could be missing something!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

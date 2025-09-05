@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Likely Steam][Mid 2010s] Looking for a 3D Stickman style
+stealth/assassin game I played. I remember seeing the game on steam,
+but I had played a cracked version of the game on another pc and my
+current searches havent been conclusive. I remember it as being a 3d
+low polygon stealth assassin game where the characters are Stick
+Figures. It featured a detection meter similar to other stealth games
+where you had to kill all enemies without being detected. The game let
+you use various tools such as grappling hooks and mines as equipment.
+3 maps I remember are one dock style map which included a dock with
+containers and a big ship, one house/mansion map that had a garden,
+and a high rise style map that had a couple buildings with multiple
+floors. The house and high rise maps were predominantly white and the
+dock map was mainly red. I remembered the game after a long time and I
+remember it being pretty fun, so I wanted to check it out again. I
+hope this is enough info for people as I cant remember much more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

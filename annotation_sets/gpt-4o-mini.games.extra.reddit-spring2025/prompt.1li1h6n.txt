@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [1990s/2000s] [racing game based on a kid's show (red
+double booster challenger car). **Platform(s):** PC **Genre:** Racing
+game **Estimated year of release:** Early 2000's/late 1990s
+**Graphics/art style:** third person racing game? (like nfs) **Notable
+characters:** Good vs evil racing team? I remember a brownish circular
+race course (i'm pretty sure the game was based on a kid's show)
+**Notable gameplay mechanics:** Red race car with dual boosters that
+deployed from either side as a special ability. **Other details:** I
+remember the main character driving a bright red race car with
+deployable boosters on either side. I think it was a challenger or
+something like that. The game was definitely based on a kid's show"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

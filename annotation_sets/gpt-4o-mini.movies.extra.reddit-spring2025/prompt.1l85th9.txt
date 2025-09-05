@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "horror movie with a barbed wire scene. I can only remember
+one scene, and I believe it is the opening. I'm pretty sure it's
+either two girls, or one girl and one guy. They're biking through a
+forest when more and more creepy looking people show up. I can't
+remember if they're clowns or not but they just look... not normal.
+These two get more and more freaked out and more and more freaky
+looking people start chasing them until eventually the two people are
+so distracted that they bike their faces right into some barbed wire.
+Every time I have tried to find it, I only get results about Maniacs
+(2001) or Wrong Turn (2003) these are definitely NOT the movie I
+watched. I believe I saw it about five years ago and I'm 85% sure that
+there's a Dead Meat Video on it. I've scoured every video from Dead
+Meat and I can't seem to find it but I distinctly remember James A.
+Janisse narration over the scene."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

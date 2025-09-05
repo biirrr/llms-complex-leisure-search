@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help with this movie please. I don't know the exacte premise
+of the movie, it is sci-fi but at some point one of the main
+characters is arrested, goes to an underground cave-like prison with
+tunnels where they're given lanterns to keep away monsters like
+Novistadors from Resident Evil 4, at some point another MC goes to
+rescue him and he's given a lantern to go inside and search for his
+friend. If the lantern runs out of fuel the monsters will start
+chasing them because that's the obly thing that keeps them away. They
+barely manage to get out of there. Thank you very much in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

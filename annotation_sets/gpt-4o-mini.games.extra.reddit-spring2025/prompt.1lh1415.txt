@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NINTENDO DS LITE] [2010-2012] [GAME ABOUT RABBIT STORY
+TELLING CHRISTMAS STORYS]. I'ts been a while since I'm trying to find,
+I remember It was a game I played as a kid a round 2010-2011 or 2012,
+in my nintendo DS lite , it had a white rabbit well dressed telling
+christmas storys , I remember it had 3 of them, one was the nut
+cracker , but there's other that i really don't know ,I just remember
+it was a out grandparents buried alive the dog's child or buried Alice
+the child,i just remember the scenes. I think the language was
+english,but At that time I didn't know english or anything so idk if
+its wrong When entered the game,the scene in it was a christmas tree
+inside a house and the toys down the tree sometimes move Please Its
+been years I'm trying to find that game , so if you can help me
+finding at leat the name or an gameplay of it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

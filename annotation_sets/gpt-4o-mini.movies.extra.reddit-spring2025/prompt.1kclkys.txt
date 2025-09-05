@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help me to find the movie please. Help me find a movie where
+a group of friends went on a tour across Europe, but their money was
+stolen on the train. Years later, when they found out that one of
+their old friends had died, they reunited for a trip because that was
+the only way they could inherit the deceased friend's belongings.
+There's a scene at a big party or festival where they sold their
+friend's ashes disguised as cocaine to earn money for the road. They
+also visited Romania, Paris, and Amsterdam, if I'm not mistaken.
+Another detail is that they bought a strange drug that made them see
+weird things."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

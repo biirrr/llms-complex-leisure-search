@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Evil/spooky tree?. For starters it was a kids movie that
+used to play on Halloween lol. All I remember is a scene where theres
+this kid hiding under his covers because theres some tree hes
+convinced is evil tapping on the glass or something like that. It used
+to terrify me as a kid cus I lived in the woods! I cant find it
+anywhere, can you help a brotha out people of reddit?=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

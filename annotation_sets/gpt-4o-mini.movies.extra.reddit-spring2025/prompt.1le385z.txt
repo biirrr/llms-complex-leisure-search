@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Action movie where someone pushes people off of a cliff. I
+saw this movie in the early 90s. It involved a person or a group
+trying to escape people pursuing them through the mountains. Someone
+was pushed off a cliff and then I think another person also gets
+pushed off by the same guy, who might have been a traitor or
+undercover or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

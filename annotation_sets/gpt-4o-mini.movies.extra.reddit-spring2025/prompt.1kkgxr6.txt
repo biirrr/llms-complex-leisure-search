@@ -1,0 +1,49 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Been wondering what this movie is for at least 2 decades. I
+was watching this horror (I think) movie on TV when I was a kid,
+probably between 2000 and 2005. Shortly after starting it, my dad
+asked me to go out and rake the leaves and help out with other yard
+work. By the time we were done the movie was either over or I couldn't
+find it on the TV again. But the beginning has stuck with me through
+the years so hopefully someone can help me out and give me some peace
+of mind! So the movie takes place at a carnival, or at least the
+beginning did. Think there were a bunch of kids that were visiting the
+carnival that were meant to be out protagonists but I don't remember
+anything about them. The thing I really remember is that the carnival
+owner is trying to get his star attraction to stay but she's not
+having any of it. She's going to move to LA to become an actress i
+think. Before she leaves for good she enters a funhouse or a haunted
+house attraction to meet her boyfriend or someone I think. However
+there's this sarcophagus that they've set up here that's new. I think
+it was supposed to be their new big attraction or something. In not
+sure where they got it from but it ends up being haunted or cursed and
+this girl ends up getting sucked into or dragged into the sarcophagus.
+I'm not sure if it was via mummy bandages or if hands grabbed her or
+not. Feel like it was bandages but I honestly can't remember. After
+that I don't know what happens as I got called away. It definitely had
+an 80's B- movie feel to it. My googling over the years hasn't helped
+me figure out what this movie was. Turns out there's a lot of movies
+about carnivals and sarcophaguses (which just leads me to mummy
+movies) Does this sound familiar to anyone!? EDIT: I'm pretty positive
+the movie is Ghoulies 2! The scene in question was one of the carnival
+workers preparing to leave the carnival but had to find her cat first.
+She didn't get sucked into a sarcophagus like I thought but she did
+stick her hand in one that one of the Ghoulie then cut up. Then they
+jump her and do what Ghoulies apparently do. Could have sworn the
+scene ended with a close up of the sarcophagus as it finished sucking
+her into it but the rest of the scene is so close to what I remember
+that I'm thinking I got some details wrong. Thanks everyone! And for
+anyone that thought it might be a segment to a show like Tales from
+the Crypt or So Weird, that was a good idea! I never considered that i
+was having so much trouble due to it being a smaller segment! But I do
+think it's Ghoulies 2 in this case. Thanks for all your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

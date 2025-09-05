@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Comedy/Drama movie about Guy Haunted By Man In Suit.. So
+this was around 2015, and I was watching this movie in my brother's
+laptop. I dont what it's called. But the movie is not exactly a
+horror, let alone Paranormal. There are intense supernatural or
+chilling moments. The movie is actually a Comedy/Slice of Life/Drama
+type of movie. It's about this guy, I think he works at corporate or
+something. And he is haunted by the guy who's wearing a suit. Again,
+there are no supernatural elements of scary moments, just a normal guy
+in a suit. The guys wants nothing to do with the ghost, he finds the
+situation annoying and tries to ignore it. The ghost I guess, has
+unfinished business. There is this one scene in the movie where the
+guy tries to run away from the ghost in broad daylight. And you get
+this really funny scene where this guy is being chased by a man in a
+suit. He eventually stops and both kinda seem tired. I forgot the name
+of the movie, because the didn't even check the name, I just clicked
+on the movie file an watched it. I'd appreciate the assist,
+thanks=O<þ=O<þ=O<þ=O<þ"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

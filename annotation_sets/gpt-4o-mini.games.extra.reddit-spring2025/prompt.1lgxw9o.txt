@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [200-2015] PC zombie game between 2013 and 2015. Hi,
+I've been trying for years to remember the name of a zombie game I
+played on PC between 2013 and 2015 (more or less). It was a first-
+person shooter, and these are the details that I still remember
+clearly: It was set in a destroyed city, with very dark colors and
+reddish tones. You could explore alleys and some interiors where there
+were also zombies. The zombies were bald, with very dark or putrid
+skin, quite gloomy. The player used firearms and the game was, I
+believe, offline. The final boss was two types of zombies: One was
+big, I think, he had big dark outfits and I think, I THINK he was
+holding the other boss with chains. And the other was thinner, red,
+with demon wings, who flew and laughed while attacking or moving
+around the stage. You had to chase it as it moved around flying and
+launching attacks. I don't remember if it was a full game, a mod or an
+indie game, but it ran on the normal computers of that time (I played
+it on a basic one, so it wasn't very heavy). I've searched for years
+and can't find it. It's not Left 4 Dead, Dead Island, or anything
+known triple A. Has anyone played it too or know which one it is? I
+would appreciate it because I would love to play it again if
+possible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me to find this scene - AI is useless! Two men in an
+office having a casual conversation. They're interrupted all the time
+by odd phone calls where the host goes silent and only says YES or
+NO.. Today I remembered one of those scenes that always make me laugh
+out loud, while most people feel meh about it. I need to watch it
+today please =O<û The movie is likely to be a satirical comedy like
+""""""""Big short"""""""" but I'm not sure... it's the same kind of
+tone and humor. In the scene, there are two men in an office setting
+(or home office). Both are sitting in chairs, in one man's office or
+wfh room. I believe the host has a moustache and it's a known face (ie
+male actor with dozens of movies and TV appearances) The two men are
+having a casual conversation and the guest is asking a favor or
+sorting something with the host. The tone is casual. Then the phone
+rings. The host goes silent for a couple mins and then says YES and
+hangs up. He doesn't say """"""""Hi"""""""" or talk with the person on
+the phone at all. The only word he says is YES or NO. They continue
+the casual conversation. Same story, phone rings, host says NO, hangs
+up. And this keeps on happening. The scene illustrates the absurdity
+of some leadership roles, and the absurdity of having a casual
+conversation while being interrupted for critical items all the time.
+The movie is very likely from year 2000 onward. Thanks in advance!
+=O<û"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

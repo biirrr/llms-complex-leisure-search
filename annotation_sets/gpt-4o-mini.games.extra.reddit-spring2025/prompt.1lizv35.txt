@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS] [Unknown] Megaman type game where you can turn
+into the bosses. Hi, I remember playing this games as a kid on the
+nintendo ds, with a hack sd card (I think, not sure). I remember it
+was very similar to Megaman. I think it was about a lab grown kid with
+white hair, who was followed by a triangle-ish shaped robot (can't
+remember for sure), trying to save the world or something. The main
+appeal of the game for me at the time was the ability to transform
+into some of the game bosses, who were all robots/androids by the way.
+I remember there was a sort of red fiery kangaroo, a purple ninja
+mouse with wheels for feet, and a giant light blue dinosaur. I always
+think of this game when I think about my early consoles, but I can't
+remember the name. Any help would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

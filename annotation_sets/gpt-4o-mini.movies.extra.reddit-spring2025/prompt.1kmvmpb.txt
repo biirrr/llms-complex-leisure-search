@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Airport takeover movie. Opening(ish) scene is a group of
+cops/feds arriving at an airport protecting a person. I dont recall
+if the man is a witness or a criminal. They get ambushed by a criminal
+group that wants the man they are protecting. They enter the airport
+and the movie plays out with the cop group trying to survive and
+protect the man and also the mans wife who is there. There is one
+main cop guy who ends up solely protecting the man. A lot of people
+are killed throughout the movie its pretty bloody. The main cop lady
+ends up being the leader of the bad guys group. They make the man
+record some sort of confession video to post online. The movie ends
+outside of the airport where the bad guys try and blow up a plane or
+the airport? Not sure of much else. Ive tried to search all over.
+Reddit is my last resort."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

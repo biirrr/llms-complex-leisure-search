@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Robot movie. (this is all from the best of my memory) this
+man makes this girl robot, and i think he may have a friend helping
+him i dont remember? anyway, its a very futuristic setting, i
+remember the house being very futuristic. i think the man does tests
+on thjs girl and he keeps her locked in a room or something, and in
+the end she turns on him and kills him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

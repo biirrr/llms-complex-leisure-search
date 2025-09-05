@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sunken ship, murdered woman and mysterious diamonds. US
+movie, production years 1960s-70s. Every help will be appreciated. A
+detective interviews a young woman with childhood trauma. It unfolds
+that the girl witnessed her mother being murdered by poison on board a
+ship with the intent to steal the loose diamonds that the mother was
+transporting. The story is set during World War 2. At the beginning of
+the film there is a scene on a transatlantic liner where two couples
+are having fun at a dancers and then go to the cabin of one of them,
+who has a small daughter. Invited to the cabin, the couple kill the
+couple and at this point the ship is hit by a submarine. An evacuation
+takes place. The film then moves to the post-war years when the child
+who survived the ship is now a grown woman. She tries to find her
+parents killers. She seems to lure the killers through television. In
+the films finale, it turns out that her parents were killed for
+diamonds hidden in a doll she had on the ship. I always thought it
+starred George Hamilton but there is nothing in his filmography that
+matches this film for me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

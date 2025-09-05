@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] hidden object like?. **Platform(s): pc
+(cd/dvd rom)** **Genre: hidden object/point and click (no real theme,
+very kiddie and edutainment-like)** **Estimated year of release:
+early-mid 2000s? definitely before 2010** **Graphics/art style:
+pixelated 2d, very bright/harsh colors, almost like microsoft paint**
+**Notable characters: can't remember** **Notable gameplay mechanics:
+each section/screen had several patches of white. each patch
+corresponded to an image/object in a scroll bar on the side. upon
+dragging the object to its place in the scene, it would play a short
+animation. for example (may not be real), there could be a milk carton
+shaped blank spot, you would drag the milk carton from the list to the
+spot, and it would play an animation of the carton mooing. reclicking
+the object after placing it replays the animation** **Other details:
+each object in the list had its name underneath it. game took place in
+and around a house. one scene had a bonfire in the backyard with a
+large cloud of smoke, and the animation of either the bonfire or the
+smoke had it flashing rainbow. the name on the cd i used to remember
+it by was """"""""osborne"""""""" or """"""""osborn"""""""" or
+something**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

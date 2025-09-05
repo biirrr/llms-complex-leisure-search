@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Girls connected with stones. I search a movie I saw some
+years ago. It should be made in the early 2000's. It's about some
+girls wich are connected with magic stones. They feel everything the
+other feels like pain etc. . And there was a bad guy who wanted all
+the stones for power or something. One particular scene I remember.
+One of the girls had sex on the bathroom and all the other girls felt
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

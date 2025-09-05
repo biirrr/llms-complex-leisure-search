@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Whats this British gangster film called. I remember
+watching this ages ago and Ive forgotten the name of it its a
+British crime/gangster film and theres one scene that I remember and
+someone got shot in a car and then the person who shot them spray
+painted the word mug on the persons car does anyone know this film
+Ive been searching for it for ages"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

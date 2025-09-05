@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Rollerskate girl?. About three decades ago, I saw a movie
+about a rollerskating girl of around 16yo. I think the title was, or
+had Babe or Baby in it. Unsurprisingly, when I search for that I
+always end up with the pig movie. I cannot remember any scenes, but I
+do remember it to be kind of dreamy, artsy maybe even.. Would love to
+find it again.. Edit: the movie is not about rollerskating, the girl
+had or was rollerskating as I recall. Also, she had dark hair. Sorry I
+don't have more info"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

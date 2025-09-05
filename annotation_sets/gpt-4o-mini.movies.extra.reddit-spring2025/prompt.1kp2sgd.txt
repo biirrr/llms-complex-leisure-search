@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Screenshot below - bride on a balcony?. https://preview.redd
+.it/8kanwjgele1f1.jpg?width=1786&amp;format=pjpg&amp;auto=webp&amp;s=d
+426b59cf84fa25de091c52962eca3b1ffe451e0 This is a screenshot from a
+clip of a film that has been in a few of the Critical Drinker YouTube
+videos. Essentially it is about 2 seconds of a woman wearing what
+looks to be a wedding dress running across a balcony. I presume she
+jumps off. Any ideas on the film?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

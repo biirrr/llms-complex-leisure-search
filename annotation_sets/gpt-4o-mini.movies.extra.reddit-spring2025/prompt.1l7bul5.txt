@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find: Action movie where wife is exposed as a spy
+against husband.. Really hoping someone can help me find this movie.
+Ive never seen it only a clip on YouTube and I cant for the life of
+me find the clip or what this movie could be through a Google search.
+The movie is definitely an action movie. Plot of clip: Man tries to
+kill what appears to be his best friends wife because shes a
+spy/double agent against her husband. From what I recall in the clip
+theyre all having dinner at someones home. One of the guys there is
+suspicious of his best friends wife and her best friend so he kills
+the wifes best friend. The husband doesnt wanna believe that his
+wife may not actually be who she says she is and he insists to his
+friend that he took all the necessary precautions and that theres
+just no way that his wife isnt who she says she is. The friend I
+believe then starts insinuating that the house is bugged and I believe
+uses radio frequency or something like that to prove to his friend
+while the wife is begging and pleading for him not to test anything
+because its not true. When its revealed that she has the house
+bugged, she tries to shoot them and escapes. Does anyone know what
+movie this is?? Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

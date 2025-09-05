@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Older movie involving a kid feeding some organic biosuit
+gumball objects. This was an older live action movie, where a child
+discovers an organic creature, maybe an alien, and is able to go
+inside it almost like a Mecha suit. The interior of the creature has a
+screen and a face that is able to eat the gumball like objects."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Potentially an 80s horror movie. I dont remember much about
+this movie but my parents had it on VHS when they had a video store so
+most likely its pre-2000s. From what I remember, it was a slasher
+type of movie. The killers eye were glowing green (although that might
+just be on the cover on the VHS). The killer would come out from a
+slaughterhouse freezer, possibly appearing from the corpse of one of
+the animals. Been searching forever and my parents dont remember this
+movie either. Any help is much appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

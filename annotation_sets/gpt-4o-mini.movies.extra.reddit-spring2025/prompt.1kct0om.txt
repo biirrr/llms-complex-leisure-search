@@ -1,0 +1,31 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can't remember the name of a particular movie I saw a year
+or 2 ago, and it's driving me crazy!!. I'm looking for the name of a
+particular movie, which I have definitely watched, but now I can't
+find it anywhere. I've done a lot of google searching and asking
+chatGPT, (both of which act like the movie doesn't exist), and haven't
+been able to come up with anything. It seems really weird because it
+wasn't like some totally obscure, micro-budget, bad indie movie, that
+no-one has heard of. It was a low/mid-budget, full length, normal,
+high quality, feature film, which i think was originally released on,
+or produced by either netflix or amazon prime. The movie is about a
+depressed, neurodivergent, socially withdrawn/socially awkward trash
+collector. Usually, every morning, a friendly child waves at him from
+their front yard, during his garbage collection route. But one day,
+the child isn't there. The man begins to realize something might have
+happened to the child, and (rather ineptly) begins trying to
+investigate what might have happened to the child. The trashman
+notices odd changes in the familys trash and neighborhood behavior.
+Using his own unique way of thinking and observing details others
+often overlook, he starts piecing together what may have happened to
+the boy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

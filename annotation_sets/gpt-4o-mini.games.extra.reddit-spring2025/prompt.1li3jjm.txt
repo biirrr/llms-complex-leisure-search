@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] a late night Friv game about killing yourself
+in a wedding and you're the groom/bride. yeah, what the title says.
+additional info: the game was a 2d top down isometric game and theres
+like many rooms you can explore with different items you can use to
+try and kill yourself with. there were also games with the same
+gameplay in different settings i assume was made by the same creator"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

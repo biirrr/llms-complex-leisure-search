@@ -1,0 +1,36 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Was there a 90s indie movie about a murderous homeless kid
+and the king of the hobos and magic or was I too high. I was an early
+cord-cutter and Netflix subscriber. I also used to be a pot head in my
+20s. I spent a crazy amount of time in the late 90s and early 2000s
+getting higher than Sputnik and watching everything under the sun from
+obscure foreign films to indies to nature documentaries to The
+Prisoner (highly recommended) three times in a row. One particular
+movie stands out as every few years it pops into my head and I go
+searching for it and cannot find it. It wasnt particularly good, but
+it was so different and DIY and weird that I have always been curious
+to learn more about it. \- Protagonist was a homeless kid/street
+urchin \- There were dark urban fantasy elements \- Climax included a
+the King of the Hobos wizard in some kind of underground sewer lair
+\- Movie ends with the kid sneaking onto a rich guys yacht,
+brandishing a knife, as its leaving port for a trip around the world.
+Implication being the kid is going to murder the guy I guess??? \-
+There was a text font at the end claiming a role playing game based on
+the movie was in development. Ive tried looking for the game as well
+to no avail. \- Believe the movie was shot in the 90s, possibly early
+2000s. The clothing style/fashion definitely had that energy. \- Very
+low production values \- Was very high when I watched this but at
+least 80% sure I did not imagine it Like I said not necessarily a
+great film but theres still something sad about how much art  even
+weird crazy art  that is getting lost as content gets either streamed
+or forgotten."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

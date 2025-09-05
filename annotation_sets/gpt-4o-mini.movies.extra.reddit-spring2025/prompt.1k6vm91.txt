@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I need to find an adventure movie from years back. Sadly I
+remember very little, only 3 key details. I know it is very Indiana
+Jones esque, so it is a treasure hunt of some sort for an
+artifact/place. There is a scene near the end where they enter the
+cave system, and one of the bad guys goes into the wrong direction and
+gets eaten by a giant spider. And the main bad guy dies via being
+pushed into lava as he fights the protagonist while everything
+crumbles around them. I know that is very little information but I
+sadly don't remember anything else from the movie, it is just really
+nagging me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

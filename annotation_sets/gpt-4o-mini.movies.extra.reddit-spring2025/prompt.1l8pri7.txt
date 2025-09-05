@@ -1,0 +1,38 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I can't remember the name of this movie. So, I was talking
+to my wife about romance movies that she and I liked and this movie
+flashed in my memories, and neither I nor chat gpt could remember the
+name based on this things: 1.The movie is about a kid that leaves his
+town/neighborhood as a teen and comes back as a grown up, he ends up
+talking to a woman about his past and some memories come through as
+flashbacks. 2. During these flashbacks, he tells about a friend of
+his, with some intellectual disabilities (for some reason in my mind
+the actor is Robin Williams, but I can't be sure). 2.1. They were
+delivery boys that ran errands with a bicycle and I remember that in
+one of those deliveries a woman was lying in a bed a showed her p***
+as a 'tip' for their delivery. 2.2. For some reason, they got into an
+argument or fight and stopped talking to each other. But as the movies
+goes on, in the present time the woman he's talking to incentives
+their meeting. 3. During the flashbacks, there is a locked up black
+woman that talks to his reflection through a shattered mirror glass
+while he's at the street and talks looking to her cell windows. 3.1.
+She gives him some love advice, and how to invite the girl he likes to
+the prom, and also how to dance with her. 3.1.1 During the prom the
+only thing I remember was that he was wearing a really really orange
+suit, like, really orange. 3.2. For some reason the woman and kid got
+into a discussion and she lies to him telling she in jail for murder.
+Only to know at their present time she was locked up for some
+misdemeanor. 4. At close to the end, the movie goes to present time
+and he meets his old friend and they both ride a bike, with the girl
+he was talking to during the whole movie. These are the things I
+remember guys, I really wanna remember this movie name"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

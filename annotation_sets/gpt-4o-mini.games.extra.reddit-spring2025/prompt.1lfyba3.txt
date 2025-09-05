@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [early 2000s] An x-com-like game. Platform: pc Genre:
+turn based tactics (probably was like an x-com in terms of gameplay)
+Estimated year of release: early 2000s Graphics: semi-realistic, don't
+remember if pixelated or not I don't remember much about that game, so
+chances are low. All that I remember is the game was kind of like
+x-com by gameplay. The game probably had a free battle mode outside of
+main story. It had at least three factions: humans, robots, and
+aliens, maybe insect-like. Robots' strongest unit was called
+B.R.A.I.N.S. Aliens had a mother-slug as a base that was able to move
+(others' bases were unmovable) Camera was like in fallout 1&amp;2."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

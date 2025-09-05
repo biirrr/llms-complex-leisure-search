@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown]Obscure 2.5d anime fighting game by solo dev..
+So I remembered this game while looking for fighting games to play, I
+remember it being a 2.5d sequel (at the time of me playing it around 5
+years or so ago it was still in development) of a 2d anime fighter by
+a solo dev i think. I remember the download was on a japanese website
+and there was a paid version/patreon/Fanbox and a demo version with
+three characters. The mechanics were all over the place, flashy
+reversals, parries one of the characters i think used his own health
+bar as a resource to power up/install? and i think some kind of
+""""""""vs gauge"""""""" similar to the tension gauge in Under Night?
+It's been so many years i can barely remember, the protagonist/shoto
+was a guy with fire powers that i think burnt his health for more
+damage?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

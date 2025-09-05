@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me find this movie. The movie is about a girls
+trip that went wrong one of the girls go missing and the friends
+search around for her showing pictures and I believe a piece of
+jewelry that belonged to her .... fast forward I remember the girls
+sitting down at a dinner table at the house they were staying in with
+man that killed or kidnapped there friend trying to hold them hostage
+at the table the girls ended up fighting back and i remember them
+hiding in the back of a truck Things i remember seeing / believed
+happend in the movie as well """""""" The neighbors next door to where
+the girls were staying was very suspicious """""""" the man was a love
+interest to the girl that went missing first (talking , flirting, they
+just met on the vacation) """""""" at the dinner there was steak and
+wine (this may not help but it's a try =) """""""" the police was no
+help trying to find the friend"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

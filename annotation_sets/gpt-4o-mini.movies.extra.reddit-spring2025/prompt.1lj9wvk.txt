@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000s Movie with Topless DVD menu trick. I have this
+memory from when I was a teenager at a friend's house in the early
+2000s. Friend started a a movie, but spent several minutes in the dvd
+menu applying a """"""""hack"""""""" that resulted in a topless woman
+on the dvd menu screen. By hack, I mean he used some secret sequence
+of dvd menu clicks which unlocked the topless menu. In my head, the
+movie was Eurotrip. But when I did a search I found nothing regarding
+this dvd menu hack. Did I just make up this memory? Or was there
+another movie that had this?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

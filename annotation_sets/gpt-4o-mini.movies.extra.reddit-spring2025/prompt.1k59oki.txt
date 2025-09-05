@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help. Okay, this is gonna seem all over the place, but
+it was a movie with a guys Dad in some sort of branch of army. He
+promotes his son The dude's best friend is jealous. They all have
+swords, I believe with sashes on them He has a girl, but they all have
+to go off to war. And it's like in the desert, he gets captured in
+some sort of prison, where they all have to walk around in a circle.
+He does escape , but his best friend went back home and told the
+dude's girlfriend that he was dead. By the time he gets back home, he
+finds out. His girlfriend married his best friend. She meets him at
+like. I think at a church in a horse drawn carriage. I believe it's a
+movie like Kingdom of heaven. Except their weapons.I believe were like
+muskets. I don't know if it was a legion that he was in or a French
+army English army. I can't figure this movie out. It's been bothering
+me if you can tell me what this movie is.I'd appreciate it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

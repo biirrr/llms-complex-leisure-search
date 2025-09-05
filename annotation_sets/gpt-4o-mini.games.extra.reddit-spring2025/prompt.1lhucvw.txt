@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[multiplatform/steam] [prob 2020's] 2D pixel art
+""""""""nature"""""""" metroidvania where enemies can kill each other.
+There's this game I saw a youtube video about some time ago, I think
+it may have been Jacob Geller. As per the title, the game is sorta
+like a metroidvania, and you explore a deeply overgrown, dark and
+natural world. The one thing that really sticks out to me is this one
+moment in the game where two enemies (they look a bit like wild cats)
+attack each other and you can walk into a room and see them, as if the
+game was constantly running the enemy AIs. Thanks a lot to anyone who
+helps!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

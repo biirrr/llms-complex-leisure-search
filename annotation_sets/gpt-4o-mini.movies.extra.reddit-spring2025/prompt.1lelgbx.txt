@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I really need your help!. Recently somewhere on Reddit I saw
+a poster for a movie/TV show and I searched everywhere to find that
+poster without luck. It's yellow and dark blue or black background and
+a woman is standing in the middle holding something. I guess it's
+newer production and what ever I typed for searching, no results.
+Please help it's connected with my work and I need it badly..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

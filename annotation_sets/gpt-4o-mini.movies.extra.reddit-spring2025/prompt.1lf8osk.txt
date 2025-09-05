@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old comedy gone from streaming channels. SOLVED! I started
+to watch and old comedy type film looked kinda like an indie, quirky
+film the other month maybe April and fell asleep and now it's nowhere
+to be found on the streaming channels and it's driving me crazy it was
+removed. The cover art was off white and red ( i believe title was
+red) with i think people on it. I remember a mean lady who everyone
+hated and her husband who has like blondish hair has an affair with
+another women who i believe is a waitress. Then i think she dies or
+maybe a brother did i can't remember. There is also a scene with
+someone's pick up truck and the guy is either weird or has a mental
+disability. I can't remember i was so tired. It looked like it took
+place maybe before the 70's but it's filmed in the 80's or maybe early
+90's. Had some famous actors in it. It is not one of the really common
+films we see on repeats on TV. What is this movie called possibly so I
+can finish watching it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s/2010s] Point and click adventure I cant remember
+about hunting this treasure across the world?. I have been thinking
+about this game for YEARS but can't remember the name of it. Things I
+remember: Female main character, 2D colorful art style, fully voice
+acted, obtuse puzzles. I remember a few levels, there was a park area
+in the start of the game, A level in France or Italy where an older
+characters gives you an idol or some major clue to find the treasure,
+a graveyard level, and I distinctly remember a super confusing level
+where you ride a bus to a sports game(Iwanna say hockey or football)
+and you have to the get the crowd to cheer a certain way to make one
+of the teams lose. I would love play it again I remember stopping at
+the graveyard level when I was getting close to the end."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

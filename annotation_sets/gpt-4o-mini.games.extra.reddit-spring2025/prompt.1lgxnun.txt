@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2015?] Creepy puzzle game. Platform(s): PC Genre:
+Puzzle game, point and click Estimated year of release: Somewhere
+between 2000 and 2015, sorry if it doesn't narrow much Graphics/art
+style: 2D. It was gloomy, i recall it having a bland color scheme, no
+neons. It may have also used a lot of beige colors, but i might be
+mistaking it for another game Notable characters: I remember there
+being some characters in animal masks/heads, that's all i got Notable
+gameplay mechanics: The game was centered around a hotel of sorts,
+can't remember if you were staying at the hotel or if you owned it. I
+think there were also parts of eldritch horror, but i might be
+mistaken. Other details: I haven't played it, all i have is younger
+me's memory of a youtuber playing it. I remember seeing it recently in
+a thumbnail of a video, which is why i'm looking for it now. PS: It
+isn't Bad Dream: Coma or any game of the series, already checked those
+out (might be where i got the beige color scheme tho)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, Browser] [2000's] Long shot but looking for this flash
+game. Trying to remember this game I used to play in school. You were
+i think a triangle or some such shape and different shapes were
+falling and you avoided them, or collected certain shaped ones. Mostly
+what I remember from it is the really soothing piano song playing in
+the background."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

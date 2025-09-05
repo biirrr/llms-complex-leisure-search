@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "does anybody know what movie or show this is from?. the
+woman essentially snaps and a bunch of people in suits teleport in
+behind her, im not sure if its umbrella academy or not but i dont
+believe so, it was shown during a youtube video and the youtuber was
+talking about a secret organization when they showed the short clip,
+if anyone knows, please help me lol, thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

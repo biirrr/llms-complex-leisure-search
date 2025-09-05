@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005-2015] Looking for a casual PC game from early-mid
+2000s  need help identifying!. Hi all, Im trying to find a casual PC
+game I loved playing years ago. It was likely released sometime
+between 2005 and 2015. It wasnt very popular and didnt come out on
+consoles  just PC. Heres what I remember about it: * The story
+involves crashing or landing on a new world, island, or village. * You
+explore and do quests or errands for the local inhabitants. * Theres
+some farming or planting involved. * You interact with little
+creatures that you can carry with you. You feed them and possibly help
+them grow stronger. I think the games title might be the name of
+these creatures, but Im not 100% sure. Definitely not Pokémon-
+related. * The ultimate goal is to repair your vehicle (possibly a hot
+air balloon) to get back home. * The title likely has two words, and
+at least one of the words contains a W. * I bought it from Amazon
+years ago but cant find it anymore despite searching everywhere. *
+also, 1st person and point and click If this sounds familiar or you
+have any leads, Id really appreciate your help! Thanks so much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

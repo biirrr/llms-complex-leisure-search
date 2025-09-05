@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 2000s-early 2010s] I need to find this game. Ok I
+actually have no idea how to find this game and I have very little
+information. So its a kids game I think its computer. Its either
+late 2000s or early 2010s. Its alot like jumpstart. All I can
+remember is like a waterfall and a painting/paintbrush room. I have no
+idea if that makes sense but all I have are pictures in my head. Thank
+you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

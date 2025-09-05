@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc web game] [2010s] 2D web game where you terrorize a
+city. Okay so it was a web game i game when i played was young \- in
+the game you cause mayhem in the map, being able to kill anyone (idk
+if it had zombies) \- you start on the left side of the map in a cave
+\- you move rightwards across the map, from what i remember: cave
+--&gt; beach --&gt; city --&gt; graveyard --&gt; mine/underground (i
+think) \- you can purchase a variety of weapons, and there is a
+suicide bomb option \- i VAGUELY remember the character being asian,
+resemblant of PSY the artist behind gangam style. (take this with a
+grain of salt)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "No one can find this movie !!. i watched this movie that had
+to do with cults , its about a dad who got told by his brother to go
+to a club which turned out to be a cult , all i remember is him
+escaping of this so called club just to go back home and find out
+this cults logo all over his house , its not an old movie maybe around
+2016 or near that time"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

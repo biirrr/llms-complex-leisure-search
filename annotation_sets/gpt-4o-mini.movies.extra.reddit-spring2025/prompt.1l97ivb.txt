@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie about a maid. I believe it is a Russian movie and I
+watched it around 2010~2015. There was a housemaid in a family. But
+the children think the maid is a bad person and often make prank on
+her. She says that only when you need me then I will go away. The
+ending plot is that the maid does something really good and memorable
+to the children, and she must leave. The maid has warts on her face
+but once she does something good, one wart will disappear."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

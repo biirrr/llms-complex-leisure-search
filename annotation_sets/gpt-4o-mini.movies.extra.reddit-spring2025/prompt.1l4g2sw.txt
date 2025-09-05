@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help please! Rom com saw on TikTok!. Hey! I saw a clip of
+this movie on TikTok recently and its been stuck in my head ever
+since. I really want to watch the full thing but I cant remember the
+title. Heres what I remember: """""""" Its a rom-com with a young
+(white?) guy and girl """""""" They hook up at his apartment and he
+tries to get her to leave after, but she just turns over and goes to
+sleep anyway """""""" The next morning shes in the kitchen making
+coffee or breakfast """""""" His friend or roommate is surprised
+because apparently he never lets girls stay over, so its a big deal
+and the roommate and guy have an intense conversation about it.
+"""""""" One of the most scenes I remember is when the girl ends up
+taking his car and the guys friend literally gives her the keys and
+the guy is confused/ upset """""""" Theres also a scene where theyre
+going back and forth saying theyre not a couple but they keep hanging
+out like they are """""""" Its an American movie in English, and I
+think the title might have the word day in it but Im not 100% sure
+Its not Two Night Stand, That Awkward Moment, or The Overnight. The
+actors seem younger than the people in those movies. Would love any
+help if this sounds familiar to anyone!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

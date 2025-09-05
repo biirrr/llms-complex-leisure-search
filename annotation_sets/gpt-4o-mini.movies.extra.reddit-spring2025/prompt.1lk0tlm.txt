@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie about possessing children. So the premise of
+the movie was basically that the spirits of dead savants would possess
+children to finish their work. watched it very briefly while i was
+falling asleep a couple of years ago and now its really bothering me.
+Thanks! Solved: Down a Dark Hall (2018)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

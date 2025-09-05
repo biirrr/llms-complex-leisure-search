@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2000s] Game with a racing mode with 2 specific
+characters. I cant find a game I use to play on ps2. I thought it was
+one of the ape escape series but after searching I dont think it is. I
+dont think it was a racing game but it had a racing side game mode and
+2 characters that I can remember are (3 in 1) black space monkeys and
+a neon blueish green space girl. To get a speed boost you would
+rapidly spin the L3 stick in a circle and the space girl would turn
+into a small sphere to go faster. Thats pretty much all I remember.
+Please help :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

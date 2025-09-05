@@ -1,0 +1,39 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me find this movie so I can sleep well at
+night.... I remember seeing this movie when I was a kid. I remember it
+very vaguely so the details probably are not exact. It has to have
+been made some time between 2010 and. It almost had a Legend of Zelda
+(the new one) kind of feel. There is this man who is in this video
+game like world (No, it's not Free Guy or Ready Player One) and he
+meets this girl who he then has a kid with. They are all very happy
+until one day the kid gets kidnapped (maybe the wife too I can't
+remember). He goes on a journey to get them back and picks up some
+help (I don't remember exactly if it was mystical creatures or real
+people but I'm very certain that it had a mystical creature element).
+He brings them all together to fight this man who has his son (and
+possibly wife) and when he finds him and they go to war, the guy has
+all these magical powers and says he is some kind of hacker. He is
+keeping the son in a floating yellowish orb. He finally gets close to
+defeating the """"""""hacker"""""""" guy but then the hacker dude
+freezes time and everything goes black and white. Everything is frozen
+except the main dude and the hacker guy. The hacker guy tries to tell
+him none of it is real and I'm pretty sure that the hacker guy lets
+him win and as the main character is about to touch his son, there is
+a flash of light and he wakes up in this tank like thing and gets out
+and he is just at this video game fair thing testing the newest tech.
+It was very emotional for him because he had just gone through a life
+where he met the love of his life and had a son, but now he must face
+the fact that none of it was real. Edit: I did find the movie thanks
+to user [jnires](https://www.reddit.com/user/jnires/). The movie is
+Dragon Quest you story. My memory of the movie was a bit off but I did
+find it. Thankyou [jnires](https://www.reddit.com/user/jnires/) ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

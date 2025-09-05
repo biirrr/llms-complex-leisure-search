@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old (R) movie about exchanging murder. I saw this movie a
+long time ago, I think before 2007. It was a movie about a woman and a
+man having an affair and plotting to exchange murder. The woman
+suggests it so the police can't trace the motive. The guy comes home
+and sees blood and thinks the woman killed his wife. He then kills the
+woman's husband (I think it was the husband), in a plane (I
+think....). And I think he escapes using a parachute. However, the
+wife shows up saying the blood was from her period. The guy eventually
+gets caught, and I think the wife and the woman were in it together?
+Even chatgpt has no idea what that movie was. Has a lot of NSFW
+scenes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

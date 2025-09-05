@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][Sometime after DS launch] All girl tactical JRPG with
+stats like 'cute' and 'style' instead of strength, dexterity, etc.
+Back sometime during the DS's life I was looking forward to a game I
+saw talked about one E3. I'm unsure whether the game actually released
+in english or was canceled at some point like giftpia. Here is what I
+remember about it: \-Tactical JRPG with an all-female cast \-Anime art
+style \-Clothes/outfits were an important mechanic \-Characters had
+non-standard stats like 'cute', 'style', 'cool', etc which I believe
+was heavily influenced by their clothes (these may not have been the
+exact stats but should give an idea of what they were like at least)
+\-I remember the article I saw talking about it mentioning it was a
+behind closed doors event where only a few people were allowed to look
+at and play the game (maybe because they thought it was too niche for
+the main show floor?) \-To pre-empt some common things I've heard from
+friends it's not My World, My Way or Luminous Arc. I realize this is a
+vague collection of details and since it might not have even gotten
+released here this might be a long shot but any suggestions would
+help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

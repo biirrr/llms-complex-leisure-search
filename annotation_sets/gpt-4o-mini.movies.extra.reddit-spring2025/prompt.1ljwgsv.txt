@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Home Alone like movie takes place in a model home. Like the
+title says I remember this movie that I thought was a sequel to Home
+Alone. So I remember this movie with a kid hiding from the bad guys in
+his subdivision and makes his way to the model home and uses Kevin-esk
+booby traps and hides in the attic. I seem to remember a scene with
+the cabinets being fake they opened the door and it was blank like
+there was a board blocking the inside of the cabinet. I don't know if
+it was set around Christmas because it was in a dessert/warm climate
+that didn't get snow."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Three types of humans, impending war. In this case I saw the
+beginning of a movie. It was showing space and the narrator was a
+woman talking about some humans having evolved and moved into deep
+space and the were almost like gods. Other humans advanced with
+technology and went to space but not as far. And then there were
+regular humans who's numbers had dwindled. And she spoke about the god
+like humans coming back and something about an impending war between
+the god like humans and the tech humans. that's all I got to see and
+was hoping to see more but could not find it again. Any ideas of what
+that one might be called? Ty"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

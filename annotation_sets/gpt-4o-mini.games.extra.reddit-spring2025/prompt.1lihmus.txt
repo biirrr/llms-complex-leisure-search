@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [LATE 2000/EARLY 2010]space exploration game. Hey guys,
+sorry if my clues aren't so helpful but when i was a kid back in
+2010,I've played a game on my desktop pc, i don't remember it's name
+but i remember it's desktop icon and the first mission well. The
+desktop icon is navy blue with a white silhouette of a space ship. And
+the first mission is basically you maneuvering your way out of a
+debris field when entering the atmosphere of a planet that resembles
+mars. The gameplay is 3d and in 3rd person, the ship you maneuver is
+colored green. When you pass the debris field you land on this planet
+and you start roaming the field, you move a guy wearing greenish armor
+around, solving puzzles and killing enemies. The puzzle is a maze made
+of energy fences and there are markings you pick up to unlock it. P.s:
+no it's not halo. Good luck finding it's name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

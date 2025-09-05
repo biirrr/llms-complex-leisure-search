@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What horror movie was this?. Added NSFW since it's a rather
+gory movie. I remember parts of the movie, toddler brother, teenage
+daughter, and mother go to a family get together in a cabin. The
+younger children get infected with something that makes them vomit
+what looks like frog eggs. They start Murdering the parents in
+gruesome ways. Example: The uncle is found in their play tent, his
+intestines out on his stomach and wrapped around a toy. Then it turns
+out he is still alive. The teenage daughter has a tattoo of a fetus
+with wings on her stomach since her mom tried to abort her and it
+never worked. But through their differences the mother and daughter
+get a bond over trying to escape and survive. I was half asleep when I
+watched it, so I never got it's name. I don't think there were any
+high list celebrities. And I've tried googling the parts I remembered,
+but nothing came up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

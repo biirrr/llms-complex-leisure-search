@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "70s/80s Woman murders husband, help from a friend, they
+transport his body in a basket in a tan station wagon. Ive been
+watching a lot of crime dramas and trying to track one I vaguely
+remember that my parents watched a couple time when I was a young
+child. I just remember a woman killed her husband. I dont know if it
+was her friend or the husbands mistress that was in on it and helped
+her move the body. It was in a large square wicker basket in the back
+of a tan station wagon. Possibly a Volvo? Copilot and Google havent
+been able to help. Anyone here?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

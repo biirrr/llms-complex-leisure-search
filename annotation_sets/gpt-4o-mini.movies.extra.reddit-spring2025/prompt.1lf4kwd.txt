@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A man that goes crazy in space. I dont remember if it was a
+newer movie or not, but it's about this guy who goes up to space with
+his """"""""crew"""""""" But at the end of the movie it turns out that
+he going crazy and he's watching camera feed of when he would be
+fighting with people but it would just show him talking to himself. At
+some point in the movie he's getting calls on the ship from his
+""""""""wife"""""""" but the audience never knows if they were real or
+not. But the movie keeps making the crew show up again so you dont
+know if he's crazy or not. It ends with him ejecting himself out of
+the ship and it showing his name as being this really long name that
+has parts of the crews name in it like: Aidenliam JosephReilly Jones.I
+can't remember any other details of the movie other than those main
+parts.=-"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

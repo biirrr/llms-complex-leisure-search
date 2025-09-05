@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie w I see you quote. Theres a specific scene where
+this guy is having girl troubles and hes talking to his friends and
+his friends recommend hes like tell her that you SEE her and they
+are like what does that even mean? And then later the guy tries it in
+conversation and he says I see you With the girl and it goes poorly
+and hes kicking himself like why did I say that in his brain. Anyway
+T hats all I have to go on. I tried looking it up but its NOT avatar
+lol. PLS HELP"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

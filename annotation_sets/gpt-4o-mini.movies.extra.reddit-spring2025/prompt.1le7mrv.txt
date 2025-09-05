@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help identifying this weird horror movie I watched
+years ago pls. The main character is a tall, lonely Caucasian man,
+probably living alone. He doesnt own a TV, so at one point, he draws
+a television on the wall and sits in front of it like hes watching
+it. Later in the movie, a woman comes back to his house (possibly a
+date or someone he met). When shes getting ready to leave, he blocks
+the door. She laughs nervously, thinking hes joking  but it turns
+out hes completely serious and wont let her go. I dont remember if
+he hurt her, killed her, or held her hostage  the ending is fuzzy.
+The tone was unsettling, very quiet and creepy, not a slasher. It felt
+more psychological, but definitely horror. Pretty sure it was a full-
+length film, not a short or anthology segment."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

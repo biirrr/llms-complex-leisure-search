@@ -1,0 +1,31 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie transmitted on a children channel in the 2000's. I
+recently recalled some movies I saw on TV when I was a kid back in the
+2000's but there is one particular movie I barely remember and I would
+like to find more details about it. I remember only seeing it once so
+I don't have many details. This is what little I can remember: -The
+movie was Live Action -It was transmitted on a kid channel, most
+probably Disney Channel, so it must be PG-13 rated or less. -The lead
+character was a girl (I think she was blond), who lives with unloving
+parents. -There was a disaster (I think it was an earthquake) that
+forced her to move away. On this note, I remember the scene about the
+disaster being about the girl hiding under a bed and hearing people
+screaming and there were soem stuff that got set on fire. -She moved
+with some relatives that lived in a gigantic Victorian house and there
+she meets a kid that turns out to be her cousin. I think the cousin
+was disabled or something like that as I think that he was sitting
+down in all of his scenes. -I seem to recall the cousin starting to
+have a crush on her but the girl reminds him they are relatives. These
+are some looses details and I hhave no idea of the overall plot. Maybe
+I am just mixing various movies into one in my memories. But if anyone
+can identify a movie similar to this, please let me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

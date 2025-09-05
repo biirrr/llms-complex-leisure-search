@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s - early 2010s] A story game where you change the
+ending by switching out specific words. Platform(s): PC, browser game
+Genre: Sci-fi Estimated year of release: 2000s to 2010s? Graphics/art
+style: Just text Notable characters: Scientist mother / stepmother,
+siblings or friends at the beginning? Notable gameplay mechanics:
+Changing individual words in the story to change the ending Other
+details: Hi all, there was a game I played once maybe a few years ago
+- a story game, where the general gist was about trying to learn more
+about your mother / stepmother who was a scientist, had invented a
+machine, and died / disappeared because of it. This was a text only
+game, where the core mechanic is that there's a story, and you get to
+toggle specific words in it to change the ending and unlock new words
+to toggle to unlock new endings. In the genre of sci-fi (I think the
+machine kind of explains why you can jump between timelines, it got a
+little meta), there was a paywall in the middle so I never finished it
+though. I remember the beginning of the game starts with you and your
+friend or sister, where her mother disappeared and she's trying to
+find clues about it. She sends you to check an abandoned site.
+Originally, you hit a dead-end, but then you change a generator from
+being off to on, and instead of leaving annoyed, you get caught by the
+police. Then, because you've changed the story, you get the option to
+change another word, where your new change makes you die in an
+accident while exploring. Then you change the generator to being off
+again and then you finally get some clues in investigating. Then
+another thing is, at some point you flashback to before the accident,
+and you read through an employee log and find someone suspicious. By
+changing who you run into later, you can stop the suspicious person
+from entering the science building and that helps unlock more stuff.
+Finally, the last thing I remember before the paywall was a 4 digit
+code you had to get, which you could gleam from 4 men who seemed to
+know about the branching timelines. Also I think the game was one word
+and it was something cool like hexa or something"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

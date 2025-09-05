@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horro movie early 2000's. Hey everybody! Just recalled a
+lost memory of a young me shitting my pants because of a horror movie.
+I will describe the only scene I remember and hope someone can help me
+find the name. So the scene takes place in a white hallway. Kind of
+like a facility (imagine Outlast's ending). The deranged killer
+follows someone at a walk-like pace. Possibly one of them had long
+hair. I think the victim tries to fight back but (this is the most
+accurate memory) one of them pulls out 2 syringes and injects the oher
+one in the neck. There is also a possibility of a severed head and
+blood further into the scene but I am not sure. Does anybody have any
+idea?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

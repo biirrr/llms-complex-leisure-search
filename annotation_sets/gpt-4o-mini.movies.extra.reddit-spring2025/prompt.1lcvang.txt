@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s/00s Teen Movie. Does anyone remember a movie where
+there's a new teen girl to join a high school, she becomes obsessed
+with this one guy &amp; they end up in a pool towards the end of
+it..... I can't remember if he had a gf &amp; the new girl killed her
+or what all happened thru out it. It's been so many years since I've
+seen it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

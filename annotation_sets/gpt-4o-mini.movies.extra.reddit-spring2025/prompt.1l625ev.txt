@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Anaconda for an arm. 80s or early 90s. It was on Tv,
+horror &amp; snakes, the only scene I recall was nighttime, white guy
+running through marshy terrain, falls into a water filled canal or
+irrigation ditch. Snake swims around him. Not much later, his hand/arm
+grotesquely mutates into the snakes head& growing out of the guys
+body. Could be a movie or series. ETA : Curse II: the Bite (1989)
+Thanks again !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

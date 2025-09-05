@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where a young man (possibly a vampire) slits wrists or
+throat of woman then proceeds to have s¬x with her. Possibly 1980s or
+very early 90s movie. I watched this in 91/92. Its haunted my dreams
+for a very long time. Could have been quite s¬xually explicit. I cant
+recall anything other but that one scene. I know I totally clutching
+at straws here!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

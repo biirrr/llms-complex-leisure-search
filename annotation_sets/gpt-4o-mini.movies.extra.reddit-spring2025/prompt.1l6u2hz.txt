@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "old movie with an orchestra scene in the street?. it's an
+older movie I believe, and there's a scene where a middle aged man is
+conducting an orchestra in the street instrument by instrument...like
+he looks at the roof and there's more instruments...there might be
+street lights as well? I remember the song being pretty upbeat. I
+don't remember if this movie is non-english speaking or not -- maybe
+spanish or italian? I don't think the protagonist is a conductor by
+the way this is just a scene in the movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "mid-20s ish guy in japan who was fired from his job as a
+janitor, made 90s-early 00s, low budget digital camera look. basically
+the title. i fell asleep watching the film. found a link on those
+twitter movie drive accounts. looked really indie and the title was
+something very descriptive"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

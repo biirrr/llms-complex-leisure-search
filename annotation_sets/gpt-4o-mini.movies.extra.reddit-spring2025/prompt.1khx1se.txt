@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "UFO movie set in the 50s. Looking for a relstively low
+budget horror movie set in the 50s released around 2019 iirc. The main
+characters are a teenage girl that works as a phone line operator and
+a teenage boy that is supposed to be a jock or something and I believe
+works at the radio station. Throughout the movie there is minor talk
+about there being an upcoming American football game in this small
+town and near the end of the movie all of the town goes to this game
+except the main characters and a small handful of others which allows
+the ufos to cause a bit of mayhem and abductions without being detect.
+At one point the main girl plays a tape or receives a call from a man
+who describes an alien encounter before the phone lines get shut down.
+Also the main characters go to the house of a """"""""crazy""""""""
+woman who had seen an abductionn and generally they just learn more
+and more about abductions in the town throughout the movie. At the end
+the main characters and a little baby run into the woods and get
+abducted. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

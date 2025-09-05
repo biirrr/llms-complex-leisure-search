@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for action movie made in 2020-2024. It's this movie
+where there's this dude with a bad relationship with his daughter and
+there's these two other nerdy guys who need the guy with the daughter
+for some reason and one of the nerdy guys has a disabled arm from some
+car accident that he lost his arm and daughter in and they meet this
+gay guy who was pimped out since he was a child and then he joins them
+and becomes their housekeeper. I think it was an action comedy movie.
+I don't remember the names of the actors. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

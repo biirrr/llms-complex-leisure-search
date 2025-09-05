@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I want to find this movie about winter and 2 kids and a snow
+witch. Basically i dont remember much of it but what i can remember is
+that it was kinda for kids and basically there was these 2 children a
+girl and a boy and they for some reason went to find the snow witch
+who i think was a little girl before she turned into that but the
+reason for why they go after her is because she is spreading cold
+everywhere so its always winter and not any other thing like summer,
+autumn (if im right) there was also this part where they find a garden
+with plants that could move i think and there was probably someone
+there too i think i just think there was an animal that followed them
+throughout the journey and if im not wrong then it was probably a cat"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

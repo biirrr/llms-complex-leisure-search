@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [21/22] Mystery crime/murder/missing wife game set in
+an apartment. Platform(s):PC - it was on steam Genre: Murder mystery?
+Estimated year of release: 2021/2022 Graphics/art style: Notable
+characters: one male character Notable gameplay mechanics: Other
+details: Storyline was roughly - a guys wife goes missing/gets
+murdered and you have to go through the apartment looking for clues,
+if you take the wrong turn you had to restart the day again, at some
+point the police turn up. I feel like the title had something to do
+with days/hours"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

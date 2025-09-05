@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying my best to remember the name of a movie. Been trying
+my best to remember the name of a movie here's what I can remember of
+the plot. The owner of the resort pretends that the resort is haunted
+the main character I'm thinking David schwimmer goes to the resort and
+figures out that it is impact haunted unbeknown to the owner the
+ghosts reenact/relive the last day of their life particularly their
+deaths the only line for the movie that I can remember is the main
+character again I think David schwimmer saying something similar to
+don't tup the Dead the reason why I think he says this is because he
+eventually falls in love with a ghost woman and through not following
+the advice that he somehow came across he winds up going against it
+and somehow the formerly ghost woman becomes alive once more. I am
+very certain movie came out before the year 2000, I'm thinking this
+movie may have come out before the 1990s however, I'm less certain of
+that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

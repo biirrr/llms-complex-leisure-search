@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90's - 00'] - Robots with bottom half as spheres..
+Looking for a game Hi guys, I know it is a long shot but I am trying
+to find this game I played in 2000's. It is a PC game where your
+character was a robot kind of thing with a sphere as their bottom
+half. It had a lot of game modes and I mostly played its King of the
+Hill game mode. Any information about it would be appreciated! I never
+got to finish that game and now I plan to!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

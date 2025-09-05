@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "One guy chases another through the woods, catches him and
+snaps his neck. What movie?. I feel like it was a teen movie and there
+might have been a gay element to this scene. It was late 90s/early
+2000s, I think. Was it Fear? Maybe?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

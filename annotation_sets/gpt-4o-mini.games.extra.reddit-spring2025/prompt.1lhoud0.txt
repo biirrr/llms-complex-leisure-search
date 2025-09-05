@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows PC] [2017-2020 (could have been released before
+2015)] mario maker knock off game. Platform(s): windows Genre:
+platfromer Estimated year of release: early-mid 2010s\~ Graphics/art
+style: iirc it had the mario allstars spritesheet from smb1 Notable
+characters: mario characters Notable gameplay mechanics: level making
+Other details: title was """"""""mario \_\_\_\_\_\_\_"""""""". the
+second word was in multiple color. something along the lines of
+builder/creator"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

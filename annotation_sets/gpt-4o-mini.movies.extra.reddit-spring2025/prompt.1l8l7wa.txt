@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie from the 80s? (was on vhs). Trying to find the
+name of a movie I watched in the late late 80s or perhaps very early
+90s. Details are fuzzy, and I dont remember a lot of it but
+hopefully someone recognises it! A young couple, I dont recall them
+having kids, move into a house with a terrible black stain on a wall,
+they paint it and the next morning its back again. There are other
+paranormal happenings but the other that I recall and really terrified
+me was a ghost thing raped the man. It was allegedly based on a true
+story. I dont recall any actors or anything, though Im pretty sure
+it was a standard American accent. Im pretty sure it was all or at
+least mostly set in the house. I think it was 2 storeys but thats
+about all I can recall. I have googled and got several results but
+none of them looked right. Im guessing I was around 8 or so when I
+watched it and it scared the bejeezus out of me lol. Thats what I get
+for not listening to my parents I guess ># I wonder if Id still think
+it was terrifying."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

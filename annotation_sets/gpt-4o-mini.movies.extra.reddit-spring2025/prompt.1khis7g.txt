@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Weird Low Budget Movie. One of the first scenes is a kids
+soccer practice/game. On the sideline this new mother has her newborn
+and another soccer mom asks if she can have the baby, and the mom just
+gives her baby away forever (she later asks for the baby back but they
+dont give it back). At one point theres a bbq pool party and
+someones ~12 year old son jumps into the pool, but mid air he turns
+into a golden retriever and everyone just rolls with it. The dog goes
+to school, his grades start slipping, and the parents hire a tutor for
+their dog/son. Its a super weird low budget movie but it was kind of
+hilarious."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

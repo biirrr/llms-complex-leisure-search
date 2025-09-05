@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Cocaine related hunting the killer movie?. The younger
+brother (Muslim I think) is killed w a white guy plus a girl at white
+guys house while they doing cocaine/chilling.. I think the girl hides
+in the closet n sees the murder.. Older bro hunts the streets looking
+for the killer.. Eventually finds that white boi, makes him od on coke
+in the car Lol sounds so dumb when I describe it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

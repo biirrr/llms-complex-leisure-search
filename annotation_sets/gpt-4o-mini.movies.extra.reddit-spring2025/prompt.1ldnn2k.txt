@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "no clue what movie this was, i was about 13..... 30+ years
+ago. what i remember of the film: a young couple, (english speaking)
+are on vacation i think, and get taken in by a very rich older couple
+in a french? italian? city... beautiful mansion, they are really kind,
+there is a line about """"""""i want to cut off your arms and legs and
+just use you for sex"""""""" the woman to the man, but then things
+turn very daek, and i remember the older couple slitting one of the
+younger couples throat while the other watches.... thats it... thats
+all i remember, but it haunts me to this day Solved by Moist\_Look3039
+The Comfort of Strangers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

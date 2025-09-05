@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Pixel top-down shooter with red-eyed human main
+character. Platform: PC Genre: 2D top-down shooter, pixel retro
+graphics Time played: Around 20162017 Possible developer/publisher:
+Alawar Games or similar Description: \- Main character: a human male
+with one cybernetic red eye (only the eye was robotic). \- His
+portrait appeared in the main menu. \- Multiple playable characters
+(e.g. robot, girl, etc.). \- Gameplay involves shooting monsters. \-
+Many levels. \- The first or second boss was a train or large armored
+moving machine. I played this as a child and can't remember the name.
+Please help me identify it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

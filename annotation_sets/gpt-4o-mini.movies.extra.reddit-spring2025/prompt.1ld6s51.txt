@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this zombie movie. I remember these two scenes
+only . Set on a farm(maybe) , people turned into zombies (don't
+remember the reason), (Climax) there is this one (adult) guy with a
+chainsaw (I guess) who figths back but bitten (maybe) &amp; hides in a
+walking closet or kinda of small room. In the dawn when the help
+arrives &amp; kill all the zombies (burn then after putting their
+bodies over one Another ) they opened the closet door &amp; it turned
+out that the guy with the chainsaw too turned into a zombie . Probably
+late 80s to warly 2000s movie . It aired on TV (widely available
+channel) so I don't think it has any kind of nudity in it &amp;
+although not mainstream , it's not low budget b movie either . Edit :
+not flesh eater 1988"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

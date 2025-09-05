@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Psychological horror movie about a girl trapped in a box. I
+remember a lot about this movie but the information is too similar to
+true crime cases for me to find anything but 'The Girl in the box' and
+that is not the correct movie. I rented this movie from Family Video
+about 8 years ago. This movie stars with a young women attending a sex
+club and going home and with a husband and wife couple, in movie
+sequence she wakes up in a hallucination/dream sequence in a house
+where the walls and such are decrepit like an abandoned house but
+she's in a massive bed with cleanish furniture and there's another
+girl with her in the room. This other girl keeps saying that 'daddy'
+and 'mommy' are outside the room and warning her about them, but she's
+also taking like they've known each other for a while I think. In the
+start the other girl says something about a door, and the main
+character says there isn't a door, and then the other girl says
+something like yeah there is silly look, and then the camera shows a
+giant door that just appears out of nowhere to prove the
+dream/hallucination like quality of the scenes In the very end it
+turns out the main character was being kept in a box as a like a sex
+slave or something, and eventually she escapes somehow and the big
+reveal is that the movie takes place when she's in a coma in the
+hospital after escaping and I think she either wakes up or dies in the
+end If there's any questions or anything please comment, thank you for
+your time =O<û"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

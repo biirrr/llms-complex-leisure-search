@@ -1,0 +1,110 @@
+Here's a JSON object with a ranked list of movie suggestions based on the request:
+
+
+{
+  "suggestions": [
+    {
+      "answer": "The Thomas Crown Affair (1999)",
+      "explanation": "This film features a scene where the protagonist engages in subterfuge, and it has elements of sophistication that could align with the description of a suit and a fish tank.",
+      "confidence": 0.75
+    },
+    {
+      "answer": "The Hunt for Red October (1990)",
+      "explanation": "Though not directly matching the description, the film is a classic action/adventure pre-2000 movie that might have scenes involving tension and unusual locations.",
+      "confidence": 0.65
+    },
+    {
+      "answer": "Entrapment (1999)",
+      "explanation": "This film features a dynamic between two characters involving clever tactics and has a style that could match the described character's action.",
+      "confidence": 0.60
+    },
+    {
+      "answer": "Point Break (1991)",
+      "explanation": "An iconic action film from the 90s, it includes heist-like activities and characters dressed in a business-adventurous manner.",
+      "confidence": 0.55
+    },
+    {
+      "answer": "Die Hard with a Vengeance (1995)",
+      "explanation": "Although not a perfect match, this installment of the Die Hard series has memorable moments and could fit the aesthetic of the requested scene.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "The Fugitive (1993)",
+      "explanation": "An action thriller that involves intense scenes, although it doesn’t directly relate to a fish tank, it carries the tension of the described scene.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "The Rock (1996)",
+      "explanation": "An action-packed film with iconic moments which could include scenes in unusual settings, fitting the action/adventure genre criteria.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "The Man with One Red Shoe (1985)",
+      "explanation": "A comedy that features a similar light-hearted approach as described and includes a protagonist that often finds himself in tricky situations.",
+      "confidence": 0.45
+    },
+    {
+      "answer": "Disclosure (1994)",
+      "explanation": "Involves corporate espionage and elements of drama and action where the character's attire and situations could align.",
+      "confidence": 0.45
+    },
+    {
+      "answer": "Crocodile Dundee II (1988)",
+      "explanation": "Involves action and adventure with a comedic touch; may feature peculiar scenes interacting with environments.",
+      "confidence": 0.40
+    },
+    {
+      "answer": "The Incredibly True Adventure of Two Girls in Love (1995)",
+      "explanation": "Although this is more a drama, it has light-hearted moments that could match the comedic element you're recalling.",
+      "confidence": 0.35
+    },
+    {
+      "answer": "Lethal Weapon 4 (1998)",
+      "explanation": "An action film with humor; it has various memorable scenes that could fit the request, although specific fish tank scenes are absent.",
+      "confidence": 0.35
+    },
+    {
+      "answer": "The Cable Guy (1996)",
+      "explanation": "A dark comedy featuring unusual scenarios; although not an action film, it could fit the tone of being amusing yet awkward.",
+      "confidence": 0.30
+    },
+    {
+      "answer": "Murder by Death (1976)",
+      "explanation": "Involves humor and mystery, although older, you might recall well of this film due to its comedic approach.",
+      "confidence": 0.30
+    },
+    {
+      "answer": "The Net (1995)",
+      "explanation": "A suspense thriller that features technology and computer intrigue which could align with tension but doesn’t directly match the fish tank scene.",
+      "confidence": 0.25
+    },
+    {
+      "answer": "Romancing the Stone (1984)",
+      "explanation": "An action-adventure film that has humor threaded through it; some moments are akin to the whimsical feel you're trying to recall.",
+      "confidence": 0.20
+    },
+    {
+      "answer": "Beverly Hills Cop III (1994)",
+      "explanation": "An action-comedy featuring a protagonist in typical comedic situations that resonate well with audience laughter.",
+      "confidence": 0.20
+    },
+    {
+      "answer": "Two for the Money (2005)",
+      "explanation": "Though it is just beyond the provided range, it features action and has moments that could fit into what you described.",
+      "confidence": 0.15
+    },
+    {
+      "answer": "Air Force One (1997)",
+      "explanation": "An action film that includes elements of espionage and drama, although it doesn't contain a notable fish tank scene.",
+      "confidence": 0.15
+    },
+    {
+      "answer": "The Man Who Knew Too Little (1997)",
+      "explanation": "Involves comedy and espionage themes which could evoke a fitting atmosphere but diverges from the fish tank element.",
+      "confidence": 0.10
+    }
+  ]
+}
+
+
+This list prioritizes films based on their potential alignment with the described scene, the action/adventure genre, and their release years.

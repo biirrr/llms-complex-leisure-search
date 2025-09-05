@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old black and white romance movie. Excuse me for posting
+twice so suddenly, but I've just thought of another movie I can't
+remember the title of. It was black and white, made in the 40s or very
+early 50s. It was about this couple who met on a ship, maybe a navy
+ship? I remember the man being involved in the army in some way.
+Anyway they get married pretty quickly and I remember she stayed at
+some kind of army camp or something with him? Maybe just for one
+night. He was building a house somewhere and he showed it to her, but
+they had a big fight, I think it was about her coming from a wealthy
+family? The movie ended with him coming home to his completed house
+and she is there with his family, I think? Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

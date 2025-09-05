@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me out here!. Hi, I was sent a wrong number text of two
+pictures, and the movies on in the bg. Im not comfortable asking as
+it was a wrong number, but this face looks SO familiar! I tried to not
+take the And Forest Whitaker part too seriously, theres always a
+chance they changed it but Im not sure!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

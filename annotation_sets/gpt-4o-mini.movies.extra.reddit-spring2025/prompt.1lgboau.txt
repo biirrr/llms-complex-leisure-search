@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Does anyone know of this movie??? ive been looking for it
+for years.. It starts off with a flash back of the main character
+getting taken away by guards from his mom his mom tells him he needs
+to go with them to be safe away from the zombies because she knows
+she's gonna die from the zombies and so is everyone else. Flash
+forward to the pressent the same guy is late teen 20s. He is in a
+helicopter and someone is telling him we are here and we need to go
+now. The main character is white and has brown hair. Further on in the
+movie the main character is in this cafeteria with his friend. Then
+the next day or something the girl who is his friend or girlfriend
+gets called out along with other names to get taken away from the
+cafeteria. Then he hears her scream and tries to get to her but the
+guards stop him. Later in the movie he goes looking. For her and finds
+her organs in a bag and she skin is in a suit bag he is very sad. Then
+Further in the movie there are 4 or 3 main characters. One gets bit by
+a zombie he is black and in his 20s and he asks the others to shoot
+him the wont so he says go Further along and ill shoot myself so I
+cant infect you so they do and he shoots himself. Further in the movie
+the main character finds out the main plot of the movie something
+about it being corrupt or something and the person who is corrupt a
+woman in a suit says something along the lines of hey this is whats
+actually going on and takes him into a room with zombies chained to a
+wall and barrels. It happened before 2019."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Woman/old chained to a chair by a killer and he kicks her in
+the pool drowning. What movie is this, i cant find it. First i thought
+it was from the poughkeepsie tapes or v/h/s, but the scene wasnt there
+i think. I'm looking for a horror or thriller movie/found footage/pov
+movie about a killer who chained a woman in a chair and kicked her in
+a swimming pool and then I cant remember anything else. I think its
+tapes from his killings and he getting caught or he dont; idk.
+Someone??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

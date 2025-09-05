@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Drama / thriller / crime. There's a hitman. """"""""You're
+not the job."""""""". Damn near the only thing I can remember about
+this movie is that one of the secondary characters was a hired hitman.
+One of the primary male characters was worried the hitman was after
+him. On at least one occasion, said killer told the other man
+""""""""you're not the job"""""""" (or a similar phrase). Near the
+very end of the movie, the hitman gets his target, one of the movie's
+other secondary characters (maybe one of the antagonists). In speaking
+to the main guy, he says something like """"""""I told you already -
+you're not the job."""""""" That's about all I've got. Any help?
+Bugging me for years. ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

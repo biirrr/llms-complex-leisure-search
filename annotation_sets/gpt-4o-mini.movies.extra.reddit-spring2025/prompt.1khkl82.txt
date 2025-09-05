@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I have vague memories of this movie from childhood.. So, I
+remember watching this with my parents in the early 00s. It would've
+been from that time or the 90s. The main character gets into a drunk
+fight or something, and is inspired to take kung fu. He struggles at
+first (obviously) but then masters it. I just remember a scene after
+he's a kung fu master where he's playing tennis or some kind of racket
+sport, and he gets hit in the balls but it doesn't affect him. Then
+someone is like, """"""""you have balls of steel!"""""""" And he hits
+his balls and they make a metallic sound, demonstrating the validity
+of what they said. I know this is vague but it's all I remember. I've
+tried to find this movie many times but have never had any success."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

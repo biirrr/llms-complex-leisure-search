@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Searching for an old made for tv movie with a sharkman.. Hey
+guys I don't remember alot about this. All I remember is that it
+featured a humanoid shark. It's quite old, i think it was pretty low
+budget and made for TV. I watched it as a kid so its at least like 15
+- 20 years old."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

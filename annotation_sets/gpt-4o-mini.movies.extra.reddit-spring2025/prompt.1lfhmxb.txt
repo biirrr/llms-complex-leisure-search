@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where the main character keeps seeing the number
+""""""""11"""""""" - sees a little girl with the same eyes as his
+lover that passed away?. It ha sa science fiction vibe to it; I think
+it was about a college professor that met a woman whom eventually
+passed away and has some sort of connection with aliens, as shown at
+the end. Watched this around 2017, if that helps."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

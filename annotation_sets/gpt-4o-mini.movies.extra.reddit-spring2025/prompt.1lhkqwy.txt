@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Whats the movie?. Hi guys, Im trying to find a movie. I
+doubt anyone knows about it, but it was a very bad spin off of Alice
+in Wonderland called through the Looking Glass. I remember this girl
+who was like very or she was a misfit if you will she goes to live
+with her grandmother and I know at one point they like go shopping and
+she like is very punk rock and stuff like that. Ive been trying to
+find it for a while and I cant seem to find it anywhere. I guess not
+whats the movie but where do you guys think it is, or have you heard
+of it but anyways, yeah I just this girl goes to live with her grandma
+and she trying to adjust to her new surroundings. She joins like a
+player or something like a play called Alice in Wonderland and yeah
+thats kind of all that I really remember. But if you guys can help me
+find where it is or the movie then I would love that but its all
+right if not, thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

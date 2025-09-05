@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Erotic Thriller saw on TV early 2000s. UK resident here.
+Been racking my brain to remember an erotic thriller I saw on channel
+5 in late 90s/early 2000s. Woman trying to rebuild after a
+divorce/husband having an affair. She moves into a new house in a nice
+neighbourhood. Starts a relationship with her personal trainer.
+Remember there was a conversation about diet as they pack away food.
+Turns out trainer is also still in a relationship with an Asian
+girlfriend who I thought was Joan Chen, but all searches come up nil.
+Unless I am not looking hard enough... I remember the title didn't
+scream erotic thriller. Also think there is a detective hanging about
+investigating a murder or something, suspects husband/ex boyfriend.
+Might have turned out to be the trainer but not sure about that at
+all. Stand out scenes include main character having sex with trainer
+in a toilet stall and slashing the tyres of ex boyfriend/husband."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

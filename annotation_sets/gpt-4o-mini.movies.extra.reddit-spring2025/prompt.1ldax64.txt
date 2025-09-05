@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "underwater sci-fi movie. so I recently saw a scene of a
+movie and I can't get it out of my head. The scene took place
+underwater in some sort of research station or big submarine and there
+were 3 people: a man, a woman and a little girl (I don't remember if
+they were a family but I think only one of the adults was the girls
+parent). they were in a room that was big, rounded and empty (no
+control panels or similar things) and one side of it was a big window.
+The adults left the room and the girl looked out the window (you could
+see only solid blue outside). Then the monster appeared. (after this
+my memory fades) It was either a big fish or just the eye of a monster
+and the girl and the monster watched each other for a moment before it
+swam away (it could have cracked the glass or hit the station). Then
+the adults came back into the room. From the quality and design it
+looked like it came out in the last 10-15 years but I could be wrong
+there."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

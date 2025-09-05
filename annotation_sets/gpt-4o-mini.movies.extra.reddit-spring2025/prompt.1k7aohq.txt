@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old action movie about a pilot that I can't remember (maybe
+spoilers?). There was this stupid movie I watched like 4 times when I
+was little and I can't for the life of me remember it. So it's about
+this disgraced pilot (he was labeled a coward because he didn't fight
+in this war), his best friend, and his ex-girlfriend and they all have
+to go on some adventure. At one point there at this mysterious
+monastery I think. If I remember correctly there was a twist where the
+reason the pilot was disgraced was because the girlfriend actually cut
+the fuel and made it so he couldn't join the fight because she thought
+he would die. I would very much appreciate if someone could tell me
+what this is so I can sleep at night."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

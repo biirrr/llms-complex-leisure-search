@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000s cop movie I think?. I think the setting was in
+LA? Not entirely sure but the scene I remember is some big tall gang
+member is on top of a girl cop and is just either slapping or punching
+the crap out of her and another cop comes running up to him telling
+him to put his hands up and I think the cop ends up dying? If someone
+can help me with what movie it was I'd be so grateful! I need to know!
+Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

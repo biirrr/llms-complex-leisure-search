@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s/90s Era Coming of Age Movie...or did I make this up?!.
+Hi everyone, I have been trying to find a movie from probably the 90s
+that I KNOW I watched, but I cannot recall the name. The specific
+details I remember are that it featured a young teenage girl and a boy
+she liked, her father was in the military and in one scene, he asked
+her to pass the chicken breast and she got super embarrassed. Another
+scene, she got in trouble at school for drawing a naked mermaid,
+because the boy was going to draw her a picture of a naked man in
+exchange. I think they burned down a horse barn by smoking cigarettes
+at one point. Please help me, someone! It was really good and I have
+been thinking about it on and off now for 30 years. Google has not
+helped. I think it is an American film as well. Thanks!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

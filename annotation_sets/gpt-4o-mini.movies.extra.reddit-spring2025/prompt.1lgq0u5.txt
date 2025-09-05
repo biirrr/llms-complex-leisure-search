@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me identify this movie. There was a movie I
+watched in which the protagonist is a cop or a spy or something, and
+he works with a team in a basement-type place. They have a girl on the
+team as well, and the protagonist hooks up with her. At the end,
+someone from his team turns out to be a rogue. I dont remember if it
+was the girl or someone else. # I remember a scene that might help you
+identify the movie: &gt;In the middle of the movie, the girl is
+resting on a bed, covered with a blanket. The protagonist comes in,
+and they start having a conversation. The girl then invites the
+protagonist to join her in bed by removing the blanket, revealing that
+shes in her underwear, and he joins her."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

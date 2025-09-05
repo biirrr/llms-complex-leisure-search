@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I need help with a zombie movie that i saw a recap of a
+while ago and i wanted to dive more into.. So in this movie theres
+like a mime or these people who pretend to be statues in somewhere
+most likely the uk doing his act beside another street entretainer and
+out of nowhere everyone starts running cause theres zombies now and
+some dude gets eaten and now the main character ( the dude that
+pretends to be statue) cant move since theres zombies crusing the
+litttle plaza he was performing at and he will be detected."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

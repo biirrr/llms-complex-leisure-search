@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Kids/Family Fantasy Film with Little Guy that gets Big. My
+dad rented the movie one time when I was 7 and I watched it 20 times
+over the 1 weekend but now i cant think of the name. The movie must
+have been mid 80s to early 90s based on memory of production. The main
+character was a little boy in a medieval fantasy world. He was the son
+of some rich or noble man (maybe king) who gives him a little clay man
+as a gift/pet. the little guy was a tannish orange color and had a
+face sort of like the not the momma baby from Dinosaurs. The plot is
+lost to me now but I remember when the little guy got wet (or maybe
+its when he drank) he would grow to the size of a kaiju and start
+destroying little villages and taverns. I think his size depended on
+how much liquid hed absorbed and he would slowly seep the liquid as
+he got smaller. I believe at the end of the movie the little guy as a
+kaiju thinks he killed the boy and then weeps causing him to shrink
+rapidly and somehow save the boy (I unironically might be imagining
+that part) I can recall a specific scene where the evil-doers either
+accidentally pour wine from a barrel onto the little guy or think its
+a good idea to hide and transport the little guy in a nearly full
+barrel causing him to erupt out the top of the building. I wish i had
+more details to give but i can really only remember flashes of imagery
+without any narrative context. If anyone can help me find this i would
+be greatly appreciative and if i can provide any clarifications or
+extra info. please let me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding a movie. Here is all that I can remember:
+People go into a snowy terrain where they are killed by zombies or
+aliens, it had the same style of cover artwork as the movie the thing
+and I first heard about it on tiktok it said that it was an unrelated
+movie but could fit in as a prequel to the movie the thing (original
+one) any help is appreciated. Some extra context : the people may have
+been american or hikers or hikers from Nordic countries, the movie
+could also have been set into these 2 area. I may have just
+misremembered parts of what I saw so take all of this with a grain of
+salt."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

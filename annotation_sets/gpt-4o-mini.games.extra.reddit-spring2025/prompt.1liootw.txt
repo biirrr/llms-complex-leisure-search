@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2023ish] Marble/ball game with amazingly impressive
+graphics. **Platform(s):** PC/Steam **Genre:** Marble balance game
+**Estimated year of release:** 2023ish **Graphics/art style:**
+Futuristic neon abstract, very good graphics using RTX Ray tracing
+techniques **Other details:** It's not marble Mancher or the RTX clear
+marble demo. The marble looked solid metal anc reflected the neon
+enviroment really well. Gameplay was get to the end without falling
+off, like Super Monkey Ball or Marble Madness but levels gave the
+impression of being longer. The enviroment was definetly where the
+money was invested during development, the game had amazing scenarios
+and really good graphics. All maps looked futuristic, alien, a little
+Escher-like and I remember the trailer gave me an ominous vibe like
+something larger than my understanding was going on. Sorry if the
+description is a bit all over the place I really don't know how to
+describe a marble game better."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

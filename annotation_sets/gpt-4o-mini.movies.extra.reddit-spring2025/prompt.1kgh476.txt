@@ -1,0 +1,31 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "1980s Animated Film - Sort Of Asian Setting But Not Really?.
+I'm pretty sure the film was around the 1980s. The setting seemed
+asian, though it might be made by US. Basic plot of the story was
+about a girl and her cat. A prince (?) passed by their village, but
+for some amusing series of coincidences, he only saw either the cat or
+the girl - but never both at the same time. And it happened so
+fluidly, that he thought the poor girl was under a curse (where she
+turns into a cat every now and then), so he made it his quest to
+release the girl from her """"""""curse"""""""" (or at least, that's
+how I understood it back then; hey, I was barely 10 years old then!).
+Long story short: there was an incident where the cat was swept away
+in the river (or flood), so the prince valiantly rescued the cat
+(thinking it was the girl), and sort of confessed his love for the
+girl (who at this point of the story, was already intentionally
+tricking the prince with the cat-body swapping antics). The girl, who
+was hiding within earshot, couldn't help herself and burst out
+laughing loudly and uncontrollably - to the surprise of the prince,
+who just realized that he was being pranked all this time. I don't
+recall what else happened, but I do wanna watch this movie again with
+my daughter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

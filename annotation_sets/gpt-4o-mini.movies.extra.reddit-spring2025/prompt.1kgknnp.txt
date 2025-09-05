@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Western a story is told about a man, and the man is believed
+dead, even though hes alive. Been bothering me for a while. Starts
+off with a man meeting a woman at her home in the Wild West. They have
+a short affair, and he runs off, being chased by some men. He manages
+to lose them by swapping clothes with a dead man. The woman believes
+him dead. She writes a story (or tells it to someone who writes it),
+about her great love. This story becomes massively popular. Even
+people who know the man, believe this tale to be the truth. A year or
+so later, the man who is unaware of this major story about himself,
+tries to meet up with his old friends. They think hes an imposter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

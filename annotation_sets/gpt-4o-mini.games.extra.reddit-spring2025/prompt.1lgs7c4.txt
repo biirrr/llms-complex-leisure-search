@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][Unknown] Game about a stickman trying to escape
+prison (Not Henry stickman). I remember being somewhere around 6 - 8
+when I had this mobile game that I think was a puzzle game, but I'm
+not entirely sure what you did in the game but I do know that there
+was a stickman in jail, and he was trying to dig out through the wall,
+and you made progress very slowly (At least I did) I vividly remember
+the app icon looking something like the picture, but this is drawn
+purely from memory, but if anyone can find it, that would be great"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

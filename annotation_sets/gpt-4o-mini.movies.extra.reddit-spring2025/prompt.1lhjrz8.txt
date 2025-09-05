@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000s-late 90s assassins action movie. The movie is
+from that era, starring iirc an Asian actress. The premise of it was a
+bunch of assassins (?) had bombs implanted in them and forced to kill
+each other I think, with the bombs preventing them from exiting the
+city. Notable scenes in the movie were a guy chopping off another's
+fingers using a cigar cutter. And a scene with the lead actress taking
+off the bomb from her abdomen. There's probably some wrong minor
+details here but this is all i can remember. I watched this like 17
+years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A severed toe tied to a hot air balloon& a woman gymnast
+with full bushes under her arms& Amanda Bynes.. These are some foggy
+childhood memories of a Nickelodeon movie (or possibly an Amanda show
+bit?) and these are the scenes I remember. One of the characters is
+reflecting and remembering their dead gymnast mother. I have this
+vision of her landing her gymnast moves perfectly, raising her arms in
+triumph to the crowd and revealing the most comically Sasquatch under
+arms& and my sister yelling gross!, laughing hysterically. Anyway I
+think of that every time I look at my own hairy armpits and Im
+curious if anybody knows what the heck Im talking about& oh yeah, and
+more vaguely I seem to remember someone going up in a hot air balloon,
+and maybe a severed toe tied on a string attached to the balloon&
+&.lmao"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

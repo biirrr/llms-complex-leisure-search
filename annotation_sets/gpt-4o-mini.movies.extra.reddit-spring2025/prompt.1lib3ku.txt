@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "please I need to find a movie. I need to find the title of
+this movie with a scene where a man was bitten by an insect on the
+neck. After this bit his neck started to grow, he wasn't able to speak
+well and started hallucinating. I think this man was black and the
+background was a forest or desert, but I'm not 100% sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

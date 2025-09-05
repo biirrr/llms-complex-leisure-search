@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Switch] [2017-2020(unsure)] Game about farming with
+vegetables and stuff. Its this game I used to play on my Nintendo
+Switch maybe from 2017-2020 (possibly inaccurate Im not sure) and it
+was a farming game where you scroll from side to side in order to see
+other crops and livestock you had. Sometimes you have to defend
+against a wolf that tries to steal a sheep or something. If you can
+figure out what the game is called it would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

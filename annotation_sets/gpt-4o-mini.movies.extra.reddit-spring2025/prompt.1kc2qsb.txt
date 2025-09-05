@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about alien invasion. I remember watching this movie
+when I was younger so it had to come out around the 2000s-2010s but I
+remember there was a news scene where these flying alien things were
+coming in from sky and I remember a group of people hiding inside a
+building. Its not the silence(too recent) or the mist but it was
+similar to the mist. Pls help Ive been looking for two hours and Im
+going crazy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help I know it's a hard one but try please. Well this movie
+is really old maybe I watched it 20 years ago so there's just one
+scene that I can remember Well it was something about having an
+contagious thing in a lab maybe and they were using some kind of gas
+in a small tube when they put it around the nose of the infected
+person the parasite >± goes out Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

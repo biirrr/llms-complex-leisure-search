@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020s] Browser game where a monster has to get
+promoted. Platform(s): PC. Genre: Browser game/Brawler. Estimated year
+of release: 2020s? Graphics/art style: Pixel art/2D. Notable
+characters: Monster (character) that level-up and presents 4 stages
+(three of them on the image 2). Knight, Archer, Swordsman and some
+kind of barbarian/runner as enemies (image 3). Notable gameplay
+mechanics: Waves of enemies on a single square room. You click on the
+map to dash through it, killing the enemis in the process. You level
+up after 15 levels IIRC, unlicking new mechanics (image) with each
+level. Other details: The game is set up in a monster office ruled by
+the devil (image 1) where you have to get promoted. Each promotion
+comes after a regular number of levels is cleared. The combat zone is
+a small square that always stays the same, only the enemies change in
+variety, difficulty and numbers (image 3). The most basic enemies are
+the archer and swordsman, then there's a knight that every once in a
+while deals area damage around it and some kind of barbarian that runs
+around and bounces on the walls. There are no bosses. I specifically
+remember the game having a picture of a Creeper on the menu (which is
+the devil's office room) saying """"""""employee of the month"""""""".
+The 1st image is the game menu, the 2nd is the levels you had and the
+skills (I don't remember if they are on the right order tho) and the
+3rd is the enemies n overall UI. [Game menu](https://preview.redd.it/r
+p9mjsvi3y8f1.png?width=491&amp;format=png&amp;auto=webp&amp;s=13feecd3
+a23b7f09c0f2995e8918e5e5b065964e) [Progression](https://preview.redd.i
+t/dne4v3te2y8f1.png?width=491&amp;format=png&amp;auto=webp&amp;s=89b47
+f228c302bf175ca9fb9e91625603bb6589f) [UI and characters](https://previ
+ew.redd.it/46y8k65h2y8f1.png?width=491&amp;format=png&amp;auto=webp&am
+p;s=1b3d0a03c64cf3d152fce6a649a4b169a4a9bdca)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "British? Mob/crime/action movie. I remember seeing a long
+sequence on YouTube. It was a British (?) assassin type guy with
+glasses walking through a mansion and killing a bunch of people by
+shooting through walls. I think there was a squad of dudes in there
+going after the glasses guy. After shooting a bunch of folks he stops
+and takes off his glasses, just to then be killed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

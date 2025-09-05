@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Netflix? Captive/psychological movie help. There's a
+family(father, mother, older daughter), very nice large estate style
+home and the father was some kind of prominent figure in their local
+area. The father is holding a man captive in a """"""""bunker""""""""
+in the woods behind their home. He has been there for a long time, 20
+or so years iirc. The daughter discovered him somehow and started
+visiting and befriending him. He told her something like her father
+had killed someone drunk driving and he was the witness/former friend
+when actually he had done something horrible and the father couldn't
+bring himself to kill him and the father didn't want whatever it was
+that the man did embarrassing his family so he locked him away. I'm
+fairly certain I watched it on Netflix and it was three or so years
+ago. It was a recently new movie at the time iirc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

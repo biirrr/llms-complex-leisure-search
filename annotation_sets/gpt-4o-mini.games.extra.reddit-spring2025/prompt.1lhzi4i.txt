@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - DOS?][late 1990s] Pinball game with a circus level.
+This was a classic Pinball game played on PC (or maybe even MS-DOS)? I
+don't remember the main level, but oddly, I do remember one of the
+other ones: it was a circus theme level with a green, pink and light
+blue color theme. There was possibly a clown face in the middle. But
+what's for sure is you could activate bonuses on the side of the
+Pinball in the shape of ... ducks. And that's all folks for what I can
+remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

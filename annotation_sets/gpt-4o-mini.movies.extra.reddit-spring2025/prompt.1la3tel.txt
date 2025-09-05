@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "1970 or 1980 Fantasy. I remember seeing a scene of this on
+TV when I was a kid, but have no idea what it was. Anything I've tried
+researching doesn't seem the right answer. It's sword and sorcery,
+possibly barbarian. There's a female warrior who has been captured and
+is in some dark stone room/temple. The villain there is I think also a
+woman. There's a large shield with a woman's profile etched on it.
+When they slice a sword through the etching on the shield, the warrior
+gets a cut on herself in the same place. That's all I saw/remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Late 90s/ early 2000s. Im going nuts, Ive exhausted all
+google searches I can. I never saw the movie but for some reason part
+of the trailer is stuck in my head. Its about 2 (I think) friends
+going on a road trip to see the world& and have a little fun along
+the way The only scenes I can remember is them passing someone with
+(a) sheep on like a one lane road. (Which makes me think UK. Maybe
+Scotland/ireland?) Then one scene involving like a bar fight, at least
+them in a bar. Guessing it was either an indie film, or a small
+production company, just by the fact I cant find it. Ive googled
+every movie I can think we owneds opening. Again going nuts lol.
+Edit: Not a comedy or a horror from anything that i remember. 100% not
+eurotrip"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

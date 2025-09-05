@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "War film. hello, i have a distant memory of a scene of a war
+film, the only thing i can remember is like a big road or plaza with a
+fountain? full of dead bodies where i believe one of the soldiers was
+alive and faking death while the enemy was patroling the area, that's
+all i think. thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

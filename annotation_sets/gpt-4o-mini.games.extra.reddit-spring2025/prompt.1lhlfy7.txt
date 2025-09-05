@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 00s] Point and Click game with
+""""""""aliens"""""""" I think. Your friends get frozen and you have
+to save them.. So yeah I played this game when I was a child and now
+want to find it. So you play as this alien I think who goes to the
+basement of this house and meanwhile his friends get frozen by some
+villain I think. It was third person. Hopefully this will be enough
+information to help me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

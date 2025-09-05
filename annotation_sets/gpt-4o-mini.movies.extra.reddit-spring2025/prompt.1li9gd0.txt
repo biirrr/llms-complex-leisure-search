@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Scary shower scene in a movie trailer. Puzzle for you. When
+I was a kid in the late 70s/early 80s, a trailer for a horror movie
+freaked me out. A person was cautiously approaching a closed shower
+curtain. As they reached out to pull it open, a clawed hand of some
+creature reached out from behind the curtain and grabbed their wrist.
+Thats it. Thats all I got. A half remembered scene from a trailer
+45-ish years ago. If it helps, Im sure this was the ad for tv, not a
+theater add. To this day, I still get just a tad twitchy when a shower
+curtain is closed. Id love to watch it today and laugh at what Im
+sure is a cheesy monster."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

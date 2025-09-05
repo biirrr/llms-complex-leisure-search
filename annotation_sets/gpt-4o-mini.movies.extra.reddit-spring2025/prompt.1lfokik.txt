@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help find this movie please! =O. Me and my brother were
+talking about a movie we both had seen a couple years ago and neither
+of us could remember the name of it! So annoying! The basic plot was a
+soldier in a seemingly post-war world looking for his family/kid to
+save them but the plot twist at the end was that he actually had PTSD.
+Any ideas anyone??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

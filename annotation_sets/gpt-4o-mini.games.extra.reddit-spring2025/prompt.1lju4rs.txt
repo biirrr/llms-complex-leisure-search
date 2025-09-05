@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [2012-2016] endless runner + sword (representative
+AI image). I'm looking for a 2d endless runner style game in which you
+control a character wearing a black cloak carrying a sword, fighting
+against enemies jumping on platforms, there is no analog stick to
+control and the only movements are jumps and sword strikes with
+special skills on the right side, the setting was gothic and there was
+your life bar in the top left corner, at a certain point you fight
+bosses and their life bar is in the middle of the screen. It's an old
+play store game for mobile. Please someone help me find"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

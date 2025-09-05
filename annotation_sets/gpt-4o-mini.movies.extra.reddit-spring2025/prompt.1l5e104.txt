@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-fi movie about a handsome man who turns out to be an
+alien (I think). So I saw a movie ages ago about this girl whose mom
+gets seduced by a handsome man, who starts doing shady shit. Im going
+to get details wrong for sure. The way I remember it is theres a very
+handsome guy, and it turns out to be multiple of the exact same
+looking guy, trying to mate with human women of a CERTAIN AGE RANGE,
+and this girls mom turns out to be too old. At the end the girl is in
+a tank or some shit and the movie ends with her breathing in water.
+This isnt great detail wise but I just cant find the movie. Dont
+know actors names or anything at all. Just that the 3 main characters
+are a teen girl, her mom, and her moms new boyfriend who is likely an
+alien or some monster creature thing. Please help this is eating me
+alive."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

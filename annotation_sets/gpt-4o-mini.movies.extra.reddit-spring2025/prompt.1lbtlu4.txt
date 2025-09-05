@@ -1,0 +1,32 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Black and white film where it ends with a POV of a gun
+facing the audience and a flash of red crosses the screen when it goes
+off. I swear I'm not misremembering this, but no amount of searching
+key words can find this movie. I was very very little when my grandpa
+gave me some movie trivia. We were watching Turner Classic Movies and
+he told me to pay attention to the ending scene of a movie he had on.
+The characters (I think) ended some kind of argument where one left
+the other in an office or study room or something, and then the point
+of view switches to the character left in the room, and they slowly
+turn the gun to themselves and it's very heavily suggested (but
+obviously not outright stated) they commit suicide by gunshot. The
+part that was interesting was the ENTIRE movie was in black and white,
+except the bang made the screen flash in red before the credits
+rolled. My grandpa, trying to get me interested, asked me how they did
+that if the movie was in black and white (I was too young to
+understand how which was obviously animating over the film a la
+Anchors Aweigh, but I did understand for the most part there was a
+time that film was only in black and white, so like. 4-6ish?).
+Obviously I didn't care, so I never bothered to learn the name of the
+movie, but 20+ years later and now I have a burning desire to figure
+out what this movie possibly could be called."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

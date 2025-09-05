@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Grave digging father. I have a very faint memory of a
+movie/series where the lead character helped his father as a grave
+digger, and has flashbacks to when he'd have to dig the graves
+overnight. Not sure why but i also feel like it has something to do
+with Robert De Niro..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

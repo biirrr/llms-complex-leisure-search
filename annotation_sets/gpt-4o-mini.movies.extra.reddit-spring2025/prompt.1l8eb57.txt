@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "hologram wife time travel?. i dont remember where i watched
+this or if i even saw the whole thing but this scientist guy starts
+like a hologram of a child or something and she like gets older
+rapidly and tells him about her life and it turns out she died years
+ago and he was her husband in another life or something and he would
+always spend alot of time at the lab with her so his actual wife was
+upset and it ends with her like about to die and she calls his wife
+through the technology since shes a hologram yk and tells her to come
+to the lab or something in his voice and then the guy and the actual
+wife get back together and the hologram wife disappears"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

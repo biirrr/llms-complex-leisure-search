@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Name of this old horror movie?. I remember watching just a
+few seconds of it as a kid in the 90's. There was this red haired, I
+think female, robot like figure sitting on the bed. Before you say the
+exorcist, hear me out. She's sitting on the bed but she's kind of
+facing the door, her back is to the camera. This other woman, human, I
+guess comes into the room where this thing is and she's promptly
+unalived. Think she's shoved into a dresser and she hits her head?
+Then the figure is shown back sitting on the bed and her head makes a
+robotic like sound when she turns to look back at the blonde haired
+lady on the ground. Creepiest thing ever and I've never seen it
+anywhere again. I've never seen the exorcist so if it is it then y'all
+I'm sorry. Update: I made chatgpt search this particular scene and the
+only thing that came close in aesthetics is Mirror, Mirror (1990).
+That's not it though, I looked. Not sure what obscure movie this was
+but the fact that I can't find it makes it even creepier."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

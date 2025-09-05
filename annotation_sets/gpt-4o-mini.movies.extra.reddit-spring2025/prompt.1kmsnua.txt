@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Guy sitting at a computer picks up several pieces of French
+toast and dips them in syrup. Hey y'all - would appreciate any help. I
+can only remember one scene, and I don't know if I'm recalling
+correctly. Feel like I saw it in theater before college - so maybe
+2002-2010ish. All I can remember is a basement dweller type guy, think
+the guy from the WoW episode of South Park, picking up several pieces
+of French toast and dipping them in syrup. (Don't think we see their
+face.) I think the setup is: Avi or robot of hot chick is asked,
+""""""""You're really a girl, right?"""""""" Avi says yes and the
+scene cuts to our guy controlling the Avi helping himself to French
+toast - feel like I remember people laughing and saying
+""""""""ewwww"""""""" in the theater. I cannot for the life of the me
+remember any other detail, and, apparently, there is some guy called
+French Toast which has made searching a pain in the ass. Thought it
+was Surrogates, but nah. Please help solve this mystery - been
+searching whenever inspiration strikes for over a month now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a movie I saw as a kid  dad plays a disturbing
+prank with fake dead kids and ketchup. Hi everyone, Im trying to
+remember a movie I saw on TV (most likely on TNT) when I was a kid,
+sometime between the early 2000s, before the 2010 approx. It was
+probably an American movie, and it really stuck with me because of one
+very disturbing scene. The movie is about a family  a mom, a dad, and
+4 or 5 children. Most of the kids were boys, but the youngest was a
+little girl, around 2 years old. The family had an old-style
+Volkswagen van (one of those iconic ones from the 70s or 80s). At one
+point in the movie, the mom goes to work, and the dad stays home with
+the kids. While shes away, the dad plans a prank that ends up being
+extremely dark. He dresses all the kids in white, stages them as if
+they were dead, and uses ketchup to simulate blood. When the mom gets
+home and sees this, she completely breaks down, screaming and crying,
+thinking he has killed their children because of the knife in his
+hands. Then the kids get up and hug her, and she realizes it was just
+a prank. I dont remember much else about the movie, but that scene is
+burned into my memory. I would really appreciate any help identifying
+this movie. Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

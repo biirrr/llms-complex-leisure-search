@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Time traveler movie I saw years ago. Hello all,This is my
+first time on this subreddit. Ive been searching for this movie on
+which a trailer I saw years ago but I never got around to watching it.
+So basically theres this man, hes with some kind of top secret
+organization that has discovered time travel. With this new
+breakthrough they assign him to travel back in time to investigate the
+bombing of a train, and who is responsible. Each time he times travels
+he has a limited amount of time before he is sent back(I think 8
+minutes to be exact) back to his hq before he is sent back to continue
+his assignment. Along the way he runs into this woman, and he ends up
+falling in love with her then gets completely derailed from his
+original mission. He then has a personal goal of saving said woman and
+finding out whose behind the bombing(Im not sure how this movies
+time science works so i dont know if changing something in past
+directly impacts the future but Im assuming it does) thanks!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

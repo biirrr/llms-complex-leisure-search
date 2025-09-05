@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-fi film where humans are born in some flying structure.
+Hi, I remember a film I watched a looong time ago when I was a teen. I
+dont remember much so I dont think I'm gonna be of much help but I
+could definitely recognize a screenshot of some scene. I dont remember
+the main plot or characters. I pretty much only remember it was based
+on some dystopian future Earth, at some point it is revealed that
+humans are either born or cloned or something along the lines in some
+sort of laboratory which is a really weird oval shaped structure which
+floats above the city. The oval building has a very strange interior
+with alien looking shapes and doesnt look like a laboratory at all,
+there is an old man working in this structure. It had action and the
+protagonist might have been a woman, but I dont remember that well.
+The art and architecture of the film had some frutiger-aero style and
+the film must be from between 1990s and early 2000s, it could be older
+that that tho."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

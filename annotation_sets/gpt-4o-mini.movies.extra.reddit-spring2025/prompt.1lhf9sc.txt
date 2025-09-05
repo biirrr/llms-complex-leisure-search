@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "House fire movie?!. hi guys, I've been trying to figure out
+this movie since I was a kid. the most I remember about it was a young
+boy setting his house on fire with his sister/ (cousin maybe?) inside.
+and the next scene was her in a hospital bed with I believe the
+grandmother berating the young boy. I watched clips with my parents
+around 2010 so it had to come out prior to then. it's not the good son
+ik that. it also could be a show but I doubt it. thank you again"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

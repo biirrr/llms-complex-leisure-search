@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to remember a movie i watched when i was a kid.
+what's that one movie where people was at an area and beyond them a
+secret killer was there. A scene was when a group0 of the friends
+drank something and all passed out, and when they woke up everyone was
+up except for one person and when they lift his head up it was
+decapitated"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

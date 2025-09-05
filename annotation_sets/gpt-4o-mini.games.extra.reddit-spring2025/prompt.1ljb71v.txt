@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Year Unknown] Indie horror game set in a Soviet style
+setting where the main character is under quarantine and bizarre
+transformations start happening. Everything is set in the apartment,
+and the character investigates the weird things happening around in
+the apartment. They get a visit from government and sometimes their
+neighbors knock on the door. I saw this horror game few months back
+and have been searching for over two weeks as I want to play it. I
+believe it was on itch.io but could be Steam too. Its not found
+camera footage but I think it may have had some grainy/VHS style
+texture Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

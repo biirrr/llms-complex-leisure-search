@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find the title of this old movie. This one might be
+a reach but it has been driving me crazy for years. I saw this as a
+little girl and it might be a TV movie - 90s or late 80s. Theres
+this woman with two husbands who dont know about each other. One is
+more stuck up and fancy and when she is with him she always has her
+hair up. The other one is more the artist type I think and he has a
+beard. At some point she is set to receive some type of award.
+SPOILERS. She goes to the ceremony and the husband who wasnt supposed
+to make it is actually there and the two husbands finally see each
+other and the situation is exposed. At the end of the movie she ends
+up with the stuck up one but she realizes that he is not that rigid
+after all and she starts wearing her hair down with him. Please help
+me find this!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

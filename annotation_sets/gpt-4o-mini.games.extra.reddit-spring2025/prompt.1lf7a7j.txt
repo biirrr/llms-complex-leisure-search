@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s] DOOM-like FPS where theres a hidden room where
+you'll find a green haired lady naked on the loo and she shoots you if
+you stay too long. I remember long ago this channel on Youtube when it
+still had 5 stars sytem, """"""""Greatest Toilet Games on Video
+Games"""""""" where itmwas about toilets in every videogame, one was
+this DOOM like FPS game where the protagonist enters a hidden area and
+walks in on a woman on the crapper and she shot you if you stayed. I
+never learned the name of the game since it was random watching prior
+to doomscrolling, anyone happen to know? All I know there was a 3D
+sequel released afterwards which I did watch hut forgot the name of
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

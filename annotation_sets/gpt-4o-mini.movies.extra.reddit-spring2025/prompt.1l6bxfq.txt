@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000s (french?) comedy. I've seen the movie years ago
+and I can't remember the name. The main plot point was that there were
+2 brothers - one of them was a priest in some small village and the
+other was a gangster in some crime organization. The former just as
+the movie starts finishes his 20 something year sentence for a robbery
+(?). He has a bunch of valuable gems stashed away somewhere but can't
+get them for some reason and because of that he sends his brother to
+do that for him and do a deal with some mob family. While the
+gangster's brother is away he impersonates a priest and tries to stay
+low and not reveal his past to anyone. I remember crying laughing at
+some scenes and it would be awesome to have a chance to see it again.
+Edit1: Now that I thought about it I'm very confident it was a french
+movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

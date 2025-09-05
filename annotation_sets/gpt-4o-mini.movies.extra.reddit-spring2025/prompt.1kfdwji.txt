@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I think it was a horror or mystery type movie. We follow our
+main protagonist who is a teenage boy and I think hes visiting his
+dad for the summer. He noticed that his neighbor son goes missing and
+nobody seems to remember that the son ever existed. He makes friends
+with this girl who is also a teenager, but I think that happens later
+on in the movie. He discovered that there is some creature who is
+stealing kids and removing everybodys memory of them, and the big
+twist in the end is that he also had a little brother who came with
+him to visit his dad who he forgot about. In the end, he gets his
+brother back and all three of them are driving back home. But thats
+when he realizes the flower the girl gave him is not real, and they
+had discovered that the creature that was stealing kids killed all the
+real flowers and vegetation around it. Then we cut to the same girl,
+in a boat with a bunch of kids as the teenage boy realize that she was
+the monster all along. I think it was made relatively recently, like
+probably within the past 10 to 15 years. I dont remember anything
+else about it besides that, any other clues would be very helpful,
+thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

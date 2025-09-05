@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where mom looks for missing children in small run down
+town. A blonde mother( or older sister or aunt) finds out her child
+goes missing in small poor town with shacks all around where a bunch
+of other kids have gone missing at the time as well. I don't remember
+much besides one house of a mother with a drunk husband/boyfriend and
+son, being suspicious to the main actress. It's been so long since
+I've seen it so it was released from 2000s-2016, sorry for the large
+range. The ending was a plot twist where either her child alone or all
+the other children were found underground/underneath the town through
+a passage from someone's house. I'm pretty sure she took investigating
+into her own hands since the disappearances were becoming more
+frequent and police gave up or she got very little help. The actress
+looked kinda similar to Naomi watts or Teressa Palmer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

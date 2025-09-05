@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Death scene of this old lady (I think) with cigarette. Hi!
+For a while theres this scene stuck in my head where theres this old
+lady (I think) that lights up a cigarette and then the scene cuts to
+the consumed cigarette wich wasnt smoked, indicating that shes dead.
+I remember also that she was like grieving or something and might have
+been suicide, but its so confused in my head."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

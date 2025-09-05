@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [2000, maybe late 90's] Isometric, maybe point-and-
+click type of game. The main thing I remember about this game is in
+the very beginning you (the player) and an accomplice (both male) are
+trying to sneak in to some type of factory. The player is the one
+sneaking in, whilst the accomplice is creating a distraction. The
+accomplice approaches a guard-post in front of the factory and engages
+the guard in conversation, attempting to sell him some cigarettes.
+""""""""Buy these cigarettes! They're American cigarettes!"""""""" He
+keeps repeating that line, over and over, for as long as it takes the
+player to find the way in. """"""""Buy these cigarettes! American
+cigarettes!"""""""" I'm almost certain he has an Eastern European type
+of accent. I rented this game from Blockbuster so I would've only had
+it for a few days. It was extremely difficult (at least for a child or
+9 or 10 years old) and I never got very far - not much further than
+the very beginning, in fact, and all I can remember is that one
+particular line about the cigarettes and sneaking into some type of
+dark factory that was full of hallways and machinery, and I never
+could escape from that factory because I just kept dying."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

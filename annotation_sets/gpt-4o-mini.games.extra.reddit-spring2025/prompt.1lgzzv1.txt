@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4/PS5/XBOXONE/PIC?] [Unknown] Trying to find a horror
+game I saw a clip of.. Platform(s): Unknown Genre: Horror Estimated
+year of release: Unknown Graphics/art style: Realistic? Notable
+characters: Guy, Girl and some kind of monster. Notable gameplay
+mechanics: Other details: So the basic premise of the game is it's a
+horror movie presumably in the woods. A guy and girl are I think in a
+cabin and the girl gets pulled through a window and taken away. The
+guy runs after her and ends up stopping at some point and using his
+rifles scope to get a good look and he sees the girl being carried
+away down some wooden steps or perhaps a bridge. Could be Until Dawn
+but I'm not entirely sure as I thought that game had multiple people
+and this seemed to only be the two of them?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4][2016]Multiplayer game with Propaganda Artstyle. I
+remember being a young kid and playing this Free multiplayer game,
+back in 2016-2017, with a propaganda art style. i think you played as
+a young girl in a red dress and a brown hat, and you and all the other
+players worked together and mined, and there was some sort of train. I
+also think the servers for it may have shut down at some point not
+long after I played, because I remember not being able to play it
+anymore."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

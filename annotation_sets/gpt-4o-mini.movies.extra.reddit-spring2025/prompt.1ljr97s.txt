@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help.. Searching for a movie in which a person was
+covered with some sack, and when they removed it, his face was almost
+a little blue, and they were sitting on a boat, there was definitely
+some kind of water body behind the person, and that movie is about
+maybe some utopian world, or I don't know, it's some weird movie. Can
+you give me a list of movies that resemble the description? Some
+person removes the clothe coving that person's face, which was human
+like but different"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

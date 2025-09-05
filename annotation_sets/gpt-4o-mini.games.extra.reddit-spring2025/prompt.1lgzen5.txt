@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Sega Master system (8-bit)][1990 ish] King Kong style game
+where you climb and smash buildings.. Not 100% sure on the console. I
+remember it as a side scroller but without the scrolling. Basically
+you climbed the outside of buildings smashing them and rescuing or
+killing people. I think there were also helicopters and I believe you
+could jump from one building to another. Not sure if you played as
+actual King Kong or not, but it was absolutely inspired from it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

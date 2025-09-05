@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPhone] [20092011]Looking for a song from an old iPhone
+rhythm game (maybe Tap Tap Revenge). Hi everyone, Im trying to
+remember a song I used to play in a music game on iPhone around
+20092011, possibly in Tap Tap Revenge. I dont remember the exact
+title, but heres what I recall: """""""" The vocals were by a woman 
+calm, a bit melancholic, with a mature-sounding voice. """""""" The
+song started slow and gradually built up toward the end. """""""" It
+wasnt acoustic, and it wasnt fully electronic either. More like
+something in between. """""""" The title was probably a single English
+word that was uncommon or poetic. """""""" I never heard it outside
+the game, so it mightve been an indie artist. """""""" The cover art
+(jacket) was yellow, and it showed a realistic, illustrated human-like
+character, maybe slightly robotic or emotionless looking. If anyone
+remembers a song like this from Tap Tap Revenge (or another rhythm
+game from that era), Id appreciate your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

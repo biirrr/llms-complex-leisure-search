@@ -1,0 +1,32 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "60's/70s musical comedy, Arabian themed, TV or movie...Bob
+Denver?. The part I saw: Everyone was dressed Arabian style, and I
+think the set was in a big tent. Bob Denver (I think) was trying to
+romance this beautiful woman. He offered her a seat on a zebra skin
+couch. She said, """"""""I could never sit on a dead animal.""""""""
+and he said """"""""Would you prefer a live one?"""""""" Eventually
+this big guy with a beard who was a sheik or something arrived to
+invite the woman to his palace, and he sang a song about all the
+wonderful things she would experience there, and Bob Denver kept
+interrupting singing """"""""What about me, me, me? What about me, me,
+me?"""""""" I've pretty much given up on ever identifying this, but
+thought I'd take another stab at it. I saw just a bit of it on TV when
+I was a kid, probably in the 70s. It caught my attention because (I
+believe) Bob Denver was in it, and we always loved seeing the
+Gilligan's Island cast in other things. But I see nothing in his IMDB
+that sounds like what I saw, so it may have been part of a TV series,
+or a fantasy or dream sequence from something. (Definitely NOT
+Gilligan's Island, I grew up with that, have the DVDs, all pretty much
+memorized.) Or, somehow, my brain short-circuited over the years and
+it was someone else. But I feel so certain it was him. Not 100% sure
+if it was in color, but I think it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

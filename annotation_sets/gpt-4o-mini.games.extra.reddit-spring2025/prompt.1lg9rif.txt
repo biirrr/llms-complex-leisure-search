@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Time management life sim with 50 endings. Est
+time 2010 give or take two years either way. Platform: PC, but I can't
+remember if it was steam or third party. Download only. Art style:
+cartoon or pixel Description: Protagonist is a girl with pink hair,
+with no skills and no money. She is actually a lost princess, while
+the crown prince is adopted. Player can choose what she does each day
+to earn money and skill. If I recall correctly it was advertised as
+having 50 endings. Some jobs I remember include being a cleaner, a
+bartender, bookkeeping? Etc. I think she could also learn magic but I
+am not sure. She could marry the prince in one ending. There were not
+a lot that happened outside the jobs, but there were hidden paths if
+you met conditions. There were no in game purchases. I recall a number
+of squares to choose her work, and there were conversations."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

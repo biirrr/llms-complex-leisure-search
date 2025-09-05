@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I cant figure out movie title!. Its an older movie maybe
+80s or 90s where it's either tarzan or george of the jungle and he is
+in the city well he ends up in some ladies apartment and he looks
+under the covers of a women sleeping and he says something about her
+privates and she says that's the best puca puca you'll ever see.
+Then I remember they go to another country and participate in the
+cultural activities and sleep in hammocks and help deliver a baby in
+the village. I have been racking my brain trying to figure out what it
+is. Its not George of the Jungle (1997) and I thought it was Tarzan
+in Manhattan (1989) but its not. Please help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

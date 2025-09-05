@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Grandpa and his grandson?. I only have a faint recollection
+of one scene. There is an old man, I think his grandpa and a young boy
+sitting outside in the garden, what seems to be somewhere in tuscany.
+The grandfather comes out of the house and let's the boy choose the
+wine they will then drink. The boy gets just little bit in his glass,
+while the grandpa drinks normally. But before that the grandpa start
+some kind of speech or wisdom about wine. Kind of like: Wine will
+always tell you the truth, it can't an wont lie to you, If there is
+something wrong in the taste, you know it. I think it goes something
+like that. The boy would be like about 10 or so and the grandpa, im
+pretty sure, was wearing glasses and a hat. That's really all I have,
+but maybe someone knows?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

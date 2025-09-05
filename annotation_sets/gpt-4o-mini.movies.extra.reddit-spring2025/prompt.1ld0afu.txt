@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Tomt movie about a man dying from aids. Hello! I'm trying to
+remember a movie. Part of it is set in the 80s and is about a man
+dying from aids, and his friend visiting him. The other part is set in
+the 50s and is about a housewife with a little boy who is realizing
+she's attracted to her female friend. It ends with the man dying but
+an old woman shows up, and is revealed to be the 50s housewife. The
+man is her boy who she had to give up. Does anyone remember this
+movie?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

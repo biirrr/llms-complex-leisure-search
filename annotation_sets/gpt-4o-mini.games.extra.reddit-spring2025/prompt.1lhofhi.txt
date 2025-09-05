@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade] [ 80's] [ 80's arcade game set in a restaurant/ bar
+]. Platform(s): Arcade Genre: Undetermined Estimated year of release:
+80's Graphics/art style: 2D Pixel art, shows a bunch of customers
+sitting at tables (not a bar) getting served Notable characters: a
+bouncer (I think?) wearing pink throwing customers out Notable
+gameplay mechanics: Unsure Other details:Saw this in a random video
+clip of movies that had arcade games in them.This particular clip
+showed a girl wearing aerobics attire while she played it. Thanks in
+advance, folks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

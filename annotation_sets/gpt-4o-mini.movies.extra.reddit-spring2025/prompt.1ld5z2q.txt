@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Witchy circle dancing scene. Please someone help me find
+what movie Im thinking of. For context I was born in 1997 and would
+have watched this before I was 13, Im thinking I was about 9-10 so
+its not any movie after 2010. What I can remember is a group of young
+women, witches maybe but they might have just been doing a spell, in a
+big circle with a bonfire in the middle, throwing chicken legs and
+maybe other animal parts in a cauldron in the middle and they start
+out in all white dresses and eventually are chanting and dancing
+around the circle nude, there might be blood on them but Im not sure.
+Ive looked at so many movies and googled until my eyes hurt but I
+just cannnnnot find it. Most of what comes up is movies that are
+broadcasted as witchcraft movies so Im thinking it might be one
+thats not? I dont know! Anything helps!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

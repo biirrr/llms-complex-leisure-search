@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "This witch movie that I cant find. So this is like a long
+shot but I remember watching this movie a few times when I was a kid
+cause it was free on demand on Comcast for a bit. It was about these
+two girls who ended up getting necklaces that gave them power to do
+magic. The amulet on the necklace was spikey and the necklaces are
+able to fuse together to complete each other. But anyway one girl is a
+good character and if I recall correctly the other girl becomes evil
+and I think becomes a dragon or something. I need answers cause I been
+looking for this thing for years"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

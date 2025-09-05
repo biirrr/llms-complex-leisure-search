@@ -1,0 +1,45 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I'm begining to believe it was a fever dream. Hi all, I have
+been trying on and off for years to figure out this movie with no
+luck, and I'm really starting to think that I either made it up or am
+completely misremembering it. Here's what I remember * I watched it on
+TV as a child, so it will have come out before the year 2000 (may
+possibly be a made-for-TV movie/mini series?) * I believe it took
+place in the south with some flashbacks between when a character was
+younger (pre-civil rights), and a more modern time (though it may not
+have been up to the time the movie itself was made). * Some sort of
+event or crime happened (I believe it was race-related and may have
+been a lynching) and was witnessed by a child, and they went mute. *
+They may have been developmentally disabled in some way (or possibly
+were just so traumatized that they developmentally stayed in a
+childlike state) * I believe there was also a family of several women
+who were taking care of or were friends with this child * I believe I
+remember there being a tree that was set on fire Let me know if you
+have any ideas, and thanks in advance for the help! Adding more
+details in case anyone else goes searching for this, in case this post
+helps- It's the 1996 made-for-TV movie Stolen Memories: Secrets From
+the Rose Garden starring Mary Tyler Moore, Linda Lavin, and Shirley
+Knight. A boy (white, with brown hair) named Freddy goes to live with
+his 3 Great Aunts for the summer. One of the aunts is mentally
+disabled due to being almost drowned by a mysterious man when she was
+very young. The boy befriends her, and she introduces him to her
+""""""""friends,"""""""" who are actually the garden flowers. Freddy
+finds and restores an old blue bike that was originally a girl's bike,
+and has some trouble with bullies who roll him in poison oak and tease
+him. As the film goes on, the disabled aunt keeps having flashbacks of
+the events leading up to her attack. Towards the end of the film,
+there is a country fair where the aunt sees the mystery man again, who
+turns out to be a member of the KKK who wanted to kill her when she
+was younger because she was a witness to a lynching. He tries to drown
+her again, but she is saved by the boy, her sisters, and the brother
+of the boy who was lynched (who is also a family friend)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

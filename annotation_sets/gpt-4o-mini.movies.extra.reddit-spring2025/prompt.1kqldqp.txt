@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What's that comedy from the 80s or 90s that starts and ends
+with light tropical xylophone music?. I'm looking for a movie I am
+unable to recall where the opening score is this tropical sounding
+music that may be xylophone or steel drum or something similar to
+that. I remember it being a really lighthearted fluffy movie like a
+rom-com or fish out of water story. I thought it was Joe vs. the
+Volcano but it was not that. It's something similar in tone. The movie
+closes with the exact same tropical-sounding score. I'm pretty sure
+it's a movie from the 80s or possibly 90s. Can anyone help me? I can't
+think of it. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

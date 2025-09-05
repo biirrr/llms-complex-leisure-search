@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [idk year] i remember a good game I used to play
+but i forgot it.. I remember playing a PIXEL fish aquarium game on my
+android phone some years ago but i can't find it anymore. The image is
+a reference to what i remember and the game is in pixel art style. For
+more information, the player starts as a poor person then starts a
+fish aquarium kind of thing. Player can get new fishes by fishing and
+other things i think... People pay to see the player's pathetic,
+lonely fish. That's how the game progresses i think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

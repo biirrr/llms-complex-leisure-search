@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me to find a Forgotten movie from childhood. When I was
+a child, I was watching a movie on MBC2 that felt amazing and
+incredibly interesting to me at the time. Unfortunately, the school
+bus arrived, so I couldnt finish it. The movie was about a group of
+friends who decided to live on a remote island, possibly somewhere in
+Asia, along with some other people. They had to take a boat to the
+city every once in a while to get supplies. I also remember a scene
+where they had a tattoo or some kind of mark on their arms. In the
+end, things went wrong. but I cant remember exactly how."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Australian show/movie?. Ok this is gonna be super vague,
+feels like a fever dream of something I watched a few years ago. The
+only details I have is I *believe* it was a show, could have been a
+movie, I believe it was either taking place in Australia or NZ.
+Something to do with aliens. At one point the main character and two
+kids (boy/girl) were hiding in primary school. Also theres these
+power grid type things behind chain link fence in the middle of
+nowhere that have some significance. Thats all I can recall."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Genesis] [1990's] Game about soldiers from a top down view.
+Ok this one might be too much of a stretch given I have almost no info
+on the game... It was a top down style game where you have a little
+group of soldiers. Missions were in a jungle setting at the start of
+the game? What I really want to find out is the music from the mission
+failed/death screen. It was really sad and lamenting. All your
+soldiers would be in a little line and come running up while this
+death screen played. Sorry for the TOTAL lack of info...any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

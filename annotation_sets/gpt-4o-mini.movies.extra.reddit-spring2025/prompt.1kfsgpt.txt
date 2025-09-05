@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me remember this Horror Movie. Hello! Can you
+help me remember a horror movie where a family moved into this house
+(the usual haha). But their daughter went missing until the mother, if
+I remember correctly, discovered that it's something related to
+supernatural.  WARNING  SPOILERS AHEAD  MORE KEYPOINTS: 1ã They
+had markings on four corners of a certain spot in the house which will
+open the door into """"""""that"""""""" world. 2ã Something about a
+Sonograph? 3ã Okay, this is a major spoiler so please stop reading if
+you don't want to know the ending. They were able to go into that
+dimension where their daughter is, they were running away from the
+demon and thought they were out of the door and back into the house,
+but.... they were not. It's an unending loop where they are trapped
+into that demon's realm."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

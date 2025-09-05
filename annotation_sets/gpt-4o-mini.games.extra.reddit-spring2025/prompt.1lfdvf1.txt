@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE][2010s] Cartoony Military Game. Its been a while
+since Ive played this game so take my description loosely. I remember
+playing it on my kindle fire. The icon was what appeared to be the
+android logo in csgo terrorist attire with an ak47 and a yellow
+background. GAMEPLAY: first person pov, 3d and stationary I dont
+believe you could move around in the game besides looking around.
+(There may have been moving to a different area in a level but no free
+roam) The setting was in a Middle East setting and there were
+buildings that enemies would pop out of. The enemies were cartoony
+with big bobble heads. Some had a red bandana with army pants and
+boots. There were also different guns you could buy I remember a p90
+being an option and an AK. I think u could upgrade the guns but I know
+there were different armor upgrades and grenade upgrade. I think you
+could also take cover while in the game with a barricade and enemies
+would also take cover and pop out from buildings and barricades. This
+was Id like to say around 2013"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

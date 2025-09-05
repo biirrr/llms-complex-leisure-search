@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Romantic Comedy? Man confesses his love to girl he thinks is
+asleep.. Also possibly a drama, Also possibly a drama with some
+comedy? Only remember seeing this part. Possibly mid to late 80's,
+early 90's? Couple is laying in bed. The girl starts talking about
+food of some kind (I think pancakes?). The man responds, then realizes
+she talking in her sleep. I think he says a few nonsense things to see
+her reaction, then realizing she's never going to remember what he
+saying he confesses his true feelings for her. After he finishes the
+girl mumbles a little bit, then still half asleep mentions pancakes a
+gets out of bed. But as soon as she steps out of the bedroom and is
+out thus sight she stops and clutches her chest because she had
+actually heard every word he said."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

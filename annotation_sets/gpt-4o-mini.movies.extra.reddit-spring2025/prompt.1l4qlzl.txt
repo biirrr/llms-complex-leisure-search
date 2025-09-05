@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help me please I'm going insane, I've been trying to find
+this movie and it's like it doesn't exist, there isn't anything about
+it on the internet. live-action movie, european¿ , probably 2020s ( a
+few years give n take) plot: we follow a (teenage/adolescent) girl in
+a world behind the movie screens, which is clearly separated into main
+characters and side characters/extras. the girl goes to school with
+her main character best friend, believing she is one as well because
+she's been told her missing father was one. She starts to observe the
+differences between herself and her best friend and their families and
+notices something is wrong. also, in this world, there's some sort of
+a machine in place of a heart that makes a melody when an emotion is
+felt. the main character's device makes loud, moving music appropriate
+to the feeling, while the side characters/extra's glitch, and make an
+uncomfortable squeaking noise. there's also a forbidden area where
+people are colourless, something to do with their relevance to the
+plot and not making the final cut. there might be some small mistakes
+cus it's been quite a while since I saw the movie. thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

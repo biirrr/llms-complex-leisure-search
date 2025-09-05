@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "The 90s?early 2000s? Possibly lifetime movie?. I remember
+one time I was at a friends house for a sleepover, and I got up to
+use the restroom down the hall. I heard my friends parents were in
+the living room watching a movie. So I snuck a peek to see what all
+the noise from the tv was&all I remember is something about a woman
+getting kidnapped and shes either in a wedding dress when shes
+kidnapped or the kidnapper was forcing her to marry him, and he was
+forcing her to wear lipstick and he thought it would be funny to try
+the lipstick to coax her into wearing it? Idk&if I imagined this, but
+for 20-ish years I wondered and I hope someone can help me figure out
+what movie this was. ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

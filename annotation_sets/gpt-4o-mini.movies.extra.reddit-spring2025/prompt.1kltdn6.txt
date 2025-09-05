@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie I remember seeing in a corridor crew video. I'm trying
+to remember the name of the movie that was showcased in a VFX artist
+react video. The scene they showed was a fight scene I believe and
+there was a shot where the cars in the parking lot were duplicate and
+extended outwards during the fight."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

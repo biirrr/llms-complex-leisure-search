@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I've tried everything for the passed ten years, I can't find
+this movie to the point I'm starting to think it never existed.. It's
+an animated movie I'm pretty sure. Saw it when I was a kid, so around
+the 2000s and early 2010s. It's somewhat realistic, yet very colorful.
+I watched it in french but can't say if it was the original language.
+It's first set in a modern city. I remember the protagonist being a
+girl, she got/found a little dog that she takes with her. The dog gets
+kidnapped (in an appartment high up a luxurious tower by night ? I
+think ?). From then I don't remember anything clearly. She finds
+herself on a green ocean (on a boat ?). And then somehow find out the
+dog is a prince ? He's being held up in a cage, guarded by a man (or
+cyclop) that can see the eyes closed, and is blind when the eyes
+opened Near the end, I think there is a greenhouse with malevolent
+sentient plants. I'd be very happy if anyone here could tell me this
+wasn't just a dream and that this movie actually exist. Many thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

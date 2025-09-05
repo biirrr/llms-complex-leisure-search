@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "This is a long shot!. I would say 25 to 30 years ago I
+watched a martial arts film on VHS that was either dubbed or subtitled
+with a childhood friend. There is a scene where one of the fighters
+stops during the fight and holds his arm out with his forearm pointed
+in the air and his other forearm perpendicular to the ground, and then
+switch his arms with his pose. It was really funny and we laugh about
+it all these years later; however, we cannot remember the name of the
+movie. The fighting scene took place indoors I believe, and the
+fighter was wearing a conical Asian hat (aka rice or Cooley hat). I
+had a chatGTP render a picture of a fighter doing the first part of
+the pose. Its not exact, but its certainly better than anything I
+could have drawn. Again, I know this is a very long shot, but if
+anybody knows what this movie is, you would be solving a decades long
+mystery and inside joke between two friends."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

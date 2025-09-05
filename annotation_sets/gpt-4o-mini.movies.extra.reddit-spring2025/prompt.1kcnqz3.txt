@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early 2000's green screen effects film similar to Sin City
+or Sky Captain and The World of Tomorrow. In the early 2000's there
+was a run of films that were shot with actors on a green screen set
+and had the surroundings and backgrounds added digitally. The best
+known are probably Sin City and Sky Captain and The World of Tomorrow
+but I also remember Casshern (Japan), Immortel, ad vitam (France), The
+Spirit, 300, MirrorMask, Suckerpunch, and one other that I cannot
+remember the name of. What I remember about the plot is a woman
+looking for her brother who may be suffering mental issues or
+traveling between two realities. In the possible alternate reality he
+is an assassin or possibly some sort of hero or anti-hero that wears a
+mask that I remember looking like a Kodama from Princess Mononoke but
+just the eyes without the mouth, I think the mask was made up of
+bandages or a padded fabric. I think for the climactic scene he had a
+sniper rifle in a clock tower where he was behind a giant clock face
+and huge gears. I'm not sure of the country of origin, it could have
+been in English or subtitled."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

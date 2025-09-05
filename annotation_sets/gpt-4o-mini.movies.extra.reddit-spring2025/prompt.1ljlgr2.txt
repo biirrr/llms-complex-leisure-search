@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What is this film called?. Saw it when I was a kid, so I am
+guessing it came out in the 80's or early 90's. I think the flashbacks
+were in black or white. A person had been murdered (stabbed to death
+with scissors?) and the person who was accused of killing them was on
+death row I think? In the flash back someone is leaning in to hear the
+accused say something. Later in the film you find out the accused
+didn't say anything, they just kissed the person on the cheek."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

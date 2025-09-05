@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A british tv show about a priest who's a ww2 veteran. Show
+sets in 1950's Britain .A priest(who's in 20s or 30s) starts to solve
+recent crime investigetions. Has an old police detective friend. He
+wanted a marry a woman but couldnt married her for some reasons I dont
+remember. He started to struggle about his faith in later seasons. Has
+an assistant gay priest who will involve in an affair with some guy.
+Yep that's it I hope some of you can help me to find the show. Thank
+you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

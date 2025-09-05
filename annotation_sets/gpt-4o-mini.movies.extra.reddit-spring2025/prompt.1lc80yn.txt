@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Male artist's art comes to life 90s or earlier. I only
+remember the ending a bit, but the man is an artist and he draws a
+woman who becomes real and they both walk off together. Not sure how
+accurate it is since I was undiagnosed adhd back then and a lot of
+memories are fused and jumbled, but I can see his face and clothing.
+He's wearing a white tank top with potentially a thin colared shirt on
+or nearby. Man looks similar to Adrien Brody. Thinner build with
+stubble. Can't remember what the woman looks like. I watched it on TV
+not in theaters. Sorry I wish I had more to go on. I think it was
+around the time I watched mr destiny, it was also on tv, so later than
+1990. Curious if anyone else has any clue what movie it might be if it
+is in fact from just one movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

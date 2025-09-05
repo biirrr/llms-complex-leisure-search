@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "An Old Western for my Dad. My father was telling me about a
+movie he'd seen but couldn't remember the name of. The only thing I
+have to go on is a scene that made him laugh. There's a prisoner in a
+Western type jail and he's being forced by a deputy out sheriff to
+sweep the floors. At some point, there's a conversation and the
+prisoner tells the authority figure he knows someone that could help
+and offers to go get them. The authority figure agrees to let the guy
+go and the prisoner hands over the broom and asks if the
+sheriff/deputy will finish sweeping for him. Sheriff/deputy says yes
+and as the prisoner leaves, he starts sweeping. A few seconds later he
+has a """"""""wait, why am I sweeping"""""""" moment and throws the
+broom down. That's it. That's all I've got. I'm guessing the scene was
+played for comedic purpose because my dad still giggles when he talks
+about it. Any help would be greatly appreciated! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

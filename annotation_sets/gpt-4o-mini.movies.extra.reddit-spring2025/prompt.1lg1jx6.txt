@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie that i randomly remember from my childhood. Guys i
+barely remember much detail, but it was about a girl in what i think
+was a cottage or castle in some magical land. There were things
+reappearing or dissappearing (i cant remember which) from her ceiling
+the longer she stayed, and she had this cook bringing her cookies and
+milk almost everyday which she only discovered who made the cookies
+and brought the milk later on. It was a live action movie and didn't
+have any horror aspects! Not that i can remember. I think they were in
+a forest of some kind as well and there were other characters. Pelase
+help me find out what this movie is called its bene bothering me so
+much="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/online][2010?] A short artistic narrative game set on a
+spaceship leaving earth and reliving degrading memories.. This is an
+extremely long shot, because it relates to an artistic piece made by a
+Melbourne, Australian artist using an online game making platforms. It
+had a bit of a cult following and Im pretty sure I found it through
+reddit. It is 8 bit graphics and music. The game is set on a spaceship
+departing earth on a one way trip. Each day the protagonist wakes up
+and meaningfully waters the plants with the same mantra. They then
+enter a machine that allows them to relive their memories, most of
+which seem to related to regret with a friend they never truely told
+what they thought. These memories are set in Melbourne and it has a
+particular reference to them getting on a tram. Each time these
+memories are relived, they corrupt and as you play the pixels
+displace. I know there is basically no chance of finding this, but
+its such a great piece of digital art I need to relive it. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

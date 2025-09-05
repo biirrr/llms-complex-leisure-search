@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s] Indie FPS with an incredibly short timer. This
+game is an FPS where you have something like 10 seconds to beat the
+level, which can be extended by creative kills and passing through
+doors. Its also sci-fi, themed like youre a streamer, and the extra
+time you get is from viewer donations. I believe youre live streaming
+some death game/gauntlet. I think its got a low-medium poly style but
+Im less sure of that. Edit: I was wrong about the streamer theme, but
+right about the mechanic. Kills give you dopamine, you need a constant
+stream of dopamine to live. Its also 2D drawn sprites in a 3D world."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

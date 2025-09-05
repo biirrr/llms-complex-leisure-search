@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Outdoor Toilet Scene. There is a movie that I saw my parents
+watching in their home sometime within the last 5 or so years. It
+seemed like a more serious movie, maybe even a modern cowboy deal? The
+character in question seemed to be of questionable morality and the
+others were seeking his input somehow. When they approached him, he
+was sitting on an outdoor toilet handling business. Maybe reading a
+newspaper or smoking a cigarette? The other two or three people walk
+up and potentially say his name. When they do this he stands, reaches
+around his body, and gives a single wipe before addressing the other.
+I think he pulls his pants up at this point."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

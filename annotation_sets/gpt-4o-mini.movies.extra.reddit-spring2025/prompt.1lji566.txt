@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Obscure (even in my head) 80s movie. This movie rattles
+around my head for the last 40 years or so. What I recall - group of
+adults hide out in the country to escape, what I think is, an upcoming
+nuclear strike. Their kids are also trying to get there with a
+teenager driving them in a station wagon. I kind of remember one kid
+peeing his pants. Thats all I remember. Anyone that can figure this
+out gets all the respect."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

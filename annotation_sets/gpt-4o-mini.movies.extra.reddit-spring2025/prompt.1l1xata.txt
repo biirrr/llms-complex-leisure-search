@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help!. There is a film or series where a male actor
+acts as a girl and there is a mum with curly ginger hair (popular
+actress In lots of things quite large and old with brown eyes) the
+girl is always asking the mum for money for rent food etc and takes
+money from her purse and her brother tells her to stop asking their
+mum for money. Its the mums birthday and the brother has paid for a
+holiday for her the girl thinks shes coming and the brother says Im
+not paying for a ticket for you, and dont ask mum for the money you
+will have to get the money yourself. She got the money and said shes
+coming on the holiday but could only afford a one way ticket and she
+will figure it out when she gets there what is it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

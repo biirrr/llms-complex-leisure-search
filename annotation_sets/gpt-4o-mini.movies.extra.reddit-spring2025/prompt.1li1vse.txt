@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s/90s People from the future taking people from the past.
+people from the future(I think they were all women) pop into the past
+and take people before they die and replace them with a dead copy.
+they put the people from the past into stasis and the movie ends with
+them reversing the time portal so all the people they saved can jump
+to the far future where earth has gone back to normal. the people from
+the future all smoked too, something about how the air in the past was
+too clean so they had to smoke to keep from going into shock or
+something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

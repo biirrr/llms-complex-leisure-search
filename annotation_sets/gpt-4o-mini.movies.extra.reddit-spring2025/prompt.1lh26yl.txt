@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this movie. So I saw this movie about a few
+years ago. It's about a woman whose husband gone missing. The wife
+goes to the police for help and while the police investigating all
+evidence points to the wife (for example she isn't showing in the
+outside how much she miss her husband, she is the quiet type, and she
+took her pills with alcohol if i remember correctly) , but only the
+wife's psychologist believes that she is inocent, he helps her. In the
+end of the movie the wife's daughter disappears too but she find a
+video about the daughter and her best friend. The best friend and the
+husband are lovers and they wanted to start a new life togerher with
+the daughter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

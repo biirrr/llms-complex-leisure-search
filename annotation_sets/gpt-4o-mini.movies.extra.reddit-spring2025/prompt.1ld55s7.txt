@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help finding 70s? Movie. have no idea what the plot was, I
+was young. All I remember it was black and white, seemed to take place
+maybe in an asylum? This woman had been caught stealing jewelry (I
+think?) Beautiful shots of the gems. Like I said, I was probably 6 or
+7, no idea why I was watching it, just fascinated and seduced by the
+diamonds? I know it's not a lot to go on. And I saw it in the 70s, but
+maybe it was older? Was NOT Cocteau's Beauty and the Beast. I feel
+like there were gas lights outside, too? Blarg. Such a long shot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

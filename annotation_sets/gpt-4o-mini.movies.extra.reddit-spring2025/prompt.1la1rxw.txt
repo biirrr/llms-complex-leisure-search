@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What is the title of the movie?. I'm looking for a movie
+that has a prophecy about the seventh son of a seventh son. The
+protagonist was a 12-year-old boy. His family was very poor. He had
+several brothers, but he didn't believe it because he lost sight of
+the fact that he was the sixth son. However, he discovers that he had
+a second brother who was kidnapped as a baby, thinking he was the son.
+It's not The Seventh Son from 2014."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "horror movie with an evil box??. ive been looking for this
+movie for years and i can never figure it out! i believe its from the
+early 2000s-2010s. if i remember correctly its a group of paranormal
+investigators and they are at a house (in the woods or somewhere
+creepy i think) doing some recording. i remember there being a wooden
+box that is like possessed. it would be placed on ones head and
+locked on and the person would become possessed and i remember that
+happening towards the end of the movie to a girl."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

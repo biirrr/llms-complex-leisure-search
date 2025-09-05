@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s???] Pokémon Ripoff. Genre: Open-ish world,
+monster-catcher type game Graphics: 3D, but in a clunky old style
+Notable Characters: You can customise and make the MC. The game starts
+with your parents Other Details: I think the plotline involves
+something happening to the MC's mother before you set off on your
+journey. This game was the Google Play Store, so I'm not sure that
+it's still available."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

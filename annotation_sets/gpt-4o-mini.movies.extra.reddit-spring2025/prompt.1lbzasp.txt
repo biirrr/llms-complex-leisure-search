@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Killer stabbed with a crystal bird feather (possible
+giallo). So I was watching The bird with the Crystal Plumage recently
+and I thought I had seen it before. I could only recall one scene that
+I remember with almost perfect clarity but as I watched the movie, it
+became clear that I was confusing it with something else. I have a
+very clear memory of a movie that ends in a dark room, almost
+completely black, with a bright red drape or fabric on the floor in
+which the protagonist and the killer in the movie have a fight. There
+is a large crystal statue of a bird on a table nearby and the tail
+feathers can be removed. In the struggle, the protagonist manages to
+get a hold of one of these feathers and stabs the killer which ends
+the final confrontation. I suppose that due to the climax of this
+movie having a literal bird with crystal plumage as a major factor, my
+mind naturally confused it with the 1970 Dario Argento movie. Did I
+watch some sort of homage to Bird with the Crystal Plumage or a
+knockoff movie or something. I feel like I gaslight myself with false
+memories. Any help would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

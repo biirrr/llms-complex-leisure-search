@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A musical movie. I first saw the movie on ABC Family back
+when it was called that. It was about a girl's parents who are
+divorced and something happens to them and turns them 17/18 and they
+spend the majority of the movie dancing around the daughter who is
+getting married as well and I don't remember how the movie ends but it
+had an amazing sound track. One of the cheetah girls was in the movie
+too I think her name was Adrienne."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

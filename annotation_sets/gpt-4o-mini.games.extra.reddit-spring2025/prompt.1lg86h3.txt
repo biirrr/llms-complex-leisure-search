@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, steam(?)] [Likely between 2022-2023] Some sort of
+comedic parody of souls or Elden Ring where you eat gnomes. I've been
+searching for this game on and off for a couple of years now and it's
+gotten to the point where I'm beginning to think I'm going crazy. I
+was introduced to the game via a playthrough on YouTube, but I can't
+recall much besides the tutorial. I remember the lets-player
+describing the game as a """"""""comedic knockoff of Elden
+Ring/Souls."""""""" The game's style was a lot more simplified and
+more cartoonish than Elden Ring's. The gameplay worked much like Elden
+Ring's as well with the movement and combat system. After the tutorial
+there was a boss fight in an outdoor arena, however I can't remember
+what the boss looked like, only that they were large and beast-like.
+The key detail I remember most clearly is how the player had to eat
+gnomes to restore HP. During the tutorial the player was instructed to
+destroy a crate/barrel and inside was a little gnome who began running
+away from the player and once caught there was a message that appeared
+on screen declaring that the gnome had been caught and/or consumed.
+(The game is NOT Gnomes vs. Knights by the way, nor is it based on or
+associated with the trend either.) Some of the information I've
+provided may not be entirely accurate since it's been some time.
+Besides the gnome consumption part, that *definitely* happened."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

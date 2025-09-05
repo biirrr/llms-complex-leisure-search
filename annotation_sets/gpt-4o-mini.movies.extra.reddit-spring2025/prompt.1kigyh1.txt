@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "movie where giant guy accidentally crushes his girlfriend. i
+have a distant memory of a movie i watched as a teen. possibly anime.
+all i can remember is a male character becomes giant and he's holding
+his tiny girlfriend in his hand, then he accidentally crushes her with
+his hands, because he wasn't used to this new strength he had. he then
+flips out i thought it was Akira, but i just rewatched it now and
+Tetsuo crushed Kaori inside himself, not with his hands. i wish i had
+more details!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

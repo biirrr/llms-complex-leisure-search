@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find out a old movie about the young boy and old
+man in sea. Hi, Im trying to find a live-action movie I saw on
+Australian TV many years ago. I only watch a little bit of the movie
+on TV so I don't have a lot of information. The movie is probably from
+the 70s, 80s, or 90s or early. It featured a young boy and an old man
+going on some kind of sea adventure possibly involving a boat, maybe
+treasure or a quest. The movie was in English. It was probably
+American or European movie. The story might be set in a fantasy world
+and medieval tone. The most scene I remember is this: * The old man
+suddenly seems to hallucinate, he's playing cards with people who
+aren't really there, and at some point, the old man seems to be tired
+and his body is slowly collapsing (start to look skeletal or zombie) *
+The hallucination ends when the young boy shouts and shake him or
+wakes him up. * The old man seems to be happy and appreciated for what
+the young boy did. Whats sticking in my mind is that the movie title
+might have been the the old man's name or something like """"""""the
+adventure of..."""""""" or """"""""wonderful of..."""""""" in the
+title. I could be wrong about this. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

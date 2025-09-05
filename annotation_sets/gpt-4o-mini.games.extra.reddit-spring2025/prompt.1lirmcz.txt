@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[fake pc game] [late 2010s?] looking for a fake creepypasta
+game series on youtube. I first found this creepypasta from a youtube
+video explaining the whole thing. From what I remember the story was
+that the narrator's brother had died and he left a game he had
+created. The visuals of this game were mostly greyscale and the main
+character was an anthropomorphic animal. It was a frustrating
+platformer game and it's pause screens had thoughts from the main
+character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

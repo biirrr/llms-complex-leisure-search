@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Cabin Horror/Suspense. Hi all, this movie came up as a
+suggested next watch on a streaming service a while back and I haven't
+been able to find it again. The story is that a group of friends was
+in a car crash which killed one of them, as a way to grieve they go to
+a cabin to get their minds off it. There is a scene at the wake where
+a family member (uncle I believe) yells at the young protagonist
+(female) saying it was her fault, I think, and wishing it had been
+her, then a friend steps in to diffuse it. At the cabin someone starts
+hunting the group of friends and it ends with a revelation (it was the
+uncle). It didn't seem at all like a big budget movie and no actors
+that I could recognize/name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

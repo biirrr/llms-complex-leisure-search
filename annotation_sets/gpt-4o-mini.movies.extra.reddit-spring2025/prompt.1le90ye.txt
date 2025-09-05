@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie-A kidnapped child is found but is now a vampire
+or is evil. I watched this movie many years ago, I wanna say early
+2000s. All I can remember is the last scene. It's a snowy crowded town
+and the father of the kidnapped child spots him but as he thinks about
+approaching him he sees that he's accompanied by the person who took
+him (a vampire or something). The child is now a vampire himself or is
+evil. I really want to say the child makes eye contact and winks at
+his dad or gives him a smerk to show his fangs a little bit maybe? Idk
+I also have a faint memory of the little teapot being sang sometime in
+the movie. I have searched for this movie on and off for years and
+never find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

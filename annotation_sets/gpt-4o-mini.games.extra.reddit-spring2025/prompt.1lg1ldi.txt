@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2006] Hand-drawn point-and-click adventure game, set in
+a post-apocalypse. I remember playing this game on the family computer
+ages ago and have never been able to find any trace of it. Hoping this
+sub can help out. What I remember: * I got the game off a freeware
+site, 95% sure it was download.com but might have been TuCows. *
+Pretty sure the title was one word and ended in an exclamation mark,
+like """"""""Apocalypse!"""""""" * Hand-drawn graphics/sprites, but
+not particularly """"""""artistic,"""""""" they were quite amateurish.
+* The game had a humorous tone similar to the Monkey Island games. *
+The game's """"""""villain"""""""" had a hunchback assistant called
+Igor (that sticks because I didn't know it was a Frankenstein
+reference at the time, when I finally saw Frankenstein it clicked)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

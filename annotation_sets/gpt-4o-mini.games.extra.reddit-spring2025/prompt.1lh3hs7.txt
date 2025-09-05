@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox][2010s] help me find this game plz. it was a console
+game on xbox and i remember being able to use zip lines and do tricks
+on them and stuff and i think it was the main form of transportation
+and the enemies were like zombies it was a very colorful game soda or
+some type of juice i think was a big thing in this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Film where a couple hosts a young woman who tries to take
+the husband. I saw only one scene from this on social media but now
+can't find it... here is roughly what I remember \* Man is sitting out
+by his swimming pool and a young woman approaches him and starts to
+flirt, it makes him uncomfortable and he turns down her advances \* He
+goes back inside and talks to his wife, who is black (he's white) \*
+the conversation indicates that perhaps they have an open
+relationship, but this young girl is off limits because she is living
+with them, or they are working together, or something to that effect
+\* It seemed to be a fairly recent movie"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

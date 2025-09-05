@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "shooting the grim reaper. I think it was the last scene of
+the movie. A group of people was in a house, and a death/grim reaper
+walked in. One man tried to shoot death, but it didn't work. Then they
+all died and their souls walked outside the house and entered a car i
+think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

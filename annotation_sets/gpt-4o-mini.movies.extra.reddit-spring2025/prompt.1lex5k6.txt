@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Human Chess. I have asked this question before, driving me
+crazy. Looking for the name of this movie or whatever. Been so long.
+This was game of Human chess pieces on ground. The chess piece queen
+has to make her decision on making her moves without sacrificing her
+children or children in general. Anyways, each one who is sacrificed
+would be taken to the back and executed one by one. You would hear gun
+go off then silence and back to the chess game. In the end all who was
+heard being shot were alive. Dont know if the Queen was being tested.
+Again don't remember exactly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a bunch of people trying to be the last survivor
+in a house to win a million dollars. I believe it was a British film.
+Basically, a bunch of people are stuck in a house (willingly I
+believe) in a competition for a million dollars. To win they have to
+be the last one in the house. Food and drink is provided for them
+through an elevator thing. As time goes on, someone dies (I think they
+got shot?) and everyone freaks out and some want to leave but they
+realize they can't escape. Then the food and drink provisions are
+being reduced so they're fighting for survival. Eventually, one person
+is the last survivor and a million dollars is given to her through the
+elevator shoot in a large duffel bag. She stands at the door and waits
+for it to open. When it opens, it's revealed that it is not an exit.
+Instead, it's a group of dead/dying people clutching their duffel bag
+with a million dollars in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

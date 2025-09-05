@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A childhood Film. Hello, this is vagur attemot to find a
+long lost childhood film. Its something like Tales of Treasure Island
+or escpape from.mystery island. anyway moving foward. It starts off
+with a young teen aged boy, he has a book. He somehow gets pulled into
+the book and wakes up on an island. Its very pirate themed. With alot
+of cheesy humour. On the pirates was a tall male (african i think)
+with a short blade that was think to thick (,interms of blade width)
+shaped with a curved angle. Main pirate is blackbeard look a like i
+think. Its really hard to remember for me, but i think the young boy
+had to find some treasjre which had the key or something to get back
+to real world. There was a weird cave/tomb tbey went into (big pirates
+head style tomb) which turned everyone to stone (i could potentially
+be muddling this part up with another film) I am sure the film ended
+with the boys nan or soemthing whonwas just reading the story and all
+was a dream, or was it ? Please i am hoping you beautiful folks have
+the answer for me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

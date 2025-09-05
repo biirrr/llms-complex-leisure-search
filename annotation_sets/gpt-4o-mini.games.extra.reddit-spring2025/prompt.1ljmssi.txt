@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [early 2000s] commercial flight simulator game. I
+know the console was Playstation but I'm not sure if it was ps1 or
+ps2. The game is as described, it's a commercial flight simulator, you
+get more points if you arrive at time and make the flight more
+comfortable for the passengers. I remember the game had bad graphics,
+and there was a flight attendant greeting you when you start the game.
+I don't remember enough bc I was 8 then"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

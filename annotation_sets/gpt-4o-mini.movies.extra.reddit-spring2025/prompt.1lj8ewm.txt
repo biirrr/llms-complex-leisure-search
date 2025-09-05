@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help me elijah wood/daniel radcliff is taking over my sleep.
+there was a movie me and my mother watched a while back and i am 1000%
+it was elijah wood because we went on a binge to watch his movies and
+there was a movie where he was the villian and kidnapped people and i
+SWEAR at one point a character walks into his home and elijah is there
+watching porn and at some point there is an outdoor concert and i
+think he brainwashes people??? very vaige ik but omg i can't remember
+what it was i legit made this account to figure it out PLEASE HELP ps
+it isn't manic i double checked."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

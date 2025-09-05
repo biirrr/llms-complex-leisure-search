@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trailer where woman threatens robber. So, my wife and I were
+on YouTube and in the last year we saw a trailer for a film where this
+dude goes into a gas station/convenience store to rob it. He's armed
+with a weapon, I think it was a knife. I'm pretty sure she was just a
+patron who steps in to interrupt it. He asks her if she wants to die
+and threatens her with the weapon. She looks at him with zero emotion
+and says """"""""maybe..."""""""" I've tried various AI, searched
+everywhere, can't find it. We only saw this trailer or ad one time.
+Terrible marketing job for something that looked awesome. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

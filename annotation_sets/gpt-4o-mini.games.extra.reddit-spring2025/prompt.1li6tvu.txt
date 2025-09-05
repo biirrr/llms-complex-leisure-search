@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Macbook/PC][2010-2016]Choicegamewhere you played as the
+voice of the dead mom of the main character named Rose.
+**Platform(s):** Macbook/PC, I downloaded it from an otome game
+website **Genre:** Horror (ish), choice game, point and click, visual
+novel **Estimated year of release:** 2010-2016 **Graphics/art style:**
+Visual novel like, so no animations usually only character over a
+still background and some scenes would have their own art, art style
+was similar to a japanese manga, like it was definitely stylized
+**Notable characters:** Main character was a girl named Rose who had
+dirty blonde hair and her side bangs covered her eye, super shy and
+reserved but that's because she's been abused my her mother. Her
+mother is dead in the game and you play as the mom who Rose still
+hears the voice of in her head. I think there was a family who played
+the piano, part of this family was a man who ended up being both a
+succubus and Rose's father. **Notable gameplay mechanics:** Point and
+click is all I remember, you picked the dialogue the mother would tell
+Rose **Other details:** There were five endings, I know one of them
+she kills/defeats her father, another one she goes crazy and she ends
+up going in a portal with her dad, who is carrying her bridal style,
+it seemed like they ended up together but they didn't know about their
+shared blood. This is all I know for sure happened, I can try to
+answer questions the best I can!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

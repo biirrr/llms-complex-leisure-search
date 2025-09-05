@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a surreal thriller/horror(?) I half-watched
+as a kid  dreamlike bathroom, mysterious hole, maybe a murder. Back
+in the early 2010s, I caught part of a late-night movie at my cousins
+house. I didnt finish it  I was a kid and got scared  but Ive
+never forgotten how weird it was. My memory might be a bit fuzzy, but
+heres what I remember: The main character (a guy) was in a surreal,
+dream-like bathroom space  almost like a hallucination or flashback.
+Things turned disturbing there, possibly including a violent encounter
+with another man and something involving broken glass. Then it shifted
+into a scene where hes either chasing or running from someone through
+a shallow marsh or freshwater area, with tall reeds everywhere. The
+whole thing had a very fragmented, disorienting feel. Eventually, he
+kind of wakes up and realizes hes kneeling on the ground near a
+hole. Inside the hole is a man's head  and it somehow ends up in his
+hands. There were some law enforcement figures nearby who thought he
+was responsible. He looked panicked and scared out of his mind. The
+movie seemed to jump around with edits and flashbacks. What always
+bothers my mind is the memory of a bloodied man in a yellow shirt,
+lying in a boat or a barrel, also missing his head (might as well be
+the owner of the head). Thats all I remember. This could very well be
+a mix of real scenes and childhood confusion. Still, Id love to
+finally know what this movie was. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

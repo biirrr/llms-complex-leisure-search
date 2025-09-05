@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Long Shot. When I was kid (late 80s, early 90s) I saw part
+of a movie. It gives me the vibe of a made for tv movie (was that a
+thing back then?) or maybe it was an episode of a show, but I doubt
+that. It was a thriller/horror, and for SOME reason, I envision Carol
+Burnett playing this Whatever happened to Baby Jane vibe character. (i
+think) I was literally maybe 6yo when I saw it on tv. I don't think
+it's Carol Burnett, I've checked her imdb, but may have over looked
+this role. But it's a female, dressed sort of clownish, with bright
+orange curly hair in pigtails, and clownish makeup, and in this scene,
+I believe she's coming down the hallway, toward the camera, toward
+some stairs, and I think she was in someone's house. And she's, like,
+threatening, she's obviously off her rocker. This particular scene
+scared me, and just fed into my already existing fear of clowns. So
+it's always stayed in my memory, but I can't figure out what it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

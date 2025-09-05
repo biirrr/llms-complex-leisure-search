@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s movie with mom on a truck with small carousel. I
+remember renting a movie in the 90s, I think a little boy may have
+been witness to a murder, the hitman abducts the kid, mom goes after
+them. The guy steals a truck with a little carousel in the back, the
+kind on a sidewalk outside a store. Mom gets in bed of truck, but she
+keeps getting slammed into the truck window, stuck between the window
+and the carousel. It's probably the saddest yet most honest rescue
+attempt ever.... What was this movie???! Pretty sure this would've
+been after 1994, if that helps."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

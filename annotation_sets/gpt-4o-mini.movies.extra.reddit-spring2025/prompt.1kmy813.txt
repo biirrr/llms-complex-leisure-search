@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this action movie. Hello and please help me
+find this dam movie! I been trying to remember this movie for awhile
+now. I watched a couple of times when I was young at my cousins place
+and all I can remember are two distinctive scenes. 1.black lady losing
+it after she saw her lover maybe shot dead in another building while
+she is in another with a sniper and just starts blasting. 2. The other
+is a white guy who got facial reconstruction and pretended to be
+another guy and who pretends to be just another dumb bodyguard and
+just starts killing people he works with because it's actually is some
+evil master mind of it all. He pretends to be a Russian guy who
+doesn't talk much so that helps him and then kills like some fat black
+dude while trying to get rid of some evidence."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

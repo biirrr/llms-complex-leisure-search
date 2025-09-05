@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie with a masked swordsman (not zorro i think). A
+swordsman that looks like zorro is the main character and he is witty
+and funny i cant remember the name and only remember one scene where
+he is fighting someone, another grear swordsman and they have a
+conversation about not being left handed while both using their left
+hand to fight then switching to the right hand I cant find it
+everything i find leads me to the mask of zorro and he doesnt look
+like him"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

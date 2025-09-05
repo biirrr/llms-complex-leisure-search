@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie with little girl.. So there's a Caucasian girl talking
+to a woman by a tree. The tree has a bunch of things hanging from it,
+photos maybe? And the exchange between them goes something like: Girl:
+""""""""But you're not a bad person."""""""" Woman: """"""""Just
+because I'm not a bad person doesn't mean I haven't done bad
+things."""""""" Then later the girl talks to a Caucasian man with a
+guitar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

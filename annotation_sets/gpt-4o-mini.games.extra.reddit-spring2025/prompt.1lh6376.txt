@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [LATE 90's or EARLY 00's] Yellow and Red car game..
+Hello. I'm looking for an old game from the late '90s or early 2000s.
+It could have been a DOS game or something more recent. I remember the
+game starting in a square-shaped suburban area with a low fence. If I
+recall correctly, you could drive a red and a yellow car, even in
+split-screen mode. I don't remember there being any specific
+objectives, but maybe I was just the only one who didn't play it
+properly. One thing I clearly remember is the hill on the side of the
+track that you could jump off. That's about all I can recall. I don't
+think it was a big or well-known game, because I've checked most of
+the famous car games. I believe it might have been from a small
+publisher."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

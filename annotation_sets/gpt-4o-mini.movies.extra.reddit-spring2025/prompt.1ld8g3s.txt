@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I'm looking for a very old movie that I think should be
+quite well known, 30s-40s-50s. A couple (or siblings) rent or buy or
+inherit a remote house, I think near a wild sea, once they get home
+for some reason they go to the attic and probably find a painting of a
+beautiful woman, maybe then strange noises are heard, at some other
+point they talk to a lawyer/notary and maybe they are not satisfied
+with the house, I think the woman/sister is more afraid and doesn't
+want to stay in this house, maybe there is also a vision of the woman
+in the ghost window ={? if you understand who I'm talking about,
+please don't reveal the end of the movie to me because I want to see
+it in its entirety this time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

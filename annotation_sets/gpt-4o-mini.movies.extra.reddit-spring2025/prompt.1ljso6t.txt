@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Vampire movie (90s maybe?). Sorry in advance as this may be
+a bit of a long shot as I can only remember this one part. At the end
+a vampire wants to take a child to raise as his own, he wears all
+black, has a cane and has long grey hair. They draw marbles to
+determine who has to give their child to him and i believe the main
+character draws the black marble, then it cuts forward to the future
+when they spot him and the child, now grown up faces the camera to
+reveal he is now a vampire too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

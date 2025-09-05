@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "maybe 13-15 years ago?. When I was probably around 12-14 I
+remember watching an older anime film with with my father. I remember
+little bits and pieces but one thing I remember vividly is a scene
+where a little girl puts on a pair of pants her mother had been
+repairing, and the needle was left in the pants. When the girl sits
+down the needle jabs her in the butt. I remember very little else
+about the film other than the fact that it was definitely a tragic
+story. I believe the girl, (a younger sister) dies of cancer later in
+the film? I cannot recall if this is implied to be a result of the
+nuclear bombings of Japan but that seems likely. It is not Grave of
+the Fireflies."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help trying to find a weird niche tubi movie!!!. All I
+can remember from this movie is it was truly bizarre. There was like,
+this ugly looking mutant being smooshy faced (I think), short (I
+think)guy, and his family members, and they lived together. The main
+mutant smooshy guy had some kind of super mind control, and controlled
+his other weird looking family members, I think maybe there were twins
+(Or just one)? that had super strength, like they all had elevated
+powers, but I dont remember any of the other powers/characters, but
+the main smooshy guy was able to control the movements of the other
+family members, and I believe he made them kill people or something
+like that. I know theres a lot of blank spaces, and tbh I dont even
+remember if I saw the entire thing because I fell asleep and was not
+signed into a tubi account while watching, but I havent been able to
+find it ANYWHERE, so hopefully someone may have seen this rediculous
+movie and might be able to point me in the right direction! Thank
+you=8"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

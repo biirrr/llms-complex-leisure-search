@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding a movie i have no idea of the title.. The
+movie is about two asain brother one is short and alittle chubby he
+joins a gang and learns how to use guns. There is a screen when he is
+learning to use guns where he get excited and fires two at once the
+other brother uses martial arts. That's about all I remember from the
+movies should be from the 1980s or 90s. Any help would be
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

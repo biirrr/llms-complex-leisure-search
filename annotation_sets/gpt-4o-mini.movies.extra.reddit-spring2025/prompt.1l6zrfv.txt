@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Dude with a weird face is pointing a shotgun at a black
+dude, saying he'll make it look like he broke in. I just saw this clip
+on a YouTube short, and for some reason there was no comments saying
+what it was called. So there's a dude with a weird face, kinda like
+the Flesh from doctor who, pointing a gun at this black dude, talking
+about benny and he's gonna make it look like a home invasion. Suddenly
+this """"""""benny"""""""" rolls in with a wheelchair and shoots the
+weird face guy. Benny is wearing this blue Elvis mask. Black guy says
+something like """"""""man I'm sorry"""""""" and then benny kills
+himself. Didn't recognize the actors, but weird face dude kinda
+reminded me of littlefinger from got."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

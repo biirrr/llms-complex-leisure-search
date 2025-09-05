@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I cant remember this movie name can someone help me please
+=O. I remember this movie on Netflix from like 2016-2018 it was about
+this girl who was assaulted by this old guy who is known by the town
+as a dangerous person, and she wants to find him on her search she
+comes across this older gentleman and his friend they help her find
+the man who I think his name is like Black Water or Black Gate or
+something it takes place in a small town and it was snowing in the
+town"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

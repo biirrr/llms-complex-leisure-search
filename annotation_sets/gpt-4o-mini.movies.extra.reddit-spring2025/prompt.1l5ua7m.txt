@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Watched 20 years ago or so. Its all hazy as it always is of
+course. It was a movie apparently korean, approx 2000-2010. There was
+this guy who got jailed and he painted an eye on his palm and was
+walking around with this painted eye in his cell. I remember the movie
+had a distinct vibe but regarding the details - unfortunately this is
+it. Would appreciate any help from those with better memory/knowledge
+than mine. Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

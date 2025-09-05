@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Towel whipping. Im trying to remember the name of a movie,
+it has a scene with a dude who has a flashback of his time in school
+and he got whipped with a towel in locker room. The kid says to
+himself """"""""Never again"""""""" and then goes on a montage of him
+practicing towel whips and he eventually gets so good he whips and
+breaks a lock. The memory ends and I think the dude uses the towel
+skills to help at this part of the movie, i just cant remember the
+name of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

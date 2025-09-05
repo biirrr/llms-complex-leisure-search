@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "2000s British horror movie. Hello so I've seen this film on
+the horror channel about 10 years ago. It was a British 2000s horror
+about this teenage girl with her family and she gets possessed.There
+is a priest helping but it turns out he was just using her for
+research or money and not helping. Also when she tried to escape her
+demon self, she keeps being transported back into the same room that
+she just left. I also remember her brother getting knocked down by a
+car and one of her parents ending up in a wheelchair because she
+refused to be possessed. I've tried looking it up so many times in
+different ways but it's just hopeless. If anyone has any idea what I'm
+thinking of, it would be appreciated thank you all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

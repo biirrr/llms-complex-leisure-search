@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][Early 2010s] 3-d rally game where you could scope
+the map beforehand and choose your path. I have very fond memories of
+playing a browser rally game in the early 2010s. The key features: *
+Races were held on realistic environments in a variety of different
+biomes * Multiple car classes all racing together (maybe something
+like 20 cars in the race) on the map, including large trucks *
+**Before each race, you would be given an explorable view of the map,
+and you could set down markers to plot the course you wanted to take
+to reach the finish line. You could go fully off road if you wished.**
+* 3-d game with camera set behind the car * singleplayer game only,
+from my memory at least * a very wide start line and finish line * You
+had some sort of refillable boost, which I believe you could refill on
+the track (and therefore u could plan your course to drive to them)
+Unfortunately that's about all i've got for details, would appreciate
+any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

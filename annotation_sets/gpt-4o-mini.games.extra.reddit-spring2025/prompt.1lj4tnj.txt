@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][80s] Nostalgia attack. Rpg. You pick a character and I
+think maybe traits too. You travel through a maze encountering
+different characters and enemies. I guess you could say it's kinda
+like DND. Options come up on the screen and you choose which attack or
+magic or whatever. There's this old dude who's like a wizard or
+something with white hair and he's resting on his cane."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

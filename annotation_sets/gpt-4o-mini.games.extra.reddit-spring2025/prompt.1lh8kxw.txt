@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC or SNES?][Late 90s] 2D top-down shooter with CGI intro:
+woman pulled away by purple monster hand. Hi everyone, Ive been
+trying to remember the name of a game I played as a kid  likely from
+the late 90s. Heres what I remember: """""""" It was a 2D top-down
+shooter (you could walk around and shoot enemies). """""""" I thought
+it was on the Super Nintendo, but it may have been PC or even another
+90s system. """""""" It had a fully animated CGI-style intro, not
+live-action. """""""" The intro showed a woman (possibly a redhead) in
+a city environment (looked like New York). """""""" Suddenly, a purple
+monster hand came from off-screen, grabbed her, covered her mouth, and
+pulled her out of the scene. She screamed. """""""" I remember the
+intro had black text on a white background in an old-style font, like
+a news broadcast or emergency alert. """""""" It was not a horror
+game, more like an action shooter. """""""" I think the intro may have
+looked similar to It Came From the Desert, but the game itself was
+top-down and not set in a desert. Does this ring a bell for anyone?
+Ive been looking for years. Any help would be amazing!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

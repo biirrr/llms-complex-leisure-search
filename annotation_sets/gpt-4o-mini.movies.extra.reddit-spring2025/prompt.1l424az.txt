@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Fried eggs give woman PTSD due to her alien abduction.. It's
+a film released in the 90's about alien abductions. There is one scene
+I vividly remember where the main character is making breakfast and
+she looks down at the eggs in the pan which triggers her PTSD as the
+egg yolks remind her of the aliens eyes. I think it's a relatively low
+budget production, possibly made for TV. Found! Intruders (1992), it's
+a mini series. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows PC] [2000-2005] Dinosaur hybrid game. It was a
+survival, science experiment dinosaur game. It started with the player
+in a lab to make a dinosaur and decide if it was an herbivore or a
+carnivore. You were then simulated into a dinosaur world and given
+various quests including defending a nest of eggs from predators and
+gaining points from eating. It was also a top down 2D game. It might
+be older than the 2000s because we found it on HotU."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old movie where a sleepwalker sees a murder?. I was six
+years old and watch this on TV without my parents knowing. Had
+nightmares for weeks! So older than 1976. I have just fractions of
+memories but it was in a big house and someone sleepwalked and saw a
+murder or murders. I think there was hidden doors involved. Male
+protagonist who wasn't sure if he actually had seen something or was
+just dreaming. Does this ring any bell for someone? I really would
+like to see it again to find out what was so scary. Bear in mind I was
+only six so maybe it isn't a horror movie or even a thriller. Just to
+me! ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

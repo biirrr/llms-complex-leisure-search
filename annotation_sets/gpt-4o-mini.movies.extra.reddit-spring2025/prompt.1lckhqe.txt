@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where a bunch of criminals kinda adopt an android. It
+was kinda cyberpunk, and had a bit of action too. The actors playing
+the 2 main criminals were members of a band together in real life - I
+think they might have been from Norway or something too, but I might
+be making that up. One of them had a (dyed?) mohawk and the other was
+like white-blonde with a very cool haircut. Over the movie, the
+android slowly gains more &amp; more knowledge &amp; sentience &amp; a
+sense of self. I watched it about a decade ago, and I think it had
+been released just 2 or 3 years earlier."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

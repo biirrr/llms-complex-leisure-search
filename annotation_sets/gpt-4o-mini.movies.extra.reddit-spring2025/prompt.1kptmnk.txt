@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Late 80s Early to Mid 90s Movie. Please help! Over a decade
+trying to remember the name of this movie. This movie is about a
+troubled young man, late teens to early 20s. He went to live with
+relatives to get a new start. He arrives late at night and had little
+time to catch up. His cousin took him to his living area, a back house
+that was covered with foliage or something, not easy to locate if you
+didn't know it was there. Next morning, he woke up to greet his family
+in the main house but they were all dead, brutally murdered. I think
+the rest of the movie he is running from the murderers, trying to
+figure out who they are and what was is their motive. Thanks in
+advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

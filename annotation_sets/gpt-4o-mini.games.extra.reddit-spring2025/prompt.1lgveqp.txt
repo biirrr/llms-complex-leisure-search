@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] Shooter game where a grandpa presses a button,
+flips a table, and grabs a shotgun to shoot incoming agents. I used to
+play this game when I was really younglikely on a PC, maybe in
+browser or Flash, but Im not 100% sure. It started with a cutscene
+where an old man (possibly a grandpa) presses a button, which flips a
+table. He grabs a shotgun and starts shooting agents who come into the
+room. I clearly remember it being set inside a mansion or house, and
+the perspective was like you were behind the table, shooting at
+enemies in a stationary position (sort of first-person or over-the-
+shoulder, not side-scrolling). There was also a female character you
+could play as (or who appeared later?) who used an Uzi. I dont
+remember much elsejust the feeling of defending a room from waves of
+attackers while staying behind cover. Ive searched everywhere but
+cant find the name. It was probably from the 2000s or early 2010s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

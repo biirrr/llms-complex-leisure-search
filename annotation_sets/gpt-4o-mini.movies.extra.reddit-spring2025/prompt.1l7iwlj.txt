@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "HELP!. Old Movie (very much giving fever dream) about a
+little girl who gets into a car crash in a snow storm (I think the
+beginning of the film might be in black and white, but not sure?) and
+travels to a place where everything is bright and colourful. She has
+to go on an adventure to stop the evil man from taking over this
+place. I distinctly remember something to do with a big black ball
+(almost like the dog bomb things from Mario just real) rolling down a
+hill to stop the girl from getting to the bad guy, but I genuinely
+dont have much recollection of a anything else to do with the
+movie:("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

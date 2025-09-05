@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "2000s renaissance film.. I think it's a Johnny Depp movie.
+But my memory is hazy. It's setting is 1700s to 1800s or something
+around renaissance, not medieval. It's a dark movie about reality and
+people living in poverty in gothic Europe. Not sure if it's fantasy,
+action or just plain drama. The only scene I can remember is one of
+the protagonist fell in love with a waitress/hostess but the waitress
+said he fell in love with a corpse. I think she's suffering from
+severe tuberculosis and died after a few scenes. Not really sure about
+any of the stuff I said but would greatly appreciate any suggestions
+that fits these descriptions. Thanks in advance! It's not
+""""""""Perfume: The Story of a Murderer""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

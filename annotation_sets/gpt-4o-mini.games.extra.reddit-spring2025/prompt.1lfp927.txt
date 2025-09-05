@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][2008?] Does anybody know what game this was from
+Chuck E Cheese?. Me &amp; my brother would spend ALL of our chuck e
+cheese tokens competing together on this game. I have been trying for
+hours to track down it's name. All I know is - It looks like it re-
+uses the """"""""Rush"""""""" game series Cabinet, but the
+""""""""LEADER"""""""" text is missing below the game's name at the
+top. Also the logo at the top seems different (the 3 words on the left
+give me that impression) &amp; I remember playing it somewhere between
+2005-2010 It was a mostly night time street racing game, had a nitrous
+button, the UI is exactly what I remember from this image - the only
+unfortunate part is that the name of the game itself is missing. The
+article I pulled the image from unfortunately is just the guy saying
+""""""""I played car racing"""""""" haha If anybody could assist me,
+please do! Thank you https://preview.redd.it/j0w5qd0hxy7f1.png?width=4
+98&amp;format=png&amp;auto=webp&amp;s=7be6c9a3f55f67c4f8325cc0f6190a72
+8016e74e"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

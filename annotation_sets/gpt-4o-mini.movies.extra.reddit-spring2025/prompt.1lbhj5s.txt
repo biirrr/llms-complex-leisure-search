@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Two guys holding a gun in their mouth threatening to shoot
+themselves. So I'm not sure what it even was, a show or a movie
+whatever, but definetly comedy. I don't remember it properly, as it
+was over 5 years ago. One guy comes to another guy and they get into a
+heated argument and suddenly one guy pulls out a gun holds it to his
+own head (or mouth don't remember) and tells the other guy either you
+comply or I shoot myself. Then the other guy also pulls out a gun and
+does the same. Then it goes on and both say either you drop the gun or
+I shoot myself"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

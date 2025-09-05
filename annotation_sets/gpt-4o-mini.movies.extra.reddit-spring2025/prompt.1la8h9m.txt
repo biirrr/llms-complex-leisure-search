@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Fake Radiation Scare??. FOUND: Silo TV Series Thank you so
+much! \--- I don't know a lot about this movie. I think it had to do
+with radiation outside, so people were living together in some kind of
+bunker or something. They send out someone and they take off their
+helmet to breathe in the air, but they die. Someone figures out that
+there actually is no radiation outside but rather it's the suits or
+something else that is sabotaged/rigged to kill the person to make the
+others believe the air is still deadly. In the end I think the
+protagonist manages to escape and they breathe in the air and they're
+completely fine. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

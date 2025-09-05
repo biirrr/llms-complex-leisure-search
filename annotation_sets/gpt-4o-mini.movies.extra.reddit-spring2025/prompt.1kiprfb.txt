@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a movie.. All I remember is it is a comedy
+and there is a birthday scene where a pop up cake is rolled out but
+the girl hidden in the pop up cake was baked inside. Doesn't seem
+malicious but just a very stupid oversight. It's definitely not one of
+the Netflix movies. Any help with ease my brain of this would help
+with my hyper fixation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

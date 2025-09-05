@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a teen/adult sex comedy from the 2000searly
+2010s. I've been trying to find this bizarre sex comedy movie I saw
+sometime in the late 2000s/ maybe early 2010s, it could have been made
+early than that, it was just the approximate year I watched it. It
+might have been a french film, the version I saw was dubbed in French
+but my parents used to watch all movies dubbed in french so maybe it
+was not. It was a long time ago and I was a kid so heres what I
+remember: The story follows two male virgins, (maybe adults, maybe
+teenagers), who are trying to lose their virginity, and look like
+dorks or geeks. One of them is quiet, and the other is louder, both
+are perverts. The quiet one always wears a bucket hat, which was
+basically his signature look throughout the film. Theres a scene
+where the quiet one records his neighbors having sex through the
+window, and its played as creepy/perverted. Theres a weird visual
+gag where when they get an erection, usually from flirting or seeing a
+woman, their penis becomes comically hugelike an over-the-top, CGI-
+style visual joke. In the end of the movie they both get girlfriends
+and loose they're virginity, (I think the girls were potrayed as ugly,
+not sure) The humor was really childish, almost slapstick or
+cartoonish, but still had very adult content (sex, nudity, etc.). I
+remember thinking it was kind of dumb and absurd, but its a memory
+from my childhood I occasionally think about."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

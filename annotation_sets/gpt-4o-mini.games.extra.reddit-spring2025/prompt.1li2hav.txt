@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2000s, maybe early 2010s]Action MMO that was
+closed down years ago, but had a private server for a while.
+**Platform(s): PC **Genre: MMO, RPG, Action Combat **Estimated year of
+release:2005-2012 **Graphics/art style:Korean MMO, pseudo-realistic
+anime style **Notable characters: Nil **Notable gameplay mechanics:
+You could switch between two weapons, and it had a decent character
+creator **Other details: I think that the name was something like
+Hunterz or Slayerz, but Google doesn't give me anything."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

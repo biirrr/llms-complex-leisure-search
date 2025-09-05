@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade] [1989-1993] Like Shinobi 3, but not.
+**Platform(s):** Arcade Coin-Op **Genre:** Side-Scrolling/Hack-and-
+Slash **Estimated year of release:** Between 1989 and 1993
+**Graphics/art style:** 16bit(?) **Notable characters:** Like Joe
+Musashi, but not **Notable gameplay mechanics:** You play a ninja type
+tackling various enemies with a variety of interesting weapons.
+**Other details:** I remember playing this game some time between 1989
+and 1993, my parents owned a bar and this was one of the coin-ops. The
+title and text was in Japanese, so I never knew what it was called in
+English. You played as a ninja type of character through different
+themed levels. The only one I remember was a night-time forest where
+you could jump up into the trees, which had a bamboo look, and there
+was a large crescent moon in the background. I seem to remember one of
+the enemy types was a large, rotund type of giant, and one of the
+weapons your character could use was something like a length of chain
+with a crescent blade on the end. This may have also worked as a
+grappling hook? I know it sounds a lot like the first level of Shinobi
+3, but it's not. I've watched a longplay and the weapon, ability to go
+up into the trees and lack of moon mean it's something else. If anyone
+could help, you'd solve an old mystery for me! Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

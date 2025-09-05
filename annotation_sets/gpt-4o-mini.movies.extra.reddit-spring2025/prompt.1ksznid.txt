@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about detective, who visit a diner two times. Help me
+find this movie please! I remember part of the plot, but I may have
+combined two different movies in my head. There was an old man, a
+detective, maybe he was retired. He was trying to solve a missing
+person case, maybe a teenager, but nothing worked. In his
+investigation, he visited a diner where the owner was, or just an
+employee, and he just had lunch there. The case could not be solved
+and he abandoned it, or some time simply passed. After 3 years (I have
+doubts about this detail, because it seems like it could have been in
+another movie) he returns to this city and in the same diner solves
+this missing person case, maybe he found out that the whole city was
+involved. I dug through a bunch of movie collections, checked my old
+correspondence and sites where I searched for movies, but I found
+nothing. The only thing that matches the vibe of this movie is Girl in
+the Fog, it has a very similar shooting and initially I thought it was
+the same movie, but it didn't have the detail with the diner. Please
+help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

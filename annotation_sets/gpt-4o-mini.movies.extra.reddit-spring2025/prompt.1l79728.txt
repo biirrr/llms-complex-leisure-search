@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "looking for a 2000-2010s saw-like horror film. FOUND: Are
+you scared 2 (2009), just realized the antagonist was tony todd what i
+remember the most about this film is there's an antagonist that is
+similar to both pyramid head and jigsaw, but the villain is an old
+black male that has a cover on his face watching his 4 victims, which
+are teenagers, through hidden cctv's. From what I can remember the
+movie starts with these 4 teens vandalizing a car and running away
+from the cops to an old building, i have a vague memory of the other
+scenes but I also remember a sex scene between a black girl and a
+blonde guy, and one where they're being chased and the blonde dude
+hides his girl behind a door using a cabinet. Finally, there was this
+chase by the ending. idk how to end this post so if anyone has an idea
+of this movie, please lmk thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

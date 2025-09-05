@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding movie name. I have scoured the internet
+and used chatgpt and have had no luck finding this movie again. Heres
+everything I remember. I believed I watched it on Netflix somewhere
+between 2012-2014. It was maybe a kungfu movie and it starts with a
+guy I believe doing some kungfu on a car that is mid air in a modern
+day city. Theres also an old man with huge nipples that shows up in
+the sky to give our protagonist some sage advice or something mid-late
+movie"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

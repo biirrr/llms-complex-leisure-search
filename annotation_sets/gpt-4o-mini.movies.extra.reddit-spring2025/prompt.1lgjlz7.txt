@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "thriller/psychological. this movie is about a girl who lost
+her parents i believe (maybe just her mom) i remember her traveling
+all the way to some town with suitcase and this lady from a massage
+office welcomes her into her home and offers her a job. she ends up
+being this crazy stalker and burns down the place ???"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gameboy Original\Advanced][?] RPG game where you save a
+princess from a wizard.. Platform(s): Gameboy original/advanced Genre:
+RPG Estimated year of release: Not sure, but it was included on my 1
+in 100 or whatever cartridge. I played it in the early 00s, but it
+would have been older. Graphics/art style: like original Zelda however
+I am pretty sure it was either greyscale, black and white or limited
+colour. It definitely looks extremely similar to Final Fantasy
+Adventure. Notable characters: You, not sure if it was just a person
+or a knight. The princess, and wizard who takes the princess. I
+remember he was OP and I always struggled to defeat him. Notable
+gameplay mechanics: you search the scroll map like in original Zelda.
+You can find books which contain spells, weapons for upgrades and
+possibly armour? You could fight against random monster enemies to
+level up. Pretty sure one of which was a slime that bounced around.
+And talk to people. Other details: I dont think you could save, I
+feel like there were not side quests and cutscenes. Its not: - Knight
+Quest - Final Fantasy Mystic Quest - Sword of Hope - The magic of
+Scheherazade - Wizards and warriors 1 or 2 - Final Fantasy Adventures.
+(But it was similar!) - Ultima Runes of Virtue 1 or 2 - Rolans Curse
+(but this is extremely close) - Crystalis Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

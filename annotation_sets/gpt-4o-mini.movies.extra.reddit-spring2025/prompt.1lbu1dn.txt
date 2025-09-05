@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can someone help me find this movie. Its a animated kids
+movie that would have came out 2000s to 2010 there were 2 sisters and
+a dad one of the sisters had some sort of magic powers and the dad
+didnt know they were celebrating the magic sisters birthday and a
+fight kind of broke out late at night the magic sister sneaks out I
+remember she like flew off a cliff and the other sister non magic saw
+her. I remember she was going to either run away or meet up with
+friends"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "People LARP'ing a zombie apocalypse after hours in a
+shopping mall. Hi, the scene is a team playing as the humans in a live
+action role play of a zombie apocalypse once the shopping mall closes
+for the night. One of the team is a woman and both the humans and
+zombies are all friends of each other. Any help is appreciated, thanks
+in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

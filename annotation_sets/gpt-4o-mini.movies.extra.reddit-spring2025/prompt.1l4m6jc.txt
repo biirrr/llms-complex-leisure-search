@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Serial killer movie. I'm pretty sure I saw it on Netflix. I
+only watched the preview of it. A woman is in what looks like a clear
+cut forest with the killer and somehow gets his phone and calls his
+wife (while possibly holding him at gun point) and tells her
+everything about what he's done. I thought it was Don't Move but I
+just watched it and that scene was not present in the movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

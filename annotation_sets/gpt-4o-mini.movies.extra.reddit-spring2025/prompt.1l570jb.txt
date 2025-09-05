@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Dark Crystal& but not. I remember a movie we had on VHS that
+was very similar to the Dark Crystal style of movies made in the 80s
+and early 90s with the weird puppets. I have very few details that I
+remember about it unfortunately. I believe it was about a brother and
+sister on some adventure in a mystical place. There was a scene where
+they were trying to get up (or maybe down) a cliff and they covered a
+rock in magic goo, affixed a rope onto it, and then threw it up (or
+maybe down) the cliff. They then shimmied on the rope to continue on
+their way. Thats all I got. Please help! Edit: [The Argon
+Quest](https://www.youtube.com/watch?v=hgfO33RffXc) (1992) < The
+scene Im referencing is at 35:00."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

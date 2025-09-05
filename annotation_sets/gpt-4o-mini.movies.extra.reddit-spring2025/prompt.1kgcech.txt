@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90s serial killer movie where the killer is middle-aged,
+blonde, has glasses and works in a hardware store. I remember catching
+glimpses of it on TV in 2000s, as well as watching a top serial
+killers in movies video where he was in (couldnt find the video
+either). Only other thing i remember that there was a scene with him
+in a blue shirt during his store shift next to some TVs, as well a
+frame with him holding a video camera. Apologise for the vague
+description, but this movie has been nagging me for the past few days"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

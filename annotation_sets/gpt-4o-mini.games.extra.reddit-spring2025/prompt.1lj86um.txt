@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox One/PS4][2013-2017] RPG, playing as anthro characters
+but the combat is a fighting game. Been trying to find this game I
+believe was on the Xbox and Playstation digital stores. Your party was
+a mix of animal people and humans. I remember the unique thing was
+when you got into combat, it became an arena and played out like a
+fighting game. The art style was kinda cartooish, and I think a lot of
+the aesthetic was inspired by older rpgs and/or Asian martial arts
+movies? But the setting was more nature-focused I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

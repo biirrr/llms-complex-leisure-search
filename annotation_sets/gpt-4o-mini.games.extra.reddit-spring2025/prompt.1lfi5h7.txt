@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Game about a city that must survive by
+hopping from planet to planet, all while fending off a pulsating,
+virus-like threat attempting to reach and destroy it.. **Platform:**
+PC **Genre:** Sci-fi, Real-Time Strategy. **Estimated year of
+release:** Maybe around 2012-2015. I might be wrong. **Graphic/art
+style:** 2D visuals, top-down side view. Each round on a planet shows
+the whole arena. **Notable characters/factions:** A city that serves
+as the central hub for all resources, providing building points,
+ammunition, and teleportation points for activating teleporters.
+Various constructions by us, """"""""the city"""""""", aid in resource
+management, including laser cannons designed to disperse enemy mist
+and rocket launchers that intercept meteors periodically heading
+towards the battlefield. The primary threats are small, dot-like
+enemies appearing in the arena on each round, which pulsate a purple
+mist capable of damaging and destroying the city's structures, which
+ultimately covers the whole battle arena and destroys us. **Notable
+gameplay mechanics:** The game mechanics involve real-time unit
+deployment, beginning with dormant, grey units. Players are tasked
+with laying down 'connectors' across the map to establish links with
+their weaponry, thereby bringing them online when it's been filled to
+the brim with resource points. Each weapon boasts its own AoE,
+automatically unleashing lasers and projectiles to repel enemy mist
+nearing the city. A unique threat is the enemy's mist, which functions
+like an insidious tide, steadily filling the map from its lowest
+points upwards until it threatens to engulf the entire battlefield if
+unchecked. Our ultimate goal on each planet is for us, the city, to
+reach the pre-placed teleporters, connect to them using 'connectors,'
+and power them up to warp to the next planet, continuing the cycle to
+escape these mists. **Other details:** I might have played it in the
+Flash era, and the music is also similar on each map. https://preview.
+redd.it/lvb1tqonfx7f1.png?width=999&amp;format=png&amp;auto=webp&amp;s
+=fec05fc91d74b012036106dbff0f0ac64aa1d29b"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Most likely PC] [Unknown] Tutorial system turns crazy. I
+watched a playthrough of this on youtube a couple of years ago. It's a
+pixelated game where you're a little black character. i think a
+knight. The game system at first helps you and acts as a tutorial as
+you jump around but by the end of the game it turns weird and creepy.
+At some point, the climax, it takes form into a girl that crawls up
+and down the screen on all fours, chasing you as you try to run to the
+end (or to the top?). The girl is disfigured and glitched. I believe
+she had white-ish hair and pale skin. She was not pixelated and had an
+anime like artstyle. (this is not doki doki literature club). If
+anyone knows the title of this, i would be so grateful. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

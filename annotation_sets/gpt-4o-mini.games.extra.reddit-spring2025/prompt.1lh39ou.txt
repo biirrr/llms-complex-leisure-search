@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Pre 2013] Semi-realistic farming game.. A farming game
+where there was a well, main objective was to farm and keep away
+pests. I'm pretty sure your character is a girl. You cannot move
+around and you're stuck on one screen like those """"""""find the
+items in one screen"""""""" games. There was a map section and you
+could travel to different places. There was a day and night cycle
+clock on at the top of the screen and it was a hemisphere. Please help
+me I've been searching for the game for a while :D"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

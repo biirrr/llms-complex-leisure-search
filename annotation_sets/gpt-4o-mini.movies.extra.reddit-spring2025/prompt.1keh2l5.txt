@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie/tv show help. I remembered a specific event in a movie
+or tv show but cant remember what it is: At some point, a person is
+unconscious due to a traumatic event (might be mind torture) and
+someone puts like a magic wall inside their mind to protect them
+from the trauma. I think the person is not aware of the wall when they
+wake up, but at some point the wall doesnt hold and breaks. I cant
+remember anything else and it bugging me.. can anyone help? Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

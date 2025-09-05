@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I think this movie from another universe bcs nobody can help
+me to find it, I beg you!. I was maybe 8 years old, with my older
+brothers and sisters, one holidays we had fun, and watched the movie
+from TV with commercial breaks, and I don't remember actors well,
+movie probably from the 2000s USA. It takes place in the summer. The
+main characters are a skinny young guy with a dark hair and no beard,
+he and a group of friends (girls and guys) go out of town, drink in a
+bar, then they meet another group of people, they play a game with
+them on the lake where they try to push each other into the water
+while sitting on their friends' shoulders, where one girl pulls out a
+tuft of hair on his head while trying to push him into the water, and
+laughs at it. Then they are in a country house of some adult man, this
+man will have a pregnant woman in the room, by the end of the film she
+will give some horrible birth in the hallway. Then by the end of the
+film this man will start killing this group of friends, but then the
+main character wakes up in a bar and everything that happened was not
+real, all his friends are alive. I'm not native eng speaker but I did
+everything I could. Now I'm 28 yo and never in my life did I see even
+blink of this movie ever again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

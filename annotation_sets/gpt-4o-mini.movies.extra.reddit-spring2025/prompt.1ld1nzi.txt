@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie where group of people are abducted from a
+vacation home and forced into strange experiments. Hello all! I
+watched this movie I believe on Comcast On-Demand probably in the
+early 2010s but can't be sure. Some specific things I remember about
+the movie are: I believe the vacation home was very strange like made
+out of concrete kind of brutalist? Pretty sure the place they get
+abducted to is some facility under the vacation home. (Its not Cabin
+In The Woods) Think the vacation home turned out to be a house one of
+the characters was watching for someone he worked for. Two of the
+people abducted are strapped to medical tables, one is given an
+injection of some kinda of bioweapon and the other is the control but
+they don't know which is which. They manage to escape but of course
+the one who got the bioweapon dies while on the run. One person gets
+tied to a pole in a basement (parking garage maybe?) and is shot while
+another has to perform emergency first aid on them. Starts with the
+movie's antagonist shooting them in the arm or leg, then the stomach,
+so on. Pretty sure it was a b rater horror film. I'll try to think of
+more details but if someone has any leads or ideas I'd really
+appreciate it! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

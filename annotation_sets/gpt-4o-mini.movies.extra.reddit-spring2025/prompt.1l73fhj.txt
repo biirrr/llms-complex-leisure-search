@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "in a club/rave, dancing, performance art. i only saw the
+trailer, it featured a woman with many other dancers that seem to
+dance non-stop and the overall vibe i got was that its a type of
+horror or its supposed to scare you? All i know is that they danced
+nonstop and its not strasbourg 1518. I think it took place in one
+setting?? its like a club or a rave or a dance room with mirrors i
+cant remember TT"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

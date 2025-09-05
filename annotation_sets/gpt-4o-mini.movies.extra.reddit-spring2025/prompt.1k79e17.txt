@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Ive seen it a million times but Im blanking. Whats the
+movie where a girl zones out watching a boy she likes in class and in
+her daze runs her fingers through his hair before realizing what shes
+doing and runs from the room? I feel like they were in maybe band
+class? She was sat behind him but a bit higher up. Help =)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Sci-fi alien interview. This may be a short film, Ive only
+seen a clip of it a while back, but it looked recent (within at least
+the last 20 years) and high quality that makes me believe its closer
+to the last 10 years. My memory is vague so some things may be off: An
+ordinary man and an alien are having a discussion in a room, sitting
+down at a conference table. The alien is almost completely hidden in
+the dark, with maybe only his eyes being visible and maybe a vague
+outline shape of his head. The human is in the light and can be seen.
+Both seem calm and the human is interviewing the alien or at least
+just asking questions. I believe the questions are around alien
+technology, how is the alien able to understand him and communicate
+and possibly even philosophical questions like the meaning of the
+universe and life. The alien tries to answer all the questions, but I
+think for some, he says he cant because the human wouldnt be able to
+comprehend. I think the clip I saw even has the alien saying something
+like youre asking another question that I cant answer as if maybe
+they already had discussed certain questions cant be answered or at
+least that he may not be able to answer every question. Ive looked
+everywhere for this and starting to believe that it may not be a full
+length feature film and must either be a short film or something. Does
+this sound familiar to anyone? (Just as a heads up, Ive been
+suggested that it may be Arrival (2016) and can confirm that is not
+the film)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

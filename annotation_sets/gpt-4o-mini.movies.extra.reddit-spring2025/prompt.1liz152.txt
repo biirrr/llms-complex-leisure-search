@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help with an 80s or early 90s movie. I only remember a
+couple of small scenes from this movie. There was a guy trying to get
+some information from another guy and he straps him to a chair in an
+almost empty house. He pulls a cord out of a lamp and sticks the two
+wires to the guys temples to electrocute him. Its eerie because
+theres no sound when he sticks the wires to his head. You just see
+him shaking and gyrating around. A scene or two later the electrocuted
+guy walks into a restaurant and sticks his face under the fountain
+drink machine and gets a drink of orange juice or something. Thats
+the best I can recall. TIA for the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

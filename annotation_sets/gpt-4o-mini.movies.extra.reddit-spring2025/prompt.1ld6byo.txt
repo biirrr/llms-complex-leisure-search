@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Lookin for an older movie. My stepdad, who was a boomer if
+that helps with the timeline, had shown me a movie that was an alien
+body snatchers type deal, but it wasnt Invasion of the Body Snatchers
+nor Invasion from Mars. It starts with a boy whose dad gets taken by
+aliens that arrive in an intensely bright light, and is taken to some
+crater that is later revealed to have an alien base underneath it,
+which can be accessed by some kind of sinking spots like quicksand in
+it? It always made me think of Pokemon Mystery Dungeons, the desert
+stage where you fall through the quicksand into a dungeon below. His
+dad comes back, notably fussing with a weird wound on the nape of his
+neck and having less ability to emote or show emotion. Later on his
+mom also gets nabbed, and it goes through the whole sequence of him
+trying to save them, at the end its shown to be a dream, but then the
+lights that occur when stealing the parents away happens again at the
+end. I loved this movie so much but i just cannot find it. Appreciate
+yall!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

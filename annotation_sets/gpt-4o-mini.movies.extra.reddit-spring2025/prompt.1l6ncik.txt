@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A detective movie/series where the detective takes care of
+the murder victim's cat. I vaguely remember a movie or series,
+possibly a Netflix or HBO original, in which a detective, who is
+allergic to cats, is trying to solve the murder of a woman and takes
+care of her cat (which might have been at the scene of, and/or
+witnessed, the murder, I'm not sure). He uses gloves when handling the
+cat and later takes it to a shelter, but at the end he is shown
+carrying the cat in a pet carrier back to his home."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

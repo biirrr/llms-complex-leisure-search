@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about 4 black friends. Months ago I was watching clips
+of a movie on TikTok and cant find it anymore. The movie is about 4
+black friends but I dont know much about the plot, one of the scenes
+was the friends talking about one of the guys girlfriend, they all
+didnt believe him when he said she was fine and they make jokes about
+him so they go over to her apartment and she that she is very pretty.
+The second clip was of the guy finding his girlfriend on a date with
+another guy and he goes on a walk with her to talk things out, theres
+a repeated bit where the friends keep following trying to listen to
+their conversation until theyre asked for privacy. The movie seems
+older like 70s-90s and took place in a city. Thanks for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

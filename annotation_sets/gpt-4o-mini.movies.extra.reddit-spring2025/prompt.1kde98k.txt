@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a movie I saw when I was a kid on HBO. So I have
+only seen few minutes of it. Thriller Probably recorded between
+2000-2010. The scene I saw was: autumn, a couple is in a motorboat on
+a lake, with a shady guy they met a took with them. They have a big
+house near that lake. It was a darker tone kind of movie. There was
+probably some murder involved. Never after have I heard of this movie
+or seen any type of frames or scenes from it. EDIT: the place looked
+like it could be Canada or USA, it was dark, gloomy, autumnish/wintery
+vibe. The guy they were having on the motoboat i think he was having
+darker skin tone and dark long curly hair."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

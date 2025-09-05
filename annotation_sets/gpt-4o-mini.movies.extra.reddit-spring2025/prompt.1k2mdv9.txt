@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me remember this movie it's driving me crazy.
+I've been trying to remember the name of this movie for over a year
+and I'm wondering if it even exists. All I remember is this one plot
+line, of a young lady who comes into possession of a designer dress,
+either from a thrift store or inheritance, and she wears it to an
+event where she runs into some acquaintances either from her past or
+possibly her work etc. The acquaintances are all rich and think she is
+too because of the dress so they invite her to another party and then
+another. Both times she wants them to think she has another different
+designer outfit but she can't afford any so she tailors the one she
+has. She thinks she has them fooled but then there is talk of another
+event and the acquaintances all joke about how the dress is ragged and
+can't take any more alterations. That's when she realizes they know
+it's the same dress. I can't remember anything else but I think it's a
+2000s romcom type thing. Help me please I'm losing my mind. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

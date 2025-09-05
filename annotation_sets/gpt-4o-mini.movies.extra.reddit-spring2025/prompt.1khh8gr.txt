@@ -1,0 +1,38 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Does the plot of this romantic cooking movie, that came out
+between 2010 and 2021, sound familiar to anyone? Please post, if even
+part of the plot sounds familiar because I'm not 100% sure that I'm
+not confusing this movie with the plot of a similar movie set in a
+B&amp;B, with a celeb chef in hiding.. # I'm pretty sure the movie
+came out between 2010 &amp; 2021. I most likely watched it on Tubi,
+Crackle, Hallmark, UP Faith &amp; Family or Pluto. # The plot of the
+movie as far as I can remember is this: a woman comes back to her
+hometown, where her family's diner/restaurant, (possibly set in a
+coastal town, or lake town), is in some kind of financial trouble. I
+believe the woman is a chef, caterer or some kind of event planner. Or
+maybe not. I just remember she helped create the new menu and she
+disliked the head chef at their first meeting. # She clashes with the
+head chef (who I believe is a well known chef, in this movie's
+universe), that her father hired. I think the father is planning to
+sell the restaurant to the celeb chef but the daughter's arrival back
+home changes that plan. They have different ideas of what the diner
+should and shouldn't serve, with her thinking that his dishes are too
+fancy for their diner. They eventually end up compromising as they
+redesign the inside of the diner and the diner's menu. # They find
+love along the way. It was a modern style restaurant that changed its
+style and menu I also remember that the diner had red and white
+checkered tablecloths and their were booths as well as tables and
+possibly out door tables too. # Some of the details could have been
+from another movie, I hope not. I think there also might have been
+another restaurant in the town that was taking their business and that
+was one of the reasons why they were in financial trouble."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

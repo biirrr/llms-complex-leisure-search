@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I cant figure it out its driving me crazy >*. There was
+this movie I only saw once with my dad i cant remember much about the
+movie except there was a hidden lightning bolt symbol hidden in almost
+every scene like the lightning bolt on Harry potters head the kind you
+draw as a kid on a paper I cant remember much but the actor looks
+like Ben stiller what reminded me of this movie is when I saw it on
+the Roku screen saver screen and it was on the erupting volcano < and
+I was like omg what movie is it from people keep saying its from the
+hobbit because of the dragon anyways other scenes I remember is a
+large group going up the mountain in that symbol and it was like in a
+persons house on a vase or the flooring or something I want to say the
+movie is Zoolander but all the scenes I have looked up dont pull it
+up it feels like it was a spy movie or maybe it was like an average
+joe and they got married in the volcano or were sacrifices or
+something like that maybe Im crazy and Im just combining movies but
+I just cant figure it out please help me =5 =«"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

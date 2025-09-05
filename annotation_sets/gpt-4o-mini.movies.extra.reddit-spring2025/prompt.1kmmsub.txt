@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find the name of a movie from the 80s (maybe late
+70s). So I remember the opening pretty clearly and saw this movie as a
+child in the 80s. It starts off with a guy who is walking around some
+train tracks and sees a turtle. He goes to pick up the turtle when the
+tracks switch and his foot is caught. Of course, a train starts coming
+towards him but he struggles and can't free himself. As it comes
+closer to him he desperately yells """"""""Stop!!"""""""". The train
+comes to a stop. The conductor eventually runs out of the train but
+after some discussion, he says he didn't see the guy and never
+actually used the brakes (so the train stopped by itself). It turns
+out the guy who got his foot stuck had special powers to move things.
+I don't remember much of the rest of the movie but I recall liking the
+ending. And the beginning has always stuck with me... that image of
+him stopping the train. Any ideas what the name could be? I searched
+online and couldn't find anything."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

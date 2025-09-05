@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ROBLOX] [2015-2020] looking for a roblox infected/horror
+survivors and killers type game. i dont remember much about the game,
+but i do remember that the spawn point used to be in a house that is
+really similar to forsakens current spawn (picture shown) but a lot
+more horrorish, i remember it being a dark house that everyone would
+wait in until a round started, there were multiple things you could
+buy too on it im pretty sure, i cant remember much but i remember it
+having the weeping angels on a round, and im almost positive you could
+play as the killers too (like the weeping angels), i remember it being
+a infected type of system but i could be wrong"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

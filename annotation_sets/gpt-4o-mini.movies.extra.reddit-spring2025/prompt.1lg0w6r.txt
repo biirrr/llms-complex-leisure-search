@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I cant remember the film name. So its an animated movie,
+couldve been Chinese or Korean. It was about a genius boy, he could
+invent stuff like Phineas and Ferb, he even had a robot at home. One
+day he and his friends all go to space somehow, I dont remember why,
+and they have to fight aliens. There was like meatballs aliens, pencil
+aliens, and aliens that looked like devices(they were literally phones
+and computers) and they all had to build robots to fight each other in
+the arena. The villain was a green chicken emperor, I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

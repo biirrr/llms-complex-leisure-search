@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Some movie about a door to an alternate reality?. I remember
+seeing a few clips of it and saying I would watch it later but I didnt
+write down the name and I forgot. It was about a group of friends,
+dont remember how many but there were at least two girls. They do
+these kinds of urban explorations and wander on to a house that has a
+door in the middle of it. It is some sort of portal to another
+dimension and then weird things happened and there were a bunch of
+other doors to very surreal realities? like one in which there were
+giants and so on and I think they were chasing/fleeing frome someone
+through those doors. As far as I remember, production was very cheap-
+looking and acting was a bit weird. I dont really have hopes for
+finding it but any help will be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

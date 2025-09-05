@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2024] puzzle game with a fox in tank top. Platform(s):
+PC Genre: Puzzle, and a little of rogue lite Estimated year of
+release: I think end of 2024 beginning of 2025 Graphics/art style:
+it's like cartoons Notable characters: there is a ugly fox that is the
+player, is like a person disguise as a fox, wears a tank top that I
+think is yellow but I am not sure, there is no hair around the tank
+top, and the head is in profile but both eyes are visible like a
+turbot fish. Notable gameplay mechanics: is a puzzle game that you
+have to solve the puzzles following a book, you are in a forest or a
+swamp, and have other characters to talk, also at the beginning of the
+game you need choose between relaxed gameplay or with time trial, to
+resolve the puzzles. I saw it in a video a while ago but I haven't
+seen it again no matter how much I searched. I remember very well what
+the fox looked like, but little else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie about a mom who moves into a new house and her
+son goes missing in the walls. This is a horror movie about a mom and
+young boy who is her son and he ends up going missing. She doesn't
+know but he got lost in the walls of the house by going through a trap
+door, as the house is old. She ends up making friends with the ghosts
+of the house which are little kids who were orphans in the house. In
+the end of the movie she willingly goes into purgatory so she can be
+with her son and the ghost kids."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

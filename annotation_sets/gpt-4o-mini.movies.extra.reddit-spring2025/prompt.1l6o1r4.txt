@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I need help remembering a movie. Ok so all I remember is
+that it is a sad like 70s or 80s movie about a kid who lives a small
+town and is in highschool and has parents who are both junkies. A new
+girl comes to live and He thinks the girl is super pretty and tells
+her he is very rich and when a gardener calls him over he says that it
+is his family gardener when in reality he works for him. I dont
+exactly remember the ending but I remember it being sad and the kid
+maybe dying. The movie might be named after the kids name or something
+but I would really appreciate any help. Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

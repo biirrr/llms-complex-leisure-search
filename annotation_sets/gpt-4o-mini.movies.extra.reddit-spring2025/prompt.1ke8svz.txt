@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Murder Thriller based on familicide. So from what I
+remember, it was a familicide with a hand gun. It almost had a
+Lifetime-feel to it, but murder. I believe it was a male who
+annihilated his family. Or a woman. At least four victims and at least
+one was a child. Im for certain one was a young boy. In one
+particular scene, I remember him or her dragging/carrying them to the
+living room and placing them side-by-side and covering them with
+(white?) sheets. I believe this was the very ending, and there was
+much more to the movie than just straight murder. It was a fairly
+large house, Victorian maybe? Movie from the late 80s or 90s or even
+super early 2000s. It could have been based on a true story but
+everything Ive researched has come up null. It gives me big Stephen
+King vibes. This movie has been stuck in my head for years. And when I
+say that, I was around 10 years old, flipping through channels when I
+stumbled upon it. I think it may have traumatized me but I want to see
+if it actually exists or if it was just a nightmare. Help me solve
+this mystery! Many thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

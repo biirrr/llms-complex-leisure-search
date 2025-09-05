@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Not a movie but a TV show (hoping thats ok). Used to watch
+it when I was little. Was about an animal truck driver and his antics
+Had a friend and a sister I think? Who were the same species as him
+(dont know what) There was also a chicken and a crazy karate chick
+(child chicken) as well I remember there was something in the intro
+about how he was in the dictionary next to awesome or something along
+those lines Edit: found = Buddy Thunderstruck"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

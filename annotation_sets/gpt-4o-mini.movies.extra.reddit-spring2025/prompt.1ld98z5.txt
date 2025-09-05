@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old musical (movie). Whats the movie that describes the
+difference between empathy and sympathy. Its an old movie that has a
+lot of singing. I remember a man and woman being in a book shop. The
+woman is telling the man the difference in song. One lyric may have
+been about walking in someones shoes. The vibe is Roman Holiday or
+Pygmalion or something similar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

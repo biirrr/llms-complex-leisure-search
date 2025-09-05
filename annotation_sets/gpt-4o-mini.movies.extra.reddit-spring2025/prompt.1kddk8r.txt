@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie with an assassin with a blonde pixie cut and a pink
+bikini?. A movie scene was playing the other day and I wanted to know
+what it was called, if anyone knows. There was a blonde assassin (very
+stereotypical femme fatale I think) with a pixie cut and smeared black
+makeup. She was essentially wearing a pink bikini top and a very short
+pink skirt or shorts (Im not sure I didnt see very well). She was
+shooting at police with two guns and then got into a car with a guy
+who kinda looked like Woody Harrelson (he might not look like him at
+all though, I suck at faces). They then got into a car chase with the
+police. I thinks she licked the guys face at some point (she seems
+like a typical unhinged assassin thats common in action movies). I
+think there was also a couple whose son is missing? They were at a
+pool and were arguing cause the dad got a gift and the mom said that
+was his hobby last year and that now he plays football. Im pretty
+sure the movie was set in the USA, and I think that the actors were
+American (but Im terrible at accents and it was not very loud so I
+cant be sure). Does anyone recognize this? I was just curious what
+movie it is, and if really appreciate it if anyone knows. Edit: it was
+Transporter 2! Thank you everyone!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

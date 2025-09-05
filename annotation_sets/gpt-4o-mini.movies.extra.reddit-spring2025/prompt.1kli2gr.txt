@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "looking for this movie for ages. It's similar to Midsommar
+but different characters. The female main character used to be a
+famous singer until she met her cowboy Christian boyfriend that
+changed her life. I don't remember if they got married but they went
+on on honeymoon? or vacation without them knowing about the weird
+tradition or cult over there. The locals made the main character a May
+Queen. At the end of the movie, the boyfriend got eaten alive by the
+townfolks while the main character was unal!ved and displayed among
+the past May Queens."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

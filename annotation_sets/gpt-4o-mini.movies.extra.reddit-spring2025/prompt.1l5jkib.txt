@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a brutal early 2010s survival thriller: 3 men
+in the wilderness, one goes insane and kills the others. Likely a late
+2000s or early 2010s low-budget American survival thriller. Three men
+go on a wilderness trip, two are brothers (one experienced, the other
+less so), and the third is a friend. After one brother gets injured
+and can't move, the friend snaps, kills him with a rock, and then
+hunts down the other. &gt;!The movie ends with the killer finding the
+last survivor, killing him, and mounting his head on a wooden stake or
+trunk!&lt;. No famous actors. Very gritty, realistic tone."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

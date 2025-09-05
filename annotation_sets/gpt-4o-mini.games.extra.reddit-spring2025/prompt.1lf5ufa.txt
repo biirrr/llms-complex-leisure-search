@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Isometric pixel game about controlling zombies
+and infecting everyone on a level. For starters it was not
+infectonator. I remember that it was an rts with a slightly more
+detailed pixel style than infectonator (slimmer models, maybe less
+detail on the faces). If you weren't controlling the zombies directly
+I believe they would auto attack anyone near them. Although, I think
+the people would have to stumble upon zombies since they're really
+slow. Otherwise the maps were large enough where you had to scroll
+around to see all of them. It never felt like you were really rushed
+to complete or finish a level, just sort of dropped in and expected to
+guide the zombies around. The main challenge were people running away
+and cops or military guys. There was this mall level I remember really
+well. It had these escalators and a theatre area which always had
+people in it and was hard for the humans to escape from. It may have
+also had dynamic lighting but this I am iffy about, I just remember
+that it looked really neat. There was also this bonus level where you
+would be looking at sort of a void with a bunch of humans and you
+would have to spawn a zombie in and then move it to try and infect as
+many people as you could which was tricky since people are faster. I
+also want to say it had a vaguely 50s aesthetic (cuz zombies) but I'm
+not gonna say for 100%. I've tried looking for this I don't know how
+many times but can never seem to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

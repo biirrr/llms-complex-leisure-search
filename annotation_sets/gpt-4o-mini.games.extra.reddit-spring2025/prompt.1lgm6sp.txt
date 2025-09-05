@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018+]Katana Zero but with a staff. **Platform(s):** PC
+I may have seen upcoming on steam or on a reddit gamedev **Genre:**
+Action 2D platformer **Estimated year of release:** At least 2018...
+maybe 2020 **Graphics/art style:** Pixel, very similar to Katana Zero
+**Notable characters:** Protagonist is a girl **Notable gameplay
+mechanics:** It's very similar to Katana Zero but you are a girl with
+a staff. That was the main thing about it, staff fighting. **Other
+details:** Maybe the game never came out since I can't find it ?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

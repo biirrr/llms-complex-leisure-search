@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a golden dragon woman. When I was a kid, about
+10 years ago, I watched a movie on Fox/HBO/something like that (I
+don't exactly remember it) about a medieval kingdom that was fighting
+with other kingdoms or cursed. I'm not very sure about that, but I
+always remember that in that kingdom there was a golden dragon that
+turned into a golden woman to seduce the king or his son. They
+eventually have the deed and after that the king's army fights with
+that golden dragon and kills her by attacking a gem in her neck. My
+memory of the movie is pretty blurry since I watched it so many years
+ago and at the time was a kid. To me that movie was 3D animarion with
+pretty good CGI and a hyper realistic look, but I could be wrong and
+it could have been live action. If anyone can help me, I would greatly
+appreciate it since I am looking for that movie's name for years now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

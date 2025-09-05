@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][PC?] Trying to find a game with a ghost or
+skeleton playing guitar in a beautiful, melancholic cutscene. About a
+year ago, I saw a reel on Instagram showing a 3D realistic cutscene
+from a video game. There was a ghost or skeleton (or something like a
+spirit) playing a guitar and singing beautifully. The song was
+melancholic but also kind of beautifulthe whole vibe was emotional,
+and the character was not the main protagonist. A lot of people in the
+comments said the scene was amazing, and that the characters singing
+was powerful. The guitar had a dark tone, but the moment felt calm and
+emotional. Ive been trying to find that game for a whole year with no
+luck. Im 100% sure the game came out between 2017 and 2025, and the
+graphics were realistic (not cartoon or pixel art). Does anyone
+recognize what game this could be from?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where Rufus Sewell trips?. Looking for a movie that I
+saw in the late 90s / early 2000s (no later than 2004 probably, I
+remember watching it in our old house) with Rufus Sewell or someone
+who looks like him tripping and totally biting it. I think it was a
+comedy? It certainly was to me and the friend who rewound the scene a
+hundred times to laugh. I think he was walking quickly after someone.
+I have a vague idea that the setting is a vineyard or a club or
+estate, and the plot has something to do with wine? I say Rupert
+Sewell because I distinctly remember his slight difference in eye
+size, but possibly conflating the things. I cant find anything when I
+search so some of the details above MUST be wrong. Any ideas? Edit:
+Rupert to Rufus"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

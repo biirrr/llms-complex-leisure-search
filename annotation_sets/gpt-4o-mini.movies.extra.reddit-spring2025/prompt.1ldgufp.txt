@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a short movie (I think) of a cassette tape that
+was sentient and attacked someone?. When I was a kid, back in the late
+70s early 80s, I remember seeing a short movie (I think, though
+maybe it was from an anthology show?) of a guy who was attacked by the
+tape inside a cassette tape. It unraveled itself from the case and
+attacked a guy, wrapping around him completely and I suppose killing
+him? Suffocating him? I remember it freaked me out but I have never
+been able to find it. Anyone remember this or have any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

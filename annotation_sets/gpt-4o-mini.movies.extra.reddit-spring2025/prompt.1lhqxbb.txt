@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Funny kind of horror-ish movie?. I was thinking of another
+movie I only saw once.. Sorry for the long text but anyhow all I
+recall are: couple (or a family that soon got split I don't recall)
+end up at the mansion of a slight weird looking male, sit around a
+very large dining table at one point, then the couple were in a long
+hallway that soon had one end wall start to move onto them, after
+finding a small stuffed hallway closet they then finally found one
+not-locked door that opened in time for the couple to head into a
+small stairway just as the door then got crushed by the moving wall,
+upstairs through a trapdoor was an attic - and while the couple looked
+around a safe box quietly rolled itself onto the trapdoor causing the
+two to be stuck up there, they went to sleep on a bed whereas a nearby
+painting soon was seen having remote eyes where the weird male spotted
+them sleeping on the bed, the bed mattress did a 'barrel roll' or two
+which really woke up the couple only for them to then soon notice a
+small side trapdoor magically open up, turned out to be a slide 'built
+inside the walls', at a Y fork she went one way while he went other
+way, he ended up in a deadend that was located outside the weird
+male's bedroom, while she ended up getting ejected right outside the
+mansion itself close to where their car was located at only to find
+two (or few?) strange not-so-human characters a bit """"""""interested
+in her""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

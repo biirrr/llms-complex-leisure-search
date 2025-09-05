@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018]Please help me find these two games : number 2 the
+game about a pig. Hello, when I was younger I played games on Poki, an
+online games site on PC and two games left an impression on me even if
+they are not games that I really liked I would like to find them
+again. 2- It's a game where you appear in a city and you play as a pig
+the goal of the game is to destroy everything you can push objects to
+make them fall and you can freely explore the city, you can also use a
+jetpack to fly and you can change your skin to have different types of
+pigs, wild boars... The game was a solo online game on Poki, I played
+it when I was younger and I would like to find it again if you have
+don't hesitate it would make me very happy thank you a lot"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

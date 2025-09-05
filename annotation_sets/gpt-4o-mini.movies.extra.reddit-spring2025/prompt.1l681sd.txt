@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Hmm, what's that movie in which a zombie sorta man holds a
+woman to the floor and pukes on her face and then the next visual I
+remember is her removing the dried puke on a train with a woman
+looking over her.. Yeah I know the visual I remembered sounds gross.
+That's why I remember it ig."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

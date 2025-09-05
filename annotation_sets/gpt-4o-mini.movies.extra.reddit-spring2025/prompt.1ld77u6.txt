@@ -1,0 +1,60 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help identifying traumatic 80s/90s anime [warning:
+descriptions of gore]. TL;DR: late 80s or early 90s horror anime where
+a guy explodes into a bloody super saiyan looking thing with a wolf
+head sticking out of his shoulder who looks like a red Devilman with
+no pants which may or may not be a misremembered childhood nightmare&
+Long version: Not sure if this is the right place to be asking but I
+could really use some help identifying an obscure anime that
+traumatized me when I was a kid. This happened so long ago that Im
+not even sure if it really happened or if I just imagined it.
+Hopefully this will make sense to someone out there who has seen this
+too. I was like 10 or 11 years old standing outside a Japanese import
+shop at a tiny mall in Boston. It was some time in the early 90s
+before anime got really popular in the US. There was a tv in the shop
+window playing short promo videos of various anime movies. There was
+one ultra gory sequence that has scarred me for years and I cant
+figure out what its from. Ive searched all over Google but I cant
+seem to track it down. Maybe someone here can help me. All I can
+remember from the scene is there was some guy standing in a barren
+wasteland or arena of some sort, who kinda looked like Goku from
+Dragon Ball, going through some painful transformation; skin tearing
+in various places, sharp teeth poking through his shoulder, lots of
+blood, etc. The camera pans to a couple side characters sitting across
+from him, cowering in fear, (I think it was a girl with a kid, or
+maybe an anthropomorphic dog-person or something, idk its all a
+blur). So the camera snaps back to the guy whos now doing the
+vibrating with rage trope and screaming in agony, blood gushing down
+his whole body, then HE FCKING EXPLODES into a cloud of viscera and
+his skin splatters all over the poor secondary characters like a
+raincoat made of spaghetti sauce. Then the camera cuts back to his
+feet and it does that slow ominous camera pan upwards to reveal hes
+transformed into some muscular demon/monster/man thing with a werewolf
+head sticking out of his shoulder. And I think he was doing the muah-
+ha-ha Im so evil now! laugh. I dont remember anything after that,
+probably because I ran away screaming. I kind of forgot about it for a
+while afterwards. I think my brain repressed it until I was older and
+something unlocked the memory. I thought I finally found it a couple
+years ago when I discovered Devilman: The Birth from 1987. The main
+character looks very similar to what I remember, but he never explodes
+or grows a 2nd head in any of his OVAs so that cant be it. Does this
+sound familiar to anyone? Or am I mistaking a nightmare for an actual
+experience? Seems too specific for me to have imagined it out of
+nowhere but hell, I have zero proof of its existence so I really dont
+know anymore. **Final update:** Thanks to everyone for your help but I
+think its time to give up the search. Theres a good chance this clip
+is from one of those non-consensual tentacle movies, and trying to
+find it has led me down some fucked up rabbit holes that I find quite
+icky and depressing. Rather than subject myself to any more disturbing
+shit that I really dont enjoy, Im just going to say some mysteries
+are better left unsolved. Im gonna go shower for a couple days&."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] 2D puzzle platformer with recording mechanic.
+**Platform(s):** PC **Genre:** 2D puzzle platformer **Estimated year
+of release:** 2010-2016 **Graphics/art style:** Not sure but I think
+it had greyish or black and white silent film style. **Notable
+characters:** Playable character most likely had blocky or rectangular
+head. **Notable gameplay mechanics:** You could create a 'recording'
+of yourself, that would be able to interact with objects on the level
+or with you, you could stand on top of each others heads. The less
+'recordings' it took to beat the level, the better was the score.
+**Other details:** It is not Braid or Swapper. Not sure where exactly
+I played it but I haven't found anything in my initial search on Steam
+or Armor Games/Kongregate. I might have played a demo and not the full
+game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

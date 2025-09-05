@@ -1,0 +1,35 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "British?? Movie about a group of friends trying to save
+their favorite bar. So I remembered seeing this Comedy movie in one of
+those cable channels that had so many films from all over the world,
+so if I remember correctly I remember all the actors had an English
+accent and all film locations were probably from the UK as well as the
+atmosphere. The protagonists were these guys of different ages mostly
+middle aged and one or two young ones that used to gather at a bar.
+They mostly are a little dumb and a little weird There are some scenes
+I clearly remember and are as follows: 1 - These guys used to admire
+this man who liked to kick trash cans all the way into garbage trucks
+and the drivers would thank him for doing so, then the protagonists
+would try to do the same but they would fail miserably kicking the
+trash and falling over 2 - There is an auction almost at the end of
+the movie where they are selling the bar that they are trying to save,
+so there is this guy who fell asleep during the auction so these guys
+tie a string to one of his hands and whenever they wanted to outbid
+the rest of the buyers they would lift the string and the sleeping guy
+would outbid the competition by lifting his hand thanks to the string
+attached to one of these guys. This goes on for some times until the
+string gets stuck and they pull so hard they lift the guy all the way
+to the ceiling. Funniest scene of the movie. That's about it, probably
+wouldn't be enough to find the movie but since this was a one time
+viewing I have a hard time remembering everything. The image seemed
+kinda 80s old European movie format Thanks for helping!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

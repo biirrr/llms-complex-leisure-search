@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000's] RTS game with distinct factions and progression
+through ages. Platform(s): PC / Windows XP or 7 Genre: RTS Estimated
+year of release: Early-to-mid 2000's Graphics/art style: 3D, top-down,
+not very realistic or high-res, I would say on the level of the
+C&amp;C Generals series Notable characters: cannot remember Notable
+gameplay mechanics: progression through ages, from relatively early
+(?) civilization to futuristic sci-fi Other details: I played this
+game as a kid in the mid-to-late 2000's (from 2007 to 2011 I think,
+but it could be released before). It is not Age Of Empires III, not
+any Command &amp; Conquer, not Warcraft III, not Starcraft, not
+Supreme Commander and not a grand-strategy game like Civ. Most of the
+games I played as a kid were these RTSes but I just cannot remember
+the name of this one. I do not remember much about it, besides: \- The
+game was in french when I played it \- Each faction had a very
+distinct visual style and units roster \- A faction was called
+""""""""extreme orient"""""""" in the French translation (""""""""far
+east"""""""" would be my guess for the English version, asia/china
+themed in the early ages) \- A faction evolved into sci-fi alien-like
+units with some reliance on poison mechanics (I think I remember green
+clouds as a form of attack), I think it was the same """"""""extreme
+orient"""""""" faction \- I have a vivid memory of a
+""""""""shaman"""""""" unit with an ability to make it rain frogs but
+I am not 100% sure, I could be confusing it with another game \- I
+think, but not 100% sure, that there were """"""""super
+units/weapons"""""""" like you'd have in C&amp;C"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

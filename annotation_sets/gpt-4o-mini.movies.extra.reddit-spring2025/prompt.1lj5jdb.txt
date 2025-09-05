@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old kids movie involving duckling. Hi everyone! Im going
+crazy trying to figure out the name of this movie or series and I hope
+someone out there can help me. Theres an old (80s/90s) cartoon kids
+movie/series with a duckling as the main character, he loses his
+family or something, is on his own and tries to find friends I think.
+Theres a magpie or crow involved that collects silver, as they do. If
+Im not mistaken theres a castle that they need to get into or
+something like that. I remember it being quite traumatic in a way,
+possibly when the duck family dies, theyre run over by a car or
+something I think. I really hope someone knows what Im talking about!
+Ive been thinking about this since I saw it the very first time.
+#oldkidsmovies #duck #duckling #90skidsmovies"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

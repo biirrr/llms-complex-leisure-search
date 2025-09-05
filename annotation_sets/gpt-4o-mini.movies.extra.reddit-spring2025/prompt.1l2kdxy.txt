@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I only remember a 'spicy' weird scene (nsfw?) . I need to
+feed my curiosity. I've been thinking about it and trying to find it
+for years. I believe I was 12 (so around 2012-2013), saw this one
+scene at night on normal tv. Night, a man giving oral to his
+girlfriend in an open-ish space (I believe a car with the doors
+open?), he gets eaten or killed silently, and a creature/monster takes
+his place in doing the thing. I remember it being a big snake but that
+never got me anywhere. Keep in mind everything was fairly censored and
+dark, I don't believe it was an adult movie I thought it was maybe a
+scene from Splice (2009) but nope. It got stuck with me and for as
+much as I know the movie will probably suck ass, I need to scratch
+that itch"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

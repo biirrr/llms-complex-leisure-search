@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Nude scene in bedroom. I am looking for an old movie and it
+is haunting me: - It was shown on european TV like 30 years ago, - so
+the movie must be older than that, propably a european production
+(e.g. a Giallo). The one scene I remember was rather disturbing: - a
+beautiful naked lady is standing naked in her opulent bedroom, using
+lotion; - a darkhaired man watches her through the door of the room
+(maybe keyhole); - all of a sudden he storms in and rapes her; - right
+afterwards and still lying on her he feels guilty and starts crying; -
+she looks motionless. The whole movie propably was a thriller, but
+this is the one scene haunting me. I want to get it out of my help by
+watching the whole movie and putting it into context! I would be
+grateful for any help, thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

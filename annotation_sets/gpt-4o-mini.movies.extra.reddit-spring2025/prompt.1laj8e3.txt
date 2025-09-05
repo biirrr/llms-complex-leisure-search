@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding a movie I watched when I was a kid. Hi
+everyone, I vividly remember only one scene from this movie that I
+watched when I was a kid (Im 32 now). A white blonde woman, probably
+in her late 30s - early 40s is in distress, shes at home, she reaches
+for the top shelf in her closet, and pulls out a shoe box that has a
+black gun. I think I remember she had a daughter. She was trying to
+evade some bad guys. Im sorry I cant remember anything else. This is
+worse than an ear worm. Would be grateful if anyone can help solve
+this mystery."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

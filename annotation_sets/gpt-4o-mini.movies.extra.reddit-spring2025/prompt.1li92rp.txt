@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Frat house of losers 2000s movie?. Edit: Sydney white! For
+some reason I forgot all the girl parts of this movie. ># Thanks for
+the help! Please help me. I'm sure this movie exists but I can't for
+the life of me find it! I kept thinking about how similar it was to
+house bunny but I can't find the name. So here's what I remember : - a
+frat house of all losers - about to lose their house - house is
+falling apart - dude who would only talk through a dog puppet - there
+was a scene where the antagonist tried to hire a hacker. (though I
+can't remember what for) I know it's not a lot but I hope someone can
+answer this! I know it's not neighbours and all the other movies I've
+been looking at don't look right."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Runaway movie. So its a movie I watched as a kid and just
+thought about it and now its bugging me I cant figure it out! Its
+about a girl with that just had a birthday and basically both her
+parents ditched her with some money and a gun. And after awhile she
+just decided to leave and hitchhikes throughout the movie meeting
+weird characters getting in scary situations. The most consistent
+thing is this young guy that seems nice at first but keeps running
+into her wherever she ends up and in the end ends up being crazy and
+ties her up in some cabin and changes her hair and clothes. Its so
+freaky. If anyone known pls let me know cause now its bugging me"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

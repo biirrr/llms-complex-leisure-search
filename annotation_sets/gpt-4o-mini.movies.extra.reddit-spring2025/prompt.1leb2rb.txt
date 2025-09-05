@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What cgi animated movie had a bee and grasshopper fall in
+love? It was a kids movie, and may have been a remake or at least
+inspired by Mr. Bug Goes to Town.. EDIT: This was the movie: Tall
+Tales from the Magical Garden of Antoon Krings (Drôles de petites
+bêtes, 2017) I very randomly was reminded of a movie I had found it on
+amazon a while back, and now Im searching for an answer, because I
+cant find proof it exists anymore. Heres what I remember: Edit: It
+is definitely not any of the Maya the Bee films. I think that the
+story may have described itself as being based off of a fable? \- I
+think the movie poster had a bee and grasshopper sitting on a flower
+or something similar at night time and the cgi for the movie was
+pretty decent. Definitely a step above from some really low effort
+kids movies. \- From what I can recall from the plot, there were
+around three main characters, who were: a kind queen bee, a little
+girl bee, and a grasshopper. They lived in a small hive town in the
+grass, there was probably a villain, and I think the grasshopper was
+poor and maybe played a fiddle. At the very end of the story, the
+little girl bee takes the queens place, and the former queen lives
+happily ever after with the grasshopper. Thanks for any help on this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

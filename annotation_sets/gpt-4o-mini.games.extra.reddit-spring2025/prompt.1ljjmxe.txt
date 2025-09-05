@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][unknown] A point-and-click game about a man blamed
+for his friends suicide. So I played the game on my tablet awhile ago
+few years ago and it starts with a guy in his apartment and I think
+hes wears a black jacket and hes behind rent and his landlord shows
+up and I think hes fat and he escapes thru a fire escape exit and he
+walks around and he goes to get a train and there was some scenes
+where he goes to a comic store and he gets a call from his friends
+girlfriend screaming at the phone saying his friend did something bad
+his friend wears glasses I think and he goes to his friends house and
+his friend killed himself and somehow they are blaming him for his
+friend death and he goes to the bar thats all I can remember and also
+its a point and click and has voiceovers it somehow has the same
+sense of humor like kevin and the infamous machine"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

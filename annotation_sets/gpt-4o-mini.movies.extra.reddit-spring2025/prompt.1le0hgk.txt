@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Probably early '00s, college girl cheats crippled boyfriend
+with black professor. I remember only a few scenes from this movie, it
+might be a '90s, but at most it's mid '00s. College girl is having
+literature classes (I guess) and she dates a disabled guy because she
+thought a disabled would be nicer, but the guy is kind of an ass. One
+night she is distressed and goes out alone and finds her professor in
+a bar, they end up sleeping together, and he wants her to call him
+nigger. The next class they are discussing a novel with an interracial
+relationship, and they end up both arguing about their encounter while
+masking it as being about the book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

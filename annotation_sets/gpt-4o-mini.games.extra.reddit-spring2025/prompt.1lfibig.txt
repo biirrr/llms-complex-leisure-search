@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][90s-late 00s] Game from Japan where the player
+chooses their gender with a sentence and its first person pronoun. I
+know, Im doing a poor job of narrowing it down, but i hope the
+specific scenario, when im not trying to condense it for a title, is
+specific enough for you guys to figure it out. I just remember some
+fun fact about a game where, in the original Japanese, the player is
+asked some question (i wanna say its what did you dream about?) and
+the answer determines their gender because in Japanese, theres
+multiple first person pronouns, some of which are more masculine while
+others are more feminine. In English, because we just have I and Me,
+both of which are universal, this didnt work, and as a result the
+options corresponding to your gender were pretty arbitrary and silly.
+This isnt a game Im looking to play or anything, its just a fun
+fact i remember from time to time, but can never find the right words
+to google to find what game it actually is, which drives me up a wall.
+Thanks in advance, sleuths!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

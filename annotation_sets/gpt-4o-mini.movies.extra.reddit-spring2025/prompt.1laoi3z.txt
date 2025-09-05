@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Guy kills people by calculating the probability of their
+death. I only remember the first murder (his wife gets killed in a
+bathtub after he optimized everything to make a lethal accident most
+probble) and the last one (which happens off screen, the detective
+whos investigating the murders dies in a car crash). Movie should be
+from the 70ies or 80ies. Anybody an idea?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

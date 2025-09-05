@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2?] [2000-2010] Driving in different universes. I
+remember playing this on our Playstation and you could drive in a lot
+of different universes, the ones I remember are one of them being
+similar to a forest and the final level - driving in sky. I don't
+remember if there were any characters of it was a race, but the
+background music was really euphoric. The game itself felt super
+dreamy. I am about to go crazy because can't find this anywhere and
+feel like my brain is playing a game to me"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

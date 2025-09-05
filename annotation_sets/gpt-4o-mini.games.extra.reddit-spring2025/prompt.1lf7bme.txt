@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s-2010s] Point and Click Mystery Game. Platform(s):
+PC **Genre:** first person, point and click, puzzle/object finder,
+mystery (murder mystery?) **Estimated year of release:** 2000s-2010s
+**Graphics/art style:** realistic graphics, possibly real photos or
+realistic art, very dark and gritty, mainly static (i think) **Notable
+characters:** the only characters i can remember are a set of
+twins/sisters, one is dead and appears as a blue(?) ghost **Notable
+gameplay mechanics:** point and click, object finding game. you found
+objects to help solve the mystery, and you could use objects with
+other objects to proceed with certain tasks (such as using scissors to
+cut a rope) **Other details**: the only thing i can truly remember
+with great detail is one level, out of maybe four?, where you are
+solving a mystery of how one of two sisters died. the level takes
+place in what i believe was an abandoned house. there is a tree with a
+tire swing out front. you discover the sister who died was killed in a
+car accident after she (this part may not be correct) ran infront of a
+car without paying attention. i believe she was trying to catch a
+ball. i also a fuzzy memory of being in a school, and one of being in
+a yard or shed of some sort. this was played on a laptop that ran
+windows in the early 2010s, i would have been anywhere from 6-9, so
+sometime in 2010-2013. the game could have been released prior to the
+estimated date, as the computer and games belonged to my babysitter
+who would have been in her late teens. it was installed on her laptop,
+she had no physical box as far as im aware."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

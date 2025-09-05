@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Apparently NOT an Arnie Movie!. I remember watching this
+crime/comedy movie as a kid. I think it was a 90s film. I thought it
+stared Arnold Schwarzenegger, but I looked at his filmography and I
+can't find it. I remember it being about a group of robbers. They are
+visited by a preteen boy who claims to be The Arnie guy's son. He
+helps them look after themselves around their hideout. Classic 90s
+premise. """"""""Tough guy has to learn how to be dad!!?!?"""""""" The
+scene that lives rent-free in my head is when the Arnie Guy is
+brushing his teeth, but he realises it's not his toothbrush. The kid
+explains he replaced it because you are supposed to swap your
+toothbrush every six months. The tough arnie guy mumbles who he
+preferred his old brush because it was softer. This scene has haunted
+me for years and I've never been able to find the film! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

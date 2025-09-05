@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/CONSOLE][2024-2025] Can't find the name/trailer of this
+martial arts / action / hack n slash game. I remember seeing this
+trailer for a game that was coming out, I don't remember if it was
+last year or earlier this year, a pseudo hack-n-slash martial arts
+game where you had this really fast dodge (like the quick
+step/disappear in Dragon Ball), the protagonist's combat system was
+strictly bare-handed, no swords or anything so no """"""""Where the
+Winds Meet"""""""" etc., the setting was desert or rocky I think, but
+still yellow/brown in color, the protagonist seemed to be wearing a
+gray or blue martial arts tunic, there was a combo counter and when he
+jumped he could charge up energy to unleash a really powerful kick or
+punch. Some enemies I think used spears and the protagonist was male
+(so no project dt) The combat was in 3rd person so no 2D/2.5D fighter
+games (like Street Fighter ecc) it was not The Hidden Ones, the
+graphics was not anime-like"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

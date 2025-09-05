@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000ish] Spaceship combat game similar to Freespace 2.
+This is going to be an easy one for you I think but I just can't find
+it anywhere. I'm looking for this one specific spaceship combat game.
+The only features I remember is that you could see your two guns on
+both sides of the screen, and when you selected a weapon, a lady would
+announce their names. I don't remember a lot, but I clearly remember
+two guns: Phase Shift Cannon for sure, and maybe Titans Hammer, or
+Titans something It was a more arcade kind of game I'm sure rather
+than a simulator."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

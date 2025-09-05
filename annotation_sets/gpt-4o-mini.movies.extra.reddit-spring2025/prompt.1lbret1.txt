@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I need this movie most desperately! Very vague, please do
+your best.. SOLVED!!! IT WAS SEE YOU IN THE MORNING! THANK YOU ALL
+THAT HELPED I have remembered this movie for years but havent had the
+opportunity to watch it. All I can remember is basic stuff, like the
+tagline. This is probably most important. Its something like this.
+Hes got her kids. Shes got his. But wheres the kids of her? ITS
+SOMETHING LIKE THAT, as far as Im aware. Basic like idea of the movie
+is that there are three people, each with their own kids; two women,
+one man. One of these pairs of kids ends up missing in the transaction
+of people, kind of. The movie is a light hearted family comedy, and
+from the looks of the people in the movie poster (judging by their
+hair), the movie appears to have come out in the 80s. I cant find it
+anywhere, please help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

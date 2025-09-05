@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC CD/ROM] [Early 2000s] Match-3 Jewels, NOT Bejeweled.
+I've been trying to figure out what game this was for years. I used to
+play it on my family's old desktop. It was some kind of game where you
+matched different gems, but you were some kind of mole creature I
+think? The rows moved down slowly, and there were powerups you could
+get. Platform(s): PC: CD-ROM Genre: Match-3 Estimated year of release:
+Unsure, early 2000s? Graphics/art style: 3D Notable characters: Some
+kind of miner or mole creature Notable gameplay mechanics: Match-3
+with various Power-ups Other details: I can't remember much else about
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Saw a late 1980s movie on cable with a tourist bus full of
+people is kidnapped by an odd gang of people .. Felt like it was in a
+jungle country. Bad acting. One kidnapper was a black woman who seemed
+like a mystical Zulu woman. She announced herself with regality .
+Another guy was white dude with rocker surfer vibes was rummaging
+through the tourists things and found pills and said we got
+YELLOWJACKETS!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

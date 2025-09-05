@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What movie is playing on this laptop. This photo is sourced
+from a an old Windows XP hard drive that I am working through. Just
+some interesting context: This laptop in the photo is believed to have
+belonged to a cult leader headquartered in Africa at the time the
+picture was taken."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

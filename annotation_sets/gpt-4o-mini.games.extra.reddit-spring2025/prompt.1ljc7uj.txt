@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Virtual dollhouse site with 2010s cute emo
+animals mascots. There's this game/site that I used to play a lot when
+I was younger, and it was this little virtual dollhouse game. I think
+it was JVNKit or something along those lines? But I don't remember the
+actual name, hence why I'm here lol I remember the two main mascots
+were these two bunnies: one was white and the other was brown. It
+wasn't photorealistic, it was this kind of chibi artstyle but also
+kinda emo? Like 2010s alternative emo stuff, that's still kinda cute
+but edgy?? I don't know if that makes sense but that's the vibe I got.
+I remember there was a map that let you go to other locations (which
+were just sets to play around in): four train stations, a mall, a
+haunted house, quite a few actual houses, a school, that kind of
+things. It was really fun and I'd love to find it again!! If there's
+anything I can help with, I'd be more than happy to! I just wanna find
+this site lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

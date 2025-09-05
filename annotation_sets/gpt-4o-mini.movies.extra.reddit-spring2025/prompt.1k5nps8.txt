@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "90's Halloween movie with aliens and candy. I remember
+watching a movie as a kid and I can't find it anywhere. It would have
+come out in the 90's and it was probably a made-for-tv movie. I
+remember it featured little green aliens/men from Mars. I got the
+impression that the whole movie was an ad for Mars candy bars. There
+were kids in the movie and they befriended the aliens. I could be
+wrong about which candy company sponsored the movie, might not be Mars
+It's not """"""""The Last Halloween"""""""". And it's not
+""""""""Spaced Invaders"""""""". I just watched them. But I do think
+the aliens resembled the ones in """"""""Spaced Invaders"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

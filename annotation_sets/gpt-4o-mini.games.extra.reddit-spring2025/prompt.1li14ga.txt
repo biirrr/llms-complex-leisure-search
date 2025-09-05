@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "Hi I forgot the name of a horror game [Steam] [unknown year]
+you have to look at cameras and report strange or abnormal.. SOLVED
+Platform: Steam You have to avoid these killers ones a sniper and I
+forgot the other one but your in an apartment in a city. The
+apartment: You start from the front door. Its a open floor plan with
+the kitchen at the right corner, the bedroom to the left, the bathroom
+to the right and your pc setup to your left in the corner, straight in
+front is a full row of windows facing another apartment building The
+sniper: They are on the roof or in the building directly across now
+you have to turn out the lights and try and duck to avoid them.
+Objectives: You have to try and look for anything weird on these
+cameras spanning 9 of them I think. On one of them you see a dark
+alleyway or something and someone can be there in a trenchcoat and a
+top hat I think this is the other killer. You also have to go to the
+roof and get packages and bring them back to your apartment but this
+is dangerous as there can be a killer waiting and you have to try and
+run and lock your door back"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

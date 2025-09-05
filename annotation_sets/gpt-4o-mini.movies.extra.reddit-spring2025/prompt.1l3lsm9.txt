@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Thriller set completely on Salt Flats? 1990's?. Movie opens
+with a couple driving across salt flats in their pickup truck, then
+they cross the path of someone in a car. The car chases them until the
+pickup breaks down, then it drives off. The couple have to walk across
+the salt flats in broad daylight until they start dying of thirst. The
+car comes back, and captures one of them, then drives off. The other
+person walks some more and find their partner buried up to the neck in
+the flats. The car returns.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

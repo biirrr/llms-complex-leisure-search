@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Asian Horror Film. So, im going to explain this really
+badly... All I remember is binge watching horror movies over 10-15
+years ago (I was a toddler). We watched this one film about a
+detective (I think?) going around trying to solve murders and it ended
+up being this ghost girl. The only 2 key parts that stood out to me
+were: 1. Two people walk into a bathroom crime scene, rip open the
+shower curtain, and this woman's body was folded up worst than a
+pretzel. 2. Whenever they came face to face with the ghost girl, I
+remember the subtitles reading """"""""play with me"""""""" and a
+wispy, ethereal voice. There was one particular scene like that she
+was sitting on top of a well or a short wall or something, all I
+remember is it was foggy and very blue. Again, sorry for the vague
+descriptions, all I have to my memory are these 2 images and not much
+to go off. I accept I could be mixing movies too because I was so
+young at the time. Either way thanks in advance for any suggestions!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

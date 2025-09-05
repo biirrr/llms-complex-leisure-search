@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2012] 2D Platform, Tropical Caribbean theme, not
+so old, humanoid cat-like protagonist, we are saving our beloved..
+There was a game I played years ago when I was a kid. Our main
+character was trying to save his girlfriend. The main character and
+his girlfriend were a humanoid cat or lion-like animal that we could
+call """"""""Furry"""""""". It was a side-view adventure and platform
+game like Mario. I remember something like we collected certain shiny
+stones as we passed the maps and we were able to save our girlfriend
+by collecting all of them. What I can never forget is that at the end
+of the game (after we saved our girlfriend), there was a Caribbean
+island scene with fireworks exploding in the background and we were
+with our girlfriend in front of this scene. Since you came across it
+when I was a kid, it must have been released before 2012-2013. Sorry
+for my English, I translated it from Google."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Hii! Im looking for this movie I saw a review of years ago
+that I'd love to watch.. It was a movie where a group of people are
+all stuck in a room, each in a small circle, if they try to step out
+of it they'll die. Every few minutes they have to vote on a person to
+kill, so little by little they all die until it's only the protagonist
+left. At the end it's revealed that it was caused by aliens I believe?
+I think the point of the movie was to showcase how society prioritizes
+certain people (the unlikeable people died first while a child and a
+pregnant woman made it further) and that's what the aliens were
+studying? I saw the review years ago in one of those Movie Recap
+channels, I don't remember which one unfortunately =- If anyone can
+help me find the name of this movie it'd be much appreciated =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

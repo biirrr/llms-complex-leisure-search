@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for the name of a strange movie I saw, set in 60s or
+70s. One night I couldn't sleep and a movie on AMC, caught my
+interest. The plot was that there was a grown man, who was
+intellectually the age of a baby. There was a mom in the movie and an
+adult sister. I believe they called the man, """"""""baby"""""""".
+Anyhow, a young social worker begins making calls to the home, who is
+very intrigued by """"""""baby"""""""". The mom shows her away
+repeatedly, but relents once and let's the social worker watch him.
+When the mom and sister come home, they find the social worker trying
+to breast feed him. Someone ends up killed that night but idk which of
+the three adults it was. I've been trying to figure this out for
+years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

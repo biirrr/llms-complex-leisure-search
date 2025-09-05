@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s] Point and Click Pirate Adventure Game. This is
+going to be a shot in the dark, but I'll do it anyways.. Maybe one of
+y'all will help me find it. I don't remember much about the game, this
+was around the year 2000 - the game was probably a little old already
+by the time. I remember playing this on my computer. It was a point
+and click adventure, you had to collect items to solve small puzzles.
+I remember it being in a tropical island, the character may have been
+stranded or something. The scenario that I remember was climbing a
+ladder made with vines. I think we had to collect the vines first,
+kind of the first puzzle. It may have been pirate themed? Idk. I don't
+recall ever seeing the character, so in my mind it was first person.
+And I believe the scenario looked well rendered so it was probably pre
+rendered scenarios that we interacted with, rather than an engine. I
+also remember walking down a canyon of sorts, with cliffs on both
+sides and a wooden walkway in the middle. I dont think its the
+monkey islands series, since I dont remember seeing a character. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

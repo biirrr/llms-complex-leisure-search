@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "'90s, maybe '00s thriller: college students fake suicides.
+Looking for a movie I saw as a kid. I remember the basic plot, college
+students faking their own deaths. But I mostly remember the twist
+ending where all is explained and one of the main characters gets into
+Dartmouth. Everything I google comes up with comedies, but I remember
+the tone being mystery/thriller. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

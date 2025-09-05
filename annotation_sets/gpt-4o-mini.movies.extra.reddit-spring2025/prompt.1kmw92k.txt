@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Scandinavian (?) mystery/thriller/horror about a female
+detective and a wildman in the woods. Recently heard about this movie
+(could also be a miniseries). It is about an estranged brother and
+sister; the sister grew up and is a detective (or cop) who is
+investigating mysterious murders/disappearances in the nearby woods.
+She isn't sure what happened to her brother. The killer is a
+wildman/caveman type guy who wears antlers. Spoiler:&gt;!she kills him
+at the end and only then realizes it is her long-lost brother. !&lt;I
+feel like it came out fairly recently and I believe it was
+Scandinavian. I've tried Googling in vain. Any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

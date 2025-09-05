@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Two sisters, one disabled, the other promised her
+everything&. Hi guys, first time posting on Reddit (I hope this is the
+right sub to post on). When I was young I watched a film that I often
+think about. I cant remember the title and Ive never been able to
+find it searching online. It was quite a dark film, I want to guess it
+was 90s or early 00s. I watched it similar time to watching the
+piano. The plot I remember is there are two sisters, one disabled. As
+they grow up the abled sister promised her disabled sister that she
+would give her everything in life that she gets too. As they get older
+the abled sister gets a boyfriend and starts spending more time away
+from her sister which makes her extremely jealous. The disabled sister
+then reminds the other sister that she promised she could have
+everything she has, she then ends up having to sleep with the
+boyfriend. I think in the end the couple run away from the disabled
+sister? I hope I worded this well, if anyone can help me with a title
+that would be great. Ive yet to speak to someone who has seen the
+film before. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

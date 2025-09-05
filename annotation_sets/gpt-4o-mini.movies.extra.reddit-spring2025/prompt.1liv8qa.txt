@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Got 2 movies for ya. These 2 movie scenes are driving me
+crazy and ive searched high and low and cant find anything... i made
+this account just get some help on it. First movie has the scene from
+ghostbusters 84 in it. The scene where they are first at the firehouse
+looking to buy it. Its the exterior shot of the firehouse where the
+realtor lady is talking. I saw this scene in some movie lately and as
+a ghostbusters fan i instantly recognized it. I guess due to copyright
+or whatever, the scene has been mirrored. Obv it would have been a
+movie made after 84 and set in nyc. I use hulu, max, pluto and tubi
+and ive browsed every movie i could think it could be and cant find
+anything. Could have been a tv show then. Anyone? Second movie was
+something made in 90's. I swear the scene had bruce willis in it and
+at some point the kid in the movie shot him with a bb gun. I remember
+the scene at the very end and bruce willis? Has the bb gun and aims at
+the kid and you here him shoot the gun and the screen goes blank and
+you hear the kid go ouch! I remember the scene seemed odd even as a
+kid watching it bc when he shot it it made the sound of a shell casing
+hit the ground. The only movie i found with imdb that had a kid and
+bruce willis (not sixth sense) was the movie """"""""North"""""""" i
+dont have access to that movie but im thinking thats not it. It could
+have been someone other than willis but i just remember his face in
+the scene. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

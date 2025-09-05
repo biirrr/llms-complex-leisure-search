@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "B/W movie, memorable butler with secret past.. Ive been
+struggling to remember the name of the movie, I think starring Cary
+Grant, where he had a butler with a secret past that he was
+protecting. The butler was a side character and Im pretty sure most
+of the movie did not directly deal with him until the end. The secret
+was that the butler had been accused of murdering his wife the body of
+whom was never found, found guilty and hanged, believed dead, but
+survived. He then found the wife alive and well and killed her
+thinking hed already been hanged for killing her so it was ok. He is
+then tried again for murdering her and hanged again. And survives
+again. I think he is found by the lead character who mustve been a
+doctor. He then goes on to be the lead characters butler for years.
+It comes to a head when theres some kind of political event or
+something where somebody discovers the butler has a secret past (but
+not necessarily what it actually was) and threatens to reveal it
+causing the lead character to get the Butlers permission to just
+reveal it. Help. The Google (and my family) has been of no use."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

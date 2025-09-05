@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Kids movie: that's not oil in the park, it's chocolate
+syrup. In the early 2000s, I watched a movie about a lawyer, his son
+and daughter, and their new nanny (secretly an angel). The big bad
+businessman wants to commandeer the kids' favorite park to drill oil
+he thinks is in it, and at the climax of the movie they realize it was
+never oil, it's chocolate syrup from an old Hershey's factory that the
+park was built over. What IS this movie?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

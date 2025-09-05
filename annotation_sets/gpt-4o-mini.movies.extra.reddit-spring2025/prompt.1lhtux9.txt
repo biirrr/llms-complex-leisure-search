@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie about a chase between a couple and a semi truck..
+Before the obvious gets mentioned: it's not Joy Ride, it's not Rest
+Stop. A couple is driving an American car (I believe it was a 70s Jeep
+Grand Cherokee or Wagoneer), somewhere in a deserty area in the USA.
+They stop at a rest stop, the man gets out to go to the bathroom or
+make a call at a payphone or something like that. Meanwhile the woman
+stays in the car and gets harassed by a semi truck driver. The semi
+truck driver threatens her and the woman ends up driving off, with the
+semi chasing her, and I believe even shooting at her. The man steals a
+car or asks someone to chase them. It's been over 10 years since I saw
+this, so details are blurry or non-existent. I hope anyone has their
+bell rung by this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

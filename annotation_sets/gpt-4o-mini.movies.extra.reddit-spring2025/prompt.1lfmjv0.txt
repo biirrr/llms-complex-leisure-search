@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie Scene where hiding soldiers get peed on. I'm looking
+for a movie scene I probably saw on TV. A group of soldiers or
+mercenaries is hiding in a river at night, possibly after their boat
+was destroyed or ambushed. They're still in shallow water surrounded
+by reeds or tall grass, trying not to be discovered. At one point, an
+enemy soldier urinates right on them, but they don't react, because
+moving would give away their position. Any idea what film this? Thanks
+in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

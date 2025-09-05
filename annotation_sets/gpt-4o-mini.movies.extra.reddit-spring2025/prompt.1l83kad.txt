@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about two best friends who sleep with eachtohers sons.
+Im not too sure when or how I watched it but I just remember it being
+insanely weird and gross, but basically it might be an Australian
+movie about two women who are MIDDLE AGED sleeping with each others
+sons who are also best friends, it was set in a beachy setting and the
+sons loved to surf, and they mightve lived extremely close together.
+I did have a crush on one of the actors who played one of the sons so
+I need to know who he is!!!! Pls let me know Im not by myself in this
+weird fever dream but the movie was extremely well produced."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

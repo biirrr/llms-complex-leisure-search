@@ -1,0 +1,15 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a movie. I remember hearing a movie quote
+over and over in my head the scene is a large overweight man (I think)
+crying over a newspaper the man was saying  why are babies killing
+themselves? The movie was in English. (Sorry for bad grammar)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,36 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old fantasy movie. I've had the images from this movie in my
+head for a while but I can't seem to find the movie. It's from an old
+fantasy movie that I would have watched in the 80's. As I recall, the
+story is about a young protagonist who leaves on some kind of
+adventure, maybe to find some lost magic? There's two scenes that
+stick out in my mind. In one, the young adventurers get picked up by
+some kind of friendly tribe. They climb up onto a strange transport
+animal that carries two baskets, one on each side of it's back. Inside
+the baskets, it was quite nice and cozy and they meet a tiny old
+wizard or elder of some sort. In the second scene that I remember: as
+they are traveling, they stop for a break and our protagonist gets out
+and walks to the water that's next to their rest stop. I believe he
+sees something in the water? Either way, he ends up falling in and
+some far off wizard is seen casting a spell that causes him to not be
+able to come back up to the surface. He's seen panicking and banging
+on the surface but he can't come up until the the elder that we met
+earlier comes along and extends his gnarled old wand into the water to
+pull him out. I feel like the wand is central to the story somehow...
+These two scenes have stayed with me for decades, the first because
+those baskets on that animal looked so cozy and it looked like a great
+way to travel. The second evokes a bit of a phobia in me and I feel
+like it would be a terrible way to go so it stuck with me. I would
+love to re-watch a movie that has left me with such long term
+memories, but I can't seem to find this movie anywhere! I'd appreciate
+any help in finding it, thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

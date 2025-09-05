@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can you help me find this tv show/movie?. I've watched a
+tiktok that shows a tv show/movie where a nurse accidentally kills the
+patient because someone changed the medication and she has to leave
+the house by fooling the family. It's an elderly patient and he helps
+her escape before dying. He helps her escape by telling her to leave
+and making noise then come back and put the victim robe so that the
+family thinks he's still alive after she left. I belive that they
+found out later the the medication was switched by a member of the
+family on purpose. I think it's a recent tv show/movie. Thanks for any
+help you can give."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

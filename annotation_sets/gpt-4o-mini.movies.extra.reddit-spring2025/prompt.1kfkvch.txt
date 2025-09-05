@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Animated Childrens Movie. Hey, trying to remember the name
+of an animated kids movie I saw a while ago. Its about a little
+animal who goes on a journey to find his mom. I remember he sneaks
+onto a boat at some point, and by the end, he finds his mom and
+theyre together at her house. Its an older animated movie, not
+something recent. Anyone know what it might be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

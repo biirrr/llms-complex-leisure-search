@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this movie I saw as a kid - Young girl in
+cardboard box with black ooze. Hi everyone  Ive been trying to
+remember the name of this movie I saw when I was really young,
+probably between 20092011. I only remember a specific scene, but it
+stuck with me: Theres a young girl Id say around 6 ish years old.
+She was white and mightve been blonde but I dont really remember.
+She was trapped inside a cardboard box, and black goop or ooze starts
+seeping in from the corners of the box. I clearly remember her yelling
+Daddy! for help as the black stuff got closer. The whole thing felt
+like a nightmare or a hallucination, or maybe part of a surreal horror
+sequence. I know it was definitely a movie, my mom used to watch a
+BUNCH of random movies so she doesnt remember this one and this was
+also over 10 years ago lol. Possibly a psychological horror or
+something indie/low-budget. Does this sound familiar to anyone? Ive
+searched everywhere and cant figure it out. I even asked ChatGPT and
+if couldnt figure it out either. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

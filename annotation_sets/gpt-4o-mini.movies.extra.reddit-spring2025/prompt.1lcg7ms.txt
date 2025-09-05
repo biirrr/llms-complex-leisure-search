@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where kids help fairies in a forest. I can only
+remember the final battle.. The film was likely late 90s or early
+2000s and followed two children who discovered fairies in a local
+woodland and had to help them defend their home from some kind of evil
+creature. Definitely live action. Notable scenes I remember include
+the parents of said children believing them to have gone missing and
+deciding to move away or leave so they can stay safe, but are
+eventually convinced to join the fight. The finale follows the evil
+creature in the centre of the forest surrounded by the fairies, which
+are shown as points of different coloured light, and they throw
+smaller points and beams of light to attack the creature. The film was
+definitely European or American produced, and likely Direct to DvD. It
+was specifically not the Fairy King Of Ar. Any help in figuring it out
+would be super appreciated, thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

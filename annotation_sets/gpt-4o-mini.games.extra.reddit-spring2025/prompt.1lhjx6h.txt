@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2/GameCube][early 2000s] Turn-based game with a rusty
+robot lawnmower monster. Hey everyone, When I was a kid (early 2000s),
+I played a turn-based game at a friends houseeither on the PS2 or
+GameCube. Ive searched everywhere for it, but I cant remember much
+besides one very specific thing thats haunted me ever since: There
+was a monster that looked like a rusty robot lawnmower. It had
+headlights for eyes and a busted, patched-together design. I think it
+used a move called something like Lawn and Odor (though I might be
+misremembering that part), but it definitely had some kind of lawn-
+related pun or gag. The game had turn-based battles and you commanded
+individual monsters, kinda like Pokémon but not as cartoony. The rest
+is foggyit was summer, we only played it for a week, and its been
+buried in my head ever since. If this sounds familiar to anyone out
+there, please help me solve this childhood mystery. I just want to
+know I didnt hallucinate the robot lawnmower."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

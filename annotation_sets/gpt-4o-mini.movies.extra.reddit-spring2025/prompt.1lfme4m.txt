@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me to find this Spanish movie. I'm looking for a movie
+but I have only seen one scene from it, and don't know many details
+about it. I remember it was an old spanish movie. I would say from the
+70-80s probably. It was about a young group of boys who were related
+to mafia or some kind of dirty work. There was a scene of a young man
+standing outside his car. I think his car shut down in the middle of a
+highway. He was young and had kind of long, brown hair. There was also
+a girl with him and she told him she was pregnant with his child. Then
+he looked at her and asked her what are they going to do because they
+were too young. That's all I could remember. I would be really happy
+if I could find this gem again! Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

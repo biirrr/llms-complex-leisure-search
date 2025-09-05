@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I swear there was a gargoyle. Late 80s early 90s, my parents
+was watching it, I could've swore it was something like unchained
+love/heart, something like that it wasn't a horror movie it was a
+romance movie in the vein of beauty and the beast and I swore there
+was gargoyle in that killed itself at the end, but can find it or
+anything about, was it all just a fever dream? Edit 1 for more
+details: wanna say the male love intrest mayb turned into a gargoyle,
+mayb at night or something, and I remember a scene towards the end he
+was being hunted or chased and was on a building maybe fell off"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

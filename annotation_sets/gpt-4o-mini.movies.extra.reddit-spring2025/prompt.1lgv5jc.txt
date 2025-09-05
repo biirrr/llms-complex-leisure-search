@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A pedophile struggling with his sexuality meets a little
+girl and discovers shes beeing abused by family members, he then tries
+to help her. Ive seen this some years ago but cant recall the name,
+think it was made between 2000-2012 if that helps Iirc the guy has to
+move because of a school? Or happens to live close to one where he
+notices things beeing off with one of the children he met in a nearby
+park. I dont recall many details but it was like alot of struggle with
+himself and his sexuality,some visits with a therapist but in the end
+he manages to overcome that and takes steps against her abusers (i
+think a relative?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

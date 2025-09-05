@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [Unknown] game about a boy. The game was a pixel
+art game where the main protagonist was a boy who went to different
+places. Notable places/characters On top of the train early in the
+game which had another character shooting at the boy using some type
+of magic. The ship/cave which had monster like creatures you had to
+avoid. The tree with a face, I think it was a boss but unsure. Extra
+The boy wore a pajamas. I don't know the genre or any dialogue from
+the game, not sure if it was in English or another language but I used
+to play this gamea good bit as a kid. It was played on some random
+console I got in India when I was 5 (I'm now 18) and I sadly have lost
+the console."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

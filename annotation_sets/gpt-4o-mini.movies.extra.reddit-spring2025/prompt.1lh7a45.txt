@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old 60s zombie movie. Looking for the title of a movie from
+the 60s or 70s. There is a nuclear holocaust and a race of mutants
+inhabits the earth. A stronghold of people are living in a house in a
+valley which has copper embedded in the hills surrounding their
+compound that keeps them safe. The movie is in color. Great drama as
+the tension builds throughout the movie without showing the mutants
+outside the compound. The owner of the compound is very proud of the
+fact that he engineered the compound knowing a nuclear apocalypse was
+inevitable."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

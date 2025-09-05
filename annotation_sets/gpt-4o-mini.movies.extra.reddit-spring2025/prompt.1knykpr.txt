@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Man invited to a secluded hunters home just to find he is
+the one being hunted. I remember a movie from back when I was a child
+where a guy is invited with some rich guys to their cabin in the
+middle of the woods where they plan on hunting him. The only things I
+remember is the moment he realised sh*t is about to hit the fan after
+finding a storage room with all kinds of human parts in glass jars,
+and them hunting him the next day on their quads. Help me plsss!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Hello, Im looking for an older film. **Hey everyone,** As
+the title says, Im looking for an older movie. It was shown sometime
+between 2000 and 2004 on Premiere, which was a subscription-based TV
+service here in Germany, similar to Netflix nowadays. Heres what I
+remember about the film: Two people get kidnapped. I'm not exactly
+sure, but I think they were two men  one a bit older, the other
+probably in his 20s or 30s. Im also not sure if the kidnapper was
+acting alone. They travel around the country in a van  possibly in
+the U.S. At some point, they end up in what looks like a motel, but I
+think the room they stay in is more like a cabin. Somehow, they manage
+to tie the kidnapper to a chair and inject him with a drug cocktail,
+trying to kill him  but he survives. Ive already asked ChatGPT, but
+none of the suggestions matched. So Im hoping someone here might
+recognize the movie. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

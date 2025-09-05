@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me identify this movie/video - 90s horror???.
+Sometime in the 1990s, I was about to leave an old friends house
+(person unreachable, so I cant ask her). And about 10 minutes before
+I left, she put a movie into the VHS/DVD player. I remember seeing
+this scene which was either the intro to the movie or possibly a
+trailer. It was a relatively short abstract/seemingly animated scene
+where a real (non animated) head was shown being cut open at the top
+(full top of scalp), and pulled off exposing the brain. Then a voice
+came on saying the name of the movie as the movie title was splashed
+on the screen in an almost comical/whimsical font. Heres the kicker.
+My mind wants to remember it as the 1991 horror film Popcorn, BUT I
+have watched the movie and watched every trailer I can find on
+YouTube, and none of them show this brain scene Im remembering. So I
+wonder if Popcorn is even the correct film. Can anyone remember
+this? Edit: This could have been an 80s thing for all I know, I just
+know I saw it in friends house in the 90s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

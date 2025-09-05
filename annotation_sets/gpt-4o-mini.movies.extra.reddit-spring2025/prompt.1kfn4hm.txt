@@ -1,0 +1,38 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie or miniseries with hit and run (more details in text).
+Im hoping someone can help me identify this. It ended on a
+cliffhanger and has bothered me for years. In the early 2000s I think,
+I saw a movie or miniseries where a woman hit a child with her car
+(white suv maybe?), killed her, and fled the scene. The woman driving
+was a Caucasian brunette and knew the child she killed. She tried to
+go about business as usual while the investigation was ongoing, while
+keeping an ear to the ground. She played dumb with her family and
+later a friend, who shared some rumors she heard about the
+investigation. Somehow, she obtained a piece of jewelry, belonging to
+said friend (gold earring maybe?) and pocketed it. Later, a detective
+(a Black pregnant woman) approaches the woman who committed the hit
+and run for what seems like a friendly chat. She tells her everyone
+assumes the driver was a real bitch, but she thinks the driver
+probably got scared. Our villain still plays dumb. After that, we see
+the detective at home with her husband, chatting about the
+investigation. She tells him she knows who killed the child, but
+doesnt have enough proof. She says she knows the woman made a
+mistake, but as she is about to become a parent, the case has affected
+her personally and part of her wants the woman to suffer. She asks if
+that makes her terrible and he says I dont know. We then see the
+driver at the scene of the crime. She has snuck past the crime scene
+tape and is sobbing. She throws the jewelry into the nearby woods,
+framing her friend. There was a to be continued placard and&thats
+it. I never saw the rest. Anyone know what Im talking about? Anyone
+know what happened? Im pretty sure the accents were American, but
+feel like I saw it abroad."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

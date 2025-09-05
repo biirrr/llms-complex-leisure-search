@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this movie title.. Watched this last year on
+Roku or Prime. Seems a popular scenario. Im unable to find. First
+scene is of a young Korean man in airport bathroom. Hes been sick.
+Joins girlfriend and go to car rental counter but they are closing
+down so they share a ride w/another family. (Most of the movie is in
+English.) theres a car accident they witness. Then go to a cabin and
+while showering the girl disappears. He becomes a suspect. Characters
+reappear in different roles. There are few characters, a darkly filmed
+movie. The suspect speaks very little English. A surprise ending. Very
+good!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Not even AI can help me&. Ive been looking for this movie
+for ages Key Plot Points """""""" Opening: A mother tells her son a
+legendary story about a future king that kneels to no one. So you
+think hes the prophesied king then Their village is attacked; the
+young boy escapes, chased by a mounted soldier who fires arrows. And
+asks the boy to kneel (oh no hes not the prophesied king) the boy
+kneels but not to show weakness instead he picked up an arrow from the
+ground and stabs the horse. Time jump: The boy grows up, marries, and
+his wife is pregnant. A crazy witch who is a fortune-teller foretells
+the birth of a son. The baby is born but both he and the mother die
+soon after. The man later confronts the witch to blame her, only to
+find shes dead. The man mourns in the rain over the witchs grave,
+punches the ground, cuts his hand, and discovers a swordthe legendary
+god of war sword."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

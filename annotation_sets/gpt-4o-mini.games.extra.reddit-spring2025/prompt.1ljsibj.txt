@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "Android][2016-2017][3D] Game with white-headed character and
+yellow background icon. Hi! Ive been trying to remember the name of
+an Android game I played around 2016 or 2017. It was a pretty unknown
+game even back then, and I havent been able to find it again. Heres
+everything I remember: It was a 3D game with a fixed aerial/isometric
+camera, kind of like the angle used in the classic arcade game Q*Bert.
+The main character was a white humanoid figure with a big rectangular
+head, only showing eyes and a mouth. The game icon showed this
+character on a bright yellow background. Ill attach a drawing of how
+I remember it. The game had at least two modes: a story mode and some
+kind of multiplayer mode (not sure if it was online or local). The
+levels were made of floating platforms or geometric structures,
+minimalistic and simple. The art style was cartoonish, clean, and
+probably ran at around 30 fps. Its not Stickman Cubed, Crossy Road,
+or Cubed Rally. Heres a rough drawing of how I remember the icon: Any
+help is truly appreciated =O Ive been looking for this game for
+years!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

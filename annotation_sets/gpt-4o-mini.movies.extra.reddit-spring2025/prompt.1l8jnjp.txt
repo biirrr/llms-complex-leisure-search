@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help little brother find a movie he saw a long time ago. I
+actually dont think Ive seen this, but my little brother is looking
+for a movie he says is old enough that credits are on screen during
+the beginning of the movie. I believe hes thinking 2000s or 2010s.
+We think its horror, or horror-adjacent. He distinctly remembers that
+it starts with a truck driving through a field. The most vivid thing
+he could describe is a scene where two friends go out to shoot a new
+gun one of them just bought, at a lone tree. One of the men goes to
+line up bottles or cans for target practice, and when he turns around,
+the other man is aiming the gun at him and shoots him. My brother
+thinks there may have been a love triangle with these two and a woman
+he describes as manipulative and a ho, and thats why the one killed
+the other. Any help would be appreciated! Its driving him nuts and we
+cant find anything on Google."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

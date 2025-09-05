@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s Fantasy Movie. This is going to be a long shot because
+the part of the movie I remember most is the one that freaked me out
+as a kid. Theres a scene where theres this type of monster creature,
+they pull out a green slimy slug looking thing out of his ear, and
+then he goes berserk. I think there was a cyclops and forest quicksand
+scene too. Its also a possibility Im merging two movies&"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

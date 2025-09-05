@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for an animated movie with wizards that I saw when I
+was a kid. All I know about this movie is that two wizards have an
+argument and one wizard says to another that something is
+""""""""inevitable"""""""". I know this because that's how I learned
+the word """"""""inevitable"""""""" as a kid. The movie was definitely
+animated and I have the impression that the wizards were wearing robes
+and had beards (shocker) but no idea anything else about the story. I
+thought for years that this would probably be a Lord of the Rings
+adaptation, with Saruman telling that to Gandalf, but I've since
+watched every animated adaptation of The Lord of the Rings looking for
+it, and it wasn't any of them. Also, my very vague memory thinks that
+there was at least one dragon involved in the movie, and LotR doesn't
+have that. If it helps, I was growing up in the 90s. I got amnesia
+after that and this is one of the only things from before then I can
+remember. Please help me find this scrap of childhood if you can!
+Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

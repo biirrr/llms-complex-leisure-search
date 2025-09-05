@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Late 80s early 90s movie with a murderous teen. I only saw a
+small bit but there are 3 scenes I remember: Main character is a
+teen/older teen, blonde hair with bangs/fringe (think young leo) and
+he murders a man who they seem to have a contentious relationship
+(father/stepfather?) in the living room while a chained up dog is
+barking. He goes to a girls house where she is flirty or drunk and he
+smothers her with a pillow. He goes to another girls house, probably
+the main love interest, and he is all upset and crying while she
+comforts him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

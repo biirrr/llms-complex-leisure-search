@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015-2019] Looking for a pixelated, Doom-inspired
+indie browser FPS game. Hey everyone! I'm trying to find a free
+browser FPS game I used to play between 2015 and 2019 on Google
+Chrome. Heres what I remember about it: * It was a **single-player**,
+pixelated FPS, very much inspired by **Doom** but not a mod  a
+standalone indie game made by one person. * The gameplay was almost
+identical to Doom: you had weapons like shotguns and pistols, found
+colored keys to open doors, and fought monsters (not super gory, more
+realistic than cartoonish). * The game had different levels, a
+somewhat simple and clean pixel-art style  definitely not too flashy
+or cartoony. * The website name possibly had the letters **X, Z, or
+V** in it (something catchy and unusual, like zarzat or xartia). *
+It had its own website, and you played it right in the browser
+(Chrome). * The boss fight (if I remember correctly) involved stepping
+on platforms that played a sequence of sounds, and you had to repeat
+that sequence to avoid damage. * After beating the game, you could
+replay from level one. * Overall, the game had a simple UI/HUD,
+reminiscent of Doom but stripped-down. If anyone knows this game or
+has any leads, Id really appreciate your help! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

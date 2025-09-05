@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to Identify a Horror/Thriller from Late 1990s or
+Early 2000s (Opening scene had a torture chair, eye gouging, spiral
+stairs) 2/3. Ive been trying to find this movie for years. I saw it
+when I was a kid, but I only caught the opening scene. It was really
+dark and I think it took place in a big empty basement. Not quite sure
+if it was a basement, it was just dark and vast? There was a man in
+some kind of torture chair, and another man did something really gory
+to him, maybe gouged his eye or something like that. But the one
+detail that really stuck with me was a spiral staircase shown right
+after that. I couldn't watch the whole thing, either I got scared or
+something interrupted it. I think the movie is from the late 90s or
+early 2000s. If any of this sounds familiar to anyone, I would love to
+know what it was. It has been on my mind ever since so please let me
+know if you have any suggestions or guesses."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

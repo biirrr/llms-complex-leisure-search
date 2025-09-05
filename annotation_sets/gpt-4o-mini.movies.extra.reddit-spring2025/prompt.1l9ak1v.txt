@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "1990's film about native american magic?. I'm having
+memories of a film I watched as a child but can't remember the name
+of. There are 2 parts I remember; 1) The beginning of the film starts
+with a story about a native american man playing a magic drum. He
+disappears, and a raven or crow comes in and starts pecking at the
+drum, destroying it. A wolf then enters and stops the raven. 2) Later
+on in the same film, a kid is fighting against some sort of shape-
+shifting evil, and uses the drum and \[I think\] a necklace to ward it
+off? Additional Note: For some reason, I also have some memories of a
+glass harmonica in the film, but not a typical glass harmonica, more
+like multiple glasses filled with water to create the sound. I worry
+that I'm misremembering, or confusing the glass harmonica part with a
+different film like Shapeshifter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

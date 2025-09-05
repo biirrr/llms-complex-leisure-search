@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a horror movie I watched as a kid. Hi, I'm
+looking for a horror movie I watched when I was very young, definitely
+before 2014. I remember it had two blonde women who I think were
+sisters, though I'm not completely sure. They were kidnapped (or at
+least was of them, or they were in a group with other people, don't
+remember ) and taken to a secluded place, like a cabin or shed filled
+with tools. One of them was tortured, and I clearly remember the sound
+of a chainsaw, I'm pretty sure that's what was used to amputate her
+leg. In the end, the other woman saves her, and they both manage to
+escape. The scenes I remember most vividly are when the woman who
+saved the other was peeking through piles of wood plates while the
+other was strapped and the kidnapper was amputating her leg with a
+chainsaw, and the injured woman (with the amputated leg) being
+supported by the other as they walk away together. I've never
+forgotten that image, but I just can't remember the name of the movie.
+If anyone knows it, I'd really appreciate the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

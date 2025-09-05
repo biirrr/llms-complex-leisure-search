@@ -1,0 +1,33 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Searching for a zombie movie that I keep forgetting. I'm
+looking for a zombie dark comedy movie that I saw many years ago, I
+think it was before 2012. Might have been an independent film, might
+have even been a Sci-Fi original or part of one of their themed movie
+weekenda (man I miss those). I stumbled across it again just a few
+years ago but now I want to watch it again and I can't remember it. I
+can remember two or three scenes. #1 There are 2 guys outdoors,
+possibly hunters, who see the zombies coming toward them. I THINK one
+of them realizes they are zombies, but his friend says something to
+the effect of 'I don't care if they're the Swedish bikini
+team!"""""""" #2 the zombies attack the local church and I can
+remember them crawling over and out from underneath the pews. #3 the
+climax / very end of the movie. One of the groups of people we've been
+following is going to make their escape. I think they are a family of
+Preppers. There's a little girl say 10 years old or so with blood on
+her armed with a rifle or a shotgun who comes up to one of the guys in
+the house and says the zombies are trying to break through the
+basement. They eventually escape and get in the car with the girl in
+the passenger seat, she says she needs to get something to eat and the
+driver tells her she has to wait and squeezes her hand, but then she
+says """"""""but I'm hungry now"""""""" and bites his hand, revealing
+that she had turned as the credits roll. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

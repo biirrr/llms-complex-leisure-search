@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie similar to naturally blonde. I saw a movie a few
+years ago where I think a blonde girl has to go to the military. There
+she teams up with other girls and at the last training mission her
+group is unexpectedly the only one that succeeds. Do you know the
+name? I only remember that it reminded of naturally blonde when I saw
+it but I forgot to write down the name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

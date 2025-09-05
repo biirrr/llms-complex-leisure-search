@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can't remeber movie i watched. Basically it's this movie
+about this young guy who finds a job at some sort of company and is
+really irresponsible and relatively dumb with the boss always scolding
+him and i remember at some point he or something else made a mountain
+with a bunch of a stuff and the top theirs a goldfish in a bowl and i
+think it might be french."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2015?] Flash player (?) Top-down, pixel art (?)
+survival zombie game. you spawned in this dark at night city infested
+with zombies everywhere but you had no guns, you could explore around
+to find survivors that had guns and they'd fight the zombies, and pick
+some guns yourself, there was seemingly no goal other than surviving,
+no dialogue, no characters, you could explore the city as much as you
+want and it seemed near endless, you just found lot of zombies
+everywhere and some survivors around. I cant recall if it was flash
+player or not but i played it in an online website that had those. It
+wasn't an arcade action game like SAS Zombie Asssault or had much of a
+story at all"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

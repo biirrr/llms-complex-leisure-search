@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Late 80s / Early 90s Revenge Film. been looking for what
+feels like forever for this film, I can remember watching it on TV in
+the early 2000s, maybe on like TNT or something similar It followed a
+family &amp; a group of I believe bank robbers who happen to meet at
+the bank, the robbers take the family hostage and end up killing the
+wife and kids, but the dad of the family was shot as well, but lived,
+ended up in a coma, after sometime he gets out of the coma, and the
+second half of the story is the dad hunting down the robbers one by
+one and getting revenge, I can remember there being a lot of snow
+scenes, the dad drove a red Jeep Cherokee and had a golden retriever
+dog in the second half of the film, and the violence was insane, some
+real gruesome kills&. I have never been able to find this movie, it
+doesnt seem to star anyone real famous, it wasnt Death Wish, or any
+Steven Segal flick, which others thought it was when I mentioned it to
+them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

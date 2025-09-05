@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "movie name?. I remember watching this movie all the time
+when i was young, its about people going missing and kids finding
+people cocooned under a house hanging upside down, and then the
+monster breaks free from the house and is chasing them. I think it was
+a large spider like monster. Can someone help me find the movie name
+please"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

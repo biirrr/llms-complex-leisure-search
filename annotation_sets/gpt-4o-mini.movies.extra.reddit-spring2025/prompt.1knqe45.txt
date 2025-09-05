@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "2000s movie is think about a girl who goes out to to her
+familys house in the middle of nowhere.and finds a portal in the
+forest. Its a movie about a young girl and her gangster brother who
+goes out to her familys house on a farm,and she she stumbles upon a
+portal that takes her back in time to when native Americans lived
+there. Later on the native Americans come out of the portal and try to
+attack the family and the gangster brother and his buddies pull up and
+the native Americans attack them instead of the family. I know this is
+corny but i lowkey liked the movie and forgot the name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

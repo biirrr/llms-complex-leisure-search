@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a movie but not much to go on. Solved. It's
+Invaders from Mars (1986). I remember seeing a movie when I was
+younger but I can't even pinpoint a general idea on year. All I
+remember from it, are military people getting pulled into sand, and
+ending up inside some caves or something. I remember a scene where a
+guy was walking and then the sand started shifting in a circle pattern
+and then the guy starts getting dragged down. He tried to hold on and
+pull himself out but gets sucked in. Next scene is him falling down to
+the ground in a cave system. Pretty sure a whole group of them got
+pulled down because remember them getting into formation and holding
+guns in the caves."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

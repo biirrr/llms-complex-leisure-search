@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps1/ps2][late 90s/early 00s] mulitplayer mode grid based
+territory team colours. Been playing Splatoon 3 upgrade on Switch 2
+and it got me thinking about a game I may have rented back in the way
+back machine. Ps1 or possibly Ps2. It had a gamemode similar to
+Splatoon where you would capture territory and enemy territories by
+drawing a shape around an area and it would change to your teams'
+colour. May have been a grid based floor so you would probably draw
+different sized squared etc. Also like Tony Hawk graffiti mode. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

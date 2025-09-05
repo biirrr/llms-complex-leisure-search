@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trade wishes for memories. I've been looking for this movie
+since I watched it as a child in the late 2000s/early 2010s. All I can
+remember plot wise is that it was about a boy and a witch(??) in a
+fantasy world. There was some sort of machine that would create a
+glowing orb every time he made a wish and for every wish he lost a
+part of his memories. There might have been other fantasy creatures. I
+remember there definitely being a scene with a waterfall (maybe him
+jumping?) and somewhere in the movie he must have traded enough wishes
+to completely lose his memories, including any of his father(who was
+looking for him the whole time) if I remember correctly. I appreciate
+any potential leads because i've been DYING to watch it again to see
+what was going on :( Edit: Solved! It was """"""""The Neverending
+Story II"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

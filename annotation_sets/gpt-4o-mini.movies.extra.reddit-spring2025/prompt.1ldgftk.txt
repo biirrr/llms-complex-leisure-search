@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie Name. Only watched the start of a movie and can't
+recall its name. Begins with a lady at the back of a store at a small
+town filling station...it's really hot so she's just in her underwear
+using an ice cube to cool herself down. She hears someone enter the
+store ...doesn't have her clothes so she puts on a wedding gown which
+was for sale and goes out to meet the customer...they chat for a while
+and he leaves. She goes to the back again and then hears someone enter
+again...she thinks it's the same man but when she gets to the front
+it's her fiance... Think it was from the 90's Any idea what movie this
+is? (Or did I just dream it up =)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

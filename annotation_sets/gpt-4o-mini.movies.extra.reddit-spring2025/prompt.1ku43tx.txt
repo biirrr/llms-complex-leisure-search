@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help find movie or show. movie about a guy who can transform
+into people and he transforms into the kid and mimics his voice while
+on the payphone with the boys mom whos a robot or entity or
+something but it was pretending to be his mom to try and get the boy
+to come home after it killed his whole entire family, then the guy
+asks it a question about the dog but he uses a false name and the
+thing says everything is okay to try and get the boy to come home
+but everything isnt okay because he used a false name for the dog and
+if it was the mom then she would correct him on the phone to verify if
+it was truly his mom"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

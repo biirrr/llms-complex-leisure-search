@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can't remember superhero movie. I watched a movie recently
+about a superhero who took over the name and role from his father
+after he died. They are a wealthy family and at some point after
+assuming to role of the hero, he comes across some giant alien baby
+and takes it back to his home. The hero goes from being normal human
+size to several stories tall and from what I can remember is not liked
+by the public due to causing lots of damage to the city when fighting.
+This is hurting my brain so I hope someone can help haha."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

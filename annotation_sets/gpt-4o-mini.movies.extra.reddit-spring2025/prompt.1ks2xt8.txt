@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s low budget movie has eluded me for years&. Hi all, so I
+really only remember one scene from this adventure movie. Its a team
+of people searching for a gemstone (I think) and the climax takes
+place on a throne, when one of them inserts the gem into it, then sits
+on the throne, lasers (or something) shoot out of it all over the room
+(I think killing a bunch of people) thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

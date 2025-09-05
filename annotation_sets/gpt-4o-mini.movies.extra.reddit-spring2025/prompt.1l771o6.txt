@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie? with this line or a similar line said in it
+(early to almost mid 2000s). This line has been traumatized into me
+since i heard it without any visual (only sound). Context: i was very
+young (before teenager years) and i wasnt allowed to watch full on
+horror movies like Saw etc nor i liked it, but my parents one night
+were watching a movie while i was in my room and i sneak on them and
+only was able to hear the sound (dialogues etc) and this line was
+stuck on me. Now that im an adult i need to watch it to maybe
+untraumatize myself now that i will have full context of the scene
+lol. Line: """"""""please i am awake, i dont have anesthesia. You
+going to kill me....nooooo!"""""""" Something like this and the person
+(man) dies while being operated (maybe , or tortured idk, idk the full
+context). Also the person doing this to the person begging isnt
+listening or refusing to listening to their voice. I also think i
+heard drill and surgery noises. Tldr: someone begging to the
+(surgeon?) that they feel everything that they will do to them and to
+stop because they arent with anesthesia but the surgeon (or not
+surgeon idk) continues and he dies screaming and sounds of drilling or
+operation idk."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

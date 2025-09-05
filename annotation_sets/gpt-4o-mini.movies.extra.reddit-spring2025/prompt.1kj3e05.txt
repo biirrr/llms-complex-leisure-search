@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I saw a single clip of a movie years ago and have no idea
+what it is.. So I was very young and I was up late one night when I
+was certainly not supposed to be. I was channel surfing when I landed
+on what I can only assume was a movie. I cant even remember if the
+movie was in English (I had a really nice cable package as a kid that
+included a lot of international channels haha). Anyways, this is the
+only clip I can remember and it is SO weird that it came into my brain
+recently so I wanted some help finding it: I have no context for the
+scene but I think a white(?) couple was naked in what looked like a
+cave(?). I dont remember much about the man, but the woman had a full
+bush (iconic) and very long black hair that went down to her waist and
+covered her breasts. They were lying together when another fully
+clothed white(?) man (I think he was in some kind of medieval outfit?)
+came into the scene and everyone started arguing. They all began to
+stand and yell, when the clothed man drew a sword. The naked man was
+backed into a corner and the naked woman shielded the naked man from
+the clothed man and his sword. They all continued to argue when I
+eventually changed the channel. Now that I think about it, Im
+honestly wondering if I accidentally watched some kind of dirty movie.
+But yea, if anyone has any idea what this scene belongs to Id love to
+know! Edit 1: this happened around 2005-ish on cable tv. I was around
+9 or 10 Edit 2: the movie is confirmed to be [Monty Python's Life of
+Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

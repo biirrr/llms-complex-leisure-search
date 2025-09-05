@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s]Tile matching memory game. I remember bright
+colors, maybe pink and blue. I cant quite remember the whole object
+of the game but I know you had to pick a tile and it would turn around
+and reveal a word or phrase and then pick another tile and it would
+turn around. If they werent matching words, they would turn back
+around and it was the next turn. The object was to remember what tiles
+were where and match them. I distinctly remember mink coat being on
+one of the tiles because at that age I didnt know what that was. I
+cant remember the other items but I think they were all things with
+values. It had a game show feel to it. Please help me! I really want
+to know what this game was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

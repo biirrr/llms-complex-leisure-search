@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Im please help! Me find this movie. Theres a movie scene
+could even be tv and I cant think where its from Theres 2 people
+taking about another person and they say He enjoyed the war so much
+he cried when the plane came to bring him home Something like that
+please please help I want to know where its from Solved! Ted series
+episode one: Johnny says no way dude my dads a sadist he thought
+Vietnam was fun he cried when the helicopters came to pick him up"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

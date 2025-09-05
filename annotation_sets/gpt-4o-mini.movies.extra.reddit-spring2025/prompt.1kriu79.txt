@@ -1,0 +1,16 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Hes not vicious, hes family.. Its a 90s to 2000s
+comedy. A black guy brings a girl to a mansion and says he lives
+there. The dog is growling at him and she says something like he looks
+kind of vicious. Hes sweating and says hes not vicious, hes family.
+Please help lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

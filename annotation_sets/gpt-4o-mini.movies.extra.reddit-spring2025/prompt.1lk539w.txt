@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Another forgotten movie from my hard drive. I cant entirely
+remember if it were a Jigsaw film, but i remember this one scene, to
+what a presume in a basement, and there was a body lying on an
+operation table and they peel the back of their head to reveal the
+brain (cant remember what they did with it) then the next scene is
+they ran out"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

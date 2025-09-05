@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Cold War Family Drama. This movie would have been made in
+the 80s, I think; early 90s at the latest. It takes place in Nevada, I
+think perhaps Reno, a plot element is the father's obsession with
+nuclear tests, and an upcoming test will be visible from town. The
+family consists of two kids, their parents, and a disruptive aunt who
+comes to live with them. The father has ptsd from the war, drinks, and
+is volatile. The elder daughter is the main character, and gravitates
+to the aunt as she comes of age. I want to say her name is Rose. It's
+mostly a family drama centered around those aspects: the daughter's
+growth and struggle with their family situation. Saw it years ago and
+can't seem to find it now. Any ideas? Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

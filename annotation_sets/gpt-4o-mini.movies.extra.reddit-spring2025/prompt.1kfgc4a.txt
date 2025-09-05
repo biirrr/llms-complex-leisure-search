@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Title of the movie please =. It was about 2 girls stuck in
+the van while their friend was running back to the van, they were
+shouting and cheering for her that shes coming running towards the
+van then suddenly the door of the van is getting knocked by something
+, one of the girls thought it was their friends but the other girl
+stopped her and pointed at the window of the van, the lady was doing
+the gestures of shouting,knocking on something, and then poof it cuts
+out to the girl then there was a fog or blue fog . The van was stuck
+on the woods it was nighttime. What movie is the title of the movie???
+HELP =- Ps: just saw this on fb reels, i wanna watch it Lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

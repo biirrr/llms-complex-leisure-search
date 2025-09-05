@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "I can't find this movie (not even with AI). The protagonist
+is a normal guy who watches people walk by on the street and writes
+stories. I don't remember exactly if he writes, but he is curious
+about other people's lives. Scenes I remember 1. In one scene he's in
+a cafe I think and a thief sits next to him asking him what he does.
+2. Ok I remember this thief wears gloves, not leather ones, but white
+latex ones. 3. He invites the protagonist to enter other people's
+homes, not exactly to steal, but to observe other people's lives. 4.
+This thief breaks into a woman's house and finds a pair of earrings
+and steals them, but ONLY one, just to annoy her. 5. The thief tells
+the protagonist that he found a new house to break into, this house is
+the protagonist's house but he acts like is not his house. Basically
+in this scene the thief makes fun of this guy's lifestyle. 6. Almost
+at the end of the film, the thief tells the protagonist to rob a
+place, but in the end it was all a scam."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

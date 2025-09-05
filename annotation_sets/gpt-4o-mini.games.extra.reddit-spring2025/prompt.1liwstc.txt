@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2024] episotic adventure/survival/post apocalyptic
+game.. What is this game called? This is what i remember. Gameplay:
+its like the walking dead, how you interact, but with the addition of
+fps when doing task, like looking for food. Graphics: reminds me alot
+about don't starve together but more colorful. Start of the game: you
+go into a supermarket looking for loot, another group is there so you
+run to the back office and escape out using a car Jack on a garage
+door, but crash your car on the way out because your tire gets shot
+Setting: you are in a post apocalyptic world, surviving looking for
+supplies. Monster: The monster reminds me of wendigo - i don't know
+what else to say. Ending: the demo ends at a high school where you and
+a Stranger you have become friends with get chased around. The game
+ends with either you and your friend splitting up or staying together,
+based on what you have done and said like the walking dead"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,38 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie from childhood??. I've had this movie that I watched
+ages ago stuck on my mind and I cannot for the life of me remember the
+name or any scene enough to get a straight answer from google. The
+movie (I'm pretty sure) is about a man and his daughter. The man is a
+bit of an alcoholic and gets into some kind of car accident or
+something. The girl, his daughter, happens to be in her school bus and
+witnesses it. She's doing her makeup in the back of the bus - pretty
+sure there's a fake mole, blue eyeshadow, and overly filled in
+eyebrows (classic kids playing around with makeup for the first time).
+From the back of the bus this guys daughter can see what happens and
+then somehow gets to the hospital where her dad is. There's a scene
+where she's with him the hospital and she's crying and a tear drops
+from her heavily mascaraed eyelash and onto him... can't remember if
+it was in his mouth or on his cheek or somewhere else. Another big
+part of the movie (that I think I'm remembering correctly unless my
+childhood memories are smashing to very different movies together) but
+viewers are able to see what the characters eat. Kind of like with
+Inside Out and the characters/emotions in the brain, in this movie the
+the stomach is personified?? Like whenever the dad eats or drinks
+something a scene change goes into his stomach and there's little
+figures in there taking notes on what he ate and whether or not it's
+good for him. I remember a specific scene where either dad or daughter
+is eating those graham cracker bears or teddy grahams and it flows
+through the digestive track and into the stomach and the stomach
+figure people make comments on the choice of snack. Am I crazy?? I
+swear this is real and I need to find it because it's driving me
+insane."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

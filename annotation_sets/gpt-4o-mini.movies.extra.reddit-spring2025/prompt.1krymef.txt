@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help for a monster movie. I saw it sometime in late 2000s to
+early 2010s. There was a monster that can kill someone. It killed a
+man and put on the skin of the man, seeming just like the man but very
+weird. Then it walked into the man's house and asked for a tea
+(coffee?), with sugar. His wife seemed confused but did not suspected
+much, and added like a spoon, but it demanded more sugar. At last the
+wife added a whole jar of sugar into the drink. Then the monster drank
+all of the drink."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

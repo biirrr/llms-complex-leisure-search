@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Ive been trying to find this movie for years. it was an old
+animated vhs my grandma had and i loved it as a kid. this group of
+fairies live in a forest and go on some kind of quest i think with
+some other creatures. one of the male fairies has brown hair and plays
+a pan flute. at some point they end up at a carnival of sorts. along
+the way they find a dog with his foot stuck in a bear trap, they free
+him and take him along with them on a boat/raft across the water i
+think. the main villain of the story is the man/men who trapped the
+dog. is this ringing any bells for anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

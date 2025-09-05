@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Forgotten horror movie. So, I watched this movie as a young
+kid, it was late at night and aired on television (nothing fancy just
+a random free channel), and I remember bits and pieces of it but I
+can't seem to think of the name. The few details I remember are that
+this family of four (I believe) a mother, father, eldest was a girl
+and youngest was a boy (I think, may have been more kids but I only
+remember two I think there may have been a third (maybe another girl?)
+When they moved into the new house, they had a basement, and there was
+this small closet/cellar in a corner, and inside was some kind of
+demon? I don't think we ever saw the full thing, just eyes and mouth.
+I remember that the daughter at one point broke a window on the second
+floor, I think, and jumped to escape amidst the chaos of the demon
+reeking havoc. I think the movie was from any where between the 80s to
+very late 90s early 2000s and I think I remember another movie coming
+on after it that was related to it, or maybe I'm bluring two movies
+together??? I don't know, but I really want to find this movie and
+just can't seem to! All that comes up is """"""""The cellar""""""""
+(1989), which isn't it! Solved! Thank you to the commenter who helped
+me realize it was Amityville (1979!) >ö"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

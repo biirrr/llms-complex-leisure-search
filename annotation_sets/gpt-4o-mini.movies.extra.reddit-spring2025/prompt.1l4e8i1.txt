@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "a small town crime movie, like The Place Beyond the Pines,
+where a hurricane or large storm gets closer and closer as the plot
+progresses. I believe it was on netflix, inside of the last decade.
+The storm that's coming seems to be a background factor until it gets
+closer and closer, ultimately leading to the final showdown happening
+while some bad guys are trying to kill the protagonist for not having
+the money he owes them... or something like that? He has like 48 hours
+to get the money but he doesn't have it so he tries to run out of
+town, but then he runs back to get some girl or something but that's
+right when the storm has finally hit. It wasn't the best movie ever
+but I loved the impending storm as a plot device and really would love
+to watch it again! Thanks to everyone for your help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

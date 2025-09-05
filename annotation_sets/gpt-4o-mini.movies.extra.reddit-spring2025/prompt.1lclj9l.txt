@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror short movie in black and white. Hi! Im looking for
+an indie Latin American psychological thriller/horror short that Ive
+seen about 10 years ago. It was hosted for free on a site dedicated to
+the film, probably made by the director. It was shot in black and
+white, around 10-15 minutes long, with an unsettling vibe and eerie
+cool music. I think the title had ~philia in it, maybe referencing a
+fetish related to surgery or amputation. The story was told from the
+point of view of a doctor/surgeon who saw himself as a generous,
+selfless man. He had an MTF trans nurse, a beautiful, cheerful,
+provocative woman that he called his masterpiece, saying he had done
+her reassignment and cosmetic surgeries himself. One day, a wounded
+criminal with a bag of money showed up and threatened him with a gun.
+The doctor tried to calm him down and offered to help, but the man
+ended up dead. Other things happened, but I cant remember. (Spoilers
+from here) The twist was that the doctor wasnt a real surgeon at all.
+He was a delusional psychopath, maybe a drug addict. The nurse wasnt
+anything like how he saw her: she looked very masculine and botched
+from bad surgery, and she hated him because he was threatening to cut
+off her hormone pills if she ever tried to leave or speak out. The
+scene with the criminal also played out differently. The man was
+wounded but not aggressive, he basically handed over the gun
+willingly. The doctor then shot him and stole his money. Did someone
+know what Im talking about and ever saw this short?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

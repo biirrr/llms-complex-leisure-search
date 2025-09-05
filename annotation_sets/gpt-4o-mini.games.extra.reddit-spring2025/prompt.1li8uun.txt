@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] 2D puzzle game set in a town/village that slowly
+freezes over with each new act.. Platform(s): PC Genre: puzzle genre
+using a side-scrolling fps pov. Kinda horror/adventure Estimated year
+of release: &gt;2000s Graphics/art style: a flat, 2D art style&akin to
+that seem in a childrens picture story book. The colour palette used
+becomes progressively more pale and snowy with hints of red Notable
+characters: One character you befriend, whose eyes you use to progress
+in the game. Another is royalty, stuck in a tower near the games
+final act Notable gameplay mechanics: special item backpack system.
+You find&gt;collect&gt;use (consume) items to unlock different
+progression paths in other game areas. E.g. finding pieces of a box
+puzzle that unlocks to grant a key for a locked door. Other details:
+its set in a cursed village/town beside a lake. Each act/chapter has
+the setting deteriorate by freezing over. The opening act(s) take
+place in a forest, the ending in a tower. I believe theres a full
+play through of the game on YouTube, likely by Alpha Beta Gamer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

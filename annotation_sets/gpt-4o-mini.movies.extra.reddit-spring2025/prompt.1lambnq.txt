@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Probably animated movie with isekai, humanoide demons and
+dragons. Hello, I'm searching for a movie I watched many years ago on
+TV. I can't remember much. The protagonist (male) was isekaied from
+real life (I think it was Japan) in another world. He is from a
+prophecy with dragons and there's a dragon in the end too. The humans
+there are hostile against the humanoide demons but they aren't the bad
+guys. He befriends a girl from them. I searched it for a long time
+without success. As soon as I see the titel or pictures from it, I
+will know it's this one. I hope someone knows which movie I'm talking
+about."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

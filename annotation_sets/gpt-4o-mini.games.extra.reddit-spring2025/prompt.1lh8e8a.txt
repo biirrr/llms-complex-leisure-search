@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2018]2D drawing action game. Videogame that looks
+like it is drawn on a paper with a pen, it is 2D super mario style. At
+the beginning of the game you draw your weapon and after that you run
+and fight drawn monsters. The background is paper and in the game you
+go over different obstacles and fight against monsters.I played it
+somewhere between 2012 and 2018. I'm not 100% sure, but I think that
+you draw your own character that you play with and that you have
+different colours like red and blue, not just black. Thanks for help!
+;)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

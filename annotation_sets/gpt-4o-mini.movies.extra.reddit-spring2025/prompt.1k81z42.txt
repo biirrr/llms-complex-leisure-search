@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help me find this movie. In the beginning, the protagonist
+lives with a family powers were hidden by this family member. During
+the film, member in a somewhat isolated place. Until then, his he is
+sent to an academy for people with certain types of superpowers, but
+he doesn't fit in there. Until he is sent to a trainer in an isolated
+place. While the academy team investigates the murders of an unusual
+being, the final scene is of a """"""""fight"""""""" in a mansion
+where the protagonist s father, a monster, is. The academy team and
+the protagonist with powers are there. The father and the protagonist
+fight, but the father realizes that it is his son. Edit: the film
+seems to have been released between 2000-2010, protagonist is a boy,
+real life, nothing cartoonish it seems that the
+""""""""school/academy"""""""" is a type of organization, they are
+investigating a series of attacks where several teams have already
+died, I remember a scene where they are in a house investigating and
+suffer attacks (the scene in question has a dark blue tone)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

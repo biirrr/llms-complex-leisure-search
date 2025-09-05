@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old animated VHS tape that kind of looked like Hello Kitty?.
+I just randomly had a deep memory pop up of a VHS tape we had in the
+house growing up, but I cannot remember the specifics. All I can
+remember is that it was animated, late 80s or early 90s, I think it
+was an anime similar to Hello Kitty with short, cute talking animals.
+The only story detail I remember is I think everyone was concerned
+with an egg, and were trying to protect it from getting cracked. I
+think I remember one character holding onto the egg in a little pocket
+on their chest for most of the story. I know that's really vague, and
+I'm not sure if this is the best subreddit for this question. But if
+anyone has any ideas what this might be, I'd love to hear! Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

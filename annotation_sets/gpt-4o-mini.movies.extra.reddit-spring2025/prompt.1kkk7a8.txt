@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Serial killer friend of adult child star. I saw this film on
+TV in Europe in 2001, but the actors all sounded to be North American
+(US/Canada). The grown up child star was named David. The entire film
+they looked for a serial killer. The former child star was gay and
+teasing or otherwise involved with a younger fan. A lesbian woman was
+also somehow involved with another woman in the film. A few scenes I
+remember: The woman buys earrings for her female friend and asks the
+store ataff if they gift wrap. """"""""It's what we live for."""""""",
+was the reply. David is riding in his friend's car through a long
+tunnel and the passenger window doesn't work. """"""""It's
+broken."""""""", his friend said. In the last scene of the film, David
+is with his friend, who has been surrounded by police and they're on a
+rooftop. The friend/killer yells """""""" I did it for you,
+David!"""""""" And junps. Does anyone have any idea what this film
+is?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

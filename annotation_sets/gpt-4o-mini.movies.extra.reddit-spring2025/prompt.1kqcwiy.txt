@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Old movie about piano player?. OK this is my last ditch
+effort to figure out what movie I have in my memory or if I just had a
+fever dream that was extremely vivid... Back in elementary school I
+have a memory of watching a movie about a piano player. it was an old
+movie possibly in black-and-white, the title was something along the
+lines of 'X,000 fingers/keys of Mr. Something' and all I really
+remember was that there was this staircase possibly made of piano keys
+that was long and winding into an odd basement. I also vaguely
+remember his bedroom that had a cool old canopy bed where he was
+talking to a wife or girlfriend at some point. that's really all I can
+remember. I know that's extremely vague but if anybody knows what I'm
+talking about please let me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

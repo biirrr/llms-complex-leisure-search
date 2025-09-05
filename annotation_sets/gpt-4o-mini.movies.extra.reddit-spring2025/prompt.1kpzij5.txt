@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie where a woman relives important moments in her life
+before she dies. [SOLVED] Can anyone remind me of the film where a
+woman experiences a confusing possession of moments from her life
+which were significant? If I remember correctly, it turns out at the
+end of the film that she has been dying and throughout the film there
+are references to this. I remember there was relationship turmoil
+throughout and at the end she realises that her whole family is there
+for her as she dies. Im thinking correctly it has a lot of emphasis
+on Christmas, and though it seems wholesome it did disturb me a bit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

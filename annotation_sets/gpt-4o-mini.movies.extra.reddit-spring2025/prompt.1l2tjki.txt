@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie short about a boy whos treated badly by his two
+relatives and befriends a tiny monster that grows when water is poured
+on it. I remember a short of a boy who was basically given the
+Cinderella treatment from his relatives, he had to bring them an ice
+cream sandwich whenever they demand it, during this time he just
+played with his train set, he befriends some monster he found which
+was reptilian like, he slacks off just a bit and doesnt bring the ice
+cream sandwiches to his relatives one of ladies goes down the basement
+to punish him, but then she discovers the creature the boy was hiding
+and she takes the hose and threatens to wet the creature thinking it
+was a puppy, basically spraying and causing the monster to grow and
+pop out of the closet, frightening the lady, the creature covers both
+her and the another girl who treated the boy badly in slime or
+something, it then ends with them standing next to each other defeated
+and making train noises while the boy plays with it with his monster
+friend."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox360] [2000-2010/13?] Guy with a yellow helmet and a
+jetpack. You play with a character that wears a yellow helmet like
+Haze's, but you use a jetpack and while flying, you shoot at robots or
+insects it was kind of space like cant remember if it was another
+planet or just earth. I literally don't have anything more i just
+remember it was kind of bad or maybe I was >7 B."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

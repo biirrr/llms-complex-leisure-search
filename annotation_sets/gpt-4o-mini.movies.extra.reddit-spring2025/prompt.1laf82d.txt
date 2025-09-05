@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Only know one scene. Its a zombie movie I watched in middle
+school around 2012, I watched it on Netflix and I think its title
+cover was all black and the letters were spelling out the title and
+they had the American flag theme in them or it was faint in the
+background. The movie was gory as hell, shows people getting their
+guts eaten on the front lawn of houses and I think it takes place
+mainly at night. One scene I remember vividly was where the main
+character (a girl) was escaping zombies and when into a house where
+one of her school mates live and the dad threatens her with an Axe and
+she gets placed downstairs where she find the mom chained to the bed
+in a laying position and shes a zombie, later on the son (her school
+mate) feels bad and releases her but then the mom breaks free somehow
+and eats the son and the camera shows it. The main character freaks
+out and escapes. The film takes place in a small town in America and
+shows how the infection flies through the town and the main characters
+experience with it. It is definitely a indie film and is definitely no
+longer on Netflix."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

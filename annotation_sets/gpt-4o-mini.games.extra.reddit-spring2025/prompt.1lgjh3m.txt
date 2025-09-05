@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1 or PC][90s] Adventure game with Lifesaver like
+obstacles.. Im having Vivid memories of this game I remember playing
+the demo of back in the day. This was when they use to have playable
+demos in stores. It may have been Best Buy, or Radio Shack, but it
+definitely was a store where they sold game consoles. I remember
+vividly that the character, in order to jump or go to another obstacle
+in a level, the character would jump on these pink things that looked
+like either Gummy Lifesavers or Pink donuts. Thats the only vivid
+memory I have of this game. If anyone knows what game that is then
+please tell me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

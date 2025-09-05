@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS? Xbox?][2000's] An FPS involving time manipulation of
+objects both for combat and some puzzles. Platform(s): I think
+consoles, but maybe PC too Genre: FPS Estimated year of release: mid
+to late 2000's Graphics/art style: overgrown / abandoned facility?
+Notable gameplay mechanics: I recall a review in Game Informer that
+gave examples of the time mechanic, such as aging the cover enemies
+hid behind so it would disintegrate, or aging a chalkboard back to
+when it had an important clue written on it. I want to say it was set
+in an overgrown facility or school of some sort. It's been sitting
+enigmatically in my memory for a while and I wish I knew what it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

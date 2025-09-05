@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can someone help me find this movie? It's been 7 years still
+couldn't find anything about it. So im looking for a movie when i
+watched it as a kid, i don't remember that much but i could remember
+it was a horror movie and i think it was about a mirror that could
+move things one scene, where the door was closed and a girl was
+sitting inside of that room. someone (or something) knocked on the
+door and there was food(or a plate with something on it) infront of
+the door, and another scene i remember was someone (i dont know if it
+was a girl or man) came out of the mirror and started chasing the
+woman thats all i could remember, do someone know this movie?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

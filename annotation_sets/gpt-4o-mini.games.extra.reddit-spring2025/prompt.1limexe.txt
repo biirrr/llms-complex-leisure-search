@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GameCube or PS2?][2000s] Game set in ancient Egypt. Pretty
+certain the main enemies were scarabs. I'm sure you played as a
+character that had a magic manacle and you could swing or interact
+with objects with it.. Has been a very long time since I played it.
+But it keeps coming back to me and it bugs me I have no idea what it's
+called! I feel like there were little blue orb pickups in the game
+too. Not sure if there were for points etc or to charge the manacle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

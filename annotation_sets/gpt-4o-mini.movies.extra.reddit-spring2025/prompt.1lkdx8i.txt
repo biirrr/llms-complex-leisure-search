@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Action movie """"""""something dragon""""""""?. So there was
+this action movie. 2000/2010 ish. I think the main character was of
+Asian origin. He was quite small. And at some point he is confronted
+by this really big person. I think this big person is African
+American. He takes of his cloak/jacket and throws a punch that destroy
+a wooden pillar!!! What blew my mind was that they play a boyband song
+I think it was Nsync. I don't remember the song. I just remember
+beeing blown away. Do anybody remember the movie?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

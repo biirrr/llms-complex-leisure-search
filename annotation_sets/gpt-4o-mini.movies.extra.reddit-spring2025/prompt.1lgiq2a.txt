@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Cant remember film name and vaguely remember the plot.
+(Its not Time cut or Totally killer) THE BIT OF PLOT IM NOT SURE OF
+Its a 2000 or 2010ish film ( I believe) where a girl (at least I
+think its a girl) travels back in time to a high school in 90s or
+early 2000s (cant remember the exact time could be even 80s at this
+point) THE PLOT IM SURE OF There was serial killer who was never
+caught and the girl was stuck inside the bodies of the victims in the
+order of death which they died in and had to try and stop and figure
+out who the killer was. Each time she would die she would wake up in
+the next victims body. Im sorry theres not much info as I watched it
+years ago and cant even remember what I watched it on. I know its a
+stretch but Im desperate to find it. Ive never even made a Reddit
+post till now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

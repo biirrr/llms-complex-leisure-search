@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "WMWT? She looks a bit... Well more like almost exactly like
+a younger Paul McCartney.. I only got to see it halfway in, but I'm
+pretty sure it's an 80s movie about a high schooler who along with her
+nerdy friends went out on a frat party to hook up with guys. The main
+girl got rejected by the Jock, she then talked up with a greaser
+looking dude who then fought the Jock. After that they hook up and she
+got pregnant. I was only in the restaurant where the movie was playing
+for a brief hour, so I didn't get most of it. Help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

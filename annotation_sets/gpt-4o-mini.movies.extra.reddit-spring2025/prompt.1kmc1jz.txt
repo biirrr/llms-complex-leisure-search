@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie scene (maybe) definitely a parody. So idk if this goes
+here since Im not entirely sure its from a movie but idk where else
+to put it. So I remember seeing this picture and it was really
+obviously a Star Wars parody. There was a guy dressed as Han Solo and
+there was a brown puppet/Muppet that was clearly supposed to be
+Chewbacca. They were inside a spaceship of some kind. It wasnt
+Spaceballs, I know that. But I have no idea what else it could be."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

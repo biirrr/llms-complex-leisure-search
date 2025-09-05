@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2024?] An indie horror game with a minimal user
+interface. Platform(s): PC Genre: Horror (Indie) Estimated year of
+release: &gt;2024 Graphics/art style: Pixelated, minimal Notable
+characters: - Notable gameplay mechanics: \- You control a person (or
+possibly a humanoid figure), moving in cardinal directions (NSWE) \-
+Navigation is based on limited on-screen information (limited to none
+visual information, we can't see what the person sees) \- A text is at
+the top of the screen, describing what object you're looking at,
+including whether its human or not \- There is a sonar or compass-
+like tool to aid in navigation \- The background audio consists only
+of muffled breathing Other details: emphasis seems to be on
+atmospheric tension and disorientation"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

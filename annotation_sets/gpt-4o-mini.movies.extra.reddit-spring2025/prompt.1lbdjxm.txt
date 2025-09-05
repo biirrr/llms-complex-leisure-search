@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Son is a Monster. I believe it came out on Netflix between
+2010-2015. A mother is trying to protect her son who is half human,
+half something else. Theyre being hunted down by guy. Teen son
+manages to get laid before he gets killed so hes monster DNA can live
+on. Takes place in Scotland or Ireland? Appreciate any ideas, Ive
+googled different elements of the plot and the movie doesnt come up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

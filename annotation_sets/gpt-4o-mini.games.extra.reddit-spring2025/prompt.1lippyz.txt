@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2017-2023] First-person horror game with in-game
+PC/forum puzzles, apartment deteriorates over time. The game starts in
+a stairwell outside an apartment, but no matter how far you go down,
+you always loop back to the same apartment door. The game is in full
+3D and first-person, not 2D or pixelated. The walls of the apartment
+slowly deteriorate and decay the further you progress through the
+story There are two realities or overlapping dimensions that shift
+during gameplay. Inside the apartment, there is a PC you can use, and
+it has access to a forum-like interface. Using that forum is essential
+for solving puzzles and progressing in the game I think you can
+interact with other users or characters through the forum somehow. Im
+almost certain Cellbit or Alanzoka, (Brazilian streamers), played this
+game at some point. Its not: Stories Untold Anatomy Blank Frame
+MiSide Notes of Obsession Look Outside Simulacra World of Horror"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

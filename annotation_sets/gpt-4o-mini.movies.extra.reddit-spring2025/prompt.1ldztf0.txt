@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Childhood Nightmares. I was very young when I saw this, but
+it traumatized me for life - now, as an adult, I've scoured the
+Internet to no avail. Maybe you can help: The movie was set in a
+fantasy world. I believe the main character was a young girl. In a
+culminating scene, the evil queen captures her, and this queen has a
+penchant for boiling her captives alive. As the girl is being lowered
+into boiling water, in what's essentially a giant teabag, two fairy
+girls that the main character had encountered earlier in the story
+swap places with her. An ancillary character explains that fairies
+actually LOVE boiling water, and we cut to the fairies splashing
+around happily inside the teabag thing. Does anyone have any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80's movie about revenge. 80's movie about revenge I work
+with an old guy and our usual activity is him remembering movies from
+his youth and us watching them together. He gives me pieces and actors
+and I scour the internet and surprise him with the movie. This one I
+havent been able to find. He thinks its maybe 80's or late 70´s. The
+Introductions id basically a family in a vacation with a RV gets
+killed by a bunch of bad guys. The mother has a white dress and opens
+it up but the killer says its not what they came for and kills her.
+Only the son hides and manages to escape. Years later he goes back to
+the town and he avenges himself through a string of strange and
+seemingly accidental deaths. Such deaths include: \-A motorhome has
+its wheels bolts removed and tumbles off a cliff; A person dies of
+asphixiation with a tennis ball; a shotgun is tampered with, exploding
+in the attackers face (It was the sheriff). During the movie the main
+charater also falls for a girl that ends up being the daughter of one
+of the killers and he spares her father. Thanks for the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

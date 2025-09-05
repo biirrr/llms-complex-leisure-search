@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's?] I distinctly remember a point and click game
+where you control a man inside an apartment.. It was a game I played
+when I was a kid, so a lot of my memories surrounding it are hazy. But
+I remember some key things about it: \-It had what I would describe as
+PS2 graphics, with the fidelity of later Silent Hill games. It's
+definitely not Silent Hill 4, I know that for sure. \-One interaction
+has the protagonist look outside of his window, the street is in
+nighttime? \-Another interaction has him open up a drawer to find
+action figure toys."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help with finding a 90's french/italian racing movie..
+In this film there is a silver racing sport car like jaguar xj220 or
+Lamborghini DIablo Vt, maybe a concept car - i don't remember but this
+vehicle is powered on Hydrogen or something like this and don't need
+refuel like other cars. Everyone is trying to steal this car. There
+are a lot of chases and races in 90's supercars on the streets of
+maybe Paris or Rome and a lot of crashes. I have this film on VHS in
+early years of 2000' when i was a kid and i can't find it at all ;/
+Thx for your answers and sorry for my poor English ;p"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

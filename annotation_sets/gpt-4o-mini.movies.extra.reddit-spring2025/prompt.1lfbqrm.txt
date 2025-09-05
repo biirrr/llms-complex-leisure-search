@@ -1,0 +1,55 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help with remembering the name of this movie. There was
+this comedy Murder mystery I can't remember the name of but I remember
+a bit from the movie. The beginning had an old couple get into a car
+at night about to leave their mansion but the husband had to get out
+and smoke a cigarette I think it was. When he gets back inside of the
+car. His wife is dead or knocked out unconscious and he doesn't
+realized it and then gets knocked out unconscious as well by someone
+hiding in the back seat. Then the person rigs the car to drive off the
+bridge that connected to their mansion which killed and drown them.
+The next has like two buddies who I think are detectives driving into
+the castle mansion to investigate the case. I just remember them being
+something like a comedy duo like Abbott and Costello (originally
+thought it was them). They drive in the mansion and meet the daughter
+heiress of the couple that just died. She does the introductions and
+has the servants introduces themselves. One of the servants I remember
+was a tall butcher dude who can't speak properly because he had his
+tounge cut off for stealing. So whenever he talks he sounds like he is
+mumbling I remember that scene well because one of the detectives
+asked his partner if he understood what he said when the butcher
+introduced himself and his partner said yes and started mumble talking
+exactly like what the dude said. The detective duo go around trying to
+figure out who the killer is but we see the killer wearing a black
+hoodie or drape (kinda like the slasher guy from the scream horror
+movies) following them around. As the movie progresses. They end up
+finding each servant slowly being killed one by one in the mansion. I
+think one of the deaths had a servant choked to death by a statue
+hand. Eventually at the end of the movie we see the killer filling up
+a large bag with money that is the inheritance money the old couple
+had who died in the beginning of the movie. The detectives find the
+killer and the killer turns out to be a woman who was a lover of the
+the old man. She holds the detectives at gunpoint ready to get away in
+a car before another person in a black drape that is huge slowly
+appears and approaches right behind her. She turns around and sees the
+thing. She shoots her gun at it but it does nothing and keeps coming
+towards her before she finally faints from horror. The mysterious
+hooded figure then turns to the detectives and reveals himself to be
+the husband of the old couple who """"""""died"""""""" in the
+beginning of the movie. Finally we're at the end of the movie and
+detectives are leaving and I think the servants were all magically
+alive again somehow. I think it because the butcher guy who can't talk
+gifts the detectives a coffin box. The detectives drive off and it
+turns out there was like Frankenstein in the box and it scares them
+showing the final scene of the car swerving side to side on the road
+before the movies ends."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

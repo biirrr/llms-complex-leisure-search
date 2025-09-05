@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "~early 2000s movie where a guy survives a plane crash full
+of blinded passengers due to stealing all their life jackets.. I'm
+going crazy trying to find evidence of this movie ever existing. What
+I remember is this: this guy (the protag I assume) is on a commercial
+flight when suddenly some sort of supernatural light flashes and makes
+everyone onboard, including the pilots, completely blind. Everyone
+except this one guy, due to him sleeping and having a sleeping mask on
+or something. The plane is on course to crash due to this, so the guy
+steals over a dozen of the blind passengers inflatable life jackets
+and stuffs himself inside them greedily just to save himself. I
+believe in the end the plane crashes and everyone dies except him, due
+to him stealing all those life jackets for his own benefit. Any ideas?
+Google and AIs have been no help and I'm losing my mind, thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

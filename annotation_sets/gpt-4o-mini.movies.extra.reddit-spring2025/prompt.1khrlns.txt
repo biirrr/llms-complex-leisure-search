@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Early to Late 2010's movie about a girl who goes crazy about
+social media influencing.. I remember getting this movie from redbox
+when I was around 8 or 9, so all i remember is the basic premise and
+some scenes. its a movie about a girl who decides that she wants to be
+an influencer so she comes up with something so she could make herself
+look good. She breaks into another influencers house and steals her
+dog so it looks like he went missing. She returns the dog so it looks
+like she found it, and she befriends her. After that she starts
+getting more and more influencer connections but also gets crazier and
+crazier. At the end of the movie i think it was in the desert like
+just some white mini shack where the main character and the influencer
+who befriends her drops her as a friend and she freaks out over a
+charger. Sorry if this isnt descriptive enough, haven't watched it in
+like a decade almost it feels like."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "WW2 movie from back in the day. I remember next to nothing
+about this movie but the one scene left a lasting impression on young
+me& WW2 movie where the heroes are part of a resistance against the
+nazis They set up an ambush in what I remember as a pretty French
+village The scene in question revolves around a tiny underground
+bunker where a few of the heroes hide ready for an ambush Things go
+south and the nazis use a hose to flush them out - although I seem to
+remember that theyd rather drown I suspect its a late 60s / 70s
+movie that I would have watched in the 80s May well have been an
+Italian movie but just as likely as US."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,38 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Two joggers try to escape a family that kidnapped them. I
+have watched this movie on youtube during pandemic . Since then wanted
+to re-watch it but I don't remember its name and now barely the plot.
+So please help me find this movie =-=-. It was a low budget movie
+probably independent. There was a man jogging peacefully near some
+farm until he takes a turn in the woods, following where he finds
+himself being chased by someone or something. Eventually he finds a
+woman (also jogging) whom he tries to convince about what he had just
+experienced. Now the guy must have injured his leg somehow (maybe to
+some trap while he was being chased) because I remember the girl
+taking him to an abandoned shed after which she left to call for help
+and the guy faints . The guy wakes up,bound to a tree, to a family
+standing along with the same woman. They wanted to kill the man but
+the woman convinces them that she will kill him (or fuck him whatever)
+alone. When they left she explained the man that the family uses her
+as bait to bring other people. The two then try to escape and are
+being manhunted by the family.I don't remember the chase sequence
+however In the last scene they both are seen on a truck that they
+stole and out of that place but it's revealed that the truck has a
+bomb in it and an explosion is heard while the screen turns black.
+Additional details - This actress had a different accent and speaking
+style as if English wasn't her first language. The guy was wearing
+shorts and was muscular but didn't fight a single guy. All the work
+was done the the women. The family might have been inbread or some
+cult, other than that they were farmers Two. When these two managed to
+escape one of the family members now injured was holding the remote to
+the bomb"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

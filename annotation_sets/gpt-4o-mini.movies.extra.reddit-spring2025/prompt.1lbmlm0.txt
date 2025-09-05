@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Thriller about a couple??. I think it was a thriller, kinda
+an old timey feel/look to it, but a couple was driving somewhere and
+stopped at some motel type thing and one of them got sick and also got
+sicker the farther they got away from the motel. One ended up going
+crazy and killing the other maybe? and I remember the end had the dude
+wearing a burlap sack as a mask and looking at his bloody hands or
+something lmao"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

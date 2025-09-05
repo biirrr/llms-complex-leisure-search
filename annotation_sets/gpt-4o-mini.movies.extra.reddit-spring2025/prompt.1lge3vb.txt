@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Suspense movie on a train. I dont remember if these details
+are 100% correct: Its European (maybe Russian) movie from 2005 or
+later Two couples meet on a train and I think at least one of them is
+a smuggler At one point the woman from one couple and the man from
+another go on an excursion to check out ruins of a church Theres
+photos taken and some physical alteration Someone is revealed to be
+someone not as they seem Sorry thats all I remember!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

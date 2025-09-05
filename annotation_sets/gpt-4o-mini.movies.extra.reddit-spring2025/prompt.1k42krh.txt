@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to think of a movie I saw as a kid.. It was an action
+movie, probably released in the 80s or 90s the hero character had to
+swim into a location for the final mission or something. I think he
+had to rescue someone? Or storm the fortress of some bad guy. To get
+better at holding his breath, he would submerge himself fully in a
+bathtub while a cigarette was lit nearby. He was using a burning
+cigarette as timer. He did that a few times. I believe there was a
+mentor figure or some associate of his who warned him before the final
+arc of the movie that swimming with purpose will burn through your
+oxygen reserves a little faster than just sitting in a tub. I dont
+remember much else about the movie, just the cigarette as a timer for
+holding your breath mostly. Its been bothering me for days. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

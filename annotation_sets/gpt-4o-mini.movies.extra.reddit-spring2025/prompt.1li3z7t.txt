@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for an older bunker/silo/zombie/mutant movie.
+There's a movie I recall between the 60s and 90s (no clue, but older)
+that involves a team of workers or possibly scientists that work in a
+bunker, possibly underground, or maybe a silo. They wear some sort of
+jump suits, and the walls are mostly white. I think there's a scene
+where mutants or zombies break in. I remember a tunnel scene where
+there's a bunch of them running? And maybe a door scene with a lot of
+dread or tension build up to get it to close? For some reason the
+outside is not hospitable."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

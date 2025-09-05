@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Can't remember this movie - based on a true story. Ive
+watched this movie a while ago, it has like a girl who goes to the
+therapist and tells her that she is having suicidal thoughts and
+depressed. Then the therapist sends her to the psych ward. And there
+she stumbles across a nurse who's a sick guy basically he gets
+obsessed with her and he keeps bringing her food AND DRUGS ))) these
+drugs were given only for her so he can make sure she stays in the
+hospital forever so he can keep watching her. and then he tells her to
+escape the hospital with him and to live in the woods with him. Then
+she refuses and yell at him. Then she tries to escape by her self and
+he keeps running after her. She falls and breaks her leg and i think
+she finds a sharp object and finally kill him and break free"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

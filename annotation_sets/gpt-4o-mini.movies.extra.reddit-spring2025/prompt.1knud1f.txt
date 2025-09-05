@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie from some time around 2015. It was pretty
+popular I think, at least at the time. Had a good amount of
+advertising, but I don't think it did well with ratings since I
+haven't heard of it since. I can hardly remember anything about it,
+but I know it was a paranormal horror. I think it was based in like...
+India? Somewhere in a tropical forest I believe, but it was American
+produced. She was in this beautiful, huge house and there was a
+fountain in the middle where the house's ceiling opened up. Pretty
+sure there was a scene where some kind of demon tried drowning her in
+it, or a scene where the water turned black like tar. I'm think it
+came out around 2015 because I'm pretty sure we rented it when we
+rented Magic Mike XXL LMAO Sorry, but that's really all I can
+remember. I'll definitely know the movie once I see it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

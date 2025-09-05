@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP?] [2005] Time Travel/Manipulation Mystery Game..
+Platform(s): PSP? DS? 3DS? I know its handheld, might be console or pc
+as well but now sure. Genre: Mystery, Horror, Time Travel, Management
+Estimated year of release: 2005 Graphics/art style: 2dcg, anime
+Notable characters: a pet Cat Notable gameplay mechanics: you go
+around collecting energy and information to preform an action
+involving time travel/ manipulation. Other details: At the end of the
+game i remember the protagonist gives up their time powers by giving
+them to their past self by having their cat carry their watch that
+controls time and switches it with their past cat."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

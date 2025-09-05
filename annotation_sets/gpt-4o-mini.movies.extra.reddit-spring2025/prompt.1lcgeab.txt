@@ -1,0 +1,31 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this vampire movie. Here are some of the
+details (as remembered, to the best of my abilities) Genre: Vampire
+romance/thriller Time watched: Likely in the 2010s Setting: Modern-
+day, American location Main characters: One female vampire (likely
+with dark hair) A human girl (possibly blonde, but cant recall for
+sure) A human man (the vampire is romantically interested in him) Plot
+points: The vampire falls in love with the the human man, which I
+believe was the human girls boyfriend? Theres a scene by a pool
+involving the vampire and the guy. I just remember them talking The
+human girl kills the vampire in the end, in a fight on a bed The fight
+involves floating or flyingthe vampire levitates during the fight The
+vampire may have worn a necklace (possibly a cross) that gave her this
+power At some point during the struggle, the human girl removes the
+necklace, causing the vampire to lose her power and fall This gives
+the girl a chance to stab the vampire, possibly with a knife or
+similar object After the vampire dies, the human girl takes her
+necklace/power (I think) and gains the ability to levitate as well I
+also remember that the mom of the vampire saw her daughter dead on her
+bed after this all happened, and came crying. The mother was not a
+vampire"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

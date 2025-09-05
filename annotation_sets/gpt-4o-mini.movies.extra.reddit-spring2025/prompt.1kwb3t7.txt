@@ -1,0 +1,21 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Need help finding a movie, possibly a 70s or 80s
+Blaxploitation film. 70s movie where a white woman and man are
+surrounded by scary, angry black men inside of a small shack I
+believe. Also, the black group's leader is bald and has a goatee. The
+white man is being held at knifepoint (one of the dudes has a knife to
+his neck). The white woman is afraid and takes her shirt off and gives
+it to the ringleader. The group of men continue to stare menacingly at
+her, but don't really react. The camera pans behind her or neck up
+face shots and doesn't show nudity. The black bald man looked like Lou
+Gossett jr"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

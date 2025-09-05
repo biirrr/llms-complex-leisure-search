@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A 1980's/1990's slasher with 5 adults caught in a storm at
+an abandoned house. \-Edit- We have a winner thanks to Stealthd0ze -
+Deadly Manor (1990) Hello dears! Hoping someone can help me nail down
+this one particular slasher/horror film. Like the title mentions, from
+the best of my recollections, I believe there are four friends who
+pick up a hitchhiker who seems suspicious. Their car breaks down or
+one of them, a girl, leaves and the others follow after her. They find
+a house with a barn and there's also a car that appears burned. A
+storm is starting so they first head into the barn but then see about
+getting into the house. There they start a fireplace and sleep. My
+memory gets especially hazy here. But I recollect a scene of someone
+drinking wine, falling asleep on a bed. A room of many picture frames
+of a woman, and a couple who turn up towards the end. Any help would
+be appreciated, bless!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

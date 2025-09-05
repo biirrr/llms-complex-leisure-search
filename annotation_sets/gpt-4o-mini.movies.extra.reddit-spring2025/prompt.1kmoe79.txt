@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "SF movie about the killer solar flare. I remember watching
+the beginning of a movie in the early 1990s on VHS that begins with a
+coyote in the desert in the US, and then we see a car driving on the
+road through the desert. The car stops, a man quickly jumps out of the
+car and shoots the coyote with a rifle. After that, we see a group of
+people watching a small hologram of Earth and the Sun, and a solar
+flare that jumps from the sun and burns the Earth, and they say that
+this is about to happen in the near future."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

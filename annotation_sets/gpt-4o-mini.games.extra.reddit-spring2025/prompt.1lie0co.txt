@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC (STEAM)] [2015-2020] Solo single player postapocalypict
+puzzle game where you repair nuclear installations and investigate a
+conspiracy in a soviet wasteland. Platform(s): PC (Steam) Genre:
+Puzzle exploration investigation postapocalyptic, i think first person
+walking simulator Estimated year of release: From the graphic, i'd say
+2015-2020, without assurance Graphics/art style: Bleak soviet
+wastelands with rusty installations and vast beautiful outdoors in
+contrast (wild vegetation, sometimes clear skies, etc.) Notable
+characters: I remember a scene from the trailer where you are in an
+office talking to an important guy in a (grey?) suit behind a desk
+(tall, thin, grey hair, probably in his sixties or seventies). Notable
+gameplay mechanics: I think this is a game with no or very little
+combat, so more like a realistic puzzle game where you use tools,
+where you have to go back to a previous installation to activate or
+fetch a tool for where you are now. But there is suspense/tension and
+danger all the same (explosions, etc.), I think. Other details: If I
+remember correctly you are ONE GUY ALONE EXPLORING NUCLEAR
+INSTALLATIONS, REPARING THEM in a POSAPOCALYPTIC nuclear wasteland,
+while investigating at the same time. There is a story line, i think
+involving a conspiration around corruption or something. The ambiance
+(bleak, dark inside, but with beautiful vast exteriors) ressemble
+Z.O.N.A. (from its trailer) but it's not ZONA. (And it is not
+Chernobolyte either)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

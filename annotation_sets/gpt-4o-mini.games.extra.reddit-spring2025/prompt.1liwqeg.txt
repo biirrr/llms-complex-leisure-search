@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360] [2010s?] Looking for a coop shooter. Platform(s):
+Xbox 360 Genre: 4 player co-op 3rd Person Shooter Estimated year of
+release: I feel like it was very old since it didnt look amazing,
+like 2008-2013 maybe? Graphics/art style: kind of realistic vibe, I
+think it was set in the future. Reminded me of Remember Me a lot since
+I had picked them up both at the same time Notable characters: There
+were 4 playable characters and every person could control one or you
+could switch through all of them during combat, I think it was 2
+girls, one who had glasses, and two boys Notable gameplay mechanics:
+Each character had a specific weapon to them that I think related to
+the plot like it was some sort of secret weapon they each had and I
+think one of them was a shield maybe? Other details: Feel like the
+cover art had some orange in it, but Im not super sure about that"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

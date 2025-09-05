@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What apocalyptic film?. My wife saw a clip of a film being
+shown on Sky Apocalyptic channel the other day. It had two young
+adults - one male and dark haired, and one female with blonde hair -
+pushing train wheels of the back of a lorry to stop cars pursuing
+them. Not sure what year this film is, or which country it is set in.
+Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

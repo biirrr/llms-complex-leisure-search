@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox 1/360] [2016-2018] 2D, offline multiplayer. So I
+remember playing this game with my brother when I was younger on
+either the Xbox 360 or Xbox 1. It was a 2D offline multiplayer game.
+The whole point of the game was to complete this kinda storyline while
+fending off monsters I think, and I remember there was this one part
+where they were riding on a boat through some sort of castle or
+something. My memories of it are really fuzzy, but I feel like I
+remember a point where we had to jump on some zip line while shooting
+a really big monster or something. The art style looked kinda hand
+drawn, and the colors were darker and drab. Please help me out =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

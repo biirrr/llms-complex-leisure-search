@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] City Street Racing Game. Greetings everyone,
+I've been trying to find this racing game I used to play as a kid and
+have been trying for quite some time and I hope you can help me find
+it. This is what I remember: 1: the tracks were based on cities (not
+open world by any means), mostly European (I remember a map based on
+Paris?) 2: the tracks had props like chairs and tables at cafes
+amongst other things 3: the cars had durability, health, the more you
+crashed, the more smoke comes out until it starts burning (think 3D
+universe GTA), eventually wrecking the car resulting in game over, a
+small flame on the hood of the car and the camera just turns around
+your burning car, that's the game over screen. 4: the game had
+pickups, blue chevrons for a speed boost (I think it increased your
+nitro?) and green wrenches for repairs. 5: the game had a wide
+selection of cars, I mostly remember a 70s Dodge Challenger and a
+Smart fortwo 6: the game had an orange hue mostly, I vividly remember
+the car select screen as such. After looking around myabandonware,
+I've come to the conclusion that the game may have been developed by a
+European company, probably Russian developed, could be wrong. Thank
+you in advance and thank you for your time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

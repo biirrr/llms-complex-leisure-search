@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Beach movie from the 1980s. I remember seeing a beach-themed
+movie in the 1980s with a woman who was romantically involved with
+both a boy and another girl. There was a scene that's been stuck in my
+head where she is standing between them, struggling with who to
+choose. It's an outdoor scene. I thought it might be Summer Lovers,
+but it's not. I've watched what seems like every terrible 1980s beach
+movie and still haven't found it. Does this sound familiar to any of
+you?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

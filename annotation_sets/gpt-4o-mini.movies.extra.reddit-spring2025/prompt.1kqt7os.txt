@@ -1,0 +1,40 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Redbox kiosk rental from 08-12 - Weird live action
+childrens movie. Posting here with hope! I fear the memory is so
+distant that I dont have too much information to offer but I want to
+know if anyone would know this movie. It feels like a fever dream.
+Ive tried to search for RedBox archives but no luck. We probably
+rented this when I was 8-12 years old, so that would be 2008-2013, but
+I feel the movie could be a little bit older (maybe 2000 and so on as
+it had spy kids-like special fx.) I dont remember many details but
+this movie was VERY bizarre &amp; probably in the fantasy genre. I
+assume it was not a theatrical release in the US as I had never heard
+of it. This was a live action movie with 2 children as the main
+protagonists, as well as one adult (I think male), and one adult male
+antagonist. These could have been the same person lol. Now I dont
+know many details, but what I can say is there is a central carnival
+theme to the movie, I believe at some point theyre on some sort of
+carnival ride. The antagonist is a swindler type character. I
+remember the carnival scenes being vividly colorful. I also remember
+an outdoor stage setting. Some comparisons that I can draw style wise
+are Pan, Sharkboy &amp; Lava Girl, Spy Kids, Mr Magoriums Wonder
+Emporium, and finally&.. what I can REALLY say is similar to the vibe
+is the Being for the Benefit of Mr. Kite scene from Across the
+Universe. In a different subreddit, someone offered Something Wicked
+this Way Comes and that is the closest I can find in theme and style,
+but what I remember is more 2000s goofy/weird and modern. Even Mr
+Dark seems pretty close to what I can imagine the antagonist is, but
+that is a little too old and doesnt look like what I remember. Im
+sure it is not these movies: Cirque Du Freak: The Vampires Assistant,
+Sideshow, The Imaginarium of Doctor Parnassus Something Wicked This
+Way Comes"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

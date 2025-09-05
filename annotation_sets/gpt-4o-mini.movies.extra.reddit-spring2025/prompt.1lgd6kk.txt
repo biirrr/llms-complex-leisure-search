@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Two films: walking on clouds/doll house. Hi, thanks for the
+add, I'm looking for two films: One is black and white, probably
+American, an old movie from maybe the 50s or 60s. In it, somebody I
+remember looking a bit like Spencer Tracy, in some kind of uniform, is
+walking on clouds, probably dead. It's *not* """"""""A matter of life
+and death"""""""", or """"""""A guy named Joe"""""""" which I watched
+today. ---- The second is a telefilm, something maybe out of
+""""""""The Twilight Zone"""""""". A dollhouse with real people inside
+and some child playing with them. --- Very fragmentary memories of
+them, probably because I watched them as a child. Thanks a lot in
+advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010s] point-and-click horror game where a group of
+friends stay in a house in the forest and are murdered one by one by
+their teacher. back in the 2010s, i played this game on an ipad where
+a group of friends go to a house (pretty big one, like a mansion, but
+not as fancy) in the forest and stay there. i don't remember if they
+did it as some kind of hangout or if they got lost in the forest and
+came across the house. they then start finding themselves dead one by
+one. i remember one death being that of a woman in a bathtub.
+eventually at the end of the game they enter an attic-like area where
+their teacher appears and reveals herself as the murderer, her motive
+being that she hates them (they were bad students?). the main
+character ends up being the only one left alive of the group and he
+jumps out of a window to escape. the game had a pixelated art style,
+and i remember the icon being the main character's face on a dark blue
+background"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

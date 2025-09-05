@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help identifying a movie- classic movie, monsters, pods,
+&amp; a cave. My boyfriend and I have been racking our brains trying
+to remember a movie he watched as a kidprobably from the late 80s or
+early 90s. The only details he can recall are that it featured
+monsters and they either lived in pods or emerged from them. There was
+also something about a cave being involved. I know its not much to go
+on, but figured its worth a shot asking here!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

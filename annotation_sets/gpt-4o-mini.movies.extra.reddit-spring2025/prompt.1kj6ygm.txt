@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What's this from? Some super powered thing. I remember a
+quote from something I've watched recently I think. It was something
+like I'll shatter your nervous system without a second thought It was
+some insane threat about destroying someone's nervous system, like a
+flick of their finger was enough It was awesome but I can't remember
+what it's from I KNOW it was from some super hero thing, if not then
+an anime or something idk"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

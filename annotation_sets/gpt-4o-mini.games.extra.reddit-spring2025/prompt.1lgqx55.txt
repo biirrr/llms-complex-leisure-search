@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2, maybe] [2006-08] game involving a giant robot that was
+similar to demolisher from transformers revenge of the fallen.. Dont
+remember the context of how it occurs but I sorta remember a game
+where you fought this giant double wheeled robot, like it was on one
+wheel with the other above its head, could have been cylindrical
+wheels. You were on the back of a truck or something big vehicle
+shooting out through an open door on the back of it and would take
+cover on either side of the open door. You mainly shot at the robots
+face when it was on one wheel I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2019][SPACE DETECTIVE GAME] A Space game where you
+investigate an explosion onboard a spaceship, ultimately rescuing the
+AI that saved the crew on board?. Hiii I watched this game on YT a
+long time ago and it involved an investigator going into a spaceship
+that had an explosion, rewatching CCTV footage of the wireframes of
+the people that were on board. Ultimately discovering that their
+organisation planned to have them deleted and the spaceship's AI, with
+humanistic morals, decided to save the people on board. Ultimately,
+the main lead (the player) turned out not to be an investigator but
+instead an A.I rescuer as she was actually tasked to delete the AI, to
+destroy evidence, but undercover, she is an A.I rescuer. I cant for
+the life of me remember the name of the game but I really miss it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

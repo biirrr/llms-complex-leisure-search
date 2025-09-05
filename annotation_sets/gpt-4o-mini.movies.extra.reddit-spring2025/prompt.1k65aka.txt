@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Possibly 80s/90s sci-fi movie. Look like a post-apocalyptic
+setting. One scene I recall were bot-like creatures (or aliens?)
+chasing people who were outside and killing them instantly. Something
+along the lines of Hellraiser flying orbs. And people trying to run
+back inside for safety.. Edit: Can't edit title but I meant Phantasm
+flying orbs not Hellraiser. I think it would classified as sci-fi than
+horror. It's definitely not Phantasm, Aliens or Tremors. I'm pretty
+sure it came out before 2000. I don't recall much because I saw it
+many years ago on cable. I was flipping through channels when it was
+on and didn't watch it from the start. I think there was a love
+interest that came later (or blossomed later) in the movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

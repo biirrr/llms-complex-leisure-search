@@ -1,0 +1,34 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Which zombie / infection film is this?. My daughter and I
+are trying to figure out what Zombie or otherwise infection themed
+film we're remembering watching together. We probably watched it a
+couple years ago (to rule out super new releases) In it, a woman is
+cutting vegetables (possibly tomatoes?) in the kitchen, cuts her
+fingers (possibly severs them), and bleeds black blood. I believe it's
+a family of 4, possibly 5. The dad and the daughter are the central
+figures, and the dad may wind up getting the infection himself, which
+possible spoiler: &gt;!prompts him to self sacrifice (possibly by
+throwing himself off the roof of a building) to protect his daughter
+before the infection takes over, possibly leaving her in the care of
+another person that he meets on the way.!&lt; The possibles are
+because I've seen a lot of infection / zombie themed films in 40
+years, so I don't know for sure which aspects might be bleedovers from
+other films. Edit: I figured out that the finger scene was instead
+from the film Maggie, and there were tomatoes in the background (where
+the finger was being dealt with) during """"""""the finger
+scene."""""""" So, while it didn't fit perfectly, that scene has at
+least been figured out, so I'm fairly certain that we're combining a
+pair of films at this point, so will still need to figure out the
+source of the other memory that we're blending with Maggie. Edit:
+closed, thanks u/raulmonkey, it was the rooftop scene from World War Z
+for the second memory that was getting mixed in there."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

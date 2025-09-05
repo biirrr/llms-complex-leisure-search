@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Online/PC] [2005] Puzzle game for children with small
+worlds as levels. -Online or on a pc -Puzzle solving game -Played
+around 2005-2010 -Coloured hand-drawing style graphics -Can't remember
+main characters however believe there was an old man at some point
+Used to play this while at primary school in the UK. From what I
+remember levels were based around different very small planets (one
+had a wonky house and a football I believe?). Problem solving game
+which emulates very closely to """"""""tiny bang story"""""""" in
+graphics and music. (Also looks like machinarium in graphics). Not a
+lot to go off but it's been really bugging me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

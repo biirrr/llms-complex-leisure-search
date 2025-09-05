@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Thriller/Horror with Arrow in Head Death. I remember this
+movie that had a death where a dude was shot at, crashed his car and
+had an arrow (I think it's an arrow) in his head as he walked away
+from the car crash. The protagonist twisted the arrow in his head,
+killing him. All else I remember was that the son of the story was the
+protagonist, someone impersonating his dad invited the son to his
+house, and the son and dad have a complicated relationship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

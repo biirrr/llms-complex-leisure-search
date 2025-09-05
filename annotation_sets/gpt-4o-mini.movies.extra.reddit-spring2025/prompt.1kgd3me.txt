@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Vampire movie. Not that old, probably early 2000. A family
+lives a seemingly normal life (maybe two young adults as siblings,
+woman and man, and I don't think they show the parents), they are home
+alone and so the woman invites a friend over, the friend likes the
+brother, can't remember much about that. I think at some point the
+woman offers the friend to the brother for eating? I don't remember if
+the friend dies or not, she might have ran away. And at the end, they
+embrace the fact that they are vampires and decided to run away? And
+before that, they go to the basement where they have a younger
+sibling, a boy who is much more feral and blood thirsty. It's been
+probably more than a decade since I watched it, so sorry for such a
+bad description, lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

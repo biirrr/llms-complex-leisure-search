@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Conservative suburban couple become madly promiscuous after
+a car accident.. The post title is the main part of the plot that I
+remember. Straight-laced couple in their 30s/40s get concussed(?) in a
+car accident and completely change their behaviour, setting off chaos
+in the neighbourhood. Probably from the last 20 years or so and set in
+suburban USA."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

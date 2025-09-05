@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "[TOMT] a movie or a show I watch in the 80s about a car that
+people are after because of the technology behind it.. SOLVED The
+movie is called """"""""DRIVING ME CRAZY"""""""" It came out in 1991.
+Thanks. I don't remember the title, but it left me thinking about it
+all these years. From what I remember, a guy invents a car, and people
+are after it, obviously, to make money off of it. I don't remember
+much of the movie, but what I do remember is that the inventor
+destroys the car to prevent it from going into the wrong hands. He did
+this because he is the only one that can rebuild another one. That's
+all I remember from it. I don't know the release date cause it was
+shown on TV in a hotel/motel type place in the late 80s or early 90s.
+Thanks for your help. This movie has been bugging me for decades. Edit
+to add: the inventor is from Europe, I remember he had an accent. And
+the car runs on i believe vegetables."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

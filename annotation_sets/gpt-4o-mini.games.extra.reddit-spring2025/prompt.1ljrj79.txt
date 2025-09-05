@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc, ?ios] [2015-2020] Snowy town, and memory loss.
+Platforms: Pc , Maybe IOS not sure Genre: Indie, Story-Driven,
+Romance, Mystery Estimated year of release: 2015-2020 could be 2018
+Graphics/art style: Faceless characters, 3d'ish , 3d platform Notable
+characters: Main character (train ticket seller), His childhood love
+(scientist) ,his friends (2 or 3) the military ect.. Notable gameplay
+mechanics: the game is narrative you start by selling tickets in the
+booth, you move in the town a 3d platformer and you explore the story
+Other details: Its a story-driven game set in a snowy Russian town.
+You play as a guy who works as a ticket seller for trains. His
+childhood love comes back into his life as she is investigating a
+virus, and then that virus spreads, causing people to lose their
+memories. iirc the game starts in your apartment and then you go to
+work. there is a selling tickets mechanic. Thanks in advance !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2013] Hidden Object investigation, old ghost
+village flooded. I played this game on an alternative store that I
+downloaded and it allowed me to play the first 2 hours as a demo. I
+don't remember the store or the name of the game. The game was about a
+woman who went to a mansion to investigate something. Her car broke
+down in the middle of the forest and she had to walk to the mansion. I
+remember something like she met someone who told her the exact
+combinations of left and right paths so she wouldn't get lost. When
+she got to the mansion, she had to investigate the past and find out
+why there was no one in the village except an old lady. After some
+investigation, she realized that the village had been flooded for some
+reason. The gameplay was simple, you just had to look for items on the
+screen to solve puzzles, I didn't actually move the character, I just
+clicked on whatever I wanted her to go, it was more like a slideshow
+than something modeled in 3D or 2D"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

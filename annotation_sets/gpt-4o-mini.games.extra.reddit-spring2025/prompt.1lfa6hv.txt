@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 80s/Early 90s] RPG? with elements of I Ching in
+it?. Would have released in late 80s/early 90s; I think I played it on
+our 1st IBM-clone. The game was some kind of RPG/fighting game as I
+remember it. At the start of the game you would do a mini tutorial
+fight sequence and the game would rank your skill using animals (wolf,
+bear, tiger...I think dragon was the highest rank). I don't remember
+much else other than the game incorporated the I Ching and even had a
+companion book with it including the interpretations, etc and the game
+itself would prompt you occasionally to do a reading. The graphics
+style (as you wandered around the world) was essentially just each
+characters face moving around. Can't remember much else about it
+unfortunately. Anyone got any ideas on what game it might have been?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

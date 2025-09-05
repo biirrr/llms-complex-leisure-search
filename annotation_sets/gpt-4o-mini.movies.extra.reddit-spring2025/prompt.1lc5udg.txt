@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Whats the Name of this Horror Movie!!! A Promiscuous Demon
+Woman from the 1980-90.. A horror movie from the 80s or 90s, where the
+main character, who is a Caucasian lady, becomes a demon. When she
+transforms, she becomes promiscuous and her hair turns red, in a short
+wild hair style. Also her face turns white, and she kills men after
+she has sex with them. I believe this was spoofed in the movie Dont
+Be a Menace to South Central While Drinking Your Juice in the Hood,
+the scene where Loc Dogg and the lady have sex in the van. This is
+where the gift that I linked came from, this is similar to what she
+looked like. Please help. Ive been looking for this movie for years!
+I rented it from Hollywood years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

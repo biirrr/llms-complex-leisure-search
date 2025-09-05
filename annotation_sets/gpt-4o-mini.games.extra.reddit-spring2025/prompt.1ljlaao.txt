@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2][Maybe 200-2003] A Monkey game IDK. Hi, I'm searching
+for a ps2 game from mi childhood that I don't remember the name. I
+only remember that the game is in a isometric view, you're a monkey (I
+think) and have little monkeys (or littler versions of your character)
+where you hunt others animals and collect her meat tho eat and gain
+more little versions of you, if the number is higher then you can
+defeat more powerful animals. I don't remember more of the game.
+Please help me find it, I can't sleep trying to find that game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

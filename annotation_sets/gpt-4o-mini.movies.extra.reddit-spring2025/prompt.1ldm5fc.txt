@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80's/90's Slasher style move?. I've been searching for this
+movie forever and always come up blank. I believe it's set in a high
+school and this girl has a necklace (or amulet) that allows her to kid
+of hypnotize people, and she ends up killing them because they were
+mean to her, or bullied her. The one scene I do remember was a guy she
+hypnotized and pushed him on to a table saw in a woodshop. From what I
+can remember, it was kind of cheesy, but maybe that was just the era?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

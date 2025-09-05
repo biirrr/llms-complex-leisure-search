@@ -1,0 +1,30 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Im looking for a movie I watched around 1991. Probably
+Cinemax very late night. It was French I believe. Subtitles in
+English. It was a bank robbery gone bad with hostages. There was the
+most disgusting joke in it. I was 12 or 13 years old and Ive
+remembered this joke this long.. A sailer comes back from a long
+voyage and upon landing in Paris goes to a whore house. He asks the
+madam in charge for the ugliest fattest whore she has. She escorts him
+up to a room and he sees in the bed the fattest ugliest woman hes
+seen. He gets in bed and tells her he wants to eat he bellybutton out,
+its his fetish. So he gets in position and starts to eat it out
+running his face in it and he feels something in his teeth, he paused
+and pulled a bit of meat out of his teeth, he thinks nothing and
+resumes, going to town again he felt something again in his teeth and
+it was a piece of corn. At that point it was too much. He screams Im
+going to be sick. The whore shrugs and says thats what the last guy
+said too. Ive never forgotten the joke. It was violent. And I was
+too young to watch it Im sure. No other real clues. Im sure I
+mangled the joke. It may have been as early as 1989 but I think it was
+1991. Ive searched and can not find this movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

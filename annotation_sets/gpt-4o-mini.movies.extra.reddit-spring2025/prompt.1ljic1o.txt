@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "2000-2010s movie, remember only few parts from plot, pls
+help!!!!!!. I remember only parts of the plot (I must say, the plot
+is... weird): At the beginning of the movie there are 2 male
+protagonists (let's say A and B), and both work in the police or
+special services. At one point there is an argument and a fight
+between them, then A tries to hit B with a huge object on a chain (a
+hook or a smth other), and there is two plot continuations: 1. The
+canonical continuation: B dodges, defeats A, and then the movie goes
+on. There is a woman with him, and at the end of the movie they both
+end up in a bright room where they have to cut themselves with a
+scalpel and use a scanner to look for codes inside them both, and then
+the scene changes to the beach where they are resting. 2. Not the
+canonical version: B faints from the hit and that's the end. I'm not
+crazy, that's a real movie I saw couple years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

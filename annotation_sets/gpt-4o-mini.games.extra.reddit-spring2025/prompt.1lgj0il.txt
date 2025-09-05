@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS] [Mid 2010s] Escape room game with the word
+""""""""door"""""""" in the title. Genre: First person, point &amp;
+click escape Estimated year of release: The mid 2010s, probably
+2015-2017? Graphics/art style: Looked realistic but was drawn Notable
+characters: N/A Notable gameplay mechanics: The game had you finding
+clues to find keycards/passcodes to escape rooms that had a door (e.g
+apartments). I think there was the option to combine objects too. Game
+was played in portrait mode. Other details: The game IS NOT
+""""""""Can you escape"""""""" or """"""""Escape if you can""""""""
+The title might have went like """"""""100 doors"""""""" or something
+like that The app icon was a door opening with yellow/orange light
+coming from the door drawn in the game's art style. I've tried looking
+for the game in my past purchases but it did not pop up... so it's
+likely that the game has delisted from the app store. It's likely made
+by an indie studio and it had a level system, wasn't ad-infested and
+didn't have a lot of in app purchases. I think it had a coin system,
+but it was only used for hints?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

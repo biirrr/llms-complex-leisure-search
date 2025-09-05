@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Older likely Japanese film, where a man confronts an
+immortal warrior and must dual to the death.. The description is not
+great. I cannot remember the setup well, its been about 20 years since
+i saw the movie. The main character enters some sort of building, i
+think it was to take shelter for the night. Meet an immortal warrior
+who has never been defeated, he has been cursed where the only way he
+can leave is to die, and have who killed him take his place there, the
+MC cannot leave either. The place they are trapped is filled with many
+different weapons. One part that's always stuck with me was, one of
+the weapons was an old single action revolver, where the MC keeps
+forgetting to pull the hammer back, and the warrior stops to remind
+him of that fact. It may not actually be Japanese, but it was south
+east Asian. I used to watch a lot of foreign films when i was a teen
+on free to air TV in Australia, one of the main stations SBS used to
+air an episode of Anime in the evening followed by a foreign film, and
+this was one of them. I hope my description tips someone who knows it
+off."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

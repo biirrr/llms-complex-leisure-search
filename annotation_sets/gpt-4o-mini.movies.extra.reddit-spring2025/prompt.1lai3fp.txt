@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Horror movie where 5 world ambassadors meet?. idk i
+distinctly remember watching a trailer where it's like 5 national
+ambassadors meet in some garden to discuss world issues, they're all
+super chill (i even remember the british one had a posh accent or
+something idk), until there's like a horror twist they're trapped and
+they're running around at night that's really all i can remember... it
+must've either come out last year or not come out yet at all... i
+thought i watched it on A24 but i couldn't find it when i looked...
+anyone know?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

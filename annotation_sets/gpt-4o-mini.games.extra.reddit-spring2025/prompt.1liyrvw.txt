@@ -1,0 +1,46 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android&amp;Pc] [2000s] An online PvP Pirate Card Game. I
+played this awhile ago on my Android tablet but I also do it was on
+steam at one point. The games graphics was an isometric top down view.
+The games main gameplay was using cards to steal, multiply, or gain
+gold from islands or other players. Every turn has a ship that every
+player would be on that would go to islands ahead of it and the
+islands would be marked as a green, red, or White Island. Every island
+was a card picked by players before they got into a match. Before
+arriving to islands the players would be able to use the cards in
+their inventory to give them more gold or to protect them on the
+islands(e.g. Bribe would give all other players 1 gold but they would
+be able to to any gold on the next island). Upon arriving to an island
+players would be given to choose what to do on the island with the
+players being able to choose what they do for themselves(e.g. Gain 50
+gold but receive -5 hearts or gain 10 gold). Red islands were similar
+but were primarily there to damage the players. White islands were
+islands that would damage all players and would ignore any cards that
+would help survive the island. There were a limited amount of islands
+and there would be check points that would heal players,revive dead
+players, and give players cards. upon reaching the end would end the
+game and the players with a certain amount of gold would win. Players
+would all have hearts that can be damage on islands. Losing all hearts
+would knock the player out and divide the gold between the living
+players. There were different characters each with their own unique
+cards. -Alchemist -Bandit -Dancer -Taoist -Warrior There was more but
+thats all I can remember. Before matchmaking you could customize your
+card deck and depending on which character you picked they would be
+able to use their character specific cards, some cards were non
+character specific. There was a game mode where you couldnt see which
+islands were next and instead have you a compass on the bottom of your
+screen that would light up green, red, or white. The compass would
+glow the color depending on the majority of islands of that color that
+are in a certain range of the ship. Thats all Ive got I hope I
+formatted this correctly this is my first post and Im sorry if its
+but if a mess."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

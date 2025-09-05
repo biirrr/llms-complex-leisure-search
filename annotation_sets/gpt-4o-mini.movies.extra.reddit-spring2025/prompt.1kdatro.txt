@@ -1,0 +1,26 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Trying to find a TV movie seen in the early 2000s  ghost
+girl in yellow dress, possibly a ballerina, haunting her family after
+suicide. Plot &amp; memorable scenes:  A blonde or light brown-haired
+teenage girl (or possibly younger) is one of the central characters. 
+She is sitting in a car with her mother, then opens the door and jumps
+out / falls out, presumably to commit suicide.  Later, she appears
+again wearing a yellow dress, haunting or reappearing to the family. 
+Her sibling (brother or sister) sees her from a window  possibly
+after her death.  Theres a notable scene of the mother sitting on a
+porch / veranda, either grieving or speaking to her daughter.  The
+girl may have been a ballerina or had scenes involving ballet / dance.
+ The tone was dark, heavy, emotional, and had elements of
+psychological thriller or supernatural drama  not gory horror. Any
+idea what movie this could be? Even partial matches or guesses are
+welcome!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

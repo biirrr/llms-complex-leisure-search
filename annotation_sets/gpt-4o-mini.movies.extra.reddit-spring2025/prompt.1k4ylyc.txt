@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please release me from this unknown-film prison.. I watched
+this movie at my grandmas house around 1997 but it could have been out
+for a while. My cousins and I were far too young to be watching at
+that time unsupervised. I remember a story about a brother and sister
+who were for some reason separated at birth or really young. The girl
+went on to live a semi normal life but the boy was sent to a farm in a
+remote area with at least 3 creepy evil sisters that all looked the
+same and also there are abusive and scary farmer parents that adopted
+him. The sister tries to find the brother throughout the movie. Some
+highlights that have haunted me: 1. A scene where an animal (a pig I
+think) is hung up on a hook and bled out into a bucket. The farmer
+makes the boy watch in horror. 2. There is a big scene or repeated
+scene where the one of the kids is looking out a window of a moving
+car as trees pass by. The shot is of the kids POV. 3. The biggest
+clue. The boy is a little older and for some reason the evil sisters
+sew his eyes and mouth shut and he is sat at the dining table. I want
+to say the movie culminates with the sister finding him this way and
+saving him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

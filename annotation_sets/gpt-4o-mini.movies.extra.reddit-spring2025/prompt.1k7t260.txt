@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Car-over-cliff scene seared into my memory from early
+childhood (late 80s/early 90s). The nightmare fuel of my childhood was
+a scene that I saw in the very early 90s on TV, so it was likely an
+80s movie. The car went off a cliff (or possibly a SoCal canyon road)
+and when the dead, male driver was shown, he was either missing his
+eyes or something was seriously fucked up about his eyes. Ive always
+wanted to rewatch this scene because its one of my earliest memories
+that has stuck with me. But Ive never been able to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

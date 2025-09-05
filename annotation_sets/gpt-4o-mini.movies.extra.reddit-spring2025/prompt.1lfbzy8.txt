@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Journey to? Trip to?. This is a ridiculous long shot. So,
+Ive never seen this movie. It was recommended to me by a waiter a
+while ago. I want to say it was heavily focused on an older mother and
+a son. I want to say it was something along the lines of journey/trip
+in the title, and it was a town name, I believe in Texas. Im hoping
+this is enough to nail it down. Ill 100% know it when I see it. Thank
+you so much, Reddit! Edit: I believe it is set pre-2000s, and possibly
+came out before the 2000s as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

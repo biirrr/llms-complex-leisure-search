@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [2013?] A Cartoon Fishing Game. Solved:
+Platform(s): Mobile (Android Playstore) Genre: Fishing, cozy Estimated
+year of release: 2010s, most likely 2013 Graphics/art style: Cartoon,
+chibi? Pastel color palette Notable characters: A single blob shaped
+fisherman on a wood raft, sitting in the bottom left corner. Notable
+gameplay mechanics: Being able to purchase different rods and baits,
+such as a bamboo rod or ectoplasm bait. Other details: My mom and I
+have been trying to remember the name of a game we played on a Samsung
+phone around 2013. I can see it pretty well in my head but cant
+remember the name. You played as a little blob guy fishing on a bamboo
+raft. You could use different fishing poles and different bait (I
+specifically remember one option was ectoplasm) it had a pastel color
+palette. I know this is probably frustratingly vague, but this has
+been bugging me. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

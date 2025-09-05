@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "help me find the movie PLEASE. can someone help me find a
+movie? it's about vampires and I think there's lesbians on it, the
+first scene is one of them biting someone i think. The movie was
+probably made after 2000 and before 2021. There's some scenes when
+they're in school talking about vampires or something, and there's a
+lot of blood, the girl or girls are oftenly with blood on their chin.
+I sound confused asf and I'm so sorry but it's been years since I
+watched it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

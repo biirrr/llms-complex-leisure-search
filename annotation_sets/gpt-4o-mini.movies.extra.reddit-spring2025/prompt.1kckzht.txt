@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for an early 90's movie about a group of college
+friends, and a handsome stranger comes to town quoting Rimbaud. At the
+end of the film, he makes a collage with scraps of his time there in
+the shape of the United States. (It used to show on Bravo a lot in the
+late 90's).. I remember seeing this film as I was starting college...
+it was a sort of comedy, and wasn't very good, but I watched it at a
+sort of """"""""formative time in life,"""""""" and ended up
+discovering Rimbaud from this movie. It showed a lot on Bravo (or the
+Independent Film channel?), and I remember one of the main characters
+was a bro-ish doofy friendly guy with long hair, who thought the
+handsome stranger was quoting """"""""RAMBO"""""""" not
+""""""""Rimbaud."""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

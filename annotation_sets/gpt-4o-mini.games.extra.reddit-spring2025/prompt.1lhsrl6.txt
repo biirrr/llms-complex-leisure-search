@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][2010s] blocky mobile children's game about making and
+sharing games similar to roblox. I'm looking for a game that I used to
+play on an iPad that has a very broad genre but I have a lot of
+specific memories about. Before anything, I will say that it is NOT
+KoGaMa or BlockStarPlanet It was an app where the main focus was using
+block code and a very rudimentary game developement UI to make a game
+and share it or play other people's. Overall it was a lot like roblox
+but with a lot more focus on the studio aspect rather than just
+playing games. You could make cars, talking NPCs, enemies etc. I
+remember a lot about the avatars specifically. They were blocky with
+square heads and torsos, but they had no arms and legs leaving their
+feet and hands to just float along. They also made a high pitched
+""""""""Ouch!"""""""" sound when hurt. And if i remember correctly,
+the title had something to do with the word """"""""block"""""""" Tbh
+the main reason I still remember this game and want to find it is
+because it had a banging theme song that would play in any game you
+entered. Sorry for this post being pretty sparse but that's only
+because my memory is. I will update this post if I remember anything
+new."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

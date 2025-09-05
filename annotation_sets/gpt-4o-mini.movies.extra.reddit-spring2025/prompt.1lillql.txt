@@ -1,0 +1,23 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Help me find this movie from eastern Europe. Hi everyone!
+Long time ago, and that is more than 30 years ago, we had this movie
+on kids program on TV. It was about two siblings ( syster and a
+brother) that were on a scientific field trip with school to a museum
+(I think) when they enter a grandfather clock and go back in time.
+Every time they pass a door the time changes. They go through the
+history of that city by passing through doors. I remember a scene
+clearly when a king asked the girl about the outcome of the coming war
+and she didn't want to tell him that he will lose. For some reason I
+think it was about Bratislava but I am not sure. I have been looking
+for that movie for a long time and will be so grateful if anybody
+could help. THANK YOU IN ADVANCE!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

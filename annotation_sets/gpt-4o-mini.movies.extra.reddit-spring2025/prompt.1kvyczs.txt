@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a shooting on a dinner restaurant. The movie may
+be from early or mid 2000s. Was about two kids, a girl and a boy, the
+father died on the shooting and she told everyone that the dad was the
+heroe who saved them, the boy was traumatized and stopped talking, at
+the end of the movie we learn that the girl was liying and in reality
+the dad peed himself and begged for his life, and she made up that
+story to cope with the trauma."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

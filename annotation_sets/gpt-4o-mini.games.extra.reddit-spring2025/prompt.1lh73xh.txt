@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s] Looking for a game I played as a kid. The
+game was a 3d side stroller where you had to go and kill enemies
+shooting at you. You hid I'm cover(That can be broken) and get up to
+shoot at the enemies. You can switch between different covers. You had
+various weapons to use to kill them vast enemies. After killing them
+all you moved on to a different location, and you did that til the
+level ended. There was also an infinite mode where you see how long
+you can last before you die."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

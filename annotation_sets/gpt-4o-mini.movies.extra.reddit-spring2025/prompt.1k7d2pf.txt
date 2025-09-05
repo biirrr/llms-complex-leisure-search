@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Please help me find this movie.. Family moves into a
+farmhouse but there is a paranormal/possession curse in that farmhouse
+where every family that moves into the farmhouse has a kid that gets
+possessed by the previous kids that were haunted and possessed to kill
+their family's by that curse in the house and it makes the kid kill
+their family and hang them into a scarecrow. Im not sure if all that
+is correct i watched it with my family a few years back, please help
+me find it. I also do remember this sence where the boy who gets
+haunted and possesed is sleeping and he's in this like diff dimension
+and the dead kids are talking to him tell him to kill them as in kill
+the family"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Noir movie about a detective and the Devil (?). I'm trying
+to remember a movie i've seen as a kid in a cinema. I was 7 or 8 i
+guess, so the movie was from 1987-1988, maybe earlier. From what i
+remember it was a noir-style movie, with thick, oppressing atmosphere.
+Clearly not something i'd recommend a 7-year-old to watch. Set in the
+US in 40s? 50s? I do not remember a plot, just the guy (detective?)
+looking for someone. At some point he was interacting with the Devil
+(or a guy i interpreted as the Devil), and i believe that Devil guy
+had long sharp fingernails. Not much, i understand, but maybe?.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie about a split world. Ok, idek if this movie exists
+because I cant find it anywhere, but it's got one scene where these
+people go to a room and theres a """"""""mirror"""""""" or smt and
+theres like scientists there or something. There's people trying to
+kill the other group I think. Tbh idr the movie that much besides that
+one scene. Its probably released sometime between 2005-2019"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

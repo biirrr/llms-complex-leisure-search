@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie where there's hero regenerates from the eyeball. Back
+in 90s I've seen a movie (and there also was animated series):
+protagonist had cyber implants, only one eye and was fighting with
+criminals. In one scene an enemy defeats him, removes his eyeball and
+places it somewhere (I think it was some sort of showcase, like under
+the glass). After some time, roots start to grow from this eyeball and
+as a result, protagonist regenerates completely. This scene was also
+in the opening. Could someone by any chance remember the same?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

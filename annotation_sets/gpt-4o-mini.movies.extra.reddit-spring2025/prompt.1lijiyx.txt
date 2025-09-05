@@ -1,0 +1,19 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A cliche filled romcom from the 00s where the guy and girl
+meet while inside a video store at night when it's closed, hiding. He
+owns a shop(?), she's """"""""kooky"""""""" and swims in other
+people's pools.. It seems like one of the stars was quite well-known.
+And I keep thinking the females was of Asian heritage but maybe not.
+Guy was white tho. I watched this free on a steaming service 1 or 2
+summers ago. Idk why but it popped up into my mind today and it's
+driving me mad that I can't remember who was in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

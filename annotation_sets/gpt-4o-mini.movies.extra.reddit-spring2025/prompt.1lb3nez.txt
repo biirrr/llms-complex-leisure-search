@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Scary movie I watched somewhere between 2013-2016 at my
+friends house. This movie has haunted me for years!!! I can never find
+it on google so maybe yall can help me 2 young women live together,
+but one is crazy. Theres a pool in the complex they live in &amp; the
+inside of it is painted with renaissance style naked bodies everywhere
+They act like theyre friends, and this is very important, one likes
+yellow and one likes pink, this is a very specific detail that sticks
+out to me because throughout the movie you see the yellow turn into
+pink because yellow girl is stealing pink girls identity. Please help.
+I think at one point yellow girl steals pink girls boyfriend and she
+might either st@b her or threaten her with a knife at some point Im
+not completely sure, I halfway think this movie was just a fever
+dream. But please if anyone knows what Im talking about please help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

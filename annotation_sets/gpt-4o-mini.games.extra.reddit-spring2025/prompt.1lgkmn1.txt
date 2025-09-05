@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][UNKNOWN] You use swords, its a JRPG. Okay guys, Ive
+no clue what game my boyfriend is talking about but I highkey wanna
+play it. So he described it to me as its a fantasy. Its turn based,
+youre a plain character. The biggest lead we have is the final Boss
+fight, you can only take your main unit in and apparently the general
+like, clones himself four times and you have to fight off the general
+and his clones. I know nothing else about this. = Id like some help
+trying to find it tho EDIT: We figured it out! Its Hoshigami Ruining
+blue earth Remix"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

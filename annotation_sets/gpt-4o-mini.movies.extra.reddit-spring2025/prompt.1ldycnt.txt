@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a movie from the 80s (maybe). I don't remember
+much of it, but I seem to remember some odd things that took place on
+a train. It was either a comedy or a comedy horror movie. At the end,
+the train conductors were revealed to be wax figures, while the song
+Sh-Boom played in the background. Not much stuck with me, other than
+the very creepy ending, but I'd appreciate any help with finding it,
+if possible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

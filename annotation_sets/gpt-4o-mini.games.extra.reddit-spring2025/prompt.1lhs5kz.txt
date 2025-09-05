@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2008-2015?] A flash game where you are a knight that
+beat people for money. I remember that it was the king that order of
+to do it. I think it was also a short game but Im not sure, I also
+think that the knight was in a black armour. It was a 2D style of game
+that Im sure of it and I also think that you were automatically
+walking but not automatically attacking Hope this help I dont really
+remember much more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

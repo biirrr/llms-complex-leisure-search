@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [2017-2018 NOT SURE] A game of playstore that i
+never found again. Firstly, I apologize for any errors; English is not
+my first language. I remember playing a mobile game when I was in my
+first year of high school. It was about a girl whose spaceship crashes
+on a planet. Her main goal was to fix it so she could leave. In the
+game, you could collect resources, explore the world, and also build
+things on the terrain. Interestingly, the game's map was made of
+blocks, and you could also colect them or replaced it, like Minecraft,
+but the aesthetic was simple, very colorful, and vibrant, and I don't
+recall it being a pixelated game; I imagine it was 3D. The main
+character was a girl with red/pink hair, the chibi big-headed type.
+I've never been able to find the game on the Play Store again, and I
+currently don't remember its name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

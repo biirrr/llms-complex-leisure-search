@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "An old japanese movie, most probably in black and white.
+Hello. My dad remembers watching a movie long time ago, but can't
+remember the movie title. He's pretty sure it was a japanese movie and
+most probably in black and white. He remembers following details about
+the movie: After a traffic accident, a middle-aged man in a hospital
+begins a conversation with a woman, with a curtain separating them.
+When the curtain is removed, we see an older woman. After being
+discharged from the hospital, the man and woman meet several more
+times, and with each encounter, the woman appears younger. During
+their final meeting, the woman is a five-year-old girl. Any
+suggestions?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

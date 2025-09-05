@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A 3D animation about a little girl going after a garbage
+truck to retrieve her radio. I remember watching a movie as a kid
+where the parents of a little girl threw her radio in the trash and
+she ran after/jumped in the truck to get it back. And when she got
+there there were furnitures talking and moving. I definitely remember
+a lamp/street light looking at her and then acting like a lifeless
+object when she looks at it. There was an old armchair and a furnace
+with something like a treadmill in front of it. The girl was put on
+there and she tried to run away. I don't really remember much but i
+guess her name was Alice. I looked it up years ago and found nothing
+except a short, german dubbed 144p youtube video but i can't find it
+again. It might be a 2d but i doubt it. I'm 21 years old. So it's
+gotta be before 2010-2013 or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

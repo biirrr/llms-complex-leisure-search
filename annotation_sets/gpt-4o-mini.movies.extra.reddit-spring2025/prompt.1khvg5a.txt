@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Highschool Comedy from early 2010s. Hey everyone Im
+searching for a movie of the early 2010s (2012-2014) its a
+comedy/coming of age that is set in a highschool and if i remember it
+well the main character was a guy with a female friend and other male
+friend I cant for the life of me remember the plot I can recall 2
+things 1) the MC and his Female friend smoked weed in the partaking
+lot/school bus 2) The movie starts with the MC having sex with a women
+with 3 boobs (in a dream) Someone help me find this movie, so i can
+sleep well at night Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2009-2011] Turn Based Medieval strategy game. I played
+this turn based strategy game around that time (late 2000s, early
+2010s), but cant remember its name, and Chat GPT couldnt help. What
+I remember: - it was a medieval era strategy game, the main screen was
+the map of Europe divided into all the small provinces. I started as
+Wallachia, as its where Im from. - there was some sort of battle
+system and you expanded your state, but it was very diplomacy/politics
+based. You could be a vassal, or have vassals. - there was a very big,
+even a primary focus on family relationships, with a full genealogy
+tree of your king and generals I think. I know you could trade
+arranged marriages with other states to affect diplomacy. - I
+remember it being quite easy, because I was able to expand my
+Wallachia over half of Europe. I dont believe it was any of the
+Crusader Kings games or Victoria, but looked similar to those. Maybe a
+bit more of a cartoony style, but not sure. Any help would be greatly
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

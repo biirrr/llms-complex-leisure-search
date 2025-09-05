@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNKNOWN] Horror game. I don't remember the exact date,
+it's a game I saw on YouTube around 2014-2017 The only thing I
+remember is the end of the game was about a girl who was returning
+home escaping from something and when she arrived there was her
+brother and he had killed the rest of her family by cutting their
+throats and said they jumped like crickets while her throat bled or
+something like that, then the girl escaped on a train (I think) and
+arrived at a strange place, there was like a parkour and the girl had
+to sacrifice some kind of green pet that she had (similar to a cat)
+and I don't remember what happened after but at the end of the game it
+said that it had 7 endings, the game had parts in 2d like a platform
+game and some parts from above with graphics like pixels but the scene
+where he arrives at the house and sees his family was drawn and the
+ending too it looked like it was made of drawings (I don't speak
+English and I want to find the game, the channel was in Spanish I
+think and the guy in the video spoke in Spanish)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

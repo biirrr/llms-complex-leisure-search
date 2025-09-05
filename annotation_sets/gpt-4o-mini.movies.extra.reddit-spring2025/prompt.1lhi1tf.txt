@@ -1,0 +1,29 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "What movies am i thinking of???? Help!. So I have a long
+memory from since I was 4, and have watched many movies and shows that
+I can remember scenes of but not remember names of. Over the years
+Ive discovered majority of them, but im stuck on 2. The first is a
+movie my parents found for me when i was 4-5 because it was about
+mermaids, but when they put it on they quickly turned it off because
+it was NOT kid friendly. I remember an opening sequence of a wave
+crashing into a pool, a mermaid going in but you dont exactly see
+her/it, and then it pans over runes or something on the pool tiles or
+like an old scroll or something, but the runes were of mermaids eating
+sailors and people and stuff. Ive always been curious what movie that
+was, and want to watch it. Second is a horror movie I watched in
+2013-15 on netflix around the same time the last shift and v/h/s. It
+was centered around halloween time with a female as the main
+character, blonde, cant remember the name. There were kids doing trick
+or treat with burlap sacks and at some point broke in and attacked the
+lady, it WAS NOT THE MOVIE TRICK R TREAT I thought it was too but
+watched it and nope. Any suggestions??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

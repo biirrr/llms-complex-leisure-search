@@ -1,0 +1,28 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Kids spy movie. The title is hard to Google and not find Spy
+Kids. But when I was little me and my family would occasionally watch
+this movie with a main character who looked like the main character of
+Max Keeble, and I'm pretty sure the movie came out around the same
+time. The problem is, I don't think it was the same actor. Maybe just
+another white kid with spiky hair. The plot is him being told by this
+government agency that they need him to go undercover so they train
+him to be a spy and find out he can't talk to girls, even though the
+whole mission was for him to get an invite to a girl's birthday party.
+Spy agency adults train this kid how to talk to a girl his age, he
+manages to get an invite from her on his own- in that scene the female
+adult who's been training him suddenly walks in pretending to be the
+doctor and just noticing she has a birthday coming up and asking her
+to invite him. So she can awkwardly respond that she just did. I
+forget what happens at the party or how it ends, I think the birthday
+girl's dad turns out to be the villain or something? Thanks for any
+help in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

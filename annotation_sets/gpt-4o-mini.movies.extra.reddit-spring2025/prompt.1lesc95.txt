@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie seen as a child. This was early 2000's. The main
+character was about to fight the main bad guy, and the main character
+wore white pants with a karate look to them, and he was fighting to
+save a girl. The bad guy was bald, and in order to fight the main
+character on a rooftop with henchmen watching, he inserts a disk into
+the back of his neck and they fight. That's all I can remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

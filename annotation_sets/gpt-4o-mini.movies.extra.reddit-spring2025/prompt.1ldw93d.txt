@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Children's animated movie, likely from the late 80's or
+early 90's. Hello! I have been trying to figure out what this movie is
+for many years now and no amount of googling has worked! It was an
+animated movie that I watched as a child (maybe around 5 years old) in
+the early 90's. I believe they were animated animals but no clue
+beyond that. At one point, they've taken a boat (I think) up towards
+the clouds, and one of the main characters says not to worry,
+""""""""I know these clouds like the back of my hand!"""""""" and
+then, once inside the clouds, realizes they may be wrong and says
+""""""""Wait a minute! I can't *see* the back of my hand!"""""""" Any
+help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

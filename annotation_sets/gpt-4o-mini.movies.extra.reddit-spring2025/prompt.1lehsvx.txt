@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Science Fiction movie last seen in the early 2000s at
+latest. This would have been on cable, and although I might be
+mistaken, I believe it was a sci-fi original. There were only two main
+characters, a man and a woman, maybe blonde, who wake up from
+cryosleep to find the previous shift gone missing. They get infected
+with something that makes them angry and violent and maybe changes
+their blood color? There may have been a recovered earth satellite
+that the infection was on, and at the end of the movie they somehow
+save the rest of the sleeping crew by coordinating with another ship
+before sacrificing themselves to stop the spread. That's all I can
+remember clearly about this movie. Thanks in advance. EDIT: There is a
+possibility the title had the word Alien, but I don't know if i can
+trust my memory on the title, as I only ever caught it on tv."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

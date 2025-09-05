@@ -1,0 +1,17 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Scaryish kids movie?. I remember I really liked this movie
+when I was really young I think it was goosebumpsish type of scary
+kids movie I dont remember much of it the main thing I remember is a
+skeleton hand comes from under the bed and grabs a kids leg should be
+from the 90s or early 2000s I dont know if thats enough information
+but all I god"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

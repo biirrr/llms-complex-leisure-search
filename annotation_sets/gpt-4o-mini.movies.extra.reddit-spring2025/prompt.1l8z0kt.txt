@@ -1,0 +1,20 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "A movie about undead/zombies?. (Tagged nsfw because of gore
+description) I remember watching this movie in the 90s when i was a
+kid. I think it was a zombie movie where a group of people were
+running from zombies. The only detail i remember was at one point one
+of the characters were captured/eaten and only thing remaining of them
+was the head wth the spine still attached. The head might have later
+been reunited with the team and carried with a wheelchair, and/or
+inside someones backpack. I vaguely remember one of the characters
+having an axe. It might be an evil dead movie, or similar style."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

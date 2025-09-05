@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for old vhs movie my sister and I used to watch as
+kids.. So around the early 2000s me and my siblings would go to our
+grandmas house all the time. She had this orange vhs tape and it was a
+Halloween special or something. It was a series of different clips of
+kids. I remember one of them was waking up in the morning and this kid
+seeing his family brushing teeth, eating breakfast, etc. with a song
+going scary monsters, monsters in the morning. Another was a fake
+news clip where the reporter turns into a ware wolf I think. There was
+another clip I remember being in a dark room with a bed in the middle
+of the room. My sister and I have been trying to figure it out forever
+&amp; we just cant seem to find it! Any help would be appreciated!
+Our grandma used to thrift shop a lot so the movie could be from
+anytime. Early 2000s is just when we would watch it. TIA!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

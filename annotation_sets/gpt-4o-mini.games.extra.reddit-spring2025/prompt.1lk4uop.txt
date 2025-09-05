@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [2010S] im going insane about finding this poly
+shooter game [MOBILE-PC] [UNKNOWN]. Hey guys, I've been trying to
+remember this game from my childhood for ages. Here's everything I
+remember (it's super specific): It was on PC and Mobile, very basic
+low-poly 3D graphics (think very early Unity/indie style) You played
+as a small Chinese agent in a black suit It was a third-person
+shooter, set in a city environment When you started the game, there
+was no real loading screen, just loud electronic/arcade music blasting
+and enemies already visible across the map Weapons: There were only
+five weapons in the whole game:Weapons: There were only five weapons
+in the whole game: Deagle (Desert Eagle) Shotgun AR AK RPG You could
+destroy safes and vending machines around the city to collect money,
+health, or weapons The city had a football stadium in one area There
+were missions/levels, not just sandbox One mission had you fighting
+enemies that each had their own boss, including a huge red tank boss"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

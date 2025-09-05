@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie from Psychology class. I watched a movie in Psychology
+class between 2001-2003. The film looked older (maybe 80s). I remember
+the teacher giving high school students different color armbands to
+wear. I believe some had brown and others had blue (or maybe it was
+green and blue). Either way, the kids with one armband color got
+privileges that kids with the other armband color did not. Without the
+kids knowing, the teacher was teaching them a lesson about how easy it
+is still to brainwash and manipulate people into behaving a certain
+way. Near the end of the film, a couple of the kids try to bust into a
+secret meeting. As they do, the teacher shows the brainwashed kids
+images from World War 2 that shows how the kids are acting the same
+way. The details are all a little fuzzy given that I watched this only
+one time over 22 years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

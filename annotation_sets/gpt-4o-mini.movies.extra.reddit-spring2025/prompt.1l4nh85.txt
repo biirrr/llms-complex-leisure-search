@@ -1,0 +1,24 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Flowers on the ceiling. Please bear with me as I really
+dont remember much. I cant even remember if it was a movie or tv
+series but I only watched it within the last few years! So I remember
+theres a girl who is constantly drawing flowers on her sketchpad.
+Theyre always the same flowers like a border or something. Now I
+cant remember if its a teacher or friend or what but someone else is
+lying in bed with a bloke and as she looks up she sees the exact
+flowers that were being drawn by the girl sketching on the ceiling as
+like a pattern around the light. (One of the old fashioned fancy white
+ceiling fixture things) which is like a wake up call that the girl
+sketching had been in the bed with him. I dont remember if its a
+thriller type thing where its really bad shes been there or if its
+a cheating type thing but its really bugging me!! Please help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

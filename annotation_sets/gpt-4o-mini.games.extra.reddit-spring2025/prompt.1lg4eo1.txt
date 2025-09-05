@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [late 90s early 2000s] A trash bin boy with 3 eggs.
+Platform: PS1 Genre: Platform game Estimated year of release: late 90s
+early 2000s A Japanese game with a boy who travels through trash bins,
+meaning the trash bins act as portals for him to get to places, he
+jumps in one trash bin and comes out of another somewhere else. He
+also has the ability to get a maximum of 3 eggs to help him with his
+adventure. Thanks in advance for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

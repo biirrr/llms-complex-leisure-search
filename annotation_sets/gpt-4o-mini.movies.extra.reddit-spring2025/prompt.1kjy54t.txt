@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Movie/show about a girl who has magic sneakers that make her
+run really fast. It was something like Teen Witch or Sabrina the
+Teenage Witch. I remember the girl wasn't very old, I think she had
+blonde hair and wore it in a ponytail for this scene and it took place
+on a race track (for runners not cars). She started the race running
+at her normal pace, but the others were playing dirty. She got tripped
+up by the other competitors and fell behind in the race. I remember
+she was bent down like she was tying her shoe laces and said a spell
+of some kind and her shoes had a life of their own. She started to
+zoom around the track like a roadrunner. This may be from another film
+but I remember a scene where they're at the prom and the mean girl
+comes up to her and is throwing insults. But she turns her into a dog,
+I think it was a white poodle or something similar. This may not be
+the same film but I know they both involved a witch/magic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

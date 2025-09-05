@@ -1,0 +1,18 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Main character, depressed dad starts working out to fix his
+life, gets shot in the end by neighbor cause he taught he seduced her
+teen daughter.. whats the movie called - help me find the movie about
+a dad that narrates the movie about his life and kids life that hes
+gonna die in 6 months after working out and getting fit because hes
+got a crush on his daughter's teen girl friends, he was shot by that
+girl's dad. this is mostly about self discovery or self love."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

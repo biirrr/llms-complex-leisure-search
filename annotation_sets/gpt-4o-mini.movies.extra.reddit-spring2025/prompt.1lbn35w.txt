@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Looking for a movie about two sisters, one gets a needle
+through her head during a racket game  drama, not horror. Hi
+everyone, Im trying to find the title of a **full-length English-
+language drama/romance movie** with a pretty high budget (not a horror
+film). The main story is about **two sisters**. During a game
+involving rackets (could be tennis or badminton), one of the sisters
+gets seriously injured  an **sharp needle or awl pierces through her
+forehead and out the back of her head** after she falls. Because of
+this injury, she becomes disabled. The other sister tries to save her.
+The movie focuses on their relationship, the struggle, and the
+emotional journey. I remember the scene where the injured sister falls
+and the needle pierces through her head quite vividly. Has anyone seen
+a movie like this or know the title? Any help or suggestions would be
+greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

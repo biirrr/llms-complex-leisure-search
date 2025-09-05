@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBox][2000-2010] Two Characters Fighting Monsters using
+sword, bow and magic. Hope somebody can help, thinking of a game.
+**Platform(s):** I have played it on Xbox. **Genre:** A 3D game like
+an RPG, fiction-action-adventure that follows a storyline. You can
+play co-op two player or single player, I cant remember if its split
+screen or just zoom out. **Estimated year of release:** Maybe between
+2000 -2010, **Graphics/art style:** I think it was set in medieval
+fiction type setting. Forest with vines or branches as checkpoints or
+gates. **Notable characters:** 2 characters,.which can be played both
+or single player either of the two character. If Im not mistaken one
+middle age man, in blue clothes and a teenage boy in peasant like
+clothes. Fighting demons or monsters, maybe monsters. **Notable
+gameplay mechanics:** I think to proceed to other levels or check
+points you have to cut/destroy the vines/branches, there are times you
+have to jump roll because the gate will close by vines/branches. To
+interact with some object there are shiny, white light which you have
+to shoot with arrow. Uses sword, bows, and magic. One skill is more
+significant to other characters, like if you play this character you
+can be in charge with interaction with magic, while if you play the
+other its good with bows. **Other details:** Im not sure if its really
+a middle age man saving the boy, or teaching. Or is it his friends
+fighting their way vs monster looking for something. The title could
+possibly be one word, either its the name of a character or name of a
+place, but its not English. I also like games like Assassin's Creed
+and Prince of Persia,. its close to that kind of games, when its comes
+to style of games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

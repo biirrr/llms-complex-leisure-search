@@ -1,0 +1,25 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "Older war movie. I don't recall all the details of the
+movie, but I do remember when a friend had me watch it, it wasn't on
+any of the streaming services. I could have sworn it was called
+something like, """"""""there was no war in..(something)"""""""".
+General plot: US soldier was on a military base, i think it was either
+the """"""""end"""""""" of the vietnam or korean war. He had a
+girlfriend he promised to take back with him. He was ordered to
+evacuate, and didn't have time to get her (or something) She def a
+baby. She had a shitty life, working as a stripper and/or other adult
+work to support herself. I can't recall if it was his baby, or as a
+byproduct of above work. He comes back to rescue her, but she's either
+dying or already dead. He takes the baby home, with his american wife.
+He got married after the war, and felt gulty? honestly that whole part
+is a bit fuzzy in my head."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

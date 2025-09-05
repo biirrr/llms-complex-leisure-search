@@ -1,0 +1,22 @@
+Identify the movie the user is looking for as described in the request
+below:
+
+Request: "80s? Horror Movie.. So the movie is about a family, mother,
+father, older brother, middle sister, young boy, who move into a
+house. But the oldest brother starts getting strange from an implied
+possession and he stays away from. The family and staying in his attic
+room. Eventually the movie """"""""implies"""""""" that he seduces his
+younger sister and then ultimately kills his entire family. Possibly
+relayed, I think it might start with an old person dying in the house
+and cutting themselves on a strange lamp EDIT: Solved! THANK YOU! I
+saw these movies LONG ago, like back in elementary school. I thought
+they were a fever dream and it's because I was mixing scenes from both
+movies together! Thank you everyone!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these movies could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.
