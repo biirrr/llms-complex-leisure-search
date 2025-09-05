@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Middle Grade Fantasy. Female lead wields a weapon,
+travels through fantasy world that incl. dwarves (probably elves/
+fairies, wizards). Love interest has black hair. Cover: female
+standing w companions on rolling hills. Read ~2010. Spoiler.. Hi
+everyone, I’m trying to remember a fantasy book I read around or
+before 2010. It could have been originally in English or Dutch, or a
+translated work. Here’s what I remember: • The protagonist is a young
+woman who wields a weapon (possibly a sword or bow and arrow) and
+travels through a fantasy world that includes dwarves and probably
+elves/fairies and wizards. • She’s accompanied by a group, including a
+love interest with black hair. • Eventually, the love interest betrays
+her, and they are forced to battle each other at the end because it
+turn out he was working for the main antagonist. I believe they
+somehow find a loophole and don’t have to kill each other. • The
+book’s cover was made to look like in was bound in purple leather with
+gold book corners and it had a picture of the protagonist standing on
+rolling hills with her companions. This might have been a dutch
+edition though. I read it when I was around 10, but it could be
+intended for a slightly older audience. If anyone recognizes this book
+or has any suggestions, I’d really appreciate it! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

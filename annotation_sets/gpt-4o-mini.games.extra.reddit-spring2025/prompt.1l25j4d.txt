@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [unkown] game with an ai. Ive been looking all over
+for this game for like six months now, Ive seen it in a video I
+watched and its about this ai or computer program that wants to make
+you happy, what I DO remember from it is that it tries to do so by
+making a generic 8bit(?) style game for you where youre the hero
+and you have to follow its set story path otherwise the ai gets all
+passive aggressive and asks why youre not listening to it. I know
+its vague but Id love to find out what game this is!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

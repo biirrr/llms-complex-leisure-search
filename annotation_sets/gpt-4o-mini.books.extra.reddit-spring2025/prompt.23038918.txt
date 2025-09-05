@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction. Man is abducted by old friend and
+taken aboard spaceship, he then Crashlands on a planet and ends up
+speaking to the god of the creatures on that planet. Man is abducted
+at the beginning of the book on a rainy day in London I believe by an
+old friend then wakes up in a spaceship and the first thing he notices
+is that the corners of the wall aren't parallel because the ship's
+floor is spherical, he then crash lands on a planet with various
+species on it, the creatures I can remember were light creatures,
+others called skorns, other ones that lived in big valleys and were
+very short in stature, and frog-creatures. He then goes to to talk to
+the god of all the creatures on this planet by climbing a giant
+mountain and on the way I think he find out he is on Mars as he looks
+through a telescope and sees earth, and on his way to the mountain
+summit because the air is so thin he need to use oxygen canisters
+provided by the inhabitants of this mountain (I think those were the
+skorns) the creatures were very long and pale. he reaches the summit
+and travels in through the top of the mountain as it is akin to a
+volcano. read this book around 2023-2024 and it seemed like a very old
+book"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

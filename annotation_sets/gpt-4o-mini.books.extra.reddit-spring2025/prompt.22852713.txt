@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction, translated from Spanish. I read it in the
+early 2010s. Story was around drag queens/ gay/ drug/ heroin culture.
+[s]. I recall the prose was somewhat non-linear, non-traditional
+punctuation. I want to say the story was based in central america (I
+was reading a lot of latin american authors at the time) but might
+have been Portugal. I believe there was a child involved in the plot.
+Think the word “Fire” was in the title. As I said in the ""topic""
+centered around some drag queens (one main ""narrator"") and drug
+culture. I think anyway! Any help would be great!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

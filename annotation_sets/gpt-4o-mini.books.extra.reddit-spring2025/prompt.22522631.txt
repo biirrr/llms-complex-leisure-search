@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction anecdotal, celebrity golden age of
+Hollywood 'six degrees of separation' concept. [s]. A couple years
+ago, like 2019, I read a book that was I think riffing off of the
+concept that we're all six degrees of separation from each other, the
+most obvious example being celebrities. (My grandpa met Elvis, Elvis
+met Richard Nixon, so I'm two degrees from Richard Nixon. Anyways you
+get the idea.) So this book looked at those specific interactions, and
+the person being 'met' in the first story would be the person
+'meeting' in the next. Liz Taylor met James dean, in the next story
+James dean met someone else. Each chapter/story is just a recounting
+of that interaction according to eyewitnesses and the people
+themselves, so I don't think it's considered fiction. I remember the
+book started and ended with people interacting with Hitler, and that
+the cover was red with several white circles on the front in kind of a
+loop. I can't for the life of me remember the title or author."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

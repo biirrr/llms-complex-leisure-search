@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ero-game][Pixelated][Game-Screenshot]. I only have a scam
+video of someone possibly trying to steal something and using someones
+game in their video. Video:
+https://www.instagram.com/reel/DKsdN_wMWkj/?igsh=MWp4Y2ljdW43ajc1OA==
+Graphics: pixelated Content rating:horror or adult(guess) Platform:
+unknown Release date: unknown Features(wild guesses): interactivity
+with character through a camera, camera battery bar, puzzles, timer on
+top left. Google lens returns basically nothing aside from the same
+scam videos and i couldn't find it via search."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

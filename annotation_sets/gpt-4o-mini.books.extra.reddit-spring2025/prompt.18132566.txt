@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "60s-70s Book on Psychic [s]. This is probably easy, but I'm
+having one of those blank memory moments. Back in the 60s or maybe
+early 70s, I read a book about a psychic. The psychic was female and,
+I think, named Jean something. She was popular and well known at the
+time. It's also possible I've mixed her up with Edgar Cayce, who I
+also read a book about around the same time. The book was a pocket
+paperback with Andrew Wyeth's ""Christina's World"" on the cover.
+First time I had seen it and that stuck with me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[UNKNOWN][UNKNOWN] - A game based on tabletop role play
+games. **Platform(s):** PC (probably), maybe consoles  not sure, I
+saw it in an ad. **Genre:** Multiplayer RPG with tabletop/roleplay
+elements. **Estimated year of release:** Not sure if its even
+released yet  I saw the ad maybe a few months ago. **Graphics/art
+style:** Very cartoonish art style. I think the characters were 2D
+sprites, possibly over 3D environments. **Reference graphics:**
+Cureosity, The Plucky Squire. **Notable characters:** I dont remember
+specific characters, sorry! **Notable gameplay mechanics:** *
+Multiplayer. * You could move your character into action circles to
+trigger choices or actions. * There may have been dice rolls involved
+to determine success/failure (uncertain). * It had a vibe similar to
+tabletop RPG sessions but in a digital format. **Other details:** It
+gave off a strong roleplay and fun/lighthearted fantasy vibe. The art
+and animations were playful and stylized. I remember a scene in a bar
+where one of the characters sacrifices themselves for the group,
+creating a diversion while the group escapes through a trapdoor (not
+entirely sure if this is accurate, but it stuck with me). Im not sure
+if this was just an announcement or if the game is actually out. If
+this sounds familiar to anyone, Id love to know what it was! Thanks
+in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

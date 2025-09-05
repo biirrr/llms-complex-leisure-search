@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young Adult book about a boy with an imaginary friend (or
+alter ego) named ""Bear"", who meets a girl with a small smile who is
+being portrayed as a messiah figure, by a cult. Read in 1990's.. Young
+adult book about a high school guy (with an alter ego named ""Bear"")
+who meets a young girl who is portrayed as a religious figure by a
+cult. Read it in the 90's in the school library. Early in the book,
+probably at the beginning, the high school boy goes to some sort of
+office - probably the nurses office at achool or a doctor's office,
+and i think it's there he meets the girl. She's younger than him,
+maybe by a few grades? She's portrayed as mostly quiet, not really
+talkative, but not mean or anything. Swveral times her smile is
+mentioned as being a really small smile, like you can barely tell when
+she smiles. The high school guy is kinda delinquent, i feel like he
+had some illness or condition that contributed to his school
+absenteeism, but I'm not poaitive on that. The main stand-out thing
+about him is that he has an imaginary friend (or imaginary alter ego?)
+That he calls ""Bear"" who is stronger, braver, more protective than
+him. It turns out that the girl is some sort of central figure in a
+(faith-healing?) Cult. It's not her choice or doing, other people are
+propping her up as a messiah or miracle or what have you. It feels
+like they're using her. The high school guy goes to the cult meetings
+cause he feels like the girl might need his help. I'm not sure what
+happens after that. Never got to continue reading the book. It was in
+my high school library in the 90's, i came across it in my late teens
+and it seemed age appropriate. It's in English, and was vaguely close
+in feel to Christopher Pike books. Not exactly like him. I don't think
+it was him. But it definitely felt like young adult material."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

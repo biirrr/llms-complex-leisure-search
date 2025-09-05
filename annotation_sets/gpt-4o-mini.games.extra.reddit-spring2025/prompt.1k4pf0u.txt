@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2014-2016] A game where you were an alien queen and you
+would send out alien units similar to battle cats.. (I apologize for
+the drawing, art isn't exactly my strong suit.) A game that I saw the
+YouTuber Captainsauce play back in 2018, looked older as it had very
+simple gameplay. Your alien queen was black, and she had a big mouth
+and large eyes, and I believe all queens looked the same, just
+different colors. There was usually dialogue before a battle against
+an enemy queen, and they occasionally cursed. You would send your
+units out whilst building up money passively, and you can unlock many
+different units, some being ranged."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

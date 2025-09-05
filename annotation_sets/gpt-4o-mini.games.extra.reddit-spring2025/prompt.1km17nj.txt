@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH GAME] [8-BIT STYLE] [STORY PUZZLE GAME] [2015-2017]
+Game about some guy attending high-school reunion.. Edit: solved!
+Pico's School Reunion, thanks to u/realnoyb All I remember about it
+was, it was some guy attending high-school reunion, something goes
+wrong and him and his former classmates can't get out of the school
+anymore, cutting to the puzzle part of the game, a puzzle part I very
+vividly remember is some unknown dude that we don't recognize trying
+to light his cigarette. I played this game a lot when I was in middle
+school on a flash game site (don't remember which one) in 2016-2017."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

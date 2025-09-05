@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid 2000s] 2D Zombie Flash Game. Platform(s): PC Genre:
+Zombie, 2D, Shoot 'em up, Browser/Flash Estimated year of release:
+2000 - 2010 Graphics/art style: Cartoony, gory, simple, but decent
+character design and graphics Notable characters: 1st zombie was a
+little boy, who tears your head from the neck, 2nd zombie was a little
+girl, who stabs with you a knife, 3rd zombie was a grown-up, who tears
+your arm and shoves it at you Notable gameplay mechanics: You just
+move forward with the right arrow and shoot with the mouse - very
+similar to other Flash games of that era - classic example of the same
+gameplay is the game called """"""""Plasma Burst"""""""", which I
+truly love, btw. :D I think you had different weapons, but the 1st one
+was a pistol. Other details: I'm pretty sure I played that game on Y8,
+but it might have been Kongregate or Newgrounds, too. The game had a
+lot of blood, kill animations, etc. I think there was a
+""""""""scream"""""""" sound efffect, when you died. Basically the
+most fun thing to do was to get yourself killed, so you can see the
+death animation. :D The zombies came 1 by 1, as far as I can remember,
+not in waves."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

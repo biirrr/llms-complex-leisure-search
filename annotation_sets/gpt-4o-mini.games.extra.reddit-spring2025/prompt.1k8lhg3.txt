@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser game] [2010-2015?] Captain hook game here you stack
+jellys on eachother. I remember you stack multiple different jellys on
+eachother until the stack falls over and you lose, it was located on
+Captain Hook's boat and he was standing on the side. (Captain hook as
+from the Disney show Jake and the Never Land Pirates) I can't find
+this game anywhere and it's really strange for being a Disney browser
+game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

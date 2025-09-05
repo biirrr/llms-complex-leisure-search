@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "D(a)emon Messenger in YA Fiction. Hello. I understand this
+group is for finding books you read but forgot the name of.
+Unfortunately, I am looking for a book I forgot the name of but only
+read the first page of. Hope this is okay. I read this page in either
+2018 or 2019. I found it in the Children's Section of the library on
+Mulberry Street in NYC, NY. It was the first book on the first shelf
+in an alphabetised section, so it started with 'A' I remember the
+first page was about some demon or demon-like creature which was
+sending a scroll or message to someone (maybe a demon king? something
+of the sort). The book was written in a similar style to that of
+Philip Pullman's the Golden Compass (very descriptive, but still a
+children's/young adult book. The book was pretty long (longer than
+Harry Potter and the Philosopher's Stone and A Wrinkle in Time, for
+reference), it seemed pretty thick and I remember the words being
+quite small. ChatGPT recommended ""The Amulet of Samarkand"" which is
+a possibility. If you can confirm/deny this, or suggest another book
+which matches my description, that would be great. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

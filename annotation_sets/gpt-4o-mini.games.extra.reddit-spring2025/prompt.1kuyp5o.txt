@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2000s] a game where you looked after after a clone of
+yourself and have to keep it healthy?. Ive been trying to remember
+this game for over a month and its driving me mad. It was online
+hosted on a website and you made a clone of yourself that came out of
+an egg and you had to set up a diet and daily plan for it to try and
+keep it healthy. Was supposed to encourage a healthy lifestyle. You
+could look into the future and see what effect your diet and choices
+had on the clone and what age it would die etc. I cant seem to find
+anything about it, maybe Im just searching the wrong things but I
+thought I would see if anyone else remembers this game. I was curious
+if the site was still up and running? I thought it was called body bot
+but I cant find anything under that name"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

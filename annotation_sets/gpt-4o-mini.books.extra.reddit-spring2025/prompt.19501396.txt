@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "An anti-facebook essay from 2018 with examples about how the
+social network destroyed lives [s]. Hello, I'm trying to find a book I
+saw in my library this year but did not read. It was written by a man,
+in english, and the book had a blue cover (I'm talking about the
+French version of this book). I think the author's name was very
+short, maybe 3 letters, and I think there was a ""thumbs down"" (or
+up) picture on the cover. It is an essay published in late 2017 or
+2018, about the ""dangers"" of Facebook and such social networks, a
+bit lit ""I hate the Internet"" by Jarett Kobek. I'm not sure, but
+when I shifted thourgh it I think I saw excerpts from Facebook.
+Thanks, and I hope to find it soon !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

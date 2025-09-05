@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [around 2000] 1 person racing game where you follow a
+route and when you finish there are camels. Platform(s): PC Genre:
+racing game, 3rd person Estimated year of release: around 2000,
+definitely before 2004 Graphics/art style: animated, quite simple
+Notable characters: You drive a car (sort of Mario kart style where
+you see the whole car on screen) there are no people in it. When you
+finish there is a congratulations screen and there are camels to
+celebrate Notable gameplay mechanics: You can controle the car by
+using the arrows on the keyboard Other details: You drive a car over a
+highway and you have to reach the finish within the time. There are
+checkpoints where you get extra time and if you die because you got
+off the road you start from there. The art style was quite simple and
+there wasnt much on the sides of the road. The background does
+change. It starts out with a blue sky but at a certain point it gets
+darker and a bit spooky with mountains in the background. I dont
+remember if there were other cars, but if there were there were not a
+lot. It was a 1 player game. When you reach the finish you get a
+winning screen that congratulates you and there are camels
+celebrating with your car."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

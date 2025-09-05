@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction novel about a girl who's forced to live as her
+brother. Read around 2014. Spoilers ahead.. OKAY so I read this book
+back in maybe 2014 when I was 13 and I hated it but. (Spoilers ahead)
+The plot is about a young girl who was playing with her brother one
+day (i think they were twins) in the forest behind their house and her
+brother ends up drowning. Her mother (who I think was single) was
+devastated so she made the girl live as her brother. I think she would
+date girls to fit in with the guys. The girl ended up having
+intercouse with a guy she liked when she was a teenager and she got
+pregnant and had the baby at the end of the book. Also I think the
+mother was a witch?? I think this was part of a series written by a
+female author."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

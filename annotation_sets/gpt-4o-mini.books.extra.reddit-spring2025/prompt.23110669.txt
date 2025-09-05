@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Short Stories. Cat abandoned by family on
+vacation. Snowman is alive during the night. Cover: blue sky,
+snowman.. i used to read this one children storybook that has many
+short stories in it. one of the short story that i can remember was
+about a cat that was abandoned by his owner/family and went to
+vacation. there were dialogues like, ""what about the cat?"" ask the
+girl, and mom replied coldly with ""it can go hunt birds or mice if
+its hungry"". and as the family went on vacation, the cat was starved
+for days before it finally leave the house to find food. the cat got
+lost during rains, met several other characters and lastly an old
+woman found him weak, and took care of him by giving milk and food.
+old lady adopts the cat and when the family were back from vacation,
+the children were sad that their cat was nowhere to be found. there
+are other stories i could not remember fully which was about a snowman
+that alive during the night and tried to run away only to be melted
+the next day and the children only found its scarf and gloves. i think
+it was a book by Enid Blyton but i tried to search it and could not
+find it. maybe i was mistaken. the cover of the book was a blue sky
+and the snowman. i have been searching for this book for a long time.
+if anyone have an idea what is the name of the book, please do share
+with me. thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

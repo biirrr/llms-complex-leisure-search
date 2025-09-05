@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [80s/90s] [Fantasy]. Trying to remember a game for
+NES. My older brother had it for his system. It was like a
+castle/dungeon game where you fought funky monsters in different
+rooms. You didnt go through a map. It was just room after room. The
+graphics were simple and the knight reminded me of the first Zelda.
+Although Im almost positive its not Zelda. It feels like a fever
+dream. Figured I could give a go on here and see if Im not crazy.
+Thank you. Sorry."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] Freeware humorous point and click adventure game
+where your slacker character was transported to another
+galaxy/planet/dimension. Platform(s): PC (freeware) Genre: Point and
+click adventure Estimated year of release: early 2000s Graphics/art
+style: somewhat crude pixel art Notable characters: main character was
+a white guy with brown hair who wore a green robe and brown slippers *
+Game started with character in bedroom, which was transported to
+another galaxy/dimension * One of the first puzzles might have
+involved leaving the room but the doorknob fell off (and moved to your
+inventory) * Had an in-game location called """"""""Bob's
+Piles"""""""" that was actually a battery store - you needed to obtain
+a battery to progress but you had no money * Humor was perhaps British
+in tone (sarcastic, clever)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

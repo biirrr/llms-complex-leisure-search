@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Girl wants to be a chef but has to go to a
+farm to strike a deal for produce, and she finds out the farm is owned
+by her ex-boyfriend from college. She gets to know him again and his
+family, cooks for them, drinks cider... [s]. Hi! I'm looking for this
+romance novel I read a while back a few years ago, perhaps between
+2019 to 2022. The girl is working at a fancy restaurant, but she is
+doing boring jobs like peeling potatoes, and not doing proper kitchen
+work. Her boss says that he will give her a chance if she goes to a
+farm they want to work with and get the deal signed. The restaurant
+wants the farm's produce. She heads to the farm and finds out that it
+is owned by her ex-boyfriend from college. She lives there for a
+while, and gets to know his family and falls in love again with him
+and starts to grow fond of his family. She makes food there, pork
+chops and some sort of chutney I think, she drinks cider as he's a
+cider maker... Her mum is also a chef too, very well-regarded. There
+might have been something about spiked brownies too. Any help in
+trying to find this book would be very much appreciated, I've been
+trying to find it for ages. Thanks for any help you might be able to
+provide :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

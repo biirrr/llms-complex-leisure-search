@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC browser game] [2005-2010] gloomy black and white
+platformer. What I remember of this game has stuck with me because I
+remember it unnerved me as a kid. Im not sure if it was actually all
+that creepy, but I could not have been any older than 10 when I played
+it. Definitely a browser game, and I believe I distinctly remember it
+was nearly an all black and white game (if not totally black and
+white). I want to say the art style was similar to Hollow Knight.
+Everything came across as very gloomy and whimsical but also
+threatening?? I realize trying to describe the tone of it may not
+necessarily be the most helpful when it was a &lt;10 year old doing
+the vibe check, but Im trying to remember whatever I can. I remember
+there being platforming elements to it, and that the story may have
+started at a house where the protag had to leave/run away from it. I
+also feel like I remember the protag was part of a family that was not
+very kind to them, but I may be misremembering this for another game I
+played. Anyone remember playing something similar to this? Thank
+you!!! :3"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

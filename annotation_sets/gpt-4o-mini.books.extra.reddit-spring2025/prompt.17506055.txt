@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Recipe Book Title - Slim and Scrumptious [s]. Hi everyone! I
+am looking for this book that has the Chili recipe on it that uses
+white beans, turkey and is colored white since it does not use tomato
+sauce or tomatoes in it, there are other good recipes that are good
+for people who are watching what they eat as well. It's like one of
+those skinny books but I don't remember if it had skinny on the title.
+It might be a long shot asking here but I hope someone out there knows
+what I am talking about. Thank you for reading! =)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

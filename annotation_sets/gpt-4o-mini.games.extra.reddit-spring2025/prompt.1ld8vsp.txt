@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [2005-2010] Dinosaur game with drawing. I don't
+remember much about how the actual gameplay loop of the game but I
+remember that you controlled a dinosaur and could roam around the
+world and eat meat, drink water and do things like that. You could
+also engage into battle against other dinosaurs and here's where it
+gets interesting because while I don't remember much the combat system
+I distinctly remember that you would have to draw something on the
+touch screen (I believe it was the outline of your enemy but I'm not
+sure) and that contributed to the combat in some way. Apart from other
+dinosaurs there were some unhinged enemies like a telephone booth. The
+game was 3D with a somewhat realistic artstyle, for DS standards at
+least."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

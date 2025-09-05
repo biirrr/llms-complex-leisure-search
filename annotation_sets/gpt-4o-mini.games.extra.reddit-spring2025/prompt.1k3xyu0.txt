@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Sega Saturn?][1990s era?] Sidescroller game, protagonist
+has reddish hair I think, when you die you would fly back in slo-mo
+while doing a death scream and crystalize? Explode?. Story was
+something like you've been freed and must journey to rescue
+someone(maybe a princess in a crystal?)I remember the first level
+being like a blue crystal cave, lots of God rays in the background
+sort of shining through, flying eyeballs harassing you and as I child
+I remember it being super difficult. It doesn't look like any of the
+old Ys games but I could be wrong, i remember it being a stylized menu
+like Ys(stuff like two angels forming the health menu which was like 6
+red orbs or something) you would run to the right and slash through
+stuff and you could like shoot a blue wave or something In front of
+you through the ground or something. Protag would grunt like link as
+you fought. Been driving me crazy cuz I wanna replay it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

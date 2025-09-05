@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010?] Old LG game that comes automatically on the
+phone with a green alien who jumps from planet to planets. I tried to
+kinda draw how I remember it!! The artstyle was like pixelated I
+think?? Either way, it wasn't smooth like this but you get the idea.
+My mom threw my old little LG smartphone away and I'm so so sad
+because that tiny alien was everything to me. When you'd jump from
+planet from planet you'd collect stars/points, and at the end of every
+level(?) you'd have a little black hole that would take you to another
+universe!! There was the standard one and a pink one too, but I don't
+remember much more. The alien looked like a simple green ball with
+eyes (kinda placed the same way that mickey mouse's ears are) so it
+also looked a bit like a frog, and I'm not sure if it had mouth. If he
+did, it was a little dot. I also remember us going to some game site
+named something like Jafa or Java or idk?? But don't hold my word for
+this. Everything I remember about it was when I was 2-5 years old from
+like 2014 :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction book about Anne Frank. [s]. I never read the
+book but I'm trying to find a book that was a work of fiction. I do
+remember the story was about about someone who in the present day had
+Anne Frank living in their house (?) / attic. Unfortunately that is
+all the info I have on it. I don't remember specifically when the book
+came out but I'd say sometime in the 2010's to be safe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

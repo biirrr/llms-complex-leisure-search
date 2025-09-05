@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction. Holocaust book. Young girl with blonde girl and
+blue eyes gets put in concentration camp. [s]. I read the book I
+believe in 2002 or 2003 in 4th grade I think. A young Jewish girl
+(don't remember her name) with blonde hair and blue eyes; and her
+family gets rounded up and sent to a concentration camp. I think she
+was about 10 or 11 years old. I think a soldier told her to lie about
+her age so that she would ""be"" old enough to work at the camp and
+not sent to the gas chamber. She is separated from her family and gets
+moved to a different camp a time or two."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

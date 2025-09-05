@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, men’s sexuality/attraction, several authors &
+stories, available on amazon, humour. [s]. I’m looking for a book I
+recently found on amazon: It’s non-fiction and a collection of stories
+told by men, mostly about their sexuality (how they discovered it, how
+they’re dealing with it etc.), but told in a funny way. Since it’s a
+collection, it has more than 10 authors. On the cover is a gentleman
+in a suit, either sitting or leaning. I only remember a few bits of
+two stories of the book: 1) one author describes the scene of a woman
+having lunch with two colleagues, with special focus on the
+perspectives and views of the people involved. One of the colleagues
+might have been the perfect match for this woman, but was just too shy
+or intimidated to talk to her, whereas the other one somehow ended up
+talking to her more, but wasn’t really attracted to her. The story
+ends with the portrayal of the thoughts of the people involved and how
+things might have ended differently, if some of those thoughts had
+been conveyed, e.g. the shared love of lake houses by both the shy guy
+and the woman (or something along those lines). 2) In another story,
+an author speaks about his early experiences with sexuality in a funny
+way: He would get erections during (math?) classes, even though
+neither the subject nor the teacher were particularly arousing. There
+is of course more to the story, but unfortunately, I didn’t get a
+chance to read any further. The only last piece of information I can
+give you is that I found the first of those stories through a google
+search, but since I have cleared my chronic recently, I can’t find it
+anymore. The article was posted on some website, stating that it is
+part of the aforementioned book, but I can’t find it, not for love nor
+money. Please let me know if you have any ideas about the title of
+this book! Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

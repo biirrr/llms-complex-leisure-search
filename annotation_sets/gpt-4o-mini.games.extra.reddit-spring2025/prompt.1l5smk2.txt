@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii] [2010s] need help finding a sports game for the Wii i
+havent been able to track down ever since i gave it to a friend who
+lost it. It was a Wii sports like game, except it had predefined
+characters and it was set in tropical islands, with tiki masks and
+mini erupting volcanos. It had a bunch of minigames like boules, mini
+golf and some weird kind of basketball. Thats all i can remember, i
+really need to find out because its been bugging me for months"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

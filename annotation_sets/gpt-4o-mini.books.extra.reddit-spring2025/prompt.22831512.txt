@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Christian fiction about a group of women set in an
+American small town. Spoilers ahead. [s]. I read this book about seven
+years ago. Probable years of publication 1990-2015. The book is about
+a set of women who had a friend who died when she was a teenager, her
+name was probably Dove. The girl dies due to drowning during a girls
+trip. The other women are grown now and have their own issues. The
+dead girl's mother is diagnosed with cancer and she wants closure. The
+women get together again one last time and it is revealed that the
+dead girl had been pregnant at the time and her death is possibly a
+suicide. The dead girl's mother dies at the end."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

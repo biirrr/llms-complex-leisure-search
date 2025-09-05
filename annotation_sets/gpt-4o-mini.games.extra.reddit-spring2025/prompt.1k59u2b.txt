@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018] a surrealistic puzzle game that leans into
+philosophy. Platform(s): PC Genre: puzzle Estimated year of release:
+before 2019 Graphics/art style: minimalistic,its pretty much all plain
+white with barely any shadows Notable characters: i dont think this
+game even has characters Notable gameplay mechanics: weird guns/tools
+that could place cubes of various colors you have to collect around
+the game and require to progress Other details: it had black squares
+with little drawings on them that lit up when you approach them and
+show you a philosophical text, usually they're related to something
+that happened in game (something like: """"""""sometimes you have to
+fall in order to get up"""""""" after the player solves a puzzle where
+they have to fall down into a hole in order to end up at the top of an
+obstacle). this game also leans heavily into perspective, i remember a
+part where in a room there were several cubes, with each side
+seemingly having its own internal volume"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile/ipad] [guessing around 2017] Sesame Street game.
+(Apologies if I break rules, Im trying not to but its hard to
+explain) There was this game I always used to play when I was younger,
+Im pretty sure it was a Sesame Street game? I remember it was a game
+with a bunch of minigames that involved stacking food, stacking ice
+cream, cutting bushes, and other things that I struggle to remember. I
+cant find it at all and Im desperate to (it has been nagging me for
+a while now) Edit!: it might possibly be a game inside of another big
+game, i physically cant remember if it is or not unfortunately. But
+it could possibly be a Sesame Street game of games, inside a big game
+of games (tongue twister, I know)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

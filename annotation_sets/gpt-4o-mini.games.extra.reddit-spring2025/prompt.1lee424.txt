@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2012] Early version of Counter-Strike Online. I
+remember really enjoying a weird version of CS called CS Online, but
+after digging, i might've played a version not made by Nexon, cuz it
+didn't have a launcher, and the file structure wasn't change meaning
+it just looked like a modded CS 1.6. But nonetheless it had way more
+weapons and characters than the base game has, so it wasn't just a
+reskin, everything was custom and it had extra modes. and the
+characters did the typical asian game """"""""DOUBLE KILL!, MULTI
+KILL!"""""""". Can anybody point me to where I might find this?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

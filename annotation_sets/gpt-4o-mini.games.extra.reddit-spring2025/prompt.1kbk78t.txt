@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps4, computer][unknown] game about zombies?. I remember
+this game from a long time ago, and I only remember a few scenes and
+Its annoying me sm that I dont know what game It Is!!! heres some
+stuff: - our character was male? - there was this scene where we were
+In the woods and this mom was force feeding her son this uhm..slop
+thing? - there was a thing you had to run away from I think It had
+like three heads and was mostly white?? -I remember you had to sneak
+behind cars to avoid these zombie things - It was on ps4 and computer
+I think - not multiplayer, It was a single player story thingy maybe
+Im just schizophrenic and this game doesnt even exist, but If It Is
+real! WHATS IT CALLED?? PLZPLZPLZZZZZ TELL ME IM DYING"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

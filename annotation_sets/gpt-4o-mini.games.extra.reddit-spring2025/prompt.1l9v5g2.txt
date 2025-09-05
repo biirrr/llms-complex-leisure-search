@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90 - 00] 1v1 game where you shot rockets/balls to clear
+and survive. I believe we got this game for free when buying a 2-pack
+prince ministars (in the Netherlands) But could not find anything
+about this online. It was a pc game around 1995-2005 by guessing. You
+could play it 1v1 and both controlled one of the characters (black
+dot) using the same keyboard. You had to shoot the balls or whatever
+it was above you to clear it. But you could also shoot at your
+opponent through the gap. I believe the gap was also moving. The water
+level could also increase, i believe based on how much crap fell in
+it. Anyone any idea?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

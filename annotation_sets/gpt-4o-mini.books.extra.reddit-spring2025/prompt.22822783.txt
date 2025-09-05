@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance, Silhouette/ Harlequin/ Mills &
+Boon. Couple are best friends that have an one night stand, but hero
+travels a lot and is a bit of a commitophobic. Originally published
+between late 90s/early 2000s. Spoilers ahead.. Hi, everyone. I'm
+looking for a book I can't remember the title nor the author. The plot
+revolves around best friends that, after sharing a few drinks, have a
+one night stand, and the heroine ends up pregnant. I'm not sure, but I
+think the Hero is a nature/ wildlife photographer or a travel guide's
+writer. He travels the world a lot and has no desire to settle down.
+However, all that might change when he returns from an overseas trip
+and finds out his friend is pregnant. He is in shock when he finds out
+its his, and yet proposes for the baby's sake. I'm quite sure they
+have a daughter by the final chapters of the book, but I'm inclined to
+believe they're twin girls. Not sure about this detail. It's none of
+the books below: - Baby: MacAllister-Made by Joan Elliott Pickart -
+The Last Marchetti Bachelor by Teresa Southwick - Ready Set ... Baby
+by Christie Ridgway Unfortunately that’s all I could remember. Thanks
+in advance for any help you guys can provide."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

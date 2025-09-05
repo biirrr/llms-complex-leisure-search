@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NINTENDO SWITCH] [2010s] Searching for a single player
+first person action puzzle game where you (possibly) only have one
+arm. [RESOLVED]I remember playing a game in switch some years ago, if
+I remember right you were a woman who lost an arm, the gameplay was
+semi turn by turn, you moved from area to area, like very old RPGs
+with early graphics. Each monster had their own pattern and you had to
+attack with your sword in a certain direction (EX: top to bottom, left
+to right) I remember it being pretty hard, I know it had some sort of
+inventory system. Its art style was fully hand drown 2d with a pretty
+colorful color pallet and pain colors. I remember an enemy being some
+sort of heart monster maybe. It's all very blurry, but I'd love
+playing this game again, it might have had been a mobile game ported
+to the switch too. EDIT: game is """"""""severed"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

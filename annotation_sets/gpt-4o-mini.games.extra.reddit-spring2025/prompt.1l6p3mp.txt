@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile, IOS][2010s-ish] Game where you hunt down a knight
+as a princess on dragonback. Platform(s): It was on mobile, though it
+may have also been on android as well as IOS Genre: action adventure
+mix Estimated year of release: ~2012-2015 Graphics/art style:
+Simplistic style of game, had an anime-esque feel to it? Been a while,
+unfortunately. Notable characters: A princess, a knight, and a dragon.
+The dragon could be varied, unsure if the princess could. Notable
+gameplay mechanics: Pressing your screen made the dragon go up,
+releasing made him go down and even dig through the ground. Other
+details: Starter dragon was a red Chinese (unsure) dragon with a
+princess wearing similar red clothing, with the princess herself
+having black hair. The knight steals from your tower, which enrages
+the princess and makes her team up with the dragon to hunt the knight
+down. Unfortunately I dont have much more information other than
+that, any help or suggestion is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

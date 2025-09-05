@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPhone] [2011] vintage looking car platformer. looking for
+an iphone game from 2010s that was like a vintage style platformer
+where you drove a car through like a path. it was either black and
+white or like sepia toned and kind of cartoon style. im pretty sure
+there was modes like you could play in autumn mode or spring mode and
+i think it had some kind of photos or snapshots as collectibles."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

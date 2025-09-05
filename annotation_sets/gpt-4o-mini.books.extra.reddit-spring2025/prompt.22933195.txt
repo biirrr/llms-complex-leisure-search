@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery/ Thriller. Group of teen friends go on a cabin
+campout, one by one they die mysteriously. Female narrator is the
+newest to the group and was previously more of an outcast. Read mid
+1990s.. A book from the late 80s or 90s I read it in the mid-90s where
+a group of teen friends goes on a cabin campout together. Told from
+the point of view of the newest to the group, girl who was previously
+more of an outcast. The teens begin to die mysteriously, one-by-one
+until the killer is revealed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

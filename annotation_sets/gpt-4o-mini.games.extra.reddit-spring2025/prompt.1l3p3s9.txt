@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000's] Caravan, trader flash game. I can't for
+the life of me remember the name of it. It's was on one of the popular
+flash game sites like armor games or kongregate. You were a trader
+with a wagon and could hire mercenaries to help you, upgrade your
+wagon to carry more goods and party members and the game had an actual
+economy. Buy an abundant recourse cheap in one city, sell it for
+profit in a city that doesn't have access to it elsewhere. I've been
+looking for the game for a while now. Sorry I don't have more
+details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

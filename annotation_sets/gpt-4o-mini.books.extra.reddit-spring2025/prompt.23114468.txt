@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Thriller with Crime aspects. The book begins
+with a woman reporter who has a show (similar to Chris Hansen’s To
+Catch a Predator). Later in the book, a teenager gets alcohol
+poisoning. Read around 2016-2018?. I think I read the book 2016-2018.
+I know for sure that the book has a red door on the cover. I think it
+was set in the US and like it took place in the modern world."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

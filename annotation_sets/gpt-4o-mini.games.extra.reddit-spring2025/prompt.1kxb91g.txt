@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES I think] [unknown] A game where the first boss is a
+ghost floating mid air in a bamboo forest who holds sticks and summons
+plates (?) and throws them at you and you need to hit them to return
+them to sender.. Well that's a title. I played that twenty years ago
+and I still have pictures cropping up in my head sometimes. It was a
+beat them up with a Japanese anime design. First level had you go
+through a fishing village and sometimes fishes jumped from the river
+you could eat for health (I think) It went mostly from left to right
+with some depths to go up and down, except during the first boss that
+had no depths. Beyond that... I can't remember for the hell of me.
+I'll appreciate the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

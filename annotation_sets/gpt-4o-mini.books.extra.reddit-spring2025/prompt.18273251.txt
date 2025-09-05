@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy book about tabletop rpg becomes real. [s]. I can't
+remember the title of this book I read in high school in 2012. I also
+can't remember the author or when it was published. What I can
+remember is the protagonist (not sure of gender, but young) meets a
+girl who invites him to play this game with her. They go to a secret
+location. The game is a tabletop rpg / choose your adventure type
+story. The girl introduces herself as the ""dungeon master"" and wants
+to only be called that and not her real name when they play. The game
+they play is fantasy with monsters and dungeons in it. I specifically
+remember a part where she makes him choose between two doors/hallways
+in a dungeon. The protagonist and girl meet up repeatedly to play this
+game. This has been bugging me for awhile now so any help would be
+greatly appreciated! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2010-2015] help me find this game please. Platform(s):
+i played it on a pc Genre: it was a fighter game, with a top down
+camera view and pixel graphic Estimated year of release: from 2010 to
+2015, cant say much sorry Graphics/art style: simple pixelart game but
+enough to see detail of monsters and bosses DETAIL: dark,brutal but a
+litle sad, with a lot of blood and dangeons in realistic but a magical
+world with monsters and rituals (maybe it even has some kind of
+worship too but I'm not sure) you cant realy see the faces of your
+characters Notable characters: i cant realy tell anything, but i
+remember that one of the bosses was a some kind of mask or a statue
+that has a heart you needed to hit to win Notable game mechanics: it
+was a cooperative game from 2 to 4 players, your going through dungeon
+from room to room and fight monsters, in some rooms was some kind of
+altar or pentagram, if anyone from player use the altar he becomes a
+monster and can fight with other players. To achieve victory you need
+to find an exit(door or a trapdor) and find a boss on the final layer,
+kill the boss watch a cutscene and get one of endings(it depends on
+what boss you killed). Other details: this games has a short name
+containing one word, it has a very good animated blood phisic"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [late 2000's] Animal rescue game. Platform(s): PC
+Genre: Animal rescue Estimated year of release: late 00's or early
+10's maybe Graphics/art style: realistic 3D Notable characters: Dr.
+Blumenthal (if I remember correctly), your mentor Notable gameplay
+mechanics: you rescue animals on the seashore (I specifically remember
+puffins), you treat them, tend to their wounds, clean them up and set
+them free, or later in the game you can keep them in special
+enclosures until they're healthy enough. Other details: the setting
+was cold so the animals were typical for colder environment, maybe
+there were seals and orcas, I'm not sure. Also, the animals had oil on
+them, that's what you had to clean them up from."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

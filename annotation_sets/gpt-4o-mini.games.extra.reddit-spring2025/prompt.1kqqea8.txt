@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc?] [2020 or before] pvpve (party?) game with up to four
+players in a rpg style.. i saw it in a YouTube video a while back, it
+had 4 people in a call playing a top down pixelated pvpve game where
+they took turns moving around the world map and fighting monsters
+gaining xp and leveling up or going to shops to buy and or sell items.
+I remember they could steal from the shops and had a chance to fail
+and something would happen. there was also areas where players could
+beat a boss to save a town or something, and had the goal to be the
+one to beat the most bosses. the only thing i remember about the
+youtuber is that they might have had something to do with the pokemon
+piplup."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

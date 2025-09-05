@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Poetic Autobiography about a girl and her love for animals
+and nature [s]. So I THINK the title goes something like ""The diary
+of O.."" And it might be Olive or Olivia or something. Could be wrong.
+The story as far as I remember is about a girl who lives and does
+chores for her strict mother at a farm. She has a cheerful and sort of
+ignorant, easy going personality. She goes to school but she hates it
+because she loves her farm animals and wishes to always spend time
+with them and share adventures with them. A lot of times she'll sneak
+frogs or mice in her pocket to school and get in trouble. She names of
+all of her animals absurd names named after famous people from that
+time era, like musicians, politics, or just important people. I know
+for sure that she had a pig, and a dog that ran away for a short
+period of time. (SPOILER: DONT READ FURTHER IF YOU THINK YOU'RE
+READING THIS BOOK), Her pig gets slaughtered after her mom tells her
+to go out and do a chore to distract her. She also had a blind/or dead
+friend that burned in a fire because of her disability/lack of knowing
+of the fire. I also think the main character talked of God often too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

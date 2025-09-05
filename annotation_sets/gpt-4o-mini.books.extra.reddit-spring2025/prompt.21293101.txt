@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Chinese-American novel. Includes myth about woman training
+to be warrior. [s]. I recall this (the memories are very vague, so I
+might have some of this wrong) as a paperback book by a Chinese woman
+in the USA, about her experience with integrating the two cultures.
+The latest I could have read it would have been summer of 1999, though
+I think it was earlier. I think it was an American book; I was
+definitely visiting the USA when I read it. Here are the two things I
+remember about it: 1. It included a myth about a young girl who
+trained with a warrior couple to be a warrior herself and to fight to
+rescue her people. She found the warrior couple by following some kind
+of sign; I think it was a miniature bird. She had to sleep on a bed
+that was exactly her own width, so she learned not to roll over in her
+sleep. There was mention of her getting her first period and thinking
+she could control how she bled because she was so practiced in
+controlling her body during fighting, but being told by the warriors
+that she couldn't do this. At the end of the story, the author (who I
+think had been told the story by her grandmother or mother when she
+was a child) talked about how desperately she'd wanted, as a child, to
+find a sign like that and undergo the same training. 2. There's a
+scene where one woman - I think the author's grandmother or mother -
+was buying a girl as a slave in the market. She asks the girl various
+questions to determine her intelligence/competence, of which the only
+one I remember was how to cast on stitches while knitting; the girl
+shows her by pantomiming it using her fingers instead of needles. Does
+this ring any bells? I have a feeling it was quite a well-known book
+in the USA at the time. I checked Amy Tan's and Jung Chang's work but
+couldn't see anything that seemed to fit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

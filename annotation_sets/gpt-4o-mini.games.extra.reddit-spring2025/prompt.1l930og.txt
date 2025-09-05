@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DOS or windows] [80s, or 90s][scrolling arcade shooter] a
+scrolling pixel based shooter, like raiden but movement in all
+directions and in the opening cinematic has the pilot thinking of his
+wife who is breastfeeding their newborn child. Then puts on his mask
+and flies off.. Getting back into DOS games and want to find it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

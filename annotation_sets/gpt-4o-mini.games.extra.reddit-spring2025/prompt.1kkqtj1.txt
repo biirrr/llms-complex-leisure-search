@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Around 2012] 3d physics based sandbox. (unrelated
+game, the character design just looks like almost 100% identical
+except for the fact it's a bear) The game was like a social hub
+sandbox where you could make worlds and share them out. Its character
+design is very similar to the photo but they were people. I remember
+when you die in the game your character explodes kinda and the
+floating bits of the character (head, hands, feet) would like
+disperse."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

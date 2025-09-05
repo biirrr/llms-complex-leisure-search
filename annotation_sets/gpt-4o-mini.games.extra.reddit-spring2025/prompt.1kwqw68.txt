@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][2000s?] game with dragons/fantasy. I remember
+reading game informer and there was an advertisement, something along
+the lines of """"""""the only way to kill a dragon is to become
+one"""""""". Maybe not those exact words but along the lines. I don't
+remember an exact year but I believe that the issue had a cover
+involving modern warfare 2 which is why i put the 2000s, so maybe mid
+to late 2000s?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Music book. Organ instrument. Pieces include classics,
+traditional and gospel/church music. Images of pages included. [s]. I
+had the book around the year 2010 but the publication year must have
+been from around the 60s, maybe 70s. It had a mix of classics,
+folk/traditional, contemporary (from the 60s), and church pieces. I'll
+include a list of the ones I remember and also some pages of the book
+I had scanned. I had shown it to a friend and she said it looks a lot
+like the book ""Large note piano pieces"" but it's not that one before
+anyone comments it (just in case) this is an organ book 100% Some of
+the pieces included: - Down in the Valley (traditional American folk
+song) - A Taste of Honey (by Ric Marlow and Bobby Scott) - Strauss
+Waltz Medley (by Johann Strauss) - Augustin (Austrian traditional
+children's song) - Black Eyes (Russian Gypsy Song) - España (by
+Emmanuel Chabrier) - Weber's Last Thought (by Carl Maria von Weber) -
+The Bartered Bride (by B. Smetana) - Can-Can (by Jacques Offenbach) -
+Faust (by Charles Gounod) - Toreador Song (by Georges Bizet) - He
+Leadeth me (by Gilmore-Bradbury) - Stand up for Jesus (by Duffield-
+Webb) - Beautiful Dreamer (by Stephen Foster) - The Blue-Tail Fly
+(traditional American song) Here are some pages from the book:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

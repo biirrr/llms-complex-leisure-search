@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [1990's] Final Fantasy 8 but not. So I feel like my
+answer is FF8 but I have no memory of that game when I watch gameplay.
+My memory is super vague because I was like 7/8 when I played it last
+but what I can remember is, the box looked exactly like FF8 I remember
+the 4 discs and even the art of the back of the case. I played as a
+character in red armor and had a very medieval vibe, all melee
+weapons. I remember one of my team mates had green armor and used a
+spear, and the main story was going to find my sister. That's pretty
+much all I remember besides one section that I had to chop down a tree
+to get across a gap and had to find an axe to chop it down. The more I
+look into this the more I think it was just FF8 but just don't
+remember the style of it, thanks for any help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

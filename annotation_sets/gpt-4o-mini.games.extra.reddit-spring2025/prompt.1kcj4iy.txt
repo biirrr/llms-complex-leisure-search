@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [Xbox] Speedrunning game in heaven. I remember a
+year ago playing this game on my Xbox from gamepass about assasins (I
+think) going to heaven to fight demons. I remember that all the names
+were colors, there were """"""""White"""""""" the mc and
+""""""""Red"""""""" and """"""""Violet"""""""". It was basicly a
+speedrunning game with times and leaderboards for all the maps
+Platform(s): Xbox Genre: Action probably Estimated year of release:
+1-5 years ago probably Graphics/art style: Cartoony Notable
+characters: White, Red, Violet, other colors Notable gameplay
+mechanics: Picking up card with abilities"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

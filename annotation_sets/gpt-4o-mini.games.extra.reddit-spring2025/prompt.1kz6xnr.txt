@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2000s] Please i really need to remember =-=O<ûit was
+puzzle/click and point adventure game. The first stage start in an
+apartment or a bedroom I'm not sure we were trying to get out of it
+and we also break the piggy bank to get the coins inside it the room
+was very mess after getting out of the apartment/room we head down to
+the street were we also solve puzzles and collect items there was also
+a boy with lemon shaped face and had a very few hair like lines"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

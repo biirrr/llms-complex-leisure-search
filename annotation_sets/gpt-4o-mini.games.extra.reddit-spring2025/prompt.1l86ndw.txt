@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows PC] [Late 90s, early 00s] Game that allowed you to
+create vehicles and the goal was to see if it could make it to the
+finish line on its own. Platform(s): Windows PC, not a flash game
+Genre: Simulation? Estimated year of release: Late 90s, early 00s
+Graphics/art style: realistic but cartoony proportions Notable
+characters: one of those cooky wacky scientists characters from
+children's cartoons. I remember him telling you to try again if you
+failed. Notable gameplay mechanics: Kind of like Kerbal Space Program,
+you would design a rocket or a rocket-ship, you would launch it and
+see it fly, if I remember, from a first person perspective. If you
+failed, the scientist would tell you to try again. If I remember
+correctly, the whole game was about designing rockets, subs, cars,
+things like that, and trying to acomplish a goal (go through the
+finish line, reach space, etc.) Other details:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

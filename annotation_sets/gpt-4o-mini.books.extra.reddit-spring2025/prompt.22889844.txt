@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fiction book: siblings pretending to be psychic [s]. I saw a
+book at Books-A-Million a few weeks ago (2024) and meant to make a
+note of it but can’t remember. I know it is green and has a frog on
+the cover of it and I saw it in an area that was showcasing newer
+books. The synopsis was something like: two siblings pretend to be
+psychic and cheat people out of their money, until one session starts
+to become too real and scary things start happening. Or something like
+that. Does anyone know what this book is??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

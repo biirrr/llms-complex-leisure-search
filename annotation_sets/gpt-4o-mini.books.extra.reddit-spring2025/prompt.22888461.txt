@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical novel. Young girl/ woman from Indian tribe in
+North America (hundreds of years ago), called cannibals by rival
+tribe. She travels alone, north to Canada. [s]. Hi. I'm trying to find
+the name of a novel. Googling hasn't helped so far. From what I
+remember (although vague) A young girl/woman from an Indian tribe in
+north america has a rival tribe who calls her tribe cannibals. Is set
+hundreds of years ago and there may be a sequal. She escapes alone and
+goes north to canada and is taken in by another group of people and
+gets very home sick and keeps traveling possibly to greenland and
+marries a man who may be nordic? Any idea?? Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

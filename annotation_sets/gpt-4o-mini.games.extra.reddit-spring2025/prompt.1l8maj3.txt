@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] Point-and-click puzzle game where you
+mess with people on a cruise ship. **Platform(s):** PC **Genre:**
+Point-and-click, puzzle. **Estimated year of release:** 2000
+**Graphics/art style:** Cartoony, 2D, colorful. Game displays a 2D
+scene from the side, where you can point and click to move your dude
+around. **Notable gameplay mechanics:** My memory is you play a dude
+whose entire goal is to ruin people's day. You had to interact with
+items and people to set up a sequence of events which upsets someone.
+Puzzle-solving involved trial-and-error to see what you needed to do
+in what order. I think there were distinct """"""""stages"""""""" each
+with a scenario to solve. **Other details:** I'm pretty certain it was
+my dad's and it wasn't a kids game. I remember one
+""""""""level"""""""" which involved making a man angry by trying to
+flirt with the girl he was with?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

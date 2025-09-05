@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, psychic/supernatural. It's a big book, contain
+these topics and subtopics: -Fortune telling and interpretion with
+cards, tea leaves, probably much more. -Dream meanings and
+interpretation. -Phrenology, which is the study of the shape of the
+head to tell one's personality. This chapter/topic/section has got a
+LOT of pictures and figures of heads and the shapes. -Meanings of the
+placement of rings on finger. (I specifically remember that it says,
+ring placed on the last little finger represent lack of desire for
+marriage. -Fortune telling with hands. -Something about
+constellations. -Theres a picture/figure which is: a big circle with
+numbers and zodiac on each section in side. It will tell you to close
+your eyes, circle a pencil in the air for vertain amount of times in a
+certain direction, and when the pencil lands on a number in a zodiac
+section in that circle figure, you will have to look up the
+""fortune"" that will be written with that figure. -There's another
+figure where theres a box, it had 14 (not very sure) rows and columns.
+It looks like a crossword but it's got a pattern. Reading the letters
+in a certain direcrion and pattern tells you your ""fortune"".
+-Pictures of tarot cards. That is all I can remember as of now, but I
+may include more details in the comments as I try to bring the
+memories out. The book had purple colored cover with some designs that
+will scream ""psychic"" and ""fortune telling"". But we dont know if
+these kind of details are constant."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

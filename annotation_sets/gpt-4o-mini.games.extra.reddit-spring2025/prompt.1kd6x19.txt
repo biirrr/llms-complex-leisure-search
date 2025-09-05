@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s or 2000s] 2D Top down RPG in a space setting.
+Platform(s): PC (Windows I think) Genre: RPG Estimated year of
+release: 1990s? 2000s maybe Graphics/art style: 2D Top Down Pixel,
+mostly monochromatic Notable characters: One prominent monster type
+was a ripoff of the Alien xenomorph Notable gameplay mechanics: Very
+smooth real time combat and movement. Other details: You were in
+charge of a team of NPCs. You followed assigned missions on different
+space stations and planets. Graphics were simple: lines for walls,
+filled in circles for characters and monsters. NPCs and monsters were
+represented by static pixel art in a viewscreen like box. The screen
+was split into different areas, and the combat/movement area was only
+part of the whole game screen. I wish I could remember more. The main
+elements that stick in my mind are the simplistic nature of the
+graphics for the time, and the clear Alien xenomorph ripoff
+characters/monsters. The simplistic graphics allowed for very smooth
+motion and fancier weapons effects."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

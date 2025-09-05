@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. I.T mc gets trapped in evidence
+locker with chief over the weekend. [s]. The main character is an I.T
+and she works at a police station, when she gets the jobs she finds
+out she knows the boss guy from way back in the past and it’s weird
+and she has this long standing crush, anyways they get trapped in an
+evidence locker over the weekend and some raunchy things end up
+happening"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

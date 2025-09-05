@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book featuring true stories of Vietnam veterans
+and nurses [s]. Hi, all, I'm looking for a book that I believe was
+published during the 80s. It was a nonfiction book featuring stories
+told in an oral style by veterans of the Vietnam war, including some
+from nurses--I remember them talking about the atrocity photos some
+soldiers would show them. I believe the book was compiled by a
+male/female author team, and I know they also had another book of
+collected stories from policemen and women that I also read. I think
+they had another collection about people's virginity loss stories.
+You'd think I would remember them as I read two of their books, but
+nope. Any help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

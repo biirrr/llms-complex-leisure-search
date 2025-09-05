@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sci Fi. Boy with mirror face/ eyes. Spoilers.. (Spoilers)
+What’s the name of that book? It’s a story about a little boy who
+everybody hates or is afraid of (including his mom who is an
+alcoholic) and trying to kill. He has to hide his face and he thinks
+he’s ugly. They lived in a mountain shack until he was about 5 and his
+mom made him leave. Then he’s homeless and people, even cops, want to
+kill him on sight. He meets a man with a similar affliction and it
+turns out his face (eyes?) reflect the true nature of a person."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

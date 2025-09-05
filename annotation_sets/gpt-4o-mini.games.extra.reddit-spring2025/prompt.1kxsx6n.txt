@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Browser/Flash] [2000-2009] Top-Down Escape Room-Type
+Game. Was a really strange game, I remember playing it online at my
+mom's workplace sometime in the late 00s. Not sure if Flash or not.
+Don't remember the website either. The game played from a 2.5D top-
+down perspective, kind of like an old RPG Maker game. Gameplay
+consisted of walking around a house, finding items, and using them in
+the right places. The game started with the character waking up in a
+bedroom in a house, and it ended with them going into some sort of
+catacomb underneath the house. No combat, maybe some note reading. I
+don't remember much about the story other than the player character
+not knowing where they were. I think there was a second game that took
+place in the catacomb. I thought the word """"""""Labyrinth""""""""
+appeared somewhere in the title, but none of the results I've found
+fit the description of the game. I swear I remember the word being
+somewhere though. Any help would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

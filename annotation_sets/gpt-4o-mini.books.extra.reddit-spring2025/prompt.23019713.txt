@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction book about a girl who helps other girls recover
+after a breakup. I read the book in middle school/highschool (so
+between 2006-2011). The main character comes in and helps girls who
+have gone through a bad breakup or been dumped. She helps them find a
+new hobby (she helps one girl learn how to dj), gets them in good
+physical shape (I think they did kickboxing), and helps them basically
+have their golden moment in front of their ex where they then get to
+reject their ex. It was fun read and I’ve searched everywhere and
+can’t find a trace this book existed. It might have been British?
+There was one specific scene where the main character was wearing a
+black tank top and she was fresh out of the shower and her hair was
+wet but twisted up into a top knot and her love interest thought she
+was just beautiful. Idk why that part stuck with me 20 years later but
+here we are. Please help! It’s driving me bananas!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

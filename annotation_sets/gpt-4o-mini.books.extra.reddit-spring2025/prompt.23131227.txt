@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-fi Short Story. Woman and child stuck on space
+wreckage and something hunting them.. Looking for this short story,
+read within the last 5 years (but it might be older, relatively modern
+though). Starts in medias res with an adult (a woman, I believe) and a
+child (I think, sorry!) stuck on a wrecked space station or space
+ship. The tension of the story builds as something (outside the ship)
+is searching for/hunting them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

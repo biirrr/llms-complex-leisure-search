@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA book about survival stories written in 2nd person
+perspective. [s]. I read a book years ago that had different short
+stories like someone getting hanged for a crime, someone getting
+Ebola, someone (if I remember correctly a pro baseball player) getting
+hit in the face with a baseball, someone getting stung by a bee and
+having an allergic reaction (if I remember correctly). If i remember
+correctly the foreword or first story detailed a car crash in the
+mountains somewhere. The unique thing about the book was all the
+stories were written in 2nd person (you are driving etc..) I think the
+book was published in late 1990s or early 2000s.. I got it at Barnes
+and Noble in c. 2005.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

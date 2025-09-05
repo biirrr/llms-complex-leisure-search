@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Retro Console] [1980's-1990's] Platformer Witch game. I've
+been trying to find this game, it's 2 player and I'm pretty sure you
+vs each other. It was a platformer (possibly split screen) where you
+play as two witches running and jumping all over the place and I
+remember letters being at the top spelling something out kinda like
+Donkey Kong Country. It was pretty fast paced too"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

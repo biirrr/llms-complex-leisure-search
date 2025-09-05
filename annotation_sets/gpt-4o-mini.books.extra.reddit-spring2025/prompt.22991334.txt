@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy book (part of a series) I read in
+Elementary school. It was about a friend group that traveled through
+fairytales.. The mc was a boy with dark hair. His friend group was
+made up of twins (both boys I think), a boy (I don't remember much
+about him except the fact that he was the mc's favorite), a girl (her
+name could've been Beth?), and himself. Somebody owned a dog, but it
+wasn't the mc. I think the characters were in middle school. I only
+read one book in the series, but it was the second or third. The mc
+discovered a gate in his basement that transported his friend group to
+somewhere. That somewhere was either a fairytale world or the past. I
+don't remember anything else except for the fact that I got this from
+a library, and I was very happy reading it. I remember his mother
+coming in a scene before they were about to travel to check on him but
+the mc never mentioned this to his parents so I don't think she knew.
+The twins also didn't know about it. It was just mc, the girl, and the
+boy"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

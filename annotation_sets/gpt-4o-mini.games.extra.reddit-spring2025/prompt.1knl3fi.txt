@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE PHONE, ANDROID][2020-2016] a pixle fallout survival
+game. So I've been trying so hard to find this game on the Play store
+and I hope it still exists. This game was mostly neutral tones like
+browns and such and you could customize your character and kind of
+choose your start class. It was a pixel type game where you would
+explore a map and it would take time and resources to explore said
+places. When you got to your destination you were able to search them
+for materials and you had a backpack with a weight limit. You could
+fight bandits if they stumbled upon you and radiated people that were
+green. Combat was turn based. You had several different stats you had
+to take care of. Your health, hunger, thirst, and radiation. You had a
+main base that you could upgrade with materials you found like a
+bigger storage chest a rain catcher a planter for food. Then you could
+find parts to put together a van which made travel faster. You could
+also get a fun dog companion. The main currency of the game was caps.
+Please help, I really want to play this again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

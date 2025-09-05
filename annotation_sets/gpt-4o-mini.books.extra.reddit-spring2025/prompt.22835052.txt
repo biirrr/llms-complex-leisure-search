@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Trashy Adult Romance/ Fantasy/Mate series. The relationship
+of the brother of the man/ monster in the first book and the third
+book was the relationship of the two brothers sister. [s]. I found it
+at walmart in the 2000s. I remember the trilogy each had a color for
+the books; blue, red and green, so the covers stood out because they
+were pretty birght and almost completely that color. I can't remember
+FOR SURE but I think the first book was blue or red, the second was
+the other color and the green was definitely the third. Each book
+focused on a different couple but the second book was the relationship
+of the brother of the man/monster in the first book and the third book
+was the relationship of the two brothers sister. I don't remember much
+of the plot tbh, but I ~think~ the women in the first book was an
+investigator of some kind and thats how she got on the trail of her
+monster/man/mate"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

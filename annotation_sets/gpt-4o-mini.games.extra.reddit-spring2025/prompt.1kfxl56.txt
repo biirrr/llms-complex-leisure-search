@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation 1] [unknown] found this save on a PS1 memory
+card I bought. I recently purchased a PS1 memory card to use with my
+PS2 and I decided to check what saves were on it. For most of the
+saves I was able to identify the corresponding games but for this
+particular save I was not able to find a game. I was wondering if
+anyone here might know which game this save belongs to."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

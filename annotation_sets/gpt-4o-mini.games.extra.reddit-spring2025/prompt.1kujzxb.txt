@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2010-] 2 games one a rocket league ripoff and the
+other some kind of offroad game. Hello! I am searching for games i
+played back then i have found most of them except these two so i will
+describe them 1.Blatant rocket league game im sure this is easy as its
+fairly popular but i dont know the name but yeah it had the same cars
+as rocket league and the same ball 2.This next one i have basically no
+clues or anything all i remember is that it was an offroad game and
+you raced opponents in mud/sand but one distinct memory i have that
+the map/maps had a small wooden dock and water but if i remember
+correctly it was kind of an open world but i could be wrong its not
+motorstorm but it had a lot of similar stuff like the graphics,
+handling, maps and etc Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][unknown]I need help finging an old game i played it
+with my older brother in 2015. It was an first person shooter ,
+contains alot of missions and each mission has its unique environment
+i remember that the first mission is to land with a helicopter with a
+friend in place looks like a forest and when you walk a bit you find
+some animals that looks like a Buffalo (i dont think a normal buffalo)
+and you go further to a road and you see a car looks like a baggy and
+follow the road you find some enemies (using an space guns or
+something i dont remember it was a normal guns) and you go futher to a
+warehouse you find some cars and a robot. I think there was a mission
+before this which is training, i also remember some other missions
+which there is some dinosaurs, tanks, snipers,invisible soldiers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

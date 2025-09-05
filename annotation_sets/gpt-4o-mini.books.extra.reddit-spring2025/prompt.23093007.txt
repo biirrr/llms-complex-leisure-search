@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ YA book, green colour with bold yellow title
+(LOST?) Spoiler.. it was a middle grade book read in the past 5 years
+with a bright green cover with the title in yellow capitals. The word
+lost I think. The plot was the whole time you're made to think the MC
+is stranded after some incident in some terrible place - there's a
+ravine and he lives underground? with other people? and he doesn't
+know where he is. slowly at the end he figured things out, he is near
+his neighbourhood but has somehow turned tiny, the ravine is actually
+just a small ditch or something. at the end of the book he returns
+home, there's his sister called emma (normal sized), after he grows
+normal sized he returns to the ravine place but now can't find/see the
+tiny people he lived with I remember thinking that it was a very bad
+book but now I want to find it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH GAME] [HORROR][2010s] Game about a guy on a tour of
+a cave running away from monsters and trying to find survivors?. This
+was on one of those flash websites. Youre in a tour group going
+through these caves. These monsters attack the group and youre by
+yourself looking for survivors. Im pretty sure you just used a mouse
+to shine your flashlight at the monsters. Edit to add: its third
+person style, like the camera is aerial view and youre looking down
+at your character I remember a part where you find the tour guide who
+was really nice and you find her cursing a bunch at the monsters, and
+when your save her she asks you not to tell anyone she talks like
+that. The goal of the game was to escape back up the mineshaft
+elevator thing. [SPOILER PART] I remember at the end you and the tour
+guide make it to the elevator, but before you leave a giant version of
+the monster grabs the elevator and theres a cutscene where the
+monster talks about how you cant escape from them or something, and
+then he lets you go."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy novel about a vampire chained alone in large room
+and found by young woman who is hiding. [s]. I read this Fantasy novel
+5-8 years ago. It's about a good, meaning moral and trustworthy,
+vampire chained alone in a large room by his enemies, who are also
+vampires. A young woman, I seem to recall that she's in hiding, enters
+the room. Trust is eventually established. There's a problem with sun
+coming in through the windows. She helps him. I don't remember much
+more than that, but it was an enjoyable, well-written book. SOLVED :
+The correct title is 'Sunshine' by Robin McKinley. A big thank you to
+Jade for helping me out!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

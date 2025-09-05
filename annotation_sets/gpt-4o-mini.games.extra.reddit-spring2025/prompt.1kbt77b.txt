@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][Unknown] Sci-Fi Pokemon Ripoff Game with a card
+feature. I remember as kid playing this Pokemon ripoff game where you
+play as like a space ranger. I distinctly remember you could buy cards
+for the game that had little holes in them. You would place them on
+the bottom screen of the DS and use the stylus to tap the holes on the
+bottom screen in the order the card told you and you would get the
+monster that was on the card."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

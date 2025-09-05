@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90s to Early 2000s] Trying to find a 3rd Person
+3D Maths Educational Platformer. Hey been trying to find this old PC
+game I used to play around 2011. All I recall are it was mostly maths
+based, you were I think either a wizard or some space hero trying to
+rescue a princess who had been captured by an evil witch, it was a 3rd
+person game with the camera behind you and one of the last stages was
+an ice or crystal cave where near the end the ice would keep breaking
+under your feet and youd have to go all the way back up. And I think
+the last level was a vehicle stage where you had to escape the planet
+or something? Anyone got any idea what this game could be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

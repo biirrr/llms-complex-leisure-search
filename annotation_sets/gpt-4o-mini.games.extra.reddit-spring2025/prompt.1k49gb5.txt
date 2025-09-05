@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2015?] Old PC Game Downloaded from a Web Browser
+(Was a short indie game like 30 Minutes Long with only a couple of
+scenes/Missions.. Trying to remember an old game It was on PC It was
+downloaded from the web browser and wasnt on steam or anything like
+that It had a blocky texture like paint the town red - Parts of the
+game included being on an elevator having a target you had to poison
+you would dress up as a waiter and then spike the drink - Other parts
+included chasing a female across buidlings or trains cant remember in
+the end she pulls out a gun and kills you The time frame woudlve been
+in the last 10-15 years and I think Jacksepticeye did a youtube video
+on this game. PLEASE HELP ME FIND THIS GAME ITS DRIVING ME CRAZY"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

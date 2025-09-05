@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Dreamcast or PS1-PS2][2000] Game about fog and mountains.
+(This is not a troll or creepypasta shit) Sadly I don't have any
+screenshots or anything like that but I remember that when I was a Kid
+the husband of my sister was playing something in his Dreamcast or
+PlayStation console. The game had some part on the mountains or
+something like that and also some fog. Also something key about the
+game is that when you die a skull appears or the screen has like a
+blurry zoom and then the dead screen something like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi/ Time Travel in which a woman from future
+observes the daily life of a man in current timeline. Spoiler.. Don't
+remember much. The book starts with 2 women (possibly sisters?)
+floating in a different world or something. They observe the life of
+people on our planet in the present day. Only thing I remember is the
+ending. So mentioning that here - so it's going to be a spoiler.
+***Spoiler Alert*** It ends with a banger - with the protagonist's
+dead wife walking towards him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

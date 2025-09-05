@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction/Memoir of zoo worker and his wife who save dying
+animals at the zoo [s]. I read it when I was a kid in early-mid 1990s
+though this was not a children's book. I believe the main character is
+the man, could be his wife, but one of them works at a zoo. One day
+there is a litter of lion or tiger cubs that are near death, he takes
+them home and revives them essentially by warming them in the oven or
+on the stove. The story is about their lives while he worked at the
+zoo and all of the baby animals they were able to save from death. I
+believe the cover was a red color, and had a black and white photo of
+the woman holding a baby deer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

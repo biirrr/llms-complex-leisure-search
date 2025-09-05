@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "quote about a Stirling book. I've read some things written
+by Stirling about his Draka series, but I can't find an actual,
+citable quote. Basically, he's said (in print) that he based/imagined
+the Dominion novels on the 'worst of all possible worlds', or what-if
+'everything had gone wrong', or 'every decision turned out badly'.
+Apparently my google-fu is weak. Also, not sure this should be in this
+category/folder as it's not really a book. :\"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2013] Flash point and click game abour 3 conquistadors
+and cannibals. Hey, looking for a gama about 3 conquistadors. Game was
+in cartoony artstyle, 3 main characters were men (each with different
+physique). They sail onto an island, where they solve puzzles to
+discover treasure. After some time they find out that the island is
+inhibited by """"""""indians"""""""" (stereotypical red skin, grass
+skirt, etc) that are cannibals. Also there are traps where you can die
+and you start from checkpoint (I remember that there was death sound;
+some scream, and there was blood). There's even a level where you can
+get impailed by spears in a hole in the ground and I think you need to
+lure cannibal there. At the end, you find an Aztec pyramid and it
+appears that it's a spaceship that takes you into space. I remember
+playing it in 2013-2014, but it could came out in late 00s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

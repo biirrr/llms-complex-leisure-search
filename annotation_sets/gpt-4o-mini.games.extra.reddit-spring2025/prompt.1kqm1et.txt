@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Counter strike clone from 2010s, had Infected
+mode, was free and I dont think required a download.. I had a crappy
+desktop during this time, so I dont think it would have been a
+downloaded game but its possible I was able to run it. I do remember
+that the zombies when infected would look like soldiers or have ripped
+up gloves I believe, or looking like big mutants maybe? Sorry if this
+description is less than helpful. I do remember a warehouse type map
+where lots of people could hide up top from the zombies, with lots of
+catwalks, I believe it was kind of like a desert map too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

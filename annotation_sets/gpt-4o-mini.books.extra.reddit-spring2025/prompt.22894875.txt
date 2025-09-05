@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA book from the early 2000s (possibly 90s?) that takes
+place around Valentine's Day. Titled something like ""Crushed"" or
+""Crush."" Read before 2010.. Additional details: Yearbook style
+cover, with pictures of the different characters, maybe ""drawn-on"" w
+marker. Set in a middle or high school. Multiple POVS, or maybe 3rd
+person about different people. Most likely has a character named
+""Amy."" Female author. For some reason I cannot find it on Google,
+thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

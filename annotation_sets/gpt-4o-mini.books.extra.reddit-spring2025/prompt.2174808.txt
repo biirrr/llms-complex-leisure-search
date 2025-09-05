@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Just War and Obama's Nobel Acceptance Speech [s]. Hello. I
+read a book a few years ago by a scholar that analyzed Obama's Nobel
+Peace Prize acceptance speech from a rhetorical perspective as it
+relates to Just War Theory. In the book the author makes several
+points/observations: - America truly is the world's policeman because
+no other country has the military might/political dictates to
+intervene into other countries as frequently as we can/do. - Discusses
+torture and why it can be so unnerving. He mentions Elaine Scarry and
+her work on torture. He also mentions Dick Cheney's 1% theory, which,
+if I remember correctly, says that if there's a 1% chance a terrorist
+attack could happen, anything is justified to prevent it, namely
+torture. - The book breaks down Obama's acceptance speech point by
+point and really analyzes it from Jus ad Bellum to other concept of
+Just War, and notes the peculiarity of a war-time president receiving
+a peace award. - This author is very likely a scholar!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA novel about a girl and her best friend/ platonic soulmate
+Jaime who go on a journey with her boyfriend. Read in the 2010s,
+around 2015ish. Spoilers.. Okay so I read this book back in middle
+school. THIS CONTAINS SPOILERS! The main female character, and her
+best friend Jaime share a deep, almost soul-like bond. she refers to
+it like a physical string connecting them. Like think platonic
+soulmates. After Jaime accidentally kills his abusive father, They
+embark on a cross-country trip with her boyfriend to escape the
+police, but in the end, Jaime dies. Jaime and the girl were neighbors,
+and I remember they had a tree they’d sit in together all the time.
+They were in high school when this occurs. I only remember what Jaime
+looks like. He was 18 and skinny with white hair and blue eyes. I’ve
+searched all over the internet and I can’t find it. I remember the
+book cover being being dark pink and blueish, with white lettering."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction. Girl from a shipbuilding culture was
+ritually poisoned and sacrificed in a bog in Europe. Read mid
+1960s-mid 1970s. Spoiler.. I believe I read this book in class in
+elementary to middle school in upstate New York. The girl lived in a
+culture where shipbuilding was important, and there was a sacred tree
+that was perfect for shipbuilding but they didn't want to cut it down
+because it was sacred. It had a beehive in it and they used the honey
+from the beehive to make the mead in which the girl was fed the
+poison. I don't remember why she was sacrificed. It was *not* The
+Light in the Forest, but I believe it had a similar title and I read
+it about the same time. I believe the story was based on the discovery
+of the Egtved Girl though that term was not used in the book. Spoiler
+follows: They did end up cutting down the tree, and it fell on the
+part that was perfect for a ship and cracked, so it never ended up
+being able to be used in a ship after all. This has literally been
+bothering me for years. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

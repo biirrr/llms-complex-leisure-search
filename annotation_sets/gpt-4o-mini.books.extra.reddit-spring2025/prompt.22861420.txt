@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Son is cop and dies, single mom and roommate
+develop relationship. Read at least 20 years ago. [s]. I read a book
+of my mother's, at least 20+ years ago. I thought the title was
+""family affair"" but am not finding this book under that title. It
+was a single mom, with 2 kids still at home. She worked at a
+flowershop with sister called Absolutely Floral since AB would come
+first in yellow pages. Oldest son was a cop and lived with a close
+friend. Oldest died, and mom and roomate bonded in grief and trying to
+clean out his stuff. Roommate showed off his new truck, took over
+mowing the lawn, etc. They started a relationship, and family didnt
+approve, especiallythe daughter as she had a crush on him. Decided to
+get married, left youngest son with her ex father in law, who plotted
+to throw them a wedding reception. He called family members, kinda
+guilted them, and then let them talk to the very excited youngest
+son."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

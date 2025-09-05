@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][Unknown] I'm guessing horror game, please help. ht
+tps://preview.redd.it/tw0oz17flwze1.png?width=1416&amp;format=png&amp;
+auto=webp&amp;s=e9526ed1e510990acf338b57b1443e187ef5e8dc https://previ
+ew.redd.it/7vhkzsgflwze1.png?width=1416&amp;format=png&amp;auto=webp&a
+mp;s=6f41c6d43639088f147a058c7c385f282b63f0bb https://preview.redd.it/
+0u2xbuvflwze1.png?width=1416&amp;format=png&amp;auto=webp&amp;s=4f933b
+df3c4dcb1adf7c8c6de3db7434416343a0 I saw it in a video about horror so
+I asume its an horror indie game, but i have no idea how to find it
+now, not even reverse image search helped me, it looks so cool I just
+really really want to try it :( I would've upload a video but rules,
+pls if you know the game or have a clue of which one might be let me
+know, real thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

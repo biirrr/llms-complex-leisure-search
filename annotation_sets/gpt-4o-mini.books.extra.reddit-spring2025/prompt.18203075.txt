@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Comp Lit book with strange title about creation myths and
+other early culture beliefs. [s]. Many years ago I read a book that I
+thoroughly enjoyed, but I cannot reconstruct the name. The book is a
+comparison of early gods and creation myths, together with some other
+comparative literature of early writings. It's quite interesting. The
+title is strange, so if you know this book, it should come to mind...
+It's called something like Zarathaxyon, or Xymaxion, or Zoroaxymia.
+Those are all probably quite wrong, but the title has that flavor.
+I've tried searching several catalogs and indexes for different
+combinations like this without finding anything. I checked this out of
+a university library around 2007 (I did try searching the catalog
+there). I'm not sure when it was published. If you know that
+comparative mythology book with the crazy title, please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

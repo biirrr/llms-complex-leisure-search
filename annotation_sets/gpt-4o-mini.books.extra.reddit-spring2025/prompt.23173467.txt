@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Christian Historical Fiction. A girl and guy get
+married in a buggy and go to live in his dirt house which is only one
+room.. Can you find a book title for me about a girl who moves out
+west this guy marries them in a buggy the same day they meet using god
+as a witness they go to live in his one room house she gets pregnant
+and suffers a miscarriage that almost costs her life he takes her to a
+doctor who prescribed condoms and sea sponge. his crop gets ruined by
+grasshoppers so he goes to look for work and ends up kidnapped. she
+finds out she is pregnant and goes to live in the schoolhouse she
+survives off of potatoes and this one guy teaches her to make pumpkin
+pie she saves a horse from a wild animal attack her father was a vet
+and she has his supplies with her her husband come back 8 months later
+to find her very pregnant"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

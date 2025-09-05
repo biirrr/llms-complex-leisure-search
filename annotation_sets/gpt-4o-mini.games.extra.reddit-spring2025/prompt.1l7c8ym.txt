@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010] 3rd person shooter. Hello and thanks for taking
+the time to read this. Ive been looking forever for a game I played
+that felt a lot like a Max Payne game or GTA but not open-world, it
+was in 3rd person and I kind of remember the last mission of it being
+killing a bunch of guys in a big garden with tall bushes. I think
+there was also a part of that mission happening in a garage. I am
+pretty sure the desktop icon was red, but thats everything I got.
+Hope someone can give me some info, Id love to play it again. Thank
+you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

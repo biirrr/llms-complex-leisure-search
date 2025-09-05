@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True travel story - Young Couple Comedic journey down
+Mississippi in Houseboat. [s]. Read around 1980. True story of young
+couple who rented a houseboat to travel down Mississippi. Remember one
+chapter where she was showering as the boat went through a lock, and
+there were spectators along the side. Book seemed contemporary at the
+time. VERY funny. Paperback, perhaps a medium blue border on the
+cover. If we solve this, I finally have an excellent Christmas gift
+idea for my mother. :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

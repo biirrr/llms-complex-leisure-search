@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy book - MC fights invading demons. Book is about a
+secret group that fights invading demons. They have power from making
+""soul knots""(?) which gives them abilities and enhanced
+strength/speed. First book starts with MC in hiding until demons
+attack his school. There's some ability they have that hides the
+demons from most people. MC goes to a training facility after. The
+demons have different tiers with the lowest being animal intelligence
+and getting smarter at higher levels. I think they may have been
+enslaved to higher tiers? Later books have the secret come out and the
+organization teams up with the world militaries."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

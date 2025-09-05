@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Secret Baby, Musician/ rockstar romance I'm
+pretty sure I read it between 2019-2023 but can't remember exactly.. I
+can only remember a few key details. There was a woman named scarlett
+and she meets a man at a concert (he was a band member) they end up
+talking all night and forming a strong connection (insta love
+basically) They hook up one night and she gets pregnant. She gives
+birth to a baby girl but dies in a car accident (i think) and her best
+friend(possibly her sister) gets custody of the baby because scarlett
+never told anyone about the father only that she loved him etc. I cant
+remember who was looking for who but the guy finds out that scarlett
+is dead and he has a daughter but scarletts friend wont give up
+custody or something and they end up falling for each other"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

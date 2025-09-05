@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Late 2000´s/ Early 2010´s] [PC] 2D Platformer game with
+pink backgroud and black platforms, where every time you died the game
+moaned """"""""Oh yeah"""""""". \[Solved\] I swear this was not a porn
+game as far as i remember, but i played it when i was a kid and didnt
+found it since, i remember it being quite complicated, at least for a
+kid me, i never finished and it been on my mind for years since, i
+remember that the background was pink, the character and the platforms
+black it had like electronic club music in the background and like i
+said, every time you died/respawned the game moaned."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

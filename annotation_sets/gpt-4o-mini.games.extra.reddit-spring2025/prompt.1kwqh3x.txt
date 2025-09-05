@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2023+] Space Station Management w/ Dice Rolling. This
+is a game that came out fairly recently on Steam. The premise, from
+what I can recall, is that you are on a space station as either a
+robot or a crew member in a hyper-capitalist hellscape. You have to
+complete all of your daily tasks, which can have various dice rolls
+(which are rolled at the beginning of each day) assigned to them to
+influence how well/poorly that task goes. I heard about it on a
+podcast not too long ago and it's easier to ask here than to go
+through 15+ hours of audio to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s-2010s] Strategy game with robots. \[SOLVED:
+""""""""The Battle""""""""\] Strategy game similar to """"""""Age of
+war"""""""" but you fight with robots, you could also shoot from your
+base to enemy troops. 2d sidescroller. I remember that you had green
+robots and the enemy had pink robots (I think). It's not robotic
+emergence though [https://frivez.com/the-
+battle](https://frivez.com/the-battle)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Short novel - A guy meets up another guy, they enter a
+poker game with a crazy old guy and lose everything. So now they’re
+forced to build a wall in the old guys backyard. I’ve read this book a
+year ago and can’t remember the title. Essentially, there is one guy,
+the main character, he has a sister and one day he just leaves his job
+and starts traveling in his car across the US. Then, as he runs out of
+money he meets another, younger guy. They enter poker tournaments and
+they want to get into a big one. They manage and enter the game with
+one (or two) crazy old guys. They lose everything and since they have
+no money the old guy offers them the chance to earn money by building
+a wall of stones in their huge backyard/property. So they live in a
+container and build the wall slowly. But every time they think they
+earned enough money, it turns out that the old guys have made some
+tricks in their contract and they can’t leave. The younger tries to
+escape but ends up being beaten up badly and has to go to a hospital.
+The book ends with the first guy crashing a car (or we don’t really
+know if this happens) with the guard in it. So they never left the
+place after all. Thanks for your help guys!! 😊"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

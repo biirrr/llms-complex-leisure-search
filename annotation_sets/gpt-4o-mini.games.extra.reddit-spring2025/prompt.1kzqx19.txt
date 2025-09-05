@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][2011] monster anime game where main character controls
+monster with chains. Hey everybody , I have been thinking about this
+game I played back in 2011. My mom had gotten the first iPad and I was
+chronically online back then as a little kid. I have a small memory of
+this anime game where the main character controls a monster with
+chains , sort of like ratatouille if that makes sense , but to kill
+people . The main character is some generic anime boy with white hair
+? thats all I can really remember about that game. Another small
+detail about it is that it wasnt the full game , it was some sort of
+demo. Does anybody remember playing a game like this ? This was back
+in 2011 and I have spent countless nights thinking if I just imagined
+it or if it was real."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

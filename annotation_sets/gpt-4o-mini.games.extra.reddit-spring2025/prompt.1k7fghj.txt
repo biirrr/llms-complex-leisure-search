@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Browser][2008-2012]Online Leveling, Run Based 2D. All i
+know it was an online game where you had several Weapons like a
+Bazooka or a spinning thing, you could go on and kill slimes.
+Charakters were chibi styled and always crouching when in combat. You
+could do a super attack which did a short cut scene looking like a
+super charge. You could marry and go into a spa."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

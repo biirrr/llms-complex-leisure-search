@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP 3006][early 2000s?] small open world 3D fantasy game.
+You could choose the female character and change her clothing. And
+there was a bath house where the character could enter and sit
+there(?) One thing that i vividly remember is that you could steal
+ostrich eggs (or perhaps they were fantasy birds) and they would get
+angry and attack your character if they saw you. I think you could
+also kill those birds(?) and take their meat XD I have been searching
+this game for a long time lmaoz this wouldn't have happened if i
+didn't lose the battery of the psp"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

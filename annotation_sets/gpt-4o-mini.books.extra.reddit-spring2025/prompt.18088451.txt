@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Highschool/ teenage matchmaking business, late
+80s or early 90s. The book was about a girl in high school who set up
+a couple of friends and ended up with a mini matchmaking business. I
+know breaking her leg was a part of the story because I remember her
+going to a high school dance with a cast on. She also had a large walk
+in closet in her bedroom where the hanging clothes his a desk in the
+back. That became her matchmaking ""office."" It feels like a long
+show but it drives me crazy that I can't remember the title of the
+book. I remember really enjoying it as a kid and if I can find a copy
+of it somewhere, that would be awesome. Thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

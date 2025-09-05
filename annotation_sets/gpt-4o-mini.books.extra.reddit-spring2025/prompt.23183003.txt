@@ -1,0 +1,40 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult romance/mystery. Mother searching for son & husband
+after husband ran off with son.. Hi! I'm trying to remember the title
+of a book I read sometime between 2015 and 2019, most likely during
+the summer. It was a domestic suspense novel told from the mother's
+point of view. The story centered around a married couple with a young
+son (around 3–5 years old, I think his nickname or name was “Bear”).
+One day, the father takes their son without warning and disappears.
+The mother initially doesn’t know if it was a kidnapping or something
+worse, so she involves the police but also investigates on her
+own—digging through the father’s things and tracking phone records.
+Throughout the book, the mother also tells of how she met her husband.
+I am remembering it was some sort of a meet-cute involving both of
+their work, ex: a project where both employers were needed.
+Eventually, it’s revealed that the father took the child to a family
+cabin, possibly in California (maybe one of the Carolinas), and they
+were staying with his sister. There’s a twist where the father has to
+drug himself with pain meds (prescribed by a dentist I think) to
+appear asleep—possibly because the sister was holding him there
+against his will or he was trying to avoid suspicion. I think the aunt
+was trying to convince him to not return and she would help in raising
+the son. In the end, the parents reconcile and claim to the police
+that it was all a miscommunication, but the mother makes it clear she
+no longer fully trusts him to be alone with their son. The last scene
+is the three of them together on a beach, with the mother reminiscing
+on what’s happened & watching the father and son go to the hotel room.
+I believe the title included the word find or found—something like I
+Had to Find You—and the cover may have featured a blurred beach scene
+with black stripes. I also think the author’s first name might have
+been Jessica. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

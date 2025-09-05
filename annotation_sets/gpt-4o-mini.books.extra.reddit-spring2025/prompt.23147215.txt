@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy series. Young savage queen and mountain people.
+Read 2012-2016.. I would have read this series between 2012-2016. It
+was targeted at YA. There are three books in the series at the time I
+read it and they are blue, red, and green (not necessarily that order)
+from what I remember. The books all have maps at the start of them and
+are based around a fantasy world where there are mountain people,
+river people, and I think forrest people? The first book is told from
+someone who lives in the mountains (a young boy) and then one of the
+later books is more focused on a young female character who eventually
+becomes queen I think but she was raised in the wild and has no social
+skills. The main plot is based around the various groups being at war
+and needing to find a new leader?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

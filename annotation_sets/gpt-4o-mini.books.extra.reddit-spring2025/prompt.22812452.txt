@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Lesbian Romantic book. A lesbian assistant to a
+businesswoman who is divorced with a young daughter. They go to a
+birthday party in a club where they dance and kiss. assistant buys a
+tshirt to her boss for the party in a club. [s]. Hi! Does anyone know
+the book title or the author, please, of a lesbian assistant to a
+businesswoman who is divorced with a young daughter. They go to a
+birthday party in a gay club where they pretend they are a couple
+cause assistants friends wants to set her up with some pierced girl.
+So the boss and the assistant dance and kiss. Assistant buys a tshirt
+to her boss so she can fit in the club. It turns out the boss had a
+past beeing with women. They go to a bosses daughters school play as
+well where bosses husband comes and takes assistant seat. Assistant
+parents are not talking with their daughter cause shes gay. she visits
+them with her boss and bosses daughter and assistants father gives a
+dog to bosses young daughter"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Gay Romance, age gap, first time gay, friends to
+lovers, roomates. The book I'm looking for is a gay romance novel
+about two men, an older man and a younger guy and the younger guy is a
+Russian who moved to America newly but got his things stolen at a
+restaurant and he has no place to go then the sister of owner of the
+restaurant(the owner of the restaurant is one of the MC) offers her
+brother's place for the lost guy and the two guys live together and
+it's a first time gay awakening for the older man. The book is also a
+standalone book and it is set in present times (not historical) and I
+read it last year."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

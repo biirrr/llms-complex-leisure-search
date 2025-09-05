@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][mid to late 2010s] An ipad game linked to some
+cheap toy franchise similar to Trashies. Platform(s): I played it on
+my ipad Genre: idk Estimated year of release: Mid to late 2010s maybe,
+or at least when i played it Graphics/art style: Not realsitic at all,
+cartoony, imilar style to the toys they were linked to Notable
+characters: n/a Notable gameplay mechanics: I remember one minigame
+was tapping on maggots to kill them in a microwave I can't remember
+the exact franchise it was linked to but it was some kind of Trashies-
+esque game, I remember it was set in a supermarket, definitely. There
+were differnet minigames or tasks within to complete - i cant remember
+the goal of the game though. It was not The Trash Pack Video Game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

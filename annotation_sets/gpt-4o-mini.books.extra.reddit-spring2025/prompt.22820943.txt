@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Slavery, about a free Black man who's
+captured. Current African American male writer's first novel. Title
+includes World. Spoiler. [s]. Bookclub read about slavery from a
+recent African American writer. I believe it had the word World in the
+title. Characters include a believed crazy Black woman who escapes
+north by end of book , a free Black man captured and sold and
+murdered, the Black wife who gets murdered by whites who want her
+home. We read it about 3/4 years ago. I believe it’s authors first
+novel."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Children Fiction/ Fantasy Graphic Book? Focused on
+adventure written like an explorer's diary. Airship. Read around
+2000-2003.. This is a book I remember reading and owning as a child
+circa 2000-2003. Not sure when it would have been published. This
+would have been found in USA, CA Sacramento School District. My memory
+is so fuzzy regarding this book, I cant recall if it had plot at all
+but I remember it read like an explorer's diary of places and
+locations as if it was sort of ""Journey to the center of the Earth""
+or "" The Lost World"". It showed details about wildlife, I THINK it
+had steampunk elements. It could have possibly been an adaption or
+homage to ""Journey to the Center of the Earth"" with more fantastical
+and steampunk elements. I think I distinctly remember an airship. I
+remember it was Large not in a regular book format but in that large
+square format for graphical books. It was colorful as if your were
+reading a Dungeons and Dragons PLayer's Handbook. The Pages might've
+had a modern papyrus sort of look. As for characters I dont remember
+if there was any overarching plot or just a book about a fantasy world
+. Anyhow I appreciate your help and crossing my finger id love to show
+this book to my future children."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

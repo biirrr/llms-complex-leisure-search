@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][3D][2010s] Game where your female ally becomes a
+monster boss later. Ive been trying to remember this old PC game I
+played as a kid, probably around 20122013 (could be earlier). It was
+a third-person 3D game, with graphics that reminded me a bit of
+Skyrim. You played as a male character, and there was a girl companion
+who followed you through most of the game. She seemed like an ally or
+friend. At some point in the story, she threw herself off a cliff or
+ledge. Later in the game, she comes back, but now shes a spider-like
+creature and becomes a boss enemy, possibly the final boss. That twist
+really stuck with me. I dont remember much about combat or story
+specifics, and I might be mixing up parts (I remember something like a
+sky road, but maybe it was just a mountain path). But that
+betrayal/reveal scene was very memorable. Does anyone recognize this
+game? I'd really appreciate the helpthis ones been bugging me for
+years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

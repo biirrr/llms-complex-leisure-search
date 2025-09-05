@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Young woman gets a job caring for Seth
+Thomas, the rich old grump in her small town. Her grandmother hates
+Seth Thomas and stops talking to her when she takes the job. Spoiler..
+The protagonist is a young woman (with curly red hair) who lives in a
+small town. She was raised by her grandmother (grandmas name is
+something like Tansy). Her grandmother has two enemies in town from
+her high school years: Seth Thomas and another guy maybe named Luke.
+Protagonist is engaged to the grandson of (Luke) and she gets a job
+caring for Seth in his old age, in his fancy mansion on the hill. She
+learns more about their history and her own--Seth is her secret
+grandfather."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

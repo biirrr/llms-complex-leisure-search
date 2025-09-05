@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Tween/ YA Historical Fiction takes place late 1800s. Read
+around 2013, written likely close to that date. Scene of protagonist
+entering a tent full of men smoking, also Coca Cola mentioned a lot. I
+read this around 2013, I remember it being pretty popular at the time.
+So I assume it was written within a few years of 2013. The book cover
+was gold with a silhouette of the main character in black. The title
+starts with a ‘C’ and I think ends in ‘ia’. Can’t remember if it’s
+protagonists name or something else. I don’t remember anything about
+the plot"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

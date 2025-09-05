@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [MID/LATE 90'S] Colorful crisp 2D sci-fi sidescroller
+where you flew a spacecraft. Final boss on level 1 was a huge skull
+head (I think it was on a demo disk). **Platform(s): PC** **Genre:
+Sci-Fi / flying / side scroll / shooter** **Estimated year of release:
+1995-1999** **Graphics/art style: Crisp 2D pixel style, similar to
+games like Alien Soldier (Sega Genesis)** **Notable characters:
+Starfox style angular spacecraft (it was not Starfox)** **Notable
+gameplay mechanics: Nothing that stands out.** **Other details: I
+remember the game title screen opened with the spacecraft flying
+towards the screen (As if it would fly out and smack you right in the
+face), and the title flying in above in a similar fashion. Once in the
+game, you basically flew to the right shooting down other spacecraft.
+(I think the game has a parallax scrolling background) You could fly
+over powerups for better weapons and such, but the thing that stands
+out the most was the first level boss. It was a huge floating silver
+skull that had red eyes and would shoot small projectiles at random,
+and would shoot a large orange oval laser out of it's mouth. Once
+defeated, it would shake and go down in a plume of smoke. I'm like 99%
+sure this game was on a demo / 100 game in 1 disk, as for what other
+games were on it, I have no memory.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

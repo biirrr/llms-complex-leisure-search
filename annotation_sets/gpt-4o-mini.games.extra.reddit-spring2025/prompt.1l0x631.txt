@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ BROWSER GAME ][2000s?] Monkey fart game. There was this
+online game on the net that I used to play as a kid. Very similar to
+Fire boy and Water girl but with monkeys. And there were different
+maps and the monkeys had to push rocks and move past obstacles to
+unlock doors and move levels. And make totem poles on the game. The
+monkeys could fart and fly from their farts. PLEASE HELP. I CANT
+REMEMBER THE NAME OR FIND IT."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

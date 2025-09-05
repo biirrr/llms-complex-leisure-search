@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "It’s Okay To Be Angry parenting book.. A small, thin
+paperback book with a reddish-orange cover. Titled something like
+“it’s okay to be angry”, but searching that hasn’t brought me much
+luck. It seemed to be mostly for the parents, but also had some
+stories and anecdotes meant for kids who struggled with anger. It also
+had discussion questions for both the parents and children? Minimally
+illustrated, if at all. One of the anecdotes had a character named
+Ernie I think, but this wasn’t related to Sesame Street in any way.
+Read in the mid-2000s but I’m pretty sure it was older. Maybe the
+80s?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

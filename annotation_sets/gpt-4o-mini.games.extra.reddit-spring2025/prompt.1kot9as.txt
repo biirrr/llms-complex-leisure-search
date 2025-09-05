@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360][2012-ish] can someone help me find a weird game i
+recently remembered?. It was a weird side-scroller game I played
+around probably 2012, though my memory could be off. From what I
+remember, the main character was a weird creature that could swing
+with something, possibly its tongue? The colors of the game were
+really muted but it wasn't grayscale. You had to collect these things
+(orb-like?) which were i think white/yellow and some of them you had
+to swing to be able to get them. It was a puzzle platformer and you
+could jump onto tree branches and maybe even mushrooms. The graphics
+were kind of realistic.The background was I think a dense gray forest.
+I dont remember if it had levels or if it was an exploration game. If
+anyone needs any other details tell me and I'll try to see what i can
+remember ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

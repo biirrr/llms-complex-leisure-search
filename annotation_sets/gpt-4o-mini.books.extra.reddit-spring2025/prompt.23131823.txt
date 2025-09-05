@@ -1,0 +1,46 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction/ Romance/ Intrigue novel. The title
+has the name of a collection of jewels which tie all the sub plots
+together.. I'm looking for a book I read some years ago. It was
+published in the late 90s or early 2000s (I think). The book is about
+an upper class Boston family, the term Boston Brahman is used a bit,
+but the family in the story is not an actual historical family. I feel
+like the name Barrington is used, but I could be wrong. The book opens
+in Boston, and I think returns at times to Boston, but mainly plays
+out in France and Vietnam. In the opening of the book, the main
+character is college age and living with her grandfather who is fairly
+reclusive and frugal. The generation before the main character focuses
+on a woman, but I don't think it's the character's mother. The woman
+falls in love with a race car driver who is very successful, but he is
+also secretly a cat burglar. She knows this, though it's not confirmed
+until he steals from her. There is something about the fall of Saigon
+and evacuation of the babies and, I think the character's father. He
+is blamed for something that happens during that time, it might have
+been the character's mother's death, and even though he knows the
+truth and it would clear his name in the family, he chooses to take
+what he thinks is the more honorable path by taking some kind of
+blame. If I remember, he is there working for the State Department
+during the war. In the end of the story, all of the things come to
+light and all is forgiven. Throughout all of this, there is a
+collection of precious stones, at least a star sapphire and ruby,
+either star ruby or Burmese ruby. There may be other jewels in the
+collection, but I don't remember. The stones are spherical and fabled.
+The name of this collection of jewels is the title of the book. These
+jewels travel from Vietnam to France and then the main character finds
+herself in possession of them, I think. I don't think the stones ever
+went to Boston, but I could very well be wrong. I've attempted several
+library searches and two Chat GPT searches and have not found the
+book. I don't think the book was part of a series. I also think the
+cover was dark green, and maybe had a landscape of some kind on it. I
+don't think this book was a best seller, and I think the author is a
+woman, but I'm not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

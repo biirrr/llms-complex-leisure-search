@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2000-2010]PVP FPS game with a ricochet sniper rifle.
+**Platform(s):** PC but I don't wanna rule out the possibility of
+console exclusives **Genre:** FPS Arena? **Estimated year of
+release:** 2000-2010 **Graphics/art style:** It had that classic
+unreal tournament style **Notable characters:** ? **Notable gameplay
+mechanics:** ? **Other details:** Basically there was this gif I
+remembered where they guy was aiming a 3-4 ricochet headshot at
+someone's head across the hallway, it's probably super easy to find
+but I can't just find it for some reason. Anyone got any ideas? it's
+very possible I can find it in 1-2 days, I have a feeling its red
+faction 2001 but im not sure"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

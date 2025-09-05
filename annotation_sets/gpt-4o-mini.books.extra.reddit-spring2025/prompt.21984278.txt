@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Vampire Romance. Adam is main vampire, meets girl at party
+at her professor's? house. He wants revenge because she runs away from
+him after they are attacked. Read around 2011.. Hi everyone. I'm
+looking for a book i've read about 10 years ago. I don't remember too
+many things. It was a book about vampires but it was very different
+from other vampire books. The name of the main vampire was Adam. The
+main girl was in a party at the house of (i think) her professor where
+she meets Adam. Their relationship starts but one day some people
+attack them. After this scary thing the main girl runs away and leaves
+him. Some time later Adam finds her. At this point Adam is very angry
+with her and wants revenge but not in a bloody way. And than i think
+they were kidnapped by a weird creature. These are all the thing i
+remember. I'm sorry that it's not much. As i said, i read it years ago
+and i have no idea about the title, author or even the names of the
+characters. I hope somebody knows this book. Thanks in advance and
+sorry about my english, it's my second language UPDATE: I finally
+managed to find this book at a local second hand bookstore. It turns
+out I wasn't able to find it because I was looking for it in English
+speaking countries. But when I found the book I saw that it is a book
+that was written in German. Moreover, I wasn't able to find an english
+translation of it online or in websites like Goodreads so it may never
+have been translated. I read it in Turkish so that explains why nobody
+from English speaking countries knew about it. For anybody else who
+might be looking, the author is Tanja Heitmann and books name is
+""Morgenrot"" (Translated to Turkish as ""Ölümsüz"")"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

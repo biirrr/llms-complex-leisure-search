@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Coming of Age book about a lonely boy with clay
+figurines. Read around early 1990's.. Read this book most likely in
+the early 1990's, but based on age and setting, could have been
+written as early as the 1960's. It was a coming of age story about a
+boy, overall sad tone. The boy was lonely, I remember the family life
+was not great, and he had a collection of hand made animal figures
+made from clay. I believe one of them was a bear similar to Winnie the
+Pooh, but with a broken arm. I remember brown was related to the book,
+either the cover being brown, brown being in the title, or maybe it
+was just the hazy brown of the 1980's. I've been trying to remember or
+find this book for years to try to find books for my children to read
+that I read at their age."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

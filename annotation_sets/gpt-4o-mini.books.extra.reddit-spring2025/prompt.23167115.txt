@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, enemies to lovers, modern setting, kind of
+beauty and the beast retelling. Read 2010s.. The details I'm
+absolutely sure about are that the main character is an adult female
+who is working in a business and expects to inherit it in some way.
+She is surprised when a criminal/bad guy of some sort informs her that
+someone made a deal with him for the business and/or her. She is
+forced to move to his ""domain"" (some sort of safe building/part of
+the city where he's boss). She continues to work at the business but
+have to go ""home"" to the bad guy. Somewhere in the book her ex
+(husband?) turns up and has messed up something for her. The deal was
+with either her dead father or her runaway ex(-husband?). I think the
+business is a brewery or somehow relevant to alcohol, but I'm not 100%
+sure. The issue with the ex might be money, where he's either taken up
+loans on the business or is trying to get money from her for his
+personal loans. I think the city might be New Orleans, but again, not
+sure. More sure about the alcohol. I think I read the book in the
+2010s, probably on Kindle. I dont remember if it's standalone or a
+series. The villain gets the girl."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

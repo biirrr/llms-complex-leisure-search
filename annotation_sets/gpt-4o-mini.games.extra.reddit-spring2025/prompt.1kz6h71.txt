@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2/3][unknown] Fantasy spell/skill crafting rpg. Okay so I
+cannot provide a ton of detail but Ill do my best. The game is an old
+game, maybe PS2 era and the defining feature (which is basically all I
+can remember) is that you would have these spell/skill runes and place
+them in slots to create different kinds of spells/skills based on what
+combinations you used. I remember it being a lot of fun because some
+of the combinations had unexpected effects. I also remember being in a
+city with Greek or Roman style architecture and running around fields.
+Possibly a desert of some sort too. The last thing I recall is the HUD
+had this white-ish granite (maybe parchment?) effect where you built
+your spells/skills Its probably a long shot, but as they say you miss
+100% of the shots you dont take"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

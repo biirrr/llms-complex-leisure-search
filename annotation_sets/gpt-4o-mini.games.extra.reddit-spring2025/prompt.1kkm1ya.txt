@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/XBOX360][Late 2000s] Vehicle-based espionage. Hi ! I'm
+looking for a game that I used to play on XBOX 360. I don't know if it
+was a 360 game or an original XBOX one, because i believe the 360 was
+backwards compatible. The game was very """"""""James Bond-y"""""""".
+But you didn't play as a human, you played as a sci-fi vehicle. More
+specifically a gray car that could transfom. The transformation was
+automatic, If I recall correctly you used to transform into some sort
+of snowmobile, once you reached 50% HP. I think you were able to
+choose your weapons before every mission. The game had a duel mode
+where you could battle with a friend. I think game was also in a
+wintery setting. I also recall a mission where you had to catch a
+plane that was about to take flight. It was kinda mid, but the duel
+mode was really funny. Thank you !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

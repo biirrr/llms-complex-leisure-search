@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010s] strategy game. This is a game like clash of
+clans where you get to upgrade your defenses of your base and you can
+upgrade your barracks to upgrade your troops. The troops are exactly
+built like rayman and it is medieval like. The troops are also in your
+defense lined up right infront of your barracks like you see in the
+picture."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

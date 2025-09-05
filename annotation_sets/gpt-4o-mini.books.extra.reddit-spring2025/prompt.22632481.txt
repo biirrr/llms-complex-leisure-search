@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, Mills and Boon. Professor and student, set in
+Tuscany, Italy. Antagonist relationship at first. Her family was
+renting a villa. Late 1990's/early 2000s.. I am looking for an older
+book a romance between a professor and a student (maybe a graduate
+degree, I can't remember). I know the two had an antagonist
+relationship at first. It was set in Tuscany where the MFC family was
+renting a villa. Anyone can help ? Could be late 1990’s beginning of
+2000"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

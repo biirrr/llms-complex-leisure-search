@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance series. 1st book: Brothers living in family
+owned Mountain, heroine climbs mountain looking for hero, she find him
+but falls & hits her head at doorstep ending up with temporary
+Amnesia.. Hello! I'm looking for a series of romance books that i read
+but have forgotten the author and titles. Each book is about one
+brother. They all live on a mountain each with their own slot of land.
+I believe the 1st book I read was about a woman who climbed up on
+their mountain looking for one, brother. She finds him at his house,
+but ends up falling and knocking her head resulting to temporary
+amnesia. The H decides to host the ""h"" until they can figure out who
+she was and why she ended up at his doorstep. Another book was abouth
+a brother who was a Doctor, also living on the family mountain and he
+ends up falling in love with a glamorous acress. That’s all I could
+remember. Would appreciate the help. THANK YOU!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

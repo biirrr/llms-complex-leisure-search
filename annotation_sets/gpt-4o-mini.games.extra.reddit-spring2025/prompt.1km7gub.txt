@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID] [2015-2020] Voxel Clash of Clans clone.
+Platform(s): Android. I think it wasnt on iPhone, though I could be
+mistaken. Genre: The game was pretty much like clash of Clans, so Id
+say Strategy (???) Estimated year of release: 2015-2020, when I used
+to play it. Graphics/art style: It was based on voxels, the characters
+were somewhat big headed (only having twice as big bodies) Notable
+characters: Although you could customize your tropes (as in change
+voxels and make them look like anything), there was a default trope (a
+rather generic knight) that was also the icon of the game (under a
+white background, no transparencies) Notable gameplay mechanics: It
+had passive online multiplayer (you go offline and other players can
+attack you) and a workshop for characters. Other details: Maybe it had
+the Made in Unity watermark?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

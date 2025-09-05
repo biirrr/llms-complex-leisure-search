@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2000s] School computer lab game where you explore a
+house at night. I remember playing this game in computer lab in the
+early 2000s. You were exploring a house at night. It was point and
+click I believe. I remember you would find different items in the
+house which you would use to solve different puzzles. Eventually you
+would be able to open new doors by finding keys. I think there was a
+shed outside the house too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

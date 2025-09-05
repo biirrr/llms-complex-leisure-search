@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Man in middle aged crisis has an affair and
+makes peace. He lives in Rhode Island or Connecticut, she's spending
+the summer on New England shore. Read in 1990s. Spoiler. [s]. Around
+the time I read the Shipping News and Middlesex, I read a novel about
+a local Rhode Island or CT man who has an affair with a women from the
+city spending her summer on the New England shore, she gets pregnant,
+the wife of the man makes peace with him and they end up helping to
+raise the child. I remember reading how the wife and the man were less
+intellectual versus the urban out of towners, the writing was
+beautiful. What is the title? Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

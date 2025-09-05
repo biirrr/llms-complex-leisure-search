@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2005] rodent girl detective game. Platform(s): PC,
+disc Genre: children's game, point and click, detective Estimated year
+of release: 2005ish, but could be 90s, I have older siblings so it
+could have been a hand-me-down Graphics/art style: animated, pixel-y
+around the edges but similar to nuttiest nutcracker/Putt Putt Notable
+characters: Rodent girl Notable gameplay mechanics: Point and click
+Other details: Said rodent girl is solving a mystery going through
+sewers and houses, her grandmother is mugged/kidnapped by other
+rodents, gross Rat King at end. I've never been able to find anything
+close to this game, just the movie Flushed Away + rat king creepy
+pastas. I played it as a little kid on the family computer in the
+early 2000s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Woman who is adopted finds out her birth
+father is a serial killed nicknamed Campsite Killer, her mother was a
+victim, only woman to escape is a university professor. Whale tours.
+Spoiler.. A woman who is adopted finds out that her birth father is a
+serial killer that the police have been looking for years.nicknamed
+camp site killer her birth mother was a victim and the only woman to
+escape she is a university professor.When the serial killer finds out
+he has a daughter he starts phoning her up.she has a husband and
+daughter her husband works away on whale tours so she starts working
+with 2 police offices to bring him to justice.who have been looking
+for him for years based I think in canada"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

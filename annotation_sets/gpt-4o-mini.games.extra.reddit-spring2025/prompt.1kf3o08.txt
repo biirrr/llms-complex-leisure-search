@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Blackberry Playbook][2010s] A game about Red vs. Blue
+astronauts standing on different planets and fighting.
+**Platform(s):** I had it on my Blackberry playbook. May have been on
+other things too **Genre:** Strategy I think? **Estimated year of
+release:** 2010s-ish **Graphics/art style:** Simple 2D graphics, it
+had Astronaut dudes with floating limbs (I think), kinda like Rayman
+**Notable characters:** There were red and blue astronauts **Notable
+gameplay mechanics:** You played as one team of astronauts and the
+goal was to defeat all the other teams of astronauts using various
+weapons. In particular I remember there was a bazooka. You were
+standing on various planets and the bullets and stuff would respond to
+gravity of those planets. There were multiple ways to defeat them, you
+could just blow them up or you could send them flying into space. The
+bazooka was cool because it would actually take out chunks of the
+planet wherever it landed"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

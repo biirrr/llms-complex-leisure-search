@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][1990s] bear that beats you up, hangs you upside down
+while you are trying to escape a town. There is this old game where
+you start by tying your horse up before you cross a bridge into a
+town. When you cross the bridge, it collapses. The town is deserted
+and you need to find a way to escape. There is a bear hunting for you.
+When he finds you, he ties you upside down, beats you up and leaves
+you hanging. Thats the respawn point. The camera angles are from the
+corners of the room you are in. There is also a tower, a knights
+armour, whispering trees and mouse like creatures."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

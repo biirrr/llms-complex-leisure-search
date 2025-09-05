@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-2010] Adventuring style PC game that had two
+parts. Game included magic and non-magic character builds. Included
+runes that you collected that looked like a Fleur-de-lis.. I remember
+playing this game like 15 years ago or more. It was a game where you
+had a character that ran around fighting enemies that included
+Goblins, Golems, Dragons, etc. You started out fighting I think it was
+Forest Goblins and then you start fighting frost/ice goblins. You have
+a town in the middle of the map that you are exploring where you can
+talk with other NPCs and buy and sell things. You have mainly two
+options for combat, magic or hand to hand. You were able to customize
+the armor and weapons that you equipped. To progress in the game you
+had to open up new areas of the map that were blocked by gates. The
+golems had like ice/frost, fire, earth, and I think another. I also
+remember going into some sort of cave or building and fighting a lot
+of dragons. The look of the game was where you were looking down on
+your character and could see all around him. He could then engage in
+combat with enemies around him including with magic and shooting bolts
+at enemies. It is an older PC game that came in two parts. The first
+part we were able to get free. This allowed you to go all the way to
+fighting a whole room full of dragons. But you had to get the second
+part of the game to progress farther. There was also a way to level up
+your armor/weapons using runes that you collected. There were a lot of
+different types of runes. I think that there was like 10 different
+types denoted by various colors. The look of the runes almost looked
+like a Fleur-de-lis."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

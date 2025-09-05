@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020-2025] Liminal Fake Windows OS Horror Game. it was
+a computer game that simulated a fake windows os. the game had you
+play a variety of games that progressively got more scary, giving you
+the inkling that things were going wrong. the character of the game
+kept trying to get you to open the application where he existed and he
+would try and get you to stay there as much as possible. he would then
+promise to create a game that is so fun that you would never want to
+leave. he made a rollercoaster game, and lets you make an environment
+that youd want to stay forever. when you do this, you can walk around
+and see what he made for you. but he doesnt want you to leave. he
+even creates silhouettes of your steam friends sitting at a table and
+says youd never be lonely. ishowspeed played this. i cant get any
+more descriptive than this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

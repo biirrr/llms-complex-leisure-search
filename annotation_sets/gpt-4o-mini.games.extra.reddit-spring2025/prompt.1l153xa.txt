@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2012] Horror Sci-Fi Flash Game. Platform(s): PC, Flash
+game Genre: Horror/Sci-fi Estimated year of release: Perhaps between
+2012 and onwards, Graphics/art style: It was sort of like Plasma Burst
+2, but with a bit more of a gory theme, 2D style. Notable characters:
+The protagonist was a soldier or someone getting inside an abandoned
+space station, the first boss, at least that I can remember, looked
+like a bunch of organs, brains more than anything, moving around the
+room. Notable gameplay mechanics: I believe you could aim with the
+mouse, and the overall gameplay had platforming. Other details: Maybe
+it was a Kongregate game, but I'm not entirely sure. I was like eight
+years old and chickened out after the first boss because it scared me.
+Thanks in advance, I don't know if someone even played it or remembers
+about it, but I'll try to answer any further questions."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

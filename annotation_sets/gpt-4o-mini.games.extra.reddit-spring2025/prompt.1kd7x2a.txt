@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android][unknown] a black and white (monochrome) point-and-
+click game about a boy going through locations and talking to some old
+man. i certainly played it on my phone a few years ago. all that i
+remember is that it was something like a point-and-click quest. it was
+black and white or very close to it. 2D, cartoonish style (?). you
+play as a young boy who goes through locations to... do something i
+guess. i don't remember the main goal of the game. there certainly was
+some old man you had to talk to. you had to visit his apartment to
+talk to him. maybe he was that boy's grandpa or something, but i'm not
+sure they were related. the locations included some apartment complex,
+town places (?), and there was also a beach/shore. i think it was kind
+of a weird game. i also think it might've been french or something
+like that, but i'm not sure. it's all so vague sorry"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

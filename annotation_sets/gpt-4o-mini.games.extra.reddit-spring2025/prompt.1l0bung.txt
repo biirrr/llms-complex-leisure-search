@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] Jurassic World, before there was Jurassic
+World. So i remember playing this game as a kid in the 2000's on PC.
+It was essentially what Jurassic World is today, only with cartoonish
+graphics. You could breed and raise dinosaurs, make your own theme
+park etc. I believe there was a T-Rex on the cover of the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

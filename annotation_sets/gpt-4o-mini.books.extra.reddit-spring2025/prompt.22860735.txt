@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, self help. Making it in America. Young
+man graduates, moves to place where he doesn't know anyone and has no
+money. [s]. This is a non fiction self help book about a young man
+graduating and moving where he knows no one and has no money. he works
+for a moving company and lives in a shelter. he exceeds his 1 year
+goals, showing the american dream is real"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

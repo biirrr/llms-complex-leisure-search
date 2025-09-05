@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction about Pocohontas and her family [s]. This was a
+book I bought from Barnes and Noble around 2009. It was fairly small,
+and it was a history of Pocohontas and the two tribes she came from,
+and where they are now. It is published by an author from either the
+Mattaponi or Pamunkey tribes, I believe. I think it was published in
+the early 2000s. I want to say it was less than 200 pages long. I also
+think the cover was sky blue, and maybe had some white as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

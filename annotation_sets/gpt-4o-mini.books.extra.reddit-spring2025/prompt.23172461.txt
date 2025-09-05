@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Coming of age, YA fiction. Large themes around memory loss
+and guilt. Spoiler.. I read this book about 7ish years ago but I want
+to say it was published in the 2000s or early 2010s. It opens with the
+male main character who’s in his late teens waking up at some kind of
+train or bus station with no memory, he doesn’t have a bag but he
+finds a book in his back pocket. The book is temporarily taken from
+him but he gets it back with the help of security. Since he doesn’t
+remember anything about himself he takes on the name of the author of
+the book. I’m pretty sure at one point he finds a historical site that
+used to be the authors property and starts secretly staying in the
+cabin on the land but I could be wrong about who it belonged to. But
+he starts interacting with a few teens in the area and makes friends.
+Towards the end of the book he regains his memory and remembers why he
+ran away. One night he and his friends were driving around in his car
+- or a family car - and crashed into a snow pile I’m pretty sure, he
+thought the car was fine since it drove back to the house fine. The
+next day he had to drive his sister to her dance lesson but the brakes
+didn’t work and they ended up crashing and she lost one of her legs.
+He felt an overwhelming amount of guilt and blamed himself for her
+losing her leg so he ran away with a duffel bag of his stuff. A group
+of people at one point mugged him for the duffel bag and that’s how he
+lost his memory. From what I can remember the book ends with him
+contacting his father and letting him know where he is and they meet
+at one of the ends of the Appalachian trail. The title of the book has
+something to do with the authors name that he used when he didn’t
+remember his own."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

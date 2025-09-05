@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction. Girl on trial for murder in the deep
+south. Read 2000-2001. Spoilers.. I have been thinking about / trying
+to find this book for years and have never succeeded! I remember
+reading this book in fifth grade, so 2000-2001. I remember the cover
+being black and white with a girl/girl in profile on the cover. I
+remember the title being one word, I keep thinking it was the girl's
+name like Dixie or Ruby - it is possible I am misremembering the title
+and cover. The book takes place in the south, I feel like in the
+1930's or 1940's. Main character is a girl, I think a tomboy, I don't
+quite remember her age...maybe 14ish? Girl lives in this southern town
+with her family, I think she has an older sister who is really
+beautiful and an older brother who is really quiet. There is a rich
+family in town with a Rich Son who is around the same age as the older
+sister and this guy is an ass. Really flashy, drives around in a fancy
+car, main character hates him. I think he is maybe creepy to the older
+sister as well. Rich Son ends up murdered and main character ends up
+on trial. Novel may jump back and forth in time from the trial to the
+time leading up to the murder. SPOILERS: Main character ends up
+getting off for the murder because the Rich Son was hit over the head
+with something really heavy (a paint can?) and lawyer proves during
+trial she wouldn't have been able to lift it over her head. I think
+main character was alone in a general store and Rich Son came upon her
+and attacked her, and then older brother found them both and killed
+the Rich Son by hitting him over the head."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

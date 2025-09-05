@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction: Girl receives mysterious notes from a homeless
+man to help her solve a mystery. I read this book in the US in the
+early-mid 2000s. The protagonist was a preteen or teenage girl who had
+to solve some kind of mystery or problem. I believe she had a friend
+(or frenemy) who was a boy about her age. She made progress towards
+solving her mystery/problem with the help of mysterious notes left to
+her by a homeless man (possible spoilers ahead) the old homeless man
+may have been implied to be a time traveler, and possibly the future
+version of her young male friend. Other than the possibility of a time
+travel element it seemed less of a supernatural or scifi genre, and
+more of a detective story."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

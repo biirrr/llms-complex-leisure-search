@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [2011-2014] Top-down sci-fi base defense(?) game?.
+The game I'm looking for even though not completely unknown, but
+probably was removed around 2017. It was on top of the """"""""Tablet
+recommend"""""""" list around 2013-2016 and on 5 place on
+""""""""Family"""""""" list till 2015. As for gameplay: -Space setting
+-We have mothership(MS), with different modules. -On missions we can
+choose a place to deploy mothership, where it remains till the mission
+ends. -Main gameplay is to draw paths for jets from MS hangars, deploy
+miners to mine asteroids and use MS abilities. -We need to protect MS
+from waves of enemy jets and sometimes other MS, as far as I remember
+there's 3 types of mission objectives  survive time/waves, mine
+asteroids and kill enemies."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

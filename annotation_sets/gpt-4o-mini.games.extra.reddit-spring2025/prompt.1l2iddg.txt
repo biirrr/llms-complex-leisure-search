@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Facebook?] [unknown] 2d game with a green helmet ball
+being thrown away on the cover. I played this game when I was a kid,
+probably on Facebook or some old gaming site, it may have been Flash
+but it may have been on Google itself, I remember it had some
+connection with Facebook somehow. From what I remember, the levels
+were full of tunnels or """"""""pipes"""""""" that had faces with
+bulging eyes and even teeth, the objective was probably to pass the
+levels by scoring points or achieving specific objectives. The game
+was also quite possibly bubble shooter style, we didn't have to shoot
+an enemy or anything like that, the cannon basically just shot the
+balls with faces (which were ammunition), upwards, you basically just
+had to aim, I don't remember if the cannon moved in any way, maybe
+just rotate to aim. The problem is that I'm not sure about a lot of
+things here, it makes everything a bit comprehensive despite the
+description"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox] [2017-2019] please help me find this roblox game!!.
+I discovered this game by flamingos 2017-2019 (i think) videos, IM NOT
+SURE THO so don't rely on that info == the currency of the game was
+nails and it was pretty simple to play the game, when the round
+started each person got a land and some things would happen to the
+land and some ppl would even get swords or some items and they could
+kill another person, some ppl even got linked to each other. The game
+vibe was kind of voodoo doll kinda thing. The picture was a voodoo
+doll, circle shape head with stitched mouth, I can't remember what the
+eyes looked like = please I hope y'all know I rlly need to find this
+game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

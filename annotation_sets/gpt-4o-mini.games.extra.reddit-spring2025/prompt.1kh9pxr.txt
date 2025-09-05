@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005] Fruit Boy. Hi Guys, For a few years I been
+trying to figure out a name of a video game I played in the early
+2000's in was either on windows xp or vista. The game was a simple 2D
+game where you played as a 'fruit boy' collecting fruit but had to get
+away from this creatures that kind of resembled gumbas.The background
+was grey kind of like stone. I know I had it download on my PC.
+Possibly from a free disk you would get with the gaming pc magazine as
+I remember playing a mosquito shooting game that came from the same
+disk at the time. Unfortunalty thats all I can remember from it. Thank
+you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

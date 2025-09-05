@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [probably 2000s] [a dating sim where one male character
+was named Polar and he was your soulmate or something]. maybe i'm
+going crazy. but i remember playing this game on PC probably around
+2000-2010. all i can remember is this guy Polar, who was like a
+football jock and he called you dummy, and in his route it turns out
+he's your soulmate. maybe it wasn't even a finished game. there was
+also this other character who was kinda androgynous. i think it was
+either an lgbt/queer game or from the perspective of a woman. also the
+game was probably SFW. i dont remember sex scenes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

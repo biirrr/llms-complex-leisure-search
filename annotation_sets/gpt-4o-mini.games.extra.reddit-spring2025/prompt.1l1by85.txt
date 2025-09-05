@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP] [unknown] JRPG. The only thing I remember is that in
+intro hero arrives to town on a boat and that the world looked like
+medieval fantasy with creatures it was jrpg I think, plus help me find
+this one! It had a 3d graphics, oh I also remember that u went into
+fight only if u were close to a monster, therefore child me was
+running away from everything that is higher lvl."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

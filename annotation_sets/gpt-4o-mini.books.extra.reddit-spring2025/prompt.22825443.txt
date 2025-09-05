@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Novel set in colonial India; noble and spoiled Indian
+boy looses home and privilege and needs to survive in lower strata of
+society. [s]. I read this book between 2000 and 2010 and it seemed
+contemporary in language. It starts with a brief description of a
+privileged life of a noble boy and then something happens (upheaval?
+death of parents?) which makes him loose everything. The rest of the
+book I believe is about him finding his own way in life, which is
+harsh at first, plot spanning years or decades. At some point a eunuch
+community is somehow involved."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Steam] [2000s] native inspired fps. Trying to recall a game
+that i saw the trailer for on steam years ago it was a fps that had a
+story that seemed to involve a young man trying to kill his monsterous
+mother who was this masked and cloaked figure with many arms who in
+the trailer talked about loving all her children. The gameplay mostly
+had melee weapons with the expection of a few ranged weapons like dual
+pistols that looked like fish. The art style had a lot of totemic
+influence in it and i recall the main character wore face paint."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

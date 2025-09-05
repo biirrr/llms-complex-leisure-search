@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS] [2000s-2010s] A game about owning a theme
+park. Platform(s): Im almost certain it was the OG Nintendo DS but
+maybe not Genre: arcade-ish Estimated year of release: i remember
+playing it back in like 2011 so before then Graphics/art style: not 2d
+but flat, graphics werent the best, you would have to scroll
+hoizontally to go through your park Notable characters: didnt really
+have a story or characters Notable gameplay mechanics: i specifically
+remember this one mini-game you could do to get money where you had to
+get a bus out of the parking lot by shuffling around cars like a
+puzzle Other details: it was a theme park game and the most expensive
+attraction was a roller coaster, probably lesser known since chat gpt
+couldnt help, also the game was super simple and straight foward"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

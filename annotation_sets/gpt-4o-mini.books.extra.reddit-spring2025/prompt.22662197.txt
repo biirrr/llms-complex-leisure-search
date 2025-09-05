@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Cookbook: Pies. Paperback, blue cover, probably published
+1970s or earlier. [s]. I'm looking for a cookbook of pie recipes that
+was probably published sometime in the 1970s, but it could have been
+published earlier, or possibly as late as the early 80s. It was a
+smaller paperback (maybe mass market paperback size, although it could
+be bigger than that). The cover was at least partially blue. The
+cookbook contained a recipe for pecan pie that was originally created
+by the U.S. Department of Agriculture, so I assume it was
+written/published in the U.S. (which is also where I am and where the
+cookbook was purchased)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

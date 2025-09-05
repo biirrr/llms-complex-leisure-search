@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile game/Apple] [2010~] Dungeon Exploration Mobile Game.
+hi hi the game I'm looking for is a bottom-to-top, swipe to move
+dungeon exploration game. Each level, has a different theme and you
+have to swipe/jump to avoid holes, enemies and obstacles (rolling
+saws, projectiles, floor spikes, lazars, moving platforms) the game
+has a blocky design and is timing based, sorta like crossyroad.
+throughout the maps, theres chests where you can collect coins and buy
+armor that give you upgrades like extra hearts, the ability to jump
+over holes, speed, etc (i think one made you immune to spiders?) at
+the front of each level, you start at a base, and you return to the
+start every time you lose all of your hearts. theres a book on a
+podium where you can select and unlock levels, buy supplies and
+different skins. I also think there was a wizard? and a scroll for
+goals and achievements? every level has a gate at the end for
+completion please please Imk, it was rlly fun and i cant stop thinking
+abt it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

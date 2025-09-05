@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Sci-fi. Girl lives in a society afflicted with regular
+memory loss. Read early-mid 2010s.. I read this back in the early-mid
+2010s, so it could have been published any time before then, but I
+feel like it was part of that crop of YA novels (The Selection,
+Delirium, Matched, Incarnate) that delved into semi- or outright
+dystopian concepts. My memory is pretty murky on the story and hasn't
+been improved by the hunting through other books I've been doing, but
+I feel like the protagonist (teen girl, that I'm sure of) lives in a
+town where everyone loses their memory every so often. It may have to
+do with rain but I'm not at all sure about that bit. She doesn't lose
+hers for some reason, and I feel like she has to hide that, and then
+(view spoiler) [discovers a way (in a cave?) for her to keep the whole
+town safe from the memory loss. (hide spoiler)] The feel of the book
+is definitely futuristic, but I wouldn't say entirely dystopian
+necessarily - there's not much sense of the wider world that I
+remember, but people in this town live a decent life. Any help
+narrowing this down would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

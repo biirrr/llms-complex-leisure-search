@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-1999] - My childhood game, cant for the life of me
+remember anything about it. Platform(s): PC - Could be Windows 95/98
+Genre: Adventure, side scrolling, some platforms (similar to mario?)
+Estimated year of release: pretty sure early 1990's im actually not
+sure, i was very young i think age 4-6 so i was probably playing it
+1998 ish. Graphics/art style: bright, cartoon style, not serious at
+all Notable characters: unsure of any names, i believe i remember the
+enemies were humans wearing greek/roman armor. Notable gameplay
+mechanics: forgot. but essentially beat the roman armor guys and keep
+moving right Other details: the platforms were either white or light
+gray, another game i played on the same computer was Hocus Pocus. I'm
+sorry, i know this isn't a lot to go on. I tried to search for it but
+couldn't find it. Solved by u/Karhtan: Skunny: Save our Pizzas"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

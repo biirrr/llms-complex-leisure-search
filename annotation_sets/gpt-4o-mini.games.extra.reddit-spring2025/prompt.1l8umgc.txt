@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][Early 2010s]WWII dogfighting game that takes the
+player through all major engagements of the war.. I remember there
+being a game where you take control of a pilot during the events of
+WWII. Specifically, an American sympathetic to the British and
+assisting them in the early war before the US officially got involved.
+I remember it having both an arcade and simulator control scheme, an
+option to ask one of your wing-mates to give advice on repairs to
+regain health, and a sequel that took things in a more outlandish
+direction and started with the player pilot flying in an airshow
+before flashbacking to the war itself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

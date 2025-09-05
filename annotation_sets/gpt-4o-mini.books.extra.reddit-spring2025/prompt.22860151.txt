@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sci Fi Short Story. Time travel with intentional change
+concerning Hemingway and his final years. [s]. Read in a collection of
+short sci-fi stories book 2023/2024 (but the book was older) about a
+Hemingway superfan who has obtained time travel (alteration) powers
+and sets about to make right the last years of Hemingway"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

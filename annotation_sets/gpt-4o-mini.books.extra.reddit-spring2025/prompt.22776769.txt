@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Wife finds her husband with
+another woman in hotel room, runs out crying & bumps into hero, the
+hotel owner. Few years later, she's an architect/ ad exec?, they meet
+in conference room in large US city. Pub. 2000s.. The book was
+published in the 2000s and took place in a big city somewhere in the
+US. I'm sorry I don't remember the author or more details about the
+book. But I do remember the opening scene. Wife finds husband with
+another woman in a hotel room. She runs out crying and bumps into the
+H who happens to be the owner of the hotel. She tells him what
+happened/what she saw, takes a cab and leaves the H behind. The next
+time they meet is in a conference room as she's an architect and she's
+submitting a proposal to design one of their boutique hotels. That's
+all I can remember. Does this sound familiar to anyone? Thank you so
+much for all your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Woman dates rich man, she renovates his
+boat, confrontation in rich man’s greenhouse with another woman who is
+killed, she is buried in greenhouse, and couple’s wedding takes place
+in there. Read last 2 years.. I remember small details about this
+book, but am unsure if i am confusing multiple books OR if it is
+indeed just one. this is driving me crazy! please help lol Setting:
+East coast of the US because I remember that the couple go out on the
+repaired boat once she is done fixing it Characters: A wealthy man,
+his girlfriend, possibly a third woman who is murdered Other
+scenes/details that I think I remember: she was told NOT to go into
+the greenhouse (maybe the guy had already murdered someone? I can’t
+remember); a kitten is somehow involved and maybe cared for in the
+greenhouse?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

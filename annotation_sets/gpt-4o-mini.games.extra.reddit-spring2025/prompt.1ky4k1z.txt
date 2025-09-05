@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] A third person pirate setting action game
+about a sailor\pirate on the island. Game about the man, who finds
+himself on the island. He fights with the sword and, highly likely,
+pistols, further in the game. There probably was a special attack, an
+icon of which looked like a head of the monkey (or it was a part of
+the """"""""compass"""""""" UI). There could be a combo system in the
+game. The name could have words like """"""""Black"""""""",
+""""""""Monkey"""""""", """"""""Island"""""""" or
+""""""""Amulet"""""""" in it. Not any of the """"""""Risen""""""""
+games, though could look and feel similar to it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

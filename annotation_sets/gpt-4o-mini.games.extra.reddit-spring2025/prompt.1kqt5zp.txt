@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps1? dreamcast?] [mid 90s] side scrolling fighter game with
+a guy in sleek blue metal armor who fights robots. im trying to find
+the name of a game, i dont know what platform it was on either ps1 or
+dreamcast or something, but it was mid 90s i think. it was NOT mortal
+kombat or streetfighter, it had good graphics for the time, and it was
+a side scrolling fighter game. there was a playable character who was
+human but he was in sleek blue metal armor and he would have to fight
+various robots and cyborgs in 1v1s. i remember that if you lost, the
+""""""""death screen"""""""" would show the blue armor guy laying on
+his back, beat to heck with part of his face mask busted to reveal a
+human face, i also remember a gold or orange robot fighter that kind
+of looked like a cylon from old battlestar galactica. anyone remember
+this???"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [Mid 2010s] Text-Based Life Simulator. Eat to
+live, make money, become rich. **Platform(s): Android/google phones on
+the google play store (maybe also on iPhone, but I didn't have an
+iPhone)** **Genre: Text-based simulator mobile game** **Estimated year
+of release: My guess is somewhere in the mid 2010s where a bunch of
+money simulator games got popular.** **Graphics/art style: There
+really weren't graphics. It was text-based. There might have been some
+stock photos of buildings and cars.** **Notable characters: There are
+no characters** **Notable gameplay mechanics: You start out broke. You
+have to eat hot dogs to keep your food meter up. I think you also have
+to sleep to regain energy. You start going to work which drains your
+energy and food meter. You have to make money to get higher tiers of
+food, cars, houses, etc. to get better jobs. You just keep upgrading
+everything to finally become a CEO and own a skyscraper and a private
+jet.** **Other details: It was a very simple game. Could be beaten in
+a couple hours. It did not have ads and you did not have to watch ads
+to get boosts. This was not one of those idle games like Adventure
+Capitalist. Everything was completed in-game. The thumbnail on the
+Play Store might have been just a dollar sign or a picture of a
+building.** Anything you guys can do to help is very much appreciated.
+Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

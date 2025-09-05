@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2000s] 3rd person shooter game with WW1 or WW2
+setting in a celshading/anime look [could be turnbased or strategy
+mixed in]. - Platform: Playstation 2 - Genre: I think it is
+turnbased/strategy but while playing in a 3rd person perspective -
+Graphics: Cel shading or anime like but set in a european country - I
+remember a level with a village, green meadows, a wooden Bridge and
+some windmills and there was some sniper action In contrast to the
+various action based WW shooters I think the game was more 'laid back'
+and about story"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

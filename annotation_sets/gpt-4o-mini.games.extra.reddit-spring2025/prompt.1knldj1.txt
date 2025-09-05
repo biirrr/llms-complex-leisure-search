@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Dreamcast or Saturn][~1999] Bizarre Japanese shooter with
+the world's largest controller (a giant pink, fleshy lightgun). I
+remember this being a really bizarre piece of trivia I encountered
+probably 12 years ago or so. There was this one-of-a-kind gigantic
+(probably 6 feet tall and 6 feel long) lightgun controller with a very
+bizarre bio-organic look to it that was pinkish with red and brown
+sinew covering it that was a one-of-a-kind item made to promote an on-
+rails lightgun shooter for I \*think\* the Dreamcast - though it
+possibly could've been the Saturn, or maybe even the PS1. The game it
+was made to promote was a very strange horror-shooter that used
+lightfun controls. It had that same bright bio-organic feel to it.
+Hoping someone else saw this back in the day, I can't find anything on
+it. Edit: Found it by going through a list of all japanese lightgun
+games. Here's the controller in action:
+[https://youtu.be/ZPRdwR37SRk?si=x9VeA-
+Fqt5H8BS98](https://youtu.be/ZPRdwR37SRk?si=x9VeA-Fqt5H8BS98)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

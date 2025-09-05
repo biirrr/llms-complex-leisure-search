@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Detective game with base building. Randomly
+recommended a post/subreddit where the OP created a whole room and
+base hidden inside a bathroom stall. The game had a pixelated/animated
+art style. Also had something to do about solving crimes/ a crime from
+the summary. Pretty active subreddit. Completely forgot the title and
+its not in my history."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

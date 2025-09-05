@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2000s] Game where you are a teenage boy with a stick
+holding a girls hand adventure. Setting was like old fantasy ruins
+type of adventure, you also are guiding a girl, you are armed with a
+wooden stick to fight off black shadowy monsters. One of the mechanics
+of the game was you can let go of the girls hand to traverse obstacles
+and clear the way for her, and then after doing so you can press a
+button and call her name and she will run to you. If I remembered
+correctly the game's title was a single word but im really not sure.
+Thats all I can remember. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

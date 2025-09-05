@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller about a guy who kidnaps swimmer students and
+makes them compete. Spoilers.. I am probably mixing a few books, but
+the book involves a teenage boy who is having trouble at home who gets
+kidnapped by a guy who makes him work out and swim and compete with
+other kidnapped teens. There is a girl who lives in the locked room
+next to the main character who tries to help him but is sad herself
+because the kidnapper assaults her. There is a part about a woman who
+tries to figure out what is happening and even goes to the kidnappers
+home to find out about something and realizes he is the kidnapper. The
+children are in his basement. Very specific details I remember: - Boy
+is kidnapped when a woman on the street pretends to have a
+stroke/accident and he rushes to help her and a van pulls up and he is
+taken - The boy recalls that the guy used to sit in the bleachers and
+watch him pretending to be a university guy trying to scout a
+prospective student"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

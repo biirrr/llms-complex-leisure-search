@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4?][2010s] RPG kinda like fallout themed. Sorry I know
+this was recent but it's driving me nuts. It was an RPG of either post
+apocalyptic or space theme. I'm thinking maybe it was on the moon for
+some reason but that could be wrong. Anyway stuff seemed to be kinda
+50s themed with the in game advertising...it was an RPG, kinda bland
+and forgettable if I'm honest. I remember there were a bunch of quests
+in a fish cannery? Any help appreciated. For some reason I really
+thought the game was journey to the savage planet but upon playing
+revenge of the savage planet I'm quickly aware that was a very
+different game lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

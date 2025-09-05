@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[idk] [idk] Video game for console. Hello everyone. I'm
+looking for a video game that can be played with up to 4 people.
+Unfortunately I have no idea which console this is for, I've already
+googled but haven't really found anything. (Maybe Gamecube or
+something) It was played with a slim controller (they were red) that
+only had 4 or 5 buttons. And there were cute aliens or monsters that
+you had to run through the game with. Sorry for the meager clues, but
+it's been a few more years since I played it. Maybe someone knows :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

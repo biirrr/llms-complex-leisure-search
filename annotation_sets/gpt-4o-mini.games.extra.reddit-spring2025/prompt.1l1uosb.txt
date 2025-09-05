@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Mac] [2010s?] Adventure game about an old man chasing
+photos of his life. You play as an old man called Henry trying to get
+photos from throughout his life back after the wind blew them all out
+the window. Henrys walking sticks double as a jetpack. End up in the
+jungle, space and other places, each with 1 of the missing photos.
+When you got each photo Henry would narrate what was happening in it
+and reminisce over his whole life over the course of the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

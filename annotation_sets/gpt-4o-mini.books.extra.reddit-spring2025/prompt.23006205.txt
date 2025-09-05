@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Tween coming of age - Two best friends with a big series and
+they're British (? maybe?). my friend read this book series in
+2019/2020 as a kid and shes looking for it: a big series of two best
+friends who might be british and they write a cookbook with a dark
+purple cover. in one of the books they go to france and some sort of
+romance thing happens there? one has light hair and one has dark hair
+(blonde and black hair i think) please help thank you !! <3"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

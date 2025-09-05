@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Middle Grade? Girl enters art contest to win money to
+buy a horse. Not sure if it was considered YA but girl was either a
+teen or preteen. Read early 1990s, published 1980s/1990s.. The main
+character is a poor teen or preteen girl who enters an art contest to
+win money to buy her dream horse. She and her arch nemesis, another
+girl (she might be rich?) tie in the contest and each are supposed to
+turn their art into a mural. Main character has an ""art studio"" in a
+barn loft...rich girl is jealous. Main characters winning art piece is
+a sketch of her brother, looking like an old fashioned boy, pumping
+water from a hand pump. Girl also befriends an older gentleman who
+allows (or maybe gives?) her some cool looking old bottles that end up
+being worth money. I had this book when I was a teen, in the early
+90s, though the book might have been older (80s?). I guess it would
+now be considered vintage. Thank you for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

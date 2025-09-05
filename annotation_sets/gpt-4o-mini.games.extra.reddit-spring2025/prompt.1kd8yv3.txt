@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2008-2012] Side Scroller Mech Rts Game with Ragdoll
+Physics. Trying to remember side scrolling mech rts game with some
+physics(maybe) I remember seeing my friend play it on his laptop
+around 2009-2012. I remember its a sidescroller where you can deploy
+soilders/mechs/robots/cyborgs (cant remember exactly) that walked to
+the right towards the enemies. And you go through a level with
+different terrain and stuff. I remember there being a lot of brown,
+orange, yellowish colors. I thought it had a bit of physics/ ragdoll
+physics too like the units would fall over if shot or react to
+explosions by being pushed back. Thats all i got it might've been on
+steam or it couldve been a flash game, thanks :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,49 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery. A journalist is sent to a small town where an
+adult dies in her family Bach during the holiday season. Reporter is
+to write a story and uncover the truth of the murder. Read 2020-2023.
+Spoilers.. I read this book between 2-5 years ago. The book is split
+into two different view points. The build up to the death and what the
+journalist discovers. The journalist comes back from leave after
+something disturbing happens to her. Her boss sends her to a small
+town where this wealthy families daughter was murdered (her dad is a
+lawyer) to write a story about what happens. The journalist becomes
+friendly with local cafe owner who she goes on walks with to try and
+help heal her past (she can’t walk by herself during the early hours
+of the morning). The journalist becomes friends with I think another
+police officer where they try investigate quietly as the case was
+closed shut. The girl who was murdered was at University/College and
+she had 3 friends. They were studying law. The girl who was murdered
+became close with one of the guys in the group. They would stay up
+late, talking through the early hours of the morning. She gave him
+flirty vibes but he wasn’t sure and had a big crush on her. He thinks
+that the other two friends (M and F) are in a relationship. The main
+young girl turns out to be in a relationship with the other guy and it
+is all a big secret. After a bit of time the main young girl gets
+pregnant and freaks out as her dad is a top lawyer and her family have
+high hopes for her. She freaks out with school and family and they
+both decide to go to her family Bach in the small town over the
+Christmas holidays to tell her parents together. He ends up proposing
+to her to try and show how he is committed to her. The girl then goes
+to the Bach where she is meeting the boyfriend (he is on a plane
+running late as he just got a job with the vice president or
+something). She hears a knock on the door and it’s the guy from the
+friend group wanting to confess his love to her. She freaks out and he
+kills her (this happens in the kitchen). As the journalist is
+uncovering all of this through the autopsy, the police are hunting her
+and she is hiding out in the cafe upstairs. (Think the cafe was a
+family business passed down?) The family had paid money to keep the
+nature of the murder a secret. The guy who killed her was eventually
+killed in the back of the Bach I think? My friend who recommended it
+to me died a couple of weeks ago so I’m stumped for the books name or
+author."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

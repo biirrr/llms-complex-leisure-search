@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/DOS] [hex strategy] [90s]. I'm looking for a strategy
+game with hexagonal tiles. I've played this in the mid 90's on a DOS-
+PC, release date, if I compare it to e.g. Battle Isle 1, would be
+around 1990. The military """"""""age"""""""" was after WW2 (there
+were helis, planes or even jets). There were also ships, and ground
+units. It had basic graphics, I think I remember a
+""""""""cannon"""""""" which was an olive oval with a T for the
+barrel. The shots were dot-clouds. Units were simple sprites. The
+graphics in the first (shareware?) lvls were mostly green. I think you
+were able to buy new units (but I don't know how you got credits). It
+only had a single player screen (so not battle isle), I don't know if
+there was multiplayer. Does anybody have an idea?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

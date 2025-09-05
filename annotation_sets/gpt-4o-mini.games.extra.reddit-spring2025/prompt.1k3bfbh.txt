@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC browser flash game][2008-2012][shop/ repair factory
+management]. Platforms: PC browser flash game Genre: shop management?
+Estimated year of release: 2008-2012 Graphics/ art style: can't
+remember, it was cute like those Korean/ japanese flash games Notable
+characters: in one reskin, the customers were princesses carrying
+prince frogs which you'd process and return the princes to the
+princesses. In the other, it was Christmas themed, and if I remember
+correctly the customers brought in broken toys to be fixed Notable
+gameplay mechanics: 3 machines which when upgraded changed colours and
+worked faster Other details: there were two games like this, one was a
+reskin of the other. Basically, you had a shop/factory wherein
+customers brought in an object and you had to process it through 3
+machines (which were upgradeable) and give the improved product back
+to the customer. Ive tried roughly drawing the layout of the game,
+though the machines and customers were much more spaced out. There
+were 3 upgrade stages which resulted in 3 colours. If I remember
+right, red/ pink was the fastest. From what I remember one of the
+games was called prince factory or prince shop or something, and the
+Christmas game was the same thing in gameplay but with a different
+theme."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

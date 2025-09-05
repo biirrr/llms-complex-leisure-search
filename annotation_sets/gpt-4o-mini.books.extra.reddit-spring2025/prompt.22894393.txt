@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for a book about a water mill. It’s a ghost story..
+I can’t remember all the details about the book, but I do remember
+that it takes place around a water mill or something similar to that.
+I vaguely remember that two teenage kids call it something to the
+effect of “The Grudge.” At some point in the story it tells how the
+ghost died by his leg being crushed. I do remember reading this book
+around 2015 or 2016, and it was written for teenagers. Thank you in
+advance for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

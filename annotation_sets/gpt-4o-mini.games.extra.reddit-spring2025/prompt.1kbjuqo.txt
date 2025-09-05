@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Xbox game pass] [2014 ~ 2016?] Ice cave game. [SOLVED]
+[Unto The End] I remeber this game so clearly It starts with the
+protagonist (some kind of barbarian or viking) leaving home in the
+snow and the he falls in a ice cave the the game begins, you need to
+find some itens and leave the cave to return home, i remember a part
+where you figth some kind of monster yeti near a bridge It may be a
+false memory but in the end of the game you reach home and the house
+is burning down Its a 2d sidescroller game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

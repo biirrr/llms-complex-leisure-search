@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Windows 3.1] [Early to mid 90s] 2.5D maybe 3D Isometric
+Grid based mech game where you could launch attacks from 2 open
+windows. Eventually you could unlock a Nuke which would decimate your
+opponents land. Grid/Land wasn't very big though.. It might have been
+a shareware game, I'm not 100% sure, but I remember playing it at my
+buddy's house all the time then I showed it to my dad, who was an
+expert strategist and he dominated it and once again was just in awe
+of how he was wrecking the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

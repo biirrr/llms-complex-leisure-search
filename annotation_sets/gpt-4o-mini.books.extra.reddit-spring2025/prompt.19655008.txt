@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction/Man moves to a remote island/Pacific ocean. [s].
+I read this book years ago (early 2000s) I think it came from a book
+recommendation from people mag. I had to of got it from Barnes and
+noble. The man moved from America or UK to live off the grid He
+described how he spends his days, gets tan, Swims in the ocean
+(possibly South Pacific), fishing, The indigenous people. Possibly
+Indonesia area like new Guinea?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

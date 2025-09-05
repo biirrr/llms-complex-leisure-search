@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [mid 2000s-2010s] [horror?] game where you run from a
+pig guy trying to marry you. so theres this fat guy in a pig mask and
+some sort of gimpy looking suit. the guy looked really gross, not cuz
+he was fat but cuz he was like dirty and sweaty. anyways you fight him
+in a church cuz he was gonna marry you. sometimes he lifts you up
+under his arm and you have to kick free. in the end he throws a fit
+cuz you got away. im gonna try and show an image of what i remember
+him to look like, im not sure if this was the entire game though. the
+game was in the style of most games from the 2000s to 2010s, like l4d
+or lollipop chainsaw. im pretty sure it wasnt super explicit but this
+was the only scene i knew that i could remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

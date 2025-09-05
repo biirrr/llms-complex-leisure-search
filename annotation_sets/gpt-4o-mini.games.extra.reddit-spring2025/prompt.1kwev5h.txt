@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/browser][00s-2010s] """"""""Random"""""""" dungeon game.
+Platform(s): PC browser game Genre: RPG Estimated year of release:
+Sometime in the late 2000s to early 2010s Graphics/art style: 2D
+pixelated/blocky Notable characters: No characters. Notable gameplay
+mechanics: All game aspects were generated """"""""randomly"""""""" by
+cycling through a list of possibilities. You hit a button to stop the
+cycling and the option it stopped on is what was used. Everything was
+determined this way - number of enemies, dungeon layout, boss/exit
+locations, damage amounts, everything. Other details: I have a memory
+of an intro sequence involving a game dev being too tired to make his
+own game, so he made this randomized one. There may have been a sort
+of reset/prestige system as well. Thanks to anyone who can help me
+find this!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

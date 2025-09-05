@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] Castlevania-like time loop where you rescue
+your sister. Platform: Pc Genre: side-scroller with puzzles, maybe a
+metroidvania Estimated year of release: Couldn't tell, remember the
+first minutes from last year. From the graphics i would say around the
+2000\~ but it could just be a style choice and be more modern.
+Graphics/art style: Graphics like castlevania symphony of the night,
+but more modern and detailed. Notable characters: The blonde sister of
+the protagonist you were supposed to rescue. Notable gameplay
+mechanics: Combat similar to the castlevania games, with puzzles and
+some kind of time loop going on. Other details: Checked and it isn't a
+Castlevania game nor La Mulana. When you started playing you were in a
+cabin in some green fields and went to the right into some kind of
+cave. I remember hearing about the game while looking for games
+similar to Void Stranger and La Mulana, that's what got me interested
+but after seeing a youtube video about it i stopped watching because i
+didn't want to get spoiled and forgot, haven't found the video since."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

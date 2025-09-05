@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC or nintendo][unknown date] Player starts out in heaven
+and then explores surface. I've been having memories of this game and
+at this point I feel it might be a fabrication of my imagination.
+Please don't spend too much time trying to figure it out. Platform(s):
+I dont recall. It must have been either PC, or any nintendo console.
+Genre: I think it was a JRPG. I think there were items, equipment and
+perhaps level progression. Estimated year of release: Who knows...
+probably somewhere between 1990 and 2010. Graphics/art style: It
+was... old school! Probably pixel graphics... but it might be very
+simplified 3D. Sorry, I really don't remember! Notable characters:
+This is the section to read! I recall the story starting out in some
+sort of """"""""heaven"""""""", with the main character living in some
+sort of society of angel like people. But for some plot reason, you
+descend to the surface and get to know regular folks. I think they are
+vaguely aware of the existence of these angels. I'm not super sure
+what the reason was for getting away from heaven but it perhaps was
+something big that shattered the heaven society, and the player's view
+of angels as good. Notable gameplay mechanics: It must have had
+combat. I would lean towards something more visually simple like turn
+based. Other details: I think the setting on """"""""earth"""""""" was
+somewhat medieval. Castles, swords, that kind of stuff. Any idea????"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

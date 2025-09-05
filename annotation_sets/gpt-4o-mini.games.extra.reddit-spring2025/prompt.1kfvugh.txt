@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC / Windows 98/XP] [2000-2008] Wizard Bubble Bobble-like.
+**Platform(s):** **- Windows 98 / Windows XP** **Genre:** **- Single
+level Arcade platformer, identical to bubble bobble** **Estimated year
+of release:** **- 2000-2008** **Graphics/art style:** **- It was a
+cartoon art style, but not pixel graphics. I believe it was 3D/2.5D
+but for all I know it could have been 2D.** **Notable characters:**
+**- The playable characters were traditional looking gnome-ish wizards
+(kinda like the ones where you only see their big nose), and the game
+was single player / co-op** **Notable gameplay mechanics:** **-
+Identical to bubble bobble, you play as wizards, and clear out levels
+of enemies by shooting them with bubbles/spells.** **Other details:**
+**- It was not: Drop Wizard or Bubble Pop.** - it may have been an HP
+game or WildTangent game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

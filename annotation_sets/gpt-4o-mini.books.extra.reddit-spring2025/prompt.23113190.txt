@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy with a girl who travels to a magical land with a
+genie and her best friend. Read before 2008.. The Silken Road to
+Samarkand Read this book sometime before 2008. I believe it was part
+of a series and the events I've specified in the title happen in one
+of the sequels. Title could have had silk/spice road in it. The
+protagonist is given the ability to travel to the magical land by the
+genie. In fact, I think the genie requests that she does to complete
+some kind of mission perhaps? yes, there's a magic carpet involved and
+it has the personality traits of a dog. She also has a magic
+bottomless everything bag she uses. The protagonist's friend asks to
+come as well and the protag asks the genie's permission for this. The
+genie reluctantly agrees. During the adventure (which I unfortunately
+can't remember much about), the friend manages to do something bad
+(maybe stole jewelery or was accused of stealing) which the protag
+smooths over, but I think that ends the friendship or something. There
+isn't much else I remember about the plot sadly. The cover had two
+girls in the foreground, in blue (blonde girl?) and red (brunette
+girl) t-shirts I think, and the genie in the background. The main
+colour palette of the background was yellow. I have searched for so
+long, but there are so many books out there with FMCs and genies. No
+matter how imaginative my searches, they have been fruitless. Please
+help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

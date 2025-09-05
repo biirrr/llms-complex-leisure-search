@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "80s/90s Middle Grade Book/Series Teen Sleuths. I remember
+reading the first few chapters one summer but never got to finish it
+because school started and had to return it to the library. The story
+was about two sisters... I don't remember if they were biological or
+step siblings. One sister was a pretty blonde, and the other was a
+brunette who felt frumpy around her beautiful sister, especially with
+her short, curly, brown hair. I remember some things from the book...
+both sisters had a penchant for solving mysteries and the brunette
+sister got jealous of the blonde sister for figuring out a suspect was
+right/left-handed by noticing her lipstick placement. Another scene I
+remember is in Chapter 1, the family was vacationing and the brunette
+was on an inner tube fuming about her perfect sister when she realized
+she had gone out too far in the lake. She hated deep water. I hope
+someone knows which book this is! I don't remember too much because
+it's been so long! I hate to leave books unfinished! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][&lt;2000] Point and click game starts at night guy has
+something to do with drugs i think, sort of psychodelic theme..
+Platform(s): PC Genre: point and click adventure game Estimated year
+of release: around 2000 Graphics/art style: pixel art, something like
+maniac mansion Notable characters: guy who had you know that style
+with the pointy hair and swirly glasses i think. Notable gameplay
+mechanics: point and click adventure game Other details: I remeber
+getting this game as some sort of demo it was really old you would go
+around the town doing things and it was dark, it had something to do
+with drugs or other dimensions i think because I remember seeing an
+advanced part of the game and it was like an alien world. it was
+really old graphics like the ones in maniac mansion but it wasnt a DOS
+game, it ran on windows. I think the commands and inventory were in
+the lower part of the screen and took lots of space."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

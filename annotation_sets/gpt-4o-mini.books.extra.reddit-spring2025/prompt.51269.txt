@@ -1,0 +1,47 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Futuristic Sci-fi. Woman who can see all outcomes of
+each decision and pick one at will. [s]. ETA: FOUND! (I don't know how
+to move this thread out of ""Unsolved"", though. Can anyone help with
+that?) I decided, ""To heck with it! I'll move stuff around in the
+garage until I can set up a bookshelf or two and unpack at least a few
+books!"" I found the book I was trying to remember! It was, for the
+curious, ""Mainline"" by Deborah Christian. Thanks for anyone who
+looked at my description, and I'll try to help other people find their
+book titles in the future. Original query follows: We've moved to a
+smaller house and haven't cleared enough space to set up most of my
+books and bookcases, so of course I am getting a yen to re-read all
+these books and can't hope to find them in one of dozens of boxes.
+There's a book that I don't believe is particularly well-known that
+I'd love to get from the library but I can't remember the title or
+author. Here's what I DO remember: - It's science fiction - It takes
+place in a fairly futuristic setting. - There is a female protagonist
+- The protagonist is probably a sort of mercenary/bounty
+hunter/futuristic private investigator of some kind. - She has a
+special ability, that she can see all the different possible outcomes
+of nearly every decision she could make, major and minor, and she can
+grab onto a different thread into the future to force the outcome she
+would prefer. - She has a name for this skill that she has, and I'm
+pretty sure it's also the title of the book. - Embarrassingly, I can't
+remember a lot of the actual plot though I do remember enjoying the
+book when I read it, but I think a major part of the middle part of
+the plot took place at some sort of underwater city (or maybe just on
+an island in the middle of a very wide ocean?) - There is another
+major female character who becomes very important to the heroine, but
+I'm pretty sure that, in order to keep them both safe, the heroine
+ends up having to put them in a future where her friend doesn't know
+who she is anymore. I know that does happen in the book, but I can't
+remember if it ends up that way or if it becomes possible for her to
+fix it before the end of the book. - I'm almost certain that the book
+has a one-word title - I'm 80% sure that it was written by a woman I
+know this is very little to go on, but if it sounds familiar to any of
+you, I'd be very thankful."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

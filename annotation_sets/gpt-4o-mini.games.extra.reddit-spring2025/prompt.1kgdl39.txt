@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][1980s-1990s] Mecha Turn Based RPG Game. Platform(s):
+Nintendo Entertainment Sytesm (NES) or TurboGrafx-16 Genre: Mecha Turn
+Based Tactics with optional real time action combat Estimated year of
+release: 1980s-1990s(?) Graphics/art style: Lots of Mechas Notable
+characters: Plot featured 2 brothers on different sides of the
+playable campaign, I think between Earth and Mars in the distant
+future(?) Notable gameplay mechanics: You build mecha units each turn
+and you can either auto resolve combats or go into combat yourself
+with the mecha when you engage on the map. Other details: I don't
+think it's Front Mission. The game iirc was in English, but the casing
+came with a booklet featuring all the mechs in the game, the texts
+were in Japanese though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

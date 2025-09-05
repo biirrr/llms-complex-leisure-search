@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1998] RTS, Warcraft 2 clone but with a Japan theme.
+Looking to rediscover this game I played back sometime between
+1997-1999. It came on a demo CD from a game magazine (with other demos
+like Diablo 1, and a weird side scroller called Hunter Hunted, and
+maybe the 3D game MDK). It was basically a Warcraft 2 Tides of
+Darkness clone, the UI looked very similar. But it was definitely a
+separate, stand alone game, and had some unique twists to it. I
+remember all the units were samurai like, Japanese themed, and food
+was one of the main resources. And the win screen after the first
+mission was somehow more detailed than what Warcraft 2 was. But aside
+from that, I couldnt find anything through google/ChatGPT&"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

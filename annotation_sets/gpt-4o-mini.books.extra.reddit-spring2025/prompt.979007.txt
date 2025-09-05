@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Surreal Art Where Storybook Comes Alive?. Hey Folks! Posting
+here, since I am asking about a piece of artwork with a book in it,
+not an actual book. Back in the early 90's, there was a surrealist art
+print that was really popular. It showed a young girl sitting on the
+floor, reading a book whose pages were blowing in the wind, some of
+which were tearing free and flying away, changing shape as they went.
+The seashore was coming down the hallway, right up to the little girl
+and was cleverly blended with the floor, so that you weren't sure
+whether the girl was on the floor or on the beach. There was also a
+fire on the floor. Does anyone remember the name of this print or the
+name of the artist? I'd love to find this again! Cheers, Eric"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2008-2010] Lone soldier fighting enemies in town..
+Genre: Action. Estimated year of release: 2008-2010 Graphics/art
+style: Realistic, MAYBE just a tad less graphically advanced than
+Uncharted 2 at the time. Notable characters: A man who you play as who
+has extensive combat and (stealth...?) knowledge and a woman who
+seemed to give intel to the man when they met up and was the main
+person on comms throughout missions. Notable game play mechanics:
+Maybe stealth, melee was a viable option for a lot of the levels
+despite the enemies having guns, but those guns could be picked up
+after killing the enemy. As you progressed there was some indicator in
+cut scenes that the character was getting stronger, maybe tattoos???
+Other details: Very linear game, had nothing to offer but a story mode
+i am pretty sure. Had a gritty dark atmosphere with alot of rain, a
+bluish palette. Not sure exactly what the story was, but it seemed
+like there was just certain places once used by the public now
+abandoned and overrun with thugs. from bare memories it maybe had sci-
+fi elements involved but nothing too crazy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

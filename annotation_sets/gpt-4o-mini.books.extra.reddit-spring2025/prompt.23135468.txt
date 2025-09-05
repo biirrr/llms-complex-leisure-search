@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Juvenile Fiction book about a girl who keeps track of how
+many words she says everyday. So: I probably read this somewhere
+between 2017-2019. It would've been appropriate to be put in an
+elementary school library. Reading level would be 3-6. The book was
+about a girl who kept tally marks counting the number of words she
+said everyday, and it was basically about her social anxiety. That is
+all I remember plot wise. I think the cover might've been blue, but
+that could also be entirely made up. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

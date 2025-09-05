@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance - Young woman revisits her past loves. A young
+girl reads that women are more likely to find their true love within
+the first 7 people she dates. After reading, she fears that she missed
+out on the love of her life, and goes back to revisit her past lovers
+in hopes of finding the one that she was meant to be with. This book I
+believe was released recently as I saw it in December 2024-the
+beginning of January 2025 on a table in B&N. The cover was red, and
+the people on it were illustrated. Author didn't seem to be well known
+as I can't recall her name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Commodore 128][1980s] Multiplayer Turn Based. This was a
+multiplayer turn-based game that had you each pick a spot of land and
+then you had to grow crops, harvest them and complete various other
+tasks against each other. I only got to play it once but it left a
+lasting memory. It may have even been an educational game. I just
+remember it was disk based on the C128. The graphics were very simple
+line art to represent crops etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

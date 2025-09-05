@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 1990s] Fantasy Adventure game. Game would have
+been DOS based and published early to mid nineties. 95 at the latest
+but I think more like 92. It was an adventure game that used a SCUM
+like interface, but not exactly. Pretty sure it was optimized for EGA
+graphics and most of the images were static backgrounds, although well
+done for the time. Lot of red and yellow in the pallet. What I
+remember of the plot was that it was a fantasy setting with multiple
+races of humanoid people. The focus I remember was two groups that
+were very similar looking except one what black hair with silver tips
+that were considered the working/poor class. The character you played
+was this race. The other race has silver hair with black tips. These
+were the wealthy ruling class. At one point you died your hair to
+blend in with them and you were a stowaway at another point in the
+game. Pretty fuzzy on anything else with the game. Tried looking
+through abandonware sites and asking chatGPT with now luck. Must have
+been somewhat obscure or I am miss remembering something significant."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

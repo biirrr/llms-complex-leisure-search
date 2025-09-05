@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] i wanna find this. There is an old game that
+I failed to play well as a child because my English level was below
+zero. The game starts with a truck I think, and a black car comes out
+of it. The game is 3D and from a third-person perspective. I think the
+game hero is an agent or something similar. And there is logo of a
+black horses head, either in the game icon or on the truck. Hope
+someone know it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

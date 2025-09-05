@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA? Fiction. Lady is hired to write about a child star,
+flies out to live near and follow the actress around. Read 2018-2023.
+[s]. The writer flew out to live near the star and followed her
+around. What is sticking out to me the most is near the end the star
+is accused of doing drugs and the writer finds out her and her family
+have been faking everything for the media coverage. I'm sorry it's so
+vague. I appreciate all the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Wild forest camping romance book series.. Hi!
+I read a romance book series a few months ago, but cannot find in
+browser or download history, nowhere. Tried google, chatgpt but no
+success:( It might be kind of adult romance because of scenes. Series
+has 3 men (maybe friends) who own a forest wild camping tour place
+thing. I think there are 3 books in the series. Read the books a few
+months ago, I think they might have been released in the last 4-6
+years, but don't want to guess as I really don't remember. Feels
+modern. 1st book: woman goes to the multi-day camping tour thing and
+meets one man who is the tour leader. There might be some action, as
+woman sees illegal hunting man or something. 2nd book: woman with baby
+boy goes to work at this tour place (starts in the office) and meet
+second man. There is a scene where the woman was invited to dinner by
+locals (maybe lead from 1st book), her kid is crying, someone rings
+the door, she opens the door with her kid, there is the male lead, who
+takes the baby from her and the baby stops crying. 3rd book: I think
+third male lead is leading a camping group, they are bachelor and
+bachelorette party from the same wedding, and male lead like a woman
+from the group. Thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

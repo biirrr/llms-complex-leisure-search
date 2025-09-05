@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018-2021]? Indie space game I'm not sure it ever even
+released. The dev streamed himself making the game to youtube a lot.
+All I can remember was there was a desert planet and a lot of
+vehicles. The character was a voluptuous humanoid woman.. I remember
+the dev was named snyff or something like that, he also made some
+music one piece being russian hardbass where the video showcased two
+balclavad individuals in a katyusha bouncing over terrain. Life of
+Boris had commented under that video. I also remeber the dev had a
+deviantart and had uploaded an image of the main character having
+eaten several live rabbits. He had also uploaded a song which was a
+mix of himself sniffing repeatedly, I think it was because in one of
+his streams he was sniffing a lot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

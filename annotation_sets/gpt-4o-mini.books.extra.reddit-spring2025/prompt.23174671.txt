@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children/ YA Fiction. Black boy grows up in apartheid South
+Africa. Read 2009.. Book begins with main character as a young child.
+His mother works for a white family, he befriends their white son who
+is his age. Near the end of the book the mc fights with the rebels to
+end apartheid. He is going to kill a white soldier before realizing
+it's the kid he used to play with. The mc lets him live but tells him
+the next time the mc will kill him. Read in 2009. Unknown publish
+date."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Graphic novel/ Comic book about two girl best friends
+separated by one of them graduating middle school. I think this was
+the first in a series of graphic novels, but it was about two girls
+who went to the same school (no uniforms) and they hung out all the
+time but one was older than the other and she was set to graduate the
+middle school. For some reason I really want to say one of the girl's
+names was Nora, but I can't be certain. I think they liked to
+skateboard and the art style was very sunset-y: lots of oranges and
+pinks and sky blues. I remember them discussing that the younger girl
+would be okay once the older girl left but the younger girl didn't
+have any friends besides the older girl. I believe I read this book
+around 2011 or 2012 and it was at the library, but it was a fairly new
+book, maybe it came out in 2010? I would like to know if it's a
+series, plus I think there was a sneak peek of the beginning of
+another book at the end of it from the same publisher, I'd also like
+to read that graphic novel as well. I hope this is enough information,
+I really don't remember much else sadly"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

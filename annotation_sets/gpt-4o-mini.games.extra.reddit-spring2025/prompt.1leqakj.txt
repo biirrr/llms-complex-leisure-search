@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990's - Early 200s] FPS Moon/Space game on a demo
+disc. Platform(s): PC Genre: FPS Estimated year of release: 1990 -
+Early 200s Graphics/art style: 3D, Space, mostly on what seemed to be
+the moon / surface of an asteroid, very dark blue hue. Notable
+characters: N/A Notable gameplay mechanics: Spawned near a space
+station with several vehicles that had weapons mounted, one of them
+notably had a 'shark face' painted on the front Other details: Not
+much to work with here, used to just load up the CD jump into one of
+the 'tanks' and just wander around what seemed to be a deserted moon
+base / asteroid surface, remember finding enemies a couple times. I
+remember the CD was a demo from what i assume is a developer, yellow
+logo with a bigger X In the middle (Extreme maybe? single word)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Romance about a runner who meets a girl who isn't how he
+imagined his dream girl. Read around 1994-1998.. The protagonist is a
+young adult/ teenager who likes to run, he wants to be a good runner,
+but he doesn't join a club, he just runs by himself. He often imagines
+a girlfriend, but he never sees a face. At some point in the book he
+meets a girl (whose name is Laura, if I remember correctly). And Laura
+is very different from how he imagined his girlfriend, but he falls in
+love with her. Then the book is about their relationship and their ups
+and downs. I read the book around 1994-1998, it must have been
+published in the 80s or the 90s. If I remember correctly the book is
+set in the United States, but I can’t give any more information.
+There’s frequent mention of a runner named Zola Budd. I read the book
+in German back then, but I think it was a translation from English. If
+I remember correctly the protagonist’s name was Brice or something
+similar and the name of the girl was Laura. I hope someone can help me
+find the book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

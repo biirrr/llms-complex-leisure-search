@@ -1,0 +1,45 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Web] [~2013] Minecraft resource pack generator website with
+preset textures as options. *Hoping this is fine? I don't know where
+else to ask.* **Platform(s)**: Web, for Minecraft Java **Genre**: An
+online resource/texture pack generator **Estimated year of release**:
+Not sure. I remember it supporting 1.7 and 1.8, so it was very likely
+around in 2013. (One of its options was asking if your enchanting
+table should include a lapis slot, which was a feature added in 1.8. I
+think I used this website when those versions were around as well.)
+**Notable mechanics**: It was a resource pack generator website. It
+looked like your typical website at the time, with an image banner at
+the top and a sidebar on the right. It was *not* a web application
+like NovaSkin; you created the resource pack using a typical website
+form. You didn't draw textures; it was all preset textures. It's
+somewhat similar to how the [Vanilla Tweaks
+website](https://vanillatweaks.net/picker/resource-packs/) works, but
+instead you picked and chose from a long page of a bunch of multiple
+choice questions. Additionally, the texture pack had its own design
+language different from Minecraft and aimed to changed every texture
+in the game. Sometimes there will be some guest artists, and from what
+I remember, those options would be labeled in a different color. A
+common theme is including an option for fun that was consistently
+centered around something. Like a slot in an inventory could be that.
+I want to say it was a creeper, but it could've been something else
+like a sunflower or a pumpkin...? **Graphics/art style**: It was a mix
+of cartoon and realism. [The closest I found online in style is the
+Majestica resource
+pack](https://modrinth.com/resourcepack/majestica/gallery). I also
+remember the font being similar in style to the font used in Terraria.
+I'm unsure if this applied to the in-game font, or just the website
+style. I'm almost 80% certain the banner at the top featured multiple
+creepers looking downwards to you. **Other details**: I want to say it
+was called something like The Planetary? Or The Plantary? Nothing has
+yielded results under that name for me. The text tone was also
+decently witty."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

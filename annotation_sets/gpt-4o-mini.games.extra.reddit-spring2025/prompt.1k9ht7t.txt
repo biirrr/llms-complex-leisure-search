@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Mid 1990s] Footballmanager game for Borussia
+Dortmund/BVB. Hey there.. this is literally my first post ever on
+reddit and I really hope I don't eff this up. I'm looking for my very
+first PC game ever. A Footballmanager game where you could only manage
+a single club, the german Club Borussia Dortmund. Iirc it must be from
+around 1995-1997 and was a DOS game. It included pretty much every
+aspect of managing. From stadium, to sponsorship and from hiring new
+players to slight trainer aspects like setting a tactic for the games.
+One thing I remember - if that helps - is, that you could hire some
+players like Lars Ricken with stats at all 0 who where pretty much the
+best of the best in the game and if you trained them, they got worse.
+Does anyone have a clue what game that was? Or maybe even can provide
+a link?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

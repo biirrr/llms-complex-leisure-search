@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [Early 2000] A bizarre japanese Detective game 1st
+person. First of all, Sorry for my bad english, I'm Brazilian. I
+remember that in the game intro or in the beggin was showed a scary
+crescent moon that turned into a smile. After the intro I was in a
+living room with a locked door. There was a corpse on the floor, It
+was a adult male well dressed. As far I can remember, the subtitles
+was in japanese language. I think I've found a gun next to the corpse,
+but was not possible to hold. In that room I could open the drawers
+and find a paper or a Key. The game graphics were bad. I never got
+past this part, I was like 6 or 7 when I played. Since that I want to
+find this game and get rid of my childhood's ghosts. Thank y'all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book. Boy gets a Cat for his Birthday.
+Read mid 1990s.. This is a children's picture book about a boy who
+gets a cat for his birthday. He goes downstairs on the morning of his
+birthday and unwraps all the paraphernalia he'll need for a cat. After
+breakfast (which I want to say was pancakes), they go to an animal
+shelter so he can pick out his cat. I don't remember if the plot goes
+any further than that. I want to say I remember in the pictures that
+he is drawn with a red wind-breaker like jacket (collar, no hood), and
+blue jeans. Both his parents are present and he is an only child. I
+would have read this in the mid 90s, but I remember thinking that the
+book looked older, so maybe from the 70s or 80s? TIA!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

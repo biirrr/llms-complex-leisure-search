@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2014?] choice game about party turned into murder
+mystery. i remember in the mid 2010s this choice game came out that
+was like IRL. you play as like some 18-21 year old girl who goes to
+this party and you have to make choices as to who you hang out with
+(popular bitchy clique/ loner girl/hot guy) but things start to go
+wrong when someone was like stabbed or something? i recall it being
+like a satirical dark comedy, like there was this one scene where a
+girl gets stabbed and her friend group get mad at you for getting
+blood on her phone or smth and you'd fail and have to start again lol.
+anyways jacksepticeye n loads of other youtubers played it but i
+literally cant remember what it was called or what i can search for on
+google to find it :/."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

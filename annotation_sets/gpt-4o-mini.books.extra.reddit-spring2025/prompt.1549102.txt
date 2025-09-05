@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Folktale about Having a Story to Tell. Hello, I'm not
+looking for a book, so much as a story. A long time ago I found a book
+of Scottish Folk Tales (paperback compilation, possibly a Penguin
+book, from the 70s or 80s). One of the stories (the first) was about
+Why You Should Always Have a Tale To Tell. The story is about a
+traveller who takes shelter from a storm in a house on the moors, his
+host suggests they tell stories to pass the time. However the
+traveller knows no stories so he goes to bed early. That night a sound
+wakes him and he goes outside - he is then chased across the moors by
+*something* and tries to escape by swimming a river etc etc The next
+morning he is back at the house and leaves as soon as possible. The
+last thing his host says to him is about how now he'll always have a
+story to tell. Does anyone know a version of this story? Or the book
+it was in? I'd really like to rediscover the details! Many thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book about MLK, Jr. written by a racist [s]. I found a book
+at a used book store years ago about Martin Luther King, Jr. It was
+written by a preacher (I'm pretty sure). I didn't have to get very far
+into it to realize it was written by a racist. It was an awful book,
+but it was a very interesting look into the mind of a 60's racist. The
+book was written in the 60's. Any ideas? I'm very curious to see who
+wrote this book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

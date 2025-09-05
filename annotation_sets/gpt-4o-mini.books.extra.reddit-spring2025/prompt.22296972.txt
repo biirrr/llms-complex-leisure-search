@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Grumpy hero (Will?) is professional athlete,
+takes temporary guardianship of cute, little half-sister (Ruby?) until
+brother returns, but keeps her at a distance. Heroine visiting, on
+vacation or business. Read 2021-2022.. I’m looking for a book where
+the Hero is grumpy and he is taking the guardianship of his little
+sister.... at first just until one of his brother returns. He treats
+the little girl with distance but the heroine makes him realize that
+he is doing what his father did with him. The little girl is cute and
+only wants to be with the Hero. There was a scene where he figured out
+what he was doing... the little girl tried to do many things with him
+but he rejected her and he was like be quiet and go to sleep on your
+own or we won´t do ____ anymore (things like that, I think it was
+running in the mornings but I'm not sure ) and one time he entered her
+room and she was in the center awake but making no sound. I think the
+heroine was not from the city/town, she was on vacation or on business
+( her being there was only temporary) I read this book when I borrowed
+a friend's kindle, the book didn't seem old."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

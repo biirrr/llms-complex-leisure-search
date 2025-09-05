@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console] [2023/4] Turn based JRPG, same combat system as
+Persona 5?. Hi everyone, this is driving me crazy (especially for
+being a brand new game in the past 2 years). Its a JRPG and Im sure
+it has the same combat and menu style as the persona games. Thats all
+I can remember, think it has quite a good review by people. Its a
+total brain itch, please someone put me out of my misery."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

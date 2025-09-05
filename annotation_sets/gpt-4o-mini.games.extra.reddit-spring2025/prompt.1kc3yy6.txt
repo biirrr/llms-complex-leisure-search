@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox/PS] [sci Fi fps] [2021] game that starts with P. Ive
+been trying to find a game that was like cod zombies but in space and
+rated T and the name started with P I think, and the name of the game
+was also the name of the ship you had to survive on and I think it
+died a few years back, I know this is very specific but it would be
+legendary if someone could help I even tried to recreate the logo but
+I'm bad at drawing"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

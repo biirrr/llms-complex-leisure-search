@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][2000s] Isometric vehicular combat war game. It had
+human vs aliens premise. Platform(s): **PS1** Genre:
+**Action/Vehicular Combat** Estimated year of release: **2000's**
+Graphics/art style: **Isometric 3D** Notable characters: Notable
+gameplay mechanics: **You can take control of different units one at a
+time** Other details: **Don't remember much but it had a Human vs
+Aliens setting (I think?). I remember a kind of 2 wheel vehicle kinda
+like a motorcycle from the alien faction that had guns on its side.
+You take control of different vehicles from tanks to choppers etc. and
+you destroy enemy bases.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

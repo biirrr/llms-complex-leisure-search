@@ -1,0 +1,14 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "70's YA fiction about a boy diagnosed with Lou Gehrig's
+disease [s]. can't remember anything else other than an athletic boy
+diagnosed with Lou Gehrig's coping with dying"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

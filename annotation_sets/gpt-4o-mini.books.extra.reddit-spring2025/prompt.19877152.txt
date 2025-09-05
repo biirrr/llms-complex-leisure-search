@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Crazy science ""what-if"" scenarios about earth. [s]. I'm
+trying to find this book I had in high school (mid to late 80's).
+There'd be different ""what-if"" scenarios about science. The ones I
+can remember were about the earth, but I don't remember if they were
+all about the earth. Each scenario would have a full page drawn
+picture, and the other page would describe the scenario. The scenarios
+I remember are: 1) If there were a tube that went through the earth,
+what would happen if you fell into it? The answer was you would stop
+when you reached the center of the earth. 2) If the tube through the
+earth had no air resistance, what would happen if you fell into it?
+The answer was you would speed up until you reached the center, then
+slow down until you reached the other side of the earth. At that
+point, unless you grabbed on to something, you would fall back through
+to the first side. 3) If the earth was shrunk down to the size of a
+beach ball, would you be able to feel the mountains and ocean floors?
+The answer was that those are so small in comparison to the size of
+the earth, that the shrunken earth would be smoother than a beach
+ball."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

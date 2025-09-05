@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] 90s graphics horror game played by Markiplier. I
+really dont have much to go on since I watched the video over 10
+years ago I think. Its a horror game Markiplier played, had retro 90s
+graphic where the enviroment was 3d and the NPCs are 2d. Kind of like
+Doom graphics. Essentially from what I remember he wanders around the
+house talking to, and killing people. I dont remember much, but I
+think the premise was a house party/visiting family. I wish I had more
+to go on, but Ive been looking for so long and cant find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

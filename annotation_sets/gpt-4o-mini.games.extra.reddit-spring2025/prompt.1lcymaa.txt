@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser] [90s or early 2000s?] Futuristic 3D Flight Sim
+Combat Game. Platform(s): Browser Genre: 3D Flight Sim Combat
+Estimated year of release: 90s or early 2000s (I'm pretty sure)
+Graphics/art style: I recall that it almost looked like Star Fox 1 and
+2. Notable characters: No characters, but you could choose from a
+bunch of different spaceships that all had different stats. I don't
+think any of them were standard airplanes, but I might be forgetting
+one. Notable gameplay mechanics: The objective of the game was to
+defend a tower-like base from what I assume were alien spaceships. I
+only remember a single projectile that would vary in speed and power
+between the different ship options. The aliens came in different waves
+and I rarely got past the second wave as a kid. Other details: The
+game started on a small runway and it's one of those flight sims where
+you have to turn the engines up and down in order to speed up or slow
+down. Honestly, calling it a flight sim is entirely based on this one
+detail, I don't think you had to go through any complicated steps to
+fly it, but as a kid having to throttle the engine was complicated
+enough. I think it took place in a desert but it might have been green
+plains. There also might have been other buildings you could shoot at
+in the """"""""airport"""""""", and I think I remember trying to fly
+under one of those big plane hangers just for the fun of it. Also,
+sorry to my Computer Science teacher for playing this while I should
+have been learning. And best of luck to anybody remembering this from
+my description!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

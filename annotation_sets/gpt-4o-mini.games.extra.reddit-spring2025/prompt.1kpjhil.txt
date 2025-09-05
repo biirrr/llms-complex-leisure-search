@@ -1,0 +1,53 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010] Looking for a Action Rougelite/rougelike.. I
+remember playing an action roguelike from what i belive is 10-20+
+years by now. Where you played as a little girl who woke up in an old
+house. I believe it was a school ( or possibly an orphanage? ) And the
+goal was to climb the floors of the house using both normal and
+magical items. Fighting off mobs like you do in action roguelikes like
+The Binding Of Isaac or Hades and such. It was a very stylised game
+and looked a bit like Don´t Starve. But played more like the Binding
+of Isaac, where every floor had multiple rooms that you could explore
+and get stronger if you wanted to, or you could rush the stairs to
+climb faster. Im not sure if it had metaprogress, but I don't think it
+had ? At first, you only had normal attacks and a dodge roll. You also
+had what I think was a box of chalk? That you could use to throw as
+bombs? Or was it used to make poisonous chalk clouds? Either way, it
+was used to do fast AOE damage, but it was a consumable. I think you
+got experience from killing mobs, and when you levelled up, you got to
+pick from random items or skills to help you along the way, and you
+get everything from a magical book to a box of crayons. You started
+off fighting normal children on the early floors. And the environment
+changed more and more into the magical, depending on how far you got.
+By the middle of a run( kind of how you get to Asphodel in the middle
+of a run in Hades ) you were fighting magical plants in a garden. Then
+at the end of a run ( like Elysium in Hades ) You were fighting more
+magical things, like magically gifted children and living books later
+on in a library? I don't remember much about the bosses, but I believe
+every floor had a mini-boss and a big boss at the end, just before you
+got to a new environment. I don´t remember much of the bosses. I think
+the mini bosses were random every run, but the end boss of the floor
+was always the same. I think I remember on the first floor's mini
+bosses, there was a living fridge? And the final boss of the first
+floor was a group of older bullies, either in a cardboard mecha. Or
+the playhouse/playroom itself was the boss, and it was throwing
+bullies at you? The Garden had a giant plant monster and the Library
+had a super living big book. ( very generic, I know ) I believe there
+was either unique pre- or post-fight dialogue depending on whether you
+managed to defeat a boss before or if you died to them in the last
+run. The game did not have voice action as far as I know ( other then
+the characters grunting when hit ) And all dialogue was in text only.
+I don't remember much of the story. But I think that the in-game
+explanation to how you can restart if you die was that there were like
+1000+ clones of the main character, and every new run was magically
+reset or something? ( and presumably everyone else in the school )"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

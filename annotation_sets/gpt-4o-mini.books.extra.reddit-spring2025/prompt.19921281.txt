@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Hunger Games inspired, aliens instead of human children, YA
+or adult. Apparently I have a lot of books I cannot remember the name
+of. I believe this was a series, not sure how many books or if the
+series is even done yet, and it was sort of like the hunger games but
+instead of humans it was aliens, and it was very similar in that you
+had to kill everyone else to win. I think it was relatively recently
+released in the last say 15 years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

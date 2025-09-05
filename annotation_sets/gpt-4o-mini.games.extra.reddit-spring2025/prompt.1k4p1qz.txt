@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2010s] basic mobile driving game. Platform:
+Android (as far as I know) Genre: Racing/driving Year of release: 2013
+Art style: basic square textureless Notable characters: basic white
+car (boxy sedan shape) all vehicles could be coloured Notable gameplay
+mechanics: freeroam, mini games, lots of basic vehicles you could buy
+for coins, multiplayer. Used to play it on my old android tablet as a
+child on google play store and I just randomly remembered its
+existence today."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

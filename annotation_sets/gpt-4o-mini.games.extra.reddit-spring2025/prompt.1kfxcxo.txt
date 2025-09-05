@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][85-95] First person point and click, exploring a
+haunted mansion. Platform(s): Commodore Amiga (I think, was definitely
+a pc with 3in floppy discs) Genre: Horror/Adventure Estimated year of
+release: Some time in the 90s Graphics/art style: 2d, semi realistic,
+first person Notable characters: Skeleton ghost in a white dress that
+moved between rooms. This might be a different game but I also
+remember a groundskeeper with a gnarled face. Notable gameplay
+mechanics: Game was point and click adventure type. Pretty sure I
+remember the start as you car breaks down outside a mansion in the
+rain. Going in to ask for help I remember seeing a ghost dressed in
+white with a parasol, pretty sure she was a random encounter in the
+rooms. If you clicked on her she had a skeletal face and you got game
+over."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

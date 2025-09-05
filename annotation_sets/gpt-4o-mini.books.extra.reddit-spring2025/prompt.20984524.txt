@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance with heroine who fakes madness.
+[s]. Desiring the Highlander by Michele Sinclair seems to match your
+description. Some reviewers say: ""Ellenor pretends to be mad to keep
+people from her and protect herself."" | ""Ellenor for months pretends
+she has gone insane. She refuses to bath. She acts violent when anyone
+tries to touch her. Her family thinks she is crazy and allows Cole to
+escort her to Scotland."" Google search - site: www.goodreads.com
+""historical romance"" ""pretends to be mad"""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

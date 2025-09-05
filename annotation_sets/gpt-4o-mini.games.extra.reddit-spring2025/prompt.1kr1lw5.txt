@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [ unknown] A turn-based, rpg pvp game that takes place
+on a board like mario party. **Platform(s): I believe PC but could be
+some console as well** **Genre: Party, Turn-based, Some RPG element
+(gear)** **Estimated year of release: most likely between 2015 and
+2024** **Graphics/art style: 3D cartoonish graphics** **Notable
+characters: A king or princess that gives you a quest and then act a
+bit like toad in mario party, explaning/announcing things.** **Notable
+gameplay mechanics: Each player takes turn to throw a dice to advance
+on the board. They can find gear and ''capture'' town. If 2 players
+land on the same space they are able to fight each other.** **Other
+details: I barely watched anything about this game but I was looking
+for a party game to play and remembered it. I remember there being
+different class but I am not sure if the weapon you had equiped
+affected it or if you chose it at the start. I also remember a player
+being able to turn into a demon lord and become really strong.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

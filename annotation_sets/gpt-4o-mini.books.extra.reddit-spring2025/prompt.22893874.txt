@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Early 1990s, obscure, light female-oriented fiction. Humour
+(romance?). Like Tama Janowitz but less literary. Australian female
+author. Young woman in NY works the door of a club. Obsessed with her
+vintage frocks. Many descriptions of clothes.. I read this in the
+early 90s and it was obscure then. I definitely remember the author
+was Australian. The main character lives in a small apartment in New
+York. She’s probably skint. She is obsessed with her collection of
+vintage dresses she refers to as her frocks (but I can’t remember if
+she is supposed to be Australian?) she works on the door at a club and
+decides who gets in. Or maybe her trans friend does? There is a lot of
+description of clothing. I think there is a romance at some point but
+I can’t remember the detail."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

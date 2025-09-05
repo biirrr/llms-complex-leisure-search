@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC or Mac] [mid to late 90s] Point and Click Space
+Adventure. The game opens up with a team of astronauts who have landed
+on an asteroid. They find a chamber and activate something which then
+transports them to a strange planet. There are difficult puzzles you
+try to solve to work things out, I believe it was a point and click
+game. Sorry, I know thats not very much to go on, but we are really
+going back to a childhood memory here. I think about this game and
+want to go back and solve it someday! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

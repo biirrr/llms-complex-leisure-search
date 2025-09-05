@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Controversial book on Catholic Church
+history, Sinead O'Connor mentions she was reading in 1992 when she
+tore up Pope's picture. [s]. - Book has been published in or before
+1992 - Sinead O'Connor mentioned in an interview she was reading this
+when she tore up the Pope's picture on SNL in 1992 - I seem to
+remember the title contains 'blood' - I also seem to remember the
+title contains a repetition or a juxtaposition, as in: 'Holy See, Holy
+Grail', or 'Bloody Chalice, Holy War' (made-up titles) - I think it's
+one of those esoteric books, but it might be a proper historical study
+- The book may have been about clergy sexual abuse, but I think it had
+a broader scope on criminal dealings within the church or an esoteric
+view on christianity I can't find back the interview where she
+mentioned it, so I will be super grateful for your suggestions!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

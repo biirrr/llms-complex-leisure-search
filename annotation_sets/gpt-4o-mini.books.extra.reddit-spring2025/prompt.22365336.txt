@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction that follows a girl as she grows up to
+adulthood. It starts with a little her falling off a ski lift and
+getting buried in snow. Young troubled boy. Set in Italy or European
+country. Read around 2014. [s]. I think I read this the summer of
+2014. It was a pretty short book, softcover with a pretty simple
+cover. It was a light neutral color with something simple in the
+center of the cover (i can't remember if it was an image or just the
+title or what). The story was set in what I believe was Italy or some
+other similar European country. The book follows that life of a girl
+as she grows up and struggles with life. It starts with her as a child
+at a ski resort. She is alone on a ski lift and falls off and gets
+buried in a pile of snow. I think she might break her leg or
+something. She eventually gets found but I don't remember much else of
+the child section. I think thins is where we meet another recurring
+character, a young troubled boy who crosses her path throughout the
+book. It cuts to different points of her in life; her as a
+preteen/teenager, a young adult, etc. The section of her as a teenager
+she has developed an eating disorder (anorexia I think) and doesn't
+have a lot of friends. I think there is a birthday party involved in
+the teen chapters? When the book ends I think she is in her mid to
+late 20s. Throughout the different points of her life the boy she met
+as a kid keeps crossing her path and is dealing with struggles of his
+own. They keep getting close to each other and then ending up on
+different paths and falling out of each others lives. I think at the
+end of the boot he is a physicist or professor or something. I have
+spent the last couple hours trying to find this book and I'm hitting a
+wall. Any help on my quest is much appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

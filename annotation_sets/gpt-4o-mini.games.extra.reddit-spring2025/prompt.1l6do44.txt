@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2010-2013] [IOS] puzzle adventure game where boy goes
+through space looking for his girlfriend. i played this game as a kid
+on my iPad. it had an indie ish vibe, 2D animation side scroller, very
+bright and colourful. you play as a boy whos lost his girlfriend, i
+dont remember how, he goes to different planets looking for her and
+each level is a new planet. its somewhat physics based puzzles im
+pretty sure. level 1 i think is a tiny planet that has a different
+season on each side, theres another level where youre in a hotel
+inside the belly of this big monster/alien thing, another level is in
+a park or playground. each level has collectable items that unlock
+cute memories of the boy and his girlfriend. this game was so fun and
+id love to find it again!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

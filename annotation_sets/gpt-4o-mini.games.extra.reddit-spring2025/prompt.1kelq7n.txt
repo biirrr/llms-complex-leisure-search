@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010] 2D platformer in mini disc format. Hello
+everyone! I will try to provide as much detail as possible on this
+one. Ive been looking for this game that my parents bought me around
+2005-2010. It was actually part of a series of games in half mini
+discs made by the same developer but I dont remember the details of
+the other games. Specifically the game title something along the lines
+of Master Blaster, Monster Blaster, Monster Buster etc. The main
+character was a human like creature with weirdly shaped body that you
+control around a 2D platformer like map as far as I can remember. The
+game had various elements like bombs, watermelons (that acted as bombs
+as well?), really distinct soundtrack as well. I have a picture in my
+head but I dont know how to describe it exactly. I used to play this
+in Windows XP around that time. The title logo/graphic in the first
+word, had the image if a watermelon or was green with white stripes -
+letter O I think was masked like that. This is all I can remember. I
+will edit the post if something else comes in mind! Thank you to
+everyone who looks into this! Edit 1: The disc that stored the games
+(one disc per game) looked like this in [this reddit
+post](https://www.reddit.com/r/pcmasterrace/s/MF3MROTptC), but the
+cover if the disc was the logo of the game and a related graphic. Edit
+2: [Looking at
+these](https://www.betaarchive.com/forum/viewtopic.php?t=32063) feels
+familiar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

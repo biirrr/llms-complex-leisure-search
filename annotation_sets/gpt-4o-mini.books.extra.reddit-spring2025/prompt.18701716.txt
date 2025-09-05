@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Submarine Puzzle Book. [s]. My uncle recently mentioned a
+puzzle book he had seen several years ago (around the mid-2000s) when
+he was in a Barnes & Noble. It had a submarine theme and was next to
+the Sodoku books. He believes it may have been Japanese as well but
+cannot recall the name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

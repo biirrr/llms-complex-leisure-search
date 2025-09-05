@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens/ Teenagers fiction where female lead tries to
+expose her future stepmother as a gold digger.. i cannot for the life
+of me remember the name of this book! what i do remember is that the
+fmc was a girl who somehow had access to a magical cookbook? her and
+possibly friend made cookies that i think would reveal the stepmother
+as being a gold digger, but i can't remember. i believe there was a
+school fair/bake sale too?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction book examining scientific explanations for
+Bible stories. Author Kenneth? [s]. I read this between 2005 and 2007.
+It had a ""chatty"" sort of tone to it: the author was writing in
+third person but was clearly comfortable addressing the audience, if
+that makes sense. The author was male, I remember, and his first name
+was either Kenneth or his last name started with a K. I think the
+author had a middle initial. The cover was white with an illustration
+on it that looked like a Renaissance painting, with his name in golden
+lettering. Topics included: original manuscripts being mistranslated
+due to a lack of vowels, and the author made a joke about a game show.
+Jesus likely walked on water at low tide and across salt deposits, was
+another topic. The slaughter of the first-born sons was because they
+all tended to work long hours in fields where they were prone to an
+illness going around. I think the title of the book may have been in
+the form of a question. The edition I read was a paperback. Something
+about the typeset or the font was weird. I'll follow up with more
+details as I remember them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

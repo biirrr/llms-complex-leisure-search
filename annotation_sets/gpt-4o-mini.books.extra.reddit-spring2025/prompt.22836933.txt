@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mystery, Murder fiction. An orphan girl gets framed for the
+king's death and she's on the run trying to solve it herself.
+2015-2017. [s]. I only got to read a little bit of the first chapter,
+but the orphan girl had a family before getting adopted by the king.
+It starts off with her family getting brutally murdered order by the
+king.... I guess her actual dad did something to piss him off.... But
+for some reason her let's the little girl live and takes her. All I
+know is that the title has forest or woods in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

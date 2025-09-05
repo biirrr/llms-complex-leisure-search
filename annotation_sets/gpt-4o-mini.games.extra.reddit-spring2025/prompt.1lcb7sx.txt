@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2010-2015] Laboratory puzzle game where you play as
+lab-animals. So this game i played it back in between 2010 and 2015.
+It was a 4 player game per se, but you could play with any number of
+players and you could change between the characters as long as no one
+already was that character. The game was set in a lab with a top down
+view and you played as lab animals, you had to pass trough some
+chambers, i dont remember all of the animals, but i do kinda remember
+two one was a big and strong animal and he was blue, it was all color
+coded as far as i remember, and there was a green/purple one that was
+a rabbit/mouse with an exposed brain with telekineses power. i played
+the demo on ps3 but it could have released on other plataforms, i dont
+remember exactaly, and thanks in advance for anyone that responds"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] 2D Browser game where you fall down, killing
+monsters and swapping classes throught the level to save the princess
+at the end. At the start of every run there was a map in a style of
+super mario bros 3 maps. You needed to complete the level in order to
+progress to another one. Every level was made out of blocks and
+required you to fall down, collecting money, swapping classes to
+knight, assasin, mage, archer and killing monsters. At the end of
+every level there was a portal which ended the level and every few
+levels there was a bossfight with princess to save."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

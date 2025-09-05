@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Mid 2000s probably] [SideScroller] [2D PixelArt] [Cat
+named Kitty] The name of the game is """"""""Kitty"""""""" but I can't
+find any references to the game anywhere.. The name of the game is
+""""""""Kitty"""""""" but I don't remember if it had a subtitle. I
+played this game mid-late 2000s. The main character is a teal colored
+anthropomorphic cat named Kitty. The cat looked kind of squareish. The
+main currency of the game is Shillings. Art style somewhat similar to
+Celeste. This game came in a """"""""Games Bond"""""""" CD with 9
+other games. Other games in this CD that I recall were Centipoid -
+Snake game where the centipede eats mushrooms. Santa Claus in Trouble
+Katey Lunar Lander ILogic Roads"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

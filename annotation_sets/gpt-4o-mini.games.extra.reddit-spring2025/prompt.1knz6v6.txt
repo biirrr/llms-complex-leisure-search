@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Looking for an old DOS or MS-DOS platformer
+game. There's this game that I used to play as a kid and I have been
+searching for it for years but but had no success. I'll share as much
+details as I can. * It was a platformer game with with lots of colors.
+so it was not a very old, maybe around 1990-2000 * In the game, on
+each level you arrive via your red space ship or rocket * On each
+level you needed to find the a single gem and take it back your ship
+to proceed to the next level * First level was a jungle which had
+dinasours on it. There is gem stuck in a rock. You went around dodging
+the dinasours finding some NPC which would ask you some questions like
+what is the color of sun and on each correct answer the gem would
+reveal more from the rock. * 2nd stage was in a desert, you went
+inside a pyramid where you were required to defeat the level boss a
+mummy. To defeat the boss you needed to find a gun that shot water?
+IDK, but you needed that gun to defeat the mummy and get the gem. *
+There was a forest stage as well. All I remember about this stage is
+that there were two parts to the level. Deeper forest and outer. On
+the outer side there was a level boss a juice cup and to defeat this
+juice cup you needed to find a straw in the deeper forest. There are
+all the details I can vaguely remember. Last thing I remember it we
+used to type run cartoons.exe to startup the game. Not sure if this is
+going to help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

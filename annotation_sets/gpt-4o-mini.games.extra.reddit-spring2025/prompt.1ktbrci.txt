@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010's] game about bunny herding. It was a game about
+bunny herding. You had to herd the bunnies in between islands with the
+main goal being to get as many bunnies to the other side safely
+without having too many fall into the void. You could place a carrot
+that they could follow to avoid death traps or they could all pile on
+each other to try and get over obstacles. There were multiple bunnies
+and they could be brown, white, pink, etc. The game started with a
+comic strip type context story where i think there was an angry farmer
+they were running away from. I think i played this game in 2010-2012
+or sometime similar. There were lots of cute wahoo! noises the bunnies
+would make when they jumped."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

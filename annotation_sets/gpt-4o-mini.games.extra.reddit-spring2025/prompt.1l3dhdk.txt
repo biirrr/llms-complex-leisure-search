@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016-2018] Indie horror game popular on YouTube. Hi Im
+trying to remember the name of a game I believe markiplier played at
+some point. The plot of the game is you played as a guy who was dumb
+and hated his wife. He wanders into a building that is run by a cult.
+Over the course of the game there are intercoms that have a man who
+explains the background of the cult. By the end of the game you walk
+in on an orgy and pick up a baby. You can either choose to kill the
+baby or raise it. If you raise it it turns out to be the Antichrist.
+All the cut scenes are 2d animated with a dumb guy voice over them
+to give it some sort of comedic tone. Hope yall can help, thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

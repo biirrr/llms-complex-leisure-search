@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][EARLY/MID 2000'S][PUZZLE/POINT-AND-CLICK] help me find
+my childhood game I've been searching for yeas. It was a mystery
+puzzle and point-and-click game with a relatively realistic artstyle.
+I was born in 2006 so let's say I played it in 2012-2013 but I don't
+know how old it was. It was a PC game and the menu screen was a dark
+eerie scenery with a thick fog next to a cabin with yellow lights in
+the windows and twisted trees. The title was at the top/center of the
+screen in white but I don't remember it. The premise of the game was
+that a cabin has been ransacked by monsters and someone dear to you
+got kidnapped so you had to follow a map (with a dotted path and
+levels on it) through different places to reach and save that person
+from a monster. Throughout the game you had to battle monsters by
+making a potion in a cauldron out of things you had to find in a
+point-and-click game and the potion did damage to the monster
+(image1). There were many levels and different little games like
+puzzles: a level in a cave with stalagmites and a big opening, a
+waterfall you had to make a puzzle of, a big tree you also had to make
+a puzzle of, a level with a cart and with an ostrich egg? When you got
+to the end of the game there was this big dark archway where the
+monster was but I don't remember how you beat it, but only that you
+could see his red big eyes (image2). It had kind of a mystical air to
+it, but I loved it very much and I just can't seem to find it! Please
+help. P.S.: Also the vibe of game reminds me of these balkanic horror
+houses idk why but maybe it helps (image3)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Plane crash survival autobiography *Spoilers* [s]. I am
+unsure of the year the book was published but I believe I read the
+book in the late 80's or early 90's. It was about a father and son
+(and possibly another male (?) relative) that were flying over the
+Sierra Nevada (?) mountain range. The plane crashed in to a sheer face
+of the mountain. One person died (either killed instantly or froze to
+death?), and another (the dad?) was gravely injured. The son, who had
+a very deep gash in his lower leg ended up hiking down the mountain
+side and into the desert where he was rescued. If I remember correctly
+it was also the subject of a made for TV movie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

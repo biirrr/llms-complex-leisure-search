@@ -1,0 +1,15 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction, 1960s/1970s. Girl falls in love with strange boy
+without a coat.. 1960’s or 70’s YAL. Girl loves strange boy who is
+always outside without a coat. She thinks he’s poor but finds out he’s
+mentally ill when she sees his closet full of coats. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

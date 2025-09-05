@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Computer][2007/2008] a game about Monsters. Hi, As said in
+the title I'm looking for a game that I played on my aunt's computer
+between 2004 and 2008 I would say. Regarding the game, it was a game
+with a 3D view from above and a semi-open world. It was a bit
+cartoonish I think and it was always dark. it was in plains with a few
+mountains. We could play 4 monsters: Dracula, Frankenstein's creature
+and I don't remember the other two. regarding the objective it's quite
+vague I think it was necessary to reach the towers and enemies
+appeared, but the 3 other characters were also on the map. If you have
+any questions, don't hesitate, but that's about all I remember.
+THANKS."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

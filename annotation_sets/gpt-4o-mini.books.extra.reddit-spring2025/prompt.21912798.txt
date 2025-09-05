@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction novel/book, set in 2 timelines, one
+in present time Uk and one in the Wild West around the American Civil
+War. I read the book around 2011/2012. I think it was quite newly
+published back home (Eastern Europe). The book was translated and in
+my native language the title had something to do with
+photograph/photographer. A good ⅔ of the book is set in the wild west
+around the time pf the civil war (if I remember correctly) and the
+rest in present-time UK. The book starts in present day, with a female
+(?) character traveling to the countryside to find out more about her
+family/history. She has a picture of a woman and her baby, taken in
+the 19th century. The story then mostly focuses on the past,
+presenting this woman’s journey, how that picture came to be and how
+it links to the present-time storyline. I remember the past storyline
+to take place in america in the wild west/texas-y area, perhaps around
+the civil war period (could be before/after). I remember the
+storylines featuring native americans (as it was the wild west) and
+traveling gypsys (as the other storyline was in UK) I’ve been trying
+to wreck by mind in remembering what the book was called as I would
+LOVE to reread it. I am super thankful to all! If anything else comes
+to mind I will update!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

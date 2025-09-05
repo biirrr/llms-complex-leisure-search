@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [UNKNOWN] I can't remember this spy game. This a
+spy/secret agent game with strong humor. I remember starting the game
+in a metro where we get our mission and the last mission was a fight
+on a top of a building with a pool where we had to fight someone
+flying. all the characters looked like this https://preview.redd.it/0v
+v8al2kej6f1.png?width=757&amp;format=png&amp;auto=webp&amp;s=b4b4bc30b
+9d88ab8be68e468c4e5e038e7b083f7"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

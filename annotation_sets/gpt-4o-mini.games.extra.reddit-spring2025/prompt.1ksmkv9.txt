@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015-2020] Horror game where a creature or a ghost is
+in the black bar borders of the screen, outside of the game.
+**Platform(s):** PC **Genre:** Horror **Estimated year of release:**
+2015-2020-ish **Graphics/art style:** Indie(?), possibly low poly, but
+going for realistic **Notable characters:** A creature or a ghost or a
+corpse draped in white at the border of the screen **Notable gameplay
+mechanics:** First person, item collecting **Other details:** I think
+it might've just been a scare in a single room, and not an actual
+thing the game makes use of for the rest of the game. The room, I
+think, was a mortuary. I think I recall it first being clean and
+completely normal, but at some point you'd have to re-enter the room,
+only to find it bloodied and with one of the storage doors wide open.
+If you'd look around the room, all of a sudden you'd see something
+staring at you at the black bar borders on the sides of the screen,
+outside of the game, which makes me think the game screen was in 4:3
+ratio."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

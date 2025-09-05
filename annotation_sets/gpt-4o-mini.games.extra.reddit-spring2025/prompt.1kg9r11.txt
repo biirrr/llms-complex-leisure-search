@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ipad game] [2009-2015] Help the cat collect milk to get a
+girl cat. I just remember having to collect milk for this possibly
+ginger cat, one of the levels had you help the cat get down safely by
+opening awnings and making sure he doesn't get hit by this one grandma
+with a purse? Then the levels got more difficult, and he went to a
+circus, so you had to get him through flaming hoops and at one point
+he was on a roller coaster. Some levels had him in a dark cave. But
+that's about all I can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

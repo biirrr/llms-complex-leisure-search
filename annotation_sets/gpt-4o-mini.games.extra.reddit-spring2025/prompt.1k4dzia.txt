@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3] [2005-2010] Horror Themed Hack n Slash Game. I
+remember playing this game when I was a kid, don't remember the exact
+year but I know it was probably made around 2005 - 2010, and I'm
+pretty sure it was a remake/reimagining of a game from the 90's with
+the same name. It was on PS3 exclusively, don't think it was on Xbox.
+The art style/graphics were pretty similar to God of War, like most
+Hack n Slash games at the time. My memory of the game is really fuzzy
+so apologies if some of this is confusing. The main details I remember
+is the game takes place in some sort of hospital/asylum, and the
+protagonist gets possessed by some sort of symbiote/suit. I remember
+the suit sort of looking like Jason from Friday the 13th, think like
+super buff with a hockey mask (I don't know if it was a hockey mask
+but that's what I remember lol). I remember The dynamic between the
+protagonist and the suit being pretty similar to Venom, like it talks
+to you during the game. I think the concept is pretty similar to
+Resident Evil, I remember there being like a mad scientist of sorts
+who created a bunch of monsters/bio-weapons which are the main enemies
+you fight throughout the game. I've looked all over google but it
+seems like either everyone collectively forgot this game exists or I'm
+just making it up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

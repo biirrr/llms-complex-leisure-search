@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX] [2000s] 4 player co-op game hack'n slash.. I don't
+remember much but what i remember is: * if one of the players is close
+to the (probably) first boss of the game when itspawns. The character
+you play as will make a comment. I think the location was at a church
+or something. (there could always be a comment on the boss but im 80%
+sure the cutscene would play without a character's comment if you are
+not close enough) * Set in modern times (1970-90 ish) * One objective
+in a later mission was to kill some monsters disguised as humans in a
+disco. Killing an innocent human would cause a game over. * game had
+blood and such so at least for a bit older audience. (pretty sure
+vampires and demons were in it, hence the fake humans in the disco
+level) * Camera was in Bird perspective."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

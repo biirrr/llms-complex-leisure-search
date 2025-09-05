@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Non Fiction Table Tennis Champion with Leukemia. [s]. I
+read this book in the late 1970s and it was about a teenage boy who
+was diagnosed with Leukemia but continues playing table tennis and
+wins some championship. If my memory is correct, because of fatigue he
+had to play doubles and I don't think very many people he was playing
+with knew he was sick. The book seemed fairly recent, took place in
+the US (California?), written in English, it was a paperback. I can't
+remember much more but I now have a teenage son who is obsessed with
+table tennis and I would love to find the book to share with him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

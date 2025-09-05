@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [2010] Not Entirely Sure On This. I don't remember much
+from the game, I know that it may have been an old DS game from the
+earlier 2000s ish. The game was a pixel based game that had a top down
+view like the classic Pokemon games, it had the same type of turn
+based Combat but with 3 characters at a time, the first character you
+meet was this rockstar and you recruited them to your team, I know
+there was some sort of class system but I can't remember what it was
+for the character, but the enemies that you were fighting were
+basically just the same unique characters you could recruit but
+corrupted, like an """"""""evil"""""""" version where they have a dark
+auro or something. You would travel this world that had multiple
+sections, an Old Western Area, an Icy Area, I remember at one point in
+the game you had to get passed this sleeping gas, but you could so you
+had to travel to a disney-esque Princess Castle to recruit a Princess
+that was basically a parody of snow white, and she was immune to the
+sleeping gas so she could get through. I also remember that the final
+part of the game takes place in this matrix-esque tower, where you
+would be fighting through the tower and going up until you reach the
+final bad guy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

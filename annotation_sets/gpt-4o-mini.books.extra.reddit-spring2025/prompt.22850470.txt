@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Girl goes to grandma's? house for summer,
+depressed and anxious her whole life and has ""blue days."" Forest
+behind the house. Cousins. Spoiler?. It's about this girl who goes to
+her grandma's(?) house for the summer. her whole life she's been
+having ""blue days"" where she gets really depressed and anxious- she
+goes to therapy for it at the end of the book. when she goes to the
+grandma's and there turns out to be this forest behind the house that
+i *think* the mc calls ""the everwoods."" she's also been writing
+about ""the everwoods"" for a while but she never saw the actual
+forest until she went to her grandma's for the first time. the
+grandma's family and the neighbours are sort of against each other
+because of what i think was a fire that happened? i'm not entirely
+sure of that. i do remember that the mc has a tone of cousins there
+and ends up falling for one of the neighbour boys. i read this book a
+bit ago and really want to read it again but i can't find it
+anywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

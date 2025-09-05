@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s] Point-and-click adventure with X-mas-y
+setting. Hello there! Yesterday I had this nostalgic shower-thought of
+a game I used to play when I was younger. I'm very certain it was on
+one of those old sharewarde CDs from back in the days. It was in the
+Win95- or Win98-era. The game was a point-and-click type of game with
+a X-mas-y setting. You didn't have a character to move around, but
+only went from scene to scene. I think in the beginning you had to
+follow a trail to a hut in a wintery environment. Later in the game at
+some point you visited a street with multiple doors to shops and
+buildings left and right. One of them lead to some kind of theater
+where you had to do a quiz (1 question, 4 possible answers, multiple
+questions in succession) to get something. My younger self was never
+able to beat the game. It was English only, which was why I - German,
+not even 10 years old at that point - never managed to finish the quiz
+or generally understand what's going on apart from the obvious.
+Unfortunately this is basically everything i remember. I know it's not
+much... I'd be really impressed if anyone would actually find the
+game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "60s/70s Decorating book for Teens [s]. Although I was a kid
+in the 70s, I vividly remember reading one of my older sisters' book
+on decorating. It included hints such as painting your bedroom floor
+black. And creative uses for aluminum foil. It was a relatively short
+book (not one of those beautiful coffee table interior design tomes).
+Aimed at teens. Very groovy. With very 60s/70s illustrations. In one
+of our moves it was left behind and I have been looking for it ever
+since. Any suggestions?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

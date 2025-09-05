@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Unknown] A game where you're infected by a virus.
+I vividly remember this game, but I absolutely forgotten the name. I
+don't know the year it was released, but it's a game you can play on
+your phone from the Google Play Store. It's a game where the player
+(1st person pov) wakes up in a post-apocalyptic world, lab-like
+facility, and they have a virus. The virus manifests physically on
+their arm. With the help of a robot assistant thing, the player has to
+take care of themselves and make sure the virus doesn't kill them. The
+artstyle is pixelated (kinda like indie games I guess). It would be
+appreciated if someone found it, please!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

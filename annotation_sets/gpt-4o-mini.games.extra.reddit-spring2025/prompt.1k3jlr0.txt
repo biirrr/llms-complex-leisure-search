@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Mobile][2010's]Strange/eerie free short game where you
+clicked stuff and get different endings. I played this game on mobile
+(but it was on PC too) that was free but very short. The gameplay was
+basically nonexistent and a bit difficult to explain: you would be
+presented with a black background and you add to click on different
+options, after that the thing you clicked would appear and then you
+had to click on another option and so on until the game restarts. The
+""""""""objective"""""""" of the game was to get every single
+combination to 100% it. It was incredibly eerie since it had no music
+and it had graphics and animations similarly to
+[cyriak](https://youtube.com/@cyriak?si=63o5OAzPS3uJi0l8). The only
+other things I remember being in the game are: a bowling ball that
+opened showing that it had flesh in it; a bird serving seeds; a rabbit
+riding a tongue. I remember it being played by a channel called
+[Tapgameplay](https://youtube.com/@tapgameplay?si=s0ifpOCSffv0ZGV1)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

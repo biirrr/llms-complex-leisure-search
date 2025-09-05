@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction, autobiography - man gets job living in the
+wilderness watching for salmon eggs to hatch. [s]. I read this book
+between 1993 and 1998. I don't know when it was originally published.
+It is nonfiction and autobiographical. The author discusses a
+temporary job where he lived near a creek in the wilderness for
+several months. He was stationed there to monitor the status of some
+salmon eggs. I think he was supposed to stay there until the eggs
+hatched."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

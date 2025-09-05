@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction Memoir. Boy goes to volunteer at an orphanage to
+impress his friends, but then he gets hooked and decides to open
+another orphanage to help more children. [s]. he goes to a country
+where there is war, perhaps Arab but I don't remember. I also remember
+that he was hosted by a local family, and from their youngest son he
+learned a little of the language. to make you understand the genre,
+like Khaled Hosseini"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

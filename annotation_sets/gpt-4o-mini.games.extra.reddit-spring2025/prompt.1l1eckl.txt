@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2015??]Indie game. Can someone help me remember
+the title of a game? It was an indie game, probably from Game Jolt,
+around 1015 years old. You had to lure people to your basement, where
+you would to\*ture them. To lure someone, you had to choose the right
+dialogue lines based on their personality. The to\*ture segment took
+place in the basement and was presented as a mini-game. There were
+about 4 or 5 victims. You meet them in art gallery and parties if I
+remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

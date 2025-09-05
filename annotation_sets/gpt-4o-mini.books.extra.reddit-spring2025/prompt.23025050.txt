@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Fantasy novel. King of sea monsters emerges from sea &
+claims Earth's land. American boy trash-talks the monsters on live TV.
+King challenges boy to Olympic sporting events to determine who will
+own the surface world. Read mid 2000s. Spoiler.. A race of bipedal
+ocean creatures (picture the Creature from the Black Lagoon) emerge
+from the sea, and their king declares that his people have a claim to
+Earth's land. After all, the oceans they inhabit make up 71% of the
+planet. A human boy (I think an American) trash-talks the antagonistic
+sea monsters on live TV. Offended by this insult, the sea monster king
+challenges him to a series of Olympic-styled events. The winner,
+predictably, gets to keep the land for his people. I think half the
+events were on land and the other half in the ocean, to keep things
+fair. One of the events might have been a sparring match on land, but
+I don't know for sure. The final event is an ocean swim race. The kid
+bites the king's tail (which is illustrated with the sea monster
+comically howling in pain). But after that, a jellyfish ends up in
+their path, and the king gets stung on the rear and is seriously
+injured. The kid shows him compassion and treats his wound. When the
+total score is tallied, the kid and the rest of humanity lose the
+competition. But since the kid helped the king with his injury, he
+allows humanity to keep the surface world. The sea people dive back
+into the depths. I read this book in the mid-2000s, but it may be
+older than that. I think it was an American novel, and it had a
+handful of illustrations."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

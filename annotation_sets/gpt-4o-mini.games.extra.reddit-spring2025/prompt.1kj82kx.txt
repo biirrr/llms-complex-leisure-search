@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash Game][Unknown]Rock Band Belt Scroll Action Game.
+Platform(s):PC Flash Genre:Belt Scroll Action Estimated year of
+release:Unknown Graphics/art style:Pixel Art Notable characters:Band
+Members Notable gameplay mechanics:Contains gore, lots of black humor,
+throws CDs as an attack Other details:It has gore (for example, an arm
+being torn off in a movie), lots of black humor, throwing CDs as an
+attack, a belt scroll game, and occasional use of photographs (I
+remember a photo of a politician being used as the villain)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

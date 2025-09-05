@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy novel from 20+ years ago. A boy and a unicorn.
+Spoiler.. Does anyone remember a book about ""return of magic"" type
+disaster and a kid with a katana and a unicorn traveling companion? I
+believe the book came out in the 1990s, but I could easily be off by a
+decade or more. I'm not positive, but may have been YA. The nature of
+the disaster was all electrical devices stopped working. Guns worked,
+but ammunition was hard to get. Toward the end of the book he hits a
+town and realizes civilization has already started to reassert itself.
+People are having elections, reopening schools, etc. But due to the
+disaster he personally never went to high school so he's not sure he
+will have a place in society any more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

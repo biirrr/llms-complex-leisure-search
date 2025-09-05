@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA or chick lit, but I only remember an excerpt. This has
+been driving me crazy for literally years. I *think* it was my mothers
+which would make it some kind of adult fiction, chick lit, possibly
+romance but there's a slim chance it was also young adult. Probably
+not sci fi or any really out there supernatural stuff because that's
+never been my ""type"" even though the part I remember makes it sound
+like it could be. I probably read it in the late 90s through maybe
+2005? Possibly slightly later. I remember the book giving me a ""The
+Lovely Bones"" vibe, but it definitely wasn't it. The only part I
+remember I think was actually a story within the story. Maybe a dream
+or a retelling of something a character in the actual book had heard.
+Anyway, that part was about a girl with a really pretty older sister
+and I believe their mother was concerned that she'd get into trouble
+because she was so pretty. So she somehow turned her into this
+glittery or shimmery pink gel substance, poured her into a Tupperware
+container, and stuck her in the fridge. I think the little sister
+would go talk to her and look at her sometimes, and then one day she
+drank her. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

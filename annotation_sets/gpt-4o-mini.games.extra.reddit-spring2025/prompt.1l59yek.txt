@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][Early 2000's?] 2D Platformer/Fighter game. I
+believe it might have been for the gameboy. The only thing I remember
+about it was that it was kind of a rouge-like game where you had to
+fight things and platform over obstacles, I remember I think you
+started with a dagger, and there was a orange box in the top middle
+that showed your current weapon equipped. I think you were in knight
+armor, I can't quite remember. It was a mid-evil themed game. It might
+remind you of the old Castlevania games. Thats about all I can
+remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

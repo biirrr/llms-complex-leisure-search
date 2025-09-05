@@ -1,0 +1,15 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance novel - Australian settings. Story of Emerson
+and Malakai... Read this book in 2020, don't remember when it was
+published I put as much info as I can in the comments. Spoilers.. Are
+you sure it was spelled Malakai and not Malachi?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

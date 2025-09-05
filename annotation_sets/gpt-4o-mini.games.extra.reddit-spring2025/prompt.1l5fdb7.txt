@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc Maybe Mobile?] [Unknown] trying to find a game about a
+girl that's evil and has powers. I know the title might not make sense
+but im trying to find this game I played around 2015-2018 Maybe? I
+don't really remember what time frame it was but i remember there was
+a girl in black you played as and there was a different girl in a room
+with her and a bar at the top of the screen and to win you had to fill
+the bar up without the other girl seeing and if she saw you got sent
+to a dungeon or something like that and a game over screen came up, I
+think the girl you played as might of been a demon and the other girl
+a angel but I can't remember what they look like, and well you try to
+fill the bar the other girl would get distracted with drinking tea,
+reading books, and some other things I don't remember. I've been
+trying to find this game for a bit, i drew what i think the girls
+looked like and I hope maybe you guys can help me. (It's a quick
+sketch so I apologize for it looking bad)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

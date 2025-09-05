@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2010's] Arena Survival game against demons zombies
+and other mobs. So a couple of years ago I had this game on my phone
+where you are in a small arena and have to survive waves of first
+zombies and as more time passes and the stage gets higher more
+different monsters spawn like demons. The combat was like when you tap
+you dash in the direction of the click and it kills the mobs you slash
+through. Inbetween stages there were also bosses. I believe you
+collected blue orbs or something as mob drops. There were also orbs
+you could pick up which caused an aoe damage explosion in a circle
+around you. Searched everywhere in the play store for years, at this
+point I believe the game got removed or something. Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

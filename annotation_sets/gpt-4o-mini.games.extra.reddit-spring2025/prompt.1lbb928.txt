@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2000] Racing Game. Pretty sure it was early 2000s and
+pretty sure it was PS2 but it could of been super Nintendo. We had
+those two consoles at my grandma's house where we played this game. So
+time might be closer to 90s early 2000s. It was a racing game but it
+wasn't POV or behind the car. It was almost like a top down view but a
+little to the side so you could see a lot of the track at once. Almost
+like a FIFA camera angle. I want to say the vehicles were Monster
+truck(ish) and you could drift similar to Mario Kart. The tracks had
+some fantasy themes in the background, like you were racing around
+lava or some castles. There was rock music for the sound track.
+Cousins and I use to play this all the time and for the life of me I
+can't remember what game it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction. Man (Asian?) is convicted of Dumping
+toxic waste that kills millions even though he was unaware that his
+company did this. Is sentenced to exile on Mars. [s]. Science Fiction,
+Man (Asian?) is convicted of Dumping toxic waste that kills millions.
+Is sentenced to exile on Mars never to return to earth. The story
+follows the man after his conviction and details his life as he goes
+to mars. How he lives and his relationships etc. I read this book
+YEARS ago.. Its old. I believe it came out before 2000. I want to say
+the name of the book is ""The Red planet"" or simply ""Mars"" or a
+combination of both. I have looked here on good reads for those titles
+and have not seen the book i am looking for."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

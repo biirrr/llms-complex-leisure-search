@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows 7][90s-2000s, no later than 2012] Point and click
+adventure game about dinosaurs. **Genre: Point and click adventure**
+**Estimated year of release: 90s-2000s** **Graphics/art style: Hand
+drawn style similar to humongous entertainment games like Pajama Sam.
+if i recall correctly, most of the art style was ancient flintstone
+type stuff, given all the dinosaurs.** **Notable characters: Short,
+Fat, Green dinosaur who I believe was named Hugley? pronounced Hug-
+lee** **Notable gameplay mechanics: Played almost exactly like
+humongous entertainment point and click games. There was a feature
+where you could write a story and print it out. It was not first
+person like Myst, you always had a 3rd person perspective.** **Other
+details: Just about every character was a dinosaur. had some weird
+minigame where you would match insects into lanes. Only rooms I
+remember was a children's room with a baby sleeping too high to reach,
+and a lady at a desk where you could print out storied (I remember
+this because I did it accidentally and got yelled at, lol) I've looked
+up the name of the character multiple times and just never found
+anything, which makes me doubt if his name was actually Hugley, or if
+the game was just super unpopular, or if it maybe never existed.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

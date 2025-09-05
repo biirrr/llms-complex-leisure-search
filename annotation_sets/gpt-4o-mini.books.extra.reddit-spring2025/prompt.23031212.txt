@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Coming book about a guy trying to commit suicide. I recently
+went to “le salon du livre de Montreal” and found an English comic
+book or graphic novel where it starts off with the main character is
+standing on the edge of a building contemplating on jumping but behind
+him are hundreds of spirits waiting for him to die to claim his body.
+I think the title was along the lines of _____ just wants to die ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

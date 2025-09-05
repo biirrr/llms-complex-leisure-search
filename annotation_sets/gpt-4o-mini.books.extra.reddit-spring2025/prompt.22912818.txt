@@ -1,0 +1,40 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical Fantasy book set between the 1700s - 1800s.
+Spoilers.. I read it a few years ago. It had a prologue about a wife
+and husband who moved into a small town. The town hated a witch who
+lived in the woods nearby, but the witch was very friendly and invited
+the couple for dinner. The wife went many times and grew to like her,
+but the husband wanted to fit into the town, so she had to break the
+friendship between her and the witch. Because of this the wife's baby
+was cursed to have visions when looking into reflections. Then the
+actual book starts, the baby now older, and is shunned by most of the
+town because of her visions. But then she has a vision of a boy lost
+in the witch's woods, so she goes into the woods to save him. She
+finds him being helped by a witch. Then she trys to question the witch
+but (and I remember this exactly) almost gets trapped in a fire circle
+but the witch saves her. I remember that the witch's house was
+invisible unless you circled around a willow tree a few times. The
+Girl also had a crush on this guy from town who pretends to like her
+back, because he thought that the girl was with the witch, and he
+wanted to capture the witch to show the town how cool he is. The girl
+meets with the witch every few days to help train her to control her
+powers, (there's a whole thing with a door in her head that she should
+never open?), but eventually she convinces the town to hold a trial
+for the witch to show that she really is innocent. (I think it takes
+place around 1700s-1800s), but the girl has a vision of her town being
+destroyed. (view spoiler) [The book ends with the girl opening the
+dood in her mind and getting killed? trapped? The witch tries to save
+her but is to late. The witch makes her a very cool glass coffin at
+the wedding/funeral. (hide spoiler)] TLDR: Psycic girl meets witch who
+trains her, gets betrayed by her boyfriend, defends the witch, (view
+spoiler) [and dies at the end. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

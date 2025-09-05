@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s Picture Book. Young girl moves into new house
+(family may have built it), Gets new cool room with loft bed that's on
+top of a play house. Mom paints beautiful murals (trees, flowers,
+clouds?) on walls. Music CD? Read 2007-2010.. I don’t remember much
+else. It was a children’s picture book that was heavy on the
+illustrations. I think the cover might have been an illustration of
+the girl’s face with fireflies or stars or something like that around
+her, background was dark blue. I remember the image of her new room
+where she had a loft bed right on top of a play home, very tall walls,
+and I believe her mom had painted nature scenery like trees, flowers,
+clouds, etc. The family might have built the house themselves. I think
+the girl was scared to move in at first, but ends up loving her new
+home. I think the house was pretty big and Victorian style. Thank
+you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

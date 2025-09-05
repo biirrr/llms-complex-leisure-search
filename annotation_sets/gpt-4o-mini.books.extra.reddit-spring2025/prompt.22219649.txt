@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fiction book, Chinese woman recounts an anti
+intellectual, communist, movement that happened in her county, and how
+her and her husband (both Professors) were targeted. [s]. Around the
+time of covid, 2019-2022, a family friend recommended a memoir to me
+about a Chinese professor during an anti intellectual movement in her
+country. This sounded really interesting to me, so I added it to my
+tbr. Now, no matter how hard I look, it's nowhere to be found. I'm
+really ticked off, cause I know I added it but suddenly I can't find
+it. Does the description of this book sound familiar to anyone, please
+help me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

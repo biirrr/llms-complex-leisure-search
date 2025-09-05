@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][unknown] a game with dirty jokes in cutscene. I'm
+looking for a game i dont remember the name of but remember a scene It
+was a scene in which 2 men see a woman and say she looks familiar (she
+looks like a adult actress) The other one gets it too The woman
+approaches them and doesn't shake hands with them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

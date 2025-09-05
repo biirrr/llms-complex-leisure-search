@@ -1,0 +1,42 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Drama novel. Half Italian girl living with her single
+mom & grandma, & Two dark hair brothers whose family own a Italian
+restaurant. Spoilers.. Spoilers this is set in 1940s/50s/60s maybeis
+set in the UK or US The book mentions payphone & french letters are
+condoms A Half Italian 5 year old girl living with her single mom &
+Grandma, The mom works at a car shop. There's these two dark-haired
+Brothers who Italian family own a restaurant, They also sell ice
+cream. The girl likes the younger boy. The boys decide to sneak into
+her mom's workplace to see a new car, The mom dies that day. The
+Grandma writes in her will to leave everything to the girl, SHE dies.
+The girl is sent off to live with her Uncle's family, when the girl Is
+16 her uncle somehow has got a hold of her money. The girl meets the
+boy's family again they take her in, she starts working at their
+restaurant & meets the younger brother again. (the book goes into his
+POV) He’s a player, he brings girls to his parent restaurant give them
+free ""ice cream"" takes them to the storage area & sleeps with them.
+The girl in love with him, He's not in love with her. He takes her to
+get ""ice cream"" , she ends up pregnant, he panics. They get married,
+she gives birth. he becomes a bartender. They end up having more kids,
+3 boys with dark hair. A blond waitress come to work at the bar, he
+end up sleeping with her, he's fall in love with her. she a
+Prostitute, She pregnant, She give Birth to a blond baby girl. He
+realised he loves his wife. The blond leave, leaving the baby in her
+roommate bed. The roommate go to see him, he ask if she can look after
+the baby she says yes. The roommate who is also a hooker saves all her
+money in the baby mattress, she ends up getting killed by one of her
+customers. The police find her body & the baby. (back into the girl
+POV) his wife ends up finding out about it, leaving him takes their
+kids to go live with his parents. he ends up alone in their apartment,
+she ends up forgiving him, takes him back & the baby as her own. The
+book ends with them finding the money In the baby mattress."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

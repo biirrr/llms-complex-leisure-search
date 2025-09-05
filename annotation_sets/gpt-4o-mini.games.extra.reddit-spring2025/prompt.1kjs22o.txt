@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2000s?] Alien vs human.. Was a first person shooter,
+online with multiple players. You could choose human (normal marine
+looking types with normal machine gun starter) or aliens, you started
+off as like a spider (or the venom parasite before it attaches) and as
+you got kills/game went on you would """"""""grow"""""""" or transform
+into bigger, stronger aliens. I believe the humans did the same, i.e.
+better guns and health I don't objectively remember the end goal, but
+I do remember having bases! Idk if it was capture the flag style or
+killer. The aliens were stronger buy the humans could built turrets
+and stuff. Any ideas are appreciated! (Used to play I think in like
+2007 in computer class with a bunch of friends)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

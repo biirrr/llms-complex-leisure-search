@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "0ld magazine article by Rona Jaffe.. SOLVED: Hi, folks, I am
+not sure where to turn on Goodreads for this. I've tried searching the
+databases in the academic library where I work, but I'm not a
+reference librarian and it's not my strong suit. I've also tried
+Google, Internet Archive, ebay. Rona Jaffe published a novel called
+""Class Reunion"" in 1979. She was a graduate of Radcliffe and had
+loosely based the novel on her experiences there. One of the women's
+magazines my mom subscribed to featured an article by Jaffe about some
+of her classmates and their experiences, published around the time the
+novel was released. I am pretty sure one of her classmates was the
+daughter of conductor Leopold Stokowski. I am 99% sure this article
+was published in either McCall's or Ladies Home Journal. Mom also got
+Good Housekeeping. I would love to find this article but I'm not
+having a lot of luck with it. Is there a group on this site for
+magazines? Or is there anyone who might be able to help me? I
+appreciate it--thank you so much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

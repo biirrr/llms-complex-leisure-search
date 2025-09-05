@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Post Apocalyptic novel. After high school, discovers
+their cars won't start, EMP wiped out all electronics. Male teen (main
+char.) tries to turn neighborhood into a strong community. Read 2013.
+Spoilers. [s]. The book starts out with a teen getting out of high
+school. His and a few other cars are the only ones that will start.
+The rest will not start because they have electronics that have been
+fried by an EMP. The teen takes the popular girl home. He had never
+been able to talk to her before. They live in the same neighborhood.
+Later in the book, he ends up winning the girl over. He takes an older
+man that lives near him to town. They buy all of the water
+purification tablets from a pool store. The teen and the older man
+start to fortify the town by getting everyone to work together. They
+build a wall around the town. The teen has a small personal plane that
+he is building and learning to fly. Later in the book, the teen and
+man use the plane to fight against another group that has been
+attacking them. They drop grenades and molotovs on a small airfield.
+The book ends with a P-51 fighter plane guiding them into a landing
+strip. The plane that guides them in is a part of a group that is
+acting as a safe haven. I believe the book takes place in the United
+States. It is set in a post-apocalyptic time after all electronics
+have been wiped out. I read the book when I was in high school, 2013.
+The book was paper back and in English. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

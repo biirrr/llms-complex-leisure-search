@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy - A witch, a ""unicorn"", an elf (?)...they all
+live in a tree, and the magic is dying. Read around 1989.. Read this
+book as a kid and can NOT recall the title. I must have read it in
+1989 or so? It's a fantasy world, with a little girl witch who lives
+in a tree, and she takes care of or finds a ""unicorn"" - this is a
+""real"" unicorn which is not the fantasy/beautiful version we are
+used to. There are also a couple of other characters, and the main
+plot is that the magic is dying or leaving the land and they are
+trying to bring it back... Sorry I know this is super vague!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

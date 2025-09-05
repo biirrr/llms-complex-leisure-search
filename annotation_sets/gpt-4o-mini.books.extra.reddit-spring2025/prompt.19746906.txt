@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance, Regency London. Lord/ Earl
+advertises for wife through solicitors, thinks he's dying from
+hereditary disease, terrible headaches. Poor heroine needs money for
+sick brother. Marriage of convenience. Read 2015. Spoilers. [s]. I am
+looking for a historical romance I had read about 4 years ago. Set in
+regency England. The hero is a lord, Earl I think who advertises for a
+wife through his solicitors. He thinks he dying from a hereditary
+disease, involving terrible headaches. The heroine has fallen on hard
+times and stays with her mother and younger brother. The younger
+brother is sick and she needs money for his treatment. The heroine's
+father was abusive. I think the heroine's name is Catherine or
+Caroline or something else with C. She does not tell the H about her
+brother. They get married and later the hero comes to know about it I
+guess. Now the main plot.. and the spoiler. They come to know that the
+hero is not dying but has been given a medicine over the years to make
+him sick. His father too had been given the same. They find this when
+the heroine has some of the sweet which hero likes and is specially
+prepared for him. Turns out it's somebody very close to the hero who's
+the culprit. If somebody finds the book please let me know. It is not
+Loving the Marquess Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

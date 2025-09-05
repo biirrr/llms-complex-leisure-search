@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] Prison escape flash game that was popular on
+Newgrounds.. You are a prisoner, if I recall it was fully voice acted
+and it was all very early 2000's flash. It was a point and click style
+game with a monster, you used a piece of it's flesh which was acidic
+to melt something. The monster was a giant white or grey beast."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

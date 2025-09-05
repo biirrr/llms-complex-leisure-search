@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Hardcover literature series with black cover(s) and includes
+bookmark. This is a non specific book request, but a book series that
+I can't for the life of me find online via Google. It is a series of
+literature books, kind of in the vein of the Modern Library hardcover
+book series with green writing on the right, but this series consists
+of black covers and some type of Old English type of font in white
+that usually is on the front and/or wraps around to the spine. This
+series seems to focus on classic lit and is printed on above above
+average paper and also most or all seem to have an included cloth
+bookmark embedded in the spine to allow for the reader to mark his
+place as he goes along. If anyone can tell me the name of this series
+or publisher so I can look for these to buy that would be great, no
+amount of Googling seems to help..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

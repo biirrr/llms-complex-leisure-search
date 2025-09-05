@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Amiga][Unknown] Space shooter on a magazine cover disk. Can
+anyone help me remember the name of this game? It was on a UK Amiga
+magazine cover disk and it was space shooter. The game had your ship
+in the middle of the screen and you were in space with a star field
+shooting at enemy craft. You could rotate left or right, but your ship
+was always pointing upwards and everything but your ship rotated
+around you. You could also thrust forwards to move. If I remember
+correctly, there was a scanner with the enemies marked on it as dots.
+There was also a two player option which split the screen vertically
+in half where each of you operated independentiy of each other within
+the same game world. I honestly don't think I would remember it if you
+told me the correct name of the game, but I would recognise it from a
+screen shot or video. Any suggestions gratefully received! Edit: it
+was very similar in look and gameplay to the BBC game [Starship
+Command](https://en.wikipedia.org/wiki/Starship_Command), but faster."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

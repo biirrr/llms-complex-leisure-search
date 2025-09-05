@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000s][pc] looking for a game. It was a computer game that
+I played in the late 2000's but im not sure when it came out. The game
+started with an with a cutscene there were mideval ships that flew and
+the main characters ship crashed. You would take whats left of your
+army to find a place to set up camp where some of your soldiers turned
+to builders and you made a base to build barracks and farms to grow
+your army. You were trying to fix your ship. You could also recruit
+different """"""""heros"""""""" to your army( im not sure if they
+call3d them heros or not). I remember one hero specifically was a pale
+centaur who was cast away from the other centaur because of his pale
+skin and he used two dualbladed swords as weapons. I dont remember
+names of anyone and i think the name of the game was something related
+to besieged. It's not spellforce I know that for sure. Any help would
+be appreciated"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

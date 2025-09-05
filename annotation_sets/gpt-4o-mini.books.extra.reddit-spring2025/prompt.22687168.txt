@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Erotic Werewolf Romance novel about a college student
+who is mated to a werewolf and he stays in his wolf form and lives in
+her dorm room with her while she takes her finals. [s]. I read this
+book around 2020-2021 and I think it was written around that time as
+well. The specific book I'm talking about is book 2 in the series.
+More information I remember from book 2 is the girl best friend and
+former roommate is also mated to a wolf and they take her (the fmc)
+back to her mate's house and she stays there for a while with her mate
+in wolf form and he lives in a neighborhood with his entire pack. She
+finds out her mate is a writer and starts reading some of his books
+and discovers he's been stocking up supplies (feminine products, hair
+care etc) for his future mate. His alpha makes her a sandwich is
+something else I remember and there's a scene in the book where one of
+the pack members mate dies and he starts going feral."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

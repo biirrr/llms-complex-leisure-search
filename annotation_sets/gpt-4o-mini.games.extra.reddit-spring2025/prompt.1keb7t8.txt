@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2006-2009] Platform game Crash bandicoot-esque (but
+more open world). **Platform(s): PS2, maybe PS1 (cause backwards
+compatibility)** **Genre: Platforms, action** **Estimated year of
+release: Not sure if it was new at the time, but anywhere between
+2006-2009** **Graphics/art style: 3D, Crash Bandicoot esque style**
+**Notable characters: Orange, maybe red character with somewhat of a
+large tail** **Notable gameplay mechanics: platform game with some
+""""""""open"""""""" world sections, character could jump and could
+swim underwater** **Other details:** When I was a kid I didn't have
+any console or PC, but I had a friend that would invite me to play.
+One of the games we used to play (and really the only memory I have
+from it) is a part of a level (or part of the open world maybe) where
+you got to a river? lake? (it involved swimming) and you could swim a
+bit deep and collect something, but I can't recall if they were coins
+or another item. My blurry memory says it was an orange, maybe red
+character with a large tail (it kinda looked like the character from
+Super Lucky's Tale, if you need a comparison). At the time I thought
+games where you could dive and swim underwater looked super cool,
+which is probably why I only have that memory. Also can't recall if
+the game was single player or coop, but I would say it was coop, since
+we both played at the same time"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation][2006-2011] Guy had an evil right hand that I
+think stole magic?. I have the faintest memory of this game, I
+remembered my brothers played it, and I was too young at the time to
+actually watch/play the game. I remember that there were creatures
+that you could collect as well, but I don't remember if that was just
+a side quest or if that was part of the main gameplay. I think there
+was also a guy with a trumpet that he used as a weapon or at least
+cast some sort of spell with it but that could just be me imagining
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

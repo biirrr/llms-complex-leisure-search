@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] Space exploration and fighting game. Hello
+everyone, I just finished Outer Wilds and this experience reminded me
+of another old game that triggered my fear of infinite spaces, but I
+just remember a few images and I have no idea what the title is.
+**Platform(s):** PC **Genre:** Space exploration I guess ? First
+person view **Estimated year of release:** early 2000's **Graphics/art
+style:** Realistic, 3D **Notable characters:** None or can't remember
+**Notable gameplay mechanics:** We pilot the ship in first person view
+through space, the ship can shoot lasers, and we can fly through white
+wormholes that leads the player to another place in space with other
+wormholes. **Other details:** This is a bit blurry because I was
+little and I didn't have the habits to check how to play or if there
+was a map or something that could guide me. Also I played a very short
+time with a friend I lost contact with years ago. But from what I
+remembered it was this strange gameplay mechanic with the wormholes.
+When we pilot the ship in space, we see several white shiny dots in
+the distance, and I think they had names written directly above.
+Coming closer to one dot makes us see that they are sort of wormholes
+that looked like a big white and greeny circle with a ring, and going
+through it triggers a short cutscene when we see our ship flying
+through a white and green intersideral tunnel. Then we return to the
+first-person view in another space with others shiny dots. I can't
+remember exactly how the ship looked like, I checked if this was a
+Star Wars X-Wing game but the screenshots didn't recalled me anything.
+I also checked the Elite series but the released Elite games at this
+time are too old. I remembered it got me a little frightened because I
+felt completely lost and the space seemed infinite. Then me and my
+friend got frustrated and we played Harry Potter instead."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

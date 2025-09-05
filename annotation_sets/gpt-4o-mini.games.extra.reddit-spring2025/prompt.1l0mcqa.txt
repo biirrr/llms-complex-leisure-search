@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX] [Early 2000s?] Silly tanks, you're not people!. A game
+popped into my head today that I can't remember the name of. I think
+it was a PSX game, but potentially PS2 (which tells you how old this
+shit is). It was a 3D third person shooter where the world was
+entirely talking tanks, think Cars but less ka-chow. The tanks were
+upgradable with weapons, camo, armor, and speed buffs. I think the
+plot was you were a soldier and you save your country from being
+invaded by a highly aggressive (and mildly maniacal) general and his
+army. Does this game sound familiar to anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

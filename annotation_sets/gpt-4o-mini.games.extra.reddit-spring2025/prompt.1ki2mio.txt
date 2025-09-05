@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][UNKNOWN] A top-down game where you control a rat that
+fight with sword and shield.. Hi, first time here. Platform(s): **I
+don't know sorry, PC maybe?** Genre: **Top-down (the perspective it's
+more like hotline miami, ape out, 12 is better than 6, darkwood,
+etc)** Estimated year of release: **I don't know, sorry.**
+Graphics/art style: **2D style, dark fantasy style like tails of
+iron.** Notable characters: **The characters are rats.** Notable
+gameplay mechanics: **I don't remember any, sorry.** Other details:
+This is the thing, I'm trying to make a game, I want to make a top-
+down game with the perspective of games like **hotline miami, ape out,
+12 is better than 6, darkwood**. Some years ago I saw this game where
+you control rat knights/warriors in a medieval game with this type of
+perspective, I need to see that game because I'm searching inspiration
+in other games, I need that game's name, I hope you guys can help me
+with this. The characters are rats, in a medieval setting, they use
+armor, swords, shields, etc. The perspective is what called my
+attention, it's like hotline miami, ape out, 12 is better than 6,
+darkwood, etc. I barely remember parts of the gameplay or graphic
+style. I checked TAILS OF IRON games, and other """"""""rat""""""""
+games, but they are either 3d adventures or side scrolling games. This
+a little example of how I remember the game, like I said, that was
+years ago, and I barely remember details. [I made this in paint sorry,
+basically this is the format of the game I saw an strictly top down ga
+me.](https://preview.redd.it/2goiqeq0smze1.jpg?width=1152&amp;format=p
+jpg&amp;auto=webp&amp;s=ce197e1987581adf81e94fa82f7ff3cd7be15ba6)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Dark Romance - First scene I remember: Female lead is
+at the male lead's front door. He pulls her inside and sleeps with
+her, thinking she's an escort.. Fmc meets mmc at his house. He pulls
+her insides and sleeps with her, thinking she's an escort. She's a
+virgin. She wears doc martens. I think she works in a book store or
+library. She lives with her roommate. The second book is about her
+roommate."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

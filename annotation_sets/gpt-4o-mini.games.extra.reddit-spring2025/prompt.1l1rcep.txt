@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Zombie Survival] 2000-2008? Zombie Survival scavenging
+and wave defense.. Ive been wanting to play a game i used to play way
+back, i remember you start in an American looking town, you play as an
+average dude with maybe glasses? He looks pretty edgy if i remember
+correctly. i remember you starting out with a Snub nose revolver, and
+skills are something you would need to level up, like searching for
+loot and and shooting etc. Searching for loot would make the character
+do a half crouch and look around with like a white circle on the floor
+and if there was loot it would be highlighted. Its Third person only
+iirc, with controls that arent that great. Death would be permanent.
+You would set up a base in something like a police station, fire
+station or school, i cant remember exactly, and you would be able to
+recruit people to the base. There was some wave defense at certain
+points and i remember there being a count down of days or something
+like that. You would need to search for food,fuel and weapons etc. Its
+pretty similar to State of Decay in Gameplay, but much older. It was
+singleplayer only ( i think ) and not very popular."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

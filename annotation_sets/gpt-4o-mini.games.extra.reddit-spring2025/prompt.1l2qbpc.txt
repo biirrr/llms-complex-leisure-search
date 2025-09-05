@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s? or older] [point and click adventure] Little
+kid gets cursed and sent to the past. You play as a little blond kid,
+red shirt and black shorts. He is an annoying smartass to a guy in the
+Park. Turns out the guy is a mummy or a god or something and it curses
+him sending him to the past. He ends up at Rome and have to find his
+way to the Sphynx in Egypt in order to go back to his own time. I
+remember at one point you have to play marbles with a little girl to
+get an item. And you have to cross a river to get to the Sphynx by
+jumping on specific blocks on the water. It looked very cartoonist. I
+honestly thought this was a somewhat popular game but I cannot find it
+anywhere on the internet which is very surprising to me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

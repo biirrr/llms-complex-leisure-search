@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2012-2015] horror corridor flash game. It was a flash
+like with the same gameplay as subway surfers but it was on a dark
+corridor where you avoid monsters, by ducking, jumping, and dodging.
+The main character is an silhuete of a person holding a flashlight,
+and the corridor looked like it was from a madhouse and gets more red
+the more you progress. The monsters are a spider(witch you had to jump
+to dodge), there's one that stays on the ceiling(witch you had to
+duck), and the last one is a big monster(you had to change direction
+either to the left or the right to avoid him, you couldn't just dodge
+and keep going). I remember playing it on a bootleg friv site. And the
+game was 3d."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

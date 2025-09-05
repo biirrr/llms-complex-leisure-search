@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90's or early 2000's] A virtual pet game where
+you'd take care of a dog. I'm looking for the first game I played when
+I was a kid, it was around 2000 and I don't remember much of this
+game, I remember there was a dog and we could throw a ball and the dog
+would catch it, I'm 90% sure that it was a red ball (but maybe you had
+more options?). We could play with the dog outside and inside a house,
+but I don't remember many details. I think time would pass in that
+game, because I'm almost sure sometimes it would be nighttime. I don't
+remember any humans in the game, I don't remember the other
+interactions you could have with the dog. I just have this memory of
+my dad showing me a game and little me was fascinated with the dog
+since at the time we didn't have a real one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

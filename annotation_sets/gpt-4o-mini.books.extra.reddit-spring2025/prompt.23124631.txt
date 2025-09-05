@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Apocalyptic/ Teen Romance novel where all new babies are
+dying. Two main characters (and romantic interests) must travel west
+to find cure. Read in 2010s.. I am trying to remember the name of this
+book. Basically the main character lives in a colony following some
+disease event. All new babies born in the colony die from this
+disease. She is racing against the clock to find the cure for the
+disease. At some point I think she finds out the cure is in the
+pheromones of some man she meets who is part of an enemies to lovers
+trope with her. There is also a moment in the story where they are in
+Denver, Colorado, although the story begins on the east coast
+somewhere. I think that they walk through New York City at some point
+as well. I read this book in the 2010s and it was definitely recently
+published at that time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

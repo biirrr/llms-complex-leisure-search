@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64] [90's/2000's] fighting game from my childhood. The
+only thing I can remember from this game was one specific character.
+He had a spike on his head that he could use to impale opponents and
+throw them back over himself. I remember it having some gore (mainly
+blood from hits). The game definitely seemed like a mortal kombat
+ripoff. A quick note, This game could've also been on the genesis, but
+I'm not sure as I was very young. I'll answer any questions to the
+best of my ability."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

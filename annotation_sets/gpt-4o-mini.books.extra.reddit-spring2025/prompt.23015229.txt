@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Covert ops Adult Romance series with Heroine/ Hero who has
+psychic ability. Spoiler.. Book published in early to mid 2010s. Book
+is first book in a series. Series has paranormal plots (non-shifter).
+First book starts with the heroine in an airport. The description
+below other than spoiler is the first chapter only. She works for an
+airline that she is using her employee benefits to use for her ticket.
+She sees the future of the plane flight. 3 men who are part of a team
+are in the airport waiting on the same flight. The leader notices her
+and has some psychic ability as well. The 3 of them talk to her and
+thwart the plane disaster. (view spoiler) [ possibly heroine's co
+worker Tim? A baggage handler has been coerced into adding a bomb?
+(hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

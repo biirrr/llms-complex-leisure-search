@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016] Comic book style Nuclear Apocalypse Turn-Based
+Strategy with a Caravan theme. The game was an indie top-down grid
+based strategy game, with a colorful nuclear apocalypse setting. It
+had XCOM-like encounters, and then a """"""""roadtrip"""""""" style
+element that had players managing a large caravan/vehicle's resources
+like fuel, water, and radiation between fights. It had a bit of a
+weird name like """"""""X's Mad World"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

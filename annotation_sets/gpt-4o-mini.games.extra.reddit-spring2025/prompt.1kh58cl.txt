@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[COMPUTER] [PC] [2000] castle growing game. Alr so a couple
+years ago I played this game with my dad (single player but he
+watched) where you pretty much made a castle. You started as just the
+king and a small stronghold i believe, you had to defeat lions and
+stuff that attacked you and grow your castle/city. You'd build walls
+and buildings to make an army, keep the people living in your
+castle/city happy and fed and create jobs ect. I remember there being
+multiple modes, you could play against an npc that had to build
+theircity/castle next to yours and you had to fight them. You could
+just start out easy with no enemies and just chill, I remember it
+might have been on a disc but Tbh I was like 6 and I have no idea if
+that's true or not. Pretty sure the game was from before 2000 but I
+can't be sure what exact year. Solved Game's name is stronghold"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

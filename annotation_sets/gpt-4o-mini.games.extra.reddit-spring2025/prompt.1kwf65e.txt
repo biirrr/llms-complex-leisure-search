@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2.5D platform] [from 2000s] Indiana style cat pc game. I
+played this game on my friend pc when i was 10 It is 2D platformer
+(possibly 2.5D, the characters are 3d) it was from 2000s (likely
+early-to-mid 2000s) You play as An anthropomorphic cat dressed like
+Indiana Jones (trench coat, hat, etc.) The Story i remember is you
+must rescue his girlfriend on a mysterious island Key Levels I
+remember Water level Egypt-themed level (pyramids, traps, etc.)
+Volcano level (with lava hazards) It has a unique gameplay mechanics
+where you have to tiptoeing past sleeping enemies And it has Island
+customization (buying a house, pool, bar, etc, with coins you
+collected) Thanks for reading this post."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

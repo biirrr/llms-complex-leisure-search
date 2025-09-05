@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-fi series. Alien warriors fighting an insect-like
+scourge. They bring cloned bodies with them to the battle. If they’re
+fatally wounded their partner can grab and hold their essence to place
+in the new body. [s]. Sci-fi series w/alien warriors protecting
+vulnerable planets against insect-like opponents. The warriors are
+psychic, finding and training women who show signs of being
+psychically compatible to act as their partner/soul catchers. When
+they fight they bring cloned bodies of themselves, so if they’re too
+badly wounded their female partner can psychically hold their essence
+long enough to place it in the new body, leaving the other body
+behind. They are physically beautiful, but they have a hideous yet
+effective battle form. Names Chaos, Legion… Some romantic pairing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

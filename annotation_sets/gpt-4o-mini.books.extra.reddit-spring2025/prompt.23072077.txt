@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction about a young girl moving from Bosnia to the
+United States (maybe Canada?). Read around 2015-2018.. I remember
+getting a nonfiction book about a girl from Bosnia who moved with her
+family to the United States or possibly Canada. I am pretty sure that
+in the book she had a brother named Zlotco or Zlotko or something like
+that. It was in an elementary school library probably somewhere
+between 2015-2018. If I had to guess, I would say that it was
+published in the 90s or 2000s. Maybe the 80s at the earliest. The
+cover had a tank on it. I think parts of the cover were green. At
+least some of the title/on the cover it said ""Bosnia."" I remember
+the girl describing how she went to the store to pick up some
+groceries but struggled because she couldn't read that words on the
+packages, so she only got the stuff that she could see clearly. I have
+looked all over for this book and can't find it anywhere. I have even
+looked at the library's catalog, but it appears that they have since
+gotten rid of the book. The book also had pictures and I think that
+they might have of been taken on their journey, kind of like a
+documentary. It was a hardcover, library-bound, book. It was made for
+younger readers. My memories are vague and some facts have a strong
+chance to be incorrect. Thank you for any help. p.s. I remember the
+book being called ""My Life in Bosnia,"" but I can't seem to find
+anything on that. Also, A book called ""Zlata's Diary"" comes up
+whenever searching for this book, but I strongly believe that that is
+not the correct book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

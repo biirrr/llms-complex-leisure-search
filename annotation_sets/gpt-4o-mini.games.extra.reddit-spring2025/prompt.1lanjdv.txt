@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1994]PIXEL GRAPHICS SPACE GAME. I played a game back in
+the mid 90s, but I cant remember the name. The graphics were pixel
+graphics. The basic premise is that the Earth is barricaded by aliens.
+You manage to get off the planet with the last remaining ship, which
+Is a new prototype. You travel around the Solar System, encounter and
+interact with 4-6 other alien races; discover new planets and mine for
+resources; upgrade your ship, and eventually return to destroy the
+barricade, and liberate the Earth. I thought the name was Star Quest
+or Star Command or something similar, but I cant find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

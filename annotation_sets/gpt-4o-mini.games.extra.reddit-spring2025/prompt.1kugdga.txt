@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][definitely before 2013] PC rts style game. It was a
+game I remember playing between 2005-2014, and I'm sure it was a PC
+game. The game didn't have any notable characters as far as I
+remember. It had realistic graphics (as realistic as they could get
+for back then) and the loading screen when entering a level had what I
+believe could easily be an actual photo of nature, with a tree and a
+bush to the side, with the logo being written in cursive, in white.
+The picture could have been drawn too, but in a reliatic artstyle,
+however i remember it having lowered resolution. The game itself
+revolved around building a town and exploring the map, which had
+multiple biomes and if I remember correctly it also had a level
+editor. There was a dark green forest biome, a gray 'stone' biome and
+I presume there were others too. I think it was focused on resource
+management but I'm not sure. The buildings in the game were sort of
+medieval in style, and I remember towers with blue rooftops in the
+game too. I don't know if there was an enemy to fight. I remember it
+had ambient music which was rather calm rather than intense, and I
+think it had no drums. I could be wrong on this though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

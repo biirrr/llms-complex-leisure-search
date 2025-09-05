@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac][1995-2003?] Game I played in the computer lab that
+maybe includes a van??. Platform(s): Mac (pretty sure thats what we
+had in the computer lab) Genre: 3rd person learning/education game
+Estimated year of release: 1995-2003?? Graphics/art style: definitely
+cartoonish, like jumpstart vibes but its not jumpstart! Not clue
+finders. Notable characters: I think the characters were all teenagers
+or young adults? Maybe they were in band but Im not 100% sure Im
+remembering that correctly. Notable gameplay mechanics: this was a
+90s/00s computer lab game so point and click, I think it was fairly
+educational but I cant remember if it was math, typing, reading
+focused? Other details: I feel like a van was a part of the game, like
+traveling in a van? Possibly a pizza level but could be mixing this up
+with a jumpstart game??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

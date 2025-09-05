@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller Romance where girl falls in love with the
+brother of the girl she killed. Read 2012-2015. [s]. A girl goes on a
+school trip and really doesn't like one of the girls on the trip, who
+is the classic mean popular girl. A group of them decide to play a
+prank on this girl and put something over her head and take her into
+the woods at night but the mean girl has an asthma attack and dies so
+they throw her body down an old well and drop rocks on it. Later on,
+when her body is found, everyone thinks it's a horrible accident and
+they all go to her funeral where the main character meets the dead
+girl's brother and they start a relationship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction memoir about a boy growing up during the
+Depression & WWII in the American South, possibly Kentucky? [s]. This
+book was most likely published in the 1990s, no later than 1999 and
+probably a few years earlier. I remember it being a brisk read and
+containing some moving and thought-provoking anecdotes about life in
+the Jim Crow South for a young white teenager who loved jazz, the
+Jimmie Lunceford band, and played in a swing orchestra himself...there
+was a particular story in the book in which the author's parents tell
+him to go deliver a payment to their grocer, ""the Jew Ben Greene"" to
+which the boy does, asking ""are you the Jew Ben Greene?"" The grocer
+responds ""just Ben Greene, thank you, I won't tie your religion to
+your name if you don't tie one to mine"" (best recollection) and I
+remember how simply and breezily the author contributed this little
+life lesson without hammering home the details or embellishing. No
+amount of Google searching variations of the above dialogue has helped
+me and my library in Joliet, IL no longer carries the book, for I've
+scoured the shelves trying to find it. I think the state in which the
+author grew up was Kentucky, but of course I could be wrong on that as
+well as the grocer's name, etc. Any help would be much appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Dark indie horror game with sci-fi elements and
+multiple endings. **Platform:** PC **Genre:** 1st Person Horror *with*
+a science fiction setting **Estimated year of release:** *Likely*
+between 2014 and 2018 **Duration:** Fairly short, probably 45 minutes
+to 1 hour **Graphics/art style:** Gritty and cyberpunk, using a lot of
+red and black - *probably* intentionally low poly? **Notable
+characters:** Otherwise featureless human main character - *may* have
+been chased by a large fleshy but still humanoid monster at times?
+**Setting:** Space Station **Other details:** There are some scenes
+which I seem to recall quite vividly which I will describe below: *
+Throughout the space station were multiple banks of metal busts but it
+was revealed that these were actually cybernetically mutilated people
+covered in a metal skin and used for the raw computing power of their
+brains. They would usually be kept calm but there *may* have been a
+scene where the main character accidentally disrupts the power supply
+to one of these banks causing everyone connected to it to start
+screaming in horror. I recall that this was the fate of citizens of
+this future who had committed too many societal infractions (littering
+may have been given as an example of one of these
+""""""""crimes"""""""") and in one of the endings the player character
+ended up being converted into one of these cybernetic computers. * In
+another ending the player character is instead transformed into one of
+the monsters pursuing you by being strapped to an upright surgical
+table and having various chemicals injected into them and being
+irradiated. The beginning of this transformation could be seen through
+a first-person perspective."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

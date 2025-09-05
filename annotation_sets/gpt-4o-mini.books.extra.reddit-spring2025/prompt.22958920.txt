@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Book. Written pre 1970. Twin sisters who dig/do
+archeology. Some mystery/espionage. Possibly a series.. This book
+belonged to my aunt and I read it as a teen. Two teen twin girls go on
+holiday and end up finding an old grave/barrow. There is a love
+interest who also digs. They go on the run when someone tries to
+sabotage them… it’s definitely pre 1980’s possibly earlier, maybe
+60’s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

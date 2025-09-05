@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [2010] mobile island game where youre stranded and
+fish to survive. this game was on my old samsung smartphone in
+2012/2013, pretty unimpressive graphics, it was a game where youre
+stranded on an island and you walk through these jungles and stuff and
+i may be misremembering but you could also build huts. the main thing
+i remember was that you could go bear the ocean and fish. once you got
+the fish i think you could grill it on a fire. i dont remember much
+else, maybe there were other playable characters but im not sure.
+again this light be a false memory but there may have been a
+possibility to reunite with other people who were also stranded. any
+clues appreciated. edit: There were also bananas you could shake from
+trees."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

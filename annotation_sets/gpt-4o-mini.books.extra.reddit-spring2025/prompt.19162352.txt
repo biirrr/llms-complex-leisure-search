@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction for high school/college students to help them
+study. This is a book I partially read around Fall/Winter 2014 or the
+first couple months of 2015. It was a pretty new book if I remember
+right. So it probably wasn't more than a couple years old at most. The
+book had things inside to help students do things like take better
+notes, study better, etc. I also remember it having a green cover. It
+was paperback if I recall. I read part of it shortly before I got a gr
+which was May of 2015, but it was sometime during that school year
+which would've been September 2014-June 2015, but I read it around the
+middle of the school year."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

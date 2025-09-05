@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[platformer] [puzzle] [2010ish]. i dont remember from when
+it is, but its basecally a game of your character wakes up in a
+distopian nature world and a robot cuts of your arm and gives its own
+to you, then you complete puzzles trough out the world, does anybody
+know this games name?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

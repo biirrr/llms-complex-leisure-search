@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation] [2017-2020?] Strange extremely obscure game on
+the PlayStation store that, according to achievements, nobody has
+beaten even the first level. A Youtube video was made about it and I
+can't find it.. Trying to search for keywords like my title brings up
+thousands of results I am not looking for. I believe the game has
+""""""""Ninja"""""""" in the title, and adding """"""""Ninja""""""""
+to the search only made it worse because it thought I was looking for
+content from the streamer. A relatively popular Youtube video was made
+about the entire game, so it theoretically should be pretty easy to
+find, just need to use the right words. The video was at least 15
+minutes long because it was trying to figure out who the developer was
+and why they made this weird game that seemed to be designed to be
+unbeatable, yet it was for sale in the PS store. I think the game's
+name started with a """"""""Z"""""""", maybe had """"""""Ninja""""""""
+in the title, pretty sure it was two words, and pretty sure one of the
+words was Japanese (if not """"""""Ninja"""""""".) I included a
+drawing of what I remember the game looking like. It was a 2D
+platformer with a pretty low-effort style. The player character was a
+little guy with a helmet I think, and there were a bunch of platforms
+with the typical obstacles like saws on them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

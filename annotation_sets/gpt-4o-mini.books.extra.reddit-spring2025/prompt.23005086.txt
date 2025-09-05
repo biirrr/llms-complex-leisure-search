@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery that takes place in New Orleans about a woman
+that married a rich older man! Spoiler.. Hi! I read this book a while
+ago and cannot remember what it’s called- it was placed in New
+Orleans, I cannot remember the time frame, and it follows a young
+woman who married a wealthy older man. His wife has passed away from
+cancer and his group of friends are also affluent and skeptical of his
+new wife. One of his friends arrives from a trip to France with a new
+, younger wife, and the main character is suspicious that her husband
+is cheating on her with his friend’s new wife. In the end, the main
+character was actually the villain and marries the other woman? I
+can’t remember many other details other than maybe some witchcraft?
+Help! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

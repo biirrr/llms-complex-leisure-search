@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][90s]isometric dungeon puzzle game. I have a memory
+of watching a relative play a game when I was a kid. In the game, the
+character was in a square room in a dungeon on a high platform, and
+there were 2 goblin looking monsters walking on the spikes below in a
+circle. The puzzle was to pick up a box, put it on the goblins head,
+and ride the box to the next platform. The game has an isometric view,
+nes/SNES level graphics. For the life of me I can't remember or find a
+game that looks like this! It may have been on a computer or console,
+I don't remember. Thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Western Romance: Ugly Cowboy and an
+adopted woman who knows her birth mother. Read in early 2000s.. Genre:
+Western Contemporary, Contemporary Romance, Contemporary Cowboy
+Romance Plot: A women (I believe was a writer or a reporter) went to a
+rural town to shadow a female farmer/rancher (cannot remember which).
+The woman, I do believe, went by the name of Maggie. While she is
+there she meets a man in public (cafe/restaurant/store). He is ugly in
+her opinion, his skin weathered and his face plain. Later she finds
+that he is helping Maggie on her farm. At some point she either falls
+or gets thrown by a horse and ends up in a pond or a lake. He pulls
+her out and saves her from hypothermia. The rest is murky but I
+*think* there might be a secret baby plot. I stole it from my mother-
+I read it in the 00s, but I think it is possible that it was written
+from 70s-90s. Though it *may* be from the early 00s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

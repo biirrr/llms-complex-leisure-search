@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [ROBLOX] Unsettling RPG Game Inside a Game?. hope i
+formatted that right, it was like a weird vaguely unsettling dreamlike
+rpg game on a computer within the game, and there was also a fake
+internet search engine feature.. you're inside a dark room (office?)
+though nothing as far as i remember really happens in the physical
+setting, strangely avant-garde for roblox"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

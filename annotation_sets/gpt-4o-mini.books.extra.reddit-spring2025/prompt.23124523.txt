@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Dystopian/ YA or New Adult novel. Female lead either is cast
+out of a cult or leaves voluntarily. The cult leader is responsible
+for releasing a bioweapon. She takes the key to a research facility to
+develop a cure. Read late 2019.. I read this book in late 2019. I am
+unsure if anything would count as spoilers since I can't remember the
+ending, but here are more details. Any help is appreciated! The FMC
+joined the cult as a young girl because her mother experienced some
+sort of trauma. The cult leader has them living in a compound with
+tall walls, and they are not allowed to interact with outsiders. She
+had a problem with breaking rules and gets in trouble a lot. I can't
+remember if she is kicked out or if she leaves, but she goes to live
+with her Aunt in, I want to say, California. She moves into her aunt's
+RV and is readjusting to life when a viral disease breaks out. I
+believe it causes people to either act like zombies or become violent
+in some way. Her younger sister shows up at her RV with the key to the
+cure. She then begins a cross-country trek to a research facility. She
+is joined along the way by a man with whom she has a romance. He is
+either ex-military or some other kind of survivalist. At some point,
+they sleep in a truck or car overnight. I cannot remember any other
+details at the time, but I will update if I can. Thank you to anyone
+who can help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

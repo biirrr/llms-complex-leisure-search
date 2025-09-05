@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo 3DS] [pre-2015] Time rewind sword game.
+Unfortunately, my memories of the specifics are rather hazy, I'm not
+even too sure how far into the game I got but these are the best
+responses I can give. Unsure about the release date of the game but
+I'm almost sure I played it around 2014-15 ish time period. It was a
+dark gritty style of game and was definitely raining/storming at the
+beginning. The main character was a girl with a sword that could
+rewind time a small amount with a flash of green. Other things I think
+I can remember is at the beginning of the game you had to do some
+jumping/climbing and killed a short monster (goblin maybe?). At the
+end of this section a """"""""being"""""""" talks to you and sends you
+back in time much further without all the abilities you were
+introduced to."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

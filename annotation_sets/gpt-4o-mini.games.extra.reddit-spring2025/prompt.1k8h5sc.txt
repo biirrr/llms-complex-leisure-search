@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX360(maybe PS3?)][2006+][RPG] JRPG where you are killed
+at the end of the prologue and have to restart with prior knowledge
+from your last playthrough. Platform: XBOX360 (maybe PS3?) Genre: JRPG
+Estimated Year of Release: 2006+ Graphics/Art: I remember it being
+very colorful, 3rd person perspective. Don't remember any characters,
+maybe a king? Notable Gameplay mechanics: Groundhog Day-like game play
+where you relive the same day (or couple of days?) until you die and
+have to redo everything. I've looked at the entirety of the list of
+RPGs from the 360 and still can't find this game. The game takes place
+on a colorful island kingdom and at the end of the prologue, your main
+character is killed (executed maybe?) and you are basically Groundhog
+Day'd into reliving the same playthough, this time with new knowledge
+you already gained. At this point I feel like I'm gaslighting myself
+into thinking it exists. I want to say maybe its Eternal Sonata but I
+don't think that game has the Groundhog Day-like element to it, unless
+I'm mistaken?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

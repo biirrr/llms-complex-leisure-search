@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Edward Abbey essay, Grand Canyon suicide story, ironic to
+the max. [s]. I read this in one of Abbey’s many books of essay
+collections and now can’t for the life of me track it down. An east
+coast college student, from Yale iirc, drove all the way to the Grand
+Canyon to commit suicide. He parked by a place that was (in)famous for
+suicide leapers. Then he put tubing on his exhaust pipe and committed
+a gentler exit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

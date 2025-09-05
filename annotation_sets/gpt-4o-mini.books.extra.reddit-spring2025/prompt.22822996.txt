@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fiction about bond between foster siblings. Spoilers.. This
+is a fiction published I would say in the last 10 years. It's about a
+brother and sister who were taken in by the foster system and
+separated when they were in grade school. The sister gets placed in a
+home of a very wealthy family, but her parents are very strict and
+it's a very different lifestyle than what she was used to. She gets
+pregnant trying to prove she is straight but is secretly in love with
+a girl and she gets sent away to live with nuns and have an abortion.
+The boy gets arrested as a teen for trying to rescue the girl from a
+previous foster home. He spends several years in prison and is forced
+to join an extremist group to stay alive. Once he is released he fears
+the other prison members will come after him. The girl is in college
+during this story and falls in love with her social worker. She gets a
+message that her brother is in the hospital after she thought he died
+a long time ago. They go on a journey to visit the brother and he
+survives."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

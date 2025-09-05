@@ -1,0 +1,41 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Like Age of Empires but with automated units.
+**Platform(s):** PC, I think it was a Dell **Genre:** I believe it was
+isometric 2d. It was a real time strategy game with a European
+medieval, knight's and kings theme. Start with a few units and build/
+upgrade buildings and units before fighting it out with the other
+teams. I don't think their was multiplayer, I always played against
+the computer. **Estimated year of release:** I would guess 90's to
+early 2000s at most but would not swear to it. **Graphics/art style:**
+Visually it was similar to Age of Empires 1 but it was more detailed,
+at least in my memory. I can picture the knights on horses well, and
+the tax collector (I think he wore a fancy hat). It was definitely
+'realistic' as far as graphics would allow, the buildings were stone
+and wood. The map was classic rts style fog of war around your units
+until you explore into it. The flags stand out in my memory as looking
+good on buildings. **Notable characters:** The tax collector is the
+most notable unit in my memory. He was automated was would go around
+to your other buildings collecting tax. **Notable gameplay
+mechanics:** The automation is what stands out in my memory. I could
+be wrong but the major difference between this game and Age of Empires
+was the lack of control I felt I had over the units. Like the tax
+collector units would carry out tasks you set up, but on their own.
+Rather than click a builder and assign them to build you'd designate
+an area to build a building and workers would come over to build it.
+I'm not 100% on this because I think you did have more control over
+military units. It was more the resource management units. Other than
+that I think it was fairly standard rts. **Other details:** I was
+playing it around the same time as Age of Mythology, Command and
+Conquer, Diablo 2. It is very similar to Age of Empires, but those
+automated units carrying out their own little jobs sticks out in my
+mind. Please help me find the tax collector."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][2005-2011???] Run through a course and dodge
+deadly obstacles. Color palette was mostly grey and white. Art style
+was sharp and geometric with no drawn outlines, and if I remember
+correctly, your playable character was a black stick figure with a red
+headband? I also remember being able to create your own courses. Sorry
+if this is too vague, I was still a toddler back then and my memory is
+fogged."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

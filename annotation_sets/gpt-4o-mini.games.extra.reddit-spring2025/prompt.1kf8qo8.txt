@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][early 2000s late 1990s]Japanese language video game
+like Resident Evil 1 with the female protagonist looking like Jill
+Valentine with a hat and short shorts enemies are aliens you can crawl
+through small floor vents.. Basically protagonist is like Jill
+Valentine dark brunette hair color not blonde maybe has a hat or not
+but she is wearing sexy attire short shorts like Claire Redfield in
+Resident Evil 2 (original), the enemies are aliens. It's not parasite
+eve. The game is in the Japanese language, there was a section where I
+crawl or crouch and went through a small wall vent the size dogs can
+pass through. Gameplay is legit like Resident Evil 1, you can see the
+3d model and fixed camera."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][???] Psychological horror 3D pretty obscure. The game
+is a 3D psychological horror game its first person. The game of
+consist of some amount of days where you wake up water a plant eat and
+take medicine and talk trough to a person after going up stairs or
+ladder trough a trapdoor and go back to sleep then experience a
+nightmare and then repeat for some amount of days. The person tells
+the player they are not allowed to go up because of an apocalypse of
+disease or something similar its revealed at the end of the game its
+not real. The person gives the player an apple at some point. This
+game involved kidnapping and sexual abuse to a minor though it is not
+told its just implied."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

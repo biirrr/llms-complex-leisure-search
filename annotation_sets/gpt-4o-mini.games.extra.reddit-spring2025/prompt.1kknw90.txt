@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile or IOS] [somewhere before 2013 likely] [Platformer]
+wild western shooter Sepia filtered drawn artstyle.. Hey everyone, I
+was wondering if someone knew about this one game based around a 2D
+platformer handdrawn artstyle kind of platformer game, where you as
+the protagonist was a cowboy whose whole silhouette was colored red
+and the enemies were colored blue, I think I remember the first part
+of the game was a woman being kidnapped via a wagon, the levels also
+consists of space and jumping from heights ect. The bosses from all I
+can remember was possibly a blue big guy with a machine gun and the
+only last one I can remember was a giant blue robot cowboy from what I
+can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

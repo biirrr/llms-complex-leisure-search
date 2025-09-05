@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Dark Romance with scared love interest. Spoiler.. In
+the book i'm looking for the heroine's daughter is kidnapped. She ends
+up pick pocketing the wrong person in her search for her daughter. The
+person she pick pockets turns out to be a crime.Lord who also sells
+oranges. He has a scar over his eye in his partially blind. It is a
+dark romance. I don't remember if there's a sequel. Or if it's a very
+long book. At some point it changes viewpoint , and it is the child
+trying to escape her kidnapper , who turns out to be her father."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

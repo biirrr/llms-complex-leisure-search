@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[one of the older platforms] [1980s - 2000s] and old, turn
+based JRPG game with a wyvern class. So, i used to play a retro rpg
+with my dad on a hacked original Xbox he gave me as a gift when i was
+9, and i really wanted to remember the name so i could replay, but I
+just cant remember. Some things i do remember about it: definitely an
+old Japanese rpg with tons of classes, including, for sure, a wyvern
+class. Possibly it have some sort of class merger, but i cant
+remember for sure. Its not any of the famous JRPG games, and
+definitely a pre-2008 game. If you have any idea what the name is or a
+guess of what it could be, I would really appreciate it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

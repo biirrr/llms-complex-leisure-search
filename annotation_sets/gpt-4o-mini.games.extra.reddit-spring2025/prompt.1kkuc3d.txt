@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2010-2015] A game about a stickman who passes levels
+with certain obstacles. From a simple forest to a cave and a castle..
+Most likely it was on the Y8.Com website. Maybe it was on another
+site, it was supposed to be a flash game. The goal of the game is to
+pass obstacles on the way to reach the last level. Game view: on the
+first level there is a forest with obstacles in the form of wasps,
+pits and more. The first level with the forest slowly turns into a
+winter forest with themed obstacles. The game also has a level with a
+cave, pyramids, and a castle, and maybe a few more. And all of them
+have thematic obstacles Music: perhaps the first level with the forest
+had """"""""Time Machine"""""""" music. Game character: a stickman, we
+can paint him in any color we want, we can add accessories and a face.
+I don't remember exactly. Maybe this game has already been removed and
+is in the mass media. But I don't know for sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

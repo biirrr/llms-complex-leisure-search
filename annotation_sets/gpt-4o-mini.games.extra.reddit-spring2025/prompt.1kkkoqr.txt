@@ -1,0 +1,65 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NDS-N3DS][2009-2015s] What's the tittle Game?. Llegué a
+jugarlo en la Nintendo 3DS por allá en el 2015-2017. No sé que género
+es. También disculpen mi inglés, no sé hablarlo. En el juego el
+personaje principal es tiene un pelaje amarillo y hasta donde me
+acuerdo, tiene forma de pino. En el juego puedes controlar ardillas,
+hay 3 tipos de ardillas: De color rosado que son terrestres, De color
+azul que pueden volar y tienen el cuerpo de una alfombra y ardillas
+marrones que son castores y pueden construir puentes en el agua. Las
+ardillas tienen una estadística de valentía, siendo las azules las más
+cobardes. En el juego el personaje principal puede usar hechizos (que
+vas consiguiendo a lo largo de los niveles), esos hechizos tienen un
+costo de """"""""maná"""""""" (no me acuerdo cómo se llama) y también
+puedes plantar árboles que crecen con la ayuda de las ardillas.
+Además, creo que hay 4 tipos de áboles; Normales, que no hacen nada en
+especial y un tipo de árbol por cada tipo de ardilla, de los cuales
+pueden salir más ardillas. El enemigo principal del juego es la
+industrialización que destruye y contamina el medio ambiente, y como
+enemigos hay unas maquinarias que tienen forma de bellotas y salen de
+unas fábricas que tienen una función parecida a los árboles de las
+ardillas. También hay varios jefes a lo largo del juego, entre esos me
+acuerdo que el segundo jefe era un monstruo de petróleo, también hay
+uno que es el abuelo o padre del personaje principal (que está
+corrompido por la contaminación) y no me acuerdo bien del jefe final,
+pero es tan grave el jefe que las maquinarias de la industrialización
+se alían con nosotros para derrotarlo. Si necesitan algún otro detalle
+que no me acuerde ahora díganmelo, llevo ya casi 5 años buscando el
+juego, y he encontrado otros que también estuve buscando, pero todavía
+no consigo ese. Gracias por su ayuda. Aquí les dejo la traducción al
+inglés: I played it on the Nintendo 3DS around 2015-2017. I'm not sure
+what genre it is. Also, sorry about my English, I'm not fluent. In the
+game, the main character has yellow fur and, as far as I remember, is
+shaped like a pine tree. In the game, you can control squirrels, and
+there are three types: pink ones that are ground-dwelling, blue ones
+that can fly and have a body like a rug, and brown ones that are
+beavers and can build bridges in the water. The squirrels have a
+bravery statistic, with the blue ones being the most cowardly. The
+main character can use spells (which you acquire throughout the
+levels), and these spells have a """"""""mana"""""""" cost (I don't
+remember what it's called). You can also plant trees that grow with
+the help of the squirrels. I think there are four types of trees:
+normal ones that don't do anything special, and one type of tree for
+each type of squirrel, from which more squirrels can emerge. The main
+enemy of the game is industrialization, which destroys and pollutes
+the environment, and the enemies are machines shaped like acorns that
+come out of factories that have a similar function to the squirrels'
+trees. There are also several bosses throughout the game, including
+one that I remember was an oil monster, and another that's the
+grandfather or father of the main character (who's corrupted by
+pollution). I'm not sure about the final boss, but it's so powerful
+that the industrial machines ally with us to defeat it. If you need
+any other details that I don't remember, let me know. I've been
+searching for this game for almost 5 years, and I've found other games
+I was looking for, but I still haven't found this one. Thanks for your
+help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

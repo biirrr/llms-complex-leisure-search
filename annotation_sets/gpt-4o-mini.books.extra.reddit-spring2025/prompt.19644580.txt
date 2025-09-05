@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction - murdered females in a small town, one of the
+victims basically took care of her sisters [s]. I read this book in
+2016 and I remember that the cover was basically just gray with a
+water tower I think, it did have pictures of the crime scene in the
+book. One of the girl's bodies was found in an old abandoned trolley
+in the middle of the field. Another girl was found in her bathtub
+dead, she was coming home in the rain that night. One of the victims
+had a sister she was very close to and basically took care of her, I
+think I remember her having a kind of tomboy name. One of the victims
+was a nurse."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

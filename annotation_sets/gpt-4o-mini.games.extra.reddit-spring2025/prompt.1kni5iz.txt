@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360] [2000s maybe 2010s] Motorcross game. I used to
+play this motorbike and 4 wheeler game at my cousins on my Xbox 360. I
+remember it was free roam and a vivid part I remember was coming off
+this carrier boat in my vehicle to the island I was riding my bike in.
+Anybody wanna help me?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

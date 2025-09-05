@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Flash strategy game about moving troops to take
+over cities. I think I played the game around 2015-2017 on the site
+A10. The game features multiple levels where you have to gain control
+of all points (I think they were cities). There were also mines that
+you could upgrade that dug for gold in the levels. You used the gold
+(from mines and I think passive income) to create troops that you then
+order to move on a line to capture the next point. Between the levels
+I think you could upgrade and unlock troops to train within the
+levels."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

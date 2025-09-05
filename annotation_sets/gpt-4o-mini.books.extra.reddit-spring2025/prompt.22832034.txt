@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Two step-siblings move into a haunted house.
+Cover: house. Set in 1980s. Read around 1990s.. What is the name of
+this book: it is about two teens who are stepsiblings who moved into a
+haunted house that was not haunted. The female sibling had started to
+develop feelings for her stepbrother. I read this book in the '90s, I
+believe (if I am correct). The book was written in the 80s, and on the
+cover, there was a house. It looked like the book ""Trick or Treat,""
+but that is not the book I am looking for. I don't remember the title
+or the author. I'm hoping someone has heard or had this book before.
+Thank you for your time and consideration. Sincerely, Jesse"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Sue room decoration game. I'm not even sure if
+the game I'm looking for is a Sue game or not, but all of my searches
+went nowhere! I only remember playing this game in a now dead french
+flash game website called """"""""jeux.info"""""""" (that was it's
+domain before it got deleted and replaced with a new website that
+doesn't have my old childhood games). I'm not entirely sure that title
+had """"""""sue"""""""" in it but let's say I'm 80% sure. The game had
+a pink and white cute girly room that you could decorate which objects
+like pink beds,pink tables, and the most notable part of this game
+that I remember is the fact that among the items, there was a pink-
+beige ish window that showed the purple night sky with a moon, and
+another one but with an orange sky and a sun. There were also curtains
+that were made of precious stones or something, that sparkled. One was
+pink and one was blue. The game also had a pink haired and a blue
+haired girl standing in the middle of the room, which I'm sure are Sue
+and another blue haired character in the franchise (is that the right
+word?) I've been going crazy looking for it because it doesn't appear
+with the Sue games and I can't find it even after looking up the
+keywords needed. Here is a badly drawn picture I guess"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

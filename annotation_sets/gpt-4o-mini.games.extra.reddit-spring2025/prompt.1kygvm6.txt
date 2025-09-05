@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2013-2016?] some funny survival game which uses real
+videos as frames?. It's game that looks photorealistic (basically
+frames taken from a phone) and it plays kinda like a telltale game and
+its about a guy and his girlfriend fighting through zombies i think
+and theres this scene in this game where you can like watch the girl
+shower or something and then you fight a clown...Ksi played it back in
+2014 or 2015 i just cant find it been looking for it forever"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

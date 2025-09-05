@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book about a BOX high on a shelf keeping
+a big secret. Read around 2002-2007. [s]. Read this book in the early
+2000s, maybe 2002-2007. It was a beautifully illustrated children's
+book about a little girl who's parents put something important in a
+box high up on a shelf to keep from their daughter. I don't remember
+what was in the box, but it was as if it was dangerous if the little
+girl were to open it, but she was very curious and she ended up
+opening it, and it was a big deal... maybe as though she would lose
+her innocence if she opened it? I wish I remembered it better! There
+was one illustration of the box sitting high high up on a top shelf of
+a bunch of empty shelves, the room looked very tall from the way it
+was illustrated. That's all I can remember!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

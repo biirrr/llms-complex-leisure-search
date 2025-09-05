@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Space sim game similar to Astroneer, but you
+play as a rover.. I believe you were locked to a planet, but I may be
+mistaken. The building of the rover was block-based, so you would have
+different modules you could get. There were shops that would send down
+new parts when you bought them and other rovers to fight for new
+parts. Thats about all I can remember of it. I saw it in a video,
+probably around 2015-2017, but I dont remember much aside from that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

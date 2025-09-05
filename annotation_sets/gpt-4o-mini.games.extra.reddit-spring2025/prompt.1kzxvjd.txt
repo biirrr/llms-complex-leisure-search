@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][???] caring for plant/seedling dude. i have spent
+YEARSSS trying to figure out this old game i used to play. it was on a
+random website where you could play bunch of different stuff.. like
+kizi or wtvr but i know it wasnt kizi. basically from what i remember
+from the game is youre taking care of this little seedling or plant
+dude and he lives in this tiny tree stump house. you can watch tv with
+him and take him outside and you had to make sure he got water or he'd
+dry up it was a pretty short game like a click and drag. i never beat
+it because i was 7 or something the last time i played and i have
+googled it so many times i CANNOT find this game for the life of me
+and i feel like im CRAZYY. i wish i knew more about it but i was so
+young and this was looong ago. if anybody has anyy idea wtf im talking
+about pls LMAOOO cuz it was such an adorable game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

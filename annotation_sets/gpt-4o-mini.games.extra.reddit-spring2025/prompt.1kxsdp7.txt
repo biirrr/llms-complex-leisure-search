@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Year Unknown] Puzzle Game about filling the grid..
+There was this puzzle game I saw on a youtube video it was a pixel art
+game where the snake/worm had to loop around boxes to fill up the
+whole board and eat it up. I made a prototype of the game because its
+hard to explain what it is. It was a pixel art game that looks a lot
+like ufo 50. In fact I thought it was in ufo 50 but I can't find it in
+ufo 50 playthrooughs. Very pixel art grainy game of a worm eating its
+way to victory in a puzzle. The worm or snake was definitely pink. [ht
+tps://trueauracoral.github.io/lostgame/](https://trueauracoral.github.
+io/lostgame/) This was how I think the game played based on how it
+looked and my memory. You play with arrow keys to control. This is a
+crappy recreation I made in an afternoon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2024-2025] Leave on the background farming game. I may
+have the most difficult request.. I think it was a farming game you
+can leave on the background or at the bottom of the screen and you can
+come back to check progress. I remember the developers advertising it
+like that. Anyone ring a bell?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

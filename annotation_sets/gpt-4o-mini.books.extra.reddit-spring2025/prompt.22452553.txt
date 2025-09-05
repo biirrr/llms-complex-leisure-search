@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Bad Girl Rock Star gets stuck on Island
+Vacation with ex’s family. Ex Brother is in Doctors Without Borders
+and hates her but they fall in love.. The girl is a rock star with
+platinum blonde hair and she gets invited to a family vacation with
+her on-again-off-again rockstar BF (he had a dumb name like Bo or
+something). I think the mom was sick and this vacation was supposed to
+be a treat for them. The ex gets arrested in the airport for having
+drugs I think so he misses the first week of the vacation. The brother
+also invites his prim and proper ex-fling/gf to the vacation but she
+leaves early. The FMC and MMC end up spending a lot of time together
+competing and jogging early in the morning. The MMC eventually goes to
+??the Congo?? for DWB and that causes problems with their relationship
+especially since she tries to visit him and he gets scared and sends
+her back home. FMC manager was also stealing money from her. I read
+the book this year. I think it’s relatively new, like published within
+the last 5 years or so but I’m not positive."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

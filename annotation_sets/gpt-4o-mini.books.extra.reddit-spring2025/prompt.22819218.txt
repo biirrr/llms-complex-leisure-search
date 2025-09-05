@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Romance, Reverse Harem. The main character
+goes to a night club to look for the owner to ask for sanctuary, they
+end up helping her.. When the fl first goes to the club she pretends
+to be looking for a job so she ends up working at the night club . She
+also bring a letter from the fae queen calling in her favor from the
+fae ml there is also a vampire ml and I can’t remember the others or
+what the female lead is"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

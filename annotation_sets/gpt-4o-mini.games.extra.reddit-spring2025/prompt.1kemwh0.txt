@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile maybe PC] [2000-2016+] Idle Clicker Cube Shooter
+Game. I want to say the game was called, pixel block breaker, or pixel
+gun breaker, or something g like that but was unable to find anything
+beside pixel gun 3D. This game involved shooting white/red
+cubes/pixels in a 2D/3D environment (3D as you can see definition but
+no move) The game had several different guns you could use, one being
+a rocket launcher. Every couple or levels you'd have to fight a
+""""""""boss"""""""" of sorts which was just a time trail to destroy
+all the blocks. Any help would be great. Solved: Time clickers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] Pet animal desktop game. I used to play this game
+on my moms desktop computer when i was about in 1st or second grace.
+Im 21 now. The game was about taking care of your animals, and I
+believe it was in an apartment and there was also a space outside too.
+I remember the animals can get dirty and get flies over them. You have
+to fill up their food bowls. I don't remember there being mini games
+or anything, I think you just had to take care of your pets. Also they
+were normal indoor pets like cats and dogs and birds. I would play
+this game for hours and i absolutely loved it. Ive been searching
+everywhere. It was in 2D."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

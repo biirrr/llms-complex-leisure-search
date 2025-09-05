@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[big fish games pc] [2014??] you played as an art teacher,
+similar to diner dash. it was a game about how you were an art
+teacher, she had a yellow jacket i think. she also was a redhead/ had
+orange hair. you would go around the classroom helping the kids with
+their art. youd have to get them paint brushes or put their art on the
+wall or find a canvas they can paint at. i think you could get
+upgrades like roller skates to make you go faster. the kids used to
+make """"""""hm hm"""""""" noises of approval or if you gave them the
+wrong item (i forget). theyd made like a grr noise if you made them
+mad or would take too long. the walls of the clasroom were yellow. the
+kids would say """"""""please"""""""" or """"""""thank you""""""""
+when getting stuff. the kids would stand in line by the cubbies until
+you assigned them to a canvas. some kids would come in with boogers
+and theyd sneeze so youd have to get them a tissue. you have to put
+pain brushes in a certain spot to be cleaned and itd make glass cup
+noises. sorry for not using the template but this is literally all i
+got. i just remember playing it on my grandmas computer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][NEO GEO] [1990s] An endless, running, racing,
+sapciship game. I'm looking for a game like race the sun, you pilot a
+space ship through an endles way, you have to jump to avoid fall, more
+you advance more speed have the way, i don't remember what platform
+but I'm sure that must be for noe goe or nes or similar becuase I
+played it on an old emulator, thanks. I also remember they used colors
+on the game like blue, violet and more like this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

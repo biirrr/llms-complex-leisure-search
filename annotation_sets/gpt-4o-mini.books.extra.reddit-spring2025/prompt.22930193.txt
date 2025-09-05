@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Motorcycle Club Romance featuring Infidelity. I'm looking
+for a book that features a young woman and man who are forced into an
+arranged marriage by their fathers, I believe the girl's father is the
+president of the club and the mmc's dad is the right hand man. They
+get married but he's resentful and he basically abandons her to flaunt
+his mistress at the club. Meanwhile the leading lady doesn't have
+money for anything like groceries and has to walk everywhere because
+he refuses to let her have access to a car. The dads eventually find
+out what he's been doing and the are extremely upset at the man. The
+kids were neighbors growing up and the boy never liked the girl from
+my memory."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

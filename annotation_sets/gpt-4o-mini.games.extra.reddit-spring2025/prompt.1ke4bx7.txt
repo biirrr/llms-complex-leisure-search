@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBox 360][Early 2000s?] rural factory style game. Hey guys,
+me again. Theres this old game that was on XBox that Im HOPING is on
+PC too, but I cant remember what its called. Your character was your
+XBox profile character, dropped in this& little isolated village type
+place, except all the residents were super small. Like, came up
+halfway to your knee or something. You could pick them up and drop
+them in front of certain buildings or items to give them jobs like
+chop trees, mine stone, carry items from one place to another, refine
+stuff into better quality stuff, and I think the goal was to get more
+people in the village by building houses and dropping hearts on them
+to& create more little dudes? I dunno. There might have been lore, I
+dont remember. The version I played was paywalled behind XBox Gold,
+so all I could play was basically a demo, but Im an adult with a job
+now so I wanna play it in its entirety. Does anyone remember this
+game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

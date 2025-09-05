@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90s/Early 2000s] Help finding a FPS. Ive been
+struggling to find this game for YEARS& It was a FPS with incredibly
+similar graphics to the Windows 95 3D Maze game (as seen as picture)
+My memory is vague but your hands were visible as you wandered round
+and you could collect weapons and shoot characters. Remember being
+able to search in toilets for weapons and power ups? Played it as a
+kid (roughly in 2000) Havent got any more details but if anybody can
+point me in the right direction Id be very grateful!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

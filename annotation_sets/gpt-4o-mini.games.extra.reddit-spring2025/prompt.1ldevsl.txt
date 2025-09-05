@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90s-Early 2000s] Mermaids trying to save the
+ocean. Apologies in advance; I don't remember a ton about this game
+and it's driven me crazy for years. It was definitely a children's
+game, and definitely about mermaids. I believe the goal was to collect
+gemstones (or maybe the mermaids associated with them?) to save the
+ocean. The gems made a rainbow when put together. The game came with a
+purple pouch full of plastic gemstones, which I'm 100% certain of."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

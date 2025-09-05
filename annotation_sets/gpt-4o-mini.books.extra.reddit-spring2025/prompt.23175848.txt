@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Main characters were having sex at a party on
+the kitchen table while a friend sat and watched.. I read a book
+within the last couple of years where the main characters were having
+sex at a party on the kitchen table while a friend sat and watched.
+I'm pretty sure it was a bet or a reward of some sort. Pretty sure it
+was the same book earlier they were having sex downstairs and their
+friends came down and they just kept going. I think its a college book
+and I thought it might have been one of the hockey gods books or
+Penelope Douglas books but now I'm not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

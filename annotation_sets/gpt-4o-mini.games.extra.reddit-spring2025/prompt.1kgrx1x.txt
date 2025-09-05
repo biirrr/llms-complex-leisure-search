@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2010s] I just can't remember the name of this
+game. Hey everyone, today i remembered how i played some 2d android
+shooting game in middle school about 6-8 years ago. It was about some
+boy and his alien friend in a little ufo, a boy got sucked inside his
+console(or pc) and had to defeat a malware to get out. There were
+levels based on tetris, arkanoid, dk(the one where mario jumps over
+barrels and climbs ladders). Also there were different weapons(maybe
+weapon upgrades), and different skins(one referencing dragonball). It
+was a very fun and engaging game and i would be thankful if you were
+able to help me finding it. (i asked deepseek and gpt for help, but
+they're useless in this regard)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2nd chance/bully/romance/trauma fmc is tattoo artist who
+fled home after traumatic event. Adult female tattoo artist (20’s?) is
+where the mfc finds herself after running away/fleeing/disappearing
+from home/hometown after being raped by her boyfriends’s father . I
+believe they were neighbors and I recall his mother was in a
+wheelchair and the first time girl and boy meet he is moving in next
+door and bouncing a basketball against back of his moms wheelchair.
+The book bounces between current events and former. The two meet again
+,after yrs of him searching for her, when she comes home to find her
+house Full of ppl cause current boyfriend invited bunch ppl. The
+current bf is off the rails on drugs and someone either attacks her or
+gets grabby with her . The former boyfriend is there posing as drug
+supplier/buyer? But is undercover investigating her current boyfriend.
+The former boyfriend is shocked, angry and bullies her horribly as he
+is still hurt over her leaving him and not knowing why she left, but
+eventually finds out and is horrified."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

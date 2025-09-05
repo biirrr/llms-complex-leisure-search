@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens Picture Book about Trains - Includes ""waiting,
+waiting, waiting for the train. Looking down the long grey tracks"".
+Read early 1990s (book with audio cassette).. In the early 1990s
+borrowed a book with accompanying audio cassette from the library. I
+think the cover may have been greyish. I think the opening line in the
+book was ""Waiting, waiting, waiting for the train. Looking down the
+long, grey tracks"" I think the book goes on to talk about the first
+hints of the train coming - seeing the smoke, hearing the whistle,
+feeling the vibrations, etc. Possibly also about all the people
+waiting and details about various different people in the crowd but
+that is all rather vague in my mind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

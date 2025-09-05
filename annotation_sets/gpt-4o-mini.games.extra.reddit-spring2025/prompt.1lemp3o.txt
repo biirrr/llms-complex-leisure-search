@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2017-2018] 'flash game with wierd mini games'. hi i
+remember this game i used to play on my grandma's computer. i'm pretty
+sure it came pre installed and was grouped with games like solitaire
+or chess. i spent hours playing this game because i got so frustrated
+at how difficult some of the controls were. i know why it left as many
+old games did wich is because of the windows media flash player
+closing. if it helps i played it when i was 7-8 and am now 15 i liked
+the game a lot and i remember vaguely thinking the name had an
+associantion with grapes for me. there were these wierd characters and
+one of them looked quite mean he was a baker of some sorts. they had
+wierd head shapes and large feet. the layout of the starting screen
+was just a couple of buildings and if you clicked on one it would
+start to play the corresponding game i think. that's all i remeber and
+i would like to now what its called and if a reboot of the game is
+available anywhere because i remeber spending hours on it and even
+basing my art and old oc's on the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

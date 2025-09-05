@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DESKTOP] [2010s] [FPS-ish Knights in Black &amp; Yellow
+Armor goes to shoot stuff). Platform(s): Desktop Genre: FPS (I think)
+Estimated year of release: 2010s definitely Graphics/art style:
+Source-like? Notable characters: Knights in Black and Yellow armor
+with Guns and stuff Notable gameplay mechanics: There was a form of
+currency that I forgot the name of Other details: That's pretty much
+it. I remember it having a lot of memes in the Steam Community page
+referencing the currency and a lot of cool fanart."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

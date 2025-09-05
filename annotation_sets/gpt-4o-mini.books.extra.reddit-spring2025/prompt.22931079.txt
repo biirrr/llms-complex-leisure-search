@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED 60s Best Movies Book (Long Shot This). I read this
+book back in the late 60s, '67-'69. Simply the author's picks for the
+best movies of all time. It was an oversize book. The newest movie
+mentioned was ""Blow-up"" by Michelangelo Antonioni which came out in
+1966, so after that. I don't remember if it was '50 Best' or '100
+Best' or simply 'The Best' of all time or 'The Greatest'. I think it
+mentioned ""Sunset Boulevard"" as well. I know it's a long shot given
+how many of this type of book there is out there."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

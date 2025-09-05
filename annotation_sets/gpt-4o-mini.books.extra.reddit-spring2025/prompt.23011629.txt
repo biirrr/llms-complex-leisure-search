@@ -1,0 +1,41 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Two groups of people that live in the woods. One
+group consists of people called “scratchers” and have to have a healer
+that harnesses sun power to heal them. The other group are people that
+live in trees and have dogs as companions.. I vaguely remember the
+main character (who is a girl) name being Marie maybe? Or some thing
+similar. She is a mix of the the tree people and scratchers. Her dad
+was a tree person and her mom was a scratcher but also one of the
+healers. Something happens I can’t remember how but her mom dies and
+the scratcher group scatters as she was supposed to take over as
+“healer”. The l male scratchers need healing from the healer every
+month (maybe I can’t remember how often) or they get violent.i believe
+they harness the sun to do so. The women just get depressed. She ends
+up getting a dog companion as it wanders its way to her. He’s a German
+shepherd. The tree peoples dogs “choose” them and bond with their
+soul. There’s also a side story happening where a guy I think he
+represents death is destroying the forest because he takes the Pelts
+of other animals and joins them with himself. It creates a sickness
+through the land. I vaguely remember them being called skin stealers
+or something similar. This group of people eventually sets fire to the
+forest to drive the tree people out because death wants to take over
+the world. Which leads the tree people and scratchers to join up and
+find new land. There’s also different people groups that bond with
+different things. Like a man bonded with a lynx and in the third book
+people bonded with horses. It’s a three book series but I remember a
+fourth book being written during the time and those people bonded with
+wales. One the books covers depicts I do believe a cat of some sort
+and fire. I read this book a handful of years ago. I think right
+before Covid. But I’m not sure if it was new then or not. I’ve tried
+Google search with multiple different descriptions but to no avail.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

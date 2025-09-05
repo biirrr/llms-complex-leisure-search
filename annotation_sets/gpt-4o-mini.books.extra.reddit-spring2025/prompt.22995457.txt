@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror. Woman makes deal with the devil in a bar. Read
+around 2016. Spoiler.. A young woman meets a man in a bar. His name is
+Scratch, he says he’s the devil and he can give her something she
+wants. She doesn’t believe him, and drunkenly accepts his proposal. By
+the time she realizes he was telling the truth it’s too late. She is
+trapped. Her friends are granted various wishes, but they all end up
+dying horrible deaths in the end. I can’t recall much else, only that
+the story was sinister and I enjoyed it. It took place in modern
+times. I read it around 2016 or so. Can anyone help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s Picture Book (read in the 90s). A princess runs
+away because she doesn’t want to be forced to marry an ogre.. The
+princess disguises herself in a bear skin, then works in a kitchen.
+She has dresses hidden in acorns, and I remember LOVING the picture of
+that scene. I have absolutely no idea what this book is called,
+hopefully someone else knows!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

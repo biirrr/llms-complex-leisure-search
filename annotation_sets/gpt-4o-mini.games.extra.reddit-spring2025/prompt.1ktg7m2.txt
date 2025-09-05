@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown but possibly PC and/PS2/PS3][2000s] a game where a
+man can possess a person/soldier and kill them. I remember playing of
+this game when I was younger and there is a level where protagonist
+need to possess a soldier and avoid some kind of rotating wave/light.
+Help please"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

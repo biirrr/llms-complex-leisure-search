@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020] Shooter game about dinosaur bug hybrids. So a
+year or 2 ago i recall seeing the gameplay of this odd game where its
+a 2d shooter where you play as a security force that is trying to put
+down an outbreak of essentially dinosaur bug hybrids. Like i kid you
+not the """"""""queen"""""""" was even a freaking trex spider hybrid.
+I think it had """"""""meat"""""""" in its name and theres was a big
+emphasis that these hybrids are meant to be a food source (thus
+edible) and you eat parts of beaten bosses to get new abilities. Thats
+all i remember of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

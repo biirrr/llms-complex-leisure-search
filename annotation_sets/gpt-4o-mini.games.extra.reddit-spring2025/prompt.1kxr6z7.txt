@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps3?] [2018?] Possibly first person I can't remember. There
+was a game on playstation that I used to play that had a kid that went
+into a mall at some point in the game that was abandoned, and it had a
+helicopter that went through the roof and she finds a black girl that
+helps her throughout the game, google was unfortunately no help.It was
+a zombie style or post apocalyptic style game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

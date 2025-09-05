@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Before 2010] Glowing hand puzzle. First person, puzzle
+game, where you could walk around (as in not just slideshow-esque
+movement), with realistic graphics (not cartoon-y) . In the early part
+of the game you spawn in a barren area next to an RV/mobile home and a
+ravine, therere a few rope bridges inside the ravine and you can walk
+around them and the rocky paths etc, theres a bunch of large square
+buttons in the walls with a hand print on them, and when you press
+them the hand prints glow blue."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

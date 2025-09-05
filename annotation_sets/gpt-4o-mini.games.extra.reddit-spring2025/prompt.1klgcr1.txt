@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][Around 2014] Pixel art game with a chameleon
+eating fruit in dungeon-like levels, Led Zeppelin-style music. Hi! Im
+trying to remember the name of an old Android game I used to play
+around 2014. Heres what I recall: The main character was a chameleon,
+shown from the side (2D), and its main ability was using its tongue to
+grab fruit. The setting was kind of dungeon-like, with closed rooms,
+one per level. The graphics were very simple, pixel art, maybe even
+black and white or with very limited colors. The soundtrack had a
+psychedelic rock feel, and reminded me of Led Zeppelin. It wasnt a
+big or popular game, but it was available on the Google Play Store.
+Games Ive already checked and ruled out: Pixel Dungeon CandyMeleon
+Glutton Leon Platform Panic Any help is appreciated  even a vague
+guess! Thanks a lot!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, about different types of relationship, ie the
+Garden Relationship, the Adventure Relationship [s]. This is a non-
+fiction book in the self-help/personal development genre. It describes
+different types of relationship that people develop, such as a garden
+relationship, where people tend, prune and plant actively within the
+relationship, never having the view that things are fixed or final
+(for example). It has chapters for different types of relationship -
+at least 10 and maybe up to 20. I can't remember the other types, but
+things like -the Adventure relationship, the Sports relationship, the
+Journey relationship ... I read it about 10 years ago, at least. It
+belonged to someone I knew, who later moved and I don't know how new
+it was then - but also, it wasn't ancient. This was in Australia but I
+don't especially think it was an Australian author (though I guess it
+could have been). Maybe it was by a man- ?? It was a paperback. The
+writing had a fresh immediacy, a vibrancy about it. I seem to remember
+it had some kind of artwork on the cover, not a photograph of people
+or scenery, more abstract/stylised. I thought it was really fresh and
+original. I cannot find it through repeated searches (there's a
+million relationship books). thank you, in advance!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

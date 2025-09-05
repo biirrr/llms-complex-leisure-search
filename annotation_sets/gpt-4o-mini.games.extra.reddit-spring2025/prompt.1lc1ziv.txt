@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][20102016][2D HOPA] Dark puzzle adventure with ghosts.
+I'm looking for an old 2D HOPA (Hidden Object Puzzle Adventure) game
+with a dark or realistic style. Played on PC between 20102016. Not
+Russian-made, but had Russian localization. Key scenes I remember
+(rough order): 1. =Ú Starts in a library  enter room with wooden
+barrels  activate something  room begins to flood. 2. ê Move to a
+church  find a bucket or candles  cemetery nearby with a guard. 3. °
+Tomb with a spirit/skeleton who wants his sword back (sword is
+specific to this scene). 4. >ê A room with a window you crawl through
+ make a potion for a creature using alchemy. 5. <> Scene with a
+windmill. 6. D Northern location with shamans or spirits  no combat,
+dialogue-based. 7. <Ü Final chapter: Egypt  explore pyramid/tomb,
+retrieve an artifact (not the sword). <® Gameplay: Inventory on the
+side or bottom, no free movement, no combat. Switch between standalone
+episodes. Very similar to Big Fish / Eipix HOPAs  but this one had a
+unique structure. Please help if this sounds familiar! I've checked
+common titles like Dark Dimensions, Grim Tales, Phantasmat, Mystery
+Trackers  it's not any of those."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

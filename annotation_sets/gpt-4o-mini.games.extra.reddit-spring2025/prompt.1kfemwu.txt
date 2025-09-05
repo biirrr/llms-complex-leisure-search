@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][idk] Im looking for a silly 2D platformer tank game in
+the style of Stick Fight. So as i said its gameplay is like
+stickfight, its a multiplayer shared screen game where you and your
+friends choose a type of tank each and try to eliminate eachother, its
+physics is like bopl battle where the tanks can stick to platforms and
+they can jump by shooting underneath them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

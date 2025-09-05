@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2018-2019] Mobile investigation game.
+**Platform(s): Mobile** **Genre: Investigation/Mystery** **Estimated
+year of release: 2018 maybe 2019** **Graphics/art style:
+Photorealistic** **Notable characters: Don't remember** **Notable
+gameplay mechanics: messenger text answering** **Other details:** Your
+phone became the investigator's phone. The app's color scheme was
+black and white, and I believe there was a black butterfly icon. You
+had to solve puzzles to progress through the story, and you could
+choose how to respond to the people you interacted with. There were
+other similar games made by the same company."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

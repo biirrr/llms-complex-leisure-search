@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2010's] Horde siege flash game, but with humans..
+**Platform(s): PC - flash** **Genre: Defend castle archer**
+**Estimated year of release: around 2013** **Graphics/art style: in
+image** **Notable characters: none** **Notable gameplay mechanics:**
+**You defend your castle against incoming enemy for 25 days. You are
+an archer/crosbowman. For every slain enemy and survived day, you gain
+money. You can buy better arrows, better bow or crossbow and also help
+of catapult, archers and mead.** **Other details: Horde siege is with
+orcs, but there was one with humans too.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

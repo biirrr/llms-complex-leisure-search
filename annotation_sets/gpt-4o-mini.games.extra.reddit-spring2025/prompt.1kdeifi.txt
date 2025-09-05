@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2015-?] A survival horror game about trying to find out
+if you are dreaming or not. all I know is that the game exists and I
+think the first part of the title is """"""""Don't"""""""", but I
+can't find it anywhere. All I distinctly remember is that there is a
+gameplay mechanic where you can kill yourself to test if you were
+dreaming. I also remember that there were headcrab-like enemies. Also
+it was topdown with a cartoon artstyle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

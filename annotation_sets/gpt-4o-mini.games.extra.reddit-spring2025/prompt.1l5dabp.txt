@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1/2] [2000s] A Game With A Girl and a Green Goblin
+Creature. I dont know when the game came out but my sister played it
+on my PS2 and we got the system around my 8th or 9th birthday so
+before 2003. Only two things I really remember about it: The intro
+seems to be outside of a nightclub, think like a bouncer is there. The
+creature decapitated or killed either the bouncer or a guest waiting.
+I legit dont remember more to that scene. Later in the game, there's
+this cave they have to go through but she cannot go through it, this
+like creature who's a friendly but looks like the enemies has to go
+through. In this cave was more of those creatures standing around and
+maybe dead bodies hung up on the walls. Last time I asked somewhere
+else, someone said Parasite Eve but it does not look like it unless
+its way further in the game and I missed it looking around. Thanks for
+any help, I've been seeking it for ages."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

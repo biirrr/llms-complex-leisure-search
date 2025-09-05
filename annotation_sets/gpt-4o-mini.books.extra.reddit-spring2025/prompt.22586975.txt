@@ -1,0 +1,15 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Biography. World War Two pilot. [s]. Account of World War
+Two pilot action during Second World War. At one point the pilot is
+shot and ends up with a hole in his cheek - he can put his finger
+through and touch a tooth. Read 1990 ish"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

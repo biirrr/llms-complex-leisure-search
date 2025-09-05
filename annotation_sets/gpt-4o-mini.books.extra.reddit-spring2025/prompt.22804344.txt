@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fiction, romance?: an author releases a book that flops
+everywhere except Mexico. He goes to Mexico for a book tour and it
+turns out that it's a hit in Mexico because the (female) translator
+made it so much better.. I started reading this book about an author
+who releases a book that absolutely flops everywhere except Mexico.
+His publisher forces him to go to Mexico for a book tour. It turns out
+that it's such a hit because the translator made it so much better. He
+meets her and presumably they fall in love, but I don't know because I
+never finished it and can't find it anywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoirs of a Polish girl in Second World War [s]. Read this
+a while back for school project. It was about this little Jewish girl
+in Poland during the Second World War who was put into concentration
+camp with her family and lost them. Then was put into hiding for a
+good time at different places and ended up in an orphanage where a
+member of her family found her. In the end she reunited with her
+father and moved to England."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

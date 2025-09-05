@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020??] Indie Horror game about hitch-hiking with a
+Serial Killer. Platform(s): PC Genre: Indie Horror Estimated year of
+release: no clue, must be years ago now tho Graphics/art style: Indie
+3D Notable characters: Serial Killer in car, hitch-hiker in car
+Notable gameplay mechanics: Survival, dialog choices Other details:
+You are a hitch-hiker (female iirc?) and you are in a car with an
+insane person who, among other things, talks about vague christian
+concepts of sin and punishment. The games purpose iirc was about
+surviving the car ride?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

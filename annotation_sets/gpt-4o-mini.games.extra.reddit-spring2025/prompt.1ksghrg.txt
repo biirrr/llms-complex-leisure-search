@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [2010s] Adventure/Thriller Game. Maybe 10 years
+ago, I played a beta mobile game offered in play store. I remember
+really liking it and I would love to replay it if available, but I
+cant remember the name. The details I remember are that you start the
+game playing as two friends. A nerdy character with orange hair and a
+classic jock character. You could switch between who you were playing
+with depending on the task. They were out late trying to get into some
+abandoned building and the reason is not told to the player yet. When
+you get them in the building, theres a time skip and youre now
+playing as a man with amnesia. Most of the game is from his
+perspective as he slowly regains his memories. At the end of the game,
+you learn that he was involved with some cult thats run by orange
+haired character you play as in the beginning. Please help if you can.
+Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

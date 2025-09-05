@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Abducted and is being forced to marry for her
+money, her wedding is crashed by the good guys, but she is shot, now
+she has to marry the man who rescued her to keep the bad guy from
+getting her money.. book-she came home to find a bad guy with a gun on
+her parents, demanding that they turn over their fortune to her. they
+refuse (knowing she already had had it for years} and they are killed
+in front of her and she is abducted and is being forced to marry for
+her money, her wedding is crashed by the good guys, but she is shot,
+now she has to marry the man who rescued her to keep the bad guy from
+getting her money"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

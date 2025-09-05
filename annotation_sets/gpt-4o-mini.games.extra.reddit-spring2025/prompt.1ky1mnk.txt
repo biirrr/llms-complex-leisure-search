@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][Unknown] A game climbing the corporal ladder.
+Unfortunately I don't have any pictures of it but I can describe it in
+decent detail, it was a 2d game that started out with a small
+tutorial, and before you did anything you'd obviously have to sign up
+for a job and there is a percentage chance that you will get the job
+and the percentage goes up based on past jobs and when you get a job
+you will start out as an intern and few every dozen or so assignments
+which are just books in the game. You will go up a rank in the
+corporal ladder + if you don't do the assignments in time then you
+will be fired and you'll have to reassign to a new job all over again.
+It was 2D. All the ranks were like side by side with desks and each
+desk had a name tag that just said the rank and nothing else. I have
+no other information on the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction. True story of Holocaust survivor, young German
+girl (named Katy?) and her brother (named Peter?) put in concentration
+camp. [s]. Back in the 90's when I was jsut a kid, I read a book
+written by a woman who had been in (and survived) concentration camps
+when she was a girl. She was German (not Jewish) and I think her name
+was Katarine but when by Katy/Katie/Kady or something like that. She
+had a brother named Peter but it was spelled different. Maybe
+something like Peider??? She wrote about many of her experiences. I
+specifically remember her talking about Nazi guards impregnating women
+prisoners and then the babies would have experiments done on them to
+try to change things like their eye color to blue. The book made a
+serious impression on me because it was the first book I remember
+reading about concentration camps. I would love to be able to find out
+the name so I can read it again. I've been trying to find out the name
+for about 5 years now. I'd appreciate any help at all. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

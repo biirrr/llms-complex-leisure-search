@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens: Fantasy creatures, possibly from a sort of
+parallel world, go to earth to find their prince or similar sort of
+sovereign, a human child who has been abducted as a baby. From what I
+remember, the prince was abducted by the nanny and taken to earth. The
+fantasy creatures (I believe they were different kind of mythical
+beings, like fairies and gnomes and such) locate the nanny with the
+help of an orphan boy they befriend. The nanny's son, who they believe
+is their prince, is a horrible person. Spoiler: it turns out the nanny
+abducted the prince because she thought she could not have children,
+then immediately afterwards got pregnant and abandoned the real
+prince. The real prince is of course the orphan boy who the creatures
+befriended and they take him back. My memory on where and when I read
+this are extremely hazy. It could be I am mixing up a lot of major
+details of the book, if so I apologize. I don't believe I've read it
+as a child and instead think I read the story to a child so I'd place
+it around 2005-2010, it could be way off though. Might have been read
+in German or English, in Germany or the UK."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

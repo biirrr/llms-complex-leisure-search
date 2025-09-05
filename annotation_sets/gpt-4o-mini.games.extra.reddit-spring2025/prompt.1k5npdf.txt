@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2007 - 2015 ish] Portable game device. When I was
+younger I remember grabbing a cheap handheld console, with 8-bit style
+graphics that had this random street fighter like fighter game one it.
+The lay out was similar to a PSP but smaller and would of only cost
+around like 5 - 10 dollars as it was bought without a second thought.
+Its been itching the back of my brain for years tring to figure out
+what it was as Ive since lost it. any help would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

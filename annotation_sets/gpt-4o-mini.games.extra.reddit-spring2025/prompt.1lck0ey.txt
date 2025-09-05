@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 2010s?]Futuristic hotel(?) being guided by npcs. I
+recalled watching this one Markiplier video playing this one game, I
+believe it was a hotel game where he was guided by NPCs, felt like a
+MMO but it was 1 player full of other interact-able NPCs. I think it
+was also futuristic themed as well, colors were expressive. The image
+is a drawing of how I remembered the NPCs bodies, everyone had a body
+like this. I asked ChatGPT SO MANY times, the closest I got was The
+Spectrum Retreat. But its not!!! The setting is pretty similar
+though"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

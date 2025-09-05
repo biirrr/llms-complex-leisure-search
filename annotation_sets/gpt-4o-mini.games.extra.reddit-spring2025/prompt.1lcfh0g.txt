@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2025/2024?] warioware style game with niche references
+to different fandom spaces.. i saw it on tiktok &amp; ive been wanting
+to try it for a little bit but cant find where i saved it. i'm pretty
+sure it was purple or pastel aesthetics but take that with a grain of
+salt. its a pretty recent game to, probably released this year or
+last."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

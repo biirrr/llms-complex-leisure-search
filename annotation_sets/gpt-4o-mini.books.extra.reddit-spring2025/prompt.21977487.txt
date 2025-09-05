@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction. Long distance Hiking Trails in US incl.
+Buckeye, Ice Age, North Country, etc. Trails. Simple maps. Not a
+memoir. Paperback around 200 pages? Read late 1990s/early 2000s. [s].
+This book was about long distance trails in the US. It was NOT just
+about the big names (Appalachian Trail, Continental Divide Trail,
+Pacific Coast Trail) -- it also had other long-distance trails --
+including the Buckeye Trail, Ice Age Trail, North Country Trail, etc.
+It was a paperback book. I don't remember it having photographs. It
+was definitely not a coffee table book. It was not a memoir, I do
+remember it having simple maps. (Not detailed enough that you could
+actually use the book to HIKE the trails in question, but more of a
+general informational book to bring different hikes to hikers'
+attention. Maybe around 200 pages? I think I read this in the late
+1990s, early 2000's. EDIT: SOLVED - Essential Guide to Hiking in the
+United States ""All Major Trails and Hiking Areas Including National
+and State Parks, Forests and Preserves"" paperback, 228 pages,
+copyright 1992"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

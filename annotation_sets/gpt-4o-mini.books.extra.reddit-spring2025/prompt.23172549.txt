@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1990s YA Mystery series about Horses, NOT Saddle Club. I'm
+looking for a series I read in the 90s, similar to the Saddle Club
+books but for older readers. I'd buy them at Walmart every time a new
+title came out, so they were definitely from the mid-90s. The MC
+helped out in the stable offices to help pay for her riding lessons,
+and in the first book there's a robbery and the stable's cat gets
+stuffed into a filing cabinet. In one of the later books she either
+moves to New York City or goes there temporarily, and rides in Central
+Park. I think her name might have been Kate? Katie? It's driving me
+nuts because I know I found them several years ago and even ordered
+book one from Amazon, but it's been lost or donated and now I've
+forgotten the series name and titles and author again!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

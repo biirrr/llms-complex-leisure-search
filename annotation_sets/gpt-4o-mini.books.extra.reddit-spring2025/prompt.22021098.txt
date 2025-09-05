@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir by Native American woman, Nez Perce (?). Grew up in
+Idaho; leaves her husband. Story of self-discovery post-divorce.
+Details childhood and traumas. Mentions being at a home in the woods
+and a wildfire breaks out near/on the property. [s]. Falling Into
+Place: A Memoir of Overcoming Hattie Kauffman I read this memoir by a
+Native American woman, I believe she said she was Nez Perce, after my
+divorce in 2015. It had a profound impact on me and I can't remember
+the title or the author's name. I don't know when the book was
+published, but it seemed modern, like no more than 20 years old.
+Published in the United States as a memoir. She grew up in Idaho, I
+think, and left her husband. The story is about finding herself/self-
+discovery after divorce. She goes into details about her childhood and
+the traumas she faced traveling with her family. At some point, she
+mentions being at a home in the woods and a wildfire breaks out
+near/on the property."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Facebook][2014-2016] """"""""Horror"""""""" Hidden puzzle
+game. There was this game that I played on Facebook that was a hidden
+puzzle game were you were in first person and were locked in a mansion
+with several other NPC's and the person who locked you up would
+monitored you and you had to collect things so you could escape the
+house and not be killed. The game I think took place in the 90's.
+There were several rooms you could go to but I remember the Kitchen,
+Hallway, and the basement the clearest. the art style for the areas
+was the same as other hidden puzzle games at the time like criminal
+case and the NPC were on the more realistic side."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book similar to Memoirs of a Geisha but smaller, more
+intense and shorter. red/white cover. [s]. hi guys! looking for
+another book. literally the story is very similar to memoirs of a
+geisha but smaller as in less pages. the cover/ size that i read was
+white with red trim/ bits and it was maybe 200 pages or less. the
+story is similar as in she becomes a geisha early but it doesn't drag
+with drama. She was also a high profile geisha and I think it was in
+the same time as WWII but cant confirm. I know I read it between 2007
+and 2013. It could have been published earlier than 2007. please
+help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

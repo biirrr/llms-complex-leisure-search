@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox][2018?] theme park game. This game was in roblox. I
+remember a game I used to play when i was younger, it was a theme park
+game i played a while back. it was not theme park tycoon, and every
+time i look for it i can't find it. i think there were npcs but you
+could also ride the rides yourself. there was a candy land area, a
+winter area, i think there was like a penguin water ride and also like
+a ride in an aztec pyramid and also a sky ride if i remember
+correctly. can yall help me find it? i genuinely want to go back and
+play it because of nostalgia and idk if yall remember what it's called
+but ive been searching on and off for over a year"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

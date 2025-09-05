@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX][2020-2023] A game where you can swap between two
+characters, action sidescroller I think?. I don't remember what the
+name of the game was, I remember being able to switch between a guy
+and a girl, they were either siblings or cousins, there was a
+character who hide something from them, a secret lab I think, you
+fight monsters like orcs and the such"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

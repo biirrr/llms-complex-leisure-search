@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2007-2009] spanish horror game. (i dont know english
+very well so srry) Platform(s): it was a rpg maker game so PC Genre:
+dont know Estimated year of release: probably 2007 or 2009 since its a
+rpg maker xp game Graphics/art style: it has an artstyle that kinda
+looks like the old lara croft games and a lot of air brush Notable
+characters: the main character, the friend of the main character who
+invited her to a mansion or hotel, the brother of the friend uhh and i
+think there was the mom of the main character or the mom of the friend
+(idk) Notable gameplay mechanics: weird puzzles Other details: the
+game is from spain (most probably) the game started with the
+protagonist in front the mansion and she receives a call from her
+friend she enters the hotel and she needs to find a key and a door i
+think she invited her to """"""""meet"""""""" her brother the game
+name was something like amarouina amaoria amoria amorio amanroi
+something like that i think but i think thats all i know"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

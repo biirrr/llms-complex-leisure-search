@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen YA Thriller. Girl is adopted and children in the family
+start dying in weird accidents. Read 1995. Spoilers. [s]. Year read:
+1995. Book published year possibly 1980s. Young woman turns up with
+her new born baby girl at the doorstep of another young family (couple
+with 3 kids). The couple take pity and offer her a place to stay for
+the night. The next morning they find that she has left the place but
+has left the baby girl behind. They love the baby girl and adopt her
+but it turns out that one after another the step-siblings in the
+family are dying. (SPOILER ALERT) The dad finally notices some wierd
+jealousy type behavior and infact is a first-hand witness about an
+incident in the park where the little girl attempts to use the wooden
+swing to hit the elder girls head, but the mom is not convinced. Do
+you know the name of this book? Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

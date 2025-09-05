@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Origin of ""I am not sure that I exist..."" quote. In what
+book or other publication was this commonly quoted line by Jorge Luis
+Borges first published? From the way it is described online, it sounds
+like it must have come from an interview or perhaps he said it in
+conversation with someone and it eventually found its way into print.
+English: ""I am not sure that I exist, actually. I am all the writers
+I have read, all the people I have met, all the women I have loved;
+all the cities I have visited, all my ancestors."" Spanish: ""No estoy
+seguro de que existo, en realidad yo soy todos los escritores que he
+leído, todas las personas que he conocido, todas las mujeres que he
+amado,. Todas las ciudades que tengo visitados, todos mis
+antepasados."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

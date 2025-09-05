@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][late 90's early 00's] green cabinet shooter with a
+gun that shot monkeys with tnt. Trying to find the name of a game I
+played back in middle school. It was a multiplayer shooter. each
+player had their own cabinet. it was a free for all just run and gun.
+one big identifying feature of the game is one particular gun that was
+a wooden barrel that you opened and a monkey holding TNT jumped out
+and ran towards the closest person and exploded. thought it was names
+War or something like that but have had no luck find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

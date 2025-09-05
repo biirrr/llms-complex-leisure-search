@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] multi-player battle game with sports
+announcer type announcements.. I forgot the title before and when I
+found it there was a server somewhere with players still. Now I can't
+remember the name again. I think is was """"""""S7"""""""" or somthing
+-It was a multi player battle game -the characters where kids -the
+battles were treated like a sport with sports like announcements for
+everything such as kills and scores. -there was an Asian themed level
+with two story buildings on either side and a courtyard in the center.
+-I belive there was rope/wire grinding for movement. -one of the best
+weapons was the bat for knock back and K.O.s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

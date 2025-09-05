@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen/ YA Fantasy. Female lead enters a war in a dream
+world.. fmc enters another world whenever she sleeps, fighting a war
+against some kind of monsters, her injuries show up irl and her family
+thinks they are self inflicted and admit her to mental facility, boy
+from dream world helps her escape irl and they run away together,
+thats all i remember and i can't remember where i read this or if i
+even finished it lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

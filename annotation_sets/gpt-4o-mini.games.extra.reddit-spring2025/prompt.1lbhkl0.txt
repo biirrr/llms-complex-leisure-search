@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2010s?] mascot horror game with green clay frog. I
+remember it had this green clay frog and you were in this underground
+factious. One of the areas was a giant server room. I dont think the
+frog was an antagonist at first but kept appearing everywhere. The
+title screen was the woods with the frog just standing there in the I
+think. Its definitely not banban it came out years before. I
+definitely didnt dream this game up someone else has seen but game
+before but they didnt remember the name either"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

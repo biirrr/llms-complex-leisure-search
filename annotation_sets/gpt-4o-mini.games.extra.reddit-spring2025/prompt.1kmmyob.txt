@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2/ps1?][2000-2010?]game that started on island. When I
+was a kid my dad had a ps2 with a handful of games Id play.there was
+one I dont really remember much about but it sticks in my head and I
+would like to revisit.there was no memory card so we had to start at
+the begenning everytime we played.the only thing I remember is the
+very first few minutes of gameplay. You a character on an island or
+beach of some sort maybe shipped wrecked with memory loss. I think
+there may have been some sort of narrator or dialogue. And pretty
+close to the side partially in the water was a shipwrecked boat or
+raft. And thats all I remember to be honest. Ik its not much but
+maybe someone else remembers. Anytime I google it final fantasy and
+kingdom hearts are the only things that come up but its not those (
+or maybe its a case of huge misrememberance idk I was young) anyway
+would appreciate the help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Trying to find a physics book I read ~4 years ago [s]. I'm
+trying to track down a pretty interesting physics book I read a few
+years ago and having no luck with amazon's filters and whatnot (though
+I'm sure I've seen it on amazon before). It was a book on colour - the
+difference between structural and chemical colour, also stuff about
+reflectivity, polarization, etc. Physics behind all of that. The book
+was a paperback, small size (like a normal novel), and pretty short,
+~200 pages? Published I think around the 80s give or take a decade.
+The cover was predominantly bright yellow from what I remember, with a
+prism on the front. I know these are pretty sketchy details but if
+someone could help me hunt it down that would be awesome. I'd borrowed
+it from my previous university's library (found in the physics ->
+optics section) and would like to have a copy for myself now. It was a
+bit similar to isbn:048642118X but that wasn't the book, as it had
+slightly different contents. Just to give you a ballpark idea though.
+Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

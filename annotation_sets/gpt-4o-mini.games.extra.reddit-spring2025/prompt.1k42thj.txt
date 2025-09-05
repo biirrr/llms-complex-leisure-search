@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2010s] Platform snow-themed game. Hey guys. It's
+been almost 20 years I played this game with my mom in our old PC. All
+I remember is: \- the character is a white dog, puppy or fox (?) that
+reminds me of Snoopy; \- the game was puzzle-focused; \- the game was
+a platform/metroidvania style, but with simple and slow paced
+gameplay; \- our tasks were something like digging holes for enemies
+to fall in (?) or maybe throw snowballs at them? I remember is has
+something to do with snow. The platforms were important as we had to
+destroy or navigate thru them in order to complete the levels; \- the
+game was probably distributed via CD, probably a CD with lots of
+installable small games (common at the time here in Brazil). Thank you
+guys in advance!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

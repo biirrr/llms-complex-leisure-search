@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sci-Fi/Fantasy, myth-based, about people living on an island
+type thing and are trained to fight creatures in the water below them.
+SPOILERS mostly what I remember is that the people eventually find out
+that the water is like another dimension or something where they go
+after they die? And I think that the water creatures kind of reminded
+me of sharks and they are trying to take care of the island? Also a
+corrupt government of some sort. The book begins with people being
+born in like a ""middle ground"" place. I think it's based on a myth
+of some sort. Very similar idea to hollow earth theory and also the
+idea that ppl live on the back of a turtle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

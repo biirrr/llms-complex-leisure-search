@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64][early 2000s] A flying game on the n64, I think. Its
+been nearly 20 years since I played it so I apologize for lack of
+description. Its a flying game. But the vehicles were not realistic in
+the slightest. They helicopters and planes (ithink there were
+planes)were goofy looking vehicles. I dont recall there being combat
+but that doesnt mean there was not any. I do remember having to fly
+through circles/gates/whatever as a goal to some of the missions."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

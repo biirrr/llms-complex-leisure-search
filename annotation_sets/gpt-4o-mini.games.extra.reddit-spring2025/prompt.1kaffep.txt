@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS Apple Store][2010s] Knockoff Yandere Simulator game?. I
+don't have any screenshots of the game or anything but I can probably
+find some reference photos if I need to. I'm guessing the game was on
+the App Store around 2015-2018 but l'm not 100% sure. It was basically
+a free play knockoff version of the real game. Using my memory the
+best I can, I remember there were weapons such as guns, knives and
+even bombs at the front of the school building that the player could
+use as they pleased. The setting was what looked to be like a small
+Japanese based town with a bakery, beach, etc. There was also an
+upbeat theme music in the background at all times. More details may
+come to me overtime, but for now this is pretty much all I can
+remember. Any help is much appreciated! d"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

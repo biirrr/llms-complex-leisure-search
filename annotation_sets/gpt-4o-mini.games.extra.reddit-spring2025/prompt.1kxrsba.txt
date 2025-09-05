@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s] Native American 2D sandbox adventure. I
+remember playing a demo of this game in the late 90s on Win98 at my
+aunts house. It was played in a window and you played as a native
+american/caveman type person, the setting was definitely pre-modern
+civilisation and you had to wander around a first person overmap (sort
+of like Dune 1) and encounter things and resources and sometimes fight
+other people in a fighting game mini game. The game was pretty jank
+and 2D so definitely came from a smaller studio or possibly home
+brew."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

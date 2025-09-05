@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][unknown]Trying to find a Pixel horror RPG. I vividly
+remember playing it with my cousin, so I'm able to remember a lot of
+details(and yet not the name). It's about a red-haired girl and her
+crazy father. I don't remember much of the beginning, but I know the
+girl was imprisoned by her father because she went into some forest.
+She was in a stone room, fed her dog(as in forced to eat her own dog),
+then put in a white room, and she was tortured. I know it's not Mad
+Father. Here are some extra details I remember: it was a Pixel game
+the girl lived in a village, traditional Japanese looking a dog, maybe
+Shiba inu involved the girl was forced underwater in a large machine,
+where at some point she uses it to kill her father. She went insane
+after doing so, I believe. at the end of the game, there are black
+haired women. Likely two of them. One of them is pregnant. One of the
+women search the village the girl was in and find a weird distorted
+version of her"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

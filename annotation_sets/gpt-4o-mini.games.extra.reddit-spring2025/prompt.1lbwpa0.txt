@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2018] Badminton/tennis game with cartoon animal
+players, tennis ball, and forest court. Platform(s): PC (Windows)
+Genre: Sports (Badminton/Tennis-style) Estimated year of release:
+Somewhere between 2012 and 2018. Sorry I have no clue about the exact
+date. Graphics/art style: Cartoonish 3D, colorful and forest-themed.
+The court was very green with a huge tree in the background (to the
+left side of the player). The characters (animals) were slightly
+exaggerated and moved in a fun, cartoon-style way. Notable characters:
+All the players (including the bots)were animals. I don't remember
+exact species, but they were anthropomorphic (stood on two legs) and
+used rackets. Notable gameplay mechanics: C You used a racket to hit a
+tennis ball, not a shuttlecock C The game got harder with each
+opponent - the Al improved and the ball would move faster C The camera
+angle was 3D from behind the player, slightly angled down (not top-
+down or side view) C lt was likely a trial version - it had a time
+limit or a match limit before locking the rest of the game CAfter
+hitting the ball multiple times some combo numbers would appear when
+hitting the ball Cyou could either shoot the ball really fast or slow
+and shooting it gave the combos(For example x27) Other details: C
+Played it on a Windows PC C Might've been downloaded from some sketchy
+website C I've been trying to find this game for years and can't
+remember the name. i'd love to finally replay and finish it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s?] Side scrolling rhythm game of a Composer trying
+to get through levels of hell?. Made an account just to post this.
+Never used reddit before this. I remember in middle school, there was
+an old game Id play where a composer wanted to be the best composer in
+hell? I drew an image of all I can remember. You controlled it with
+wasd or arrow keys I think and there were four levels, the last level
+was Tartarus. Ive looked for it on Newgrounds but couldnt find it
+there. It might have been a flash game which is why I cant find it
+now? Ill keep trying to remember more, plz ask questions if you need."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

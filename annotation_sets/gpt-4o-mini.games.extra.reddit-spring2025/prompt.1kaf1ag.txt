@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late2000s] online chat world. I remember very little
+about this website but it's been bugging me so here's what I do
+remember: It was an online multiplayer world that I played on a PC in
+the late 2000s (maybe sometime between 2007-2010?) The art style was
+less cartoony than other games I played at the time (like club
+penguin, moshi monsters) - it was a more modern look and I want to say
+there were like tall modern looking buildings you could walk around
+in. I think I even big flashy billboards being in the world. The view
+was flat, like a platformer, not very big, not much to explore Your
+avatar was a human you could customize to wear different clothes
+(again I remember them being more modern/stylish) And I don't remember
+ever playing actual games on the website, just socializing with other
+players. More like a chat room but with an avatar. The name of the
+website may include something like """"""""Mi"""""""" or
+""""""""Miis"""""""" in it. It's unrelated to the Wii but for some
+reason I remember it being called something similar to the Wii
+avatars. It's not much but that's all l've got!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

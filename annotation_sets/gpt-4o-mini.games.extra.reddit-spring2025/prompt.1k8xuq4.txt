@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000] help =-. Can anyone recall a shooter
+computer game where the main characters name is Zex or the games name
+is Zex but when i do google search it only shows sex stuff, its a game
+where you can collect parts of guns and upgrade and kill monsters and
+solve puzzles to move forward its not a typical FPP or TPP game but
+contra style but you can explore the map"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2000] Point and click puzzle game about bringing water
+to a town in the wild west. I remember playing this puzzle game
+online, it was probably a flash game, and was 2d. It was a puzzle game
+where you had to get water from one area through the map and
+eventually end up at the end, where you would win the game. There
+really isn't much more that I can remember about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

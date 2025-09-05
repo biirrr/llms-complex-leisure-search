@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy Adventure about 2 kids in magical woods.
+Spoiler.. read this book in elementary school around 2013 or so. I
+think it was a similar vibe to pendragon/spiderwick in which children
+are pulled into a magical world of adventures, I think a forest near
+where they live in the real world. Most action is. in a forest. Mostly
+remember two specific scenes. Young boy and girl (cousins maybe?) are
+lost in these magical woods near their home. At one point, they
+encounter a group that feeds them and welcomes them, as long as they
+wear animal masks. Protagonist wears a blue jay one, eventually
+realizes that it is fusing to his face, and at midnight will be
+permanently stuck (scared the shit out of me as a child!) Also, I
+believe main journey is attempt to find the emperor/wizard and have
+him fix the problem they are tasked with when pulled into this magical
+realm (maybe this is how they get home? don't remember). Spoiler
+below! They get to the palace and a man shackled to the room is
+singing a song. Talk to the monarch guy and realize that actually the
+bard is the emperor, and his song has been spelling the word 'help me'
+if you read the first letter of each line going down. The mask scene
+in particular is so specific, but noone ive talked to/googling can
+help me place it! Thanks :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

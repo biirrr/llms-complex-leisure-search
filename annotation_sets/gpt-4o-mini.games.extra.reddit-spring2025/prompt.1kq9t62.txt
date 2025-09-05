@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox] [2010?] does anyone know this game from the xbox
+360?. when i was younger i used to play this one game on my dads xbox,
+your character was like a villager and you would run around in this
+space and you could mine and get wood and then you would go and build
+buildings and villages. you could also interact with the villagers and
+carry them around to go do jobs. does anyone remembers this game or is
+it a fever dream of mine lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

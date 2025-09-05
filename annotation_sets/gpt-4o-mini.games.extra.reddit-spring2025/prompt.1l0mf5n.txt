@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH] [2008-2012] Halloween game about a mansion. flash
+game where zombie hands come out of the ground, there are several
+characters to choose from and the game takes place in a mansion, the
+objective of the game is to find keys, I don't remember very well if
+the keys were around the house or inside the chests, the theme of the
+game was Halloween and the characters you could choose were children
+in costumes. The game looked like a Zelda with a top-down view but
+graphically it looked like something like a cartoon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC / console?] [2005+] series of puzzle games featuring
+plasticine men. hello all, i am trying to recall a PC puzzle series in
+which you control a plasticine man who lives in a small town inside a
+giant sandbox, i believe the aim of the game was to reach a rocket
+before it blasted off, and in the sequel its revealed the rocket crash
+landed soon after takeoff. the game although looking rather childish
+was pretty difficult with many complex puzzles, that required the use
+of powerups such as teleporter guns and stuff. the game was 3d and
+from a 1st person perspective, it might have had metroidvania elements
+but was primarily a puzzle game there were at least 2 games in the
+series"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

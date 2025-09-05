@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020ish?] Indie game where each run lasts around a
+minute, set in a dark forest, with Devil Daggers-esque creatures and
+quick gameplay. This is a super indie game that reminded me of Devil
+Daggers and Hyper Demon. It had a similar art style and perhaps some
+similar enemies, and was set in a very dark forest where you could
+only see a couple yards out in a radius around yourself, and the core
+mechanic was something about keeping your light lit (or your sword
+glowing? That could be it). It was being sold on Steam. Like I said in
+the title, each run was really quick, though I bet if you were good it
+could go longer - like Devil Daggers and Hyper Demon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

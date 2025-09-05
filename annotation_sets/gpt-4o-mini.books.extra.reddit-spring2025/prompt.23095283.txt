@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance/ SciFi, grumpy sunshine about angry alien guy
+and human bartender woman. They both get kidnapped and they have to
+survive on a different alien planet. So this book was phenomenal and
+I’m looking for the series. I know this is the 5th book in the series
+and that it has grumpy/sunshine in the title! I read this book through
+kindle unlimited in 2024. I know that the 6th book is about the twins
+introduced in this book. The covers for all these books are really
+cool and they do NOT have human bodies or anything. The covers feature
+the current species focused in the book The alien guy is really cool
+but he’s got mad anger problems and his specific race has to deal with
+their “Rage” in the form of violence or fucking. The bartender girl is
+really adorable and she’s got this brother she’s trying to take care
+of and that’s why she’s on this planet working in an alien bar. She
+and the alien guy end up flirting and it’s amazing. Some stuff happen,
+through a series of events they end up on a different planet in some
+unfortunate events and they have to get back to their original planet
+and avoid the folks hunting them. Any help finding this series would
+be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

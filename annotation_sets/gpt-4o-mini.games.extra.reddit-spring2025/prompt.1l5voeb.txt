@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1/PS2][Late 90s - Early 2000s] 3rd person detective/spy
+game with turn based combat and computer hacking puzzles.. PS1/PS2
+Late 90s - Early 2000s 3rd person detective/Spy turn based combat with
+computer hacking puzzles. I can remember a male main character and
+fighting a group in a dessert."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

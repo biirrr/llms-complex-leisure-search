@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Pre-2000][RPG] Isometric dungeon crawler with mage,
+archer, and a thief who stole your progress. I used to play this game
+on PC around the late '90s or early 2000s, on systems like Windows
+2000 or XP. It was an RPG with a 3D isometric view, and you could play
+as characters like a mage, archer, and others. The levels were
+dungeon-based, with waves of monsters that you had to defeat to
+progress. There were treasure chests scattered throughout the dungeon
+that gave you items. But there was one very unique mechanic: a small
+thief would appear and steal all your progress if you didnt defeat
+him in time  if he escaped, you'd lose everything you had collected.
+I vaguely remember the box art had a castle and the main characters on
+it. Its not Diablo or Baldurs Gate. It was something more obscure.
+Does anyone know what game this might be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

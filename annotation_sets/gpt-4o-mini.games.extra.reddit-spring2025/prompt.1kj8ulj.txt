@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 80s-early 90s] Educational platformer where you
+pick up letters.. Platform: MS-DOS Genre: Platformer Artstyle: Pixel
+art. The protagonist as I recall was a blonde kid, probably wearing a
+red shirt, the game plays as simple platformer, where you pick up
+letters, don't recall if numbers appear as well. The background was
+mostly houses or trees. This game was installed in the early 90s
+computers of my school, we used to play that one and """"""""Where on
+earth is Carmen Sandiego?"""""""". Fun times."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010] Left to right 2D brawler with a bunch of
+characters fighting enemies as they run towards the end.. Don't
+remember much about the game. A bit anime looking with little 2D
+characters with spiky hair. There were melee weapons to pick up and
+hit people with and I think there were some magic abilities as well.
+There could be everything from 1 to 30 characters on the screen.
+Everyone that died stayed dead. A bit like a battle royal except there
+were a team."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

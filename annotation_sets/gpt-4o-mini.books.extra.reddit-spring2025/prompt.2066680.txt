@@ -1,0 +1,50 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci Fi/ Dystopian Future novel by mostly Mystery
+writer (American male). Post disaster. Violent gang of 4-6 male
+criminals/ bandits, mentally challenged boy is main character but not
+leader. Home invasion. Published in 1980s to early 2000s.. This SF
+book was written by a writer known more for mysteries. Came out back
+in the 80s or 90s, maybe even the early 2000s. Set in a dystopian
+future. A group of criminals, bandits or whatever, all males,
+numbering around 4-6. One member is needlessly violent. One is a young
+man or boy with mild retardation or some other mental handicap. I
+think he was the main character. The boy stops the group leader from
+killing the violent one at one point. They break into a home where
+there's a small gap in the perimeter scanners of the home and this is
+where the incident of the boy stopping the violent one being killed
+occurs. I only read about 1/4-1/3 of the book, so I don't know how it
+ends or what the major story theme was. It was a full length novel,
+not a short story. ETA: The setting was, I think, a wasteland with
+isolated pockets of modern technology. The home they break into was
+off by itself, I think. The book was recent or new when I read it.
+ETA: I think the group leader wanted to kill the violent one because
+he had needlessly killed one of the people in the house they had
+invaded. ETA: I'm reasonably certain it was a male author. ETA: The
+group of men the retarded boy is part of are the only characters we
+meet other than the people whose home is invaded. There may have been
+others later in the book, but it starts with just this small group.
+ETA: It was a new hardcover at the time I read it. About 200-300
+pages. It's not something by Fredric Brown Isaac Asimov John D.
+MacDonald Donald E. Westlake Suggestions of other authors, even if not
+a specific book are welcome. I keep feeling like I'll recognize the
+author name if I see it. ETA: Apparently I won't. ETA: not P.D. James
+Lawrence Block Rex Stout Robert B. Parker Dick Francis Robert Crais
+Ross Macdonald Erle Stanley Gardner Ron Goulart Andrew Vachss Andrew
+Greeley Loren D. Estleman Walter Mosley Kate Wilhelm Iain Banks Dana
+Stabenow Caleb Carr Philip Kerr Jack Vance Lawrence Sanders Harlan
+Ellison Thomas M. Disch Stuart M. Kaminsky Frank M. Robinson Thomas
+Scortia Peter Lovesey Reginald Hill Jonathan Gash Peter Robinson
+Leslie H. Whitten Jr. Richard Bachman Ira Levin Sheri S. Tepper Ed
+McBain Evan Hunter John Dudley Ball Rick Boyer Dan Wakefield Ruth
+Rendell J. D. Robb James Patterson Dean Koontz Peter F. Hamilton
+Michael Moorcock Dennis Wheatley F. Paul Wilson Elmore Leonard"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

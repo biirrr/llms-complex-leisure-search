@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Creativity/Intuition/Personal Growth. [s]. Looking for the
+title of a book I saw someone posted on their Instagram stories.
+Chapter title was “Start before you’re ready” with a small triangle
+graphic and a quote by Emily Dickinson that read “forever is composed
+of nows. The chapter begins “the thing with our calling is that it
+rarely...” and it mentions Julia Cameron and Sonia Choquette and
+creativity and intuition. The bottom of the page has a footer that
+reads Work Your (and the rest is cut off in the photo ). Would love to
+know the name and author of this book if anyone can help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

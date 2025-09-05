@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade] [Unknown] Please help me find the title of this
+Shoot Em up game. Around 2005-2008 i was able to play a game on a
+local arcade where you can select different characters/aircrafts to
+play, what stood out the most for me was the character styles, I just
+remember that you can enter a code using the joystick to use a secret
+character that was a samurai and hes main attack was a blade beam. I
+also remember that there was a female character whos bomb/super
+attack was the screen will be covered with flowers Hope you can help
+me find the title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

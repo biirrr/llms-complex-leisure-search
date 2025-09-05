@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2008~2009?] Roblox Boss/Obby Game. Ok, so: Back then,
+I remember playing this one game on Roblox: It starts off with your
+Robloxian trying to get to a party or something, and platforming over
+some simple obstacles in a 2D view (I think?) Then, One Winged Angel
+begins to play, as a boss monster picks you up, and drags you off.
+Then, you get dropped into this weird location where there's multiple
+objectives to do. I could never get past these, since I was a kid at
+the time. But yeah, I remember playing around in this place, always
+trying to see if I can dodge the boss monster's grip, *(i couldn't, it
+was scripted)*, and trying to at least complete a objective. If you
+guys could find it, that'd be absolutely boss!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

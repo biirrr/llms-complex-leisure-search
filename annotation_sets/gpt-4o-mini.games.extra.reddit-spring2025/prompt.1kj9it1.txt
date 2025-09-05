@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015]I'm trying to find a game that looks like
+demonphobia. I'm trying to find a horror game I saw a long time ago
+but lost track of. The game is very gory and has a gameplay style
+similar to Demonphobia, where the character can only move left or
+right. However, the graphics are better than Demonphobia. The game is
+also available on Steam. You play as a girl trapped inside a strange
+house or something similar. I forgot the title of the game, but it was
+something like """""""" The House of """""""" or something along those
+lines I'm not really sure. I've searched for it for a long time but
+couldn't find it. If anyone knows its name, please let me know. I'm
+almost sure it's on Steam. I remember some of the jump scares too 
+like a wooden doll that kills the girl you're playing as and steals
+her head after cutting it off, or a character who draws the
+protagonist dead in blood. There was also a huge stone baby that grabs
+the character and eats her"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

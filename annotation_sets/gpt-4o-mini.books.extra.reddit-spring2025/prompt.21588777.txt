@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, psychology or education. Gender and brain
+development and socialization. Part about education and single-sex
+schools. [s]. Read around 2009/2010. Psychology book. I remember it
+having a very plain cover, maybe mostly white? It wasn’t an old book,
+I would guess it was published in the early 2000s. The chapter on
+single-sex education sticks out the most to me, but I can’t remember
+if it was entirely about education and gender or just only about
+gender development in different contexts. There was a study about how
+girls perform academically when in all-female schools."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

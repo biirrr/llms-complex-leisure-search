@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Urban Fantasy/ Romance - Woman (musician) who has
+psychic power but doesn't know how to control it is turned into
+vampire. Read around 2010-2015. Spoilers.. SPOILERS A young woman
+avoids people because she has psychic powers but can't control them so
+being around people is driving her crazy. She plays guitar and sings
+and that's like the one thing that makes her happy. She has a gig
+playing at a venue which is where she meets the male vampire who
+recognizes her power which she uses to control the mood of the crowd
+while performing. The vampire saves her and turns her into a vampire
+and helps her learn to control her power. He's a tech genius and very
+wealthy and the top vampire in the region. I think the story takes
+place in Texas. I think there's some kind of special vampire amulet
+that she ends up touching and becoming like queen of the vampires by
+the end of the book and there are vampires fighting over this amulet."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

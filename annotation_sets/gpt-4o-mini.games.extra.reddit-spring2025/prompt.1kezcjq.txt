@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [Cartoonish (w color) but not stickman-like] [Around
+2000-2015] [Flash game] [Killing characters by clicking on different
+situations, same scene]. Hello, everyone! I've been thinking of a game
+that i saw someone playing around e2015 but never knew the name nor
+really seen the gameplay. It was in a online platform, like those
+click games that ended by 2020. Since it's been so long and my memory
+is very fuzzy (by that time i was still a kid) My description from now
+may not be accurate, but it resembled a game where you should kill
+some cartoonish-drawn characters in many diverse ways. I remember
+seeing them play a level in a pool, which one of the deaths was
+throwing someone in it and the water became red around the person.
+Somehow it seems to me that they were """"""""celebrities""""""""
+characters. That's all i can remember. Thank you for reading and for
+your help &lt;3 Edit: Adding info, i think i may be mistaken about the
+celebrity thing. My brain could have mixed up this killing game and
+Celebrity Hunt"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

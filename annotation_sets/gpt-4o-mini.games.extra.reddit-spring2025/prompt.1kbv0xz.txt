@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox 360] [2010s] small chibi like characters, im pretty
+sure different characters for different teams, it was also sort of a
+platformer, had a man with a top hat and monocle narrating (this was a
+while ago so my memory is fuzzy) but i do remember a cool soundtrack..
+i had this game on my old xbox 360 but that was a while ago now and
+who knows what happened to the console."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

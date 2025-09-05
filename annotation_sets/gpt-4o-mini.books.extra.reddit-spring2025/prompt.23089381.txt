@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult British fiction set in the 1980s, small town UK/
+Britain with the Falkland war mentioned in parts of the book but
+wasn’t the focal point.. I am looking for the name of this book. It
+might of the word Glory in the title. It was set in a small town in
+the UK, main character was girl. She had a boy best friend, who was
+often abused by his dad. She loved two boys and it’s her coming of age
+story deciding between the two boys. One goes off to the Falkland war.
+That’s why I’m thinking the title is something patriotic like love and
+glory or something?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

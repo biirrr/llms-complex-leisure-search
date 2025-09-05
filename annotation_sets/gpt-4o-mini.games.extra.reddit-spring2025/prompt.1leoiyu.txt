@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[browser game][2017-2019] classes based shooter where you
+played as eggs. There used to be this free browser game that my whole
+school played from like 2017 to 2019. It was basically TF2 but you
+played as and I'm not joking here, giant floating chicken eggs. I
+can't for the life of me remember what it was called. It was something
+like """"""""scrambled"""""""" or """"""""shelled"""""""". Definitely
+some sort of egg or chicken pun though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

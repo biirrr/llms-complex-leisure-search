@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [&lt;2012] puzzle game where you travel around
+islands? using a boat with horizontal hot air balloon on top,
+zeppelin? And solve puzzles. Platform(s): PC not sure about others
+Genre: puzzle solving Estimated year of release: before 2012
+Graphics/art style: majestic, kinda realistic Notable characters: I
+think there was I woman but Im not sure Notable gameplay mechanics:
+before traveling you had to put something like marbles inside the
+furnace of the boat and match them so you can charge the boat Other
+details: you start on some kind of room and I think there was a big
+mirror that shatters but not sure, after that you go outside
+(something like a backyard) and there is the boat with hot air balloon
+that is disassembled and you have to reassemble it with the parts that
+are scattered around the backyard. The first blade you go you have to
+solve a puzzle inside a cave. Also one of the other islands there was
+a big tree that I think you go inside but not sure. The game is first
+person without moving the camera freely. It is with static scenes.
+Here is an example picture of the boat."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

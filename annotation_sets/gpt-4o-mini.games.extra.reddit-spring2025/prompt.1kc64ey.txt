@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile/ipad] [2013-2015] Design-a-globe game?. Been
+scratching my head over this for days. I know I played this when I was
+younger on my ipad, but I can't remember when exactly I got it.
+Platform(s): ipad Genre: simulation / sandbox Estimated year of
+release: 2013-2015, but could be older Graphics/art style: 3D, leaning
+to low-poly but not quite. I also remember it being quite dark for a
+kids game with very muddy colors and having a very simple UI Notable
+characters: No characters featured besides animals Notable gameplay
+mechanics: You would start with a blank (?), kinda small globe. You
+could then fill it out by digging rivers and ponds, planting forests
+and building mountains, all with a very rough feeling, sort of like 3D
+modeling in blender. When you got enough of a certain thing animals
+could appear, if I recall correctly foxes would appear in the forest,
+and possibly fish in the river. The foxes might have caught the fish,
+but I can't say for sure. When an animal appeared it would make a
+little white sparkle but not really affect anything in terms of
+pausing gameplay. I also remember being able to get a ridiculous
+amount of animals on my globe. You did not control the animal spawns,
+the only thing that affected it was what you did to the ecosystem.
+Other details: I don't think it had any in-game purchases or ads, it
+was a very chill game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

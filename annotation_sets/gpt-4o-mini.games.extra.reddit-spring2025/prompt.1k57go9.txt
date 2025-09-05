@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2002-2015] Point &amp; Click game using photographs and
+some animation.. (SOLVED! The game is **99 Rooms)** I'm looking for a
+point and click game I played more than ten years ago. It was made
+sometime between 2000 and 2015, I believe. The game is a first person
+point and click exploration type of game where you click your way
+through abandoned urban areas with most of the areas having some
+graffiti and ambient sounds added to them. I believe the artist who
+made the game based the areas off of actual photos he took. Some of
+the areas had strange creatures you could interact with in them.
+Nothing could harm you. The game was about exploration and maybe
+clicking a few things in the right order to progress. Does it ring a
+bell? I can't remember what is was called and I'd love to play it
+again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

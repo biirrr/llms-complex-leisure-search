@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid-late 2000's]Flash game I played back in my youth.
+Platform(s): PC (Flash game) Genre: Platformer Estimated year of
+release: Mid-late 200s Graphics/art style: Rough sketchbook style,
+handrawn, very edgy and dark Notable characters: Main character is a
+ball of scribbles Notable gameplay mechanics: Each level requires you
+to collect objects (I think balls) that upon collecting, will display
+text in each level, like a story or journal entry and change the level
+Other details: I think the creator created several games. The one I
+remeber playing mostly, whenever you would die, a voice would say
+""""""""It's time to meet your maker"""""""", but I swear I remember
+another one that was similar, but instead when you died it said
+""""""""You bought \[a/the\] farm"""""""" I remember one level that
+was at a church, or graveyard"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

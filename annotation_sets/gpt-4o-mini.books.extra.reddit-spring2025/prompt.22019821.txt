@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Coming of Age, Non-fiction Memoir by a young African-
+American woman who grew up in the 1990s. Spoiler.. I read this non-
+fiction memoir in the 2016-2018 time frame. The Author recounts her
+early childhood that includes poverty, homelessness, and her father
+deserting the family. I don't recall the state where she grew up, but
+she remembers her father leaving either her or one of her siblings in
+the snow, as her parents were walking home from the hospital. The
+Author, her Mother & her siblings move in with the Grandparents for a
+while. The Author's Mother is nicknamed Pretty, and the children are
+referred to as Pretty's kids. The family moves into the projects, and
+they are robbed and the Mother is assaulted (Spoiler) Raped The Author
+recounts a lot of experiences with her friends and family members. She
+ends the book when she goes away to college. Spoiler She contracts
+gonorrhea from one of her boyfriends."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

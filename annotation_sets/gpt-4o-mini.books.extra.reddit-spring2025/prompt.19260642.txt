@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller - U.S. assassin sent to rescue billionaire
+and then framed for his murder after seaplane explosion. Spoilers
+ahead.. I’m trying to figure out what this book is: key plot elements
+are - main character is a US Gov’t operative who is sent to rescue a
+kidnaped altruist billionaire (who happens to have been created by the
+American government to help manipulate foreign policy (and is actually
+a disgraced former military officer). The protagonist recruits a
+former protege, a Greek special forces operative possibly named Theo,
+to help him with the rescue. They succeed in penetrating the compound
+and make their way to their exfiltration (a Sea Plane) which takes off
+with Theo and the target then explodes shortly thereafter. The
+government suspecting the main character killed the target sends an
+assassin to kill him in London (Hyde Park) however she fails and he
+survives. The book ends with a reveal about the billionaire(really the
+ex-officer) having orchestrated all of this and having blown up a body
+double st the start of the book. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

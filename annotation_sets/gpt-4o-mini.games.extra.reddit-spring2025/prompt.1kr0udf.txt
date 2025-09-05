@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005 - 2010][Point and click / Browsergame /
+Postapocalyptic/Multiple parts]. SOLVED The Fog Fall series
+Graphics/art style: Handdrawn, like an oil painting, gritty Notable
+characters: Dead pilot hanging from a rooftop into the inside of a
+house with his parachute. Dead deer in an bathtub in another game of
+the same series. Notable gameplay mechanics: Point and click, puzzle
+solving game. Bleak, tense atmosphere. Other details: Browsergame,
+multiple parts and beginning of one game starts at a farm I think.
+Played it on websites like Spieleaffe/Spielekarussel, maybe helpful
+for the german users here."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

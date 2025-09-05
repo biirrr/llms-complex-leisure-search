@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS/Gameboy][2004-2009] Need Title of an Tactical JRPG. This
+is some of the plot: In the beginning the real hero died and he task a
+look-alike to of him to lead. During the journey the look alike
+killed, a girl one of the companions you find who is a mage/cleric,
+because she find out the truth. He had to do it to protect the secret.
+That is what I remembered since that is what I only finished."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

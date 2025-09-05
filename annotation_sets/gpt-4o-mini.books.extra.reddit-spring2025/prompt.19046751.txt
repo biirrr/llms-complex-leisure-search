@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "70s/80s encyclopedia on UFOs, cryptids, ghosts, etc. [s]. It
+was a hardcover, black and purple encyclopedia on ghosts, cryptids
+(bigfoot, loch ness, etc), UFOs, werewolves, spontaneous human
+combustion, and other paranormal phenomena. Black and white interior
+photographs. It was an adult book, not a kiddy history trivia book or
+for giggles. The cover was black with a part of the title, ‘Unknown’,
+repeated over and over in purple and white, so it looked like
+__________________ (first text) UNKNOWN UNKNOWN UNKNOWN UNKNOWN
+UNKNOWN UNKNOWN UNKNOWN UNKNOWN.... could be 1990s which is when I
+read it, but likelier 70s or 80s, it was old and dated. Usborne maybe
+a publisher but nothing’s come up when I looked."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

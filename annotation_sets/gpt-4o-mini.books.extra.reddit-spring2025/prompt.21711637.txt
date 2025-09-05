@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction set in New York 1970s. Man strikes up a
+friendship with a neighbourhood girl who is strange and funny and
+enchanting. She's a champion hot dog eater, swore a lot, obsessed with
+name Jesus. Spoilers ahead. [s]. This is so strange, but I have a
+vague memory of reading this book as a young teen about 20-25 years
+ago; it was set in New York in the 70s, first person narration, and
+was the story of a man who somehow became friends with a young girl
+who lived in his neighbourhood. I remember very little except that she
+was a champion hot dog eater, had a mouth like a sailor, and died due
+to impalement at the end (super weird and morbid, I know). Also there
+was a bit in there about how she was obsessed with the name Jesus, and
+at one point the man gives the neighbourhood children a speech about
+how Jesus was a carpenter and so had to have huge muscles because was
+chopping wood all day. Honestly can't even remember if the book was
+good or not, I think probably not in reading this summary back, but
+it's stuck in my brain now and if I can't figure out the name I'll go
+mad. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox360] [2009-2013] boy who finds stone giant and helps
+with fight off the dark. Hi so there's this game I can remember
+playing as a kid but can't figure out the name. It starts off with a
+boy who's in a cave or a dungeon and he finds a giant who's stuck on
+the ground with a magical staff or something stuck in him stopping him
+from moving and they start helping each other fighting off monster's
+who are made out of darkness i also viability remember being able to
+feed him something if anyone knows what game I'm talking about if
+deeply appreciate it =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

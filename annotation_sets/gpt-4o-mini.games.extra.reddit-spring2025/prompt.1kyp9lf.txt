@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][Unknown] detective game in which you play on a map
+selecting locations to investigate. I don't remember much about the
+plot. I remember a map of the city, at night, and locations to select
+to progress on the investigation/story. Maybe noir / hard boiled
+narrative heavy game? I bought it blindly as a kid and thought it was
+hard and confusing, having to revisit locations in the proper order to
+progress in it. Kind of... Point and click? (Even if for PS1) I don't
+recall much more =O Any clue?? Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

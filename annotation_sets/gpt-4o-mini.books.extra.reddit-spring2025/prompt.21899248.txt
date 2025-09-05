@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Persuasion. 3 types of Artistotle's
+Rhetoric (past: time of guilt, present: time of ethic, future: time of
+choice). [s]. Hi, cannot remember the name of a book about persuasion
+using the time of Aristotle's Rhetoric Past: time of guilt Present:
+time of ethic Future: time of choice I red it between 2014 and 2017.
+The book is recent, surely after 2000. I can recall a couple of
+situations: The author discovering the toothpaste was finished and
+yelling at his son for this. And the son answering: the point is not
+the toothpaste is finished, the point is how we can make this thing
+happens no more in the future! Another point is the author talking
+about context and getting shaved and well dressed for his wife coming
+back from office and ending the paragraph with: let the seduction
+begins"""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

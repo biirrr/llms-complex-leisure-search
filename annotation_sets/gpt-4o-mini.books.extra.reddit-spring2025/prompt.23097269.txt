@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sports Romance where male and female leads are ex
+spouses that reunite after ex-wife is called when husband is injured
+because she is still his emergency contact.. Sports Romance where MMC
+and FMC are ex spouses that reunite after ex-wife is called when
+husband is injured because she is still his emergency contact. They
+broke up due to infertility issues and because husband hid from his
+wife that some of the infertility issues were due to him having mumps
+as a kid. I believe the sport was hockey. It was a part of a series. I
+read this in 2023 or 2024. It seemed like a modern book written around
+that time. Author was female. Written in English. Book took place in
+U.S.A."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

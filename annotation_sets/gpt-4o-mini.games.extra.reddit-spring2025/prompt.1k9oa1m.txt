@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS] [2010-2015] Open world 3d driving game. I used to play
+on iOS but probably was also on Android. It was a 3D driving game set
+in some low quality open world. It had a city, then tunnels that went
+into a mountain area, and I think it also had an airport. I know for
+sure the mountain area had no NPCs but city might've had other cars.
+You could pick between cars and change their paint color I think. All
+you could do was aimlessly drive around, I don't remember their being
+missions or multiplayer or anything really."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

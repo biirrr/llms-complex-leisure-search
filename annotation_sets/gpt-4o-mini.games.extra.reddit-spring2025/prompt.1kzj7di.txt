@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][2000s] RPG game about a mage girl. It was a 3rd
+person, 3d, RPG game with real-time combat where you started in a
+plaza and from there were able to go into the forest. I'm pretty sure
+the girl had red hair and a staff. I know she could shoot a fireball
+and I think you were able to upgrade your powers and add more. You
+might've also been able to change characters but I can't quite
+remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction: Fairytale sewing patterns (toys) 1980's/90s or
+earlier. [s]. This is probably a long shot. I'm looking for a book of
+sewing patterns that my mother had when I was a little girl -
+published possibly before or around the mid-1980s, and certainly no
+later than about 1992 (when I first started learning how to sew). The
+book contained a series of patterns of fairy-tale/nursery rhyme
+characters that were designed to be made out of felt. I can't remember
+what many of them were, but Goldilocks and the Three bears sticks out
+in my mind. Little Red Riding Hood might also have been in there, but
+I'm not sure about that. The main defining feature of the book is that
+each story had a set of characters and a 'bag' that was a house with
+windows and doors on the side. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2000 - 2010] Survival game with 4 people. There were
+4 characters, all of them looked like superheroes, they wore different
+color outfits, red ( the gym guy ), blue ( the woman ), yellow ( can't
+remember ) and green ( i think? not sure), one of the characters
+looked like Finn from Adventure Time, the other one was a robot.
+Whenever the robot survived he said """"""""I was programmed this
+way"""""""". 4 people had to fight each other until only one remained,
+random items spawned from time to time, for example things that turned
+you into an alien ( you can eat people just like the other monster
+that is chasing every1), superhuman ( you were able to throw the other
+people into the monster so he can kill them. The monster that was
+chasing us was either a vampire or an alien, there was one more but I
+forgot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

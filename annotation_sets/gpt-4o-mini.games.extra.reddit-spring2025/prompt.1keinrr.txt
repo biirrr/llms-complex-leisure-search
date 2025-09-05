@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2005~2014] . a game full of blood that i played as a
+kid. I played a game from my childhood, and I think it was the first
+PC game I ever played. It was on my uncle's PC. At that time, I didn't
+know English, so don't judge me for not remembering the lore exactly.
+The game starts with a guy on a bus, drinking. Then, some men stop the
+bus and try to kidnap or kill the passengers. They end up annoying the
+protagonist, he kills them. (I think he cuts the first guys hand off
+with a big knife, if I remember correctly.) He has two large knives as
+weapons, and the game is a 2D side-scroller (moving up, down, left,
+and right). In the second mission, he gets a yellow chainsaw as a
+weapon. The first boss is a big guy who throws flaming tires, and the
+second boss is a big guy with a flamegun. As far as I remember, the
+story involves someone high-ranking in the military needing a heart
+transplant. They were searching for a compatible donor but couldn't
+find one. Eventually, they discovered that the protagonists mother
+was a match, so they kidnapped her. He didnt let that slide and
+started killing anyone who got in his way. There was also a mission
+where they took men from the bus to an all-woman jungle, which seemed
+like paradise for men. But then, a beautiful womanwho looked like
+their bossappeared, said something, and suddenly all the women
+started attacking the men. In another mission, all the people in the
+jungle were cannibals who ate humans. There was also a mission where
+his sister had to fight a really big guy. Additionally, there was a
+mission where he tracked down the doctor responsible for the military
+guys surgery. That boss was relatively easy to defeat. He had three
+main weapons: two large knives, a yellow chainsaw, and a big hammer.
+His secondary weapons were throwing knives and two guns. If anyone can
+help me find this game, I would greatly appreciate it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

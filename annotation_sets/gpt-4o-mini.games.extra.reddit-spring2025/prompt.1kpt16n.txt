@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/PS?] [unknown] Sci-fi FPS. It was a game with an alien
+guy and I think it took place in a town where you go around killing
+the town people. At least that's how i remember it, I don't know if
+there was an actual objective. I think it was a single player game,
+but not 100% sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

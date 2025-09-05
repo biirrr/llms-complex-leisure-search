@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book about Cold War arms race. [s]. My colleague is looking
+for a book written around 1984-85. The author was a former Defense
+Department analyst. He wrote about the Cold War arms race starting
+with Eisenhower into the Reagan presidency. He discusses the military
+industrial complex's push to self-servingly define ""bomber gaps"" and
+""missile gaps."""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

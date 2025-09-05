@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console][90s] Game where you throw a live rod.
+**Platform(s):** 1990s console (likely Sega Mega Drive/Genesis, SNES,
+Saturn) **Genre:** 2D side-scrolling puzzle-platformer **Graphics/Art
+Style:** Cartoonish, slightly surreal/alient-themed **Year:**
+~19901999 **Main Character:** Blonde teenage boy wearing a cap
+**Notable Gameplay Mechanics:** - Main tool is a reddish **rod or
+baton** with eyes and a tiny green tuft of hair - You **throw it up
+or to the side**, or **insert it into sockets** to open doors or
+trigger puzzle mechanisms - The rod isnt used primarily to attack
+enemies - In some parts of the game, I remember the rod changing its
+shape **Other Details:** - Levels scroll continuously - I remember
+scrolling up constantly - Environments feel otherworldly or alien -
+Sticky music Some or several or those details may be different and
+could be fruit of the imagination of a 5-year old boy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

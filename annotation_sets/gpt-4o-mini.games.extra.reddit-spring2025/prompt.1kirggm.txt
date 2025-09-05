@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Free to download top-down spaceship shooting
+game, ships were all green vectors.. A mothership of sorts would
+descend from the top of the screen and you'd have to fly around
+shooting parts off of it. The arms and other parts of the mothership
+would move to try and crush you and you'd have to dodge them, and the
+ships you went up against were all randomized so it never felt like
+the same fight. I want to say it had a single word name, but not
+positive, and it was all neon looking green vectors on a black(?)
+background. I also want to say there was possibly some Japanese
+language component, but don't focus too much on that because that's
+just a very vague recollection. I remember the window for it being
+tall and rectangular too, not taking up the whole monitor screen. I
+don't think it was a very mainstream game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

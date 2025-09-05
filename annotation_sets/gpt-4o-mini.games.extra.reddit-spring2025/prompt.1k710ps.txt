@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1?][2000s] MMORPG SIMULATOR. Hi all! I don't remember
+much about this game. It was late 90s or early 2000s, very colorful.
+But basically you play this character who gets sucked into a video
+game (I think) and everyone is an NPC but they act like they are other
+online players. You have a town, group up with them, and do dungeons.
+Ring any bells? Thank you! Solved: Game is .Hack//Infection"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

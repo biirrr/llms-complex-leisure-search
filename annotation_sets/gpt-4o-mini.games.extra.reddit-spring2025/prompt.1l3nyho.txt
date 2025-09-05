@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s]Fantasy setting, top down grid, turn based
+strategy game with 1v1 realtime battles. **Platform(s):** PC - DOS or
+early Windows 95/98 era PC game. **Genre:** Action + Strategy, fantasy
+**Estimated year of release:** Probably between 1995-2005
+**Graphics/art style:** Fantasy, semi-realistic illustrated sprites,
+dark rocky/mountainous ambience and terrain **Notable characters:**
+The characters are fantasy based - gargoyles, and dragons, and demons
+and stuff like that. One of them I remember vividly is a
+""""""""fire"""""""" elemental that can shoot fireballs which was one
+of your more powerful characters **Notable gameplay mechanics:** Each
+side has an army of characters with different abilities on a top-down
+grid style map. The map is larger than the screen so you scroll around
+to see what's going on. Players take turns moving their characters to
+claim territory. When characters collide, a 1v1 realtime battle ensues
+where the two characters battle it out in a top down view where they
+are running around, shooting attacks at each other. The winner of the
+battle remains on the board and the losing character dies and is
+removed from play. **Other details:** It's NOT Archon Ultra, I know it
+sounds just like it, but the turn-based part of the game is not a
+""""""""Chess"""""""" like board, it's more like a larger world map
+that you scroll around in. The game seemed more sophisticated / newer
+than Archon Ultra."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

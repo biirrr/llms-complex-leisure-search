@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010?] Game I tried finding for years. This game I have
+been playing when I was a kid if you know it please help me finding
+it: I know what you were some kind of King but like a monster/demon
+you had a castle that was old and a buffon that was like a goblin or
+some kind it was also I think open world but not really I think you
+could have spawn goblins or I don't think they were goblins they were
+something I can't quite remember, that helped you in missions but they
+were like different breeds/type Fire, Poison then normal and maybe
+water/ice? Idk if this description can help anyone decypher what game
+it was but this is all I can remember it was really a fun game and for
+years I tried finding it but no luck. Thank you for your time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

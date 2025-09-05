@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2008] Horror Point &amp; Click similar to Exmortis.
+Hello! I hope you can help me find the game I've been looking for for
+years. Platform(s): Browser (maybe PC too; I'll explain below). Genre:
+Horror, point-and-click Estimated release year: I played it in
+20082009. Graphics/art style: Realistic Main characters: None Other
+details: I remember very little of the game, I found it looking for
+point and click horror games and I got to a website with a paid game
+but you could play a demo in the browser (I don't know if the paid
+version would be in browser too). It reminds me a lot of Exmortis, but
+set in a city. Post-apocalyptic atmosphere with horror music but
+without monsters or scares. Typical point and click of a static image
+where you have to interact with objects or with the edges of the image
+to move. I mostly remember entering a building. The elevator doesn't
+work, and the first puzzle involves an electrical box and wires (or
+fuses). I also remember a square or open area with a pile of skulls or
+bodies, but I'm not so sure about that; maybe I'm mixing it up with
+another game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

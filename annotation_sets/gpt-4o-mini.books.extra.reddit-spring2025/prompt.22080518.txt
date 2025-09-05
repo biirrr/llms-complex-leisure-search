@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir (non-fiction) about a very intelligent boy with
+terminal illness. [s]. I read this book between the years of
+2015-2016. I found it while thrifting. The cover is a sandy beige
+color and the title was in a light blue color. The story was about an
+incredibly intelligent young boy who was diagnosed with some terminal
+illness. His mother and father were doing everything to get help for
+him. Most of what I read so far seemed as if the boy was well aware of
+something being wrong but no one around him was trying to tell him the
+truth of what was really happening."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2003-2007] Rpg game starting in the forest.
+Platform(s): PC Genre: RPG Estimated year of release: 2003-2007
+Graphics/art style: 3D, DnD like Notable characters: none Notable
+gameplay mechanics: RPG with 3rd person camera, multiple races and
+classes to choose from Other details: I remember only that I got it
+through a PC magazine, the game started in a forest and you had to get
+into the city first, but the gates are closed and you had to enter
+through the sewers I think. You had races like orcs, humans, dwarves
+or something like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Historical Fiction. Orphan boy (white boy who's
+really black?) is sent to work at the poorhouse, befriends a man who's
+a crazy lunatic. Read in 1990s.. I'm trying to think of a book I read
+as a kid in the 90s where this orphan boy is sent to work at the
+poorhouse. The style was similar to an AVI book but I can't find it
+under his name. Anyway the boy is passed off as white but it comes out
+that he is really black. Or maybe vice versa? It takes place awhile
+ago but I forget when. He befriends a crazy man who is referred to as
+the lunatic and I think kept in a cage? They run away together I
+believe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

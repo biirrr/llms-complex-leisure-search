@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation 1] [2003] top down post apocalyptic shooter.
+Been trying to figure out what this game is for years watched my uncle
+play it. It was a top down shooter, you played as a woman who looked
+like the woman on the front cover of heavy metal, I remember the area
+looked like a destroyed Chicago, and the enemies looked like bikers. I
+do believe if memory serves right he was playing on a ps1 but this was
+21 years ago so not entirely sure would mean alot if you guys could
+help me figure it out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

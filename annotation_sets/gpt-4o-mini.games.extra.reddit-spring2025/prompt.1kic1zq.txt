@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[TV] [2005] Mid 2000's 2D plateformer where you control a
+soldier. Hello everyone ! So, first post here, and it might talked to
+my frenchies here. Platform(s): TV (Numéricable decoder) Genre:
+Platform Estimated year of release: Around 2005/2007 Graphics/art
+style: 2D, colorfull Notable characters: A soldier, I remember
+albatros as enemies Notable gameplay mechanics: You can climb ladders
+Other details: I remember one of the decor being like a lighthouse, or
+it might be greek architecture kinda hard to remember. Sorry I don't
+have any picture of it yet."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

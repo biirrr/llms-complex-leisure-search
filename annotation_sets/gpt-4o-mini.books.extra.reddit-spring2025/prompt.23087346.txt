@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Fantasy about a girl who takes care of bees and
+travels through magical doors. Trying to help someone with a book
+search. She remembers reading a possibly middle grade book about a
+girl who takes care of bees. There are magical doors that she travels
+through. There's a corrupt government and a boy shows up at one point.
+There might be a missing mentor involved. On the cover, she remembers
+the girl was African American (maybe surrounded by bees), a glowing
+door, and a guy standing in the background. This was probably read
+within the last five years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

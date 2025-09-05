@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][???] bubble like game. https://preview.redd.it/i5n8w7bs
+i34f1.png?width=1145&amp;format=png&amp;auto=webp&amp;s=9748be92fa3527
+ded50c2c231c656c1d2bdb9a9f i remember playing it as a kid on cw4kids
+or mini clip it kind of looked like this (thats the best way i could
+draw it) and you would go to different rooms killing the bubbles and
+you could go only up or down in the rooms when traversing through
+other bubbles"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

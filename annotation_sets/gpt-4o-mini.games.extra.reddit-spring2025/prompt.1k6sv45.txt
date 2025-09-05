@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s] Text based space colony simulator. For the
+life of me can't find what this game is. It is a text based mobile
+game where you play as a space ship's artificial intelligence,
+ferrying an entire colony's worth of people to a new planet. You stop
+by each planet, get a short survey of the landings, what is there, is
+it hospitable, and you get the choice of landing or moving on. Between
+planets there are random events like needing to jettison supplies from
+a faulty cargo or cutting life support from cryopods because of a
+generator failiure dampening your chances of establishing a colony
+later. The game ends after setting up your colony and guiding them for
+a bit of time, then you get an ending based on your performance, and a
+score screen. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

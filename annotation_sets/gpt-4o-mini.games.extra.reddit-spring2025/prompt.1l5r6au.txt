@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [ unknown] meele combat game. lam looking for a game
+once played at cyber cafe years ago. It was a fighting game.third
+person. Where I was beating people with some sticks and blue drums and
+other environmental stuff.. was like a sleeping dogs kind of fighting
+game. I just played the level where he was in a construction building
+and beating enemies and going up. Anyone have any idea about this? I
+specifically remember taking those drums and smashing people with them
+with my friends with every turn."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

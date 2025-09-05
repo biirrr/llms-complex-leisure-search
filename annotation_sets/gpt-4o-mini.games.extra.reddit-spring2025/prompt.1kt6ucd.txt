@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s?] Unsettling childrens game involving fixing a
+girls brain. As a young child in the 2000s, I played many
+educational computer games, like 90s JumpStart, and some more
+uncommon things like How Many Bugs in a Box? Mixed in was one game
+combining real-life footage of a little girl with 2D animation. Her
+body overlapped the 2D environment. It could have been all about body
+parts, but I only remember some parts. The girl was acting bizarre (I
+think she might have put something up her nose at one point?), and the
+player went inside of her brain, into a cave-like area with a dark
+vibe. I remember someone cutting at a part of the brain that was
+dangling down with a saw-like tool, and the objective was to fix her
+before she forgot who she was, according to a voice. I was about seven
+years old and remember this distinctly. Please help me to remember
+this unsettling game mixed in with the likes of JumpStart."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

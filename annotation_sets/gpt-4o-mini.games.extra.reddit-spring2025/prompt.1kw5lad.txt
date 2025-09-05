@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][unknown]elp me find an old game. I AM seraching for old
+gam i used to Play its about. Battles in a i think middle east its
+rywalizacion between red and blue team when you chose a unit in bottom
+right corner show up squears with commands there ar couple units but
+i remeber one mission where you are controling a convoi of units and
+nie that i think of it they where soviet and had to transport them
+somewhere but enamy whante to destry IT that had a bunch of inflantry
+and some units can house other units for example a tank transporter
+can transport inflantry here is somethink i drew to help with a serch
+and( sorry for my english)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

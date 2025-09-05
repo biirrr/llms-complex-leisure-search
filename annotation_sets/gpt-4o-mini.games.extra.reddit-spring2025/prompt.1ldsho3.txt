@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 1990s?]Fantasy medieval RTS game with fog of war,
+main unit also the builder. **Platform(s):** PC, at least it was on
+Windows **Genre:** RTS for sure. You can control a hero unit who is
+also the main builder, units can earn ranks and carry over to the next
+mission(s) **Estimated year of release:** Late 1990s **Graphics/art
+style:** Looked quite like Warcraft III, medieval fantasy themed. On
+top of human units there are monsters and maybe dragons and orcs.
+**Notable characters and gameplay mechanics:** As noted, the main hero
+unit also makes buildings I think? and the other units can be carried
+over if they survive. I remember this because if one of them died I
+would hard reset my computer so I would not lose them (idiot kid)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

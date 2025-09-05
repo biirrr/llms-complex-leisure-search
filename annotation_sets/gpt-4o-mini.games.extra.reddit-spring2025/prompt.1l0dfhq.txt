@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] Educational Game with Haunted Island Setting?. I
+used to play this game that had all these educational mini games in
+it. You would walk around a haunted island at night and there would be
+all sorts of games/activities like a piano you play music on, color
+mixing (potions, maybe), and math puzzles, etc. It was a game made for
+kids. It may have been on floppy disk but I believe it was a CD. I
+can't remember if it was mac or pc, many of my friends had macs
+though. I have been trying to think of this nostalgic game for years
+and have never posted. Any help will be relieving! tyia"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

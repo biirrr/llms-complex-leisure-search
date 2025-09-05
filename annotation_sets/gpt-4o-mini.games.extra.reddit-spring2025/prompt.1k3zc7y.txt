@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GBA][1990-2000?][Football/RPG]. Game thats been really
+bugging me from my childhood. I think its Gameboy advanced or SP,
+likely a Japanese game but has in game english. Football, RPG/strategy
+game where you can choose to pass, cross or shoot to a teammate, after
+which you would control them. If opposition team has the ball youd
+have choices like tackle or slide tackler etc. Has a character in it
+called Luca or Lucas who is injured at the start of the game? Found it
+on a 1000 games in 1 or equivalent type of cartridge - if anyone know
+would greatly appreciate the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

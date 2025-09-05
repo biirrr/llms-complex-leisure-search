@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction set in Hollywood. Daughter of Former Child
+Star. Read in 1990's. [s]. This is driving me crazy. I read this book
+in the early to mid 1990's but I think it was the readers digest
+version and might have been published in the 70's-80's. I spent a
+summer at my aunt's house as a young teen and was absolutely desperate
+for reading material. The main character is the daughter of a former
+child star named Bunny Something, it is set in Hollywood and is mainly
+about the daughter trying to take care of both of them as the mother
+is neglectful and never quite grew up. A major plot point is the
+daughter learning jewelry design and then starting a scam where she
+designs pieces using her mother's jewels and then swapping out the
+actual gems for fakes when they are bought. I have a vague memory of
+there being a romance sideplot with an Englishman? And something about
+the mother having a career comeback? I think there's an epilogue set
+in the future where the daughter is happily married and living in
+England? I have looked in every search engine I can find but using the
+terms child star and bunny always throw it off and I can't remember
+anything else specific enough to narrow it down. Thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

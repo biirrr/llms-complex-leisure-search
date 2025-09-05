@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [2010-2017] train game that you fight rounds and
+upgrade by adding carts. You were a robot like gundam and you had to
+arm yourself together because you got turn into a train/car and had to
+get back your parts by killing the tanks etc.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

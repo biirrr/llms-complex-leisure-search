@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Sci-fi Time Travel series: MC has a bracelet that lets
+her time travel. She uses it to steal artifacts from the past as per
+her adoptive father's orders. Read around 2017-2019. Spoilers.. I read
+this around 2019. I believe this was the first book in a series. Plot
+point: While in the past, MC joins a group plotting to steal the very
+artifact she's been tasked to take from a museum. I believe most of
+the other members of the group have powers. I also vaguely remember
+that in one scene the MC sees another character getting ambushed and
+murdered. She uses her bracelet to escape to the past. Once there, she
+retrieves the artifact and comes back to the present. SPOILERS: And
+then once she's back, she finds out that her adoptive father actually
+orchestrated the supposed 'death' of the previously mentioned
+character. Turns out they are still alive and it was all staged. He
+also shot and murdered the leader of the group the MC was a part of in
+a graveyard."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

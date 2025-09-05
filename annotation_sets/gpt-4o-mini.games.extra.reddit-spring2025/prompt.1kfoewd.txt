@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade / Ps2...?] [late 90s to 2000s?] A niche fighting
+game thats been driving me crazy with 2 in 1 charecter. I only remeber
+a charecter from it. It was a 2 in 1 charecter, both of then were
+girls. One was on the others shoulders and I THINK the bottom one was
+on roller skates. The game as a whole was colorful and from what I
+remeber it was a traditional fighting game (no Tekken style of
+fighting). I remember seeing a YouTube video were it was briefly
+mentioned but that was a while ago. The charecter described above has
+kept me intrigued because it was like an incredibly fun concept. I've
+been dying to figure it out from about 2 years now. It didn't have
+high quality visuals like that of SF5 or even SF4. Please let me know
+for anything. Lastly, I said Arcade and PS2 because from was I remeber
+(I could be wrong) the charecters were in 3D, but they were cartoony.
+It was most likely Japanese in origin, it matched the aesthetic of
+those Ps2 games but the visual flair of arcade fighters."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

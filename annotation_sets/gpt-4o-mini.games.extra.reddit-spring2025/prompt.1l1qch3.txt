@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] Help a blue robot foil the plans of a
+bratty 5th grader.. Platform(s): - PC. Specifically a CD that had to
+be put into the disk drive of those old PCs from between 2000 and
+2005 Genre: - Educational Estimated year of release: - As stated
+before, between 2000 and 2005. I think 2002 might have been the
+specific year but I dont completely remember. Graphics/art style: -
+While not a Humungous Entertainment game, the art style gives a pretty
+similar vibe to those sort of games. Which for those who could use a
+reminder are games like Putt-Putt, Freddi Fish, and Pajama Sam.
+Notable characters: - The character controlled by the player is a blue
+robot and the main antagonist is a blonde girl in elementary school
+who I believe goes by the name of Polly Sprocket. Notable gameplay
+mechanics: - Its a point and click. So theres not much to say here.
+Other details: - The story is about the aforementioned main antagonist
+was annoyed about being given a test at school that she thought was
+too easy, so she purposely answered all the questions wrong to try and
+be funny but instead of laughing the teacher gave her a 0. Feeling
+upset by this, she stole a machine her father invented and used it to
+change reality so that all the answers she gave were right. Like how
+she made it so that instead of the Earth revolving around the Sun, the
+world revolves around her. The point of the game is to help the blue
+robot set reality back on the right path."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

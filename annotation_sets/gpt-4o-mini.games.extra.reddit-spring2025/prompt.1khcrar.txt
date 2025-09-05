@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Early 2010s] It was a game where you had to drag
+your finger to make tracks that would guide colorcoded trains into
+their respective buildings(?).. Platform(s): Mobile Genre: Flow Free-
+esque Estimated year of release: Early 2010s? Graphics/art style:
+Minimalistic; black background, colored trains/tracks/buildings
+Notable characters: N/A Notable gameplay mechanics: Sort of like Free
+Flow. Other details: N/A"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

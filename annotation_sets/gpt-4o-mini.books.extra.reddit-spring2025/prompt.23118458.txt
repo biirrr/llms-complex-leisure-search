@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "US YA novel from 1990s about runaway girl who meets with
+other street kids. Read late 1990s/early 2000s. Spoilers.. I read this
+in the late 90s / early 00s in the UK as a teen. It was a gritty first
+person POV from a teen girl who had run away from home and met with
+other homeless teens who looked out for each other somewhere in
+America. Specific plot points I remember: (spoilers ahead!) There were
+three brothers that she meets and stays with in this homeless teen
+enclave (a squat maybe?), one was just a little kid. The oldest told a
+story about their dad beating the kid brother very badly. He may have
+retaliated and hurt the dad at that point. They were possibly Italian
+American - I seem to remember names like Francesca and Toni/Tony, but
+that hasn't helped me in my Google searches There was definitely
+romantic tension between the oldest brother and the narrator but can't
+remember if they ever got together. It was revealed that the narrator
+left home after her brother killed himself (possibly because he was
+gay?) The above was revealed because she was having nightmares and
+saying his name in her sleep. The oldest brother confronts her,
+thinking she's remembering a traumatic event. He says ""What did that
+bastard do to you?"" and she replies ""He killed himself! That bastard
+was my brother."" Something tragic happens near the end, like one of
+the teens dying or getting arrested The novel finishes with the
+narrator reflecting on all that's happened and the last line is
+something like ""Have to write it down so we do not forget."" The
+cover might have had an illustrated girl with reddish brown hair on
+the front in a denim jacket, looking tough"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

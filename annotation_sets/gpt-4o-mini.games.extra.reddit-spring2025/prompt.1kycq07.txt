@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [1980s] a horror game about paranormal activities. I'm
+looking for a certain NES/Famicom horror game. We have a bird
+perspective, the player is a woman in blue dress and with red or brown
+hair. Settled in like some isolated place, always in night time. I
+think the first paranormal thing is like we go outside to collect the
+drying clothes cuz it started raining, but eventually something
+happens, perhaps a werewolf appears or so. There's also a neighbor
+house where we find a pentagram, a book and a shotgun. We later use
+the shotgun cuz a ripper follows us and wolves too. At some point in
+the game, a dark ghostly entity follows us everywhere. And I remember
+that there's a text that appears each time, suggesting that someone
+dies each day, thus a smaller number of people remains (supposedly
+friends of her). Some people said it's inspired of a movie but I dunno
+really cuz I only saw a segment of this game in a top list type of ytb
+video a while ago. The cover, I believe is just showing the farm house
+with the said woman. However I dunno if it was officially released or
+not."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

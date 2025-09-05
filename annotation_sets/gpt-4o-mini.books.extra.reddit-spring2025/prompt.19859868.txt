@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "A New York Divorcee forages for seafood at her shore cabin
+while rebuilding it. [s]. A woman from New York City travels back and
+forth to an inherited family shore cabin, eventually divorcing her
+husband and moving permanently into the cabin, which is on an island
+she has to take a ferry to. A lot of the book covers her exploration
+of the island and foraging for wild food using Euell Gibbons books the
+Blue Eyed Scallop and maybe Wild Asparagus. I think she also travels
+to New Mexico at some point in the account. She talks about food
+discovery a lot in her travels. I think I read it about 25 years ago,
+so maybe 1995? I have somehow confused my recollection of the name
+with Anne Morrow Lindbergh's Gift From the Sea, sigh. That's not it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

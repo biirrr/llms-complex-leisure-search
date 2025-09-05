@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016-2019] Puzzle game with a sad backstory. I remember
+I watched the entire gameplay on youtube. It was a puzzle game where
+you had to save people from getting killed and it took place during a
+masquerade ball. You had to move foward and backward in time, saving
+everyone one by one. I don't remember the character's names but the
+finale has a big twist: the protagonist is stuck in a loop of dread,
+his wife and daughter/son are dead and he's living with the remorse of
+doing nothing (something, probably a fire, killed them). The graphics
+were 3D and was really weird, in a charming way, (that stuck with me
+for some time)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

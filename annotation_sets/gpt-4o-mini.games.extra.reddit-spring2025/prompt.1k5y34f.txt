@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2024] Sword Fighting Game. Hi all, I can't remember the
+name of the game. sword fighting boss battle every now and again you
+learn new skills I remember the character walking into an area, then 3
+(more?) giants shows up in the distance. I think the enemy is same
+size as the main character and it sits on the giant's shoulder. Very
+japanese game. I think I went through every samurai game and can't
+find the scene with giants etc. Please send help. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

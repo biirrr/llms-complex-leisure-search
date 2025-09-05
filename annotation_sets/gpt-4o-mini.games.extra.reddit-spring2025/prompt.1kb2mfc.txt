@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac][2000-2008] Prehistoric Point &amp; Click. Platform:
+Mac Genre: Point &amp; Click. Camera was side on. I believe it was 2D.
+Estimated year of release: 2000-2008. Maybe 90s, but doubtful.
+Graphics/art style: I think the art style was hand drawn, like a
+pseudo realistic cartoon, without much exaggerated stylization. There
+was a scene in a cave that was kinda dark, with light from the cave
+entrance on the right. I think objects would light up when you moused
+over them. Notable characters: You played as an adolescent caveman. I
+don't remember how he looked. I don't think there were any NPCs during
+the part I played. Notable gameplay mechanics: Nothing special for
+Point &amp; Clicks. I remember making a spear thrower by combining
+items, one of which was a bone, I think. Other details: I played the
+free demo for this game, which I think I found on the Apple App Store.
+I didn't want to make an Apple account (which was possible to avoid
+back then), so I found the publisher's website. However, they only
+allowed you to buy the physical disc, and have it snail mailed to you,
+which seemed like too much hassle. So, I never played the whole thing.
+I remember thinking the prehistoric setting was neat, as it's
+uncommon. I remember it occasionally, and wish I knew what it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

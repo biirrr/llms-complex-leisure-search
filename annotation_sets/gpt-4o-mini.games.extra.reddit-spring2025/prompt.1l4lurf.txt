@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015] Dinosaur evolution game. I need help finding a
+game I used to watch when I was younger, All I can remember of the
+game Is that It was a world sandbox type thing, You place down
+dinosaurs, Fast forward through the years and they eventually evolve,
+Any help finding this game would be greatly appreciated, Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

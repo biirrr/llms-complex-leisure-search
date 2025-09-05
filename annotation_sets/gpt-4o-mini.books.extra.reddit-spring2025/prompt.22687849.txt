@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Husband has amnesia, resents & dislikes wife, they have a
+child. His PA (personal assistant) has feelings for husband. Wife is
+pregnant.. Husband has amnesia and resents and does not like wife.
+They have a child together. His PA has feelings for the husband and
+causes trouble."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

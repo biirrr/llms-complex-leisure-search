@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2016] 2D Platform Arena Shooter Flash Game. 2D
+Arena platform shooter flash game you would play on one of those
+""""""""unblocked games"""""""" websites at school. Was a little
+bloody/gorey and I believe had multiple game modes and you could play
+with other people via LAN. If i remember correctly they had multiple
+characters to choose from and their art style were a little cartoonish
+but just looked like some chibi call of duty characters, and the maps
+were pretty well designed and side scrolling where you had to find the
+other players and you either would have weapons on the map you could
+use to kill your opponent(s) or your char. started with their own. I
+think it had Arena in the name. Game played similar to Plazma burst
+but more fast paced. Hopefully i'm describing the game correctly
+because i've been itching to play it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

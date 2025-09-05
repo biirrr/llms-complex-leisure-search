@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox or PS2][2007] Multiplayer Adventure RPG. I have been
+trying to remember a game a friend played with me around 2007. I
+remember it being a multiplayer rpg with a fantasy aesthetic similar
+to an elder scrolls game. it was on console. Unsure as to whether that
+was xbox os ps2. The thing I always remember most about it is having a
+fire and ice sword. Like both elements combined into one sword. Don't
+remember if it was a drop or the game had a combining/creation
+feature."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Comedy/Fiction book written from baby's perspective. [s]. I
+read this book around 2003. It is a book written from a baby's
+perspective from birth through age 2 or 3. The book is set up so the
+chapters are the baby's musings/ideas/reactions as he grows. It goes
+through things like eating, diapers, parents, sleeping etc. I remember
+there is a chapter titled ""No"" where the baby says ""No. I wonder
+what it means, they say it a lot."""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

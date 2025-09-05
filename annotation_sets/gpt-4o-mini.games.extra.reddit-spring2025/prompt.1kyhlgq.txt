@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000] Hex based, turned-based, tactical warfare with
+orcs, elfs and humans. Platform(s): PC. Maybe Mac? Genre: Turn-based,
+tactical, war, hex based, Fantasy, RPG Estimated year of release:
+Early 2000's or maybe 2010's It featured 3 factions: elfs (good in
+wood), orcs (good in hills. They had worg ridders) and humans (good on
+plains. They had magicians). You could capture bases wich would give
+more money per turn to buy new units or recall previous one. There was
+a small RPG-style leveling system for your units. War scenarios were
+structued by a narrative campaing. Please help me! :-)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

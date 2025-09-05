@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc probably][2010s?] Scifi game with robot clones. There
+was a game I saw in an Outside Xbox/Outside Xtra video that was scifi.
+I thought it was Citizen Sleeper but it is not. I think that the
+premise is that there are multiple protags, with each one being based
+on the brain of a different human. Each one is a robot that has been
+cloned dozens of times into different robot types. One is brash and
+physical, so they become a fighter robot or something. I know that
+there's a red(?) robot girl who near the end of the game comes upon a
+scene where there are many different versions of her, since she was
+looking for her lost love. I believe that the game was pixely, and had
+no spoken dialogue, just text boxes. Thank you for the help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

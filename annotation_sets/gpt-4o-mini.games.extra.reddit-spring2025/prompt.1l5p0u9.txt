@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] 2d shooter/platformer. **SOLVED** There was
+this one flash game I loved to play. I forgot its name, but it was a
+short 2d shooter/platformer where you started on the ground and made
+your way up into a spaceship with a bunch of enemies. I'm pretty sure
+there was this secret gun that could be unlocked that shot bananas,
+thought it might help. I'd love it you you guys might know what game
+I'm thinking of."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

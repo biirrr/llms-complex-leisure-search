@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non fiction 1980s(?) memoir, woman responds to advert to
+live with a man on a desert island. possible tie-in with TV show? [s].
+A paperback book I read in the 1990s, but think it was slightly older,
+maybe published in the 70s or 80s. It was a memoir by a woman who
+responded to an advert by a man who wanted someone to live with him on
+a desert island. He was into survival, going back to nature, that kind
+of thing and wanted a companion to live with him for a year. I think
+his name started with a G, maybe Geoff or Garth or something similar.
+The woman did go to the island with him but basically he turned out to
+be a total creep and was constantly annoyed that she didn't want a
+romantic relationship with him. I think she may have left the island
+early because of his weird behaviour. The other detail nagging at me
+is that I think it had some kind of relation to a TV show, like maybe
+a documentary was made about their experiences on the island, but the
+woman had never told her side of the story before? I also remember it
+having a black and white cover, but I could be wrong as it's been so
+long. Any help appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

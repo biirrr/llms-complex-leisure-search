@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2024-25] a game where you can do whatever you want.
+Platform(s): PC Genre: simulation Estimated year of release: 2024 or
+even 2025 Graphics/art style: gta with a little Japanese flair (might
+be remembering that wrong) Notable characters: N/A Notable gameplay
+mechanics: very gta like. You can do whatever you want. Jack cars. Rob
+people. Fight people on the streets Other details: this may have been
+a beta too but a lot of people were talking about this game. Comparing
+it to gta because you could run around and do whatever you wanted."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

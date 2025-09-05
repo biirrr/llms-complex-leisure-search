@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][mid 90s]Simple spreadsheet space trading game with
+wierd aliens. **Platform(s):** PC **Genre:** Space trading spreadsheet
+**Estimated year of release:** mid 90s **Graphics/art style:**
+Colored. Mostly text driven narrative, with spreadsheets to acquire
+cargo on planets and static images of planets, ships and aliens
+**Notable characters:** Aliens were wierd AF with crazy shapes and
+personalities. **Notable gameplay mechanics:** You were tasked to make
+your own space trading corporation and to trade between the same
+planets in the same planetary system (no random generation, was always
+the same) and compete against the AI or other players on the same
+machine. Mostly text based, you'd need to think about buy fuel between
+runs, you could buy insurance. I don't think you could change ships
+in-run, you probably could only pick one at the start and they had
+different perks. **Other details:** Used to play this as a kid back in
+the mid 90s. Game was quite simple and mostly pick a ship, go to
+planet, keep it fueled and insured, buy stuff and sell it on another
+planet. Most stuff happened in-between runs where random events could
+disrupt your trading. No fancy graphics. Game would end when someone
+would reach a certain sum. It's driving me mad, help a brother out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

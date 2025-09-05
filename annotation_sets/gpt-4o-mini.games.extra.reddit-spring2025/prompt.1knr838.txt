@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][SNES][1990-?] A fight game in 2d for 2 players where
+you beat enemies and keep going, one of the first levels or the first
+level is in a dojo you can pick up weapons. Also, a detail that i
+think (?) was in the game was that if you made a flying spinning kick
+you skipped the level Had a lot of fun with my brother in the old days
+i want to surprise him if you guys figure it out"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Flash] [2000s?] Weird game with little purple
+characters. Im very sorry if im doing something wrong in this post,
+first time visitor I used to play a game with my friends in school in
+around 2010, but i think the game was probably older. The ONLY details
+i remember are these but theres a chance im wrong, very hazy on it!
+- There was a pizza creation level, very early in the game - You were
+or were followed by little purple characters, i dont know why - There
+was a level where you had to navigate a tough path, like the side of a
+mountain or leap frog type jumping level, this is the one im most
+haziest on - For years i remembered this game having a Z in the title,
+i always presumed at the start but i dont know, i never found
+anything even relating to it! I dont think it was very obscure or
+anything, we usually just browsed the most common sites back then, it
+was australia if that helps at all? Sorry that its not much help!
+Will go through comments (if there is any lol!!) and give any
+assistance and yes or no questions"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

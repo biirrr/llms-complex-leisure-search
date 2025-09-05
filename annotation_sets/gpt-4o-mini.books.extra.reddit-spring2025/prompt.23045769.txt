@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction/ Magical Realism. Latin American children's
+playwright tries to find his ""disappeared"" wife.. Hi all, I'm trying
+to find a book I read in 2010, but never finished. The book was part
+of a class assignment when we were covering latin american literature
+and magical realism. It may have been written in Spanish originally,
+if so, I was reading an English translation. The protagonist is a man
+who happens to write children's plays, perhaps he is a relatively
+beloved librarian. His wife may have been some sort of city
+administrator. Either way, I believe her outspokenness got her
+abducted-- ""disappeared"" -- as they refer to militia-led kidnappings
+that have ravaged the country and led people to comply out of fear.
+The protagonist is heartbroken, distraught, but doesn't know what to
+do. In his despair, he has a dream, in which he sees his wife in a
+sorry state, perhaps having recently been tortured. When he wakes, he
+is thrilled to have seen her alive, and he begins feeling like he can
+bring her back... Not entirely sure where it was going from there
+because that's all I read. Any thoughts, ideas, suggestions? Thanks a
+million."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

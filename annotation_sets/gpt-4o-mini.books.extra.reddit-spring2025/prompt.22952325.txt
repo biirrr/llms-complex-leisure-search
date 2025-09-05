@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book. Kids at a camp in the woods. Girl had to
+cut her braids off because they became mildewed? Kids swam and canoed.
+Read before 1965.. I am looking for the title to a children's book I
+read over 60 years ago. It's about kids at a camp in the woods. The
+bizarre thing I remember is that one of the main characters, a girl,
+had to cut her braids off. The kids spent time swimming and canoeing
+and this one girl never combed out her braids. Her hair became
+mildewed ( I think ) and they had to cut it off.Not much info but I
+have often thought about this book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [pre 2012 at least] Some Kung fu sumo game where
+you could put pictures of people and see them get bruised. I remember
+the home screen and general UI being a blue colour, and that I could
+input selfies or photos onto my opponent, basically I could just beat
+the shit out of whoever I wanted digitally = they got bruises and
+like black eyes and stuff and thinking back on it that seems kinda
+advanced, but whatever. After the round finished I'm 99% sure they
+used that really overused chinese """"""""HOOO"""""""" sound effect
+and a gong"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

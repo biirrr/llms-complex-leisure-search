@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction about a girl who is a twin who’s a tomboy. Set in
+a coastal town. [s]. I’m pretty sure this is a YA book. She’s a twin
+or has a sister close to her in age. She’s tomboyish. They live in
+coastal town and I feel like I remember her going to the docks and
+helping with her father’s business. Lobster trapping maybe? She has a
+guy best friend and feels betrayed when him and her twin get together.
+She ends up becoming a midwife or something and marries a guy with two
+kids"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

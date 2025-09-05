@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Unknown] Black and white game where you play as a
+boy collecting materials to make a village while POSSIBLY protecting
+yourself from monsters. I remember playing it on mobile specifically
+Horror? I have no exact idea but I know I was playing it 2019? The
+graphics... There really wasn't any if I'm correct maybe, it wasn't
+3d... Some notable gameplay mechanics was definitely that the game was
+in black and white and you play as a boy who collects materials for
+his camp. You'd have these things like a button for collecting wood,
+it was almost like an idle story rpg I think. A game that was close is
+The Wild Darkness But it isn't story, there's actual playthrough where
+you can control the character unlike the game I'm looking for. I used
+to play it on my mom's old phone and I tried finding it through the
+uninstalled library on the play store but it doesn't show up so... I'm
+guessing it was deleted off of the play store?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

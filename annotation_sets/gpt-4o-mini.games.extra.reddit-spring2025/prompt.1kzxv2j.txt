@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90's maybe 2000] 3D point &amp; click adventure
+set in the future. So I remember playing a demo of this game way back
+when. The setting is futuristic noir, you're a private detective
+sporting sunglasses and a leather jacket. The demo had you investigate
+someone's appartment, I vaguely remember some key card puzzle to get
+inside. There's also a hover car and/or bike parked outside. The
+camera was static, like in typical adventure games. Anyone recognize
+this?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

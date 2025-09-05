@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SciFi - Man explores the universe. Main characters are
+Conway and Priscilla. Discovery of a planet which is a living
+organism, but which gets nuked by its inhabitants. Read in the late
+1980s.. I'm searching for a book which I've read in the late 80ties.
+It's a scifi novel where men explores space. The main characters are
+called Conway (male human) and Priscilla, an elflike female creature
+with wings. They discover a new planet, and pick an wheel formed like
+inhabitant from its surface. Later on, they discover that the planet
+gets nuked by its inhabitants in order to remove some moss like
+infestation, but to their horror they find out that the planet is a
+living organism. I would very much read it again, but have no clue
+anymore about the title or author. Any help is appreciated !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

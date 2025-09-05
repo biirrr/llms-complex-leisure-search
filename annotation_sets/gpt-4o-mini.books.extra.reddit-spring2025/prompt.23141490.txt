@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Culinary stories anthology oxford or cambridge. about 20
+years ago I used to borrow a book from the public library. It was an
+anthology from either oxford or cambridge, and it contained amazing
+stories about food, based on culinary reporting and/or memories,
+stemming from the first half of the 20th century. I remember stories
+about food on the seas, like the use of sambal on Dutch ships. Also
+eating in the south of France. It might have contained work by M.F.K.
+Fisher, but I am not sure. She would have fitted in well. I long to
+read and own this book, I miss it dearly. Does anybody know what it
+might have been titled?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

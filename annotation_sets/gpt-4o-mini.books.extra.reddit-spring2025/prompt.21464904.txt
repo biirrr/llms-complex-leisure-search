@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book about women design and decorate own home. I
+bought this book within the last 20 , years. The author has a line of
+greeting cards and other items featuring quirky sketches of women.
+They partly illustrate the book. The other illustrations are photos of
+her home, before and after she remodeled it. It's about women
+designing their own spaces, possibly after a divorce or other life
+event. It asks lots of questions about how you want b to use the space
+etc. Author may be named Jill. It's not a big book, and bit might be
+coil bound. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

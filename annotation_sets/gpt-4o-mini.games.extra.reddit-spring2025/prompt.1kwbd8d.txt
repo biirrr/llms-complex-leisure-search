@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016?]2D ACTION PLATFORMER INDIE GAME IN THE STYLE OF
+CASTLEVANIA. I'm trying to find a game I played around 2016. I recall
+a few things: * It was pixel-art, and the screen was a square size
+like an old SNES game. * The character was kinda like a hunter, the
+game began with a village burning down * The first level was the
+burning village and another level was like an aqueduct. * There were
+multiple paths to the final level I think, and a secret ending maybe?
+* The main weapon was a sword and I think you had sub-weapons like in
+Castlevania Thats all I can remember. I hope somebody will know the
+game I'm talking about. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

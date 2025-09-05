@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows][2020-2024] Laser Pointing Gun(s), Third Person,
+Dressed In Black Female Protagonist, Horror Thriller Game.. Hi, I'm
+Looking For This Game I Watched A Trailer Of, It Was On Windows,
+Released Like Two Years Ago \[2022-2024\], The Graphics Were Indie
+Like, The Protagonist Was A Dressed In Black Female, The Protagonist
+Was Using Laser Pointing Gun(s), The Game Was In A Chaos And Monsters
+Outbreaked Facility."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

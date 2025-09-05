@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MacOS] [early200s] shareware desktop pet simulator game.. I
+recently got into Insane Aquarium on my windows computer while waiting
+for MapleStory server maintenance to finish, nothing seemed fun.
+Bought insane Aquarium for 5 bucks. Succesfully set it up as my
+Screensaver, and now I'm wondering about this pet Sim game I had on my
+first childhood computer. This game was a shareware game that was
+installed on the iMac g3 my uncle gifted my family. It was some pet
+simulator game that, if I recall correctly was able to transparent the
+window and it'd move around the desktop. You could buy eggs that were
+a solid color background with spots or stripes or zigzag patterns. I
+vaguely remember some lightning dog looking thing you could pet, and
+some brown spider-limbed fuzzy creepy thing were the only pets
+unlocked. It was definitely shareware because I couldn't buy anything,
+it'd try to make me open a link but we didn't even have dial up back
+then. I think it predates Nanosaur and MDK."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

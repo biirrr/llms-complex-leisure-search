@@ -1,0 +1,55 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult nonfiction. Christmas crafts, 4 sections, one was
+called ""A Collection of Santas"". There were 4 or 5 small pictures on
+the cover, rather than one large one. [s]. Hi everyone, this one is
+kind of a long shot, but here goes: I'm looking for an adult
+nonfiction book of Christmas crafts. I read it as a kid, in the early
+to mid 00's, but I don't know whether it was a new book at the time or
+not. It might have been published as early as the 80's, but I tend to
+think it would be more in the 1995-2005 range. It was a library book
+in excellent shape, and I don't remember any of the pictures looking
+funny or dated, so it was probably fairly recent. The book is divided
+into different sections. I believe there were only four, although it
+might have been five. The one I remember most vividly is the Santa
+chapter. One of the Santa ornaments featured in this section was a
+long skinny crescent-moon Santa, with the hat going up and the beard
+coming down. It wasn't round like a circle, but much straighter and
+possibly rustic-looking. (Faded colors? Wood?) Another Santa from this
+section was more 3D and doll-like; it had a big fluffy beard that
+seemed to hang in sections, like banana curls or dreadlocks. (It
+wasn't banana curls or dreadlocks—I think it was hanging weird because
+of the material it was made of, but that's kind of what it looked
+like. I believe this full-bearded Santa was one of the projects
+featured on the cover, possibly in the lower-left quadrant (but again,
+I'm not sure). The cover wasn't a single large picture. Rather, it was
+four small pictures, like a window pane. There may or may not have
+been something in the center where they connect, and even if there
+was, I don't know whether it was a fifth image or the title. I believe
+there were four chapters, and I feel like the separate images
+represent one craft from each chapter. It was NOT a book specifically
+about a single type of crafting (e.g., cross stitch). I think it
+didn't have any recipes. (Maybe a few together in one of the chapters,
+but I'm pretty sure it was JUST crafts.) It was not based around a
+single theme (e.g., Vintage decorations). It was decently thick, so I
+don't think it was one of those magazine specials. It was not intended
+for children. That is, they're adult-level crafts, and this isn't
+geared specifically for parents and children together. There are a lot
+of clear, full-color photos. I don't remember seeing any drawings or
+black-and-white images, and I don't remember seeing much in the way of
+patterns or charts. I think there were templates for some of the
+projects. Other stuff that's vaguely sticking in my mind is a stocking
+craft and something involving evergreen. (Yeah, sure, as though THAT
+would narrow it down.) I feel that maybe the stocking was gold? There
+might have been something with snowmen someone in the book. I think
+there might have been a glass bauble ornament on the cover. I know
+this isn't much to go on, but I'd be grateful for any help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

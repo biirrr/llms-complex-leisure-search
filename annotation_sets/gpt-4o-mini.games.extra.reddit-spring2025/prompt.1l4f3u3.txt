@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC browser][maybe 2015?] Browser based space ship game.
+Platform(s): Browser Genre: Spaceship shooter Estimated year of
+release: idk maybe 2010? i played it around 2015 I think Graphics/art
+style: honestly cant remember, it was I believe a 2d top down I don't
+think it had great graphics. Notable characters: I believe there were
+3 kinds of spaceships, a small triangle shaped one that moved fast and
+was easy to destroy. A medium sized one that looked almost like a
+plane ish. And a very large one that moved crazy slow and was boxy
+shaped. I think there were different colored teams, red green blue and
+yellow maybe. Notable gameplay mechanics: You were a spaceship
+fighting other spaceships, idk if they were real people or just bots.
+The small ones would die fairly easy but the larger ones would almost
+never die. It was top down I think so only 2 axis of rotation. I do
+not know the name of it or what website it was from. All I remember
+was I used to try to play Bowmaster Prelude and before the game
+started an advertisement would appear to play the game and I would
+play it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

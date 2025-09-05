@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Juvenile Scholastic 2-book series from early 2000s. Diary or
+journal format? Girl's mom remarries in first book, she has twin baby
+brothers in second book.. Anyone happen to remember a scholastic 2
+book series from the early 2000s that was a diary /journal? It was
+about this girl and in the first book her mom gets remarried and in
+the second book she has twin baby brothers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

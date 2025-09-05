@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020-25] Platformer 3D alien game i cant find the name
+of. There is a game i kept seeing scenes of on Tiktok,it is a
+platformer from what i remember and its full of aliens and most have
+their mouths sewed and somehow look like the sketch i
+drew(horrible,sorry but im not a good drawer). I thought it was called
+Outer Worlds but i was wrong,i cant remember anything like voicelines
+or names of characters except how they looked and that recently some
+figurines came out of the main character. https://preview.redd.it/m1s5
+hhupae0f1.png?width=712&amp;format=png&amp;auto=webp&amp;s=a739bc97c96
+d0e322f771ca8b6082ceff20bd983"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

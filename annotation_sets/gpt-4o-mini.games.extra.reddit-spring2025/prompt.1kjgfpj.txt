@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NINTENDO DS] [2000s] Game about collecting words/concepts
+to save the world. **Platform(s):Nintendo DS:** **Genre:Topdown
+JRPG:** **Estimated year of release:2000s** **Graphics/art style:3D,
+sort of like Rune Factory/3D Final Fantasy games** **Notable
+characters:Main character with a book, maybe a fairy/tagalong girl?**
+**Notable gameplay mechanics:Defeating monsters/breaking things gives
+your words or concepts to power up or weaken other things** **Other
+details:I think you could juggle enemies so high they flew out of the
+map**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010-2015] Top-Down 2d Zombie shooter. Platforms:
+Mobile Genre: Top-Down 2D Zombie Shooter Estimated year of release:
+Between 2010-2015 Graphics/art style: Nothing really over the top just
+some simple geometric shapes. The game puts you in the dark with your
+character just emitting light so you can see around you. The
+atmosphere doesnt really change throughout the game. Notable
+characters: (Image Above) The game has you play a simple circle with
+tiny little dots that resembles hands it symbolizes a Human and the
+Zombies are Green Squares with no others features to them Notable
+gameplay mechanics: Its a CoD zombies-wave type game where you shoot
+zombies and unlock key items in order to compete the levels. Other
+details: I know the image about doesnt really explain everything
+about the game but I can vividly remember that the game has you
+choosing different Maps you can play in. I remember there being a Map
+where youre in a lab, and in front of you is a vending machine where
+you can buy guns with points that you earn from killing the square
+zombies. The other map that was playable was a house map, and all you
+have to do is open up sections of the house so the zombies dont
+overwhelm you. I can kinda remember there being a shed that you can
+open up with a key. If you lose im pretty sure you also become a
+square zombie along with a red game over screen. So for a long story
+short, there was (Maybe) three maps you could play in: A lab, An
+Airplane, and A House. Character was a circle and zombies were squares
+(Image above), that you shoot to earn points that unlock new guns to
+combat them later on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

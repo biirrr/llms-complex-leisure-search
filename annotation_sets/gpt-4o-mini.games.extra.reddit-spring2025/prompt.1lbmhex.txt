@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005-2010?] Life game. Just had a real nostalgic
+moment about a game I used to play with my dad. Must of been around
+2007. I've googled a lot and nothing has come up. I'm pretty sure it
+had the word LIFE in the title. Maybe not. But all which comes up on
+google is the game of life board game when I google it. It's a pc game
+which was free to download. You could buy cars, land &amp; property
+with real money l'm sure people used to earn a lot of money on it. My
+pc used to lag so much on it, it was heavily populated. It wouldn't
+surprise me if it was more popular in Asia. I can picture it all in my
+head but it's so hard to turn it into words. Any suggestions on such
+basic explaining?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

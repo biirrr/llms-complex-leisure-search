@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s book - 3 separate stories about kittens. Possibly
+scholastic book fair. Read in mid 2000s.. This book I had and read in
+the mid 2000s. I think it had a dark green cover with 3 different
+colored kittens. I know one was like a calico and one was white with
+blue eyes. Can’t remember the third kitten. I remember ONE of the
+stories. It was the white kitten. It couldn’t meow and then later on
+it learns to meow because the owner’s young daughter had like an
+asthma attack or something and the kitten alerts the parents. I’m
+thinking scholastic book fair, because it was a small paperback with
+like 3 short stories. I can picture it in my head but it had to be the
+most vague random title. I just want to see this cover."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

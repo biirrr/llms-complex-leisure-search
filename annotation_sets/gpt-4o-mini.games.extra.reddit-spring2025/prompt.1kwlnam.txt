@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] A old/original GTA like game where you choose a
+shooter character with a specific gimmick, female character called
+'the Consumer'. A freeware/shareware game from these CD Roms you could
+get at the game store with a lot of demos for games. I could never
+afford the real games but played the hell out of the demos available.
+The game I recall was a very gory, almost Mad Max style shooter game
+with different terrifying characters that used weird weapons. One
+character called the Consumer was (I think) a cannibal that wore her
+hair in ponytails and she looked crazy. One other character was shaped
+like the pokemon Kabutops, his power was blood bath that would just
+cover the screen in red. The game allowed for co-op and my late friend
+and I would play - one using keyboard, other mouse. Solved: Re Loaded"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

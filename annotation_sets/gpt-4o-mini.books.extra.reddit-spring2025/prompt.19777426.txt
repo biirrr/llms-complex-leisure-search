@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book about architect, new home owners and carpenters. [s]. I
+am looking for the title of a book I read and assume was published in
+either the 80s or 90s. It is about building a house in New England and
+I believe was written by the architect. Written basically about the
+interplay between the architect the young family that hired him and
+the carpenter crew hired to build the house he designed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

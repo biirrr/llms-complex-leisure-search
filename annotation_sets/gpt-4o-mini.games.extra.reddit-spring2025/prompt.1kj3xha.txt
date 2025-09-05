@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Game about a white fox like creature with WASD
+magic mechanics.. A 2D game about a white fox like creature I found on
+a random website when I was a kid. I think you actually used wasd for
+movement while the arrows could create different magic combinations to
+fight off black slim dogs/wolfs. Might have been a storyline. Heres a
+drawing of what I remember. The white fox was curled up in mid air for
+one of the combos (the combo would create a look of a compass/clock
+with a big arrow going up and down which you had to accurately pause
+to hit the enemy black dogs/wolfs.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

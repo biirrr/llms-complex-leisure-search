@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][Post 2014] Game about a witch. I'm looking for a
+game I played on android while I was in high-school. It was a 3rd-
+person adventure(?) RPG game following the story of a little witch
+hiding in nature. You could grind stats from training in different
+ways and you could beat certain mobs and turn them into rideable
+animals. You also had magic and weapons you could upgrade from mob
+drops. I know the game is a long series with at least 4 games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

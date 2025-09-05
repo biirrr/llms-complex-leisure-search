@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction book about handicapped child committed and
+forgotten. A few years ago I heard an interview with the author of a
+non-fiction book about someone's whose younger sibling was committed
+to a mental asylum as a baby - the older sibling kind of remembered
+the child who was sent away, leading to the title ""Where's /name/?"".
+This was more than 6 or 7 years ago I think. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

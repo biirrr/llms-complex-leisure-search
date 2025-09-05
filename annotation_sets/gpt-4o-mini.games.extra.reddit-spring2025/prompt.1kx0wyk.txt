@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash] [2000's-10's] 2d shooter of a guy with grey hair
+shooting guys on the other side of the street. I remember this 2d
+shooter with a pixel art style but I cant remember the name. You play
+as some older looking dude with grey hair, a white jacket, and pistol
+on one side of the road on the side walk. You had grenades that
+recharged and could crouch behind cars to heal. You fought a whole
+buncha military looking dudes the poured out from the other side of
+street from windows, doors, everywhere. I remember it was also a demo,
+at the end it teased you could play with a shotgun next level in the
+full game in some sorta subway area. You could also dive and roll."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

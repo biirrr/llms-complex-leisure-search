@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000 to 2010?] Brick Breaker Game. I've been trying so
+hard to find this game. I'll give as much detail as possible. I
+remember playing this as a kid on a Windows computer. We had a demo of
+it that only let you play like ten levels before you would have to get
+the full thing. It was very futuristic and you were a little
+cylindrical spaceship that I think had a red square in the center at
+the bottom of the screen shooting a ball at bricks. I remember one
+level having a pink background with the brick being either pick or red
+in the shape of a heart. Some bricks took multiple hits and would have
+a silver circle in the middle of them. I remember one powerup made the
+spaceship super wide, one made it super thin, and one made you shoot
+multiple balls at once. It was not arkanoid or ricochet. I did a
+terrible drawing if it helps anyone. I'm beginning to fear that I'll
+never find it. The sounds were like high pitched tinks? Please help
+before I go crazy. i think level backgrounds were space like or
+galaxy"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

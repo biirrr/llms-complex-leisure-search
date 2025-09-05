@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gamecube/PS?] [Early 200s] driving game with battle
+mechanics. Early 2000's car game Genre: driving game. Not sure if
+racing or battle Platform: gamecube or ps2 Year of release: early
+2000s Art style : cartoony. Blocky Characters: possibly a skeleton as
+a driver but not sure Mechanics: multiplayer. you could attach weapons
+to front of vehicle such a boxing glove or chainsaw. You would attempt
+to hit other drivers but not sure whether it was a racing game or
+battle game as I was young. Other: the only level of the game I
+remember is in a graveyard Please help as this has been stuck on my
+mind for ages!!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

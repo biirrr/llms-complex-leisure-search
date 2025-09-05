@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2010-2016] Game with tribal theme about child
+sending a star back to the sky with gameplay very similar to Learn to
+Fly 3. In this game, I believe you were playing as a child in Africa,
+I remember the game being I think tribal themed, with the main
+character living in a hut and building his flying device from wood and
+basic materials. A star falls from the sky, and your goal was to send
+it back by upgrading your flying contraption with various enhancements
+bought from the store. You tried to get as high as possible, you got
+money based on how high you went, and then you used that money in the
+store to buy upgrades that would help you go higher. It had a very
+similar gameplay loop to Learn to Fly 3."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

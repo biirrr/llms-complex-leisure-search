@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror/ Suspense Short Story. Two thieves rob a
+pharmacy/ grocery? store, someone gets shot, they take a male hostage
+to empty house. Twist. Read late 1990's? Spoilers ahead.. I listen to
+a lot of audiobooks, and want to find a particular story I really
+enjoyed. My family and I listened to collections of horror/suspense
+short stories on road trips, and there was a particular short story
+that I'm trying to remember. This particular story seems like
+something in a Stephen King collection, but I cannot find it. The
+plot: there are two robbers who rob a pharmacy, or grocery store, or
+something along those lines. The robbery goes wrong, and one of the
+robbers ends up shooting somebody, so they grab a hostage. The two
+robbers take the hostage and drive to an unoccupied house while trying
+to avoid the police. The hostage slowly builds a relationship with the
+robbers, and eventually earns their trust. The climax of the story:
+the hostage persuades the robbers into letting him go outside (can't
+remember why). IIRC, the hostage turns out to be a talented salesman.
+Just as the hostage gets outside, a police cruiser turns up the
+street, and the two robbers think the hostage is about to get away.
+However, the hostage hides behind a bush, and once the police cruiser
+is past, the hostage goes back into the house, much to the relief of
+the robbers. [Spoilers ahead] The robbers thusly let their guard down,
+and the hostage quickly turns on them and ties them up. It's revealed
+that the hostage is related to the person murdered in the beginning of
+the story. It ends with the hostage telling the robbers that he didn't
+want to get away and now how he is going to torture them. I remember a
+lot of details, but not the name or author. If anybody knows this
+novella or the collection of stories to which it belongs, I'd be very
+grateful! Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

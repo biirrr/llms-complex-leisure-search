@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Thriller about a group of kids meeting and
+they dare one of the girls to stay in the water.. Hi everyone! I'm
+having a hard time piecing this one together, but this is what I can
+remember: Group of kids between 8-12 (?) meet while on vacation with
+their families and they dare this one little girl to stay in the rocks
+near the water but when the tide comes in she drowns, years later her
+brother ended up taking his life too in the same way. The brother
+talks about the group deciding not to say anything about what they
+did, but the guilt still follows him. They may mention Peter Pan or
+Tiger Lily during the book as well"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

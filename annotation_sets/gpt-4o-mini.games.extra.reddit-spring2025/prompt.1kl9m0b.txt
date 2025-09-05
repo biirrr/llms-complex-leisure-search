@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010-2017?] Game about finding resources on an
+alien planet to fix your ship/ call for help. I remember the game
+being a space survival/terraformer? You play as this young girl with
+pink hair who crash lands on an alien planet and the game is about you
+needing to gather up resources to either fix your ship or build a
+beacon for SOS. It was 3D and the map was split into these square
+chunks and you had different tools like a shovel and pickaxe that
+allowed you to change the environment and gather resources. I also
+think that you had to manage a hunger, thirst and energy bar and that
+there were day and nights cycles to the game. I know I downloaded it
+off the play store when I was a kid, but I can't seem to find it on
+there anymore"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

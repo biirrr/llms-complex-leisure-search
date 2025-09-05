@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Medieval Romance from 1980’s(?). Woman’s family
+murdered by intruders sent by unknown enemy. Spoiler.. Lady’s family
+is killed by intruders sent by unknown enemy. (Mother, father,
+sisters, their kin…) the only two to survive is her and her young
+brother who has amnesia from the psychological trauma. She hides out
+in the forest with her two large dogs. Her father’s overlord takes
+back the household from the enemy but is injured. She comes from the
+forest to heal him She leaves for the forest again after healing him
+but he comes and finds her. Somewhere in here she discovered her young
+brother in the household alive and tried to send him off to safety
+with a servant but they are caught by the new overlord. Her and her
+brother live in the household with the overlord as he tries to
+discover who killed he family along the way her brother remembers the
+trauma of his parents death and heals from it proving to be
+mischievous as the only boy and youngest child. Eventually it was
+discovered that the person behind the plot was another member of the
+family (I think one of her dead sister’s husbands was involved and
+maybe an uncle?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

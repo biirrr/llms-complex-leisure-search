@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] 3d flight game with geometric shapes and open
+world. It had to have been DOS era based, or early 3.1 but launched
+from DOS. You flew a 3d ship, kind of like a jet/spaceship, in an open
+world with targets in the sky and on the ground. I can't remember if
+there were bad guys that were large ships or if there were a lot of
+large sky scrapers(or both) When you shot them a diamondish shape
+power up would appear and you wanted to collect them. I feel like your
+weapons kind of terra formed the ground. It wasn't dark like in space
+but during the day on what seemed like earth. I may have only had a
+demo disk not really sure but I remember playing for hours. Sky rouge
+is the game that I can most closely compare it to modern times. Had a
+kind of og starfox feels but much more open world."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

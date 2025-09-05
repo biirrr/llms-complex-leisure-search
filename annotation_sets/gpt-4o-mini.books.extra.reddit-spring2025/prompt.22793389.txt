@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens book about bird siblings and a monkey teaching
+about greed. Read around 2008-2010.. It is a bilingual English-
+Indonesian Childrens book. I read it when I was 9, posibbly aroun
+2008-2010. The plot revolves around birds siblings (they have long
+beak) and a monkey. The birds live in a tree house. One day, the evil
+monkey goes to the house when the older bird is not around. Monkey
+left a basket full of spicy food. Hungry, younger bird ate it not
+knowing it is so spicy. Younger bird choked and fell of the tree,
+resulting in his death. Older bird was devastated when he knew his
+brother died. He knew monkey is the culprit. To payback, older bird
+asked monkey to sail with a boat made out of food (possibly rice).
+Monkey's greed was uncontrollable, he ate the boat while they sail on
+the water. When the ship is sinking, older bird flies leaving monkey
+to struggle on the water."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

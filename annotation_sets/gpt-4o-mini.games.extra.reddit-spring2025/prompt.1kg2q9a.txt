@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [pre 2000] procedural dungeon crawler. Platform: PC
+Genre: Fantasy RPG, possibly rouguelike Estimated year of release: I
+played it possible 25 years ago so at least before 2000 Graphics/art
+style: pixel sprites, top down. No animations from what I could
+remember Notable characters: unknown Notable gameplay mechanics:
+turnbased RPG where you explore a (possibly procedural) dungeon.
+Combat very simple where you just move your character onto the enemy
+grid space (grid not visible) to attack. Can purchase weapons and
+gear. Other detail: main thing I remember, I was very young when I
+played it, was the walk from the starting area up to the dungeon where
+the game started. It was a dirt path that lead up the screen a very
+short way. It was either a cave or a ladder that lead to the dungeon.
+I think the player character was wearing blue. The only other thing I
+really remember was the money system including platinum as the unit
+above gold. (copper-silver-gold-platinum). Another thing that might be
+helpful is my dad got it as part of a collection of games from a
+friend. So I'm not sure if it was meant to be part of a collection or
+not but could be helpful. Appreciate this is super vague but I can
+only really remember this one part but it's a very nostalgic part of
+my childhood."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

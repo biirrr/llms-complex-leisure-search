@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction. 2-3 sisters, one had mind reading (thought-
+hearing) abilities and the others may have had other powers. Read
+2010-2014.. Read 2010-2014. I barely remember anything, but there were
+2 or 3 sisters and one of them one day got this ability to hear
+everybody's thoughts around her. She was lying in bed one day, and was
+so overwhelmed because she heard all the thoughts of all the people in
+the traffic outside her house I think. The others might have other
+abilities...?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

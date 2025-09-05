@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ios app] [early 2000s/2010s] unsettling tooth surgery game.
+i have vague memories from my childhood of playing this game on my
+dads ipad. the concept was something about dentistry or tooth surgery
+and i remember all the characters looked sort of hyper realistic -
+very weird and sinister with long faces. if you messed something up
+the game would say FAILED ! THE PATIENT FELT PAIN or something that
+made you feel really bad. i remember there were a lot of shadows and
+dark colors."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-ish] Boxing Game where you could buy/upgrade
+houses in between fights. 1. Platform: PC (at least) 2. Genre: Sports
+3. Estimated year of release: 2000s 4. Graphics/art style: 3D low poly
+i guess? 5. Notable characters: Tony/Toni (opponent) 6. Notable
+gameplay mechanics: - It has a Career mode where you can earn money
+through fights and then buy houses (even mansions) and other stuff.
+Doing that raises stats like: prestige, status, respect, etc. -
+Opponents get tougher with each fight, but you stand to earn more if
+you win. - It uses first-person camera as far as I remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

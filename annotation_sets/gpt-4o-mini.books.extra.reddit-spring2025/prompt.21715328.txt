@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Medieval Celtic Romance. Child bride with special
+power to see the future. He leaves her with his? family & returns from
+war years later. Cover: two blonde sisters. Inside cover: painting of
+two sisters hold small Celtic harps.. Searching for a book printed
+1980-1999. Inside cover: two blonde sisters holding small Celtic
+harps, painting - looks like medieval stained glass painting. In the
+story one has to marry very young. Once wed, they did not consummate
+the marriage as he did not want to get married in the first place and
+she was so young. She is left behind with his family -I think- and not
+treated very fairly with them. Once he returns, he wishes to have more
+of a marriage but they have trouble consummating, as she is very
+afraid. She's known to have the ability to see in the future, every
+time they are together she feels/sees that she's drowning and believes
+that being with him will bring about her death. I believe that there
+are some lies being involved with his family, but I do not remember.
+Book cover is a painting of both girls/sisters, without definition of
+shadow and light like other book covers or a recreated photo."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

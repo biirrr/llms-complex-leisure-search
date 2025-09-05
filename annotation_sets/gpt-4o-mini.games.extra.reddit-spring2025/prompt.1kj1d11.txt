@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [2000-2010s] Horror game that takes place in the
+woods (?). I don't recall much, except for one specific instance
+within the game. The protagonist has to pass through a cave/rock
+passage of sorts, however a woman who had turned into a tree was
+blocking her pathway through. I also believe the tree woman was
+holding a baby. She was still able to communicate via speech IIRC. The
+tree woman was ultimately set on fire so the protagonist can move
+through the passageway. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

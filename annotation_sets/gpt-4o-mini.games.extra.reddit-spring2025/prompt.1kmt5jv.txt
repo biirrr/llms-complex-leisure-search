@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1998~2002] [Action RPG / Third-person] I probably got
+it from a demo CD that came with a game magazine. Platform(s): PC
+Genre: Action RPG / Third-person / Fantasy Estimated year of release:
+Somewhere between 1998 and 2002 Graphics/art style: The closest
+comparison I can think of is Enclave  similar camera and graphics,
+maybe a bit brighter and more colorful. Notable characters: I think
+there was just one male main character. Notable gameplay mechanics:
+Again, it was kind of like Enclave but with more RPG elements. What
+really stood out to me was that you could loot almost everything  or
+at least every weapon from defeated enemies. Other details: From what
+I remember about the gameplay and where you start, I think youre
+inside a castle  either a bedroom or maybe a prison cell. You fight
+your way through, not necessarily climbing ladders, but kind of
+working your way up to the ground level. Once you're outside, I
+remember some greenery, like a castle garden, and possibly a water
+fountain. It was a pretty tough game, but honestly, most games were
+kind of hard back then. I don't think I ever had the full version  my
+memories are probably from a demo CD that came with a game magazine."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

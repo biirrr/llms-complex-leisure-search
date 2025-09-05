@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir about a woman who is living in a commune and
+falls in love with a man named David. [s]. This is an adult book,
+either historical fiction or romance and it is about a woman in some
+sort of a commune and she falls in love. I don’t remember lots of plot
+points but I do have a section of a passage from a picture I took once
+on my kindle. “ Where I could belong, where I could maybe one day be
+free. I was safe here - in this country, in this commune, in David’s
+arms - and I never ever wanted to leave. We stayed there for a long
+time, watching the sun crest the hill with all its yellow and pink
+glory. I remember thinking that I’d never been truly happy before, not
+like this. I had only ever been trying to survive. I made up my mind
+then and there that I’d never let the feeling go, that I’d never let
+anyone take these gilded memories from me. Then the moment was over,
+and we had to rush to get dressed and run back to the house. We hid
+the blanket in an unused suitcase in the garage, and I made it back in
+time to wash my face and hands, fix my hair and get my glasses on, and
+plop down in the living room. “"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

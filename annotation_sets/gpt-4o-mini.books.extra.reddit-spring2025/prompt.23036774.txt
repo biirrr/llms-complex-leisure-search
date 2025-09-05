@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1970’s YA Fiction. Mexican girl goes into Foster care with
+seamstress after little brother’s accidental death.. 1970’s YAL maybe
+a scholastic book. May be set in Los Angeles. Mexican girl goes into
+Foster care while her parents are investigated for the death of her
+little brother. He may have accidentally fallen out of a window? The
+girl is going to her first dance and her Foster mother sews her a
+dress. She hates the brown fabric until she sees how flattering the
+dress is then comes to appreciate how talented the Foster mother is.
+Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

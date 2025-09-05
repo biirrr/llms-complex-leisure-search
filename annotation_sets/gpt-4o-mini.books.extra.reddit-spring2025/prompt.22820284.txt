@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Romance . What if she stayed or left. It is mandatory to
+include genre and plot details in your topic header , as per the Group
+Rules . Because this group is so huge, we will close threads that
+don't adhere to this requirement. Please add more plot details to your
+topic header from what you've already written."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

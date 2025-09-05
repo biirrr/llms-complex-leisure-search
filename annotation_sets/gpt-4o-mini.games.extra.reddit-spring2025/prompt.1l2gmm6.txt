@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s?] Ragdoll war game. I remember watching
+YouTubers play this one game a long time ago where there were
+different levels and you had to go to war against the opposing team,
+which was already set. You got to choose your characters (each had a
+different characteristic, like there were ones who shot catapults, and
+you could place a bunch of them), and then you would start the war and
+see if you won or not. You could freeze or slow down the game to see
+better and I think you could also rewind. The characters acted like
+ragdolls, they would easily fall over and would stumble all over the
+place. The teams were always red and blue. I could be remembering
+wrong, but I think Coryxkenshin played it, and I know a YouTuber named
+Itsfunneh played it. This game randomly came up on my mind and I cant
+find the name of it anywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

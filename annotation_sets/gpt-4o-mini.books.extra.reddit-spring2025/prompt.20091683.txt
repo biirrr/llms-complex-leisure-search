@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir or autobiographical novel about poor Irish family.
+[s]. I am trying to find a book about a big, poor Irish family that I
+read in the 1980s. It's almost impossible to search for this without
+running into ""Angela's Ashes"" but it was NOT that book. (It's also
+NOT ""Yank"".) I have tried google searching and google books, and
+I've used the advanced search options, like putting a minus in front
+of ""Angela's"" and ""Ashes"" and it didn't help much. I know I read
+it when I was still living at home with my parents, so it could not
+have been published later than 1990. I suspect it was published in the
+70s or early 1980s. I'm not 100 percent sure it was memoir. It could
+have been an autobiographical novel. Two plot points I remember: 1)
+The main character talks about how the tea has so many ""bits"" in it
+that it's almost indistinguishable from soup. 2) The mother tells the
+father she can't have sex with him (this is conveyed in a more subtle
+and less explicit way, though) because she is pregnant with their next
+child."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

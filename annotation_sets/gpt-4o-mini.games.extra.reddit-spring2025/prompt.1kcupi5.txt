@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2020] japanese point and click horror game. Im not
+sure it counts as a game, but i rememeber it was a site about a anime
+that didnt exist, and when you clicked a certain button on the site it
+flipped to a point and click game very similar to lucid dream
+simulator in non sense, but it was more focused on horror, the pic
+annexed is not from the game i think, but summarizes the style of art"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

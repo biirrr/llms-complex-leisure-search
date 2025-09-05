@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005]dual-character TPS. Guys this has been one of my
+childhood fav but couldnt find it anywhere. It has two characters, if
+I remember right one called Havoc/Havok? Who's more like a Rambo and
+shoot everything down with a M-16 and grenade launcher, has a gunboat
+vehicle. Another one is called Night Owl, who dressed like Sam Fisher
+and uses camouflage to get invisible, needs refueling by charging fron
+electric box. This character always starts his mission with
+freefalling from his jet, fights a lot of enemy in the sky. I can
+still remember a lot more details of missions... But can't find the
+names! Guys any idea? Solved: CT special forces: fire for effect"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

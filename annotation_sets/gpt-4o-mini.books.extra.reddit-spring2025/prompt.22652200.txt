@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance - Girl gets amnesia from injury inflicted by
+abusive ex. She forgets him and ends up with a coworker who she thinks
+is her husband. Read around 2017-2020.. I might be mixing up two
+different books, but here’s what I remember about the book: * a girl
+gets pushed off a balcony? and gets amnesia. * we find out later on
+that her abusive husband/boyfriend pushed her, but she forgets all
+about him. * I think it’s her coworker or somebody who helps her
+through it and she has dreams or something about him doing all this
+romantic stuff for her and she thinks they are memories or something
+so she thinks he is her husband? * maybe it was just that he tells her
+he’s her husband or something, I’m not sure * it also might have been
+that the main characters friend kind of conspired with the new husband
+to pretend that he was her husband to hopefully get her to forget
+about the abusive guy? I'm not sure. * the guy ends up doing all the
+stuff from her dreams and they end up actually falling in love and
+“renewing their vows” but they’re actually just getting married
+because they were never actually married. * she starts to get some
+memories back about her ex. His name might have been Simon but I might
+be making that up. Like one time her new boyfriend/husband? Tells her
+she should invite a friend over or something and she’s like “Simon
+doesn’t let me invite friends over” and then she s all confused and
+doesn’t know why she said that and stuff. I think that’s all the main
+stuff I remember. Anyone know what I’m talking about? I used to read a
+lot of kindle unlimited books so it could possibly be from there, but
+I’m not certain. I most likely read this sometime between 2017 and
+2020 Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

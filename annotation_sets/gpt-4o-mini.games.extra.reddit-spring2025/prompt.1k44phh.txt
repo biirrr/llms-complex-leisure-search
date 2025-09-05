@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/PS5/XSX] [1-4 Years Ago at Most] Most likely a Horror
+game with a very specific puzzle. To keep it quick this puzzle has:
+"""""""" A translucent/transparent ghost nurse. I believe tinted in a
+blue hue but I could be misremembering! """""""" This tired/restless
+ghost/spirit nurse is zipping and teleporting between empty hospital
+beds, sometimes taking a short break sitting down, I believe you can
+get some brief dialouge from her before going from bed to bed again,
+claiming that she's taking care/attending to patients. """""""" She's
+not malevolent or attacks you, but you have to stop her from moving so
+you can get??? a key item?? From what I believe is across the room
+Google was not helping and kept giving me Silent Hill 2 and Outlast
+results. Does anyone have a clue?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

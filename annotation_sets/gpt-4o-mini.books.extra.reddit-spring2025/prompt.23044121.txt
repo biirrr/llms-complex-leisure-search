@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Spiritual Fiction about a man that finds and old
+computer at a monastery that begins talking to him of its own volition
+about the state of the world. Read mid-1980s.. This book is an old
+one. I read it back in the mid-eighties and would like to read it
+again. It concerns a certain traveler that is given sanctuary in a
+monastery high up in the Himalayas and he soon discovers that there is
+an old computer on site. He tries to fix it. Much to his consternation
+the old thing starts talking to him of its own volition. Whether it is
+Gaia herself that is accosting him or not, I can't remember, but she
+has a great deal to say regarding the lamentable state of the world
+and our own part in its destruction among many other things."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

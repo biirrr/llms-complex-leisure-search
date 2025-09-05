@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller or Mystery book with man in a leather gimp
+mask on cover and he tortured women. read in late 90s-early 00s. this
+book was read by my dad in what he believes to be the early 2000s. All
+he remembers is that the cover had a guy in a leather gimp mask and
+the guy chained up, tortured, and killed women. We don't know if it
+was written from the killer's perspective or if it was another
+character. We don't know what POV it is written in. He said it reminds
+him of the movie 8 Millimeter. We don't know the title at all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [unknown] someone please help me find this game from my
+childhood!. So, theres this point and click game that Ive been
+wanting to play again, Im going to say 2010s era. Theres a few
+things I remember about it, the strange art and muted color palette,
+things Ive actually drawn out to make this easier The one character I
+specifically remember is this guy in a triangle shaped coat with
+boards over his face, you needed to get him another one so he could be
+perfect Thank you for reading/helping"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

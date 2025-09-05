@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1980s or 90s] Old Arcade Game with a Cat. Platform(s):
+PC DOS Genre: Platforming? Estimated year of release: 80s or 90s
+Graphics/art style: pixelated Notable characters: cat Notable gameplay
+mechanics: platforming Other details: I played this game in the early
+'90s on an old PC. You control a cat jumping around city rooftops,
+over things like dogs and trash cans. The goal was to collect items
+while avoiding hazards. It had a pixelated look but I also remember
+that the background color was vibrant. Felt like an arcade-style
+platformer. Sorry for the vague description, does anyone recognize
+it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

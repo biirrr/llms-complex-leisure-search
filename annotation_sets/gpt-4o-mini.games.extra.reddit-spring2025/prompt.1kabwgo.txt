@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2014-2017~] MMO/SCI-FI. Hello Everyone, I am looking
+today for an MMO I played with a dear friend back then. I remember
+that the Game was 3rd-Person, I also remember that we had some Power
+Armor esq Suits and My Character was wielding a Minigun. I also
+remember that My Character could root himseld to the ground and blast
+in an angle infront of me. There was one time I was standing infront
+of a black mist and enemies where coming out of it. But the rest is
+los, all honey in my head. Hope you can help me. It is not Global
+Agenda."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

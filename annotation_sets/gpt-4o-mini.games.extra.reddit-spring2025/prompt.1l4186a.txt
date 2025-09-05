@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] sci-fi fantasy point'n'click adventure with space
+ships and a dragon. Hi there! I have played multiple point and click
+adventures throughout the 90s. Some stuck and are still loved but
+others are sadly gone. I want to relive that. It was a classic 2D
+point and click adventure. I can't remember much, but I'll give it a
+try. Story wise you begin in your space ship but have troubles, so you
+must land on a near by planet (or you crash landed on that thing). On
+that planet the times are more or less medieval. I remember walking
+around a pond very often and a cave in wich a dragon lifes. You have
+to somehow befriend that dragon, so he flies you around. That's sadly
+all I got. It might be European, as I remember playing Broken Sword
+and Teenagent arount the same time. Thanks for your help in advance!
+Regards, Etna."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

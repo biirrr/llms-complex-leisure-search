@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Cafeteria Space Game. Platform(s): PC, CD-ROM
+(I think) Genre: 3rd person, 2d side scrolling. Educational problem
+solving/adventure Estimated year of release: mid to late 2000's if I
+had to guess Graphics/art style: Cartoonish, somewhat relaxed but
+tense at times. Colorful. Set in various locations. Notable
+characters: 4 older elementary aged kids, possibly 2 boys 2 girls
+Notable gameplay mechanics: Completing puzzles/patterns, collecting
+objects, building things, fighting off enemies. Other details: Has
+been over 10 years since I last saw this game before we got rid of it
+and several other games. Essentially, this game was about a group of
+kids that had to defeat a sort of space/cafeteria monster iirc. The
+game took place at various locations, including their school,
+cafeteria, outer space, and a launch pad. You had to solve puzzles and
+patterns and find objects to move on. It's such a niche game, haven't
+found a single reference of it online. Been driving me craze because I
+can remember just about every childhood game I played except for this
+one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

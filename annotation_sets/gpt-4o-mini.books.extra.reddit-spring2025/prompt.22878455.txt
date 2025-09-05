@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/Adult Fantasy. A woman from Faerie comes to Earth in the
+1980s and starts a rock band. Read in 1988. [s]. The genre is YA
+Fantasy. A woman from Faerie comes to 1980s Earth. I think her name
+might have been Krista, but I’m not sure. She has long, red hair and
+speaks with an Irish accent. She speaks Irish Gaelic sometimes in the
+book. She is an accomplished musician and plays the harp. When she
+comes to Earth, she lands in an urban American city, maybe someplace
+in California. She meets some musicians and decides to start a rock
+band. She learns to play the electric guitar. There is some Irish
+mythology mentioned in the book. Maybe something about the Seelie
+Court or how time passes differently in Faerie compared to Earth.
+There is a racist scene in the book that shocked me. A white, male
+musician decides to have sex with a black woman (who may have been a
+band member). But when he is having sex with her, he calls her the N
+word. The black woman is devastated by this. This scene really struck
+me at the time. In one scene, they go into detail about the various
+different band instruments—the guitars, the drums, keyboards, and
+synthesizers. It had a very heavy 1980s vibe and was probably
+published in the 80s. I read it in 1988. The Cover looked like a
+typical Fantasy cover. It had a woman with long, red hair standing.
+She may have held a harp or guitar in her hands. There was a Faerie
+setting in the background."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

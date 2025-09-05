@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2006] I am looking for a 3D vampire theme game, with
+movemet controls like early resident evils.. A vampire game in the
+style of Resident Evil 2, where in the first chapter you start with a
+superpowered character. After completing the tutorial, you lose those
+powers. I'm not entirely sure, but I think the game has two CDs. I
+remember that healing involved vials of blood or something similar. In
+the first phase, there is also a time limit to escape from a location
+that is about to explode. As for the 3D movement, you know that
+control style from Resident, where you can run indefinitely in one
+direction? The front of the character always remains the same,
+regardless of where they are facing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

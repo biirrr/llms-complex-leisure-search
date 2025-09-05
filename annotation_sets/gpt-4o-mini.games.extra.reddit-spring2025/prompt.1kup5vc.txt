@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000s][PC] 2d Indie game about Egypt. For some reason I
+thought the game was called """"""""beyond oasis"""""""" but that's
+unambiguously the Zelda style Genesis game. This was a pc game you
+played with a mouse clicking on tiles to get resources. I recall it
+being quite fun. I believe I read about it in an indie gaming blog
+that I want to say was called """"""""Game Tunnel"""""""" but a quick
+google search doesn't give me the blog (though I did find someone
+referrencing said blog). I believe they gave this game indie game of
+the year at one point which is why I bought it. Hoping if I can get
+the title I can search my email for the purchase link and subsequently
+redownload it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

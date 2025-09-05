@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s] Bunker/shelter escape game with a twist ending..
+I'm looking for the name of an indie game where you have to drill
+through a wall to escape from some kind of shelter or bunker.
+Throughout the game, you operate and maintain a drilling machine while
+managing a countdown timer. if it runs out, it will alert someone to
+your escape attempt. Once you finally break through, you emerge into a
+peaceful green meadow with a single tree standing in the distance.
+When you approach the tree and pick up a note attached to it, a giant
+spider-like creature suddenly appears and charges at you from the
+horizon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

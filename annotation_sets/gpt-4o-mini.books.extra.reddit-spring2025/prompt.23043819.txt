@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young Adult. Written in verse-form or something similar.
+About a girl whose boyfriends keep dying. Read late 2000s. Spoiler.. I
+am looking for a book I read once. The main 'gimmick' of the book was
+that it was written in verse or something like that if I remember
+correctly. Read in Germany in the late 2000s I believe, but I can't
+remember the language (English or German). There is a side-character
+called 'Ruth' in the book which would point to it being a translation
+from English. The story was about a girl with divorced parents. She
+has a younger sister with down-syndrome, they both live with her
+mother and sometimes visit the father and his new girlfriend, who I
+believe was described as rich. Her first boyfriend kills himself, I
+believe by drowning. Her second boyfriend dies after being shoved by a
+boy, who I believe was called Paul. At first the girl sends that boy
+'hate-calls' in the middle of the night, sometime later he becomes her
+boyfriend. When he finds out it was her behind the calls he leaves
+her. I forgot what happens after that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

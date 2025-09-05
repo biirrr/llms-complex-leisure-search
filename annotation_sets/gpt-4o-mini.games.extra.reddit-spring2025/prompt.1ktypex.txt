@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1994-1997] Children's game I'm remembering as Mario.
+For years I've had a blip of a memory of a game I played on Windows
+3.1 or Windows 95. I was between the ages of 2 and 5, so for very
+young children. I've always remembered it as a Mario game but I'm not
+sure if that is accurate. The only thing I remember is being in a
+supermarket produce section. That is it. What makes me doubt it really
+was a Mario game is that the fruit section looked too realistic
+compared to other Mario style games I've seen. But I could swear I
+remember Mario in the game. Anyone have any idea what this game was??
+It's been bugging me for years. Sorry I don't have many details, it's
+a blip of a memory. Thanks all ="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

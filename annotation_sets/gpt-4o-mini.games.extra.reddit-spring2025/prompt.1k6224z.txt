@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2014-2015] Game where youre chased by skulls?.
+There used to be a game back around 2014-2015? Maybe, on iPad that I
+used to play when I was younger. I can barely remember it but it was a
+2d or 2.5d platformer game where you played as a (ball? Cube?) and
+rolled around some sort of mechanical factory thing avoiding big
+fucking skulls. They might've been high-def pixel art but I'm not too
+sure. Details: Chased by skulls Mobile / iPad 2014-2015 when I played
+2d or 2.5d Platformer escape (It wasn't a horror game from what I
+remember) Edit: -You actually mightve played as the skull on a timer
+trying to make it through, I think I remember a timer?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

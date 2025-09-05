@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s-2015s?] Game where a character does a victory
+dance while this background music plays for 10 seconds. I'm trying to
+identify a game I played years ago on PC, possibly in the 2005s or
+early 2015s. In the game, there was a moment where a character would
+do a victory dance or celebratory move, and during that moment, the
+background music would briefly play the first ~10 seconds of this
+track (https://youtu.be/vDLYUe1CQQk) After the dance/music, the
+environment would go silent instantly. Unfortunately, I don't remember
+the name or full context of the game. It mightve been an indie or
+Flash game, possibly found on platforms like Newgrounds or Kongregate.
+Any help is greatly appreciated"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

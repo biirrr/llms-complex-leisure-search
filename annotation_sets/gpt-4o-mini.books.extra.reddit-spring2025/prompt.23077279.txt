@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade chapter book. Male main character and his twin
+sister go on a vacation to Yellowstone with their neighbors. Read late
+1990s.. I read it in elementary school in the late 90s. A boy and his
+twin (?) sister somehow go on vacation with their neighbors to
+Yellowstone in an RV. I think there was a kidnapping plot, too. And
+the neighbor had no business driving an RV. I can't remember the whole
+title, but I'm pretty sure the last half of it was How I Spent My
+Summer Vacation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

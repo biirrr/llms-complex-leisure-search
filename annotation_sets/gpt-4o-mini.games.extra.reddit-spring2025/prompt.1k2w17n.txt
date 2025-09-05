@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [????] A game where you afk while training your
+martial arts. I don't remember much about the story but one thing that
+really stuck with me was the afk part. Stuff like punching sandbags,
+meditating, etc. There's also an old man which is supposed to be our
+mentor. And after you get strong enough, you go out into the streets
+and fight bad guys until you reach the final dude. And everytime you
+die, you wait while your character get their health back while staying
+in some kind of test tube"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

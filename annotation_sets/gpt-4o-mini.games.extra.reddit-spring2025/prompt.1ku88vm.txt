@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] First person game, solving a mission through
+exploring new locations of the game.. Ive only watched a friend play
+this game when I was a kid so Im not sure what the premise of the
+game is but I can remember details of the game. The graphics were not
+too good but good enough, and the people were like only round heads
+and round bodies with shirts on. It was kind of 3D but like 2010s
+graphics. There was a point where you have to go through this big
+hotel and look for clues and all the people had like Hawaiian shirts
+on. Then there was a point where you had to spin the cooked pig on a
+stick (like a suckling pig) and then it opens a basement in the pool
+next to it. There was also a room filled with pottery and a fly and
+you had a fly swatter and the aim was to kill the fly and smash the
+pots kind of. There was also a point that might have been the end
+where you meet the main villain in his very fancy penthouse thing and
+he is on like a floating vehicle and you have to beat him in a game of
+golf. There was also a point where you entered like a digestive system
+and you walk around until you met some guy. It was really strange and
+the vibe was a little creepy, like everything felt off."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

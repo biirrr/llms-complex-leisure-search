@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Murder Mystery, read before 1970. Starts with watching
+a production of the play Antigone at girl's boarding school in
+England.. As a pre-teen kid in the early 60s, I read quite a few
+mysteries, and often can't remember the author/title information, and
+sometimes not much about the plot or characters. All I really remember
+about this one is that it's set in England, and near the beginning,
+the main characters are watching a production (or maybe a rehearsal)
+of the ancient Greek play Antigone , at a girl's boarding school. The
+teen girl in the title role (who may be the murder victim later,
+though I don't recall for sure) is doing a great job with it; but at
+one point when she pauses in delivering a speech, the prompter says
+the next line loudly enough to ruin the effect, and take the heart out
+of the rest of the performance. (Agatha Christie may be the author,
+and this may be a Poirot book, but I wouldn't swear to either.) I know
+this probably isn't much to go on; but I'd love to track this book
+down! :-)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

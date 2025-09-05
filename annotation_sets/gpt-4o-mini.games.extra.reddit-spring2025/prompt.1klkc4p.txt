@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2009] Alien Racing First Person POV game. Hi guys
+would love any help with this! Console - PC Graphics - old 2000s
+style, dark in colours Game play - similar to gran turismo vibes
+however different planets were different tracks. Had trance 2000s
+sound track. I think I remember something about these races making a
+counter go up or a fuel tank go up in order to progress through
+stages? I think it was aimed at kids as i was only around 8 years old
+while playing it. I also think there was a girl and boy characters
+that were essential to the story line that looked a little like lava
+girl and shark boy but unsure if i'm getting that mixed up. been
+thinking about this for years and if anyone knew what it was would be
+life saver!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

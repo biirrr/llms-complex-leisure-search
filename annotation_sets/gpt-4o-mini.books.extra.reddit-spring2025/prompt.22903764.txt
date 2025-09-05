@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids' book where a little brother only eats white foods,
+possibly part of the Pain and the Great One series? Read around
+2007-2011.. Hello! I am trying to figure out the title of a specific
+book I read as a kid. I would have read it before 2012 for sure, in
+the late 2000s (probably somewhere between 2007-2011). I think my mom
+borrowed it for me from the library at the school she worked at, so I
+don't have it. I have a feeling that it may have been one of the Pain
+and the Great One books by Judy Blume, but I only remember one
+specific detail, so I would not be able to identify the book myself. I
+think it was a very simple chapter book, possibly illustrated. I
+remember that one of the characters mentioned their little brother
+only eating white foods. It was something along the lines of, ""this
+was before he got into his white food phase..."" and I think it was an
+older sister saying this. Unfortunately I would not recognise the book
+based on anything else, as I already suspect it might be the Pain and
+the Great One but am not sure... if anyone remembers the white food
+line from a book, please let me know! :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

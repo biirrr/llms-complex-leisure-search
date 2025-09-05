@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016] anyone know what this is from a horrible photo
+from 2016?. Im pretty sure the white blob in the middle is the
+head/face of an enemy with hair on top and a vertical line through its
+eye. I also think the lights in the bottom right arent part of the
+hud but I could be wrong"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

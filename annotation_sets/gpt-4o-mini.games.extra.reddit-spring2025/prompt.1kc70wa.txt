@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][~2000]Shooter mode where u turn burning zombie when u
+die and try to defeat """"""""unturned"""""""" npc/players (co-op?).
+Hello, im thinking about a game i have few memories off from my
+childhood around 2003-2005. I used to visit a friend to play ps2 games
+together. And i always have my mind on 1 game that i cant seem to ever
+find any association with when i search the webs. The memory is sadly
+very vague, but the part that stuck with me was a mode (possibly co-op
+i dont remember tho) that turned you into an burning enemy once
+defeated and your new objective was to kill the remaining survivors?
+Something like that. It was a deathmatch-like mode."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

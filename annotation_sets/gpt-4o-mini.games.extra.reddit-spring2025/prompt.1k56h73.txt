@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[BROWSER][2000s?] Point and click game, something about (or
+with) a White Rabbit?. It was a Flash game, for browsers. It was a
+point-and-click / escape room game in isometric perspective. I
+remember you woke up in a room with a stabbed guy and, next to him, a
+girl named Becca (which was also the name of the guy's girlfriend).
+The game was divided into three parts, and in the first one there was
+a sick dog. I think the plot had something to do with a time loop,
+like you go back to the beginning at the end of the game, something
+like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

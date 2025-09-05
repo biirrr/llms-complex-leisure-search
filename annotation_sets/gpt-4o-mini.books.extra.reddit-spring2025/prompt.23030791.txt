@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy/ Adventure Graphic Novel: Older sister &
+younger brother wake up and find that they are in a forest & realize
+that they have been transported to a different world. Read around
+2009-2014.. I read this book around 2010, so some plot points are a
+bit foggy to me. There is a point in the book where the siblings come
+across a place with giant bees that work for an old lady. They stay
+with her for a while, but somehow anger her, causing the bees to go
+after them, and they end up fleeing. Also, people in this place all
+had oversized heads."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

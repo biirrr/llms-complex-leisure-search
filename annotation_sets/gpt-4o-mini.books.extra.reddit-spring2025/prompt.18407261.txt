@@ -1,0 +1,41 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book about self-taught British demolitions
+experts in World War II. [s]. A few years back I was weeding my
+library's nonfiction collection and had to get rid of an old, beat up
+book that looked pretty interesting. I thought I'd made a list of all
+the interesting books I recycled, but I can't find this one. Here's
+what I remember. It was about a group of young men who were tasked
+with dealing with unexploded ordinance in England in World War II. If
+the Germans dropped a bomb and it didn't go off, or if a mine broke
+loose and floated to the shore, someone had to figure out how to
+dismantle it without blowing themselves up. The author and his fellows
+were one group of those someones. I think the author wasn't English
+himself, but was a British citizen. Canadian or Australian, perhaps. I
+could be wrong. The book was written after the war, probably in the
+50s or 60s given its appearance and condition. It was a hardcover, but
+not as big as most. Maybe a little smaller than the large paperbacks
+we see these days. I know they were figuring things out as they went.
+When they encountered a new type of explosive they had to carefully
+dismantle it while taking notes the whole time so it wouldn't be so
+nerve-wracking the next time. Assuming they and/or their notes
+survived, of course. There was one anecdote about trying to disarm a
+bomb or mine that was partially submerged in the harbor of a good
+sized town. I believe they could only work on it during low tide. It
+took them awhile to do everything they could and they had warned the
+populace to leave their windows open to keep them from breaking if and
+when the bomb exploded. They finally were forced to deliberately set
+off the bomb, and a lot of windows were broken because people had
+closed them to keep out the chill. They got a lot of complaints, to
+which their response was basically ""We told you to leave the windows
+open!"" Reading between the lines I figured the actual response
+included a lot of unprintable words. Ring any bells for anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

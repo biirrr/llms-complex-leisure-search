@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2002-2009?] Isometric Flash strategy game about a
+peacekeeping force in Africa or the Middle East.. Platform(s): PC
+Genre: Turn Based Strategy. Flash/web browser. Estimated year of
+release: Around 2002 - 2010 Graphics/art style: 1.) Isometric
+perspective. 2.) Drawn-style but grounded on realism on a African or
+middle-eastern city after a modern conlifct. Desert environment.
+Notable characters: 1.) You control a UN, peacekeeping or coalition
+army with the mission to restore basic infrastructure to the
+city/village. Multiple units at your disposal: Helicopters, APCs,
+Jeeps, M60-AVLB?, engineers unit, army squads, The local airport is
+your main base. 2.) The main enemies where local militia forces or
+terrorist groups, sometimes you had just to deactivate bombs/mines to
+secure a location. Notable gameplay mechanics: 1.) You had a limited
+amount of resources (Action points, time, fuel, vehicle travel
+distance, specific vehicle to complete mission) per turn. As far as I
+remember, you couldn't generate more resources. 2.) The restoration of
+building where made in """"""""Phases"""""""" first you had to secure
+the location, then send a team to restore the facility or piece of
+infrastructure. Sometimes the militia groups could attack and undo
+your progress. Other details: This game was probably made with the
+intention to teach the challenges of peacekeeping units... as a kid it
+was fairly easy for me to lose. Never completed the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

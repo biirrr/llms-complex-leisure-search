@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console(?)][90's/early 2000's]Japanese sci-fi tank game
+series with isometric pixel art and realistic character designs. I've
+never played these games I'm looking for, but I know that there were
+multiple games that make up this series, and that they were Japanese.
+Honestly, Im not 100% sure which platform they were on, but Im gonna
+guess either the PS1 or Sega Saturn. I believe that the games took
+place in the near-future, or what constituted the near-future in the
+90's, and it probably involves different factions across the planet
+fighting each other. I'm pretty sure the gameplay graphics for the
+tanks and backgrounds were standard isometric pixel art, but the most
+distinguishing feature of the visuals is that over time the pixel art
+for the characters got more detailed and their proportions were quite
+realistic, with a wide variety of faces. One of the games had a lot of
+focus on African characters which I think was pretty unusual for an
+older Japanese game. I remember looking up the concept art from the
+series, or at least one of the games, by an artist whose name I can't
+recall, but I thought his character designs were really, really good.
+I feel pretty confident that one of his names started with an R. If
+any of you remember the name of the series or the artist let me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

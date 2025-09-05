@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] World War 1. Platform: PC Genre: RTS
+Estimated year of release: early 2000s Graphics/art style: not sure,
+but like Age of Empires 2. back in the early 2000s, I played a World
+War 1 RTS game. I remember this one map where I played as the French
+defending against the Germans. The map had 2 bridges and the near
+bridge already had a humongous mortar that massacred the Germans as
+they crossed the bridge. The far bridge was undefended. I had to
+manage the economy to make enough soldiers to defend when the Germans
+eventually started to cross the far bridge, but I still had to manage
+the near bridge because the mortar alone wasn't enough. The soldiers
+also automatically threw grenades when close enough or attacking
+buildings, they also fought with bayonet, and there was an option to
+enable hand to hand combat only. I've been searching on and off for
+the game, but to no avail. Any help is appreciated. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

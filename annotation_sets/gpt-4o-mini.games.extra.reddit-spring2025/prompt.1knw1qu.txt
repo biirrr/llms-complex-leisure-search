@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][1990s] A fighting game of armoured heroes. Hello I
+always want to find that game in ps1 era and i have tried everything,
+here are all i can remember 1.The game is a fighting game, possibly 3D
+2.The game is setting in futuristic era, and the characters in it are
+mostly dressed in futuristic armour, i think the main character is
+wearing the blue one 3.The popular female character in it has a gold
+ponytail stack out of her helmet 4.Characters in it may has guest
+feature in another fighting game franchise 5.Despite it is not super
+popular, i remembered i owned a action figure of it 6.The style of the
+armour remind me of the old cartoon Sonic Soldier Borgman I have tried
+everything but i have still no luck to find it, big thanks in
+advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

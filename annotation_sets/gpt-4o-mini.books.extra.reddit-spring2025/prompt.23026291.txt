@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Juvenile Fiction - Historical? Werewolves - Girl's mother is
+a white werewolf. This book had to have been written by 2006, probably
+earlier. I remember finding it in the juvenile section of our local
+library. Based on where i remember seeing it, i would think it's
+classified as children's literature, but based on the subject, i'd
+guess Young Adult. I vaguely recall it taking place in a small town in
+the West, Little Town on the Prairie kind of setting. I believe it's
+told in first person from a teenage girl's perspective. A wolf pack
+has come into the area, led by a white wolf. Her mother is acting
+strangely. Eventually, it becomes clear that her mother is a werewolf
+and was the white wolf. She is killed and the father takes his
+daughter and (younger?) son away, but the book ends with the
+daughter's narration saying she is still having dreams about the
+wolves, but they are calling for her. I don't think i ever read it all
+the way through, just flipped through it a couple times, but i've been
+unable to find it anywhere and it's weirding me out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

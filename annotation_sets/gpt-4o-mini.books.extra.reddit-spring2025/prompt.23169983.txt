@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Romance Contemporary. Deaf female lead who must start
+attending public school.. Book read in 2024, published in the 2020s.
+Fmc is deaf. She attended a school for the deaf since age 12 but when
+the school loses it's funding she has to go to public school. She is
+very upset and resentful of this. The mmc is a student at her new
+school who has been having some issues with his legs. His parents are
+rich or at least upper middle class and he plays football. *SPOILERS*
+mmc is diagnosed with a chronic illness and ends up walking with
+crutches. Fmc's family is unsupportive, she moves out since she is 18.
+She has a translator who sits next to her in class. Both characters
+are in their senior year of hs. Takes place in the US, pretty sure it
+was published in the US, written in English."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

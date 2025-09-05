@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Iphone] [About 2010] Text Adventure Sci-Fi Phone Game. It
+was kind of a mysterious story game on the iphone in the sci-fi/light
+horror genre. Mostly text adventure style until the end where the
+gameplay completely changes and you fly a spaceship. The plot had
+something to do with aliens and survivors of some sort of maybe
+apocalypse. It had a bit of a """"""""The Road"""""""" feel in the
+writing. I remember it being a bit spooky/ominous and you had to make
+decisions about survivors and I think you were gathering resources to
+build the ship. I think the game may have had a sequel that focused on
+that ending flying section and didnt include the text adventure
+stuff."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

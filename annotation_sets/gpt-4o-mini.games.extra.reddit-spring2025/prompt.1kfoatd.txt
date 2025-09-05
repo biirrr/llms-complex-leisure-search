@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gameboy Color][1980s] A game about a guy walking fighting.
+He could move up and down, left and right.. I'm looking g for that
+game I believe it was on gameboy color or advance it was a fighting
+game where you can move left and right, and even up and down. There
+was multiple doors you could go to. I believe the first boss name was
+Something like BoBo? He could grab you and throw you. I was a kid and
+can't remember much. If I see a video or images I will be able to
+identify it. Please and thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

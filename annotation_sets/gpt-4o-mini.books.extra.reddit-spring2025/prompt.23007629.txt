@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy. A knight (Middle Ages) fleeing from danger is
+put to sleep with a special potion (pretends to be dead) and wakes up
+in the 20th century in a coffin. Read in 1980s.. Lo leí en los años
+80, pero puede que la publicación sea anterior a esa fecha. Un
+caballero (Edad Media) huye de la justicia. Su ""escudero"" lo ayuda
+durmiéndolo con un brebaje especial para hacerlo pasar por muerto y
+así salvarle la vida. Varios siglos después aparece un ataúd con un
+hombre en su interior, que no está muerto del todo. Tiene el cabello,
+la barba y las uñas muy largas. Cuando revive debe enfrentarse a un
+mundo nuevo. Así, hace reverencias a las mujeres por la calle o se
+asusta ante una bombilla encendida o un grifo del que sale agua."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

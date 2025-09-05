@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Fantasy book about a kidnapped baby prince in other
+world. Read in around 2017 with school. A baby prince is kidnapped
+while with nanny’s in a different world. Nannys torture themselves but
+then go and find this baby when he is a boy. I remember the boy kept
+whistling and there was a cyclops that went with them to find the
+baby. I believe he was a servant for a rich family? Would appreciate
+name because I would like to recommend to a younger family member."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

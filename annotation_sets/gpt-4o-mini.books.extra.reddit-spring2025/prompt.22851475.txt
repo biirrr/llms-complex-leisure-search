@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. 2 men live in the sewers of a city, hidden
+from society because they are different. Read around 2020. [s]. So I
+read this book around 2020, and not knowing the name of it has been
+bothering me for months. From what I remember, it was written by a
+male author. The plot is as follows-- two men live in the sewers below
+a large city because they are different. They scavenge for food at
+night and have to stay hidden because people/society will try to kill
+them. Years go by and the older man dies. The younger man witnesses a
+young woman being attacked in a library at night by some strange men.
+She is trying to find her father's killer and she has a severe touch
+aversion. They go on an adventure around the city together to try to
+find her father's killer. Here is where my memory gets fuzzy. There is
+also an element of the supernatural/angels from what I remember? At
+the end it turns out that the reason that the men had to hide is
+because they were too beautiful? The very end of the story culminates
+in a plague or virus of some kind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

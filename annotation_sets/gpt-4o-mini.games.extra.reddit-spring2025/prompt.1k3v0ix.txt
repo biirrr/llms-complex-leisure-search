@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [90s] Side-scrolling game. Was playing this game late
+90s or maybe early 2000s. Probably had some NES/Famicom clone
+defenetely not the originals, but the games i've played were specific
+to these consoles. Probably for the chinese clone i had they still
+made games in the late 90s early 2000s. I can't remember that much
+just that it was a side scrolling game, had a spooky/horror theme,
+were you had to jump over obstacles/monsters. Background music had a
+spooky theme as well. Start level might have been an island, so it
+could as well had something to do with pirates? Not sure. But one of
+the levels the character had to jump on chandeliers and dodge a ghost
+as it go up, and at the top level you had to fight that ghost. I think
+at some point you found a candle and you could use it in some way.
+Been trying to find this game in the last few weeks but then i found
+out about this sub, maybe some of you played it and remember what i'm
+talking about."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

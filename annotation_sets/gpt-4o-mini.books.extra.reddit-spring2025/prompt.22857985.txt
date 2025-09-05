@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Former astronaut (?) finds out he has teenage
+son. Spoiler? [s]. Former Astonaut (?) finds out he has a teenage son
+being raised by sister of deceased ex. Begins building realtionship
+with boy, including spoiling him with expensive gifts. Aunt always
+there for boy but not well off, couldn't afford same level of gifts.
+Potential spoilers: Boy has 16th birthday during book; father buys him
+expensive brand new car; aunt scrimped for use one (hid from boy) Aunt
+and father begin a relationship and fall in love HEA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2008] Cartoon style knight game. The game was single
+player. Not online. You played as character trying to become a knight.
+It was cartoon style graphics. I believe it was open world. You could
+explore the map doing tasks looking for gear and weapons. It has
+something like trash theme on the world I can remember and some area
+like darknell or deathnell. Something like that. It was so much fun
+for how short of a game it was. I always wished they would of make
+another one or expanded on the game itself. I can not remember if it
+was on console or PC. Last thing I remember is when you would take
+damage you would have to go like find your gear and stuff after you
+died. Hope you guys can help. TIA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

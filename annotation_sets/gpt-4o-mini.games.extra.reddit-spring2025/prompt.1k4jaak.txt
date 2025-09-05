@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64] [98] Wrestling (WWF?) game with character creator.
+Tiger patterned outfit was a clothing option.. Platform(s):N64 Genre:
+Wrestling, I think WWF Estimated year of release:98 or 99 Graphics/art
+style:Late 90's edgy theme, kinda blocky N64 look Notable
+characters:Stone Cold Steve Austin Notable gameplay mechanics: I don't
+remember a lot. The Character Creator sticks out in my mind the most.
+I always put my guy in a tiger patterned body suit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, first book in a series. Grumpy Billionaire
+helping brother with wedding plans, sunshiny florist hired to help
+him. [s]. Looking for lead on author of a series - first book is
+grumpy billionaire helping his plumber brother with wedding plans.
+Meets sunshiny florist with struggling business he hires to help him
+with planning. Think it was set in NYC. She shows him the NYC flower
+market (Think in epilogue they are married there) This was start of a
+series of billionaires or guys who become billionaires in later books
+- one is physical therapist who invents a foot brace. Another is gym
+owner poised for wealth by franchising his concept"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

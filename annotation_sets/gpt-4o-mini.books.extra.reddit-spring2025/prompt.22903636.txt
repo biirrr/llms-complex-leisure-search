@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance. Book 1: Poor young woman
+(Titania?) becomes live-in teacher to rich widower's young boys. Ghost
+of first wife. Female painter who is deaf. Read around 2018-2019.. I
+read this book about 5 -6 years ago and something triggered it in my
+memory recently. The story is about a poor young woman who has
+educated herself and gets a job as a live-in teacher to the local rich
+widower's young boys. It has a ""Jane Eyre"" feel with the young FMC,
+the rich widower MMC, and the ghost of the first wife in the attic.
+There is a supporting FC that is deaf and enjoying ""listening"" to
+the piano by laying her head on the top. I believe this supporting
+character is also a painter. This book is part of a duet. If it helps,
+the second book is set in the Louisiana bayou and a young woman is
+trying to hold on to her family's estate without enough money. There
+is pirate treasure in that one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

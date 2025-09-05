@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2016-2021?] simplistic war simulator indie game where
+you spawn on an aircraft carrier. There was this game i watched a
+youtuber play a couple times (draegast if its relevant in finding the
+game) it was basically a pretty simplistic looking war simulator with
+planes and tanks, a key thing i remember is that you spawned in a
+giant aircraft carrier and you had to either take a little boat to the
+mainland or a plane. you'd fight ai enemies but other than that i dont
+remember what the objective was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

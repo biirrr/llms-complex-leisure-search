@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Road trip"" non-fiction by 2 young women, late 90s or early
+2000s [s]. It's been driving me crazy for years, so I'm finally asking
+for help! Years ago, I checked out a book from my university library.
+It was fairly thick and contained lots of black and white photos. The
+essence of the book was that two educated young women were traveling
+around the country (in a van?), interviewing average people and just
+having conversations with people from all walks of life. I think it
+had a political bent, the gist was that despite the red state/blue
+state divide, we have more in common than we think and we all
+essentially want the same things. I remember being very taken by this
+book when I was younger. I seem to remember that it was pretty new, I
+don't think it would have been written any later than the mid to late
+90s, maybe even 2000 or 2001. I've tried searching for it a few times
+over the years with no luck. Any leads would be much appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

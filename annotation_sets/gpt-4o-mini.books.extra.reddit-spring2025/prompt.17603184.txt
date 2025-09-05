@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Christmas Book a picture book and had some bright
+colored bubble type letters, I remember snow being on them. I believe
+it had to do with Saint Nicholas or another name for Santa (not
+santa).. This is so vague, I don't think there are any spoilers. I had
+a book as a child and don't really remember much. Some of my memories
+of this could be wrong so any help or direction you can give would be
+awesome! I remember a book that I believe was about finding alphabet
+letters to spell out a word or a message. I could be wrong on that. It
+was a picture book and had some bright colored bubble type letters, I
+remember snow being on them. I believe it had to do with Saint
+Nicholas or another name for Santa (not santa). I'm sorry this is so
+vague but it was a long time ago (early 80's is when I had it). Again,
+some of this could be made up in my head so if you have any guesses at
+all, please fire away! Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

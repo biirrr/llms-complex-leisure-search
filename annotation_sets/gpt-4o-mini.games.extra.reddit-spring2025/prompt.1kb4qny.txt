@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade Cabinet][1980-2005?] Shooter Mildly Similar To
+Tempest? More 3D Though. I remember a really cool arcade game I played
+in the old local pizza place. It was 3d of some kind, maybe mostly
+wireframe. You would fly down some kind of pipe or tube and avoid
+obstacles and shoot... something. Unfortunately it's been so long I
+don't remember much else. It's more detailed than Tempest, but I feel
+like it could have a similar vibe? Not sure if you were stuck to the
+edges of the ring like that game though. If this doesn't ring a bell
+with anyone, is there a good place to look at all the old arcade
+cabinets?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

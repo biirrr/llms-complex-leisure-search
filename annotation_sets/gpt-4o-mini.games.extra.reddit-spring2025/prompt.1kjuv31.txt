@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBox 360][Unknown] A game that plays a lot like LoL. I just
+tried out LoL for the first time today, and I immediately got a
+flashback to this game. It's set in a space setting where you can get
+upgrades every time your character dies, and you have a few select
+options for who you can get (I think it was mostly guy options, and
+that 2 of the characters were some brain thing in a jar and another
+was some buff machine). You could level up your character after the
+game ended, and it gave you stats on how everyone did, although by the
+time that I played it was dead and solely me and my little brother
+that played. There were turret walls that gave an announcement every
+time one was low, and there was 2 sections of turrets with 2 turrets
+blocking you off that you could destroy (up or down) and 1 final
+turret at the end section that made your team win when it was
+destroyed. There was some gold cube currency for in-game cash that you
+used to make your upgrades better as the enemies got better. Also, the
+teams were red and blue. That's the full extent of what I remember
+about this game. Hope someone knows this game, because I really wanna
+tell my girlfriend what I mean when I say """"""""This reminds me of
+this really addicting game I used to play"""""""" Edit: Got an idea of
+the title in my head, and figured out what the game is! It's
+awesomenauts."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

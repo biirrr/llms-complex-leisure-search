@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery - Female main character worked at some school
+or institute. Two residents, a girl named Fay and her boyfriend were
+found poisoned. Spoiler.. I remember the two residents were dating and
+they wanted to tell the main character a secret later that day (I
+think they going to tell her after a party?) and were found poisoned.
+And the police tried to write it off as a double suicide, but the main
+character said that was not the case because they wouldn't have killed
+themselves without telling her the secret first. And it turns out the
+girl that died, Fay, was secretly pregnant and throughout the book
+they thought it was her boyfriend's child, but Fay had been raped by I
+think it was the owner of the institution and it was his kid, and I
+think he was the one that murdered the two because he wanted to hide
+it. There was a scene where the boyfriend asked the main character to
+give Fay a hat because they weren't allowed to talk to each other for
+some reason I think? I also remember someone appeared randomly
+throughout the story and then disappeared again, and it turned out he
+was secretly sleeping underneath the facility (In tunnels?) I don't
+remember exactly when I read it, but it was maybe 5-10 years ago,
+maybe longer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

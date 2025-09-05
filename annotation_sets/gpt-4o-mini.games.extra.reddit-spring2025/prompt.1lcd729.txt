@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[sega genesis][2004] some stretching walrus clown thing. i
+think i had a sega genesis (my only console) it was around 2004 or
+2003 i was playing as this character that when i pressed a button the
+guy stretched and walk on the roof, sadly i sucked at this game and
+never beat level one but i have huge nostalgia, i think he was a
+walrus or something and there was allor of toys and i think clowns,
+and his color was red-yellow and i think it had tsks (hence the walrus
+idea) please help me find what game it is!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,46 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2010] Roguelike adventure game - no pictures,
+sorry - would be wonderful if anyone could help!. **Platform(s):**
+Android phone - played it on my Sony Xperia X10 Mini, one of the
+smallest smarthone/touchscreen phones at the time, but could probably
+be played on any Android device. Free to download and play - you
+probably had to pay to play beyond a certain point in the story, but
+not sure. **Genre:** Roguelike adventure game - a bit hack and slash,
+but also with a quest. If I remember correctly the quest was that your
+brother was missing and you went out trying to find him. I think you
+started by your home with a small garden patch outside, but then you
+ventured out into the surrounding world (in search for the brother?).
+First into your village, then into the surrounding forest, but then
+you also found caves/dungeons you could go inside. There were also
+other villages. **Estimated year of release:** 2009-2010 - could be a
+little older, but not much. **Graphics/art style:** A roguelike, but
+not ASCII based. Pixel graphics, but not really 8-bit/retro, a little
+smoother than that. Grid based graphics. Meaning that each screen
+contained a number of """"""""squares"""""""" which displayed one
+thing at a time, like the character you played, or a piece of road, a
+piece of forest, a bridge, a piece of fence, or one of the enemies
+that you encountered (like a wolf - I think there were lots of wolfs
+in the forest - or a bat etc. If you killed an animal they often were
+turned into a piece of meat, like a steak, that you could pick up and
+eat) or for example someone you could talk to, like a villager. The
+game didn't scroll when you approached the edge of the screen, it was
+more like static. When you came to the edge of the screen and walked
+one more step, you came to the next screen, like for example the next
+part of the forest. **Notable characters:** The guy that you played, a
+young lad. His missing brother (if I remember that part correctly) - I
+didn't get super far in the game, never completed it, never found the
+brother. **Notable gameplay mechanics:** Turnbased. When you walked
+one step/one """"""""square"""""""" on the screen, the other moving
+characters on the screen, like for example a wolf, also walked one
+screen. **Other details:** I think I have covered everything I
+remember in the above points."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

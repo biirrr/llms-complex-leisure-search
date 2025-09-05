@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010ish] Looking for a game I played as a kid. Hello,
+Im looking for a flash game that I played when I was a kid (like 2012,
+but I dont want it to be missleading date asI honestly dont have clue
+when was it published). If I remember correctly It was a pixel game
+and it was about this kid/guy wandering though hallways and forests
+ect. and he had his pokemon-style summons fight for him agains other
+summons in turn based combat. The way it would play out is that you
+would come to a npc with already predetermined minions and confirm a
+fight. The only other thing I remember is that there was a mole as a
+minon and that at some point you got to a room full of eggs and you
+could choose one and get a new minion. And also there was a cutscene
+animation of big doors being open lol Does this vague description ring
+any bells? Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

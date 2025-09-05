@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2015-2016]kids robot hero game. I was maybe 8 or 9
+when I played this and only had the console for a few months, so my
+memory is spotty. From what I remember the main character was a yellow
+cat type dude with a little robot buddy who turned into a backpack. I
+vividly remember the opening scene being the two of them crash landing
+on one planet and having to find a ship. Once level 1 was over they
+were traveling planet to planet saving them from various robots and
+monsters. There was a bunch little puzzles along the way that would
+reveal the path to take"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

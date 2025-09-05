@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens Picture Book. Grumpy animal, friends try to help
+cheer him. ""...but the grump got worse."" appears on most pages. His
+birthday? Zoo animal? Read around 2014 in UK.. Looking for book my
+kids used to get out of the childrens library UK in around 2014ish. An
+animal is grumpy. All the friends try to help him but he remains
+grumpy. The repeated line 'but the grump got worse' is on moat pages
+as they try to cheer him. Hope i have done this right the instructions
+fornthe grouo wont load."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

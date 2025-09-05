@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS/Android/WebOs][2010-2015~] Retro Tank Game. 100% sure
+about: - Multiplayer - Had a local split screen mode - Could choose
+from different Tanks - All Maps had a flat ground - There were power
+ups like a green shield and a dog that you summon that would be an
+insta kill - Originally found the game on the recommended of the HP
+Touchpad App Store as it was probably one the first online games that
+had support for the OS. Was cross compatible since I do remember
+playing the game on Apple and Android devices. Edit* / More things I
+remembered - Some Maps/POI that I remember (Egypt/Pyramid, Space
+Station, A circular/oval coliseum with pillars, and The largest map
+which was this super sparse """"""""town"""""""". - There was a mix of
+real tanks and random ones I believe. Also have a super vague memory
+of the their being a Tank that only the dev had which was named after
+himself. This is all I can remember at the moment, will add more if I
+can think of anything else. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

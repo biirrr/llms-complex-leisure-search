@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance - Homeless man, unexpected pregnancy, love for
+music. A girl falls in love with a homeless man who plays guitar at a
+park near her workplace. He also has a dog. He’ll first be living
+under a bridge at a park. Later he finds an abandoned house and lives
+in its garage with his dog. He used to be a drug addict and left his
+home. They eventually fall in love. The girl used to live in her
+parent’s basement with her cat (but I’m not sure about the cat). Then
+they plan to lease house and move in. The man goes to get breakfast
+and never returns. He leaves his dog with her. Then later she finds
+out she’s pregnant. She gives birth to a girl. She names her daughter
+lyric. She takes care of her with help of her parents and her best
+friend. Later she meets a guy and they become friends and she moves in
+with him. The guy is a model and i guess he’s gay. Five years later
+she hears a song in her radio and recognises the homeless guys voice.
+Then she finds out that he became a lead singer in a boy band. She
+goes to his concert with her best friend and meets him. But she
+doesn’t tell him about their daughter. They slowly start seeing each
+other again and she finds out that he is using drugs again. I remember
+the story until this. Help me find the name of this book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

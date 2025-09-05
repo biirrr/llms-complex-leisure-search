@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA coming of age realistic drama novel about a 13 year old
+girl in a contemporary setting, she is somewhat of a loner and meets a
+16 year old boy, whom she develops a crush on. Read 2003-2006.. I read
+this book sometime between 2003 and 2006. The main character is a 13
+year old girl, she has an older sister. They meet a 16 year old boy
+and the main character presumes he'll be interested in the sister but
+he actually likes the main character. The main character and the boy
+spend time in the woods near her home. The setting of the novel is
+contemporary. The author is a woman. I remember the book cover being
+red and/or possibly the word ""red"" in the title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

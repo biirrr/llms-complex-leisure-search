@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android phone] [2017] anime fashion battle game. hello i'm
+trying to find this mobile game i played between i think 2017-2019 -
+you played as a woman on some kind of mission and the way you
+progressed through the story was by completing fashion battles with
+the npcs you were made to speak to. i think there was some kind of gem
+currency you could buy clothes with, and each fashion challenge had a
+theme like """"""""office worker"""""""" or whatever - you got scored
+based on the different characteristics the theme wanted, like if it
+wanted a """"""""sexy"""""""" outfit or a """"""""cute"""""""" outfit
+- there were bars for each characteristic that would get filled up
+based on what pieces of clothing you chose. i can't remember much else
+except that it was kind of anime style drawing, 2D, i played on
+android, and it was a click-through game (i don't know gaming
+terminology) so you couldn't go anywhere, you just had to click
+through the pop-ups and conversations with the characters. please can
+someone know what this app was =O=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

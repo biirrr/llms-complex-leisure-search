@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller: Girl begins to suspect she was kidnapped after
+teacher is murdered, Read around 2004-2009. Spoilers.. Book I read in
+the early 2000s (2004-2009ish) about a girl who starts to suspect that
+she was kidnapped as a baby. Her teacher who she was very close with
+is murdered, bashed in the head by a blunt object (later revealed to
+be a paper weight) and the girl's anger management needing boyfriend
+is blamed, but she knows he is innocent. She is questioned extensively
+by police because she is the teacher's TA (I think?). In one scene she
+finds baby pictures and notices that the baby is different from one
+point to another. Her mom seems to start to get suspicious of her and
+at one point, her mom drugs her and her boyfriend when they go on a
+picnic together. In the end, the mom turns out to be the murderer, and
+the teacher was the girl's biological mother. I think the teacher was
+an art teacher or maybe an English teacher and the paperweight was
+something like a cat curled up and was somehow significant to the
+girl. I have tried to find online searches and ChatGPT and Gemini and
+the only books they mentioned seem to be hallucinated/not real. Here
+are the titles they came up with but I cannot find these titles or
+authors anywhere online: ""The Girl Who Vanished"" by Melanie Clair
+""The Third Twin"" by Cynthia Mercati (there was nothing in the book
+about twins as I recall...)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

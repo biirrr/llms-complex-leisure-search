@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction or Historical Fiction. Scottish or Irish peat
+farmer brings home new wife, brother is resentful, but then falls in
+love with her. Read around 2010.. I read a book a long time ago. It
+takes place in either Scotland or Ireland. A man goes to the city,
+somehow finds a woman to marry, takes her back to his (peat?) farm
+which is possibly on an island, as they had to use a ferry. They live
+in a stone cottage with his brother. The brother resents the new wife
+but eventually it becomes love. The husband dies in an accident and
+the brother is tormented. This is not a fluffy book by a prolific
+author, it is very detailed with lovely descriptions of the land and
+her daily life on the farm, getting to know the cottage, her husband
+and the brother. I believe it takes place in the early 1900s, as they
+are burning peat for fuel, and I think there is a picture of a stone
+cottage on the cover. I've tried searching online using all kinds of
+plot descriptions and tags and cannot find the name. Can anyone help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[nintendo ds] [2010s] game with evil carrots. Ive been
+searching for this game for years and Im beginning to think it was
+literally just a figment of my imagination because I cant find it
+ANYWHERE it was on a Nintendo DS (Im pretty sure) and i played it
+anywhere from 20132018. It was a pixelated game and I think it
+mightve been based on a farm but one distinctive detail I remember is
+that the carrots were evil. I remember it was kinda eerie like I used
+to feel a bit scared playing it but it wasnt a horror game I was just
+young and scared of the carrots lol! Someone PLEASE tell me Im not
+losing my mind. This is my final option."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

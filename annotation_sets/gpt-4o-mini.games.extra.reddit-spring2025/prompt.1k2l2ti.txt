@@ -1,0 +1,40 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Online Turn-Based RPG. I remember vividly
+playing this game in the early 2000s in the Philippines and it also
+came with an expansion later on. I know it wasn't very popular at that
+time since the trend was Ragnarok, Flyff, MU. It probably was axed 1-2
+years after release (my speculation). **Platform(s):** PC **Genre:**
+Turn-Based MMORPG **Estimated year of release:** early 2000s
+**Graphics/art style:** It had simple 3D graphics (like cartoonish
+simple, probably aimed for kids) **Notable characters:** \-It lets you
+pick a starting race for your character. A Human, Elf and Dwarf. Each
+starting in their own respective Towns. (I think you have stats that
+you can manipulate? not sure), \-There's 3 classes to choose from;
+Warrior, Mage and Rogue. **Notable gameplay mechanics:** \-You can
+tame the monsters you encounter and add them in your party (which drew
+me in being a big pokemon/ digimon fan) \-I think you can only have
+one tamed monster while battling and the party size is around 3-5
+characters (including you makes it 4-6) \-It has a turn-based rpg
+system, you and your pets can level up and unlock/ learn new abilities
+**Other details:** \-there are element based attacks/ moves. Like fire
+ball, healing light, etc. \-the monsters/ pets you tame have their own
+element type and corresponding weakness (I don't remember if there are
+dual type monsters) \-from what I remember the elements are Fire,
+Water, Light, Earth, Wood \-The areas are divided into zones and each
+zones are level based \-the expansion (if I remember this correctly)
+lets you explore a summer themed beach zone \-you encounter mobs/
+monsters by walking around the zones (typical rpg stuff) \-the town
+areas/ zones are where you get your quests and side quests
+\-regardless of the starting race you pick, you can eventually visit
+other race starting towns and get their quests \-it had its own splash
+screen/ launch screen"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

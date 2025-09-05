@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "journey underground. I'm pretty sure this is a book I read,
+but I have a lot of strong visual memories, so it could be a movie,
+too. A group of men and at least one boy make an underground journey
+from 19th century mining village (in what I think is England)to
+modern-day Australia. There is something wrong in their village, and
+they are escaping for their survival. Of course, terrible hardships
+must be overcome on the way."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Pre-1986 Non Fiction collection of synopses of Classic
+Literature in a fun way. Two-Minute Masterpieces? [s]. Possibly titled
+something along the lines of 2 Minute Masterpieces or 5 Minute
+Classics or something like that, but Google searching doesn't pop
+anything up that looks right. I used to read this in the public
+library while I waited for my mom to pick me up after school. It was a
+collection of fun synopses of classic literature in just a few
+sentences, or a poem, or things like that. I remember the entry for
+""The Bridge of San Luis Rey"" particularly. It was a poem. The place:
+Peru. The time: long gone. A bridge of rope much traveled on Goes
+crashing down. Five natives die. God's will, or chance? These five-
+but why? Survivors tell, each one, a tale Of hope and love, joy and
+travail Whose summing up reveals no plan To justify God's ways to Man
+But this: We're loved a while and then forgotten Both by gods and men
+But when our lives are sacrificed Love, itself, will have sufficed.
+There's a bit more, but my memory gets too foggy after 35+ years to
+pull it forward. I don't recall if the whole book was poetry about
+classic literature, or if there was some prose mixed in, but it was
+all in the vein of boiling down those books we all should be familiar
+with into bite-sized nuggets of knowledge. To this day I have never
+read The Bridge of San Luis Rey, but I feel I know exactly what the
+themes of the novel are due to this book and the above-referenced
+poem. Any leads on finding this? Now that I actually have read a lot
+more classic literature than I ever had as a young teenager, I'd like
+to see if the entries stand up. Possibly totally wrong, but in my
+dusty memory the cover had a cartoony drawing of William Shakespeare
+with a quill in his hand..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2024]Indie?Game where you play as a man shooting
+monsters and has a vampire girlfriend. Its a shooter game where you
+play a man killing monsters often in a dreamlike environment. You can
+dodge, have bullet time?, and have limited amount stakes which you can
+use to kill monsters in 1 hit? I remember getting as far in the game
+for the plot to reveal that the protagonist has a vampire girlfriend
+which he needs to kill/find? to save the world."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

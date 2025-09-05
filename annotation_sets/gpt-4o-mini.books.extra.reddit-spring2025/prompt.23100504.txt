@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book about a piano player who collects lots of
+paintings and he moves back to his hometown, finds a kitten and the
+villain has a chocolate party and sells grenades that are really
+small. The ia also a man servant who i think was called wilf and the
+main character liked beans on toast"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

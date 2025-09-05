@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2000s] Mole war game. There was a game in which you
+play as teams of moles that I played as a kid on my aunt's phone. The
+goal is to eliminate every mole of the other team. There are two
+weapons you can use: A cannon for moles far away and a shotgun for
+close range moles. When a mole dies the sprite is replaced with a
+white cross. Image is a poorly recreation of what I remember the game
+looks like."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

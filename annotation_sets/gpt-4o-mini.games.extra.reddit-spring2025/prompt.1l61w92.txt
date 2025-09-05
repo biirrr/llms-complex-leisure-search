@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1996-1997] Point &amp; Click about goofy aliens. My
+parents purchased our first PC in 1997, a HP. Came with a bunch of
+games, one was a point and click game along the lines of lil monsters
+who came for tea. But Im not sure if that is the correct title cause
+I cant find ANYTHING about it online. Ringing any bells??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

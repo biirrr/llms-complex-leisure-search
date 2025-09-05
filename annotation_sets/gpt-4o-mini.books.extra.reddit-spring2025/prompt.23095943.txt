@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. 1960's. Cross country car trip, 3 kids & aunt..
+Vaguely remember it as narrated by a teen girl, there is an older
+brother who drives and a younger sister. They leave from NY (I think)
+to CA (I think) with an aunt but have difficulties with money, car and
+fuel. I remember the part clearly where after they shelter in an empty
+house, the aunt leaves their LAST bit of food, a jar of caned peaches,
+as a thank you. Even as a child I wondered who the HECK would eat a
+jar of peaches left by strangers?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2010's?] A game about being stranded on a ice plane
+surviving until rescue. A 3d first person game with a 1 word title I
+think about being stranded on an ice plane waiting for a helicopter
+rescue. You need to eat and you can fish. There are snow storms and
+occasionally you can have a dream. If you eat snow you can get sick
+and become dizzy. There are bodies of dead people with loot on them
+and you can find wooden crates. You can also slip on the ice and fall
+into the water if not careful. I remember it pretty well so feel free
+to ask questions"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

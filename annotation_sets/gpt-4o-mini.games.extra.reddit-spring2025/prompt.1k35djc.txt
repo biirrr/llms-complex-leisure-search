@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Trippy first person game including puzzles and
+reality changes. It's a game where you start outside an apartment
+building, first person, there are no roads or other buildings, just
+pitch black around the building. You could walk around it and it would
+loop to the same place, like it looked like you were going around the
+corner but then you looped back to the same face of the building, and
+you could interact with random items in the environment. I remember
+after entering the small lobby, you had to do a puzzle to get inside,
+and like reality and stuff would change and you had to do more puzzles
+once inside. It was kind of creepy but very mysterious. It's either
+late 2010s or early 2020s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

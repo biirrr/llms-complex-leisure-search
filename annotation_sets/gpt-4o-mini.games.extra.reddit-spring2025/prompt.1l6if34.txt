@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] Racing game in steampunk setting. I
+played this game before year 2004. Game was in a steampunk setting and
+all cars had no wheels, they were heavily resembling podracers from
+Star Wars, some cars were certainly inspired by WW1 and WW2 planes.
+Each car was unique and had a unique driver which could be unlocked
+with the car (I don't know conditions for unlocking). Drivers were
+also inspired by WW1 and WW2 pilots - jackets, scarfs and goggles. I
+don't remeber much about particular characters - there was a girl and
+a very big dude, his car/podracer was also really big. HUD and menus
+were also in steampunky style. Characters were a bit cartoony is style
+(Borderlands/Overwatch) and yet the game was not colorful. I only
+remember one track - desert with oasis/shoreline (you begin in the
+desert and later cross some green area with palms and water)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

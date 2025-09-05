@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Girl driving home from college follows a van
+with Kidnapped girl. Similar plot to No Exit but not No Exit. Read
+around 2013. Spoilers.. SPOILERS I read a book about 10 ish years ago
+about a girl driving home from college but sees a girl in a van that
+has been kidnapped. This is not NoExit. She follows the van and ends
+up at the kidnappers remote house. The kidnapper leaves and she
+eventually finds a way into the house and finds the girl. They escape
+and are driving away but the kidnapper is coming the other way down
+the road and sees them and starts to chase them down. Very good and
+thrilling book but cannot remember the name od the booknor the
+author."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2002-2010] Political Uprising in Fictional Eastern
+European Country. In this game you control a political party and
+spread propaganda, give soap box speeches and canvas neighborhoods to
+increase your influence and sway sections of the city to your cause.
+The graphics were decent for the time, you could zoom in on any of
+your active tasks and watch your operatives at work. The city/country
+names were fictitious and the NPCs all speak a gibberish fake
+language. If I recall correctly, things could even get as extreme as
+starting riots or being arrested by the gestapo."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/console][90s] """"""""controversial"""""""" game series
+where you play as a knight/swordsman. Hi all, I do want to say that I
+never actually played this game, although I do remember watching some
+gameplay. A couple years back I was browsing a reddit thread on
+controversial games, and someone mentioned this, but I can't remember
+what it was called. -I'm certain that the title was the protagonist's
+name, and that there were multiple games in the series (at least
+three) -the protagonist is a medieval knight/swordsman looking
+character. I remember he wore green and had dark hair. -Something I
+remember is that the game was considered controversial for the time
+due to some sexual content and the moral greyness of the protagonist;
+I believe at some point you're able to pillage villages. -it MAY have
+been a Japanese game, but I'm not a hundred percent sure. -style was
+pixelated Thank you so much in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][95-05] Third-person mech fighting game. Edit: SOLVED.
+Its Virtual On: Cyber Troopers. Third-person mech fighter game with
+fast action where youre jetting around a big square stage fighting
+another mech with laser swords and I believe missiles. Character
+selection includes a lady robot with Sailor Moon-style robo-braids.
+Thats all I got!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

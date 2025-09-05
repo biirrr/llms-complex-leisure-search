@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [around 2020] A game where you play as this fungus that
+would grow and contract depending on where the cursor was.. I recall
+that this game was set in an apocalyptic world. The game was 2d side
+view and pixelated. The player was green. It was almost puzzle like in
+continuing through the game. To expand the body of the player you had
+to left-click and to contract you had to right-click."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

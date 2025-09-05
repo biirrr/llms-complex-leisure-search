@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [pc] mini golf game [1970-1990]. Played this game
+as kid on grandfather computer going off my memory not as colorful as
+mini-putt pc game it have 3-4 colors in game green for grass, red or
+brown for walls, white for ball, golfer unknown colors . it does not
+have arrows on course show bumps, water, hills there is no power for
+accuracy., It only have power for ball and direction where hit ball
+golfer is on black background I don't know what computer it was made
+for this mini-putt game video I am posting is close to game Im
+explaining with some differences compared to mini-putt"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

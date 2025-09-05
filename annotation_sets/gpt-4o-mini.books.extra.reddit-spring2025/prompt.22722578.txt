@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Health-Body Ailments & Reason w/ Affirmations to heal.
+Someone made a copy of the book page for me without the title. Here is
+what it says.... Athlete's foot Frustration at not being accepted.
+Inability to move forward with ease. Affirmation: I love and approve
+of myself. I give myself permission to go ahead. It's safe to move.
+Back Represents the support of life. I know that life always supports
+me. Back problems see: spinal, misalighnments, special section page 74
+~lower Fear of money. Lack of financial support. I trust the process
+of life. All I need is always taken care of. I am safe. ~Middle Guilt.
+Stuck in all that stuff back there. ""Get off my back."" I release the
+past. I am free to move forward with love in my heart. ~Upper Lack of
+emotional support. Feeling unloved. Holding back love. I love and
+approve of myself. Life supports and loves me. Bad Breath Anger and
+revenge thoughts. Experencies backing up. I release the past with
+love. I choose to voice only love. Balance, loss of Scattered
+thinking. Not centered. I center myself in safety and accept the
+perfection of my life. All is well. IS THE BOOK HEAL YOUR BODY BY
+LOUISE HAY?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fiction -- A man with a remarkable gift to recognize all
+known scents and write down an accurate composition of their chemical
+compounds. [s]. This has been driving me crazy for nearly a decade
+so..... I read this about 13 years ago. I always mention it to people
+and they think I am referring to a much more popular FICTION book (and
+later film) about a serial killer and perfume. No, this is way cooler!
+It is a REAL MAN who lived and it details the story of the perfume
+industry and his involvement in it. He had a remarkable gift (and
+collected) where he could write down the correct chemical compound of
+any scent he came across -- no matter how complex! The book also
+details the (wait for it) exploitation and competitiveness of the
+perfume companies at the time with such a man who exists. This is the
+second book I've thrown on here -- your time is greatly appreciated!!
+Sincerely, Michael"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

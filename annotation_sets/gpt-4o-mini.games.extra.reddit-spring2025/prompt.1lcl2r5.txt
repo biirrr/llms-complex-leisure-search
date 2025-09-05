@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005 or earlier] Linear track-based racing game. Hey,
+it's a bit of a stretch but I keep thinking of a racing game I was
+playing \~2005 but I'm pretty sure the game was older. I don't have
+any videos/photos of it but I remember some key aspects: The game was
+NOT open world. You chose the track from the menu and even the maps
+were fairly linear rarely having more than one route. The game could
+be played in split screen The races had multiple laps The game wasn't
+very arcade but I can't really recall a lot from a
+""""""""realism"""""""" point of view. It was one of my first racing
+games so there was nothing to compare to. I remember 2 specific maps:
+one was a map that after going by the sea that was on your left, the
+road yould take you to a jungle and you could hear some monkey sound
+effects the other one, was racing through a city and there was a
+dinosaur skeleton that you could knock over and mildly block the road
+for other racers. If you have any questions that could help further
+pinpoint the game, please let me know. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

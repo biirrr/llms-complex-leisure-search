@@ -1,0 +1,52 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][2000s-2010s] Shooter Arcade themed around Pirates,
+played similarly to """"""""Lost on the Island of Spice"""""""". Over
+a decade ago, I went to a Chuck E Cheese's, and one arcade that me and
+a sibling of mine played quite a bit was this shooter game. It was
+similar to a game at my hometown's arcade called """"""""Lost on the
+Island of Spice"""""""", where you have these two
+""""""""guns"""""""", one per player, that you aim at a screen and
+fire away. There were also QTEs. In this case, it was themed around
+pirates, I think it was either chasing a treasure or an undead army.
+Shooter Section: Similar to Island of Spice, the game was divided into
+levels, and each one had a boss fight. You fire at enemies to kill
+them, but in the case of the boss fights, you had to target specific
+targets that appear on screen, and the time you had to shoot them
+before the boss attacked was marked by the color of the target (Red is
+when you're about out of time). QTEs: This is what separated this
+pirate game from Island of Spice, instead of mashing buttons, timing a
+button press to a wheel, or aiming the guns in a specific direction,
+the pirate game instead used a wheel that is shown in this rough
+recreation, under the guns. The QTE is that you had to spin the wheel
+really quickly in one direction or the other. Many had visual cues,
+which made it easier. Wheel Steering: A more unique feature in the
+game was that a few stages had you steer a boat or canoe around
+obstacles. You hit the obstacle or walls and you take damage. It
+wasn't so bad, but I remember that detail quite a bit Other notable
+details: What I remember the most from this game was one stage and one
+boss fight. The stage was you and fellow crewmates canoeing down some
+rapids while fighting off monsters, and halfway through was the
+steering mentioned earlier, you had to dodge rocks while going down a
+rough part of the rapids. There was also a QTE chain of dodging rocks,
+and I got jumpscared by a random boat of people that I NARROWLY
+dodged. The Boss fight was I think the final boss or penultimate boss,
+it was very late in the game and the furthest I ever got. From what I
+remember the boss was an undead captain, I perhaps a skeleton or
+skeleton-like figure. What caused this fight to really stick to my
+mind was the transition to Phase 2. The captain reared back with
+something in his jaw, before proceeding to stare right at me while his
+jaw seemed to break open and a monster-like jaw erupted out. I lost
+the fight afterwards, but that scene just stuck out to me. The image,
+as mentioned before, is a rough recreation of the arcade cabinet. I
+don't remember if the player colors were blue and red, but that's what
+I think were the colors."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

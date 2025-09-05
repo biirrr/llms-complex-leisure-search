@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2010] First person shooter. Hi. A long time ago I
+played at my friend's in FPS team deathmatch witch bots. The game was
+played on an outdoor map. There were vehicles in the game, I remember
+one that was floating above the ground and had 2 fans on the sides and
+you could cut off someone's head with them. Also on this map there was
+something like a mountaintop where a guided missile weapon
+spawned(sniper rifle or rocket launcher). There was another map - a
+moving train. I don't know why I have unreal tournament on my mind but
+I don't know much about this game. What game is it ?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

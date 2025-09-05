@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90s?] Muppet game where you arrange flowers in a
+box outside the window? =. I remember a game from when I was very
+young, I mentioned it to somebody when we were discussing our first
+games because I was saying I definitely played some on floppy disk
+lol. I'm not sure if this specific game was or not, but im sure it was
+most likely from the 90s. It had various minigane aspects to it, but
+the one I can picture most distinctly involved a character whose eyes
+we're closed (she looked high =) and you had to do something with
+flowers in one of those boxes that sit outside a window. I thought it
+would be very easy to find with these details, but I haven't seen
+anything that looks familiar... did I just imagine this??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

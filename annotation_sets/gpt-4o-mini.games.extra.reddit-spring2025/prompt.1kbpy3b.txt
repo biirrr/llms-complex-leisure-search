@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Early 2010s][Browser?] Game where stitched human-like
+robots with big hands are born from pods and served food in a
+cafeteria. Hi! Ive been trying to remember the name of this old
+online game (probably Flash-based) that I used to play as a kid,
+sometime in the 2000s or early 2010s?? In the game, you create or
+hatch a humanoid creature from an egg i think. Once they hatch, they
+look mostly human but have exaggerated features like **I specifically
+remember they had really big hands**. The style was **cartoonish but
+with kind of realistic skin textures** lol. The whole thing felt like
+an experiment or simulation. There was a **cafeteria** where these
+humanoids would go to eat. I think you could watch or manage their
+routines, and the environment felt sterile or lab-like. It wasnt
+action-basedit was more observational or management-style. Does
+anyone remember what this game was called or what site it mightve
+been on? Thanks in advancethis is driving me insane"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy why choose series. Female protagonist has
+tattoos that she can touch and they are weapons- when she sleeps with
+each guy they painfully developed some of her weapon tattoos and are
+her “chosen”. Additional info: One weapon she calls her a** knives,
+one is a lasso on her finger. The first time she sleeps with two guys
+at once and they wake up screaming in pain when they develop her
+weapons on themselves. There is another group of guys who also wants
+her- but they become “protectors” but NOT her chosen like the other 5.
+At the end of the series you realize they are the chosen for another
+woman (princess/queen/something important). You find out that the
+female protagonist is the last of her kind and is special for some
+reason… man I read this about 4 years ago and wanted to follow up with
+other series."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

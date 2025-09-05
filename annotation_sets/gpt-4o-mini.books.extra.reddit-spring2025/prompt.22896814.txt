@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction. Father (professor?) suspects daughter of
+posting adult content online for money. She later becomes highly
+successful and moves to the US (California? from the Netherlands?).
+Read around 2015-2018. Spoilers.. I would really more than appreciate
+your help on this one. Someone gave me this book to read around
+2015-18, and I am a bit confused about this now. It would mean the
+world to me to find out what the title/author is. I marked details
+that I'm unsure about with (?). 1. Genre: Fiction (I believe I read it
+in Dutch) Plot details: A father (who's a professor?!) suspects that
+his daughter (student) posts adult content online. He sees things
+online that remind him of her but he can't believe this could be true.
+He is also suspicious of her spending (?!). Through the plot, you
+learn that he is not mistaken, and that her boyfriend helps her to
+produce content and that she makes a lot of money this way. I don't
+remember how or if she is found out, but there is some rupture. She
+moves away, and becomes highly successful (becoming a consultant?!) in
+the US (Los Angeles, California?!). The plot details that in the end,
+she is married, has a beautiful house, but shocks with some additional
+details that she also still works in the adult movie industry. I read
+the rules and hope I didn't miss anything. If so, I apologize. Again,
+your help would mean a lot to me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

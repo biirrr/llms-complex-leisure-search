@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS/PC?] [UNKNOWN] What was the name of this one Horror
+game?. I remember watching an youtuber play this one game when i was a
+kid. It look very simillar to Amnesia but not any Frictional games
+game I remember it being an labyrinth, where you had to collect
+witches eyes (or some sort of eyes) and gold to later feed an stone
+face the coins so it gives you tips and etc. The face was on a pillar
+that only spawned in safe places, the safe places were those large
+rooms with many pillars (but only 1 face) and doors that led to other
+rooms Im not 100% sure but i think there was an monster that was an
+Giant dog monster that appeared infront of you in an hallway and
+chased you down. A blind monster that you had to be quiet when around
+and had to hide in closets and shadow monsters that attacked you when
+you were in a dark room. It was very Amnesia like, there was an Lanter
+mechanic simillar to one in TDD (The Dark Descent) and the Tinderbox's
+&amp; Torches one too. I asked ChatGBT, looked on google and tried to
+find it on the Youtubers account but couldn't find it. I watch it
+somewhere in 2015-2019, Im not sure exactly when or when were the
+videos by the youtuber uploaded."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

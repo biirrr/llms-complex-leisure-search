@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, unknown consoles] [Mid/Early 2000s] Sci-fi FPS game
+about a soldier that can control flow of time by rewinding (or
+stopping? I'm kinda 50/50 on that part). I remember the game cover
+very well, its a soldier and his helmet is black with bright yellow
+streaks in a pattern. I only played this game on PC as a kid but never
+checked it much further after that. That's all I know if anybody here
+remembers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

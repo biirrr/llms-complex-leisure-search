@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii][2000s] 3D action game with four elemental characters 
+wind character flies using air gusts. Im trying to remember the name
+of a Wii game I played years ago. It was a 3D game, kind of colorful,
+with a team of four main characters, each with a different elemental
+power: fire, water, earth, and wind. You could switch between
+characters, and I think it even had local co-op (maybe two players).
+Each characters power was needed to progress through specific parts
+of the level. What I specifically remember is this: I was playing as
+the wind character, and there was a gap I had to cross. There were air
+gusts or wind coming up from the pit, and only the wind character
+could get across  maybe by flying or gliding. The enemies in the
+level had fire powers, I believe. The game involved both combat and
+platforming or puzzle solving. Its definitely not Skylanders, not
+Avatar, not Bionicle Heroes, and not LostWinds. Any help would be
+hugely appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

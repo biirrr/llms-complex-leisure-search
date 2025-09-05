@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for source of a quotation. I've got another tough
+one. I'm looking for the source of a quote where the narrator/main
+character starts talking about a specific bar/restaurant and says
+something like ""their appletinis are so strong that they qualify as
+foreplay."" The problem I have is that I wasn't the person who
+actually read the book, so I don't know anything at all about the
+source. My friend was reading her book at the beach and laughed out
+loud when she read that quote, then she read it aloud to share it with
+me. Sound familiar to anybody?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2024/2023] Bare pixel graphics indie game with unique
+title. **Platform(s):** I think it was put on steam, but i spent a
+couple hours scrolling through different combinations of tags and
+couldn't find it **Genre:** Rpg, fantasy, probably a build your own
+adventure type game? **Estimated year of release:** certain it came
+out last year, because i saw the creators advertise it on tiktok for a
+while **Graphics/art style:** Very low graphic style pixel graphics, I
+guess 8-bit, i'll include an awful artists rendition of what i
+remember. and i think the colour palette was mostly yellow? maybe some
+purple, i might be miremembering. im pretty sure the sprites of things
+where usually single coloured. **Notable characters:** i think the
+look of your character depended on what you chose for it, eg; class,
+maybe species, and other attributes **Notable gameplay mechanics:** i
+remember the tiktoks saying that it can be pretty difficult, because
+with it having so many stats to customize, and classes to choose from,
+it can take a while to get the hang of and a lot of trial and error. i
+think they said you should take your time on building your character
+which can take a long while, and can be kinda like creating a
+character for a DND campaign, pretty in depth. the gameplay itself im
+pretty sure was top down **Other details:** the games title id say
+kinda had a bluntness to it, pretty sure not a real word, slightly
+fantasy sounding. [characters had more detail than this on the
+selection screens, this is the best i can do lol](https://preview.redd
+.it/4fucca093b7f1.jpg?width=276&amp;format=pjpg&amp;auto=webp&amp;s=d9
+2ab438776c03befb9b5c35a5205e8a6b57f23a)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

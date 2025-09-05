@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Early 1960s beauty book. [s]. My mom used to have a beauty
+book from the early 60s. I think it was mostly about hair, but there
+may have been a few chapters on other beauty concerns. The only thing
+I have left of the book is a copy of a page of a sketch I thought was
+funny. The very top of the page says ""Problem Hair"" (I don't know if
+it's the book title or chapter title) & gives the page number as 155.
+The sketch itself is of a woman sitting on top of layers of beauty
+products. From bottom to top, they are: 4 hair pins, 2 rows of
+curlers, a row of hair dye, a hairbrush, 2 more rows of curlers, a can
+of hair spray, & a home perm kit. The woman's hair is stuck out in
+every direction as if she's been electrocuted. A cherubim is before
+her, holding a hand mirror up for her to look into. The woman is
+looking towards the viewer with an exasperated expression. Below the
+sketch it says ""Drawing by David Silverstein © Dell Publishing Co.,
+Inc., 1963."" That's all the information I have. I don't know the
+title of the book, nor the author's name. Anybody have this book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

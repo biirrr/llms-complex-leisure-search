@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s][Flash] Creepy animated horror game with
+white humanoid character who always ends up killing himself. Ive been
+trying to remember the name of this game for years, and I hope someone
+here can help. It was a Flash horror game from the early 2000s
+(possibly late 90s or early 2010s). The art style was very sketchy or
+hand-drawn, with a white humanoid character  round head, big creepy
+eyes, and a fixed eerie grin. He always had the same disturbing facial
+expression throughout the game. The backgrounds were usually white or
+minimalistic, kind of like a rough drawing. The character would
+perform pointless or futile tasks, and no matter what you did, he
+would always end up dying, usually by suicide (e.g. smashing his head
+into a door or keyboard). Sometimes a friend would enter and kill
+him, and then the character would kill himself anyway. There was
+blood, disturbing atmosphere, and nothing comedic about it. It
+reminded me a bit of Salad Fingers visually, but the character wasnt
+green  he was just pale white and cartoonish. It was deeply creepy
+and possibly removed from the internet due to its content. I also
+might be wrong about some details, I dont remember if it was a game or
+videos on youtube I would watch. But if it was a game then its
+probably about removing objects so he doesnt kill himself but he
+always would. If this sounds familiar, please let me know the name or
+where I could find it. Even a screenshot would help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

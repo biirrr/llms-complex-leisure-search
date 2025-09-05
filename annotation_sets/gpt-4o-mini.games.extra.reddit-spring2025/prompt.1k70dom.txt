@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Steam][recent] scavenge a sci-fi battleground in co-op. I'm
+trying to find a game that was on a recent Steam weekend/weeklong
+sale, maybe two weeks (or less) ago. It takes place on a future
+battlefield where there are giant mechs as well as eldritch bioweapons
+you need to avoid. You're a nobody scavenging the wreckage for useful
+stuff, avoiding conflict as much as you can. Co-op but I think no pvp.
+I think it's Early Access, believe it was first-person perspective. It
+seemed very similar to Hunt Showdown, and I wanted to show it to a
+friend who loves that game, but the sale looks to have ended and I've
+had no luck finding it using Steam's search."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

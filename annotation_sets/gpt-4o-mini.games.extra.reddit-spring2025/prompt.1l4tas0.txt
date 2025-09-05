@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Computer][2010s] platformer that asked philosophical
+questions and then put you on a political compass. I feel like it was
+big on Tumblr or something? It was a free game, looked similar to like
+Poptropica but it was this basic platformer game that split worlds (or
+maybe levels?) between mind, body, and spirit and it would ask you
+basic philosophical questions then chart you on a poliical compass
+with like historical figures and other players. I want to see if I can
+go back and play it so I can see what I answered then vs now but I
+don't remember what it was called :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

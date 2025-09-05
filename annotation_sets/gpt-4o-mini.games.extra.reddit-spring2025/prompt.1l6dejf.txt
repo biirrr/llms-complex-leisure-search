@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?]Space Point&amp;Click Horror. I only remember
+the plot and setting for this game, and that Markiplier played it
+once. The plot is that an astronaut is alone amidst his dead comrades
+on a space station. Most likely there for research. He's confused and
+has to uncover who killed everyone, apparently not remembering
+anything but the weird purple crystal they found. The twist is that
+the crystal infected him, and he's actually the one who killed
+everyone. The game ends with him destroying the entire station to
+prevent the spread of the crystal virus thing. I keenly remember a
+jumpscare where the lights flicker and a man in a spacesuit appeared
+in a doorway but disappeared quickly after. I searched Markiplier's
+channel and can't find it anywhere there so it could have been someone
+else who played it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

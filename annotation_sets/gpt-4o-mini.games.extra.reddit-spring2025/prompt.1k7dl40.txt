@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Online Flash Game][2005] Online mech-style game with
+weapons/armor upgrades?. There's a game I used to play in high school,
+around 2005. It was an online flash game that involves fighting lots
+of creatures/mechs with your mech, earning money to upgrade your armor
+and weapons. I remember there was a secret oasis where you got a
+special upgrade. There were characters you earn special upgrades from
+too after a while. I recall some kind of """"""""meteor"""""""" attack
+was an upgrade to the weapon"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

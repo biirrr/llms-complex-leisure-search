@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction novel about American Nazi youth. Spoilers..
+Paperback novel. It was really thick. Read it in 1995 or 1996 (I was
+in middle school) - Protagonist is a guy in College swim team. - He is
+upset about being poor, and the racists take advantage of his
+situation to manipulate him. - They go to get Tattoos. He gets one on
+his butt, since being on the swim team he cant get one elsewhere. The
+tattoo artist tells the other guys that it's a swastika but she really
+tattooed a daisy. The other guys dont find out, because they would
+never look at guys butt. - The local community is outraged about the
+uprise in racist activity, so theres SHARP protests and talks in
+school. The book makes a point to note the difference between
+boneheads and skinheads. - They kidnap the neighbour kid, who is
+Asian. At this point, the Protagonist realized things went way too
+far."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

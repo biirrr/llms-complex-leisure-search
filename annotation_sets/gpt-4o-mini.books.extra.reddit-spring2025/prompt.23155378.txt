@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Airships, scarred/ disfigured girl, children who
+thieve for a master. Spoiler.. There is a book I cannot remember the
+name of, and I’ve typed in everything I can remember on google and
+it’s still not coming up with the book. From what I remember, there is
+a girl with a scar or possible burn / disfigurement on her face that
+makes her feel ugly, she flies an airship I think, I don’t remember
+the plot, I just remember she flew it with a boy she subconsciously
+fancies, and they land on a planet or some kind of outer space port of
+some sort. A princess lives there and she seems to like the boy ,
+which the main girl notices and makes her feel jealous and I think she
+attempts to leave the place with him. There is a side character which
+I think is a kid/boy who is part of a group of other boys who work for
+a harsh master, I think they steal machinery for him or something like
+that, all I remember from this part of the story is that his master
+actually hangs him but his friend frees him before it actually kills
+him, and the boy asks his friend to leave with him, to escape etc, and
+his friend says he wants to stay because he thinks one day he can
+become the master when he dies so he can be in charge of the boys/
+operation and make the boys who bully him suffer. I read this years
+ago in school and I cannot find the book anywhere no matter what I
+type in , anyone have a clue what it could be called ? I don’t know if
+it’s part of a series or not. It"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

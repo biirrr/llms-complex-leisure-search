@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1980-1985] Apple IIe TXT rpg game. Had a game name
+something like """"""""Nomad"""""""" ? Was a TXT rpg on the Apple IIe
+early 80s. Started in a desert, Some example TXT were """"""""Get
+Lamp"""""""" """"""""Go East"""""""" etc There was a Black dragon that
+would kill you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox rpg][late 2010s to early 2020s] Roblox sci-fi prison
+life sim. SOLVED Platform(s): roblox Genre: rpg Estimated year of
+release: 2019 to 2021 Graphics/art style: sci Fi blocky Notable
+characters: N/A Notable gameplay mechanics: Shooting and prison life
+Other details: a sci-fi prison sim with a full open world and a pizza
+delivery mini game. The game also had a military faction called
+F.E.A.R."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

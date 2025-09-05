@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ROBLOX] [unknown] Roblox game where you used cards to alter
+a parkour course. Im not sure exactly when I played it but it was
+probably about 4 or 5 years ago and all I can remember is that it was
+a game on Roblox where everyone used cards before the round started to
+alter a parkour course? I think you used your cards to alter the other
+teams course and they used their cards to alter your teams course."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

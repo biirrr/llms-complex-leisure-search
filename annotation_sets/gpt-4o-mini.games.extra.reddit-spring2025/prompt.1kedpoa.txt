@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2010]Always online (now defunct?) free-to-play 3D
+brawler. Looking for a game that some friends and I dabbled with
+around 2010 or so. I believe that this was a live service game that
+has since been shut down, because I can recall finding scarce
+information on the game on a similar hunt before. It had a typical
+western cartoony art style akin to Rumbleverse and Knockout City If my
+memory doesn't fail me it had both PvP avd PvE elements. I have
+memories of fighting a clown mech(?) boss of some sort in a arena
+situated inside a city together with my friends, and that we were
+either severely underleveled or lacking knowledge about the game, or
+the boss being overtuned, maybe in hopes of making players spend money
+in order to beat it more easily. And a graveyard map where you could
+kill monsters and/or other players to gather some kind of resource off
+of them which would make you grow in size and/or make you move slower?
+My memory on this is very faint. The main PvP mode of the game also
+took place inside the city IIRC."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

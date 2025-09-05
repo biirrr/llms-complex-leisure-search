@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle East Fiction Book about Arranged Marriage. [s].
+Looking for a book I read about 15 years ago. It takes place in the
+Middle East. The main character is a woman who gets married to a man
+during an arranged marriage. He soon starts physically abusing her and
+she finds out he actually likes men. I remember her brother took her
+out driving which was illegal for women to do. I also remember that
+she eventually ran away and changed her appearance to escape him. The
+cover was a picture of the main character I think. Does anyone
+remember this book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

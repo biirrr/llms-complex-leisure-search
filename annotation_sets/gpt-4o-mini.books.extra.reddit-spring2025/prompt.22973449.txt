@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Billionaire kicks girl and family out of town
+in the middle of the night. She returns a few years later to clear her
+name from her family and falls in love with billionaire. Spoilers
+ahead. I must have read this book once in the last 5 years. So this
+girl is kicked out with her family in the middle of the night by this
+billionaire who (kind of??) owns the town. She was in her nightdress
+and he has a spark of interest which he ignores. A few years later she
+returns to the town stronger and with her own business to prove that
+she was different from her family. She falls in love with said
+billionaire - his mum and sister are against the match. Sister burns
+her house down with them both in it (intending to only kill her) and
+waits outside with a gun to finish the job if she escapes. She sees
+the error of her ways and then apologises. A few other things that may
+help: She sees him make love to another woman in french (before they
+all got kicked out) and this stuck with her. She doesn't open a bank
+account in her home town as he may have control. She cut off contact
+with her family when she left. I think she had a younger sibling that
+she took care of but I'm not too sure. I don't think this was in a
+modern setting as no smartphones etc are mentioned. A library to
+search for information is mentioned. I hope this is all helpful. Thank
+you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

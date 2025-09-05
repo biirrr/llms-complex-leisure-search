@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non fiction book, 10ish years ago. Girl in her early 20s was
+kidnapped and he let her go. [s]. Book about a girl in her maybe early
+20s. She was moving. She was kidnapped I think by someone in her
+apartment area. He held her hostage and then she ended up talking to
+him about God and he let her go. I remember I bought it at dollar tree
+like 10-ish years ago. It was a hardback book and it had a picture of
+her on the front and I think she had blonde hair."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

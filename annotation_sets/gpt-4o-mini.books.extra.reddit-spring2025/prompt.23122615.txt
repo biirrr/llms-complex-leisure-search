@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Male lead was an ex bull rider, female lead
+was younger than him, has had a crush on him since he saved her from a
+bully when she was younger. Read around 2015 or earlier.. Adult
+romance book, mmc was an ex bull rider, fmc was younger than mmc, has
+had a crush on mmc since he saved her from a bully when she was
+younger. She is now an adult and working on a farm, not sure if mmc
+owns farm, but does work at the farm. I believe this was a Harlequin
+romance book. I read it was 10 years ago, maybe longer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

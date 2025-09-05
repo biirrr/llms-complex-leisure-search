@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's poem. Hi everyone, today I'm looking for a poem I
+read in a children's anthology of humorous poems some time in the
+1980's. The poem was set to the tune of Auld Lang Syne, and featured a
+donkey with a head at both end of its body. I'm mainly hoping to find
+the name of the poet and the poem, but it would be a bonus is someone
+could name the anthology too. I don't remember anything about the
+cover of the book, but to my child's eyes, it did seem a large,
+possibly hardcover volume. Thanks so much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

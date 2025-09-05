@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Male author describes his experience of
+Social Mobility, leaves his current job (journalist?) to test whether
+the American dream is still alive. He moves cities and has very little
+money. Read around 2008-2014. Spoiler ahead. [s]. Adult non-fiction
+book. I read it around 2008-2014 and I believe at the time the book
+was relatively new. Most likely the book was written during the 1st
+decade of the 2000's. The author (male) tells the story of his
+experience leaving his current role (which I believe is a journalist)
+and testing whether the American dream is still alive. In the story,
+he moves to another city, starts from scratch with very little money
+in his pocket and goes through the trial and tribulations of trying to
+make a living for himself without using his college degree to secure a
+job. The author ultimately ends up working for a moving company as a
+mover. He tells the story of how he saves money, makes financially
+sound decisions that help him grow his net worth, and start climbing
+the ""social mobility"" ladder. I believe the author was working as a
+mover for about a year."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

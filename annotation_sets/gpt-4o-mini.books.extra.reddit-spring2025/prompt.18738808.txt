@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book that was black/green with a interwoven Celtic symbol
+(crescent moon?) on the front. [s]. The book had all sorts of
+information on Celtic ways and blessings. The beginning intro had a
+woman perform various blessings who was sitting in a chair. She
+blesses her dagger and held things to her heart and the moonlight to
+bless them. She also lit candles. I believe I read it in the 2004-2008
+time frame"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

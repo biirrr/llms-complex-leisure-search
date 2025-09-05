@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "A Collection of Short Biographies by the Same Writer [s].
+Sometime around 12-17 years ago (I believe) I read a book and I've
+recently tried to remember the name of the author or book and can't.
+The Author: The author wrote (as I remember) a column for some
+magazine and these were some of the collected columns. Also, as best I
+can remember, he had a Jewish surname... though I may be
+misremembering. The Book: It was a trade paperback collection of small
+biographies of historical scientists. What I specifically appreciated
+was the author's ability to treat historical geniuses as geniuses,
+even when they turned out completely wrong. So some of his subjects
+were more obscure then the norm. ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

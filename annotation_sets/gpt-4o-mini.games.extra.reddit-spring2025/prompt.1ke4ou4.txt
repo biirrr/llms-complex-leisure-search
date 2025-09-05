@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s ish] Retro-ish first person shooter with a
+Necronomicon item. This is very vague and after looking for hours on
+end for the game in question I'm starting to question its' existence
+lol. It could've been a rogue-like or rogue-lite, but it was
+definitely a first person shooter with retro-ish graphics (sorta voxel
+or something like that). There might've been a shotgun and magic in
+it, but I'm not sure if I'm gaslighting myself into thinking I
+remember that. The only thing I remember vividly about the game (other
+than the graphics and genre) is that it had a Necronomicon item. I'm
+pretty sure I played it back in the middle 2010s, somewhere near 2014
+possibly, perhaps later, and I don't believe it was a very popular
+title back at the time. Before someone suggests Barony - I'm pretty
+sure it neither has a Necronomicon in it, nor shotguns. Any help will
+be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

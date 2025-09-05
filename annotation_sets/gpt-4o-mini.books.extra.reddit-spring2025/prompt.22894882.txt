@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction: White orphan boy gets a job to help
+take care of slaves on a slave ship from America headed to Africa,
+possibly as doctor's assistant (helped him home after drinking too
+much at a bar?). Branding. Read 2004-2010. Spoilers.. Forgive me I
+read this book a long time ago in either middle or high school. So
+2004-2010. An orphan somehow comes under the care of a doctor. I think
+the boy may have helped the doctor home after a trip to the bar. The
+doctor is old and may have a drinking problem. The doctor gets a job
+aboard a slave ship to help take care of the slaves. The boy gets
+branded by an enslaved man who is attempting to escape. The man is
+captured, and the boy is told/forced to brand the enslaved man in the
+face. On the ship, some of the enslaved people are brought to the top
+deck. When they see large pots, they begin shouting in fear. A
+shiphand explains to the boy that they are stupid and superstitious
+and think we are going to cook and eat them. A pregnant enslaved woman
+goes into labor. The doctor is passed out. The boy tries to deliver
+the baby. Sadly both mother and child pass. There is a line about the
+woman screaming and the blood under his fingernails. The boy is later
+disgusted by everyone's lack of empathy towards the woman and child.
+The enslaved people take over the ship with the boy's help but I don't
+remember what happens next. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

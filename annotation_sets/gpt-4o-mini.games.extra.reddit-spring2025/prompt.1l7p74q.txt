@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2010s][2D Side-scrolling RPG] Cute dreamworld RPG
+where you fight corrupted toy bosses. Hi, Im looking for an old
+Android RPG I played around 20102012 on my aunts phone. I dont
+remember the title, but Ive had it stuck in my mind for years. Heres
+what I remember: \- It was a 2D side-scrolling action RPG, kind of
+like MapleStory in perspective and controls (left/right, jump, drop
+down). \- The art style was very cute and colorful  soft, maybe like
+a storybook, not pixelated. \- You played as a boy with a sword. I
+think he was the only playable character. \- The combat was real-time,
+and you could level up by defeating monsters and spend points to
+unlock skills through a skill tree  similar to Zenonia. As for the
+story (from what I remember): 1. The boy somehow enters a dream-like
+world, possibly a kingdom made of toys. 2. When he arrives, many of
+the kingdom's NPCs are found injured. 3. It turns out that corrupted
+toys are behind the attacks, and the corruption is spreading. 4. To
+stop it, the boy needs help from powerful bosses that guard each
+region. 5. However, all of the bosses have already been corrupted and
+lost their minds, so the boy ends up having to fight and defeat them.
+6. I never reached the ending, so I dont know how the story
+concludes. It was a \*\*free game on Android\*\*, and it felt like it
+might have been from an indie developer. If this sounds familiar to
+anyone, Id love to know what it was called! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

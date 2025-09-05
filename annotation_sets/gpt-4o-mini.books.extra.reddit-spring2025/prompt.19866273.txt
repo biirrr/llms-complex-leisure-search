@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Drama, book ""The Children's Hour"" is based on Lesbian
+story. [s]. So I may be crazy but I think the movie ""The Children's
+Hour"" is based on a book. I know it was a play first but I think
+there is a book. So the basic plot is ""two women run a boarding
+school are accused of being lesbians by a student, destroying the
+lady's reputation. The girl was lying."" I am sure that I saw this
+book at a second hand book store and didn't take down the name I am
+sure its older than the movie but hay I may be wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

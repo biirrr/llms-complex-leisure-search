@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Urban Fantasy(?) Set in modern London, where items
+have 'bad energy' that can be deadly. Main character is called
+'Dominici' or 'Dom'. M/M pairings. Spoiler.. AUTHOR: ARIANA NASH BOOK:
+PRETTY TWISTED THINGS I went looking for another series I remembered
+more about... and it was the same author. First of all, I read this
+book anywhere from 4-6 years ago. It's one in a series, but just the
+first one will get me what I want. It's set in modern London. The main
+character is a part of a group that searches for objects that have
+collected 'bad energy' in them because of the trauma they were exposed
+to when in someone's possession. The main character is from the East
+End, his dad is some sort of thug. Main character's surname is
+'Dominici' and he's called 'Dom'. He's shorter, stocky, and prone to
+fights. Dom's boss is secretive but generally well liked by the group.
+His sister disappeared some years back. He's got a fancy manor house.
+He secretly eats all the custard creams but claims to hate them. His
+name MIGHT be 'Richard'. The group go on the hunt for these 'cursed'
+items with weird, bad energy connected to them. It's possible for
+these items to be used as a destructive kind-of bomb. Dom has some
+special power to know if something is 'dirty'. In this world, America
+seems to have some sort of serious issue with people like Dom. I can't
+remember directly. Dom meets some government agent and they bang/date.
+I THINK Dom is convinced this guy is like... after him or something.
+SPOILER - In the most recent book I read of the series, Dom and his
+boss fake their deaths. Some magic mojo happens and Dom is like 'bro
+I'm the chosen one' or something. - At some point Dom is kidnapped by
+some weird doctor/scientist who wants to do tests on people like him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

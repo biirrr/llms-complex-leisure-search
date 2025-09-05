@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy novel about an orphan who joins a guild to hunt
+monsters in a Victorian setting. Read around 2005-2008.. This is a
+book I read in New Zealand around 2005-2008 it was a hard cover book
+with a somewhat grey purple colour. It was a book about a young boy
+who was trying to make his way in the world of gothic/victorian
+setting that had monsters and hunters. Akin to bloodborne in a way.
+Early in the book (first or second chapter) a character is walking the
+path to town doing his job as a lantern lighter before they get
+attacked by wolf like things. It had illustrations scattered
+throughout in a sketch/chicken scratch style. I don’t remember any
+character names and I was only around 9-12 so I don’t have much more
+info. I’ll update this post if I can remember anything else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

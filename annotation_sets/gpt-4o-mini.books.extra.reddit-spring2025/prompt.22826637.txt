@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Fiction (Fantasy?) series. Female
+protagonist is historian/ archeologist. Possibly goes to Europe to old
+building/ castle/ mansion to do research. Young girl who's smart &
+rich. Published around 2004-2012/14.. Hi, I wanted to repost this
+because it was merged with another unrelated post by mistake. I’m
+looking for a book that was published probably between 10-20 years
+ago. I think around 2012. I remember it being somewhat popular at the
+time. It was marketed to adults and not YA I believe. I’ve been
+looking through fantasy novels but I’m not sure if that is the right
+genre or not. I think there was a kind of feel of magic possibly
+happening but it was not concrete. The main character is a women that
+is something like a historian who goes to possibly Europe to this old
+building (maybe a castle or mansion) to do research. Another of the
+characters is a young girl who is very smart and rich. There is at
+least one sequel and I believe in the sequel the protagonist goes to
+the girls house which is a mansion in an urban setting like New York.
+That’s about all I can remember. Hopefully this will sound familiar to
+someone. Thank you in advance for any suggestions."""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

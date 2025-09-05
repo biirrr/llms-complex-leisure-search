@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Novel about an editor reviewing a
+controversial manuscript involving Jesus in an erotic context. Read in
+1990s.. I recall reading this book back in the 90s and I recall it was
+really good. It's about this controversy involving a manuscript that
+involves Jesus in some kind of salacious context, something erotic and
+controversial. I think the protagonist was some kind of editor or
+literary critic. The first part of the book deals with the whole
+controversy around the manuscript. Then the editor reads the
+manuscript and sees it's actually really good literature. That's as
+much as I recall. It's hard to find it on Google, as anything
+involving Jesus either gives me religious results or Da Vinci and
+""book about book"" doesn't help much. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

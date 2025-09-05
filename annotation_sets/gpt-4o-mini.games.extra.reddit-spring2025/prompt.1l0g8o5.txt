@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[browser][mid 2000s] anime-ish character creation game. I
+used to play a game in the mid 2000s on computer browser and I cant
+remember the name or a lot of details. You created a character and
+then got a sword maybe? And you leveled up. It had somewhat of an
+anime style if I remember correctly I dont think it was widely played
+but Id know it as soon as I saw it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

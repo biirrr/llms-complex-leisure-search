@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[app store] [2012-2015?] light novel game with multiple
+choice. It was about this human girl who meets an alien girl with I
+think pink hair and the human girl puts on this I think it was a ring
+which was an artifact from the alien, she couldnt take it off it was
+stuck with her and it made her married to the alien girl cause I guess
+that was her culture or something, and they had to hide from the fbi
+and they fall for each other and end up marrying. Had spicy scenes you
+could toggle them off or on before reading, and was multiple choice
+Im pretty sure but I think it only had two endings, I thought it was
+called A Starry Night but when I search it online I cant find it
+anywhere plz help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - possibly emulator] [2001/2002] [16 bit pixel art,
+gameplay like Zelda, ending was two characters flying off across the
+sky with emotional music, I was 4 and played it with my dad]. Genre:
+Action adventure (like Zelda) Estimated year of release: I played this
+with my dad around 2001/2002 but it could have been on a PC emulator,
+we can't remember. Graphics/art style: 16 bit art style, I remember it
+was like Zelda sorta anime style little 16 bit characters with
+coloured hair, little villages and greenery. Notable characters: I
+don't remember, unfortunately but I remember the ending included a cut
+scene of two characters flying through the sky in 16 bit art style,
+emotional music playing and I think they were flying over trees. I can
+remember at least one of the two characters having coloured hair like
+red or something. Just hoping someone remembers this specific cut
+scene. Notable gameplay mechanics: I can remember fighting monsters
+and cutting grass lol. Other details: There definitely was a storyline
+to it. I would love to remember this to get it for my dad again. I
+loved watching him play it when I was 4 or 5 and he can't remember
+what game it was. Any help would be greatly appreciated. Thanks all!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

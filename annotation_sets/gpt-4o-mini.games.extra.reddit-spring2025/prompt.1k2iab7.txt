@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[3DS] [2010s] game about apocalypse. I remember the map/s
+were like a destroyed place/city?, there was a male guy I believe he
+may have been a soldier of some sorts and a female who's role I can't
+remember there was a mechanic in the game were you spray yourself with
+I'm unsure if they were zombies or another monster like creature I
+remember it was third person"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

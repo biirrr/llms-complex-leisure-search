@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Short Stories- Language of Flowers/ Love stories of
+Flowers: illustrated version of love stories including a knight
+falling into a river in connection to the forget-me-not flower.
+Published around 1980s/1990s? [s]. Hi Y’all! I’m not sure if this book
+is in print anymore but I would love to at least know the title so I
+can hunt down a used version! My grandfather used to have this book
+about flowers with beautiful illustrations. It was about the size of a
+pocket book and came in one of those pretty protective boxes that was
+a copy of the cover. It was very warm colors and glossy. I can’t
+remember the exact title but I think it was along the lines of love
+language of flowers and/or the love stories of flowers. It had each
+little story connected to the flower, with a painted picture of the
+flower, the love scene, the love story and then a general description
+of the meaning. What seems to set it apart from similar books in the
+story of the forget-me-nots, which features the story where a knight
+goes to pick the flower for a lady/princess but falls into the raging
+river and due to his armor is unable to get out and is carried away;
+he shouts as he is swept away “forget me not!”. This apparently is not
+the common story shared about forget me nots so I’m hoping this will
+help as I don’t remember the other stories as well. Thank you for your
+help ❤️"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

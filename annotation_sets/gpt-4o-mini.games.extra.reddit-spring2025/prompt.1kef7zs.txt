@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii]['06-'10?] Animal Crossing-esque landscaping game.
+Mostly remember stomping on tree stumps. **Platform(s):** Nintendo Wii
+**Genre:** 3rd person, kinda top-down (camera could spin to different
+angles though I think) gardening/landscaping/forester sim? **Estimated
+year of release:** 2006-2011 **Graphics/art style:** Cartoony 3D,
+kinda like Animal Crossing **Notable characters:** Human main
+character **Notable gameplay mechanics:** Cut down trees, stomp on
+tree stumps, collect objects? like pinecones, maybe care for animals
+**Other details:** The only clear memory I have of playing it involves
+cutting down a tree and being left with a tree stump, which you could
+jump on and stomp into the ground to make it disappear. I feel like
+there was some kind environmentalist vibe but I might be wrong... I
+rented this game from the public library and probably only played it
+like once. Had a wonderfully light and peaceful vibe. I think there
+were squirrels."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

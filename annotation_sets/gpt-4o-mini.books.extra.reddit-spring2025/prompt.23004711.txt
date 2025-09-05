@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy Romance - Female lead was killed but she woke
+up in a different body (reincarnation or body hopping?). I read this
+book around a year ago. The FMC was killed and she woke up in another
+person's body her name is vale? I know the person she woke up as has a
+twin brother named kale and before she died she was married to a cop.
+I am pretty sure she had a stalker that could have worked with her
+husband. Her new family is in a MC I think and they have some kind of
+superpowers. Her husband raised his brother that she calls brennie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

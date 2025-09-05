@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2000] yellow people shaped like eggs. **Platform(s):
+(PC)** **Genre: Adventure, Puzzle** **Estimated year of release: (i
+played in early 2000's maybe it was released before)** **Graphics/art
+style: (2D)** **Notable characters: none specified** **Notable game-
+play mechanics:** lollipops that gives you a power up **Other
+details:** I can't seem to remember an old game that i used to play it
+has small yellow people, it,s an adventure game and you can make your
+custom maps or play other players maps there was like lollipops that
+gives you a power up to become faster or jump higher there was also
+bulldozer that is all i can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Symbian?][Unknown] A running game genre like most mobile
+games, but you are in minecart instead.. Platform(s): Symbian, i
+think? (because i played it on Nokia 7810) Genre: First Person View
+&amp; Run Estimated year of release: Idk, i played it like 2008-2010 i
+remember. Graphics/art style: Looks like pixel because i can't
+remember Notable characters: Just a player Notable gameplay mechanics:
+Riding in a minecart on Cave where you can collect crystals from left
+and right Other details: - There's a variants of obstacles you must
+avoid - I remember there were last harder levels that is unlockable."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Collection of Children’s (or maybe fairy?) tales (I think
+including Rumplestiltskin) - maybe published in the 90’s?. I had a
+hardback copy of this book when I was younger. I don’t remember when
+my family got it (but likely the late 90’s / early 2000’s). It was a
+white book with a removable white cover (kinda plastic-y material).
+The book was written so you would / could read a story for each day in
+a month (up to 31 days). Some stories were in 2 parts (so 1st part on
+one day and 2nd part on the next day). Stories included fairy tales
+like Rumplestiltskin. I think was a decent size, both in thickness and
+width/length. It could best fit in a bag like a backpack (or similar
+size)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

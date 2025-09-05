@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] 2D Adventure game help. Hello! I have
+looked all through Wiki and cannot, for the life of me, remember the
+name of this game. I wanted to see if there was a playthrough on
+YouTube sometime& I used to play it on Win 98 from a CD and it was a
+game where you were a young man going around a castle. I think it was
+around the feudal era? You woke up in a room at the start of the game.
+You could pick up flowers and a bucket for water. But the main thing
+was that you needed to help ghosts that were stuck in the castle by
+solving puzzles. I think that you could fight bees with a sword or
+stick? I dont remember. But I do remember the music was very serene
+and the sprites had an anime look to them. Reminded me a lot of
+Suikoden at the time. I remember it being more like an RPG but was
+labeled as Adventure on the disc itself when you installed it. Thanks
+for any help figuring this out! Its been killing me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

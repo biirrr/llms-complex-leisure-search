@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Woman reporter goes to Australia on walk about [s]. I read
+this in the 90s but it was probably published in the 70s. It's about a
+woman reporter who goes to Australia to go on a walk about with a
+native tribe of aborigines. She starts off having to leave behind all
+her clothes, jewelry etc. She has to be buried in the sand to get rid
+of her ""smell"" from all the poisons in her systems. They wander for
+weeks in the outback. She get thorns in her feet until they become
+calloused over. She has to be the leader one time to find water. In
+the end, she goes back to town and writes of her journey."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

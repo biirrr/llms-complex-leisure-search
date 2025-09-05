@@ -1,0 +1,48 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi novel title and story name help, maybe the
+uplift series?. Goodreads, I was watching a star talk episode clip
+about interstellar. The important part is NDGT said something about
+going to a planet close to a blackhole. That reminded me of a sci-fi
+space opera book series I read many years ago. The parts I can
+remember are how humans are fairly new to space travel. And something
+to do with a bar or agency where people are paid good money to use
+some sort of pods that actually belong to whole other species that was
+thought to have gone into hiding or simply disappeared somehow to
+avoid being killed off from a even more advanced, brutal, hostile
+species. From what I remember humans didn't actually understand how to
+use the pods all that well, but many coordinates were marked as bad
+because they'd take the pilot to dangerous location so certain death.
+One human male adult (?) tried his luck and the description said ""the
+unmistakable maw of blackhole"". I think this same book involved a
+murder plot on a space ship, and a who-dunit. I want to say book that
+takes place in the same series much latter actually involves one of
+the mysterious species of aliens who were very friendly to humans. So
+much so that at one point in this books series two kids: one human one
+of the friendly ___'s (I can't remember the name :( ) but something
+about they were gaunt and thin, and kind of humanlike, and the author
+noted that they complained that human math was 'so positional' . I
+think a human child and a child of family of ____'s went to a library
+or something? something to do with using a recording device that
+somehow captured a message from a very brutal old species that
+everyone thought had died off a long time ago. Somehow this childs
+recording thing when she took it to someone to figure out what the
+noise was, that recording accidentally got mixed up for whole other
+one. And the kids recording was braudcast all across the planet
+somehow releasing some of the hostile species, as well as alerting the
+___'s that were still in hiding to come out and help keep earth from
+being taken over. I think the ___'s ships were so advanced they were
+able to hide using blackholes somehow. I had thought these memory
+snippets might have been from the uplift war series. But I just can't
+get google to show me enough details for anything to ring a bell.
+Anyone have some other ideas what the book series I'm trying to
+remember might be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

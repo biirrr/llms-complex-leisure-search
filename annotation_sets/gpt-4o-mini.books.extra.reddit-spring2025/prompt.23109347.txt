@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autistic FMC Middle Grade book. I read this like 7? 8? Maybe
+10 years ago even? The main character is a young girl, middle school I
+think. It takes place a while back. They say she has Aspergers instead
+of Autism so. Pretty sure the cover was just of a young girl with a
+brown braid. She liked to hide in the couch for sensory reasons and I
+think her mom passed away so it was just her and her dad. There's also
+like a scene where her gym teacher calls her the r slur or something
+along those lines. Help me out please"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

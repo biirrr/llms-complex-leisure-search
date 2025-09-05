@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID/MOBILE] [2010s] A game about killing zombie hordes.
+The game was like a zombie survival in a small town. I remember that
+in the beginning of the game, a woman said something to the
+protagonist in a weird language, I am almost certain it was Russian,
+at least a Slavic language, then we could roam freely. It was set in a
+small town with a fountain in the middle and many people. After
+roaming for a while, the zombies started spawning and everyone ran and
+screamed, we had to survive the hordes. The game was in third person,
+but you could switch to first person too, with the movement of the gun
+with the camera being a bit janky. The game was pretty low poly, like
+a PS2 game, and the blood was green if I recall correctly. The main
+character wore blue flannel, had a beard and his main gun was a
+shotgun. Can't remember much more of it, but the main art for the game
+on the Play Store page was the main character looking down the camera
+with his shirt and shotguns wood handle visible. That's all I can
+remember, folks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

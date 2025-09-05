@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Pre-2000s] First person dungeon walker where you can
+transform from human to frog to dragon. Platform(s): Either MS DOS or
+a WIN 98 disc. Genre: First Person Dungeon Walker? Don't think it was
+an RPG Estimated year of release: Between 1990-2000, feels like it
+should be leaning toward older. Graphics/art style: Pixels instead of
+polygons, decently high frame rate, the era of the rectangular HUD
+edges. Notable characters: Main character can transform from Human
+into some kinda Frog, some kinda Dragon. Notable gameplay mechanics:
+You could swim as a frog, fly as a dragon, you had a health bar. I
+remember the levels being completely different environments, depending
+on which transformation was """"""""correct"""""""" for the area.
+Other details: The HUD had a picture of the person you were playing
+as. I don't know if there were """"""""enemies"""""""" or remember
+doing anything but running in a straight line and platforming, but I
+might've this game between 1998 and 2003, unless I imagined it.
+Could've also just been a really short demo game. tyty"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

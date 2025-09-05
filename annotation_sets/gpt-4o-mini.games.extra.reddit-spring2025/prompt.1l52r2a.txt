@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2010s?] Only a vague memory of a point &amp;
+click game. There was this old point &amp; click adventure (?) game i
+used to play as a kid, but i cant remember much more other than this
+death scene which involved a large """"""""flower"""""""" on the
+ground, and if stepped on would snap shut and essentially eviscerate
+the character. He looked roughly like the picture, though i can't
+entirely remember if his shirt was actually blue and if he was bald or
+not. But he definitely had a beard. The game itself was in a rather
+""""""""generic"""""""" 2000-2010s flash game. If memory serves right
+and i'm not mixing it up with a different game, the music itself was
+also somewhat depressing to listen to. I've been searching for this
+game for roughly a decade at this point and i really do hope that
+posting here can get me some steps closer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

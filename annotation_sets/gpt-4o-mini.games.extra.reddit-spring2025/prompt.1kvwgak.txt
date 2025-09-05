@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010s] You play as a red headed bearded guy who is
+an awful person. Not the best description, I know. But it's all I can
+really remember. I saw a guy today with red hair, a thick beard, and a
+plaid shirt and the first thing that popped into my head was,
+""""""""Wasn't there a video game with a guy that looked just like
+that?"""""""" All I can remember about the game was that people were
+CONSTANTLY talking about how terrible the protag was. That he was
+misogynistic and that the story overall was terrible. I think it was
+an RPG of some kind. So-and-so Saves the World or something. I never
+played the game, but it was all over news sites when it came out and
+now I can't track it down. I want to say the protag's name was Paul.
+But that doesn't turn up any results, so I might be wrong on that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

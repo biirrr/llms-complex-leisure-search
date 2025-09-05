@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1 or 2][Late 90s, early 2000s] Game from my childhood I
+need help finding. I played a game my dad had for the Playstation when
+I was a kid. What I remember: -wireframe rendering style -very
+geometric -I believe it had enemies you had to kill -I believe the
+games disc was black or blue, i dont think it was silver. It wasnt
+battlezone. My memory isnt the greatest so I apologize for limited
+details. If anybody could help based off of that, it would be greatly
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction series: Neglected and angry boy called Nathan
+volunteers at animal sanctuary. Gets into trouble for rescuing a
+donkey when the owner complains. Read early 2000s.. I read this book
+in the early 00s and this is what I remember about it: Author is
+British and book set in UK. Main character was called Nathan. Hes
+around 14 and in year 9 at school. He’s mad at the world and suspended
+from school maybe for fighting. His dad doesn’t want him and his mum
+neglects him. His brother works on a market stall and Nathan goes to
+visit him. Nathan ends up meeting some vegans who work at an animal
+sanctuary. He starts working there and becomes attached to an abused
+dog. He gets very upset when the dog is adopted out. Nathan and a
+couple of others rescue a neglected donkey from a field and get into
+trouble when the owner complains they stole it. The book is part of a
+series, the first book centres on a girl called Jo whose parents have
+divorced recently and a school trip to the countryside on an adventure
+type trip. That’s all I remember but it’s driving me nuts trying to
+remember the title of either!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

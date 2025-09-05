@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction about high school, a class president and football
+player in secret relationship. I was trying to remember this book that
+I remember reading around the time I was in high school (at least 10
+years ago). I can remember plot information/details but I have no clue
+about the author or title. It would be a Y/A novel, sort of
+romance/love story as well as friendship and coming of age. The main
+character was running for and elected class president. She ends up in
+a secret relationship/hook up with a popular jock/football player. His
+family has a Christmas tree farm I think. She and her best friend are
+in a fight for a lot of it over her friend forgiving/moving on from
+being bullied and tormented by classmates about something that had
+happened early in high school. Any help would be appreciated even with
+the limited (random) info, but I know someone out there has also read
+the book! Thanks!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

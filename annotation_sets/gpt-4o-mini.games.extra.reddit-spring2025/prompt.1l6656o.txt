@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[browser] [2015ish??] online platformer game where you are a
+little black square character avoiding searchlights and obstacles.
+Platform(s): Browser game, might have been on poki? Dont quote me on
+that Genre: 2D platformer Estimated year of release: Im guessing
+around 2013 - 2016 possible later Graphics/art style: Simple square
+based 2D art style. everything is black, grey, or white Notable
+characters: Notable gameplay mechanics: You run left or right, jumping
+and obliging obstacles as you go. And there are these floating eye (?)
+things that have search lights that you have to avoid. Other details:
+Nothing really."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1999-2010] Game with baby chinese dragon. My mom used
+to play this game on her computer when I was a kid, sometime in the
+early 2000s, though I have no idea when it would've been released.
+It's a puzzle game, though I unfortunately don't remember what type of
+puzzles it had, and had a baby chinese dragon that would age as the
+game progressed. I think the seasons would change periodically as
+well, with the artwork changing to match."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

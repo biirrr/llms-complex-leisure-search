@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book about two friends or sisters who go to
+Sweden, have a Swedish smorgasbord. had pictures of it. Read late
+1970s/early 1980s.. Children's book Read LONG ago -- late seventies or
+early eighties Two little girls go on vacation with family members.
+With a dad or mom and dad. Pretty sure Dad was there. The little girls
+Could be sisters but I think they were best friends Illustrations I
+think they go to Sweden See a Swedish smorgasbord -- I remember
+because that is where I first heard the term and found out what it
+was. Pictures of big smorgasbord -- looked good!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

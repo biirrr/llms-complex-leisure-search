@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2010's] 2D Side On Black and White Life Sim.
+**Platform(s): PC** **Genre: Life Simulation** **Estimated year of
+release: Late 2000's - Early 2010's** **Graphics/art style: Side On
+Black and White** **Notable characters: 1 character had a hot dog(?)
+cart** **Notable gameplay mechanics: player could pick 1 of 3(?)
+characters and live their lives, working, going to a motel/apartment
+to sleep. At least one of the characters had a food cart of some kind
+that you worked at to make money.** **Other details: Some popularish
+gameplay youtubers made videos at the time about it, and fairly sure
+that there was at least 2 different characters to chose at the start
+of the game.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

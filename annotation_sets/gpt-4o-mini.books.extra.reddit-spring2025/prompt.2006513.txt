@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "poetry by female poet, came out circa 2012. I came across
+this book in the new arrivals section at Cambridge Public Library
+about two years ago. It was a slim volume, reddish cover with an
+animal eye on the cover. The author was female. Jennifer or Jessica,
+maybe? The first or one of the first poems is about a horse that,
+slowly, crushes it's owner's foot. I have been searching for the
+collection ever since. It reminded me of my late grandfather. I was
+visiting Cambridge for the weekend, had just ducked into the library
+to escape the rain, and found myself in tears over that poem. I would
+be so incredibly happy to find it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

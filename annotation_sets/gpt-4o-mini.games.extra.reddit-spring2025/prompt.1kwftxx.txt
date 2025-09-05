@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [Unknown] Countries around the world like USA and
+Russia try to communicate with aliens to in some sort of Battle
+Royale. But once they achieve their goal, their wishes get
+misinterpreted at the end.. I remember watching a video with all the
+endings months ago. I'm not sure about the gameplay nor the genre, but
+the goal of the game was to communicate with aliens to grant you a
+wish (?) I vaguely remember underwater combat...? Maybe submarines,
+too. It's a bit fuzzy. If I remember correctly USA was using the
+secret service/men in black, and Russia was using the KGB. There were
+more factions, but those two are the ones I remember the most. In the
+Men in Black ending, the aliens bring them to the mothership and end
+up experimenting with them. Another ending asks for
+""""""""equality"""""""" but the aliens end up simply stitching the
+humans together by their hands. The endings are similar to Twisted
+Metal, where if you ask for something like """"""""I wish to
+fly"""""""" and jump from a high place, the twist is that your wish
+was turned into plane tickets so you could """"""""fly"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

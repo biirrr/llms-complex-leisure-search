@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NDS] [2008-2010] Game where you choose as boy or girl and
+you have a Book?. You have a book where you slap it on creatures and
+things around the world. It has like brick game shapes in it that you
+can use to make more things, or Weapons. You can also slap the book on
+you enemies and change their attributes to make them weaker. You can
+literally slap the book on everyone and the NPCs don't mind except for
+the enemies."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

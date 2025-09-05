@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX][1994-2000] Japan-only, first-person horror
+""""""""dungeon"""""""" crawler taking place in a sewer or underground
+labyrinth where a creature pursues you. **Platform(s):** PlayStation
+**Genre:** Horror, Adventure **Estimated year of release:** Sometime
+during the system's life span. **Graphics/art style:** Rather spartan,
+dark **Notable characters:** None that I can recall. **Notable
+gameplay mechanics:** **Other details:** I haven't played the game,
+but I read about it sometime ago and now I'm drawing a blank. The
+details I remember are that it's a first person exploration game
+taking place in a dark labyrinth, sewer, or series of tunnels where a
+monstrous creature is pursuing you regularly or most of the time. If I
+remember correctly, the labyrinth is also inhabited by other
+characters trying to survive. I can't recall if there was any real
+combat to speak of. **It isn't:** Shin Megami Tensei, Shadow Tower,
+King's Field, Germs Nerawareta Machi, Kowloon's Gate"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

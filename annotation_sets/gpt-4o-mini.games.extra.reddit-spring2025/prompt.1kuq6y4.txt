@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2000-2005] A game about killing monsters..
+Platform(s): PS2 Genre: Isometric/Top-Down, Action, Monster Shooter
+Estimated year of release: 2000-2005 Graphics/art style: It was very
+dark and depressing. Notable characters: I remember some guy who wore
+a trench coat, a hat, and he had a crossbow. Than there was a girl
+with pig tails and two guns, than I believe someone that could use
+magic. Along with maybe 1-2 other characters. Notable gameplay
+mechanics: You went level to level, killing zombies(?), werewolves,
+all kinds of supernatural enemies. You also had a level system and I
+believe maybe a very primitive like skill system? I know there there
+was xp orbs akin to something like Ultimate Alliance 2. Other details:
+I remember a few specific maps. The first one the opening you were in
+a back ally and after a short bit entered into a in the apartments
+(and met the girl). Than another you were in a train station, than one
+was a city and lastly graveyard from what I recall."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

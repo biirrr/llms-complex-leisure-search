@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash Game][Unknown] Alien side-scroller beat em up where
+you choose between to charecters a white haired male who uses fire and
+a blonde girl who uses electricty. Update 1 :the charecters get
+abducted if you lose, Update 2 :the female charcter was wearing blue,
+the charcters had white eyes as well update 3 :It had an artstyle
+close to Seigius Arena"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

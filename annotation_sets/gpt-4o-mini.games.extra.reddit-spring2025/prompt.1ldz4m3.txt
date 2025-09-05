@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3/4, PC] [Post-2010] Adventure where you switch between
+3D """"""""real"""""""" world and 2D shadow world. **Platform(s):**
+Maybe PS3 or 4, likely PC. I'm unsure because this is a game I've
+never played at all. I'm not even sure it exists and hasn't just been
+a dream. **Genre:** Adventure? **Estimated year of release:** Likely
+after 2010. But again, not sure. **Graphics/art style:** 3D and 2D,
+pretty gloomy, desaturated. **Notable characters:** If I remember
+correctly the main character was female? And she had a shadow who was
+also a character? **Notable gameplay mechanics:** You can switch
+between 3D and 2D, as in you play the girl in 3D and then switch to
+her shadow to move around in a 2D plane. **Other details:** The
+setting, in my memory, feels relatively contemporary. Late 20th/early
+21st century. Maybe y'all can help me figure this one out... if this
+is a real game at all. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

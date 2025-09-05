@@ -1,0 +1,15 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book. Boy who eats odd objects.. Dark
+children’s picture book. 1960’s probably. Boy is at the doctors office
+having the odd objects he’s eaten removed from his stomach. I believe
+they finally find a bicycle in there. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

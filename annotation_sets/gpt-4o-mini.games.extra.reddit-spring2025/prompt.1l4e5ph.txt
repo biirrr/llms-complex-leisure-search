@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s]Does anyone remember the name of an isometric RPG
+where the protagonist is captured by elves after a tutorial in a field
+battle?. I'm looking for the name of an isometric RPG I played on my
+PC several years ago. I remember the following: Start of the game: It
+begins with a tutorial in which the protagonist participates in a
+battle in a field or meadow, I don't remember well. I remember that in
+the tutorial they taught you how to use a sword and two spells (fire
+and ice) and a friend accompanied you. During the first part, the
+objective is to reach a temple or similar structure. I don't remember
+it well. There is a cutscene where a boss kills allies and leaves the
+protagonist unconscious. After being captured, the protagonist is
+imprisoned in a prison. In which, if I remember correctly, he had a
+collar or device around his neck. At this point, you could choose
+between two allied prisoners, a woman and a man, to accompany you on
+your adventure. It's pretty much what I remember, since I couldn't
+play anymore because my parents were a bit strict at the time :( It is
+an isometric RPG with click combat, set in a medieval and magical
+world. I remember that you could change the protagonist's skin color.
+I've tried to remember the name of the game, but I can't. If anyone
+recognizes these details and knows what game it is, I would greatly
+appreciate your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

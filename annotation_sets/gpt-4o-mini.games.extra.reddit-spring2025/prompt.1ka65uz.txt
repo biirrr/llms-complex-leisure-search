@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s?]Short art project/""""""""game"""""""" based on
+Japanese Folklore?. This one is tough to describe because I could be
+mixing up details with other games. This was a pretty short game,
+probably from itch io. I feel like it was most likely visual novel
+style, where you click through speech options or just the story in
+general. If it did have controls at all, it was most likely very
+minimal, like maybe some puzzle solving, but unfortunately I'm fuzzy
+on those details. The art style seemed hand drawn (in color), and I
+think I remember it being made as an art project or something similar.
+What I do remember is a scene on a bus or train, and a scene at a
+temple or shrine (with the shrine having some kind of creature from
+Japanese folklore I think). I don't remember it being scary or an
+outright horror game, maybe a slightly creepy vibe at most. It was a
+fairly simple and very short """"""""game."""""""" I'm guessing I
+played it somewhere between 2010 - 2020. Sorry for so few details, and
+I could be way off on a lot of them, but hopefully this rings a bell
+for someone."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

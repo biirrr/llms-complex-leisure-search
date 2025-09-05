@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - CD-ROM] [2000-2010] Point and click game to escape a
+mad cientist. Hi all! There is a game I played when I was a child that
+I really loved but have never been able to find it. I played it in
+Portuguese (voice acting and all). Could you help me identify it?
+Platform: PC, windows Genre: Point and click, scape, for children
+(probably) Art style: 2d, animation notable characters: 1. main
+character was a boy that rolls over to a mansion in a bike or scooter
+2. the evil guy was a mad cientist 3. There was a teddy bear in the
+wall (Pic attached) that when clicked on screamed KILL ME KILL ME
+PLEASE 4. Later in the game a brain suspended in liquid helped you
+out"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

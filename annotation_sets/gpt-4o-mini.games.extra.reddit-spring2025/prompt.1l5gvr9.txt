@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2024-2025]Indie game that looks like a spiritual sequel
+to Strider (PS1). So, either last year or in 2023, I remember seeing a
+trailer for a game in one of the myriad Summer Showcases that have
+become the norm now - most likely the PC Games Showcase. It looked
+like a spiritual sequel to Strider 2 on the PS1, a side-scrolling
+action game with a ninja type character fighting robots, with highly
+detailed 2D sprites on 3D backgrounds. The visual style seemed very
+intentionally like an homage to Strider 2. Here's a video for
+reference: https://www.youtube.com/watch?v=clRmNFxba00 Not sure if the
+game is out yet, but I am certain that I saw it on a recent showcase."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

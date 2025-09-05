@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2010's] flash game where the moon crashes into earth?.
+I'm not sure if it was actually a flash game but there was this web-
+browser game where you played as a little girl talking to different
+people in your town as the moon slowly gets closer and closer in the
+background. It had a really distinct art style where everything was
+black, blue, and white. Each interaction with another character would
+bring the moon closer, so you had a limited amount before the game
+ended. The ending would differ slightly depending on who you spent
+your time with. The characters I remember are your parents in your
+house, the neighbors house with two dudes who lived together, and an
+old man hobo who would warn you about the moon getting closer. There
+was also a diner and a garden you could visit. The last scene would
+always be the hobo saying """"""""goodnight moon"""""""", which might
+be the title of the game but I'm not sure. Does anyone else remember
+anything similar? Any help or shared experiences are appreciated!
+Also, before anyone says it, it's not the Zelda game lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

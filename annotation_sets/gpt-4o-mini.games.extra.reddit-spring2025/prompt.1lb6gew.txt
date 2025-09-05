@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][around2010] An old hexagonal fantasy game on PC whose
+name I can't remember.. I remember an old game my grandfather used to
+play for me to keep me busy. It was a medieval fantasy game with
+hexagons. There were orcs, elves, etc. I remember that we recruited
+troops using the money earned from the cities we controlled, and that
+our soldiers became stronger when they killed enough enemies. I also
+remember there was a level editor. And I think it was free and it was
+software and not a website. Could you help me find it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

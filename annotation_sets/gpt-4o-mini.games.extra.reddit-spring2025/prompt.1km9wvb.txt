@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] Racing game like skylanders with toy car
+scanner. Okay so back when I was a little kid i remember playing this
+racing game on my old desktop computer and I have been digging to find
+the name of it and I cant find it so Im coming to Reddit for help.
+Basically you put the toy car on a little scanner like you would with
+skylanders and it would let you drive that car in the game. I remember
+some cars had like little wings too if that helps. If anyone could
+help me find the name of this game it would be greatly appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

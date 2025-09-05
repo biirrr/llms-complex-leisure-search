@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir: Gay UK author describes sexual encounters in
+Middle East. Murdered the day he finished book. [s]. Hi, I'm looking
+for the name of a book by a gay British author who spent time
+traveling around the Middle East and picking up lovers along the way.
+The day he finished writing a book about his adventures, he went out
+with friends to celebrate in London. The next day, he had been
+murdered and the laptop that contained the book was destroyed. His
+friends and editors had reviewed earlier versions of the book and were
+able to finish and publish it posthumously. I'm curious about the book
+and the author. Also, when I read the book, the author's murder had
+not been solved. I'm curious if the murder has been solved yet."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

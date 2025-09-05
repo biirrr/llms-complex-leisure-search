@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance Suspense with 2 sisters raised by Aunt and
+Uncle. This is a romance suspense book about 1 of 2 sisters raised by
+an Aunt and Uncle after parents killed. It is mainly about the older
+sister who lives in a house rented by her and 2-3 men. She studies
+computer science but models to make money for her Aunt and Uncle who
+spend it on their own son who is always in trouble. I think the hero
+is there as her body guard but can't remember that part exactly. Her
+ex-boyfriend steals one of her computer programs and trys to sell it.
+The person she models for when pressured to by her Aunt and Uncle
+befriends her and sees what is going on and sets up a separate account
+for most of her earnings. I woke up this morning knowing so much about
+it but not the name. Really would like to read it again. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90's] An educational kids game with a sort of
+point-and-click style and several minigames.. I don't remeber all of
+the minigames, but one was about a car that lost bolts for it's tire
+(the solution was using a bolt from each of the other three tires to
+give the fourth on three of it's own). The second was about mailing a
+package to India or somewhere similar and trying to find a way to keep
+the postman out of the box while still letting the guy you're mailing
+it to get in. I remember it having an art style similar to 90's Disney
+movies (no, it wasn't actually a disney game.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

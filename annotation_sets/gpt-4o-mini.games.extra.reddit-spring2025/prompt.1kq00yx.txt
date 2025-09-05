@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][95-05 - I think] Kid goes to a mansion and the evil dr
+there makes experiments and turns him into a monster. Point and click
+game; objective is to escape. Im pretty sure the kid had orange hair,
+and if im not mistaken he gets captured because he rings the doorbell
+and the floor mat collapses and he gets taken. Its a 2D animation
+style, the whole place is covered in beakers and pieces of other
+experiments. I was a kid when I played it and was too scared to push
+through the first couple rooms, and now I want to finish it. Have been
+looking for the title for over ten years. = Please help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids chapter book about a mall that gets launched into space
+by aliens. The main character is a kid who likes comics or drawing
+comics and his comic drawing teacher guy is with him when the mall is
+suddenly launched into space. Aliens have taken over and announce that
+everything in the mall is now free. Everyone starts grabbing TV's and
+stuff. People camp out in the stores of the mall. Pretty light hearted
+and short. I don't remember the ending"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

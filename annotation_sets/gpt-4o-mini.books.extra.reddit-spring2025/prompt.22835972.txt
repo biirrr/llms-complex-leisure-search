@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery series where a female baker always gets
+involved in murder mysteries and her bakery always gets involved, then
+she found out her grandma is in a investigation team with her elderly
+friends. [s]. the baker also got together with a police who helped to
+solve her first mystery, they later got married, this series is in
+kindle when i read it around a few years ago like around 2019 to 2020
+i think"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

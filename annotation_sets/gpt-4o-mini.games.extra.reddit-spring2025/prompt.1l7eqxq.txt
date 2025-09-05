@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo 3ds] [unknown] a witch creature capture game (like
+pokemon but with plushies). I don't remember the title of this game,
+but I remember the plot. You're a (female) witch, in a world filled
+with plushie creatures that you collect and battle like pokemon. You
+havw two friends (also girls and witches) and have a mentor who has a
+plushie dragon partner who kinda looks like a dog (he gets pet a lot).
+And you also have a special plushie pal who looks like a squirrel
+(chipmunk?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

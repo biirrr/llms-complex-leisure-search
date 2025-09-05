@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNKNOWN] the name of the game goes along the lines of
+who killed &. I cant remember the name of the person in the title.
+Its a movie style game where you choose your own actions. I believe
+jackscepticeye played this game at one point, I cant remember exactly
+who played it, but I feel like it was jackscepticeye. Its starts off
+in a party and you find a dead person inside of a restroom for the
+first part, and one of the girls in the party gets a knife in her eye.
+Its a pretty long game and I believe it turns out to be 2 faction
+like groups having some sort of war with each other."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

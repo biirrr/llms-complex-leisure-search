@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2009/2015(?)] game about a royal cat family saving
+kittens. Platform(s): pc, web game that ran on sites like GGG/used
+flash Genre: 2nd person side view (i think thats what its called?), a
+mix of puzzle and platformer Estimated year of release: mid to late
+2000s, around 2015/2016 ? Graphics/art style: not shaded that much,
+light and colorful. mostly took place in a sunny/rainbow field. the
+cats were pretty cartoony Notable characters: a king cat (wore a crown
++ cape, grey in color?), a queen cat (just white), and different
+colors of kittens (gray, white, orange, ect) Notable gameplay
+mechanics: you had to jump on platforms and go through traps to save
+your kittens and bring them back to an area. had a level system Other
+details: story followed a cat kingdom that was invaded, and the cat
+king + queen lost their kittens, and then they had to bring them back
+to safety. played w my sister when i was pretty young, so i dont
+remember much"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

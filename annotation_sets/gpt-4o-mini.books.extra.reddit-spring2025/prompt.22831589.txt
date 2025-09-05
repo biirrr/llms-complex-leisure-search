@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "New Adult Fiction about Renée Dubois, her family and other
+life struggles in the fashion world. Spoiler. [s]. I read this book in
+2020, so it was written before then. It's a #fiction #drama #thriller
+#fashion type of book, from what I can remember anyway. The main
+character's name is Renée Dubois and I think the book starts with
+someone having had an accident then they start to tell her story.
+Renée came to a new city after her parents' death to live with
+someone, I think she had 2 siblings, I'm not sure but she has a
+brother. She ends up falling in love with some popular person or son
+of a popular person who also loves her, can't remember if it worked
+out at first though. (view spoiler) [Anyway, a lot of things happened,
+I know she, Renée, became a famous designer, her brother joined some
+kind of revolution/rebel group during one of these popular world
+events that had to do with a war.(view spoiler)[ They lived in I think
+Paris. Renée had a son with her first husband, then she got married
+again to, I think someone called Gary and had a daughter and her son
+hated her daughter because she was 'ugly' and stealing his mother and
+stepfather's attention from him. The story spills into their, her
+children's, stories when they're grown, including her brother's child
+or children. Anyways, I really loved the book but never finished it, I
+would like to read it again but I forgot the title, any help would be
+appreciated. Thanks. (hide spoiler)] (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

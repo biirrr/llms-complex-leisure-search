@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Possibly YA Fantasy. Female lead is a dragon riding princess
+whose island gets attacked on her wedding day and she is kidnapped..
+the invaders that attack kill her fiance, family and her dragon. she
+escapes the castle with her younger sibling who she takes to her dead
+fiance's grandparents to hide the sibling. she goes back to the palace
+and attacks a pronce from the kingdom that invaded. he kidnaps her and
+takes her home to his kingdom and marries her. he has had other wifes
+who were killed on the wedding day or maybe right before the wedding?
+he manages to dave her from assassins on their wedding night. some
+time after that she ends up in the dungeon where there is a boy in
+another cell. there is some kind of water way with dangerous creatures
+in it so she cant escape. she tries to befriend a wild dragon that
+comes in the waterway. at some point she makes a deal with the prince
+to pretend marriage is real, or something like that, but still ends up
+back in the dungeon where she and the boy escape on the dragon. book
+one ends with the prince letting her escape but vowing to find her.
+book 2 starts with the f lead and the boy from the dungeon finding the
+resistance members who are lead by her aunt."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

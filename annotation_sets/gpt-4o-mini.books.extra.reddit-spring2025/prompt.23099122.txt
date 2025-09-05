@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction story about a civilization where
+elites live longer by using a drug to die then brought back to live
+and have memories downloaded. Spoiler.. Possible spoilers below as I
+write everything I can remember about this book in hope someone will
+know of it and remind me of the title. This is a science fiction book.
+The main story follows a telepathic boy who hides his abilities as
+they are feared and killed if discovered. A man befriends him who
+wants to tear down the society they live in. A society in which the
+elites live on a world covered in cities where the more important you
+are the longer you can live by using a drug to temporarily die and be
+put into a state of suspended animation. Your mind is copied and saved
+and reloaded when they bring you back to life. The empress lives the
+longest only being awakened for a single day every century. Later the
+telepath accidentally creates a world of strong telepaths who watch
+over the human race and create a utopia where nobody dies or gets sick
+or feels pain. Theme of the book is about how utopia stagnates man and
+we need to struggle to survive to truly be alive and grow as a
+species."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

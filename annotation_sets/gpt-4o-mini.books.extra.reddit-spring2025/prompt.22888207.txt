@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary fiction book that I read sometime between
+2015-2018. It was a paperback when I bought it. I think it had a blue
+cover with flowers & a ""handwritten"" title? Dealt with beauty
+standards. Spoilers in comment. I remember one of the characters was
+described as having her eyes too close together, and she was supposed
+to be the ""ugly"" one (didn't do too many good things for me lol). I
+don't remember anything happening in the plot except for maybe that
+this ""ugly"" character turns into a monster at the end – like within
+the last couple pages. It's also possible that this doesn't happen or
+I've remembered it wrong. As far as the plot is concerned, I don't
+think much happened. From my memory, it was a kind of ""no plot just
+vibes"" type of story. I think there might have been a ""pretty""
+character and the ""ugly"" character described above. Unsure of what
+their roles were or what they did. It's possible it was satirical. The
+book was very realistic until the end. Edit: possibly takes place in
+New York city."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

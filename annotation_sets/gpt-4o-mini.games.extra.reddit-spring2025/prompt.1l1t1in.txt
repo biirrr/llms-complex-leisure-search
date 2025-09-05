@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2023-2024] a game about losing a best friend. Found
+this game on itch, its a game about how the creator of the game lost
+his best trans friend. All of the creator's monologues in the game
+were voiced. The game had 6-7(?) chapters, but some of them were not
+available. The graphics are stylized for PS2 with lots of fog, but
+with clearer textures."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

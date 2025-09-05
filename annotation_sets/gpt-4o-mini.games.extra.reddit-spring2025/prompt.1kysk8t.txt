@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1999] It's a point and click for kids, the game happens
+in space and there's an elephant (yellow I think?) guiding you through
+it, at one point he says """"""""Bravo, B.R.A.V.O"""""""".. Thanks in
+advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

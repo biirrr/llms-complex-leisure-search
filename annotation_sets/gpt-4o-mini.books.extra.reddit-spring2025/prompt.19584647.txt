@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Cookbook (nonfiction) by blogger. Baking sweets, focus on
+parties and easy celebration? Cover: pretty table, pink and white.
+[s]. in the last decade, but I guess could be as early as 2004 -
+beautiful big decorated table for (outside) party is all I remember.
+All pink and girly, frilly but not a book for young girls. Written by
+woman (blond?) who has a blog or had a blog and this book was
+featuring popular recipes that appeared on her blog. She focuses on
+all kinds of parties, I remember a cake pops recipe in there and
+something with Oreos, dipped or mashed, cupcakes but I don't think it
+was a CAKE book, no ""cake"" in the title, but I could be wrong.
+Google didn't help at all. I know she did ideas for showers and all
+kinds of events, I thought the concentration was on ""easy"" or no-
+cook ideas, or something to simplify baking for celebrations...is not
+any of these titles: Sally's Baking Addiction Hummingbird Bakery
+Cookbook Brown-Eyed Baker How to Cake It The Perfect Cake Cake Doctor
+Colors are pink and white, remember the table on cover!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mens Fashion advice book from the 1970s? Aristocratic
+author. In the interest of completeness I'm trying to add all the
+books I've read over the years to GoodReads and indicate about when I
+read them. I recall reading this book on men's fashion either when I
+was in high school or shortly after so definitely sometime in the
+early to mid 70's The title was something like Dress Better for Less
+or Dress for Sucess (NOT the Molloy book) and was written by a man who
+was somewhat well known as an aristocrat. I'd like to say it was a Von
+Furstenburg or something like that. I seem to recall that the cover
+had 4 pictures of men's suit-fronts and ties but it's been a long long
+time. It was a standard paperback binding. Can anyone point me in the
+right direction?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

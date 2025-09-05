@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][95-99] RPG with a clean and risque version. So, been
+trying to track down a game my teenage self and friends played in HS
+during 1997-99. It was a generic looking 16 bit style RPG . Walk on
+world map, separate battle screen, turn based. What stood out was the
+key plot/boss battles. They included a lady in distress ( I think a
+lot based on fairy tales, I recall a snow white type). Once
+""""""""rescued"""""""", there was a cutscene/pic in which the lady
+thanoked you. In the risque version, this meant some explicit graphics
+(hence my teenage fascination). I hope someone recalls this, so I can
+show my (current) friends it really existed! Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

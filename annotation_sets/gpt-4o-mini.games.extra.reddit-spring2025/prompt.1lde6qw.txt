@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[windows, maybe xbox and ps] [after 2020] post apocalyptic
+game set on a train. I remember scrolling on tiktok and seeing a video
+about a post apocalyptic game coming out soon, where you ride on a
+train, occasionally have to stop for supplies, but you get hunted by
+deadly monsters and have limited ammo. I know it wasnt metro exodus. I
+don't remember alot of the details, but it was a first person shooter
+and had somewhat realistic graphics. I had the video saved but i lost
+access to my tiktok account, and no matter how much i search i cant
+find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "generational ship contains an ocean [s]. I recall some sci-
+fi epic where travelers aboard a generational-ship crossing
+interstellar space, find themselves confronted by a huge ocean-sized
+body of water. The side of the spaceship around the sea are only
+barely visible in the far distance, vaguely elliptical, metallic, and
+green. The intrepid explorers build a raft out of commandeered
+equipment and set out to cross it. For a long while I mistakenly
+thought this was the 'Earthsea Trilogy'. I'd like to accurately verify
+the proper name of the book..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

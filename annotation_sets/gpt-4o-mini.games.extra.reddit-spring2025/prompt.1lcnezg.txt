@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [unknown] indie psychological pixel point and click
+about alcoholic who he catches his wife cheating. Platform (s): pc or
+steam Genre: indie horror psychological point and click maybe
+Estimated year of release: 2020s possibly Graphics/art style: pixel
+classic style Notable characters: man main character whos an
+alcoholic its assumed, a clown you meet in an amusement park hes
+searching that asks for liquor to obtain an item Notable gameplay
+mechanics: I remember it kinda being a side scroller almost and point
+and click possibly Other details: The game starts with the man in a
+sewer or subway and theres a dead body surrounded by spider webs. I
+remember the ending he comes home to find his wife cheating, and It
+made me think he killed his family or the guy he caught her with. The
+whole game is dark and foreboding. Theres a huge spider inside the
+creepy abandoned amusement park. At one point this giant creature
+chases the character and he ends up in a bar at one point. Theres a
+car crash and you use lipstick at some point as an item in the crashed
+car. Its very psychologically all over the place but I remember the
+ending being very eerie"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

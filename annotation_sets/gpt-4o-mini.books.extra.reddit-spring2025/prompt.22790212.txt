@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction, read in 2022-2023 at Middle School library. A
+girl who runs away after finding out she's adopted, shaves her head to
+hide her identity, and gets a job teaching children English.
+Spoilers.. I don't know if I'm doing this right, so if it's wrong, I'm
+sorry. So far here's the plot from what I can remember: The main
+character (a girl in high school) is at school, and her parents pick
+her up and don't tell her why. I'm not 100% sure, but I think they
+flew to Brazil without telling her why. She finds out her parents are
+separating (I think) and finds out she's adopted by papers she found
+at the hotel. She runs away and ends up shaving her head to hide her
+identity, and ends up sleeping on the beach, where her bag with all
+her money is stolen. She doesn't eat for days so a cafe she previously
+went to gave her cheesy potatoes. She also was staying at a house for
+really cheap, and used their old laptop to search for her bio mom.
+Later on she got a job teaching children English and I believe she had
+a co-worker named Jessica, idrk. At some point in the book, she's
+hiding her identity and runs through a parade and kisses a stranger in
+the parade. I remember the book ending with her bio mother being hit
+by a car. I'm sorry this is so badly explained, but I only remember
+some of the book, and the book was insane to read."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

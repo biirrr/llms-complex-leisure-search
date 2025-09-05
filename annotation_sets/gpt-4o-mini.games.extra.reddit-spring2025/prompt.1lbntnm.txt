@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Detective Game. So I remember playing this game
+on the pc when I was a kid. I must have played it around the mid 90s
+but it might have been out before then. It was a detective game and
+you could choose to be a character, either a man or a woman. The woman
+had red, shoulder length hair. You were in some building, maybe a
+warehouse and you had to find clues to solve a mystery. It might have
+been solving a murder and I think you had to find items. One thing I
+remember is that the character was able to go up and down an old style
+elevator, the ones with the metal gate. It also might have been
+possible that if you chose your character, the secondary character
+would follow you around. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Does anybody know Mama J in an MC romance
+that came out a couple of years ago. In the book the main guy just got
+out of prison and come to his old club. The president or another
+member take him to the bar. They're talking about him needing to talk
+to Mama J. In comes a pretty lady late twenties early thirties to the
+bar. They tell him that that is Mama J. He's surprised by how young
+she is. That's all I can remember about this book. I know its part of
+a series. Also there is another book that came out this year or last
+year that the main girl talks about how Mama J helped her with her
+baby. I can't remember that bok either."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

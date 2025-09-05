@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/PC][2020-2023] Skateboarding/ roller blading game that
+is very vibrant and cartoony. It is not Bomb Rush Cyberfunk. Genre:
+skateboarding(?) and roller blading(?) Estimated year of release:
+2021-2023 Graphics/art style: cell shading/ cartoon like with very
+bright vibrant colors Notable characters: None to note Notable
+gameplay mechanics: top downish game where you ride ramps and hit
+jumps Other details: The characters were very cartoon like, it was not
+typical 3rd person as far as I know. This game was advertised briefly,
+not a triple A as far as I know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early to mid 2000s] 3D, 3rd person, puzzle/platform
+playing as a ball on a sky obstacle course. Platform(s): PC,
+Specifically on Disc Genre: 3rd person, puzzle/platformer(?) Estimated
+year of release: earlier than 2015, probably early 2000s Graphics/art
+style: Realistic iirc, use of realistic materials and sounds. Notable
+characters: none, you play as a metal ball Notable gameplay mechanics:
+ability to roll over different patches of materials like wood, steel,
+or newspaper to become those materials. Paper could be floated by fans
+Other details: no Notable background other than it seemed to be
+floating in the sky. I think """"""""3d"""""""" was in the game name
+but I could be wrong. Camera follows the ball, was not stuck to a
+location"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

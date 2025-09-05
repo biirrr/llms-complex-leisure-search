@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX][Late 90's] Third Person Spy Game. My boyfriend
+recently remembered a childhood game he played. What he can remember
+is that it was on the PSX, and you played as a spy in third person. He
+recalls the first stage is a dock, you had to infiltrate a foundry,
+but he isn't sure about the objective but believes it was to kill a
+specific target. There were vending machines you could drink fizz
+from. That's as much as he can remember, and he was hoping this sub
+could help him identify it. It reminded me of a spy game I played as a
+kid, but I also cannot recall the name of it as it's been some 18
+years since I last played it. If anyone can tell what game this is,
+I'd appreciate. EDIT: He remembered suddenly that you start at a train
+and you jump into the """"""""docks"""""""" zone and into the
+foundry."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early-mid 2000s] a game about a girl trying to reach
+her spaceship. I dont remember much about the game since I played it
+a really long time agoprobably on GirlsGoGames. All I can recall is
+that it was about a girl trying to reach her spaceship on the other
+side of the island..I think she had to explore underwater caves and
+collect various items along the way, but Im not entirely sure. I know
+its not a lot to go on, but Ive been trying to remember the name of
+this game for ages."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

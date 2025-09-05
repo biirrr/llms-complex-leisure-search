@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Point and click, first POV Puzzle game about
+investigating a bio research facility. Platform(s): PC Genre: Point
+and click, first POV Puzzle game Estimated year of release: 2000s
+Graphics/art style: Looking realistic Notable characters: Only the
+main character is alive. Everyone else is dead. Notable gameplay
+mechanics: First person, point and click, click on different item to
+interact, can combine item. Cannot control the character, instead,
+click on the edge of the screen to move forward, turn left/right, turn
+back. Other details: The game is about investigating a bio research
+facility (in winter, IIRC). In the beginning part of the game, the
+player goes through a """"""""disinfect chamber"""""""", but it
+actually is a drug chamber, which make the main character to be
+paranoia and hallucinate. The player first investigate the main
+facility, then going deeper, probably somewhere underground, then an
+abandoned mental asylum, then coming back to the main facilty. During
+the investigation, the player experience """"""""phase"""""""" where
+screen goes red, he/she gets really paranoia, hearing whisper, seeing
+demon, and the player's control is limited during these
+""""""""phase"""""""", can only click in 1 direction the game allows.
+There is one scene where the """"""""demon"""""""" chases the player,
+and the player defeats it by luring it going through a incenarating
+chamber and burn it by solving a time-based puzzle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

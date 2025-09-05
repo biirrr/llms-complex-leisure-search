@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Apple] [2016] Lego truck driving game. Hey, So i played
+this game where i was like 6 years old, where you drive with lego
+characters in a truck. I don't really know how to describe it, since
+it's been 8 years since i've last seen the game. So you're in a lego
+truck, drive trough like waterfalls and avoid obstacles, and you have
+multiple pathways to choose."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

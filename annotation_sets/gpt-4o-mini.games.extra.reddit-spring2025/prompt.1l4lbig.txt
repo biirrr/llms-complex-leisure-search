@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s-2020s] A game about the player being a
+detective/hired assassin. **Platform(s):** PC, not sure if it was
+available anywhere else **Genre:** Sort of like a platformer?
+**Estimated year of release:** Around 2015-2023 **Graphics/art
+style:** Pixel art. 2D. **Notable characters:** A police commissioner,
+don't remember the name **Notable gameplay mechanics:** You could buy
+specific upgrades that would make certain levels easier It was some
+sort of detective/assassin game. You would enter the level area from
+the left of the screen, and once the objectives were over you walked
+out from the right end of the screen to proceed to the next level. In
+the middle was a building where the objectives were to be done. You
+had to do some logic in some levels with the gates, avoid the guards
+or you'd get shot, and come out after completing the objectives.
+Guards would not be able to see you if you had turned off the lights.
+Basically you had to be stealthy or all the guards on your level would
+swarm to the last place of the sound made. You could also stick to the
+walls."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

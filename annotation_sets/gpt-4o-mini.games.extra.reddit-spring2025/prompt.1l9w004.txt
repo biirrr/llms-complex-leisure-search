@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3] [early 2000s] game where you fight people and can turn
+into a panda.. I keep having a memory of a ps3 game where you were i
+believe in Japan and you would fight people and have the ability to
+turn into a panda. The game as super cartoonish and one of the main
+bosses was a massive I believe sumo wrestler with a club. Looking for
+ps3 games where you turn into a panda just keeps bringing up kung fu
+panda and I would love to try and revisit it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

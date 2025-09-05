@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA 60s book about an American Catholic family, father has
+one leg [s]. I read this in the 60s. It's a funny book about a
+Catholic family with a tall, one-legged father. I think there were a
+lot of children in the family. One story is the father hopping through
+the house at night and landing on a jack that one child had left on
+the floor. Another was about the parish priest trying to convince the
+father to support the local parochial school and send his kids there,
+and the father saying it didn't make sense to pay 100% of their
+schooling when only 10% of their time would be spent on religion."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

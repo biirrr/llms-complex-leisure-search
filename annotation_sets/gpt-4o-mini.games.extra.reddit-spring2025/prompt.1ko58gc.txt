@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [early 2000] saucer destroying city. 2D side-scrolling
+game where you control an alien saucer, starting in a small town with
+farmers wielding pitchforks and red trucks, progressing to encounters
+with police and men in black agents who shoot at you, featuring an
+upgrade screen with Earth in the background, and a map that ends on
+the far left with a tunnel You get bigger saucer as you progress and
+it's always on the same map you can move back and forth Thanks in
+advance!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

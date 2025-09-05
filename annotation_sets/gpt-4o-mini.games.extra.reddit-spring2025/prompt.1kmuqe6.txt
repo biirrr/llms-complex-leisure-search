@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid-Late 2010s] Indie game where youre a college
+student trying to avoid burnout. I remember watching a YouTuber play
+this game, but I can't find the video, nor remember the YouTuber. It
+was created for a game jam and was small in scope as a result, with
+just one room. The player character was a student who had to complete
+her work and school assignments (represented by bars you had to fill
+by interacting with items in the room) by a certain time limit while
+trying to not let her sleep bar run out. Sleep would deplete over the
+course of the game and had to be refilled by, well, sleeping at her
+bed. If you let it run out, she would pass out wherever she was for a
+long time. It had a very purple-heavy color scheme and a 2D hand-drawn
+artstyle. It was in English."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

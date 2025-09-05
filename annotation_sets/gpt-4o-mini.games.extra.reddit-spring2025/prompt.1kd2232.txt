@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash game] [early 2010s] a game from addictinggames.com
+where you play as a monster that you customize and use to destroy a
+city. This was a super cartoonist 2-D side-scroller where you play as
+a monster and you run around a city eating people and destroying
+buildings. You start by fighting civilians, then get more powerful and
+fight cops, then the military. As you level up, you can choose new
+monster characteristics to add to your monster, like wings, tentacles,
+types of mouths, etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

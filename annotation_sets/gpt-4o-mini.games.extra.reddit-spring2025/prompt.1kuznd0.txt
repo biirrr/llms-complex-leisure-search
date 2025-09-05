@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcades, possibly dreamcast port][2005ish] racing game with
+really good graphics and hard to play with the advance cars. I
+remember it was an arcade game those classic ones with the stick,
+wheel and pedals, no clutch I believe. The graphics were really good
+and playing with the most advanced car was really tricky, it looked
+like the shape of a old style mitsubishi eclipse with orange and blue.
+There were three cars to choose from and they were all available by
+default. I think the first course had a turn that could have been in a
+glass tunnel underwater, I could be wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

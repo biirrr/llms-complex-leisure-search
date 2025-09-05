@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Small Yellow Hardcover, textured - Art Related. [s]. A
+couple weeks ago I was at Indigo Chapters (Canadian version of Barnes
+and Nobles basically) and I picked up this yellow hardcover book,
+small in size maybe 5 or 6 inches. It had that textured feel, and it
+was in the art section. I'm not entirely sure what it was about, I
+think mainly it had art related quotes and insight in it. The title
+was either just black font, or maybe it was imprinted in the cover..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Post 2001] Windows XP Bundle Game. It was a digital
+game that I think was bundled with Windows XP (at least that was the
+desktop I used when I had it). It may have had a disc, but I don't
+remember using one to play it. It was similar to Nodtronic's
+""""""""101 Games"""""""". Whether it's Nodtronic or not, I don't
+know. One game in particular was a Pac-Man game that you could build
+your own levels and give yourself weapons like a shovel and a blaster.
+I think it was Halloween themed or at least had Halloween themed
+levels. Other levels included common bundleware like 3D puzzles and
+whatnot. Update: For anyone who might want this game, there is a way
+to get it through Archive [https://web.archive.org/web/20031203121612/
+http://absolutist.com/halloween/](https://web.archive.org/web/20031203
+121612/http://absolutist.com/halloween/)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

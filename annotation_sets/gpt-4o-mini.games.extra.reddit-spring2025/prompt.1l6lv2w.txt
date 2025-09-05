@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020-2021] [Pixelated boss battle game]. I cant
+remember the name of a game that is a 2D platformer game that you have
+plenty of level to complete and they are really hard (all level have
+only 1 room). All levels are boss fight. The graphics are pixelated I
+think the game is happening in hell. I remember that there is a small
+chance that when we launch the game all the stats of the game. I
+remember that there is a small chance that when we launch the game all
+the stats of the game, (coins, scoreboard, personal score) say
+""""""""666"""""""" We can unlock different abilities and gun that all
+have their specificities. (Like an abilities that give you double
+jump, dash) (A gun that can fire 3 bullets at the same time, another
+one is automatic(i dont remember all)) And i remember that he was free
+on the epic games store when i downloaded it. Maybe it was between
+2020-2022"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

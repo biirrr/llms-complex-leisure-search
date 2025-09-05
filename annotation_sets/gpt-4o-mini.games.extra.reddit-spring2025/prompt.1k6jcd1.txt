@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Vita...i think] [2010-2019] Chibi style untranslated rpg
+with really cool attack animations?. I remember seeing a video years
+back that was of a vita rpg that had really well made attack
+animations. The characters were in a chibi anime artstyle. This is
+gonna be vague but the one that stood out to me was an animation of a
+girl with green hair flipping her hair up to the side and then
+throwing out seeds for a plant magic based attack. I could be wrong on
+aspects of that but that is what my vague memory is telling me. Im
+pretty sure the game was on the ps vita and i remember looking it up
+and being disappointed that the game only ever released in japan and
+was untranslated. Only other thing is that i think the game was a
+strategy rpg but i could be wrong. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

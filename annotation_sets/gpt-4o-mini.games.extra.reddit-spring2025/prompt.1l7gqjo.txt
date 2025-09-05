@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2][pre 2005] military helicopter game. There was this
+helicopter game I use to rent from blockbuster multiple times when I
+was younger and I cannot remember the game. Basically you were flying
+a helicopter in third person and maybe cockpit view. You had rockets,
+guided missiles, machine gun, chain gun. Your helicopter could go into
+stealth mode. I believe the helicopter was a Comanche. I am familiar
+with the Comanche series on pc but this was on console ps2. I also
+remember when you shot at ground troops it was bloody/gory. I remember
+one of the early missions youre suppose to protect a base thats
+being invaded by ground forces. Hopefully this helps."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

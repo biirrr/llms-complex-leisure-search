@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][Early/Mid 90s] Side-scrolling shooter where you
+play as a dragon. **Platform(s):** Arcade **Genre:** Side-scrolling
+shooter (like R-Type) **Estimated year of release:** Early to mid 90s.
+I know I played it before 1999, so there's no chance of it being a
+2000s game. **Graphics/art style:** 16-bit graphics, brightly colored
+cutesy/chibi art style that was common in 90s Japan. Kind of reminds
+me of Bubble Bobble or Kirby, to be honest. **Notable characters:**
+Player 1 controls a red dragon with wings. It may have horns or spikes
+on its head, I'm not too sure on that detail. Player 2 controls a blue
+dragon that looks otherwise identical to the red dragon. Being that
+it's a shooter, the dragon obviously spits fire at its enemies.
+**Notable gameplay mechanics:** It's a pretty standard side-scrolling
+shooter. It just happens to be fantasy-themed rather than the typical
+sci-fi. **Other details:** I vaguely recall the levels being generic
+landscapes. Pretty sure that one of the early levels is forest-themed.
+There is a volcano or cave-themed level where the background is rocks,
+and there is a fireball enemy that I thought resembled Knuckles the
+Echidna (from the Sonic series). Its attack pattern is similar to the
+""""""""Podoboo"""""""" enemies from the Super Mario games (the
+fireball that flies up from the bottom of the screen, then drops back
+down)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction series about high school girl who can talk to the
+dead. Read 2008-2011.. I’m looking for a book series about a girl
+(possibly in high school) who can see and communicate with the dead. I
+read it in middle school around 2008-2011, and I might have gotten the
+book from a Scholastic book catalogue. What I can remember: -Her mom
+had passed away or disappeared, so she lived with her dad. -One of the
+books was set at a boarding school or a prep school. She was
+communicating with a ghost who had been a student at the school. The
+ghost might have been bullied or was trying to harm a popular group of
+girls. -One of the books involved her having a sleepover with friends
+who tried to get her to communicate with the dead (possibly her mom?).
+For some reason I feel like her house might have had some sort of
+tower and/or garden where this took place. I’ve searched online and
+some folks say it might be The Mediator series, but I’m not sure
+that’s it. Maybe I’m misremembering and confusing two book series
+together! Any help or ideas are appreciated :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

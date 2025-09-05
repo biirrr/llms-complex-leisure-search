@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Browser game about an astronaut stuck on the
+moon. Genre: puzzle Estimated Year of release: not sure but i played
+it in early 2010s Graphics/art style: it was a 2d game, you rotated
+the camera around the moon and it had the classic flash game look
+Notable Characters:I remember there being a giant as part of a puzzle
+Notable gameplay mechanics: you had an inventory system where you
+stored items to use in puzzles Other details: I remember there being a
+puzzle about a bubble generator and (not 100% sure) there was a shot
+of a city in the beginning."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

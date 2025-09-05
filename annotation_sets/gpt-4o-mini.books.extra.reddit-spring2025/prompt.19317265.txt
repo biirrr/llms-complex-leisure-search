@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Small book about home organising closet laundry symbols
+explained making up a guest room writing a thank you note etc. [s].
+Searching for a small hardback book that was about running a home. It
+gave tips of closest organisation, laundry symbols, guest room advice
+etc. Read it around 2000-2010. Might be out of print now. My last copy
+had a pink cover white writingi think and was an ex library copy. Any
+help vastly appreciated thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

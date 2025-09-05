@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "General Knowledge/ Pro-Contra opinions on each topic. Hello,
+I stumbled once on a general knowledge book that was offering on one
+page a view (pro) regarding a topic and on the other page a contra
+argument for the topic. I want to have more rounded opinion on
+different topics. Greatly appreciate your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

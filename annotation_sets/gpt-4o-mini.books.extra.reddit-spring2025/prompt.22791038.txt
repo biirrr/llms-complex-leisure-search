@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy novel about a boy whose shadow is missing and
+wreaking havoc as him. He must find it and get it back. Read around
+2010-2014. Spoiler.. I read this book in about 2010-2014. It was a
+soft cover I believe and it was from the library in the young adult
+section. The cover was mostly blue and black I think? Maybe with a
+water or mirror scene? It was so long ago it’s hard to remember. This
+boy keeps getting in trouble because of his shadow doing bad things
+while looking like him. I have a vague memory of him seeing his shadow
+through a lake in the woods or something and I believe he goes out one
+night in search of his mischievous shadow and that may be the night he
+finds it. I have a vague memory of a bunch of crazy stuff happening
+the night he sneaks out to go after his shadow. I believe he ends up
+doing it all on his own due to the unbelievable nature of the dilemma.
+I also think it’s based in a small town? Anyway, he does end up
+getting his shadow back where it belongs and no more havoc is being
+wreaked in his name. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gamecube?][Platform/adventure][~2004][3D animation][ a
+young elf with a metal glove and claws]. I think the title of the game
+had mutiple """"""""X"""""""" in it, like Jexx or something. I'm not
+sure if it was for gamecube or PS2 ... I think the glove could be
+extended at the end of a chain and used as a grappling hook. The
+character was little, had tousled brown hair, and pointy teeth. Thanks
+:)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

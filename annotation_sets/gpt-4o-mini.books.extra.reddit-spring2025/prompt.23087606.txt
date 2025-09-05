@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book about waiting for a bus. Guy at a
+bus stop by a tunnel, waiting for a bus. Cars, tanks, trains, ocean
+liners all come by. Finally the bus shows up & guy leaves on it. rough
+image of the cover of the book:
+https://cdn.bsky.app/img/feed_fullsiz..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

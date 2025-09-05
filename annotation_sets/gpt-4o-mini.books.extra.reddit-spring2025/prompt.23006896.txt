@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Romance? Quinn and Emerson were childhood sweethearts.
+Emerson moved away and tried to long distance, didn't work. She goes
+to the college they had planned on going to together and sees him
+their, with her best friend from her hometown.. I saw this as an ad
+for a PPC site that is notorious for stealing works from KU and
+wattpad. I only saw qhat could be equivalent to the first couple of
+chapters but was hoping someone recognized it. Emerson and Quinn grew
+up together, him even sayin ""I'm gonna marry you someday Emerson
+June."" They start dating but during high school Emersons gamily moves
+away. They try long distance but her parents eventually take her phone
+so they can't be in contact. When she finally gets her phone back she
+sees that he hasn't really tried to contact in the time it was taken.
+At the guidance of her bestie, Alexis, that still lives in town with
+Quinn she decides to end things and changes her number and everything
+so he cant find her (she regrets doing this). They had planned to go
+to the same college and even though she doesnt know if he will, she
+applies and attends. She ends up bumping into Alwxis with her roomie,
+Pippa, and Alexis is acting weird can't believe she's there. At that
+time, Quinn comes with ice cream for Alexis and kisses her head before
+he sees Emerson. That's where the ad ends, and I reall wanna know what
+happens! I appreciate any help, thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

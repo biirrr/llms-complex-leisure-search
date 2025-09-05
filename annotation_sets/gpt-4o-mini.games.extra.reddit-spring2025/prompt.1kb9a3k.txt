@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] Newgrounds detective game in different
+shades of blue. Platform(s): PC Genre: Mystery, point and click
+Estimated year of release: I played this while I was young, so I
+suppose anytime between 2002-2013 Graphics/art style: 2D, everything
+was mostly different shades of blue Notable characters: The
+protagonist was a girl who had to solve a mystery I don't recall the
+mystery bc I kinda struggled to figure out what to do Notable gameplay
+mechanics: Point and click and puzzles Other details: This game was in
+a series of sorts and I believe every game followed the same plotline
+just in a different order. The one I remember the most she's in a
+hotel and has to talk to somebody and then start investigating. The
+game being different shades of blue is the most prominent thing I
+remember. Also I say Newgrounds but it could've been on other sites as
+well, and it is not Detective Grimoire or Jenny Leclue. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Web Game/PC][2012-2017] Purple drawn creature shows you
+around his house. Platform(s): Some sort of kids website Genre:
+Playful, Childish Estimated year of release: 2012-2017 Graphics/art
+style: Animated, Shaded drawings Notable characters: A purple
+character with dreadlocks that match his skin? it's a small character
+Notable gameplay mechanics: Point and click, House tour game I'm
+pretty sure Other details: It's a tour of his house. I remember
+vividly when you're in the bathroom you can brush the characters teeth
+and he'll act like he's choking or he makes some obscure noise. Only
+thing that sticks in my mind, For some reason a geordie UK accent
+comes to mind aswell"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

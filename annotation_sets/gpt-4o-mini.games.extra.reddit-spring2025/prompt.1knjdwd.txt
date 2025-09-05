@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] A PC Frogger-like game. Hi! I'm trying to find
+this game for sooo long... This game is frogger-like, you play as
+animal and hop forward into a hollow at the end of the level. The
+levels whad different themes, I can remember city with cars, shopping
+carts and desert with tumbleweed and horses. I don't remember the
+year, probably early 00's, at least 2005. The end of level was always
+river with logs and hole to jump into."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

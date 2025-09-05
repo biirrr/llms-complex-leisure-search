@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[WindowsPC] [Early 2000s] adventure/point-and-click game
+where you played as either a little troll or robot. **Platform(s):**
+Played on Windows PC **Genre:** Adventure or Point-and-click
+**Estimated year of release:** Late 90s/Early 2000s **Graphics/art
+style:** 2D pixel. Not sure of the view. Had a grimy atmosphere and a
+large underground section. **Notable characters:** You played as a
+creature that was a little troll or maybe a robot (I believe the
+creature was brown-ish) **Notable gameplay mechanics:** Can't really
+remember, sorry. **Other details:** Main hub (or at least where you
+started off) was a hobbit-like village with a bunch of homes built
+into the ground/dirt. Played it in Portugal - can't remember if the
+game was in portuguese, english or spanish"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance featuring a scientist hero who is
+part of a closed-system experimental mission. Published around
+1990-2010? Mild Spoilers ahead.. Hello, everyone. Many years ago I
+read a book probably published around the years 1990-2010 (I know
+that's a pretty big range; my apologies) by one of these publishers:
+Harlequin Enterprises, Silhouette Books, or Mills & Boon. Here are
+some details I remember: - I would say it's a second-chance romance
+because if I recall correctly, they are recently married, but he
+leaves their honeymoon/vacation trip for some business duties. - The
+male protagonist is a plant crop scientist (probably a botanist, or a
+biologist, or even an agronomist) and partner of a high-tech company.
+- For the scientific goals of his most recent research project, he
+must be confined in a glass dome facility, much like in the actual
+Biosphere 2 project. - He and the female protagonist are in a tattered
+relationship. She left him because his work always comes first in his
+list of priorities, and she wants to build a family. I can't remember
+exactly, but my guess is that she works for the press (or not). - By
+the end of the book, she learns she is pregnant after a brief
+reconciliation, and there's a scene where she wears a protective suit
+to talk to him through a glass wall that separates the scientists
+inside the dome from the exterior world and avoid contamination. I
+appreciate any help anyone can provide on this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

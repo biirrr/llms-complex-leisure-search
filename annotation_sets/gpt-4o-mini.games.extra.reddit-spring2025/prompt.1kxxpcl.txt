@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][unknown] pony game. Hello everyone! I'm trying to
+find a pony game i played around 2015. I was able to either hatch or
+create different ponies with different parts to live in my house. I
+could mine rocks for money. I was able to drag or throw the ponies to
+different rooms in the house like the kitchen or bathroom. each new
+pony would start at level 1 or zero wearing diapers and as they level
+up they get bigger. there were no quests or enemies to fight off. As
+far as I can remember there were no other buildings I could travel to,
+just the house. I am not sure if it was specifically a my little pony
+game or an off brand version."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

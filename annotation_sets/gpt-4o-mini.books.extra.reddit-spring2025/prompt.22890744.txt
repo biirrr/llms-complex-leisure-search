@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Romance novel - Girl meets a nomadic/ homeless boy who
+whittles and chooses to be an 'outcast' from society. Read mid 2010s.
+Spoiler. [s]. Hi all, I’m very stuck to find a book I read in the mid
+2010s. I picked up this book from the library in the same heap of ‘13
+reasons why’ so you’re getting the era of YA from that. The details in
+the title are all that I have, other than knowing the album I listened
+to whilst reading it. The only other detail is that he whittles and he
+chooses to be an ‘outcast’ from society and the female protagonist is
+warned away from him. At the end it’s ambiguous if he has taken his
+own life, I believe she finds one of his whittled creations by a tree
+and it’s suggested that he’s drowned in quicksand. Would love anyone
+forever if they could help, it’s been so long searching!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

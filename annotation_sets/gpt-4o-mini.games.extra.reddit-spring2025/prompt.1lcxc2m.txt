@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ipad][2018] A kids game about fish in the ocean.
+Platform(s): I played it on Ipad, but im not sure if it also was/is
+available on other mobile devices. I found it on the apple store.
+Genre: Sandbox/Educational Estimated year of release: Earlier than
+2018 Graphics/art style: 2D Cartoony with flat shading and no lineart
+Notable characters: There were lots of different types of fish in the
+game. I remember specifically that there were butterfly fish,
+seahorses, and an eel you could interact with. At the deepest level
+you could see plankton, anglerfish, jellyfish and more Notable
+gameplay mechanics: One of the main mechanics of the game was that you
+could scroll on your screen to go deeper in the water. The deeper you
+went the darker it got. Other details: The title screen was a cat
+sitting on a chair at the beach sorrounded by coconut trees. There was
+a red crab too. I also remember something about a treasure chest
+(maybe not in the title screen) but im not sure. For how relatively
+new this game is im surprised i cant find anything about it. [the
+title screen](https://preview.redd.it/rylf9iqteb7f1.png?width=800&amp;
+format=png&amp;auto=webp&amp;s=04752b0ab7c06e36acc5fe5e6a4bacd8e91ab16
+f) [different fish u coud see](https://preview.redd.it/6dafzbgefb7f1.p
+ng?width=800&amp;format=png&amp;auto=webp&amp;s=9ff96b40c1a3f0ee32333d
+4935e4a0c4d2a7b15d)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

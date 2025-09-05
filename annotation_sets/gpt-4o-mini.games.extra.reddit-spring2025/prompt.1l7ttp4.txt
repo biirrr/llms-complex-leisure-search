@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] about collecting money?!. Need help! An old
+game , I have limited info , it was on PC maybe around later 80s or
+90s 1. It was mouse /click interaction 2. The idea was to collect
+money , maybe was a broke guy somewhere in NYC /manhattan trying to
+make money 3. It had a scene where you clean a car from pigeon poop
+using a sponge that you dip in a bucket ! 4. It had a scene with a
+singer in a theatre that gets tomatoes thrown at him then after he is
+done a character from the game comes out and cleans the mess 5. There
+might have been a bank that i could not interact with ! Somehow I
+remember the language was not English in this one. Also it appeared
+like it is a very small game I dont think it had much more to it than
+what i mentioned above but it was funny / humorous style I cant sleep
+until I figure it out ! I hate this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

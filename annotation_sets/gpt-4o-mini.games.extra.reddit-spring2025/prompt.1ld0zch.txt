@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc/Browser][2016-2020] Looking for a game that I can't
+remember. Can't really provide anything else aside from a few
+description I can provide. The game as far as I can is an 2d side
+scroller rpg game and I remember it starts off in a login screen with
+coconut tree I think then you log in then the you fall from the tree,
+might not be that way. Also the art is Cartoonish with simple drawing
+and also the side scroll is like mario but Its rpg there's level stuff
+like that I think the Exp bar was yellow. I remember the first mobs
+are slime and the movement is quite fast and you can slide down a
+slope and stuff and in the first place that you are currently in
+there's this platform that ar basically logs side by side. Can't
+really remember much anymore but I would really appreciate it if
+someone is able to recognize it. Also the time frame isn't exact
+thought that might help, could be older. It is an Rpg Action
+platformer kinda like Hollow Knight with loot and stuff like that.
+There are multiple areas too I remember it had a mushroom biome."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

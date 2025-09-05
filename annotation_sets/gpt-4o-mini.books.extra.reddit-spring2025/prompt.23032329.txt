@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance series involving a Duke and his
+siblings. I'm trying to find a historical romance series involving a
+Duke who came into the title young and looks over his numerous
+siblings. The Duke is considered a bit cold. In one of the books, one
+of the brothers who was thought killed in battle returns from the war.
+He arrives just as the family is celebrating the wedding of one of the
+sisters. I've searched everywhere -- google, google books, Amazon, my
+own book library. Please help! Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile, IOS] [2016H] A 2d, endless hero runner/hack and
+slash game with an anime artstyle, where you collected(?) crystals. As
+the title, I used to play it on my iPad back then. I'm like convinced
+it had Crystal and Sword/Blade in the title. You could choose from a
+bunch of different characters and I think they might've had different
+abilities. But I remember you could collect crystals and kill monsters
+and dodge obstacles. It was a really simpme but fun game. It had
+minimal colors, monotone grey color pallette. It kept track of your
+highest score on the title screen somewhere at the top as well There
+was probably like 8 heroes, and I remember a girl with long hair,
+maybe a long ponytail and a katana - maybe looks a bit like Psylocke
+from Marvel Rivals. I'm bad at descriptions so I drew some of what I
+remembered, I hope it's clear!! It was so long ago and I feel like I
+might have just dreamt it up. Thank you in advance :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

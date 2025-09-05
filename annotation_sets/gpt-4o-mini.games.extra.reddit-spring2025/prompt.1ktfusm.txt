@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Phone][2012] a game about shooting other castles. [Phone]
+[tower defense] Hello, I'm searching for I game that I remember
+playing when I was young, maybe 2013, it was a sorta of tower defense,
+where you could build your own castle and send troops you could
+unlock(Golems and the like) you also had a balista whit wich you could
+shoot, the pov was from the side and there where 2 faction good and
+evil, the first campaign you played as the good guys then you could
+play as the evil, hope you can help and thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

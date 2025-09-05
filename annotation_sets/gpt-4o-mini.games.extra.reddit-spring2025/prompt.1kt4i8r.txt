@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH GAME] [2000s/2010s] turn based combat strategy game
+where you play as a feathery dinosaur (?) and have to beat other
+creatures in various environments and make it to the boss and defeat
+it, thus saving the world (?). i played this game on flonga a lot as a
+kid and it was my favorite... apologies if this breaks the rules,
+please remove if thats the case"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

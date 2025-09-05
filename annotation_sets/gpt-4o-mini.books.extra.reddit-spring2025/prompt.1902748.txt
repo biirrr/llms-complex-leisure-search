@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Greek mythology book published in 1970s or 1980s [s]. About
+ten years ago, I checked out a book from a library that was
+essentially a handbook on the gods and goddesses of the Ancient
+Greeks. I believe the book was from the 1970s or 1980s. It was a thin
+paperback or trade book. All I can remember, aside from this
+information, is the pictures. The book was illustrated with black and
+white line drawings which contained pictures of the gods and goddesses
+with their names included in the drawing. I definitely remember all
+the major gods/goddesses' pictures being in the book. The picture of
+Aphrodite was so beautiful that I had it screen printed onto a tank
+top, which I still have. Aphrodite's face is in a left-facing profile
+and her name is above her head in curvy, somewhat tubular writing. I
+desperately want to find this book. Any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000s] Nickelodeon game about a monster that was
+actually a balloon. This was a game I played way back in the late
+2000s when I was a mere sprout; I believe I played it on one of
+Nickelodeon's websites. I can't remember much, everything was drawn
+very simply. But the game followed this character who MIGHT have been
+a bug, or an animal? One or the other, but he was very small. Anyways,
+the story has the protagonist trying to get to a house, and along the
+way he encounters various other characters who talk about seeing a
+monster; the describe it as flying, and being orange, and maybe some
+other things. Long story short, our protag sees the monster and it was
+ACTUALLY a BALLOON this whole time! The protag makes friends with it
+and I think talks about showing it off to his friends. At the end of
+the game, there's a lil mini-game where you can customize your own
+balloon monster! I can't remember the name of it for the life of me
+however, and would be really happy if anyone knew!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

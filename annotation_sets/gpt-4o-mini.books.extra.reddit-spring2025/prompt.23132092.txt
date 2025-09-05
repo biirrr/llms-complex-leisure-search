@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1980s/1990s Adult Romance - Woman travels to Rome and is
+naughty. Hello! I was recently talking to a friend and we were
+laughing at the naughty books we read when we were in junior high/high
+school in the 80s/90s (e.g. Lace and Flowers in the Attic books). I
+mentioned a book called Rome and she didn't know that one and I tried
+to look it up and couldn't find it. Now I'm obsessed with finding it
+because I can't find it anywhere. I don't remember the author, but I
+swear it was just called Rome (maybe it had Rome in the title, but I
+just remember Rome) and the hardback copy I got from the library was a
+maroon color, with yellow/gold letters (it looked really sleek) and
+there was a silhouette drawing of the coliseum, or maybe the tower of
+pisa? Anyway, it was about a woman who traveled to Rome and there were
+some ""adventures."" I don't remember anything about the book really
+except that cover is burned into my memory. And I was very careful not
+to leave it lying around because I didn't want anyone to pick it up
+and start reading it - lol! What is it with the Gen X girls reading
+books like this at that age?!? I read it in the late 80s or early 90s,
+so it couldn't have been published later than 1993. Anyone know this
+book? I feel like I'm going crazy because I can't find it anywhere!
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

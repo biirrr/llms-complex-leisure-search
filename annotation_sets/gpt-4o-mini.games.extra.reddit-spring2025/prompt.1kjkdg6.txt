@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2013] [steam] obscure survival horror game about communist?
+island. Platform(s): steam/pc Genre: survival horror first person
+Estimated year of release: 2013 Graphics/art style: ps2/ half life 1
+style Notable characters: you and a disembodied voice Notable gameplay
+mechanics: cratting, and other things in a survival horror Other
+details: from what I remember is you find yourself on a long abandoned
+communist island that the protag once lived on I believe, and you must
+escape. You fight various experiments and monsters left behind on the
+island and you read various notes. And through out the game a
+disembodied voice talks to you and helps you through and eventually it
+turns out the voice was you and the bad ending leads you to commuting
+suicide. That last bit I remember is it was made but a single guy I
+think he was polish or some Eastern European."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2016ish] really simple tower defense game where
+different colored towers did different attacks and you could combine
+them. Platform(s):Android, possibly a pc port? Genre: TD Estimated
+year of release: 2012-2015 Graphics/art style: 2D, super simplistic
+and geometric Notable gameplay mechanics: your towers were just a ring
+of color, you could combine rings and it would combine the colors with
+a gradient, inheriting the attacks of whatever you combined Other
+details: this game has been delisted from google play at least 4 years
+ago as i couldn't find it in my uninstalled games already back then. i
+remember being surprised when i looked in my settings that the app was
+tiny, i think it was displayed in kilobytes so under 1MB i think i
+think the main gamemode was a campaign where the maps got harder and
+bigger. the maps were grid based, you could put your ring towers on
+the walls. im not sure if you could place walls. you could select your
+towers on a color gradient wheel and it would snap to the closest one,
+i believe the colors were red orange yellow green cyan blue magenta
+and maybe white. you could buy sort of higher tier towers, these would
+contain 2 or 3 of the same color which you could then also add
+different colors to i remember there being a sandbox mode where you
+could choose between all the enemies, i believe they were single
+lines, sort of simple vector style i think there were a lot of
+different ones and they sort of changed themes as you got further in
+the game some of these groups (that i might easily be making up) were
+dots, geometric patterns like circles and triangles but later youd
+have more complex stuff like pacman ghosts or animal outlines. within
+these groups were weaker and stronger enemies"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

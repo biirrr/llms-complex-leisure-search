@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX][2010-2020] RPG about a blue haired female protaganist
+with a ginger french girl as her friend. The game was a top down pixel
+RPG that used to be on xbox gamepass, the mc is a robot or npc in a
+mmo game who can only say a few words at a time, i belive she has a
+boomerang or a ball she can shoot out. the cover shows her, dressed in
+white and blue, and her friend mentioned in the title wearing orange
+and black (i think.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

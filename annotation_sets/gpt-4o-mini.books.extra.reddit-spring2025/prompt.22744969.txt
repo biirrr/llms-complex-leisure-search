@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Series of interview with male sex
+offenders in Britain (questions not included). Pseudonyms of criminals
+(Sutliffe, William, etc.). Published before 1995. [s]. Book contains
+responses (interviewer’s questions not included) by British sexual
+offenders in order of severity . Final chapter is on Sutliffe
+(pseudonyms used throughout). One chapter is about a retarded man - a
+groper - named William . Book is at least 30 years old. Author may be
+named “Rice..”. Hardcover originally checked out from S. Calif. public
+library."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

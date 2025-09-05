@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2000s - Early 2010s] Stickman turn-based war
+game. Looking for a game I used to play when I was a kid which was a
+stickman style game where Im positive you took turns trying to kill
+the stickmen on the other team. Im sure it was a flash game and has a
+very simple black and white and stickman art style. Im pretty sure
+when it was your turn you could choose how you wanted to attack by
+pressing the number keys first and each key was a different attack
+like a gun or grenade. You could choose the power and trajectory of
+your attacks too. I also remember there were different stages you
+could fight on and I remember one being some sort of graveyard. Cant
+remember any other stages as clearly. I also remember you could fight
+bots or play with friends on the same computer by taking turns and
+sharing the keyboard. If anyone remembers this game please tell me,
+its been bugging me for years lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

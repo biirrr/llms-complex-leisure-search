@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010-2018] Running in a nightmare, possibly in a
+tiled corridor with a subway surfer type gameplay loop.. I think you
+played a child in a dream in an endless corridor and maybe it was
+because i was young but i remember it being quite bloody and scary."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

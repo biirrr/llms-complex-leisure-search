@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s]sci fi fighter. I remember playing this at my
+daycare on an IBM computer with a joystick. You advanced through the
+level at a constant pace with terrain/enemies coming at you while you
+move around the screen the shoot at enemies, avoid enemy fire, and
+possibly avoid terrain (I forget if there was collision). There was an
+""""""""upgrade bar"""""""" which had, in sequence, upgrade 1, upgrade
+2, upgrade 3, etc. Occasionally there would be bronze/silver/gold
+coins (possibly dropped by enemies) which you could pick up and it
+would advance your upgrade bar. At any time you could cash in the
+upgrade, at which point the upgrade you had advanced to (just one, not
+any of the previous upgrades) would be applied to your ship and the
+upgrade bar reset back to zero. I remember one of the upgrades was a
+drone that circled around your ship and fired alongside you, giving
+you more power. You could have multiple (up to 3 I think) of these
+drones if you repeatedly cashed in the same upgrade. There were boss
+fights at the end of the levels. I remember one fight was a two stage
+pheonix fight, where first you fight while it's flying, and then after
+you defeat it it goes into a volcano and you bear it again. Another
+boss fight I remember being a giant compound with turrets and
+satellite dishes you had to blow up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

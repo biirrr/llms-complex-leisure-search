@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][2008-2013] Looking for a flash game that had a guy
+looking like this.. I remember a few things from the game like the hub
+area being a pub and the level selection was a map on a table where
+after you selected a level the guy would call up a taxi and then get
+picked up a english/british taxi. I remember that one of the boss
+fights takes place at a apartment complex where you fight a giant
+earth worm and another is just a massive crab. One of the levels
+starts in a giant grassy field where you go into a tree afterwards. No
+joke, it sounds schizophrenic when trying to explain the game. The
+only thing I can say about the gameplay is that it feels a lot like
+Gunbot. https://preview.redd.it/lbx7rqs7ql0f1.png?width=1366&amp;forma
+t=png&amp;auto=webp&amp;s=a58d034942e8e91b98c999900d31577577dead50"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teenage bully romance part of series of 3 books I think.
+Book 1 about boy who kills himself and students at school who call him
+history because he always repeats himself. I think he is called Liam
+and he is a twin to a called Bianica.. Teenage bully romance part of
+series of 3 books I think. Book 1 about boy who kills himself and
+students at school who call him history because he always repeats
+himself. I think he is called Liam and he is a twin to a called
+Bianica. They have two other brothers and boy who there friend who
+lives next door. The siblings groups mum took her own life when they
+where younger by driving off cliff that is where Liam got stutter
+from, The older brother falls in love with girl he bullies. Book 2 is
+about 2 brother and a girl he calls biblethumper she is a larger girl
+and takes pills to help study but then takes them to loose weight she
+ends up in hospital. They both fall in love. Book 3 is about bianica
+and the brothers friend this is a two part book she falls into coma
+when she wakes up she cannot remember anything about her present life
+and the boy she loved. Then it takes you to when she is fully grown
+and she finds the boy she loves they have a baby and call him liam."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

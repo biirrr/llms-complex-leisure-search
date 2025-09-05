@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Newgrounds/PC][2010s-2020s] 8-bit Newgrounds game where you
+play as a ghost and shoot at enemies in the sky?. **Platform(s):
+Newgrounds/PC** **Genre: Side Scroller/Bullet Hell** **Estimated year
+of release: 2010 - 2020** **Graphics/Art Style: Pixel/8-bit**
+**Notable Characters: A ghost with a top hat that can shoot clones?
+(other ghosts with top hats) at enemies** **Notable Gameplay
+Mechanics: Press a button to shoot, the arrow keys to move around**
+**Other Details: The game is a pixel/8-bit side scrolling bullet
+hell** Edit: FOUND"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

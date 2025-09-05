@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s?] Free demo game on laptop with dungeon &amp;
+pet. This one still haunts me to this day. My dad had an old laptop
+with free demos of random games, and the one I obsessed over had you
+play as what I assumed was a kid who would explore this one dungeon.
+All I really remember about it was you could choose a
+""""""""pet"""""""" at the beginning of the demo who would travel in
+the dungeon with you and attack things with you. I would usually
+choose a cat (because I was young and had pet cats) but I didn't know
+many games that let you use a cat as a pet at the time. I remember
+only being able to do the one dungeon and never getting further than
+that, but i remember fighting either slimes or spiders."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

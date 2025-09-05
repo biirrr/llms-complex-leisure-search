@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Indie] Grandfather and the Devil. I'm looking for a
+game that I saw in a video during the pandemic, 2019 - 2021. The main
+character is a 20 year old young adult, he has a deformity in his arm
+and in the gameplay he keeps running his hand over his arm and
+complaining. The protagonist's grandfather is mentioned quite a bit.
+He had saved the town from outsiders by making a pact with the Devil,
+but it had horrible consequences for the town. The Devil was a
+40-year-old man with a thin beard and a hat that hid his eyes. He was
+the one who caused the deformity in the protagonist's arm. The
+gameplay had a gray filter, and at the beginning of the game you spoke
+to a priest in the church and near a cemetery. At some point in the
+game the protagonist picked up a gun. The game had multiple choices.
+The devil had tricked his grandfather by placing fake soldiers who
+would attack the city and make him accept the pact, but somehow the
+protagonist returns and convinces his grandfather to fight, and they
+both discover that the soldiers were fake."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

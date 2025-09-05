@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction (probably 2023). Best friends “break up” over
+the years; when one of them gets engaged and doesn’t have them as a
+bridesmaid this causes the big rift - maybe penguin house? [s]. Okay
+so I just listened to this crazy podcast episode about someone whose
+ex best friend wrote a book about their friendship break up. They
+didn’t name the book, but said it came out within the past year and
+was a fiction novel by Penguin House. That being said, they may be
+changing those details for anonymity so that may not be the publisher
+or year . I’m desperately trying to figure out the book because I want
+to read it after listening to the podcast. General plot: two best
+friends who lived across the street from each other and grew up
+inseparable have a friendship break up when one of them doesn’t ask
+her to be a bridesmaid after they had slowly been drifting apart.
+There’s apparently a major plot where the main character has a
+relationship with the friend’s brother during high school (sounds like
+there was maybe some non consensual or sketchy stuff with this but she
+didn’t go into it). There’s also a couple chapters written in second
+person “to” the former best friend."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

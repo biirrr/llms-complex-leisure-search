@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen advice book- with monsters! [s]. This book I only saw
+in passing last year, it was teen advice type of book, only the
+challenges teens face were described as monsters, like ""zombies are
+people who just go with the crowd and never think for themselves"" and
+""vampires are high-drama friends who drain your energy."" In fact I
+think the title was (Something:) How to protect yourself from vampires
+zombies and other (whatever). In my memory the cover is mostly white
+and had that self-published cartoony look, like the author got one of
+his or her friends to do the cover art. It was rare enough that my
+work's scanning program wanted it for internet sale, hence I couldn't
+just buy it and satisfy my curiosity on the spot. For once my
+bookfinding skills are failing me so I turn to the hive mind of
+Goodreads! Anybody know what this is?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

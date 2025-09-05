@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[playstation][2000s] vampire slayer dungeon crawler. It has
+a female main character, a countdown to a vampire invasion, and your
+character had to prepare by going through dungeons slaying things. I
+think the art looked similar to the Aeon Flux comic art (overly long
+bendy torso). It wasn't a modern setting but I think there may have
+been things like crossbows or guns so I wouldn't say medieval
+setting."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

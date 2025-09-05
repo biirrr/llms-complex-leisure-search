@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Christmas Story about elves waking Santa from a
+nap on Christmas Eve. Hello, I'm looking for the name of athe above
+story that we had on audio cassette when I was a child in Australia in
+the late 1980s and early 1990s. Santa wants to have a sleep on
+Christmas Eve and asks for volunteers to wake him up in time to
+deliver presents. I remember the exact wording was ""Elmo, Eli and
+Jack, I think you raised your hands first"". Santa then goes to sleep.
+Elmo gets sleepy, and asks Eli to wake him so that he can wake Santa.
+Then Eli gets sleepy and asks Jack to wake him, so he can wake Elmo,
+so Elmo can wake Santa. Jack of course falls asleep himself. Everyone
+oversleeps, and Santa is angry. Elmo tries to blame Eli, Eli tries to
+blame Jack, and Santa points out that he had given the responsibility
+to all three of them so they are all equally at fault. Does anyone
+remember this story?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

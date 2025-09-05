@@ -1,0 +1,15 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Rilke [s]. Which edition of Rilke's poems has alternating
+pages of french with alternating pages of English translation? A slim
+paperback with a burgundy cover. My favorite modern edition and I
+can't find it! halp"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

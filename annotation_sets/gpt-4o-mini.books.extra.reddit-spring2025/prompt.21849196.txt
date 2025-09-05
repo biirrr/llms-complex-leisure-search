@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Biography/ Memoir about a Cat. Written from cat's
+perspective by his owner. (Not A Street Cat Named Bob). Read around
+2012. [s]. The book is a biography. It is written in the perspective
+of the cat, as if he is telling the story. One of his owners is an
+author and is the one writing the story. His owner is gay and married
+to another man. I think the setting is set in a European country and
+not America but I could be wrong about that. I read the book years ago
+in my early teen years, maybe around 2012. The plot was about the cat
+seeing the world through his perspective. He has a sarcastic,
+opinionated voice and ""adopted"" his owners by just walking into
+their house one day. The book also touches on the struggles his owners
+face by being gay men in a world where that isn't mainstream. There
+are other cat characters that pop up from the cat's previous life of
+being a stray. The story ends with him being taken to the vetertinary
+office to be euthanized because of health issues due to old age. It's
+a very good book and I would love to find it again but everytime I
+search for it, A Street Cat Named Bob pops up. Very annoying! Thank
+you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

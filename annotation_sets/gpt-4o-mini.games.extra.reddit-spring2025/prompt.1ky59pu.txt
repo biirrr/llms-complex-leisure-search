@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS][unknown] dungeon designing + monster fighting.
+**Platform(s):** Nintendo DS **Genre:** 1st person during turn-based
+combat - Top down free-roam outside of combat **Estimated year of
+release:** No later than 2014 **Graphics/art style:** The graphics are
+somewhat cartoon-ish / anime-ish **Notable characters:** A mimic slime
+that changes form based on monsters fought (random chance), a talking
+magical shovel that is used to """"""""redesign"""""""" the dungeon's
+floors, and two siblings that fight side by side (older sister,
+younger brother) **Notable gameplay mechanics:** Digging out areas in
+the floors of the dungeon and adding rooms to lure in monsters **Other
+details:** You first start with only the younger brother in your party
+(who found the magical talking shovel), after defeating the 1st boss
+you gain the mimic slime as part of your party, then after defeating
+the 2nd boss you gain the older sister as part of your party Every
+game day you can feed the two humans (the brother and sister) a meal
+for permanent stat(s) increase, while the mimic slime has to copy body
+parts of fought monsters in order to influence its stats (what monster
+and body part it tries to copy is random but the player has the choice
+to accept or deny the change) The story is mostly based around living
+in a barley known town (village?) where the mayor is set to make it a
+tourist sight by having you (the player) lure in """"""""boss
+monsters"""""""" and kill them to add to the attractiveness to the
+town (village?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

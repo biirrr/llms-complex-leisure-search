@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][Unknown] An unreleased or cancelled game with a
+cgi trailer with big green giants in it.. This is a cinematic trailer
+of probably an unreleased or cancelled game which I have in my mind
+from a long time. It was in one of those youtube vids like top 50 game
+trailers etc. Heres what I remember from the trailer, big giants,
+maybe green like goblins are approaching from afar, crowds of people
+are running away in the street, but theres one guy, most likely the
+protagonist doing all sorts of jumps and parkour and going towards the
+giants, I dont remember accurate but i think he attacks and takes down
+one of the giants and then the camera zooms out theres multiple giants
+approaching the town, something like that. Thats all I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Indie Asian Sapphic/ WLW fiction about
+photography and modeling. Hardcover, cream colour. Found in 2024.. I
+found this book in the Deep Vellum bookstore in Dallas, Texas in
+October 2024, so it was probably published (probably recently) either
+by Deep Vellum or another indie press. I believe it was a cream
+coloured hardcover of slightly squarish dimensions (different from the
+conventional hardcover shape) about $35 USD and had a large
+fashionably dressed full-body black and white protograph of an Asian
+woman in the front, back, flaps or even possibly endpapers—I’m unsure
+where the image was! It may have been a Korean author and characters,
+and it might have been a book in translation from the original
+language. Alternatively, it may also have been by an Asian American
+author (possibly a local author) and originally in English—I am not
+sure. It was a sapphic (ie women-loving-women or f/f) novel about
+women in the photography and modeling (possibly dance as well)
+industry, who either had a competitive relationship or a complicated
+history. It was probably set in contemporary times, and probably in
+the literary fiction genre with a romance or identity focus. I looked
+through Deep Vellum’s website but I can’t appear to identify it or
+tell if it’s there! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

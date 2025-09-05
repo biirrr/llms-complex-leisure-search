@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GAME][2000s]Text Based MMO/Life Simulator Web Browser Game.
+I cant remember what its called, I've been trying to find it for days.
+I remember I used to play it when I was younger It was a texted based
+MMO/ Life Sim game, I remember you could do multiple things in the
+game like buy vehicles, houses, businesses, steal stuff, sell stuff,
+and make money, I also remember it was multiplayer. The website had a
+white background and the words were bright and colorful. I played
+between the years 2015-2020 I recall it might be newer than I'm
+thinking. Please help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

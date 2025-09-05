@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [2000-2009?] A surreal obscure indie Japanese game
+with a red and black color scheme, which appeared in an old video by
+SomeOrdinaryGamers (possibly in a video about Yume Nikki), where there
+was a jumpscare of a still image of a red scary face that was actually
+a glitch and wasn't intended.. I saw a video by SomeOrdinaryGamers in
+2021 or so, by that point the video was kinda old, but as the title
+says it was a sprite-based game with a red and black color scheme
+(sorta like milk inside a bag of milk inside a bag of milk, at least
+in this particular area), and at some point in the game you could
+reach a jumpscare of a red still image of a face that filled up the
+entire screen, but apparently it was actually a glitch and wasn't
+meant to occur. I believe the video had some relation to Yume Nikki.
+Possibly a video about multiple scary games, possibly a video purely
+about Yume Nikki, i'm not sure, and for some reason what I saw becomes
+fuzzier the more I talk about it. I'm starting to wonder if I really
+saw it or I had imagined it. It could've been that the video in
+question was actually about Yume Nikki but I had misremembered as I
+didn't play YN until a few days after I saw this game. The thing i'm
+describing is similar to two events in Yume Nikki (FACE and the
+""""""""glitch"""""""" event in the FC World). Or maybe I just dreamt
+it up as I got super into Yume Nikki sometime after this incident
+supposedly took place."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

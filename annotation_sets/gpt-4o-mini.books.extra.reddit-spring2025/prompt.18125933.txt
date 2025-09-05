@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Siblings are stranded on an island. Try to find their
+parents. Shipwreck. [s]. Quite a while ago I read this book which I
+barely remember but am pretty sure it was good! Three siblings get
+stranded on an Island of some sort, I think it was and older sister, a
+younger brother and a baby. Its possible they were trying to find
+their parents after being separated after a shipwreck and at some
+point I think they lost the baby. I also vaguely remember a possible
+village built in the trees by something. Was a bit of a thick book
+from memory."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

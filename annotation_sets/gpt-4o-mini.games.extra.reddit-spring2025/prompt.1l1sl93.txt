@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Atari][80s or 90s] A game of battles between islands.
+Hello! Ive been talking with some friends about rare games that we
+played as kids, and one of them described this game that they doesnt
+really remember very well: - Maybe Atari - Battle between islands -
+The loser is put in a guillotine at the end of the battle I hope there
+are enough details for someone to recognize it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

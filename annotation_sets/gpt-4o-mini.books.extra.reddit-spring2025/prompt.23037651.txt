@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA 1970’s novel. High school girl mistakes popular boy’s
+kindness as interest. Invites him over. He never shows up.. MC is girl
+who considers herself unpopular. I think she wears glasses. She has a
+crush on the Big Man on Campus. He’s nice to her. It’s pity. She
+mistakenly thinks he likes her. She asks him over and makes him a
+special dessert that she thinks will impress him using whipped cream
+and Oreos? He stands her up. I believe she gets a new group of
+friends? and comes to realize that a less popular boy in that group
+that likes her is actually really cool. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

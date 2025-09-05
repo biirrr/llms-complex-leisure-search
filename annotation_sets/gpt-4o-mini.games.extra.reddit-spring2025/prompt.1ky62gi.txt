@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2 or XBOX][2005-2008] Ancient Rome Gladiator RPG/ Action
+game. I can remember three things. Firstly, it was set in an ancient
+Rome type setting. Secondly, you played a young man who sneaked around
+a lot. And thirdly, you would go out and fight in the amphitheatre.
+You'd run around mostly and avoid being beaten, and occasionally ask
+the crowd to throw you some food for energy. They would throw a leg of
+lamb or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

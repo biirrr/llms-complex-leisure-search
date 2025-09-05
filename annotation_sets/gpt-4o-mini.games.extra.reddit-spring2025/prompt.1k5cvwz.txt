@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] Want help to find a video game collection. So for
+a little context. There is one weekly magazine which provides us with
+a CD that contains like 10-20 games. The genre is so random. But there
+is this one particular horror type game where we have to escape before
+the ghostly thing catches you (can't remember probably) But I know
+that the same company released multiple version of the same type. One
+particular game that I remember in that is that we aboard a train
+where the ghostly stuff is in the last bogey. We have to find clues
+from different bogeys to escape within a time limit otherwise it's
+game over. I am sorry I don't remember the specifics because I have
+never completed any of that game, so it would be helpful to find some
+clues on this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

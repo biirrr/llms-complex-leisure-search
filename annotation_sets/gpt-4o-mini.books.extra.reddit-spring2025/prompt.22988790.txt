@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book about a boy and a girl who are close
+friends, but it gets sad and kinda dark.. I already asked around other
+places, but I still have been unable to find this book. I remember
+almost nothing about it. The book is about a boy and a girl who are
+best friends, really close. The illustrations were black and white,
+rough sketches, so I'm assuming it was written in the 80s, 90s, or
+possibly the early 2000s. I read it a couple of years ago, probably as
+a third grader or younger. Anyways, the boy and girl are best friends
+and it starts to get dark as they talk about letting each other keep
+their belongings if one of them were to go missing/die. I think the
+boy mentioned something about getting kidnapped by a troll (ogre or
+something similar.) and letting the girl keep his stamp collection.
+The boy is shown tied up. The troll part could've been hypothetical
+since they're kids and don't know trolls aren't real. The girl says
+something about breaking her arm and the ""bone sticking through the
+elbow."" I really don't remember much about this, but I want to read
+it again to see if it's as dark and sad as I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

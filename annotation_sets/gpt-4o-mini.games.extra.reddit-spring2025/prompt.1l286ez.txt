@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][mid-late 2010s] side scroller hack and slash game
+with shadow aesthetics. The playable character and the rest of the
+characters were blacked out, enemies dropped loots that had a rarity
+system (common, uncommon, rare, ..., mythic, unique) or something like
+that"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

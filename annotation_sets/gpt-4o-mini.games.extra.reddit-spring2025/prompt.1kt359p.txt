@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64][1990s]Futuristic Driving Game. Sorry in advance. I'm
+really struggling to remember the details of this game. You would
+drive across a map which always reminded me of the 3D place Homer
+found himself in Treehouse of Horrors 6, with the cone. I can't
+remember if you raced against other cars or if it was against the
+clock. There were lots of ramps and possibly some jumps as well. It
+was an open course. You didn't have to stick to a track. You could
+drive anywhere across this map. I rented the game and played it for
+one weekend. I've always remembered it, but not it's name. If anyone
+recognises it, you'll have scratched an itch I've had about this for
+around 25 years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console/PC][2010-???] first person shooter game level I
+can't remember. When I was a kid play a level in a first person
+shooter game on a Xbox 360 where you would die of the cold if you
+where out to long you had to go to buring barrles and small fires to
+complete the mission while trying to not die of the cold and some
+enemy's here and there"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

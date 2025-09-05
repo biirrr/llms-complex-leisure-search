@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][2010-2012] Obscure first person puzzle game. Man,
+my memories of this game are a fever dream. I remember playing this
+title back in maybe 2012-2013 and having no idea what it was supposed
+to be. The game seemed unfinished but I may have been playing a demo.
+Here are the details: 1. `You begin in a large dark room with a few
+different objects/structures. The most notable object was what looked
+like an umbilical cord hanging from the middle of the room while also
+dripping blood. 2. `The structures led to rooms inside this one. You
+could enter these rooms by walking through the structure but only if
+you walk in correctly. Otherwise, you would see right through the
+structure. 3. `One of the rooms was made up of complete static. You
+could hardly piece together what you were looking at and had to mainly
+rely on hugging the wall as you entered. Eventually, I do remember
+walking toward an orb that was also made of static. This is literally
+all I can remember of this game. Any pointers or direction will help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal/ Alien Romance. Female (space military?)
+cop & male alien/ shifter? work undercover at fancy resort, employees
+go missing. She's hired as dessert chef, they pretend to be married
+couple. Manager is interested in her. Read 2017-20.. Read free via
+kindle unlimited, within the last 3 years. As mention above I can't
+remember if this was a shifter (like wolves, dragons, vampires) or
+alien romance. But I remember that a woman and man team up to go
+undercover to a fancy resort. Unsure if the resort is an island or a
+planet? But anyways they said they are married and they go there to
+work at the resort not as a tourists. She gets a job in the kitchen as
+a chef and he gets a job as something else (can't remember). But the
+manager of the hotel that she works in starts to take a interest in
+her, which is not good! As this hotel is the one that people of going
+missing. The people going missing are other supernaturals/aliens. It
+does have a happy ending. Any suggestions would be good as i may have
+gotten something things wrong so give me what you think and I'll read
+it :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

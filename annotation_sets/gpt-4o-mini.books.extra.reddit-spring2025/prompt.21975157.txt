@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non Fiction. It talking about Math/Physic and how a
+theory develop from simple pythagoras to more complex theory the
+author are Nobel laureate. [s]. I read the book but did not finish in
+2018. The title contain the word “number” but I dont know the rest. It
+was published by penguin in uk. The first chapter is talking about
+trigonometry and each chapter builds up into more complex concept. The
+overall plot is describing the universe through number theory. I
+remember it said in the back that the author was Nobel laureates but I
+dont know in what subject. My bet is physic or math. I dont know what
+year did he win either. The book cover shows spiral shell that
+resemble golden ratio. The book binder side is orange like the usual
+penguin book. Thank you for looking at my post. I missed that book so
+much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

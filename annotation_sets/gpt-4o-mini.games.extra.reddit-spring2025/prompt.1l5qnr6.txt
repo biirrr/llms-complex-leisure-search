@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Console] [Late 2010s, 2018?] Pixel Art 2D Platformer
+with a lion. **Platform(s):** PC, Consoles **Genre:** 2D Platformer
+**Estimated year of release:** Late 2010s, onwards **Graphics/art
+style:** Pixel art, really similar to
+[Chasm](https://store.steampowered.com/app/312200/Chasm/) **Notable
+characters:** In the cover art there's a lion **Notable gameplay
+mechanics:** Is 2D plaftormer, with a worldmap where you can choose
+the level. The characters collects some red gems during the levels
+**Other details:** None"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

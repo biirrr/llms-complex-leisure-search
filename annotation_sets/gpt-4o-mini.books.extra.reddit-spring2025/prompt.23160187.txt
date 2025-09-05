@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Kids survive hijacked plane crash and then
+survive in wilderness.. I read a book in the 1990s (probably written
+in 1970s or 1980s) about at least one boy (possibly more kids) who was
+on a plane that was also transporting a criminal handcuffed between
+two US marshals. The criminal gets loose on the plane and hijacks it,
+causing a crash, which he and the kids survive. The criminal poses as
+a survived US marshal, earning the kids' trust as they fight to
+survive in the wilderness, until one of the kids notices that there
+are handcuff marks on both of the man's wrists, indicating he had been
+handcuffed in the middle (i.e., with a marshal on either side), and
+the plot changes to the kids having to survive both the wilderness and
+a criminal trying to keep his secret."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

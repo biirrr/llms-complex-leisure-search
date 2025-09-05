@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360?][2007-2014?] Need help finding an old-ish open
+world 3rd person city shooter. Platform(s): I played it on 360 but it
+might be on other platforms? Genre: last in my mind it was a 3rd
+person shooter that was semi-post apocalypse? Estimated year of
+release: 2007-2014 Graphics/art style: the style was semi-futuristic
+and the graphics seemed to be somewhat like typical third person games
+of the time, closest I can think about is something like GTA 4, saints
+row, or prototype. Notable characters: I do not have any specific
+recollection of any specific characters but I believe one of the
+characters you talked to was a police chief or a commissioner that
+gave you a quest/situation rundown Notable game-play mechanics: The
+game from memory was set in a semi-futuristic modern city but has some
+form of blight infection, the streets are somewhat empty of NPC
+civilian car traffic but clean, with """"""""infected"""""""" sparsely
+around, the game has a night time mechanic where the infected come out
+in force and spawn everywhere and start attacking everything. The
+infected as far as I remember are humans or human adjacent. Other
+details: The infected mentioned had a sort of glow that was either
+yellow or orange-ish that was in spots on parts of their
+body/clothing, I believe they could also use firearms and MIGHT (I
+don't remember specifically) be explosive. The games I know it isn't
+are prototype, infamous, or dying light, I believe it came out around
+the same time period as infamous and prototype though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

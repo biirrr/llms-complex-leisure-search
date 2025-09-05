@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s][FPS] Truman show beginning turns into Alienish
+FPS. I didnt play through much of it but trying to remember the name
+of the game where you started out in your apartment and worked your
+way up to a helicopter. Your reality ends up being destroyed when
+you use a pipe or something and bash through a wall to discover what
+was actually real. You go through a series of tests in the
+beginning/tutorial, including a part where a black spider like alien
+thing kills a guy. Im pretty sure its set in space and most of the
+baddies are black anomalies, spiderish. Any help on this would be
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

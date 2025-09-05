@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Endangered and vanishing species [s]. I want to say I read
+this book in 2006 or 2007. It was written by a man, maybe American. It
+covers different species, from varieties of apples in western Canada,
+to birds, mammals, whales, etc. I believe he also mentions the dodo as
+well as the snow leopard. I cannot remember how many pages it had or
+really what the cover was like. I think it was white. I have had a
+hard time finding it again. I can't remember if the man was a
+scientist or botanist or zoologist, but I don't think he was just a
+reporter or journalist."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

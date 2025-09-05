@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2012] old disc snake like game. I used to play this
+game when I was in preschool so about 2012, and I've been trying to
+figure this out for months so any information would be helpful. The
+game involved a plain grass field seen from Eagle view it was kind of
+like snake where you (a little train cart or trolly) try to collect
+other little carts that spawn one after another, once you collect all
+you beat level, me and my friends were only ever able to get to level
+15-16 add about level 10 it added trees that you had to
+dodge(sometimes the shadow of the tree would make you lose aswell)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

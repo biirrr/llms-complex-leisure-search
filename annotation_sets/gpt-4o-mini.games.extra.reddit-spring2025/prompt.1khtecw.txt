@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2010's] Point and click game. It was a point and
+click puzzle game with a few dudes spread over the scene that you had
+to click in order. There was an area under a building that flooded if
+you clicked something and a guy who can put on a gas mask had to get
+through it, but would drown. The music was Battle Without Honor or
+Humanity I think. The scene was like a wartorn area with some bombed
+buildings I think. I think I played it on addictinggames.com"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

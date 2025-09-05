@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for specific quote from Honor Harrington series. Hey
+all, I'm trying to find a specific quote from one of the Honor
+Harrington books by David Weber. I tried searching for a couple of
+variations without any luck, and I'm hoping that someone here can
+either provide the exact quote or at least tell me which book it's
+from. The scene is during a mock argument between Honor and one of her
+associates about Honor's distaste for coffee; she says something along
+the lines of ""I wouldn't use coffee as an industrial lubricant! How
+can something that smells so good taste so awful?"" Any help would be
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

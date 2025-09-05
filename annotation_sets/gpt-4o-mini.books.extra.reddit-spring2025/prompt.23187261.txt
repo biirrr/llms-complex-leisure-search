@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA possibly Adult Fantasy maybe romance fantasy. Female lead
+has forbidden magic maybe dark or shadow i think.. Im looking for this
+book i picked up in target the other day. I read the synopsis and
+loved it but couldn't afford it. The synopsis: A girl with
+forbidden/outlawed magic, im pretty sure it was shadow magic, comes
+across a knight in the woods and is being attacked/dying. The knight
+is a shadowhunter or is tasked with eradicating forbidden magic, she
+realizes this and debates saving him but I think she ultimately does
+so and it leads to a complicated enemy to lovers troupe i think"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

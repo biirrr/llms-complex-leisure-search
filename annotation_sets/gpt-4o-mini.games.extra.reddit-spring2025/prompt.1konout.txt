@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][~2002?] 3d RPG game, starts with your village burning
+down. I have an incredibly vague memory of a game I used to play way
+back in the day on the PS2, it was a 3d RPG that started with your
+village burning down, but I can't for the life of me remember much
+else. I think the main menu was green? And it might have started with
+an S or a C? I remember the main menu music being awesome at least,
+and the game had an emphasis on magic. I think your character summoned
+a demon or something and that ended up burning the village down,
+maybe? Edit: Thank you guys, it was Summoner. Zero clue how I could
+have forgotten such a memorable name lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

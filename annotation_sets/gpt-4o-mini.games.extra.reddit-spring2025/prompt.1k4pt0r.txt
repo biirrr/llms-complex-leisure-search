@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][198X presumably] Horizontal scroller shmup. I remember
+as a kid playing this shoot em up game, presumably for the NES (it was
+on one of those 100 games in one bootleg cartridges) where collecting
+power ups would add pieces to your ship and slowly turn it into a
+mech. What stuck with me is that you actually shot bullets from your
+feet too lol Any ideas? Not big into NES shmups so it might be a
+famous one I just don't know but I have never come across it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

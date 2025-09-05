@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Console?][Unknown] game about a boy being a
+""""""""family jade""""""""?. the girl I like explained this game she
+likes about a Chinese boy who's the family jade? I might be
+forgetting, but I'm pretty sure his eyes are green or something, he
+has a grandmother that does expirements/tortures creatures (or people,
+don't quite remember), and he's not with it. The grandma makes this
+potion and gives birth to a bunch of birds? I've tried searching for
+the name of the game, but Google searches can only be so relevant.
+Another thing, she also likes this game about a guy with a clock head.
+It's called ____ company, don't know that first bit for the life of
+me. Thanks so much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Pre 2020 - YA? Fantasy - A coven of witches series. Several
+years ago, sometime between 2012 and 2020, I lived in an apartment
+that kept getting broke into. Several of my books were taken over
+time. There was a series a friend gave me that I had started reading
+the first book of, but the whole set went missing. The series was
+about a coven of witches. There was an eccentric aunt (I believe she
+was an aunt), and it was set near a beach. I am pretty sure the title
+was a single word. Any help is appreciated. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

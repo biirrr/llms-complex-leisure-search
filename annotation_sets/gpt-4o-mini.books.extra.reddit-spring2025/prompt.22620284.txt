@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction. Set in rural American/ Canadian border towns
+(Minnesota?), collection of ensemble characters, one of main
+characters has interest in birds. [s]. I read this book sometime in
+between 2012-2016 I believe. I don't remember any of the characters'
+names specifically but one of them could be August? I don't remember
+if that's a name, part of the title, or an important month in the
+story. The general plot is that the characters live kind of back and
+forth along the American/Canadian border, I think in Minnesota. The
+story follows their rural lives and I think one character has a farm.
+One of the characters definitely loves birds. I think he also is
+autistic or has some sort of mental illness. The most impactful part
+of the story to me (really the only part I remember vividly) is the
+end where he sees a murmuration of birds, starlings I think, in
+autumn. I think I remember a murmuration on the cover, and I'm pretty
+sure this book was written by a male author."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

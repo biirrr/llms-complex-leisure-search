@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2000s] Strategy game about mining emeralds.
+Platform(s): PC Genre: Strategy Estimated year of release: \~2000
+Graphics/art style: - Notable characters: - Notable gameplay
+mechanics: Overview with Grid-like-map where you can build Other
+details: It was about building a mine for Emeralds. I think the
+charactes where some kind of animals which worked with big digging-
+machines and so on. I was sure I knew the name (German:
+""""""""Smaragmine"""""""", which translates to """"""""Emerald
+mine""""""""), but I can't find any information about a game with a
+name like that. Maybe you can help. Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

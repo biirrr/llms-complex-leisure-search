@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Halloween Teen Graphic Novel based on actual crime (?)
+(2000-2020). YA-Adult graphic novel, pretty mature/dark themes, read
+sometime between 2015-2020 & likely published anywhere btwn 2000-2020.
+I picked it up on vacation either at the Richmond Main Public Library
+in Virginia or a bookstore around that area. As for plot stuff I
+remember it being about a teenage boy living in this smaller town
+where kids keep dying from poisoned Halloween candy each year (so
+maybe loosely based on the real life Candy Man killer). Time period
+wise it might've been a little while in the past, since I don't
+remember phones/technology playing a big role but could be wrong. Main
+character had someone close to him die, maybe a brother, & I remember
+ghosts playing a pretty large role in the story as well especially
+when it came down to figuring out who the killer was. Also remember a
+specific scene where the main character gets chased by the town
+bullies and either had pumpkins thrown at him or something else
+involving pumpkins. By the end of the novel there were pretty strong
+themes of coming of age, and I'm fairly sure the author was a man. The
+comic may have been monochromatic (like green or smth) but I'm not
+sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

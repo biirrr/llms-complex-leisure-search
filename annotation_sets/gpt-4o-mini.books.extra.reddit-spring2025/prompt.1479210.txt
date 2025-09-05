@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "About a girl named sheila, mother left, father lives at
+migrant camp, she burns and almost kills a boy [s]. I read the sequel
+to this book in the reader's digest. The story is about a girl named
+sheila who, at age seven, hangs a boy to a tree and almost kills him
+when she lights him on fire. When mother was taking her and her
+brother away from father when sheila was thrown out of the car. Her
+dad lives in a migrant camp. The story is told through the POV of her
+special ed teacher. In the sequel, sheila is sent to a juvenile
+detention like center where she considers suicide but doesn't kill
+herself. She escapes. The name of either the first book or the sequel
+would be helpful. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

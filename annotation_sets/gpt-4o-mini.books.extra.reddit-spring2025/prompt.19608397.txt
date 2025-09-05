@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book of mythological stories and characters, non-fiction
+[s]. I believe I last read it about 2015, the book appeared to be
+rather old, possibly written in the 1970's? I recall it using the
+archaic spelling ""Moslem"" when referring to Islamic countries. I
+believe it had an illustration depicting a giant towering over a ship
+in the ocean, and IIRC there was a story about a 100-meter long sea
+serpent attacking a boat? The book also had Dorian Grey and Faust in
+it, I think. I do have images I am certain are from the book. I will
+link to them below: https://vignette.wikia.nocookie.net/v...
+https://vignette.wikia.nocookie.net/w...
+https://vignette.wikia.nocookie.net/v...
+http://www.dragonsinn.net/Fiction/bas...
+http://i.imgur.com/ryBLJT8.jpg"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

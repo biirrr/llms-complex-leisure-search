@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non Fiction book. Tragic events and the Laws that were made
+because of them. One was the triangle shirtwaist factory fire. Read
+2013-2018. [s]. Hi! The book is about tragedies and the laws and
+changes they caused. It definitely had more than one event and I know
+for sure that the first, or at least one of the first three events was
+the triangle shirtwaist factory fire. I read it somewhere in between
+2013-2018 if that helps. (if this accidentally is posted multiple
+times, I kept getting an error message that said it wasn't posted)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc browser][Unity 3D][2008-2015] Sandwich slide game. Okay,
+this might be a silly one, but I remember playing a 3D (possibly Unity
+3D, could also be another 3D platform) slide game where I played as a
+triangular slice of a sandwich going down a water slide. However, the
+water was red like tomato juice. I remember also being able to build
+custom slides. It was a fun game I played back in the day of flash
+games and browser games, and I wanted to play it again just for fun
+and nostalgia, but I can't remember the name. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

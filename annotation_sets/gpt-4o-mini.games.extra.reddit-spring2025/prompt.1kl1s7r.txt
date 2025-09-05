@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH GAME][~2010 or earlier] Metal Slug chinese ripoff.
+When i was a kid i always played a game that was a metal slug chinese
+ripoff with everything written in chinese. it was available on many
+flash games websites back then around before 2010 or after till the
+end of of flash player. the game was more moder than its original
+couterpart. There were four characters to chose before starting the
+game and the map was mostly night. the enemy soldiers has blue armors
+and the style was the same as the older games. Random stuff i remember
+is that there were old men with white long bears to be saved, a big
+truck with many trailers with radioactive symbol and my favourite part
+was that in a certain point of the game you would take a plane and
+maybe do a fight and a bossfight in the skies. I've been looking for
+this game for years, i would appreciate is you could help me, thanks.
+If you need more info, ill try to write some more"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

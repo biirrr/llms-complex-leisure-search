@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Decluttering, Simplifying, reducing children's toys [s]. I
+read a book about a family that cut their kid's toys in half and then
+cut them in half again and just whittled their belongings down to
+almost nothing and the children were so much happier. Kind of extreme
+decluttering and simplifying.I think it was fairly recent; perhaps
+within the last 5 years?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

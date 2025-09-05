@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/00s][3D] Third-person game with square tiles,
+collectible items worn on the head, and a cat-like character. Hey
+everyone, Im trying to remember the name of an old 3D PC game I
+played, probably from the late 90s or early 2000s. It was a third-
+person game and the setting was always a flat map made up entirely of
+square tiles. The main gameplay loop involved jumping from square to
+square (technically walking, you just used arrows, but the character
+walked by jumping from tile to tile). I think the goal was to either
+mark every tile by jumping on it or avoid jumping on the same one
+twice (not entirely sure). There were also collectible items scattered
+around the map. When picked up, these items would be placed on the
+characters head  and the more items you carried, the slower your
+character became. The goal was to collect all the items and make it to
+the finish point while avoiding enemies placed on the map. The main
+character was some kind of creature or critter  in my memory it had
+cat-like features or even cat ears. Thats all I can remember for now.
+I might update the post if I recall more. Appreciate any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

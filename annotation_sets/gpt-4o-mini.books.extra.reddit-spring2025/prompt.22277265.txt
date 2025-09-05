@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical novel - girl who grows up with her Dutch family
+in Java, Indonesia. During WO2 her family ends up in a Japanese
+concentration camp.. Historical novel - a girl who grows up with her
+Dutch family in Java, Indonesia. During WO2 her family ends up in a
+Japanese concentration camp. *SPOILER following* After their release,
+the surviving family members escape to the Netherlands by boat. *END
+of spoiler* If I recall correctly, the cover has a picture of a tree
+on it. And in the story, they talk about a (painting of an) oleander
+(again, if I remember correctly). I have no idea when I read this
+book. Somewhere in the past 5 years maybe? I know there seems to be a
+similar book called 'Lost Childhood', but I don't think it's this
+one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

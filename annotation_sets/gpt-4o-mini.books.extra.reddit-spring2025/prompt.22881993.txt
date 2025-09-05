@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy series from the 90s. There's a magic user girl named
+Responsible. Book of the Month Club compiled the series into a
+hardcover with a girl riding a donkey through sunset clouds. [s]. A
+fantasy series where a girl is always named Responsible or
+Responsibility. She rules as a magic user and has a talking donkey who
+when he flies, doesn't move his legs. He says flying horses use their
+legs when flying but it's not necessary so he refuses to make the
+effort. She thinks it looks silly but the donkey is going to do as he
+pleases"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

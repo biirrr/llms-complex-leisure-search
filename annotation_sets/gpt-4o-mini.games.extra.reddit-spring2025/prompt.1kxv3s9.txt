@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UPCOMING] A co-op dungeon crawler that has a similar
+feel to World Of Warcraft dungeons.. There was a demo for it a while
+ago, and I can't quite remember the name of it, I forgot to wishlist
+it. There were a handful of playable characters(I can't remember the
+exact details of them); * Tank: A female character. has a sword and
+shield. * Tank: A male character that's akin to a Monk in D&amp;D *
+DPS: A female character, Frost mage. * DPS: A large male Viking
+looking guy with an axe. * Healer: A male dwarf Paladin * Healer: A
+famale... something race, looks like a dryad/druid, uses nature magic
+to heal. Those are the only details I can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

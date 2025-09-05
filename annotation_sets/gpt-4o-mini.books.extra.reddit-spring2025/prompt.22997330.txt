@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book: Pigs flying and floating farm. Read
+in 1990s.. I read this children's book as a kid in the 90s. It had a
+blue cover with pink pigs flying. A farmland gets disconnected from
+the ground and starts floating and then crazy things start happening:
+a character gets scared by something and then can only cook white
+foods, horses are stuck to trees with syrup, playing checkers on a
+waffle with peas, the field of corn is so tall that a girl gets lost
+for days, puppies almost get sucked up a vacuum, etc. Eventually they
+weigh down the land with cows and trucks and the grandma sews it back
+in place. Please help! I can't find this book anywhere and I can see
+it in my mind!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

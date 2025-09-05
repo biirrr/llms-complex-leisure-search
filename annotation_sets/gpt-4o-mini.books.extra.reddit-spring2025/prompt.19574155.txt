@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1970s Children's Cookbook. [s]. My sister and I were
+discussing a recipe we made when we were kids, and we've been Googling
+to find the cookbook it was in but can't find it. It would definitely
+have to have been published prior to 1975. I am about 95% certain it
+was not a Betty Crocker cookbook. IIRC it had a yellow cover and was
+bound with a white plastic binding comb (I remember liking to unravel
+it part-way and put it back together again). The cookbook had color
+photos of each recipe. The recipe we are specifically looking for was
+something to the effect of ""peanut butter creams"" which were similar
+to buckeyes but rolled in chopped peanuts instead of dipped in
+chocolate. It was a great one to make with a babysitter who had failed
+to get permission to use the oven. Another recipe I remember was a
+""salad"" which was basically a halved (canned) pear made to look like
+the back of a rabbit: a drop of cottage cheese for a tail, a couple of
+slivered almonds for ears, etc. It made an impression because in my
+house a ""salad"" was exclusively iceberg lettuce with a couple of
+tomato wedges. I fantasized about making dinner for the family and
+serving that as the ""salad."" I also remember there was a lasagna
+reciped with a picture that looked nothing like any lasagna I'd ever
+seen (we're not Italian but my family came from the Italian
+neighborhood). It almost looked as if it had marshmallows melted over
+the top."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

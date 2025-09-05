@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [unknown] a pink blob that collects keys. I have
+been looking for this game but have no luck finding it . You are a
+pink blob that has little blob children then a big robot steals them
+and you must eat all the fruit in the level to complete ,then you get
+keys for completing the level to unlock more levels . there are pipes
+you go down to enter the levels . there is an acorn power up and you
+have to hit a button in the bottom of the robot to blow it up . Pls
+help me find it it will be very much appreciated"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

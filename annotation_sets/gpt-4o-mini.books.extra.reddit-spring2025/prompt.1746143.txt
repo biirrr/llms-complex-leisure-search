@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "French novel about teen girl who falls in love with older
+male artist [s]. I'm looking for a French novel, translated into
+English, that I read in about 1995 at my university library. It's
+about a teenaged girl who meets an older male artist, I believe in his
+40s, who is not married but has had a partner for several years and
+they have children. When he falls in love with the girl, they begin an
+affair, and I recall one scene especially where the artist's partner
+tearfully explains that she never married him because she knew he
+would find ""the one"" eventually and she didn't want to hold this
+genius artist back, and she knew in her heart that this teenaged girl
+was ""the one."" There was also mention of the girl's school being
+near the artist's studio, and I believe she walked there for their
+assignations. I may be making it sound tackier than it was, though I
+really don't know. The author was male, I'm almost positive. No idea
+on the publication date but if I had to guess I'd say the tropes and
+topic would make it 1960s or later. As you can imagine, searching for
+these keywords brings up a few million hits! If you can give me any
+ideas, I would be very grateful. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-Fiction - Author compares life in the 1950s to
+today. Book written in ~2005-2010? [s]. I read this book probably
+10-15 years ago, so it must have been written in the 2000's. The
+author is looking at economic life in the 1950s and comparing to
+""today"" (which would have been in the 2000s). It looks at things
+like how families can survive with one parent working, and how the
+work/life balance has shifted so greatly. I have a vague recollection
+that the author's name is alliterative - weird detail I know, but
+maybe that will trigger a memory from someone! (I could be wrong on
+that point.) Additionally, I remember the book cover being primarily
+white, if that also helps?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

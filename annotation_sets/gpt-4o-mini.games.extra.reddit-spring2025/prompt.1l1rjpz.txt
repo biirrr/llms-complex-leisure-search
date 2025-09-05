@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] PVP Base building game with hoverboards.
+I played this online game in high school where you flew around on a
+hoverboard and would build a base with buildings and tanks and for the
+first week or so no one could attack you and take your land. Im like
+90% sure it was on MSN gaming zone. I only played it like a week
+because after I was open to PVP I attacked someone to see how it
+worked and then their guildy attacked me destroying everything I had."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

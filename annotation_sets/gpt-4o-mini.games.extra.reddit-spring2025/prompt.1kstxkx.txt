@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][FLASH][late 2000s-early 2010s] You are a soldier and
+your helicopter crashes in Middle East. There was a Flash shooter game
+in early 2010s I think, where you are aboard a helicopter in the
+middle east and it gets hit and you crash. You woke up and had to
+shoot some enemies. It had a sequel too I think. It was similar to
+Pyrozen style of games. Does somebody remember its name?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

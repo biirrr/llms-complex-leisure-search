@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci Fi about a depressed man who discovers other
+worlds/ realms. [s]. In 2023 I was watching a YouTube video about a
+book where two characters discover (I think 5?) different realms or
+worlds. The two main characters are one, a depressed man (I think he's
+a painter) who has nothing going on for him, and two, a gorgeous woman
+who never gives any man the time of day. I know that the man later on
+in the story finds out his father is the god of one of these realms. I
+believe the beginning of the story is set in England and I also
+believe the book came out in the 1800s. Please forgive me for having
+such vague memories of this book. I haven't heard anything about it
+since that YouTube video I watched but I remember being intrigued by
+the story. Also, I think the title might have some variation of the
+word ""dream,"" ""utopia,"" ""garden,"" or something along those
+lines. I appreciate any help I can get."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

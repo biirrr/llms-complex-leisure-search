@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Old Telephones] [2008/2009] Platform game where you are a
+Baby. Hello all! I'm trying to find the name of a game I used to play
+when I was at primary school. It was a platform game where you were a
+Baby which used to fly by using his nappy. If I don't remember wrong
+he used his nappy to attack monsters too. The game was playable fron
+my telephone (yes, not a smartphone ahah). It should be like 22 yrs
+ago I think. I've tried to find it everywhere, by searching baby
+platform game old telephone and something like that, but nothing
+appears. I hope someone can help me find it. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc windows 7][2010-2012]fast paced farming/production game.
+Platform:windows 7 Genre: farming/production Estimated year: I don't
+know if it actually came out around this time but I Remember playing
+it in 2010-2012 Graphics:I want to say low poly but I'm not sure it's
+definitely not pixel though Notable characters:I don't think there
+were any other than the one u played as which I think was female
+Notable mechanics: fast paced had to complete quests in a time
+limit/before the day was over day system and upgrade system (I think
+it may not have had one) Other: I remember it being fairly difficult
+since I was never able to get past day three but then again my mom was
+on like day 7 or 8 also I think the main way u got around was via your
+tractor that I'm pretty sure u could upgrade so it could hold more and
+move faster"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

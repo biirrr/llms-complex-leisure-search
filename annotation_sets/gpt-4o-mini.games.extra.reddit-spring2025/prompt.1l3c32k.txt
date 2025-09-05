@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2011?] i cant remember the name of this old game i
+played it when i was a little thing. SOLVED: Glowfish So there was a
+game with a full story (unknown name) about two underwater creatures
+who loved each other. The pink fishy-like-thing got stolen and we (the
+white-blue fishy-like-thing) need to find and safe it. I can't really
+remember the gameplay but you were definitely underwater and the
+background looked like.. guts?? It wasn't a horror game but the
+background was so round? and red? at the first start of this game. At
+the end when you finally safed the pink thing it started to sing and
+dance fullscreen. The game wasn't that long i guess you could speedrun
+it under 1,5 hours? Maybe less? (My first speedrun with 6-7 years=).
+The fish things also looked like rabbits. They had these rabbit-like
+ears."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

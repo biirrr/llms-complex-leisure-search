@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Coming of Age novel. Boy discovers a Gold Nugget in
+river. He's a social outcast (bullied) living in the rural mountains,
+his treasures include a bug preserved in amber and a gold leaf
+skeleton. Read around 1997-2003. Spoilers.. I read this book probably
+between 1997-2003. It is a YA novel, coming of age story. I believe I
+listened to it on cassette from the library. I remember the beginning
+and the end relatively well. The main character is a boy, pre-teen or
+teen. He is a social outcast and lives in the rural mountains. I
+remember specifically that he had treasures such as a bug preserved in
+amber and a gold leaf skeleton. At some point he discovers a nugget
+that turns out to be gold, but he doesn't like it particularly (the
+leaf is more beautiful and delicate). Protagonist is bullied. Near the
+end he is hiding in a cave with an underwater river. The main
+antagonist of the book comes up to the mouth of the cave. I believe
+the antagonist's horse had 3 black hooves and 1 white. The antagonist
+is after him because he believes the boy knows where to obtain more
+gold. The antagonist tries to swim up the underwater river and he gets
+stuck and drowns. Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

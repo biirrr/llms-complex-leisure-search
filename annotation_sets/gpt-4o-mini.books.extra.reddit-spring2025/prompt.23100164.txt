@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Book about a girl that is dying, thread
+connecting her soul to her body.. I'm trying to find a book I read
+when I was in middle school, around 2004-2006? It was an older book
+found at a thrift store, the cover art was similar to the older
+Babysitter's Club and Sweet Valley High books. The plot was about a
+teenage girl, I believe she drowned and was on the verge of death. A
+thread connected her soul to her body, and there was a boy (either a
+friend or her brother) that was also in a similar situation, I think
+he was sick. In the end, she chose to switch her thread with the boy's
+because his was more damaged, basically giving her life for his. The
+way she fully dies is by (in soul form) walking into the water and
+""officially"" drowning if I remember correctly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

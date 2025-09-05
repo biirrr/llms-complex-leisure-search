@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1995-2005] Mago tinha que ajudar seu dragão enquanto a
+terra era invadida por aliens em forma de salsicha. Eu não consigo
+lembrar de jeito nenhum desse jogo. \- 3D em terceira pessoa. \- Tinha
+uma fase no deserto, em que o mago dirigia um carrinho. \- Tinha uma
+outra em que ele ia pro planeta dos aliens salsichas. \- Tinha outra
+com um chão invisível em que tinha que andar com cuidado pra saber o
+próximo passo. \- A capa do jogo era o mago voando no dragão azul(?).
+\---- \[PC\]\[1995-2005\] Wizard had to help his dragon while the
+earth was invaded by sausage-shaped aliens I can't remember this game
+at all. \- Third-person 3D. \- There was a stage in the desert, where
+the wizard drove a cart. \- There was another stage where he went to
+the planet of the sausage aliens. \- There was another stage with an
+invisible floor where he had to walk carefully to know the next step.
+\- The game's cover was the wizard flying the blue dragon(?)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

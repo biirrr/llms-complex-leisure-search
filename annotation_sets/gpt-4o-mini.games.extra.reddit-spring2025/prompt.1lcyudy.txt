@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GAMEBOY][1990s] A run and gun on gameboy with cool
+music.... So when I was a kid I had this GB game that I would get out
+and play sometimes solely because I really liked the music. It was a
+side-scrolling run-and-gun like Contra or such. It took place in a
+jungle-like setting and you were a tall slim guy with a gun (it didn't
+have the """"""""chibi"""""""" style characters like Super Mario or
+Mega Man, but rather somewhat realistic proportions for the
+character?). You killed other humans with your gun but there were also
+a lot of bats or birds or something???? I remember the title made me
+think it might be based on a movie or TV show, but I didn't actually
+know the movie or show as a kid, I just thought the title sounded like
+a movie. So this may be completely misleading. I remember the level 2
+music was the BEST!! I would play it just to get to that level and jam
+out LOL Want to hear that music again but can't remember the title of
+the game for the life of me. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

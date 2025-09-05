@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash/PC] [2010-2015] Horror/Exploration game where you
+need to wake up.. Platform(s): It was on PC as it is a flash game
+found on some forum Genre: Horror, Point and Click, Exploration (?)
+3rd person, kinda of a plateformer Estimated year of release: Maybe
+2011-2015. Graphics/art style: 2D, only black and white, just the
+texts on the wall in bright red, very flat like undertale can be.
+Notable gameplay mechanics: Maybe it was just the arrows to guide,
+sometimes click to have a clue ? I'm not really sure. Notable
+characters : You (the player) were a boy, you stumble on what i think
+was a nurse, and sometimes """"""""shadow"""""""" who were monsters,
+but you didn't fight. It's really vague and I know it. Tell me if I
+can add something to help. Ím sure it isn't Dreamgate Escape as it's
+really not the style of the game I played, nor entirely the theme. It
+was a world where you didn't know you were asleep, but sometimes on
+the wall, words where written like : """"""""Wake up"""""""",
+""""""""Do you really think it's real?"""""""". In my memory, it was
+in a sort of hospital, or something really really sterile. At the some
+point you were in a wood ? I was so afraid, I couldn't play it
+entirely, and it started my paranoid delusion, so it's very important
+for me to find it. It was kind of cryptic and silent, or maybe the
+sound wasn't on because i was too stressed. I think it didn't have so
+much text, as i didn't speak a full english at the time, and anyway
+could understand the most of it. I don't have so much hope as I spent
+YEARS looking for it, or trying to find the french forum I found the
+name on. Sorry if you find some mistakes or else, it's not my first
+language. I'll try to give a sketch of what I remember. Thanks to
+all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

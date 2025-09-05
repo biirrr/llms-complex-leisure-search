@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Switch?][2010s] Weird Japanese Dilemma Game In Black and
+White. I have not played this but I remember seeing a streamer or a
+youtuber play it. It is a Japanese game with very simple hand drawn
+art in black and white. It is about solving very mundane, weird and
+funny moral dilemmas, like where to stand in a crowded subway. Every
+stage presents two choices in the screen and you have very limited
+time to make your choice, maybe 20 seconds. My memory of this is very
+vague so some details may be slightly incorrect, please forgive me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

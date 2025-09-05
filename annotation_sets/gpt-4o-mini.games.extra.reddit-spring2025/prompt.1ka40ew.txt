@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation 1] [unknown] [a beat em up game about living
+the life of a fresh martial artist growing up and becoming a master
+martial artist]. **Platform(s): PlayStation 1** **Genre:** Action RPG
+**Estimated year of release: 1999** **Graphics/art style:** Early 3D,
+simple polygons, Chinese-themed **Notable characters:** Choose between
+a male or female martial artist. Fight various martial arts masters
+**Notable gameplay mechanics:** Your character ages from a young,
+naive warrior to a grandmaster over time. Fight various martial arts
+masters in a 3D environment. Earn money, buy food, and maintain your
+characters health. Eating habits affect physique (can become fat or
+skinny). Multiple martial arts styles to master (around 3 or 4).
+**Other details:** **Single-player only** (no multiplayer, co-op, or
+competitive modes). **Not** turn-based, chibi, side-scrolling,
+isometric, or strategy-based. **Not** related to: Capcom, SNK, Marvel,
+King of Fighters, Darkstalkers, Street Fighter. Tekken, Virtua
+Fighter, Mortal Kombat, Bloody Roar. Wuxia, Xianxia, cultivation, or
+supernatural themes. **Similar games in feel:** *Way of the Samurai*,
+*Bushido Blade* (but without weapons), *God Hand*, *Virtua Quest*.
+Important Notes:The game is very linearyou walk through areas, engage
+in fights, and progress. Survival mechanics: If you dont eat, your
+character gets sick and dies; overeating makes them gain weight.
+Simple, early 3D models with basic martial arts outfits (e.g.,
+traditional Chinese dress for the female character)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

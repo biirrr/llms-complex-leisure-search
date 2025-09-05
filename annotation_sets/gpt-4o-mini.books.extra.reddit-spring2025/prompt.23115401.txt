@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult drama. Set in Australian outback. Main character is a
+woman who lost either her mother or both her parents as a young child.
+She was subsequently raised by her grandparents. Read around 2010s,
+published in 2000s? Spoiler.. I remember reading this book around the
+2010s but it was probably published in the 2000s. I’m pretty sure it’s
+set in the Australian outback where the main character is a woman who
+lost either her mother or both her parents as a young child. She was
+subsequently raised by her grandparents The main plot point I remember
+though is that at the end of the book there is a revelation where the
+protagonist discovers that it was actually she who pulled the trigger
+as a small child and accidentally killed her parent/s. Her
+grandparents then never told her. Set on a farm I think? Please help
+it’s killing me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

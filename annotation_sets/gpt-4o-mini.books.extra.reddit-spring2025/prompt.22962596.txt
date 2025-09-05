@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy/ Drama, mid 2000s. Group of teenagers with
+special gifts start a new school, they had disappeared. Twins, one can
+stop time. Girl is super smart (first to have 5.0 GPA), boy is super
+athletic, etc. Spoilers.. The story involed a group or teenagers who
+were starting a new school, and each of them were really ""extra"" ,
+ie one girl was super smart and did so much extra credit she was the
+first person to have like a 5.0 GPA, another guy who was super
+athletic ect. The main characters were a pair of twins. However, one
+was incredibly gorgeous and looked like the adoptive ""mother"" while
+the other one didn't. The one that didn't could stop time so she could
+read. The adoptive ""mother"" had stolen all these kids when they were
+younger and granted them their wishes. However, they all did jobs of
+some type for that ""mother"" who was some type of great evil. The
+ending was that the one twin who could stop time had stopped time, so
+often she had learned every language both current and dead and somehow
+learned the language to stop the great evil. Once she did, she started
+aging super fast as all her time caught up to her, and the other twin
+became super hideous since her original false beauty had been feeding
+off of the girls original beauty. I want to say the title was a single
+word, but I'm not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy series. Women summoned from Earth to magical
+world by different factions, Marshalls, Chevaliers, and Wizards. [s].
+I read this series about 15 years ago (2010 to 2012). It was not a
+new/recent release at the time. There are at least four books, each
+written from the perspective of a different woman. Each faction in the
+world (which has a French-inspired language) has an opportunity to
+summon a person to help fight an evil force plaguing their world. The
+first book is about Alex, who is summoned by the Marshalls. Another
+book is about Callie, who is summoned by the Chevaliers (they ride
+flying horses). Another book is about the wizard group. In the last
+book, a popular singer is summoned who works with the other three
+women to fight the evil force. Some of the native inhabitants of the
+world are magically attracted or repelled to women from Earth."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

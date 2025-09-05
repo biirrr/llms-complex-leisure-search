@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Spicy Contemporary Romance. Couple meets at baseball
+game. She is a writer with a young son and a controlling ex.
+(spoilers). I know the book is later than 2010. Single mom of a young
+son (I think he's 10-12 year old range and staying with his dad over
+the summer through most of the book) is at her sons baseball game and
+sees a man on a nearby baseball diamond waiting to play (he's not
+professional, just on a local team). He becomes instantly attracted
+and pursues her but she is reticent. I think he is younger than her
+and may be a veterinarian. She is an author and still lives in the
+nice house she and her ex-husband shared. Her best friend talks her
+into getting her feet wet by trying to date again. Her ex is
+controlling and keeps showing up. At the end, her new man and her
+relatives are celebrating a holiday there when the jealous ex shows up
+making a scene."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

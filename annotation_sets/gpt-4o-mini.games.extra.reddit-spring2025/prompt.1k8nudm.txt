@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020s] Cartoony sort of game, was on gamepass, had
+aliens in at the start. update, its high on life. Thanks and during
+one of the early levels lots of pop ups keep appearing on screen, I
+got it from gamepass a couple of years ago but I think its been taken
+off, I think of graphics style might be called cell shadded but that
+might be wrong. at the start of the game you and I think your sister
+are in a house, but then aliens come and you get a zapper gun, anyone
+know? thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

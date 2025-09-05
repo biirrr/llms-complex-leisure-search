@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens fiction - A story of a girl her older brother and
+a bird (Swift or Swallow or something similar), the bird loses a leg.
+Spoiler.. Children's fiction pre-2007 taught in UK schools between
+2004 and 2007- A girl and a brother help a bird in their garden. The
+bird is a Swift or Swallow or something similar. The bird then
+migrates and the brother leaves to do charity work in Africa. On the
+way to Africa the bird is caught in a boat net and loses its leg.
+Meanwhile the brother is in Africa and steps on a landmine or is
+attacked (he is with a young child) and loses his leg. The brother
+returns home with one leg and they see the bird with one leg in the
+garden. The story was split in to part with titles like Hero's Journey
+or Emily's journey, I don't remember the exacts names but think the
+bird might have been called Hero. This book was taught to me in
+primary school English I would love to find this book as I remember it
+fondly from my school days."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy series, Harry Potter sort of book - A kid who is
+recruited to a magic school. Read 2011-2016.. The book is like Harry
+Potter where its a kid who goes to magic school and is an outcast but
+a secret is hidden from him. He goes and get better at magic, while
+making friends, he also learns more about the secret being kept in
+this school. He also faces many attacks from someone or something. The
+book is a series and it is YA Fantasy. They were hardcover books and I
+remember one them had the kid flying a sort of yellow looking creature
+with wings and a leopards body and its body looked like it was made of
+stone. I read these books in elementary in 2011- 2016. Plz let me know
+if yall can remember the name of these books because I enjoyed them a
+lot. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

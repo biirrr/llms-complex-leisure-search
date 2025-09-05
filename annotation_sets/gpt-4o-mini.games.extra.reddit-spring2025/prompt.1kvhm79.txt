@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2010~] Anime horror game about a death
+room/killing game. I remembered this game I never played but always
+wanted to it had around maybe 9-10 characters with very unique design
+stuck in a room and they had to kill each other, I only remember the
+design of one guy with blue/black hair and glasses. I think the
+playing style was similar to Danganrinpa or Corpse Party and other
+similar anime game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

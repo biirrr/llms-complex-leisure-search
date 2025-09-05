@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[CD-ROM/PC][Late 00s-early 10s] Game about raising a
+dragon from an egg.. I used to play a ton of these demo-disc and flash
+games when I was a kid and Ive found a lot of them but Im totally
+lost with this one: It was a late 2000s early 2010s (I believe) CD-
+rom software/videogame where you raise a dragon. It was very
+rudimentary, I think it could have been a product tie in game. I
+believe there was also a fairy variant too. I vaguely remember it
+being a tie in product but Im not sure to what it was tied. If it was
+an original brand it wasnt a good one. It was very poorly
+constructed, it didnt have much content. I believe this game was CG
+or some similar form of 3d animation. I remember the dragon hatching
+from an egg when you start the software for the first time and the
+tacky plastic container the disc came in; but Ive been totally unable
+to find, much less identify it. I have lived in the UK my whole life
+so it had to be accessible here, though my dad used to take business
+trips to other parts of Europe, so it could have been from somewhere
+close like Spain or France. The disc was in English through I
+believe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

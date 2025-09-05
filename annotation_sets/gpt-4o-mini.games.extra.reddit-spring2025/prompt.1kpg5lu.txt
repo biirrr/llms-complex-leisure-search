@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000] RTS Game. I made a sculpture back in school in
+the early 2000s based on a character in an isometric RTS game I used
+to play a lot. I thought it was Warcraft 3 but I can't see anything
+like it. Doing a bit more research I think it might be from Heroes of
+Might and Magic but still struggling to find it. This is the best
+""""""""drawing"""""""" of its face, its got big spikey hair and its
+body is slim and assassin like and it dual wields scythes and has a
+cloak/scarf. Does anyone know what its from or am I going to be
+haunted by this forever?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

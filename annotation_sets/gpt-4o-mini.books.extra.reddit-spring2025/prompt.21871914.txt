@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Congo River. Travel narrative about a
+guy/ couple taking a barge trip down the Congo River (Africa). Read
+around 1990-1991. [s]. I am trying to find the name of a book that I
+read around 1990/91. It is a travel narrative about a guy or couple
+taking a barge trip down the Congo River. I remember him talking about
+monkeys being roasted, an entire city of commerce on board, and small
+canoes coming alongside with goods for sale. And them staying in a
+rusty hot cabin on the barge."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

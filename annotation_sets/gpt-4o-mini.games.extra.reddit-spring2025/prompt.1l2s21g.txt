@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [UNKNOWN] Trying to find this flash game like title..
+Hello Everyone! Hopefully everyone is doing great today. Just want to
+find this pc game I played in the early or mid 2000s=KI am not sure if
+it is a rocket or a spaceship but the game is about a family that
+lives inside this spaceship or rocket and every member had their own
+room. You use a lift to go to each room and can interact with the
+objects inside each room. I remember them having black hair. I think
+there was mom, dad teenage daughter and not sure if a pet or not. It
+was a kinda 2D cartoonish animation like almost a flash game. I also
+remember the father was a scientist and if you took the lift to his
+laboratory and tried to get inside, he would get upset and and close
+the door so you couldnt get in. If someone want to ask more, i could
+possibly give more info but I dont remember too much. Please help me
+to find it!!Thank you!! =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

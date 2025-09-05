@@ -1,0 +1,48 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][Unknown] Free text-based murder mystery game -
+restoring computer files. Platform: Web browser, free indie game;
+unsure where it was hosted Genre: Text-based, mystery Estimated year
+of release: Unsure but I played it in 2024/2025. I don't think it's
+very old. Graphics/art style: Text-based, with an interface that
+seemed a bit like an old computer file system, where you have to type
+in the name of the file in order to open it Notable characters:
+Notable gameplay mechanics: Game is presented to you as a collection
+of hidden computer files, which are mostly audio transcripts, where
+individual characters are at first presented as """"""""Voice
+1"""""""", """"""""Voice 2"""""""" etc. you can then rename the
+characters by typing in commands like """"""""rename Voice 1
+Jared"""""""". You start with only a few audio transcripts, named
+things like KTN-001-002-006, which means a scene that takes place in
+the kitchen with voice 1, voice 2, and voice 6. From there you have to
+extrapolate what other files are named (as they are initially not
+revealed); if 006 left the kitchen at the end of the scene, then
+presumably the next scene would be a file named KTN-001-002. Other
+details: The goal is to figure out what exactly happened in an old
+murder mystery case where a house was found with 12-ish dead people,
+no survivors. It starts with a transcript file detailing how a
+stranger was summoned to the house with a letter from the house's
+inhabitant, who they didn't know, where the stranger meets a large
+family. They're mysteriously killed off one by one over the course of
+about a day and a night. The player is just piecing the story
+together, not actively questioning any witnesses etc, since they're
+all dead. Spoilers: &gt;!there's some kind of paranormal force/curse
+that makes it so when a person dies, they are immediately forgotten by
+everyone else. If someone manages to remember the dead person, they
+themselves die. The stranger was summoned to the house by their
+friend, but the friend died at the very start of the game, so the
+entire house and the stranger no longer know why the stranger was
+invited. As a result, the characters panic because they think that
+strange dead bodies are just suddenly appearing around them, when
+actually those corpses are their family members.!&lt; I heard about
+this game from a tumblr post and played it but stupidly didn't
+bookmark it... any help re-finding it would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[psp] [2009+] maybe a fate game in psp unsure what is about
+possibly an rpg or vn. Maybe something about fate? That character
+looks like one of the characters I've seen before but I'm not pretty
+sure, i might say this is from psp by the controls tutorials up there,
+very similar to other ones i saw on another game Found this screenshot
+by an old chat of one of my friends, and I'm sure the character there
+was one from fate saga, but i don't really have much explanations
+about this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

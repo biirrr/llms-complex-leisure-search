@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1999 - 2005] Racing gaming. There is a game that i
+used to play as a child in my parents PC, i cant remember any useful
+details more than, it was an arcade like racing game, with time
+attack, and i think it as a pc only game, the game cover or/and the
+icon had an Car jeep like with Flame Decal on its side."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

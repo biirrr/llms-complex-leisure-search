@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book that might be YA. Secret poisonous garden, plane crash,
+mild spice??, on a farm for displaced women who come and go. No one
+can touch the main girls skin bc she became poisonous bc of the garden
+(kinda like in shatter me). I read this a while ago, and it starts
+with a guy who hurt his leg by crashing his plane, and he's not a
+pilot anymore. Switches to a girl whose mom died bc she ate a
+poisonous mushroom, and she takes care of her dad's farm and runs it w
+other women who work for food and bed. She takes care of a poisonous
+garden, and she never lets any guys get too close or anyone touch her
+skin. Fast forward a little, and she and the guy meet again. They knew
+each other in high school and they practiced mild ✨️spicy✨️ as
+friends. Go back to after they meet again and he loves her and then
+she does ✨️spicy✨️ so he can see her since he can't touch her and I
+think he lost his sense of feeling physically bc of the crash. I
+really wanna read this over but I can't remember what the name is."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Dystopian novel with female protagonist who undergoes
+training in simulations. 2015-2018. Possibly Spoiler.. Hello, thank
+you for looking at this post. I believe I read this book between
+2015-2018. The book features a teenage female protagonist who
+undergoes simulation training of some sort. I barely remember the
+plot, but I do remember a specific scene where in the simulation,
+they're in a disaster and the main character has to decide who lives
+or dies by throwing them into the ocean below. She makes some snap
+decisions based on appearances of who can swim, even though in the
+simulation, you can read each person's ""bio-data"". When the
+simulation is finished, she is praised by her instructor for her quick
+thinking and does the best out of everyone in her cohort. I also
+remember a romance element with an ""outsider"" male love interest.
+There is also a meeting in a coffee shop towards the end. Any help is
+much appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

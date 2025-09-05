@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][early 2000s]The short sound effect thats played
+at the beginning of this song. My boyfriend heard this while I was on
+tiktok, and has since been trying to identify where this sound effect
+is from. His immediate thought was ape escape 1, so he emulated
+1,2,&amp;3 and couldnt find the sound in there. He thought super
+Mario sunshine as well, but cant find the sound. I made a screen
+recording repeating it so that we could listen to it on repeat lol.
+Any help would be great!!! I wasnt sure what subreddit to go to, so
+let me know if I need to post in a different one :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

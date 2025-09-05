@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] Similar to Frogger, blue cat instead of frog,
+multiple levels. **Platform(s):** PC **Genre:** arcade **Estimated
+year of release:** 1990s or early 2000s **Graphics/art style:**
+Cartoon **Notable characters:** Blue character, probably a cat
+**Notable gameplay mechanics:** Similar to Frogger, has multiple
+levels **Other details:** The main character is blue (probably a cat),
+moves on squares and dodges moving objects. The first level starts on
+a picnic where you can pick up some power-up that makes you invincible
+for a few seconds, and at the end you go into one of yellow/orange
+trapezoids. Another level is desert and you dodge tumbleweeds. There
+is a construction site on another level where you dodge construction
+workers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

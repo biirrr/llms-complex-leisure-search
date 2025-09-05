@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography of cult survivor. [s]. I am unsure when I
+first read this book but I think it was published in the early 2000s
+based on details I can remember from the book. Was the story of a
+woman leaving a cult ( I think it was the Family/Children of God but
+could be mistaken ), and taking her children with her. I think she had
+four children, and the book detailed both her upbringing, and her plan
+to leave, I remember a part where she managed to leave for the day in
+order to go to a book shop and get some literature, and came back and
+then discussed with her close friend the literature she had found and
+their future, it was this which was the catalyst for her leaving.
+Would be grateful for any suggestions as this is driving me nuts!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

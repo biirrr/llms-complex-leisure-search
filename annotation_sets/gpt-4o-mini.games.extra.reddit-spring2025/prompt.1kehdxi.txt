@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2002~] air combat planes that bent in half to enter
+hover mode, 3rd person, 3D. Hello all, **Platform(s):** I played it on
+PC **Genre:** semi-arcade air combat 3D **Estimated year of release:**
+2000 to 2010, 2000 to 2005 is my best guess of when I played it, no
+idea the actual release date, but it's no lower than 1995, graphics
+become too simple before that. **Graphics/art style:** it was as
+realistic as possible for the time **Notable characters:** you were a
+sort of trainee or cadet, you had a wingman teacher plane that told
+you how to fly, enter and exit hover mode. **Notable gameplay
+mechanics:** when you entered hover mode, the plane broke in half, the
+cockpit aimed downward , and the back of the plane also aimed
+downward, they basically transformed but I avoid that term to not fall
+in the Transformers void. **Other details:** I vaguely remember it
+happening in an arid/desert area yellow/brown tones for the
+environment, I also vaguely remember it was a demo, I couldn't get to
+do much, possibly a timed demo. There is a slight chance it was a tech
+demo or concept demo and it never got a full release. Games I have
+come across and are not the game I'm looking for: Yager, Strike
+Vector, G-Police, Crimson Skies, H.A.W.X., Terminal Velocity, Project
+Wingman, VTOL VR (lol there was no concept of VR back then) Fury3 I'm
+going a bit crazy trying to remember what it was called."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

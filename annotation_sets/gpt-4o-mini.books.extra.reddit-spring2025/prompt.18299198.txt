@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non fiction, author is a podcaster [s]. I am trying to
+figure out the title of two books I have never read. They are books my
+partner mentioned he wants to read and I would like to surprise him
+with them as a gift. If I ask him the name, it will give away the
+surprise. Here is what I can remember of them: - Written by an author
+who also has a pod cast show - At least two of them (same author) with
+similar titles - Title longish, at least 4 words or more - Non fiction
+- Believe they were published within the last 5 years, possibly a
+little bit older. - Based on his interests, I would guess sub-genre
+might be science or humor but not sure on this. I will keep racking my
+brain and surfing listopias but if anyone has any suggestions, it
+would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

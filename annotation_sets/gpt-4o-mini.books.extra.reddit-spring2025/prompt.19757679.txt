@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction history book about news broadcasts/local radio
+and tv broadcasts during major historical events. [s]. I'm looking for
+a non-fiction book that was published between 2016 and 2018 (though it
+may have been published in 2015). In the book, the author transcribes
+real local radio (and possibly TV?) broadcasts from the day major
+historical events took place. One example I saw was from the day of
+JFK's assassination, and it opened with an ad for...something. Also,
+the book was written like a script. I hope that's enough to go on.
+This has been driving me bonkers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

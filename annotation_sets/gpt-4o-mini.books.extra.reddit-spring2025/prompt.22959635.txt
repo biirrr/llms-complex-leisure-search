@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book about a Asian version of Cinderella.
+The story has the same Cinderella storyline. There is a big ball and
+the stepsisters go to the ball and tell her to stay at home. She does
+end up going in disguise with the beautiful clothing and the prince
+asks her for a dance. Later she meets the stepsisters there who
+compliment her (unaware it is her) and she gives them oranges/fruit.
+The next day when they are home they tell her about a beautiful lady
+who was there (her) and eat the oranges. it is a children's picture
+book and the drawings are vivid and fill up the pages. The dresses had
+a Asian style but not sure about anything else. *an Asian version of
+Cinderella"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

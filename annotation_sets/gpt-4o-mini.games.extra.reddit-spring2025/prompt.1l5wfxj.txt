@@ -1,0 +1,50 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Between 2010-2015] [2D platform game]. Please help,
+Ive been looking for this game for years. I played this on PC, and I
+remember how my brother had the exact same game, more specifically, it
+was on a laptop. This game was a 2D platformer. It was very similar to
+Mario. The look of it is like the image, but the camera wasnt that
+far away. I remember playing this around 20142015, so I think it was
+released sometime between 2010 and 2014. This game had a really unique
+style. It looked kind of 3D, but with 2D gameplay. By this I only mean
+the graphics, not the camera movement. I found a game that looks
+really similar to the one Im looking for, its called Zack Zero. That
+game has a very similar look: the 3D background and the platforms
+remind me of it. The game also looked a lot like Ori and the Blind
+Forest. Imagine the color scheme of Ori, but mixed with the graphics
+of Zack Zero. The main character was a fox. It was a semi-realistic
+fox, I mean an anthropomorphic character. And it had an adventurer
+hat, something like Indiana Jones. Im not completely sure it was a
+fox, but it looked orange. That fox was the only character in the
+game, and I dont remember any enemies. This was a pretty simple game.
+You only had to jump, but there were things that could kill you. I
+remember drowning, stepping in acid, or falling. You had to walk to
+the right or left depending on the level. You always started on the
+right, and could go down or right as you advanced. I dont have many
+memories of the game, but I remember some levels in detail. Like this
+one: a desert-themed level. You started walking right, and as you
+advanced, you had to go down. Then you walked left. There was some
+green acid dropping from the roof, and there was more acid somewhere
+around the map. After walking further, you reached a cloud you had to
+jump on. Then there were more clouds, and you had to jump down using
+them to reach the lower-right part of the level. I never got past that
+stage. The second level I remember was a night level. You had to jump
+across platforms over water. If you fell, you lost. The third level
+was just a platform level. You had to jump between platforms to go up
+or something like that, and if you fell, you lost. (That level looked
+pretty similar to the image, with the difference of the platforms
+being orange-brown, and the background being black, or dark) Things
+Im not 100% sure about: """""""" I dont really remember any enemies,
+but theres a chance there were some. Im sure there were no fighting
+mechanics like in other games. """""""" Im not 100% sure the main
+character was a fox  I only remember the orange color."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

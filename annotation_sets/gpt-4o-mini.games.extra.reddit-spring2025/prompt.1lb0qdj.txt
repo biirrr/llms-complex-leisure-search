@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console][2000s] a game with a blue dude (I think) and its a
+sidescroller with old sega graphics and it had a killer soundtrack.
+The main guy you control wears black and he's blue of course I
+remember he looked like cad bane and it was a time travel game or it
+was similar but I remember it was pretty hard and had like a main hub
+area where you walk through like doors to get to the levels"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

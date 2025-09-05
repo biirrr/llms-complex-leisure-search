@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] Top-down pixel game with tribal protagonist,
+item progression, and maybe permadeath. Platform(s): PC (likely MS-DOS
+or early Windows) Genre: Action-adventure, Zelda-like Estimated year
+of release: Sometime in the 1990s Graphics/art style: Simple pixel art
+with grassy environments, cliffs or hills you couldnt access until
+you had the right item Notable characters: The main character was a
+tribal or Native-inspired figure, bare chest, possibly darker skin,
+with no obvious armor Notable gameplay mechanics: ÏTop-down
+perspective ÏOpen-world exploration ÏCollected items like a bow to
+access new areas ÏI think dying made you start over? Possibly no saves
+or permadeath Other details: I vaguely remember the game having the
+word Legend or Legends in the title The main menu or box may have
+shown the title on a scroll My mother and I used to play it together,
+so its a very nostalgic game for me but the memories are very fuzzy.
+It's possible I have combined details with other games we played I
+haven't seen anyone mention it in years, and Id love help identifying
+it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

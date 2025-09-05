@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mid 2000’s Children’s book about a young boy who goes to
+stay with his elderly relatives who are part of a pensioner bank
+robbing gang. [s]. I read this book when I was in primary school so it
+can’t have been published after 2012. It was about a young boy who was
+an orphan and got taken in by I think his elderly aunt or aunts. He
+had to go to theirs on the train by himself to get there and packed
+his computer in his case (he was obsessed with his computer). They
+pick him up from the station and take him to their house and it’s a
+huge old house. They have a group of elderly friends and have secret
+meetings downstairs. The boy sleeps in the attic and sneaks downstairs
+one night and listens at the door to hear what they’re talking about
+but gets caught by one of the old men. It turns out that the old
+people are bank robbers who give the money they steal to charity/the
+community/fundraisers. The antagonist of the book is a man who drives
+a rolls royce, I remember that vividly and it might have been on the
+cover of the book. One of the friends is super smart and sets up a
+booby trap in the garden that the boy sees during the night when he
+sneaks out and he gets scared because he thinks it’s an animal with
+red eyes coming to get him. He also spends some of his time climbing
+and sitting in trees in the forest by a lake or river. I’ve been
+looking for this book for years and can vividly remember so much of
+it, even how I visualised it while reading but can’t for the life of
+me remember the title or author. It was for older kids and the cover
+was a cartoonish drawing but professionally illustrated. I’ve searched
+all over google with no results. I’m pretty sure it was set in Britain
+and I went to primary school in England, maybe it wasn’t published
+elsewhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

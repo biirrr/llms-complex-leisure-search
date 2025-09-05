@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unkown] Trying to find a game I saw in a video essay.
+Awhile back I watched a video essay on a game, which I can no longer
+find the video nor name of the game. It was like VRchat, except it was
+desktop and all the rooms were black and white. Also, every sprite was
+2d and flat. Whenever youd join a room the game would pick your name
+and your appearance for you. I also distinctly remember you werent
+able to type, and every other person playing was fake. I think you
+couldnt make an account and had to play as a guest. It may have been
+apart of an ARG."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

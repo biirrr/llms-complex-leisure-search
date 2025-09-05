@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "British Children's novel (Sci-Fi?) about a strange new girl
+at school who is an alien with supernatural powers. Read around
+1995-2000.. British children's novel (sci-fi?): Strange new girl
+starts at a primary school. The main protagonist is a boy who, along
+with his friendship group at school becomes friends with the girl,
+then they find out she is actually an alien and has supernatural
+powers - I think either teleporting or telepathy is specifically
+mentioned in the book. The kids were aged around 10 or 11. There is a
+bit in the book where the kids are talking about school dinners and
+one boy makes a joke about rolling the jam roly poly around the
+playground, and the girl does not understand the joke. I read this
+probably between 1995 and 2000. I believe the book is called something
+similar to ""Over the Hills and Far Away"" and I think the cover may
+have had a landscape scene of hills. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

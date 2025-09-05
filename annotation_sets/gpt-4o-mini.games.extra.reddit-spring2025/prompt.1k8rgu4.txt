@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360] [2007~2015??] Sandbox game where you go around
+islands with dark blue armor and you can kill people and stuff. You
+also have lightning powers.. ive been racking my brain for so long i
+need to figure this out so bad its like this game where you could
+fight people and theres this dude that talks to you over radio every
+now and then and says funny stuff when you're fighting people. focused
+primarily on different guns from the ppl u could fight but there were
+superpowers u could get like jumping super high but it was primarily
+based on like weapons and it was slightly futuristic and set in a big
+city. remember playing it when i was like 8"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

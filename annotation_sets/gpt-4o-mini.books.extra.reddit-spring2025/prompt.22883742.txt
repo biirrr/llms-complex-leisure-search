@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA novel about a homeless or runaway teen girl who gets
+pregnant from the late 1990s. [s]. I am looking for a book I read
+sometime in the 90s, most likely sometime after 1995. It was about a
+girl who was either a runaway or homeless. She has two male best
+friends who are a couple. She decides she wants to get pregnant so she
+sleeps with both of them at the same time so they can’t tell who the
+father is. I don’t remember their names but they were uncommon or
+possibly nicknames. There was drug use I’m pretty sure. I don’t think
+it was ever banned but I feel like it was a pretty controversial book
+or on some “don’t let your kids read this” list. It’s driving me batty
+that I can’t remember the name of it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

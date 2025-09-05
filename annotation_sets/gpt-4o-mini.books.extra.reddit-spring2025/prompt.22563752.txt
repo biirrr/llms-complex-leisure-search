@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance. Heroine and friends kill rapist
+teacher and she later marries but her husband finds out she's not a
+virgin and makes her wait to consummate the marriage. Read around
+2021.. I didn't read this book, only the summary and some reviews
+years ago but hadn't wanted to read anything potentially violent or
+triggering at the time so I ignored it but now I want to read it and
+can't find it anywhere. I'm pretty sure the heroine's friends bury his
+body and they all vow to never speak of it, she gets married years
+later and her husband doesn't want to consummate the marriage because
+he doesn't want to be tricked in case she's pregnant with another
+man's child so he makes her wait until she gets her period."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2019-2023] NSFW RPG game. [PC] [2019-2023] NSFW RPG
+game about a female protag going inside a cursed dungeon where she
+fights off slimes in the ground floor but going to the left has some
+tentacle things roaming around, and then she goes deeper into the
+dungeon where she'll meet different kinds of monsters like worm like
+creatures and goat human hybrids? iirc it has multiple endings like
+one of them she gets out of the dungeon but got possessed by the ghost
+girl she met at the start. One of the final boss fights there she
+turns into something like a valkyrie and fought that same ghost that
+got corrupted or something?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

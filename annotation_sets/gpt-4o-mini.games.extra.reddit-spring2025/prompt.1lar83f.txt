@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] Puzzle game about stepping on squares in
+sequence with your traveling archeologist adventurer MC. Platform(s):
+PC Genre: Puzzle Estimated year of release: Maybe like 2000-2011?
+Graphics/art style: Isometric, 3d, animated style a bit like Hello
+Neighbor Notable characters: Main character is an adventurer, I think
+has a pet parrot or something Notable gameplay mechanics: Step on
+square tiles in sequence, because they break or flip Other details:
+The name of the game I think included the main character's name... and
+he's a generic traveling adventurer archeologist type. But it's purely
+a level based puzzle game about sequencing the grid so every tile is
+stepped on one time by your character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

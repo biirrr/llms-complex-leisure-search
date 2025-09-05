@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction about a couple who died in car accident after
+wedding and Jewish mother of bride navigates aftermath including
+funeral and graves. I believe the author is Jewish based on author bio
+and her husband is also an author. The young married couple who die in
+the book have a car accident while leaving their wedding due to sun in
+eyes. The deceased bride liked to swim and the mother finds her bag
+with her swimsuit in her room. I believe the mother wants to use the
+maiden name of her daughter on the gravestone and not really
+acknowledge the wedding to the husband of a different faith because
+we're only married for minutes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

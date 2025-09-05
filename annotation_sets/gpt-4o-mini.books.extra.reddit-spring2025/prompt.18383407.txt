@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Haunted By This Book :: essays by female author; one is
+about how time doesn't exist; another great one is about beavers [s].
+This book is a series of essays by a female author. The first essay is
+about how time does not exist. Then the essays become more concrete,
+most of them on reflecting on the natural world. There was a great
+essay about beavers. A few sparse illustrations were littered
+throughout the book. I am guessing the book was published in the last
+5 years. Any help would be greatly appreciated. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2012-2014] Android game with a title like Knights v
+Orcs. I believe it was a wave-based game where every few seconds, Orcs
+would walk onto a field on the field there were lanes which you could
+place a knight to counter the Orc, I think there were multiple classes
+of knight and orcs and the player would have to drag and drop a
+certain type of knight to counter the orc. They had archers, footmen,
+heavy knights, Orcs, Giant Orcs, and slinger Orcs. I remember there
+being an exlir bar or coins, a bit like Clash Royale, to afford
+certain types of knights. I believe it was only single-player, but it
+was on Android and Fire tablets."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

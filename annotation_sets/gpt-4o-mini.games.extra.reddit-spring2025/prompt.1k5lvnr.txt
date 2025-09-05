@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90-early 2000s] Typing Tutor with ASCII graphics and
+Blue and Green Color Scheme. I'm fairly certain the program was called
+Typing Tutor, but it has a few distinctive features. \- ASCII/Command-
+line looking graphics \- Primarily blue color scheme with green
+accents for text boxes \- Incredibly bare-bones program, with options
+for learning or test-taking. There may have been games as an option,
+but I don't remember using them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

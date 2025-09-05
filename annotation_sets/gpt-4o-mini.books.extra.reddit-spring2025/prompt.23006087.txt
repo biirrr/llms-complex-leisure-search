@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction? Girl finds homeless man and decides
+to help him but gets caught. Cover: Woman with black hair maybe a
+black bob with bangs as cover with bright red lipstick. Read around
+2005-2010.. I read this book around 2005-2010 maybe. It's about a girl
+who finds this homeless man and she decides to help him but gets
+caught so his mom offers him a place to stay. The young girl is
+falling for this man and think he is falling for her as well but one
+day she goes to the movies with him and her mom when she leaves to go
+to the bathroom she's watching them and realizes that the man fell in
+love with her mother instead of her this whole time. I remember the
+cover was a women with black hair a really bright red lipstick. PLSSSS
+HELP ME FIND THIS BOOK ITS BEEN YEARS"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii U] [2015-2018] a noir horror puzzle game.. Hello, this
+is my first time posting here, but I need help finding this Wii U game
+I saw on the 3DS store. I only saw the trailer, but I can describe it
+like this. It was a black and white game(noir). It started with a guy
+walking to the couch in a plague doctor uniform. He didn't say
+anything as he pulled out a Wii U controller and then switched to the
+gameplay, which had puzzle elements mixed in with slight horror
+elements. I don't remember much else. I've tried looking online for
+anything from Nintendo about this and got nothing in response. I would
+like to know what this game is. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

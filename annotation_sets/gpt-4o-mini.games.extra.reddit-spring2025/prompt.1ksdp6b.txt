@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox or ps3] [2010-2015] 2D you fight enemies every level,
+you can get an animal companion that floats next to you, dark color
+scheme. Platform(s): xbox or ps3? Genre: don't know Estimated year of
+release: 2010-2015, maybe a little older Graphics/art style:
+dark/gloomy color scheme, 2D, I think side scrolling? Characters are
+very stylized, vaguely amongus shaped. Characters all look kind of the
+same. Old, maybe like knights or something, had villages with wooden
+buildings Notable characters: player character fights enemies/boss
+fight every level. You can get an animal companion that gives you
+different bonuses depending on the animal, you can go back and switch
+animals. The animal is circle shaped and floats next to your character
+Notable gameplay mechanics: player character is on a quest, you fight
+enemies every level/location, it might have the option to be two
+players, I can't remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

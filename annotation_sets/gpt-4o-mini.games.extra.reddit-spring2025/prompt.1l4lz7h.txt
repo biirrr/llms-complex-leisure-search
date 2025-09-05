@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010?] Farming game. Platform: Windows, probably
+browser game Genre: farming game Estimated year of release: before
+2014 Graphics/art style: 2D isometric game Notable characters: none
+Notable gameplay mechanics: The main technique I remember is that you
+have to select the seedlings, plant them, and then
+""""""""shoot"""""""" water from a tap toward the crops. The further
+you progressed, the better you could upgrade the tap to shoot more
+water. I remember you could plant cucumbers, tomatoes, and lettuce. I
+know it's pretty vague for a game of this style, but I feel like the
+tap mechanic could make it more recognizable."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

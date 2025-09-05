@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC or mac] [early 2000s] Pixelated possibly educational
+exploration game with young girl and boy. Platform: Could have been
+PC/Mac Genre: Kids' pixelated game, perhaps with an educational twist,
+could be math but not sure. Estimated year of release: I played it
+around the year 2003-2009 maybe. Possibly it was a bit older.
+Graphics/art style: pixelated and bright, moving from left to right
+game play, it was an adventure game and I think you had to jump over
+little waterfalls and rock walls and things. Notable characters: I
+think a young girl and a young boy, possibly siblings, pixelated, she
+may have had a dark bob, kind of looked like Dora the explorer but
+definitely not related. Notable gameplay mechanics: arrows to move and
+jump Ive been looking for this forever, bright pixelated coloring,
+grass,little rock walls and things you have to jump over, was probably
+educational, maybe math based."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

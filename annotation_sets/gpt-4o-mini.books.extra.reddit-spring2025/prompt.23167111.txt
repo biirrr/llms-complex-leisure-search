@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Greek & Roman Myths, legends and origins. Read around 2004..
+Genre: The book is a nonfiction book ( possibly academic) containing a
+collection of the complete Greek and roman myths and legends on gods,
+Demi-gods, heroes and people in Greek and roman myths. The reading
+format in the book goes name of God, Demi-god, hero ,person with their
+various alternate names and title. It then goes on to refer to their
+alternate names and titles and goes into the various myths and stories
+associated with them and their background along with quotes from
+classics books from Ovid, Hesiod and other writers and including Greek
+words. It includes interesting facts about the history behind various
+geological locations in Greece and Rome and their mythological origins
+and the history behind their names. It also gives useful facts about
+the rituals of worship of the various gods too. It would practically
+be a reference book of the mythological history behind Greece and Rome
+It is about A5 size maybe slightly bigger and is a very thick book I
+read this book around 2004 though it may be a little older. And here
+is something I am certain the illustration on the book cover shows a
+famous painting by the artist Bellini, Titian showing Bacchus and
+Ariadne. Not the full painting exactly but a part of the painting
+where Bacchus is leaping towards Ariadne and containing the crowd
+following him musicians, animals, satyrs, dancers etc. (see link below
+for painting to examine) https://en.wikipedia.org/wiki/Bacchus...
+Please help me if you can I loved this book and would appreciate
+anyone's input and help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

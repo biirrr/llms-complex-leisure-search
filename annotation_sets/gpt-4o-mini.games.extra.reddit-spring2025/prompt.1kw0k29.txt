@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2012] 2D Gloomy puzzle game. Solved: Alchemia
+Platform(s): Most Likely PC only Genre: 2D puzzle game Estimated year
+of release: Graphics/art style: A bit like machinarium, industrial,
+but much gloomier Notable characters: your character is being
+portrayed as small, maybe it was a human, maybe a small robot. Right
+at the start of the game there is a character that dies by crashing
+and in my memory it resembled a bird (perhaps a crow), or maybe a
+spacecraft like a UFO or a Blimp. The ghost of the character dying
+follows you and you help it. (It may blame you for their death too,
+but I'm not sure) Notable gameplay mechanics: It's just a puzzle game.
+You click levers and cocks and you click to move as well. Other
+details: I played this once or twice when I was little. This was maybe
+2010s, but perhaps earlier than that (2005-2008) But somehow it stuck
+to me, because it was so gloomy and depressing. All help is
+appreciated! It's all just vague and this is a shot in the dark.
+Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

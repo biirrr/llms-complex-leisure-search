@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-Fiction. Biography of a married Japanese woman who
+works as a water meter reader. Read late 1990's. Spoiler.. I read this
+book for one of my undergrad classes in the late 1990's. It was a
+biography about a Japanese woman and tells about her life. She is
+married (late in the book it mentions she had an affair). At one
+point, she participates in a festival (parade) of some kind. Seems
+like she helps carry something (it's really heavy) along with several
+(many) other people (maybe all women but I don't remember). Her job is
+water meter reader."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

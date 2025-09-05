@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][1997-98] Demo disc, a preview/trailer about a game
+that involved mining in outer space.. This is an intersting one, as I
+not only want to identify the game, but I want to track down a
+specific preview video I saw of it as well. I had a few PS1 demo discs
+circa 1997-1998. The game I am thinking of was I believe an unplayable
+demo or preview/trailer on one of the discs. It was set in outer
+space, and the voiceover said something along the lines of
+""""""""***War has broken out over mining rights on two of {planet's
+name} moons***"""""""". From research it seems **G-Police** is a good
+bet, with **Descent** &amp; **Colony Wars** also possibilities. [I
+found this intro video for
+G-Police](https://www.youtube.com/watch?v=a4FrYesnQKY&amp;t=60s) which
+seems to describe the plot i'm thinking of, but doesnt use the exact
+wording that I have in my head. I mean, it has been close to 30 years
+so this could be it... but figure it was worth a shot here!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

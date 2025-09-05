@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ New Adult fiction. Starts with murder scene. Cuts to
+female lead going on a cabin trip with best friend, awkwardly sees her
+ex (friend's brother) at gas station but a stranger pretends to be her
+boyfriend. Read around 2016-2017. Spoilers.. I would say I read this
+book around 5-6 years ago and it starts with a murder of a girl and
+then cuts to the main character who is going on a weekend/vacation
+trip with her best friend to the best friend's family cabin in the
+woods. They go to a gas station to pick up snacks and run into the
+best friend's brother who the main character had dated and broken up
+with, she feels really awkward but then a handsome stranger in the gas
+station pretends to be her boyfriend so she won't feel weird around
+her ex. The stranger says her name so she is very confused and then he
+points out her name is either on her license plate or somewhere on her
+car (I can't quite remember) The main character and best friend then
+go to the cabin and then eventually the best friend's brother (main
+character's ex) shows up. The main character eventually learns that
+the brother/her ex is the serial killer that killed the girl in the
+beginning scene and tries to shoot him but he makes a comment about
+how many people do not realize how easy it is to miss shooting someone
+with a gun even if they are close. The stranger from the gas station
+ends up coming to the cabin and saves her and it is revealed that the
+girl murdered at the beginning is the stranger's sister. The stranger
+and the main character end up together and there is a large emphasis
+on this necklace that the stranger's sister had."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

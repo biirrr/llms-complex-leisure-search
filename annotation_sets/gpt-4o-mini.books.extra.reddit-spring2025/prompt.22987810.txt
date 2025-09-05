@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA (Teen) Romance. Guy and girl fall in love in an empty big
+city, he offers her (stranger) a ride in his car. Spoiler.. Read this
+probably a few years ago, seemed fairly new at the time. I also
+remember there being something about like, gum stuck to the passenger
+seat of the guys car, and it being shaped like Italy. I don't remember
+where it took place, but I do remember it being a big city. And when
+the guy gave the girl a ride, they were pretty much strangers.
+Possibly having seen each other at like a music store or book store or
+something?? I might be getting that mixed up with something else"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

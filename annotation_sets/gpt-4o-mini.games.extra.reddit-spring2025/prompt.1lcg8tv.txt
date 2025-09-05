@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s-2010] Racing game unaffiliated with major
+brands, car parts could break. This might be a long shot but I
+remember playing a racing game on PC (had to use a CD for it) back in
+my childhood where a central mechanic of at least the mode I would
+play was your car taking damage and needing repair in a sort of
+campaign of races you could try to undertake. If your car took too
+much damage and you couldn't replace or repair it, you'd need to start
+over, and you would look over damage and parts and such in a garage. I
+don't think it was associated with any of the major racing games or
+brands (as much as I could be wrong) but I can't remember the name or
+find the CD right now. I could probably recognize it from a photo of
+the garage itself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

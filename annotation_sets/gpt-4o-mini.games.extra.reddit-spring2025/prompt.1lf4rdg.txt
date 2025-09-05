@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s]A sci-fi FPS game. Platform(s): PC Genre: FPS
+Estimated year of release: 2000s Graphics/art style: Source engine
+like but not sure Notable characters: can't remember Notable gameplay
+mechanics: You start on a space ship, has to do some repairs, then
+dropped down to a planet, an iconic weapon I remebered was a gatling
+rifle, it's an assault rifle but has multiple barrels. Other details:
+That's all I can remember, maybe, just maybe, it has 'crisis' in the
+name Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4] [unknown] Game where you played as 2 children and had
+to switch between characters? (A girl and a boy). Hi! This game was my
+whole entire personality. I would say I played it 2016 to 2018? I only
+remember some of it, so let me describe it. It started with a robot
+voice saying good morning to you, you spawn in a pod like area
+presumably in space. (Same for both characters I think) then you play
+through that,rest is blank for me except one scene. This scene you
+presumably are in a heaven like state, with a sort of goddess in the
+background. Honestly, I think it was on This is probably impossible
+but this game has so much nostalgia for me.="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

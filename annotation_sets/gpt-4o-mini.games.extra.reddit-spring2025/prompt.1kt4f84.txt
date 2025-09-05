@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] - Top-down puzzle platformer with an
+alligator/corc protagonist. Hey, I'm looking for a childhood game I
+got on a demo CD from a magazine. Even tho I played it a lot I never
+heard of it since, google doesn't help and people I grew up with also
+can't recall it. Platform(s): PC Genre: Platformer/Puzzle Estimated
+year of release: Most likely early 2000s Graphics/art style: Cartoony
+if I remember correctly. A bit similar to Nintendo art style or worms
+3d. Notable characters: Besides monsters and obstacles there was only
+the main character. I think it as a crocodile or an alligator, maybe
+some other type of a green lizard. Notable gameplay: I think the goal
+of the game was to collect something or get to the exit - I'm not
+sure. Mechanics: I think there was some basic mechanics of traps and
+fighting monsters, maybe one use abilities. Other details: I remember
+the intro movie or a main menu depicted this green character playing
+on an electric piano. Similar games: It's not Gex nor Croc. Gex was a
+2d platformer and Croc was 3th person platformer. This game had a top-
+down view - probably with a slight angle"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

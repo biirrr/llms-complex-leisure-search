@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Short Story, female US author, romance /parody, early
+20th C. Woman moves to big city (NY?) to take publishing? job. Dries
+hair on apartment building roof, male neighbor advises her on proper
+urban hygiene. Turns out he's her landlord & boss.. Think I read it in
+the last 3 years, but believe it was written after 1900 and before
+WWI."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

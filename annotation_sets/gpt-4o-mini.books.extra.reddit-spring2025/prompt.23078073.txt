@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance/ Thriller about a woman who saw a crime as a
+child and lives in a hugh security house now. I read a book, I think
+maybe 5 or so years ago now but I don’t think it was new, it started
+off with a girl who I think went out underage clubbing with a friend
+who had a fake ID. They met a couple of men, who took them back to
+their house in a car. I don’t remember when happened then, but I think
+the girl fell asleep? And then she woke up and saw them kill her
+friend. I think the men were part of some sort of mafia group or
+something. They then noticed her so she ran, I think barefoot and
+through water or something, and she escaped them. Then I’m blanking on
+the bit after that, but it then skips to her as an adult, she lives in
+a house in some woods, and her house has loads of security and cameras
+I think that alert her to when someone passes the boundary line.she is
+scared still they are looking for her. This man comes into the
+picture, I don’t remember why he goes to her house, maybe to deliver
+something? But they become interested in each other romantically after
+some time, and I think she ends up telling him what she saw. And I
+thinkkk that the media men might have come for her? There’s a lot I’m
+not sure on, but this is the gist of it. Have you any idea what it
+could be? I remember really enjoying it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

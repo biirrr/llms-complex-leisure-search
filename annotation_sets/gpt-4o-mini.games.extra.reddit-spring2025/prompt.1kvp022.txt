@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][IDK]Can someone help me find this game?. Okay! so i
+remember watching a playthrough a while back it was from either
+jacksepticeye or markiplier i cant remember. All i remember was that
+it was kind of pixelated and it was about a group of friends going to
+explore this old train station or hospital (also cant remember) with
+like glitches in reality. They all were separated at some point and
+someone was taken to this like bigass tree with some monster lady. And
+i remember them being at a waterfall at the end when they got out.
+PLEASE HELPP ive been trying to find this game forever"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

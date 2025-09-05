@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2000s] flash game rpg. Player looked something like
+this. You could customize the character by being able to select 2 of
+its main colors. I think the orange/red as drawn was
+""""""""default"""""""", but i had mine set to blue and white. It was
+an rpg. You progressed through different levels formatted like
+""""""""Forest Path A"""""""" I think. I cant remember if combat was
+turn based or if you just kind of auto attacked. There were drops
+specific to levels. Like you could only get the chance at a specific
+crown at a specific level. Equipment was I think just headwear and
+wands? Maybe sword/staff as weapon, idr. Maybe neckwear as well. I
+want to say """"""""Sky"""""""" was in the name? I've been digging
+through Google with no sucsess."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Hilarious Scene of Protagonist's pantyhose malfunction [s].
+Clues: story set in No Cal or Pacific NW; female protagonist is a
+professor or writer by trade; her husband is an environmental
+scientist; she uncovers a crime being committed by her husband's
+employer; there is a hilarious scene in which she is at a cocktail
+party for her husband and her pantyhose begin to fall down and she
+can't stop them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

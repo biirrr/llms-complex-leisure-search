@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s, early 2000s] A racing game with cars that
+shoot each other as they race each other. Hi there, I'm looking for
+game I used to play as kid in the very late 90s, early 2000s. AFAIK,
+that was a racing game seen from top, so you could've seen your car
+they looked like toy cars(?), immediate surroundings and others. In
+this game, you could have on top of racing various pickups of weapons
+using to shoot other cars (controlled by computer) or vice versa. The
+tracks were all different and each had their own twists and hazards
+like oil spills and such The graphic was 3D and rather colourful, but
+nothing too fancy. I wish I had more, but this is it. Any suggestion
+helps EDIT: After some suggestions and branching out searches from
+there, it appears what Im looking for is similar in concept to Death
+Rally"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

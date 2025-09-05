@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s, early 2000s] A platformer-ish game with a
+cat-like character. Hi there, I'm looking for game I used to play as
+kid in the very late 90s, early 2000s. AFAIK, that was a platformer-
+ish game with a cat-like character and you can only run from left to
+right. The platforms were of various heights and going up the screen
+sometimes, but you could always run left to right. The character,
+again AFAIK, was a cat standing on two feet/paws and overall it was
+held in a cartoony, 2D, maybe even (what today would have been
+considered) pixel art, and the first level I remember was starting on
+a beach?). I wish I had more, but this is it. Any suggestion helps"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020 or later] JRPG where you slept many years in a
+tower &amp; your mother was a dragon (I think). The intro of the game
+is you fight a purple demon with wings and later after the fight you
+fell into a slumber where you slept for many years and game resumes
+when you wake up greeted by 2 children that are watching you as you
+sleep. During the tutorial you had a vision of your mother (who was a
+dragon? if I remembered correctly) saying that she is happy that you
+woke up. That's all I can remember. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

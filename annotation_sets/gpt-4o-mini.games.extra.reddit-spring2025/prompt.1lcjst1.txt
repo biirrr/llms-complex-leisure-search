@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][90s] Vertical Shooter / Shootem up where ships can
+have a dragon as a bomb.. This is a game that I used to play some
+20-something years ago in an arcade center that I always loved back in
+the day. Basically it is a Vertical Shooter like Dimahoo (but with way
+less enemies/bullets) or Strikers 1945, but the most prominent thing
+is that there were 2 different kind of bombs, or super attacks
+that were either: * A big blue energy beam that was active for a few
+seconds (and you could move through the screen eliminating enemies). *
+A red Dragon (like a Chinese dragon or something like that) that was
+active for a few seconds killing any enemies on the screen. Thing is
+that, as much as I loved that game I cannot recall its name and
+havent been able to find anything on the web about it (perhaps Ive
+been using wrong search terms). Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

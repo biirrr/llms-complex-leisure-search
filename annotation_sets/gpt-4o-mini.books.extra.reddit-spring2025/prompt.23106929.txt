@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Chick Lit / Romance from 2010s - Woman travels to meet
+a father she has never met, she gets to inherit a property, her
+mother’s presence is required. Spoilers.. I read this book around
+2013-2015. Specifically, I had purchased the audiobook CDs from
+Indigo, so it was popular enough to have an audiobook made and sold in
+a mainstream Canadian store. (SPOILERS AHEAD) - The protagonist is a
+single woman - She has a somewhat strained relationship with her
+mother who was a bit unpredictable in her youth - She had either never
+met her father or he had left her when they were very young - She
+receives some kind of correspondence which leads her to travel away
+from her home and meet her father - There is something related to an
+inheritance and it is expected that she will inherit a house, which
+annoys the siblings/cousins she has just met - At some point they
+require her mother to be physically present, at which point the
+protagonist reveals that her mother gave up her wilds ways to become a
+nun who lives in an off-the-grid convent Honestly, some of the details
+might be shaky, but I VIVIDLY remember the reveal of her mother being
+a nun. It was a big plot twist in the story."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

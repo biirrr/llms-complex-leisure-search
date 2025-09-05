@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-Fiction book. Title: “A Time to be Born”?,
+published in early-mid 70s. Cannot remember the exact title or author,
+I can’t find it! Stories about life working with premature babies;
+some live and some don’t. Short book though. [s]. Need help to find
+this author/book combo. My mother had it when my brother was born in
+‘78, told me she had it when I was born in ‘73. I read it a hundred
+times at least. Stories written by Doctor about his time caring for
+dangerously ill premature babies from their birth onward in the
+babies’ ICU. (Don’t think is was call or referred to as the NICU in
+this book, like that department is called now.) Loaned it to a good
+friend when she became pregnant, and she never gave it back. Very
+special to me! Was a small, slender, hardcover book, with a plain
+light brown/cream/beige cover with green embossed title, in a sort of
+cursive-style font. Book originally bought in Michigan, USA. This book
+made a profound impact on me and I was heartbroken when my friend
+seemingly stole it. Life made it so I cannot have children on my own,
+so it is very important for me to find this book again to connect with
+my childhood, and my mother. You are my last hope to find this!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

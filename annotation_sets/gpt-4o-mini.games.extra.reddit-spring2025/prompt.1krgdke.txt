@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s] Top down sci-fi shooter rats in pods.
+**Platform(s):** PC **Genre:** Top-down shooter, possibly roguelike
+**Estimated year of release:** 1990 - 95 **Graphics/art style:** pixel
+**Notable characters:** possibly humanoid rats or mice piloting pods.
+I might be misremembering the rats, I have previously searched for
+Mice on Mars to no avail. **Notable gameplay mechanics:** The player
+maneuvered the pod through rooms in big complexes, shooting various
+enemies, picking up weapon upgrades and keys for doors, opening up the
+next areas. There might have been shield, and the pods had fairly
+limited hitpoints, with permadeath. Appreciate any help, trying to
+remember this game has been bugging me for years"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

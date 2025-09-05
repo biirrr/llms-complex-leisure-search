@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. A younger kid dies of an OD, our narrator, a
+teen himself discovers his best friend was selling drugs... Read in
+1990s. Spoiler.. I read this when i was a kid in the 90s. Found it in
+my school library YA or teen book about a teen navigating urban life
+avoiding drugs but in tbe end it still tears his life apart, losing
+one friend to an OD and the other to prisin"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

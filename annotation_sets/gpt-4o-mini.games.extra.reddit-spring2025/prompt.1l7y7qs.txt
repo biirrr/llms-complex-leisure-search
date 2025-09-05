@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2D] played by someone famous and around 40 episodes
+each 30 minutes long, a game about working in a big company tower and
+solving puzzles.. ok so i need help finding this game which i saw like
+years ago... i remember it starting with you being unemployed and
+being offered an interview in a big company tower, once you get inside
+people act wierd and such, almost brainwashed i think. once you get
+interviewed i think they make you a detective of some sorts, and you
+need to solve puzzles around the company and such to figure out smth i
+dont really remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

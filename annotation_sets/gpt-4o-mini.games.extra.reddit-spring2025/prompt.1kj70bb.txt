@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID][2015-2016?] game very similiar to subway surfers
+but with adultish gameplay.. I tried to follow the rules and ill try
+to explain as best as possible. basically the game was an endless
+runner game exactly like subway surfers. im pretty sure the character
+you played as was a blonde white boy and the plot of the game was
+that you were caught sneaking into the house of a girl by her dad and
+he chased you out/is the person chasing you, similar to the cop
+chasing you in subway surfers. I remember you collected cash instead
+of coins and I think the character rode a bike but im not sure. i also
+think the character was naked but it was like blurred/censored. this
+is all I really remember. thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

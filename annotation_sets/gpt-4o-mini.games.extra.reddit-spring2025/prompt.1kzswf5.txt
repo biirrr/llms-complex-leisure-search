@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2014-2018] A game about a red imp-ish character.
+Hey everyone, Im trying to remember the name of a mobile game I used
+to play between 2014 and 2018. Heres what I remember: """""""" It
+featured a small red character, kind of devilish or imp-like in
+appearance. """""""" The art style was hand-drawn/cartoonish, not 3D
+or realistic. """""""" The background was mostly white or very
+minimalistic. """""""" The gameplay was interactive, kind of like
+Clumsy Ninja or Talking Tom  I could play with the character, and it
+would react to taps or gestures. """""""" I dont remember much about
+the objective or story, but it felt more like a toy or character
+interaction app than a traditional platformer. """""""" I think the
+name might have had the word ball in it, but Im not 100% sure. I
+also remember playing the game on an iPad, so I think it was available
+on iOS."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

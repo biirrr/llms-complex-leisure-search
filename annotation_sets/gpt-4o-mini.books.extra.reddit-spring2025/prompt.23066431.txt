@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Narrator is closeted gay male in love with
+his UK boarding schoolmate his whole life. Read around 2014-2020..
+Read somewhere in the 2014-2020 range. Reader meets the first-person
+male narrator and main character during his boarding (""public"" but
+actually private) school days in the UK, where he - of middle class
+background - becomes fascinated/obsessed with his friend and friend's
+lifestyle, falling in love with him and spending the rest of his life
+trying to be as close to him as possible. He ingratiates himself with
+the friend's family, including later the friend's wife; he gets
+married to hide his gay sexuality (and divorced). There is a scener
+towards the end of the book at a large gala at the friend's estate
+that culminates in him getting into a physical fight in one of the
+areas/rooms of the estate -- maybe with a 'rival' friend of the
+host/love obsession friend; there is blood and I think police but
+don't remember if death (?). But in any case it's the end of the
+decades-long friendship (and only source of meaning for narrator) with
+the friend and friend's wife. As the reader I wanted the narrator to
+come of out the closet already (!!!!) the whole darn book, but he
+never does. I recall the book ending with him retreating to a reduced
+mundane life, kind of psychically stuck. Don't recall if the author
+was male or female - possibly, male but I am not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

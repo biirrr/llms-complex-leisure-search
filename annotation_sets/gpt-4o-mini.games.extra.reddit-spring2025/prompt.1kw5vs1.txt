@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS?][2000s?] FPS stealth game with barbed wire, alarms, and
+Welrod-like pistol. Hi! I'm trying to remember the name of a
+PlayStation game I played years ago. Here are all the details I can
+recall: - It was a first-person shooter (FPS), possibly a stealth-
+based one. - The setting was mostly foggy and inside military bases. -
+You played as a soldier or infiltrator-type character. - Movement was
+basic: forward, back, strafing  but no jumping. - Enemies were human
+soldiers, speaking Russian or German (but the game was in English).
+(Honestly, I don't remember if they spoke or not) - I think you used a
+Welrod Mk1 pistol (or something very similar). - The menu was very
+simple  two options: Start and Options, with the game title in
+white letters. (Maybe) - If you got spotted, an alarm would go off and
+the level restarted. - There were barbed wire fences in the
+environments, possibly blocking certain paths. If this sounds familiar
+to anyone, Id really appreciate the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

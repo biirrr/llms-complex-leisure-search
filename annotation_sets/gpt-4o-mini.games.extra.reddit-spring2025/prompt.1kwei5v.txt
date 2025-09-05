@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC+][RPG/ACTION][~2000s-2010s] You are part of a futuristic
+knight-like order that fights demons after a post-apocalyptic
+invasion.. I never actually played this game, but I distinctly
+remember watching the trailer a long time ago when I was a kid. I also
+believe it had a lot of development hype but may never have actually
+been released... Time frame was late 2000s / early 2010s. I know it
+was going to be a PC game, but I'm 50% sure it was also going to be an
+Xbox / PS game. Key details of the trailer / game: - Demonic invasion
+destroyed society and you are member of a group of futuristic
+""""""""knights"""""""" (based on armor style) that fights them. - The
+good guys may have actually been called """"""""Templars"""""""", or
+it may just have been the aesthetic. They all had glowing blue cross-
+like face masks on their helmet. - The trailer had a vehicle convoy /
+chase + ambush scene in it - Trailer showcases some """"""""RPG
+lite"""""""" elements, armor and weapon customization, but mostly
+focused on third person (75% sure) shooter/slasher"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

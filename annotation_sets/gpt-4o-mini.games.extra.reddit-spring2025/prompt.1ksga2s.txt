@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4] [2015-2016 IS AROUND WHERE I PLAYED IT] old looking
+dungeon crawler. i played it on the playstation 4 as a kid its a
+dungeon crawler bloody game and i swear to god in the thumbnail
+picture thing it had an @ symbol with blood around it i remember there
+being a mage or something i feel like it was on ps plus but i looked
+there and i couldnt find anything ive been looking for this for about
+4 years now with no luck PLEASE HELP"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Woman works at bar with boyfriend a
+billionaire offers her $ for one night after a bet. [s]. Synopsis; a
+woman and boyfriend own/working at or trying buy bar in Hollywood? A
+billionaire stops in and makes bet and wants one night with her. At
+some point I believe he has a sister who is evil (lol) and interferes.
+After their night together the rich guy either buys the boyfriend and
+her break up, I believe he had also been cheating on her . Listened to
+this on audible a few years back… help!!??!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

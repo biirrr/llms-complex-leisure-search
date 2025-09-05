@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] Text-based game where you enter
+instructions for the character to follow. A series of games, one of
+which was set in a Haunted House, another in a jungle where the
+character gets imprisoned by a tribe.. I used to play this game as a
+kid on our family computer. I remember two different games with the
+same main character. 2D graphics, really basic pixel art and
+animation. As mentioned in the title, I remember one starting off
+outside a house, you enter and there were 2 floors. The other game, I
+don't recall how it starts, but soon after you are locked in a cell by
+a tribesman(?), and the way you get out is by making the character
+carve a key out of soap. Unfortunately that's as far as I got, but I'd
+love to revisit it if possible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

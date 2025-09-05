@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade, Tweens Horror novel about a group of 4
+teenagers (two boys, two girls) exploring a haunted bridge. Read
+around 2017.. Tweens novel about a group of 4 teenagers (two boys, two
+girls) exploring a haunted bridge where a school bus of kids has
+previously died. the main character (girl) has a crush on one of the
+boys. the main characters bestfriend is dating the other boy. there’s
+something about delivering milk. the book cover is black, white, and
+green. i read this around 2017."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

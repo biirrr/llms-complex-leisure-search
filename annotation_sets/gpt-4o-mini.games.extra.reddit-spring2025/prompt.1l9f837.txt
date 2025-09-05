@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010s] Point and click game with dragonfly keeping
+mechanic. I remember playing this game on a windows laptop in the
+super late 2000's to the 2010s though the game could've come out
+anytime between 2000-2012. It was a point a click game and the most
+notable feature i can remember is that you could collect dragonfly's
+and dragonfly eggs which you could hatch and they had different colour
+variations. The art style was supposed to resemble medieval Europe i
+believe, and had a kind of rustic look. The other thing i can remember
+is that the cursor in the game was hand shaped with a thick leather
+glove kinda texture"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

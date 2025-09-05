@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Seeking book about Lizzie Borden..decades old, school
+required reading. [s]. Hi. I am trying to find a book I read at least
+35 years ago, was required school reading about Lizzie Borden. Dealt
+primarily with her trial. Spoke of her backround (I remember the word
+""spinster"" was used.) The book also had pictures from court trial I
+THINK and wasn't all that long. Have tried to find but there are
+hundreds of books about her so was not sure how to narrow it down. The
+book also from what I remember, seemed to not be convinced she did it
+if I'm remembering it accurately. The book did not say she was
+innocent but took a neutral stance and I remember this clearly. I also
+want to stress that it was entirely about the court trial so it was
+not a fictionalized version of her life etc but dealt with the trial
+with some facts about her life mixed in. Wish I could remember more
+but it was a long time ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

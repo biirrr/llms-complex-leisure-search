@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young Adult Mystery read in the 1970's. Southwest setting.
+Teenagers stalked by legendary Native American who was believed to be
+dead. Spoiler.. The book I am looking for was read by me in the 70's,
+so it could have been written going back several years. The general
+plot is that some kids/teenagers are somewhere in a western setting.
+At one time, a Native American terrorized the area to the extent that
+his legend lived on. While in the area, someone begins trying to kill
+the teenagers. Eventually, it becomes obvious that it is Asesino
+(that's how I remember the name, but it may not be accurate), the
+legendary killer. Somehow, at the end of the story, the killer himself
+is killed (I don't recall the details) and he always wore a mask or
+face paint, and when they examine the body, it turns out to be a white
+man masquerading as the legendary killer. Best of luck and thanks in
+advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Science learning books (series) with transparent pages
+that overlap. When I was in elementary school and old enought to go to
+the library (1997-2001) I loved these science books where pages had
+transparent parts that overlapped to show how things work. So maybe
+the body of an insect snd you would add on different parts of the body
+by flipping pages. There were several on many topics but I can't
+remember specific topics. The books were pretty small in dimension and
+short because they were for kids. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

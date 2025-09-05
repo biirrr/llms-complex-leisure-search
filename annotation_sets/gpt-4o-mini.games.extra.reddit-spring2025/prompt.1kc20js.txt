@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2015~] black/white 2d war game. So about 2015 was
+when I played this game, I don't know if that's the release year or
+not. Whenever I would load this mobile game up a white squirrel facing
+the right with """"""""hell squirrel"""""""" popping up. However
+whenever I search hell squirrel only one game pops up which isn't
+this. The game is a black/gray/white no man's land landscape. It was
+2d and you could scroll and move around the small map. Enemy soldiers
+would either run either end of the map to the other or would be laying
+down blending in, and you basically had to kill them all. I don't
+remember if it was infinite or what the menu was like other than it
+said start. You could snipe or drop a bomb on the enemy, and there was
+a road on the right side of the map."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

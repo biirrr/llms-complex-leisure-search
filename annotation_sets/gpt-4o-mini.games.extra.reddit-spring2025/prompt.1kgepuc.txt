@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Browser game] Game about bacteria looking things?.
+I've been looking for months for this game I used to play online
+without any luck, as a last resort I'm asking for help from the
+internet. Does anyone remember playing a game about bacteria or dust
+pets that you could place in different environments for them to live
+in? I specifically remember one of the 'biomes' was called the Dust
+Bowl. I think you could also breed or multiply them, they came in
+different shapes that you could pick. I recall them being in greyish
+white and they had faces, you could pick them up and move them. I also
+remember thinking the graphics were really good for a browser game
+back then, maybe like soft 3-d. It's not the game Spore or anything
+that comes up when you search for bacteria-looking games. If anyone
+else has any recollection of this game or any ideas what it could be,
+please share. Even if it's not the right game, it could help me narrow
+it down. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

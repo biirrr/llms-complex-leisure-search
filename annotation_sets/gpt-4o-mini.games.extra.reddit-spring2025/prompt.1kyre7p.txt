@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii][2010-1014???] Kind of evil pikmin?. I don't know what
+the game is called, I think it was kind of a pikmin style game except
+the game took place in medieval times(???) and that I think I remember
+you being bequeathed a sword with bad vibes or something and it
+allowed you to control these little demons? (I might be wrong on that
+but the intro definitely has you obtaining the powers) I don't
+remember getting far in that game I was a dumb child, all my little
+guys kept dying in the river since they couldn't touch water I
+believe. I do apologize I wish i had more info but it seems like some
+weird niche game that might've been a fever dream. Solved: Overlord:
+Dark Legend"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

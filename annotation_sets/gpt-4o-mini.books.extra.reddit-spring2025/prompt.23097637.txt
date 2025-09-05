@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade fiction. Main character Alice ran away from
+home looking for her dad. Set in Hemel Hempstead UK. Bought when I was
+about 10 from Scholastic book fair. Read 1996-2000.. I cannot find
+this book anywhere and vaguely remember the title having the word
+'Still' in it, like 'Still Gone' or 'Still here' but extensive
+googling brings me nowhere. I was about 10 years old and it was a
+preteen aimed book set in Hemel Hempstead featuring a girl called
+Alice who ran away from home looking for her dad. Its plagued me for
+years and I'd love to know what it's called so i can find and re read
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

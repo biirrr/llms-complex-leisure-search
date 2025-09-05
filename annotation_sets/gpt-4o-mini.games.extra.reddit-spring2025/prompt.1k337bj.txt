@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s?] Indie horror game, where you play as a girl in
+town of animals and you're not allowed to go into the forest.. I can't
+for the life of me find this game, but I remember it well. It was
+pixel art side scroller with limited color palette. And sorry for
+advance, english is not my first language and I wrote this fast. You
+play as a human girl in a small town otherwise populated by
+anthropomorphic animals. There is woods by the edge of the town but
+it's guarded and all the animal NPCs tell you to never go to the
+forest. You had to either play the game during night time or change
+the clock of your computer: the guard falls asleep and you can pass
+him. In the forest eventually you run into some kind of dark creature
+and the game maybe closed itself down. When you open the game again,
+you're back in village but it's raining and everything is corrupted,
+NPCs as well. And if you talk to them, they said things like
+""""""""what have you done"""""""" and """"""""this is your
+fault"""""""". I know this sounds like creepypasta, but I swear I
+watched let's plays of it on youtube, but never played it myself
+'cause it spooked me too much. It's not Animal Village and I remember
+the name maybe having word """"""""town"""""""" in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

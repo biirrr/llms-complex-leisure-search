@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "wife & daughter captive by middle east husband [s]. Looking
+for title of a book I read a few years ago. About a husband who took
+his wife and daughter from I think the US to his own middle East
+country., NOT the one called Not Without My Daughter, but a similar
+one. They are held captive and cannot escape. Wife pretends to settle
+down hoping to gain some feeedom to make escape attempt. She has
+another daughter and this proves problematic as she does not have a
+birth certificate for this baby so cannot get a passport. She is told
+to leave the younger child behind and go home with her eldest daughter
+whom she has papers for. She is told she cannot prove the younger
+child is her daughter. She says she would not fight so hard if she
+wasn't her daughter and tells the official, ""it is precisely because
+she is my daughter that I will not leave without her."" She manages to
+get paperwork for the youngest and books herself and children on a
+flight out. The night before leaving she pretends to be loving towards
+her abusive husband and prepares a meal, keeps him up late and allows
+him to make love to her so he will sleep late the following morning
+and not notice they are gone till she is on the plane. She succeeds in
+getting herself and both children back home. Hope this information
+helps. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

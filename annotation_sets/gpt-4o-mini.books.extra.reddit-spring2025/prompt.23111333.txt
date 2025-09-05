@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s grade book, Historical Fiction. I believe I read
+it around 2014-2015. It had to do with a boy and his butler during the
+gold rush.. I don’t remember much about this book just that I read it
+in school a long time ago and it’s been bugging me that I can’t
+remember the name. It had to do with the gold rush and finding gold.
+The book also had a movie. I also know the butler was very strong and
+fought a guy I one point. And the book was centered around the young
+boy and his butler. I hope I gave enough information I’m so sorry if
+not I could just really appreciate some help. :) -Kennedy"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

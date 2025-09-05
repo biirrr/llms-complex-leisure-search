@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's 9-12, girl who wants a stepmum puts an ad about
+her dad in the lonely hearts. I read this book around 2010, sort of
+found it by chance so I don't think it was very popular. A young girl
+is being raised by her dad (believe her mum died) and wants a new mum
+and to find her dad someone. She puts an ad about her dad in the
+lonely hearts column of a newspaper and then, when someone responds,
+her dad goes to meet her. The woman that responds ends up being the
+girl's new stepmum. From memory this was the first of two or three
+books."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

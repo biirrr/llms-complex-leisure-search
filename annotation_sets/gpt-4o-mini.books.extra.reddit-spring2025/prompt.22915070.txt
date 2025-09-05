@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "80s/90s Adult Fantasy novel about a widower summoned to
+become king in another world. I read this book (and the ensuing
+series) about a decade ago, but it was already at least 20 or 30 years
+old at that point. I remember being intrigued by the whole concept of
+the main character, because I was used to MCs in ""summoned to another
+world"" stories being in their teens or maybe early twenties, just
+starting out in their lives, but this guy was in, like, his thirties
+or forties and already had a somewhat established life. He didn't have
+any kids (I think his wife may have been pregnant when she died).
+Don't remember much about the plot itself although I think at some
+point he falls in love with and eventually marries this nymph or elf
+or something along those lines whose name is something like
+""Willow""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

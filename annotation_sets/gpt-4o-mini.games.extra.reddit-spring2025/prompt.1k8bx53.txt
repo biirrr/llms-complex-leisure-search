@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC DOS][1994] A multiple-choice point and click adventure
+with """"""""aliens?"""""""" crashing into a house at night. Platform:
+PC Genre: Point and Click Adventure Estimated Year of Release: 1994
+Graphics/Art Style: Crushed pre-rendered models. Simplistic designs;
+somewhat cartoonish. Notable characters: This is more difficult but I
+remember an early sequence of being chased by an enormous cat. You
+started as a pair of tiny aliens if memory serves. There was some kind
+of yellow character that is encountered early and the game would
+follow him for a while before returning to the """"""""main""""""""
+characters. I think the ship might have been alive (had eyes); or at
+least the exit ramp resembled a tongue possibly. Notable gameplay
+mechanics: It was point and click with different choices leading to
+different sequences and outcomes. I vaguely remember entirely
+different events for avoiding the cat to the left or right. Some of
+the events may have been times. Other details: Obviously a kid's game.
+The inside of the house was a completely black background, possibly a
+graphical limitation. I distinctly remember being able to see the
+window you crash through in the early part of the game. Also you're
+originally trying to not crash your """"""""ship?"""""""" You were a
+couple of tiny aliens so everything in the house was giant. There were
+many strange characters in the house, possibly toys that were alive. I
+recall them being more abstract. Don't recall music or sound effects;
+could have not had the correct sound card for it. This game was a on a
+demo disc that came with the adventure game Dragonsphere (1994)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

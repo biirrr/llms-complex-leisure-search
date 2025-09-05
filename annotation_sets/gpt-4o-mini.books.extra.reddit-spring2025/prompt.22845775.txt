@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror novel, read around 2010, about a haunted house
+being investigated. [s]. Adult Horror, read around 2010, book about a
+haunting, ghosts would repeat their deaths, investigation team wakes
+up house when someone trips and bleeds on porch, and they are trapped
+in house, teen sibling ghosts assist inveatigators. Teens were
+murdered by their Dad, also had a baby ghost name Theodore? That would
+wail in the fireplace. Psychic on investigation wanted to contact
+Houdini's ghost. Cover was gray, had a long hallway, or doorway
+pattern with the teens standing in center."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

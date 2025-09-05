@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, second chance, reverse harem, paranormal.
+Recall scene when female lead meets young child of male group in
+elevator. The male is seeking custody of child. Female lead was
+unaware of child.. I read this within the past two years but unsure of
+actual publication. I do not recall why the female lead and male group
+have been separated. The female lead finds a small child at lawyers
+office in elevator where he got separated from dad. When female lead
+takes child to security she is reunited with male. Child is from a one
+night stand and he is trying to get custody and feels guilt over
+child. Seems like they are wolf shifters as I think there is one of
+the males who watches over female outside in wolf form. Don’t remember
+a lot of details outside of elevator scene as may be getting books
+mixed up. I thought it could be an omegaverse setting but went through
+all my history and could not find so may be wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

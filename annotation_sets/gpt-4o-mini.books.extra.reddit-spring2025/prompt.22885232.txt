@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction Mystery Thriller. Woman's child is abducted
+for experiments and taken to Belize. Female author. Read 1980s/early
+1990s. Spoiler. [s]. American paperback read in 80s or early 90s.
+Believe female author. Plot: woman runs a new age business attached to
+her home. Her mother is psychic, maybe referred to as gypsy or witch,
+and lives with her or nearby. Woman's son is kidnapped and taken to
+Belize for experiments of some kind. There's a tiny black lizard bead
+from necklace or bracelet that's a clue. Woman, grandmother, and a man
+(father??) go after son. Much discussion in book about the lizard and
+tarpon/bone fish. The grandmother foresees her death as 'I will feed
+the fishes' and is eaten by sharks near end of the book. Boy is
+rescued if I recall correctly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s-early 2010s?] Casual 2D game where you collect
+nuclear (?) waste with a tube. **Platform(s):** PC **Genre:** 2D,
+action maze chase (?) **Estimated year of release:** 2000s-early 2010s
+**Graphics/art style:** 2D graphics, the screen featured an
+underground labyrinth which took up most of the space. The design
+changed a little as you progressed: I remember the first levels where
+yellow-brown, then there was a """"""""frozen"""""""" section (blue),
+then possibly a green section. The pipe was always grey. **Notable
+characters:** no humans, you play as a pipe and your
+""""""""enemies"""""""" are bugs and worms. **Notable gameplay
+mechanics:** you play as a """"""""waste collector"""""""" pipe. Your
+goal is too collect all waste (points) on a labyrinth-like level. The
+catch is, you are still connected to the entry point and the pipe
+extends - if any of the bugs crawling around the labyrinth collide
+with it, you lose a life. You could """"""""eat"""""""" the bugs
+though. Some bugs couldn't pass through the walls, some could (if they
+were passing through a wall, the player could see their silhouette).
+The bugs got faster as the game progressed. Sometimes items spawned on
+the level and gave you buffs, I remember these: speed increase,
+""""""""armor"""""""" (bugs temporarily couldn't hurt you), additional
+lives. **Other details:** I played this game in Russian, but I'm
+pretty sure it was simply translated, not developed in Russia. The
+sound when you collected points was like Geiger counter. In the main
+menu, there was an extensive guide to each element of the gameplay,
+including the description of each enemy (with a name) and each item.
+There were no cutscenes or other gameplay elements. The brief lore may
+have mentioned that you collect """"""""nuclear waste"""""""" on
+""""""""a planet"""""""", though I'm not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

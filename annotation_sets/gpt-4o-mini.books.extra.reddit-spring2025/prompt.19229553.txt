@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book. Young girl staying with grandparents over
+summer. Read around 2011-2013.. Hi, I read the book in the time frame
+of 2011 to 2013, though I believe it came out in the 20th century.
+From what I remember it had a bluish, purple cover. I think that there
+was a drawing of a young girl on the cover, but I'm not certain. It
+was a hardcover. It was about a young girl who was staying with her
+grandparents over the summer in a house that had been in their family
+for generations, when they were told by the government that they had
+to move by the end of summer, so a company could knock down all the
+houses in the neighbourhood and build a waterpark. I believe, if I
+remember correctly, that the Grandfather sent letters to the president
+about the situation, but I don't think that he received a response
+back. (view spoiler) [ In the end of the book they moved and the MC
+went into the new house and placed a flower in the room that she
+wanted. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

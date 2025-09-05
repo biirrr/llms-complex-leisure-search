@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3/XBOX360][unknown] First Person Shooter. I used to have
+this neighbour in 2016 that had a ps3 and Xbox 360 and I used to go
+play games at his. I have recently remembered a fps game where the
+mission I played had you and a team were infiltrating a base (I think)
+and you abseiled up a cliff while shooting, the. You dropped into a
+maze like place and fought enimies. The rest is blurry but I remember
+you meet up with everyone inside and there like a gas chamber room at
+some point. Im not sure if this next part is the same game but I
+remember this other mission where you had the electric (I think) bolt
+cutters to escape and you snuck round and you had to attack the gaurds
+from behind. There was dog u had to kill and you sneak round the base
+before entering an elevator with machine guns. You then gun everyone
+down. Im 50% sure a metal dinosaur or creature chases you at one
+point before you escape. I also remember my neighbour saying there was
+a cutscene where a guy got decaptated or chainsawed maybe both. The
+game had realistic graphics for the time and was a first person
+shooter. Any ideas would be greatly appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction traveler of sw us, tells of adventure while
+investigating the history of sw. I’m looking for a book I read around
+1989 maybe 1991 about a traveler of sw us, who tells of adventure
+while investigating the history of sw. He drives a van around for a
+couple of years and talks about his experiences while also discussing
+the history of the area from native Americans to more modern history
+of testing of atom bombs in the desert sw."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

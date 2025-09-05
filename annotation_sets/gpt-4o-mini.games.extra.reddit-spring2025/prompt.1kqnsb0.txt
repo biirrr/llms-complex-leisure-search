@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [Late 90's/Early 2000's] Futuristic vehicle combat
+game with tanks. I believe there was a hovercraft or some sort of
+aircraft version of the game as well.. Hello. This is a game I haven't
+been able to find, I think there are possibly two versions of it. One
+with future tanks and another with low flying aircraft. Both very
+futuristic. I almost want to say they are related to WWE, but it is
+not crush hour. At least some sort of real world organisation but I
+may be wrong on that. You selected vehicles, as opposed to
+characters/drivers. And also like most games from the time, I remember
+the music being a mix of hard electronic and heavy metal. Art style
+was """"""""grungy and realistic"""""""" I don't remember any
+characters/cutscenes/story or voices during gameplay. The gameplay
+style is what you might expect from these sorts of games, lots of
+glowy and flashy picks ups and weapons. Most of it I remember takes
+place in dug out trench like structures in the middle of nowhere, the
+desert or a city....general warzones. Lots of brown walls in one
+level, then the next, silver and metal. I don't remember you leaving
+the trenches. I might be getting some things wrong, this is a game I
+remember from about 25 years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

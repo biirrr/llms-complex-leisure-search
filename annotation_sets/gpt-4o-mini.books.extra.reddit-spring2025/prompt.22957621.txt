@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery novel. Based in Seattle. Time period jumps,
+almost like a bunch of short stories. Read in early 2000s.. I read
+this book in the early 2000s. There were time period jumps. Chapters
+didnt always go with the others. Almost like a bunch of short stories
+but written as one. I *think* the book was white. I want to say that
+the word ""Point"" was in the title, but not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

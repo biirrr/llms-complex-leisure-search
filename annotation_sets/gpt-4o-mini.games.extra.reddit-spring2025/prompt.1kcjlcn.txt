@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2000] horror house. im looking for a game from the
+2000s! it was a horror game where u investigate a house. when the game
+starts you are outside the house and cant get in before u turn on the
+power via a fusebox outside. when the house powers up it shows a
+creepy cinematic of the house powering on. when you get to the kitchen
+there is a pot you can look into with letter pasta or something, and
+the letters change when you look at it. there is also a jumpscare in
+the kitchen when u open the foodlift i think, of a face screaming at
+you. when u reach the """"""""end"""""""" of the game you get access
+to the attic, but when you open the door it just says """"""""too be
+continued"""""""". the game had its own website and it started with an
+A. does any1 know what im talking about ???"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

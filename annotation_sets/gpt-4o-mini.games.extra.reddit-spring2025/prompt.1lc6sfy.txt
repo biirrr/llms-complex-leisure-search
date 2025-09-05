@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE][mid2010s] top down shooter where you shoot naked
+men running at you. [Art style] generic mobile game, would compare it
+to Hunter Assassin. I also vividly remember losing the game would
+result in you receiving anal penetration. I dont have too much info
+but heres a horrid drawing of the gameplay i made:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

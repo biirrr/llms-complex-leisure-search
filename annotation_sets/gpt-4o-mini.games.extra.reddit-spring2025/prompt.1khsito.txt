@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2011]Point and click game about medieval looser. Hey,
+looking for a flash point and click game I played as a kid. I think it
+was released in late 00s/early 10s. It was about a young, peasant guy
+with blonde longish hair that was looking for (I think)
+scientist/princess OR both (I remember both characters in the game).
+From ending I remember that the person we were looking for wasn;t
+someone we were expecting. About MC; I think his name was Todd or
+something similiar. Also he was described I think as a looser or
+someone lame."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

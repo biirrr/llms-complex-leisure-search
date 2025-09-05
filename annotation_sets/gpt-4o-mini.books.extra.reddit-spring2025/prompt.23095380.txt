@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Poetry anthology with watercolour artwork. Read
+before 2006.. This was a collection of children's poetry. I had it
+before 2006. Each poem had a picture in watercolour, or a similar
+medium to go along with it. Some of the poems and artwork were very
+small, multiple to a page, but others took up the full two-page
+spread. the art was fairly photorealistic, not cartoony, even the ones
+of fictional creatures Here are the contents of some of the poems:
+-Disobedience-A. A. Milne, it had a full page spread of a little boy
+looking directly at the reader, holding his mother's hand while they
+waited to cross the street -a poem about a little girl who lost her
+straw hat, it floats down a river and she finds it later when she gets
+to where she was going. the picture of the hat had a blue ribbon -a
+picture of a little kid painting a fence purple -The Purple Cow-Gelett
+Burgess -how much wood would a woodchuck chuck? -a picture of a
+dragon, and I think it was meant to be the narrator's dad? there were
+many more, it had quite a bit of content for a children's poetry book,
+but unfortunately I can't remember much else. The book itself was
+hardcover, and I think light in colour. I said it was from before
+2006, but it seemed older than that based on aesthetics"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

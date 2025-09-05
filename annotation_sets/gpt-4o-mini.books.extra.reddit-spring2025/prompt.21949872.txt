@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir, Non-fiction. American man has small farm in
+rural Mexico. Change happens when police officer collects firearms
+from locals and imposes rules/ regulations. Title contains ""Jungle""
+or ""Green""? Read around 1966-1968. [s]. I thought title was Jungle
+Eden, or Green Eden, or something close to that. I got it from my high
+school library, time range about 1966 to 1968. First-person narrative
+by American who married a woman in small rural Mexico settlement, and
+settled there on a small farm. Narrative describes lives of locals and
+his life among them. Change arrives in form of a polite but firm
+police officer, who collects firearms from locals and imposes order on
+area which had till then been distant from rules and regulations. If
+this sounds familiar, I would appreciate knowing the correct title.
+Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

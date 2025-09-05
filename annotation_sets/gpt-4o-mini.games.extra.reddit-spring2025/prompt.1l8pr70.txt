@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC: Browser][2010s?] Side-View browser game where you took
+off from an airport and had to fly the plane to the next airport and
+then land it on the runway. Old military dude giving instructions
+throughout the flight too.. I remember it was a browser game I used to
+play, you had to take off from the first airport and change the flaps
+and retract landing gear, etc, to fly to the next airport on which you
+would land. There was an old military dude who would give instructions
+and hints throughout. I have no recall of the name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

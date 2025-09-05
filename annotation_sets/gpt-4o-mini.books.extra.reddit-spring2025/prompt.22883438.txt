@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction, around Great Depression. Family of
+fisherman (clams & mussels) in British coastal town. Stubborn
+patriarch injures his back in accident. Daughter Pam gets pregnant by
+his rival's son. Spoiler.. read it years ago.. book is set in British
+coastal town i believe during or after great depression.. its about a
+family whose patriarch earns living by fishing clams and mussels .. he
+is stubborn and gets injured in an accident damaging his back.. his
+one daughter pam gets pregnant with the child of his rival's son and
+throws her out.. other character names i can remember is arthur who is
+cockney one daughter name is connie or constance i think .. father
+gets better in the end and reconciles"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

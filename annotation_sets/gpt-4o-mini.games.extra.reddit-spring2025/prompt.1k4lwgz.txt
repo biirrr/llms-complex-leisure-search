@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Sega Dreamcast][late 1990's-early 2000's?] A japanese only
+visual novel that I saw a video about once. from what I remember the
+plot was basically the player going to some family relatives and
+living with them for a month. In the game you could go to different
+areas and there were like multiple girls you could interact with for a
+route for each one or you could just get an ending where you don't
+really interact with any of them. If you did one of the routes you
+would have an extra section taking place on new years where the player
+and the girl they chose do different activities throughout the town
+like karaoke and then the game ends with the player kissing the girl
+they chose when the clock strikes midnight and the new year starts"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

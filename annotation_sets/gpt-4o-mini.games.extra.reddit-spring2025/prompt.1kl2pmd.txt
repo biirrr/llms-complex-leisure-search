@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [00-03] A game I can only remember by a certain boss
+fight.. I randomly remembered a boss fight scene from a game I played
+as a kid. I know I played it in the early 2000s (2000-2003ish) on PS1
+but it couldve released a little earlier than that. I dont even
+think I had the full game but it was a part of one of those demo
+collections that they used to do. I mainly remember a boss fight scene
+with these hazy details and a few other things. * Main objective was
+to rescue a princess (I dont think this is apart of any well known
+franchise) """""""" `The boss was a huge robot that I believe had 4
+armored up legs. To fight it, you had to weaken its two front legs
+until the armor fell off, leaving the legs exposed. """""""" `Each
+time you did enough damage, you stunned it, and had to go underneath
+it to attack some kinda core part to it. """""""" `Once you beat it,
+the main character actually lifted up the robot from underneath it and
+tosses it off a ledge or cliff of some sort. (I wanna say lifting up
+and tossing enemies was common for this character as well) """"""""
+`Game was less realistic and more cartoony. I believe it was 3D but
+not 100% sure. If someone can figure it out and save me from this
+misery, Id really appreciate it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

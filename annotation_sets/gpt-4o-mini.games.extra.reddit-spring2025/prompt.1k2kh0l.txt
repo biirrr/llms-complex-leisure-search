@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90's] Futuristic hockey-like game. A futuristic game
+that looked like hockey where you have to shoot a disc on the goal.
+The field was not flat (see the image to check how it was) and you
+could even go left or right of the field and jump high (even give a
+flip if you like). I remember that you could """"""""punch"""""""" the
+adversaries, but it was not really a punch because the characters
+didn't have hands (it was more like an armor and there skewers in the
+place of hands). I remember it was red vs blue team. I remember i
+played just a demo. https://preview.redd.it/qxdfkagvwove1.png?width=86
+9&amp;format=png&amp;auto=webp&amp;s=773330d0c3134e3df755dc64b17619127
+409f7c6"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

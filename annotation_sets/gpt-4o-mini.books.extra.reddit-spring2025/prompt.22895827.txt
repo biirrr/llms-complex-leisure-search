@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy trilogy about a boy who goes on a quest
+with a fey named Linwe and a goblin named Hnagi. I read these books
+probably around 2013-2015. All the books in the trilogy are short,
+probably only 100 pages or so. They were hardback copies. It was about
+a boy, who I think was a blacksmith's apprentice, and somehow or
+another he ends up going on a quest to do something with special
+stones (moonstone, bloodstone, etc) that are held by each race of
+creatures in the land. I think the point was to unite the races to
+defeat the bad guy. He meets a fey girl named Linwe, who travels with
+him, and a goblin (at least I think it's a goblin?) named Hnagi. I
+don't remember the main character's name. I know there were also some
+tall, creepy Ringwraith-type creatures hunting him too. The whole
+series was superficially very similar to The Lord of the Rings."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

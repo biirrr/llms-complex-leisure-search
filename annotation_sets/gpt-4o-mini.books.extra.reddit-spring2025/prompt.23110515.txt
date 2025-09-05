@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction. AI/ Robots taking over in the future
+and the other is about an abandoned ship in space with zombies. I
+discovered a science fiction author I wanted to read. I thought I was
+following him online but I guess I wasn't. He has written at least 4
+novels. Three of them are a trilogy about AI/ Robots taking over in
+the future and the other is about an abandoned ship in space with
+zombies. The latter had a negative review on Goodreads which made me
+want to read it even more. What I do remember more than anything is
+the authors bio which said the author enjoyed playing video and board
+games, He lived with his wife, 2 dogs and a cat he is allergic to. I
+would say these books came out in the last 5 plus years"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

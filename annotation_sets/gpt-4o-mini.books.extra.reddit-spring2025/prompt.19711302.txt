@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Dave Barry (1989-1992) column about trying on pants. This
+might be slightly outside of our comfort zone, but I thought I'd give
+it a try. When I was living in St. Louis I snipped a Dave Barry
+article out of the Post-Dispatch and sent it to my father (OK, it was
+a long time ago). He loved it, completely identified with it, and
+became a life-long Dave Barry fan. It was about trying on pants.
+Specifically, trying on every pair of pants in his closet and sorting
+them into those that fit well, were acceptable, too small, etc. Maybe
+he made it seem like sort of an exercise or aerobic activity? Anyway,
+my dad used to do that, periodically: take out thirty pairs of
+identical (except for size) khakis out of the closet, try on each one,
+pull out the ones that fit, and relegate the rest of them to the
+basement until my dad's next diet (or expansion) so my dad really
+identified with the column I haven't seen that column collected in any
+of his books (which doesn't mean it wasn't; I haven't read them all).
+The column is not ""Shop 'til You Drop (in Size)"" (05.25.97) or
+""Hung by Your Threads"" (06.14.87) or ""Too Big for Your Britches""
+(10.13.85). I don't know when the column was originally published, but
+I know it was printed in the Post Dispatch sometime in 1992 or
+earlier, so it can't have been written subsequent to that. I
+appreciate any help anyone can give me -- thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

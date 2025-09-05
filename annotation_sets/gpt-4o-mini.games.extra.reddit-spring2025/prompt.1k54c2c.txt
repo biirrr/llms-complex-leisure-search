@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s/2000s] Doom-like FPS. Hi! I cant remember this
+game and its going to bug the crap out of me. I used to play it on my
+school computer Its a doom-like pixelated FPS set in a jungle/temple
+and it was unity ran, just a website that was like one word I believe.
+It had guns and they had blue lights on them and shot blue
+projectiles. The enemies were like monsters/bugs, one in particular
+was a flying bug with teeth in the middle and when it was killed it
+would split in half vertically down the middle. Youd find totems or
+keycards or something to open doors. The title screen had a giant
+temple in the background with a beam of blue light shining into the
+sky. The map was overgrown with leaves or moss. Thats about all I can
+remember if yall can help Id hold you near and dear to my heart thank
+you :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

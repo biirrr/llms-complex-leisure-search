@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early-Mid 2000] Turn-based game about """"""""good
+angels"""""""" (player) vs. """"""""evil demons"""""""" (npc). The
+game looked something like this on the picture, a isometric view on
+the chessboard like map, where on one side the players characters were
+standing and on the other side the npcs were positioned. The player
+was playing the """"""""good guys"""""""", which were mostly angels
+and light powered beings, and the npcs were """"""""evil
+demons"""""""". The gameplay loop was to move the characters turn by
+turn in order to attack on kill the enemy characters. Each unique
+character had basic abilities and a ultimate ability (but I don't
+remember anymore how the abilites looked like). I used to play this
+game on a browser, but I am not sure on which website. Could be
+miniclip (but not 100% sure). The map was pretty dark, the pillars
+around the board were like stones coming out of an abyss, and the
+board itself was mostly a grey stone with holes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

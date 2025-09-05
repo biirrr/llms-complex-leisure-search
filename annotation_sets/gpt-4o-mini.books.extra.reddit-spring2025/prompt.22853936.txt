@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy Romance about foreign girl sent to far away court,
+Captain kills King to marry her and she becomes Queen to save the
+Kingdom. [s]. I read this book over 10 years ago. A girl from a
+different land is shipped to the Royal Court as a Courtier Lady. She
+meets a Captain who leaves her books as gifts on her favorite bench as
+a Secret Admirer because he is too nervous to speak to her. Time goes
+by and King dies after being poisoned. She is made Queen because she
+wields rare magic. The Kingdom is in jeopardy so she must marry the
+Captain to save the Kingdom and solve who poisoned the King while
+traveling around the Kingdom dancing with gypsies and stuff. Anyway.
+The Captain killed the King because the King refused to let him marry
+the FMC. The Queen saves the Kingdom and turns her crown over to the
+Rightful Ruler and goes off to dance with the gypsies again. The
+Captain follows her. Sounds horrible as I write this but it was
+actually well written. I wanted to see if the story had been refreshed
+or if the author wrote a sequel."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

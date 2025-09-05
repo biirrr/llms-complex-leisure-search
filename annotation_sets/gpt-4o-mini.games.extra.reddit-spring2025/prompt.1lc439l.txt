@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNKNOWN] ONE GOLEN/ELF/DUNDE EXCAVATOR GAME. I found
+this game installed on my aunt's PC, I don't know if she extracted it
+from those games that come on CD ROM, but the truth is that I've been
+looking for this game for over 10 years, but I've never found anything
+about it. ABOUT THE GAME: it was a level game, like a puzzle, the
+character we controlled was a kind of goblin who had a shovel or
+pickaxe (used to open a path and break blocks) and the aim was to
+reach the end of the route without being caught by enemies (zombies
+and dragons) ONE DETAIL I REMEMBER: there was an ability in which you
+ate, I think, onions, and burped at the zombies. That's all I can
+remember. HELP ME FIND THIS HAPPINESS"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

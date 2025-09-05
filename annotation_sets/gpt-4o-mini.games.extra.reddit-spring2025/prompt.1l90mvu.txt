@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [mid 90s] Mostly a bunch of activities for kids Main
+interface was the inside of a house, flat, 2D, every room housed one
+of the activities. The main activity I remember was basically MS Paint
+with a bunch of clipart. One of the clipart images was a popsicle
+girlie wearing a scarf. An icon! I vaguely remember a main character
+with a big ol' nose who would guide you through the activities. I
+think he came with his own font? Where he was drawn sitting on/hugging
+each letter. The more of this I describe the more it sounds like a
+fever dream."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

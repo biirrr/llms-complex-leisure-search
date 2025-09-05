@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES or sega genesis] [no clue] top down dungeon crawler
+fantasy.. Multiplayer. Possibly we picked classes like he was a wizard
+and I was an archer, but not sure. We played for 13 + hrs and didnt
+beat it so it had a long story. We couldnt save the game thats how I
+know it was sega or genesis. We played it in probably in 06-07 tho so
+it was definitely older than that. I dont remember there being a lot
+of dialog. But there could have been and we just skipped it. Thats
+all i remember Im sure this probably sounds like multiple games. But
+if u can even help me maybe narrow it down thatd be awesome. It could
+be as simple as it being an actual D&amp;D game. Did they make a top
+down version of it for one of the systems?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

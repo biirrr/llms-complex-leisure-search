@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery book (?) from the 80s or 90s - main character
+is a woman who writes hymns. [s]. I think this book was a series but I
+can't recall. I would have read it in the 80s or 90s. The main
+character was a woman who wrote hymns but the book(s) wasn't/weren't
+focused on that - it was just a detail I remember. I think she was
+married or involved with an older man who was well-off, but he and
+this too wasn't the focus of the book(s). Boston is coming to mind.
+Likely was a mystery/crime book of some kind. Can't believe I don't
+remember more but I read widely during that period. I'm sure I've
+forgotten more than I can recall."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

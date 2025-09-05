@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery Romance. Wife is not convinced her husband
+committed suicide, falls for Sheriff/ Chief while investigating his
+death. Read 2005-2007. Spoilers.. I read this book between 2005 and
+2007. It starts off with a wife who wakes up and can't find her
+husband. Only to discover the next day during the search, dead in the
+water. It's speculated that he jumped from the bridge over the falls
+near their property. However, the wife is not convinced and proceeds
+to do her own digging. Of course the town sheriff/chief takes kindly
+to her and proceeds to help her. At one point they go flying in his
+plane, only to discover that it had been sabotaged and they crash, and
+she is injured, leaving them stranded. Now, I don't remember much
+after that other than the fact that it ended up being a friends
+husband behind it all and they end up in a cranberry bog fighting for
+their lives. Help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

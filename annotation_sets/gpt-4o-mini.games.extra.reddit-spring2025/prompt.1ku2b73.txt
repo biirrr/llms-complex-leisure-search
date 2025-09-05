@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [unkown] human on an alien planet, first input is
+trying not to drown. it's a pixalated art style, My dad used to play
+it (80's baby) Your first controller Imput is trying to swim out of a
+deep abyss of a pool without being caught by a monster. (I remember my
+dad failed the first few times) and finally got out of the pool onto a
+alien planet. Apart that if you get caught by the aliens you go to
+jail. I don't remember if he just didn't reach the save points many
+times or the game booted you back to the beginning every time you
+died. Very """"""""the alien shoots you once and you die"""""""" game.
+Will say more info in comments if it's needed"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

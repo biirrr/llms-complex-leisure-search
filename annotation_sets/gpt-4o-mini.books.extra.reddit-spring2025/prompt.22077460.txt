@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical nonfiction - Young boy growing up in small town
+Maine. [s]. Non-fiction, author tells about his childhood in a small
+town in Maine, father volunteers for service during World War II,
+family encounters hardships. I read it about 3-4 years ago but
+purchased it at a used book sale - not sure of age. If I recall
+correctly the cover is a picture of a man with a snow shovel and small
+boy in their driveway?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

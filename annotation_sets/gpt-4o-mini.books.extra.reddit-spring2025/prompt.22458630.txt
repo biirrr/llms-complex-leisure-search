@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction. Well-known text regarding 21st century American
+social welfare. Male American author. I think content was American
+working class men, maybe Appalachia? It had a long title. Used for
+reference in experimental ways of storytelling.. I never actually read
+this book, just leafed through it a couple of times. My Independent
+Study adviser suggested it to me at the College of Wooster in 2013 as
+a reference text while I was working on a project exploring a
+collage/pastiche style of writing and media. I remember so little
+about the content and style. Here's what I do remember: -It definitely
+had a long, rhythmic title (I keep thinking ""All Quiet On the Western
+Front"" but that's not it, just a similar rhythmic flow). -Definitely
+a male American author, definitely 21st century, and I'm fairly sure
+he was white. -I feel pretty certain that it contained both
+photography and writing. -Possibly about men and their working
+conditions in Appalachia or just working class American men in
+general. -It may have been considered literary journalism or it may
+have been more creative writing. -I remember discussing it with my
+adviser while also discussing Walter Benjamin's ""Arcades"" project,
+in case that gives a better idea of the kind of theoretical lens we
+were using. Wish I could give more information; the title is in my
+brain somewhere but I definitely cannot access it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

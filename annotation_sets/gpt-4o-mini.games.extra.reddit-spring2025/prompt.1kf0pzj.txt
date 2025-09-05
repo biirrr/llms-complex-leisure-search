@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Flash][2003 ?] Multiplayer online tank game from mid
+2000s?. There was an online multiplayer tank game from the early to
+mid 2000s where you had to pick a color tank (yellow, red, blue or
+purple?) and this was your team. They had multiple maps, the one I
+always played on was Appalachia which was just the continent of NA, im
+pretty sure """"""""castle"""""""" and """"""""desert"""""""" was
+another one and they were BIG maps. Your health was
+""""""""fuel"""""""" that could be found on the map via radar. With
+the radar you could also find unique rounds like homing missiles,
+shields etc. These would be helpful because you could teleport
+anywhere you wanted on the map but it cost fuel (health) to do so. you
+could even """"""""drive"""""""" on water areas by either finding a
+ferry or moving blocks to build bridge like structures."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

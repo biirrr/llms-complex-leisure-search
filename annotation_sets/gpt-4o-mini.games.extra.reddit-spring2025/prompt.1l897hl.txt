@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][90s?]Top Downish Cyborg Shooter. **Platform(s):** NES
+**Genre:** Adventure/Shooter **Estimated year of release:** 199...3?
+**Graphics/art style:** Semi-realistic sci-fi, for 8-bit **Notable
+characters:** Protagonist was a full-body cyborg, similar to the guy
+from Doom or Master Chief. **Notable gameplay mechanics:** You moved
+screen to screen like in a Zelda game, but largely to the right. Some
+of the environment was destructible, and you needed bombs or missiles
+to destroy it. You picked those up in the form of little glowy boxes
+with the powerup inside. I'm remembering... a flat background, with a
+sort of rounded edge. The edge and the symbol inside were both faintly
+glowy, the background wasn't. Some areas had little tunnels off to the
+side that you could access by blowing up a wall on the top or bottom,
+and then you'd have to wander through a dark section with different
+music and a small vision radius. Levels ended with boss fights, I
+think, but I can't recall any of them super well. When you got hit,
+you flashed and were stunned for a moment (which is not enormously
+option-narrowing, I know.) The levels were filled with enemies, and I
+think they had reasonably predictable movement and shooting patterns.
+Oh, the destructible environments didn't seem to really have many
+clues. I remember basically playing it over and over to try and blow
+up EVERY wall, but I may just have been a dumb kid and missed
+something. **Other details:** Had a bangin' soundtrack, which is why
+I'm trying to track it down."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

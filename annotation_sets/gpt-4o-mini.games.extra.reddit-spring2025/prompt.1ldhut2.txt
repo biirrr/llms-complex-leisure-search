@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s-2010s?] Puzzle Adventure Game  Anime-style
+boy narrator, searching for parents, rotating wooden door puzzle. Hey
+everyone! Ive been trying to remember the name of this game I played
+as a kid around 2017 (on PC), but it could be from any year before
+that. It's a 3rd-person puzzle adventure game. You play as a young boy
+(anime-style, innocent face, big eyes) who wears a red headband that
+trails behind. The story revolves around finding his lost parentshe
+travels across towns and villages, helping people along the way.
+There's a wooden door puzzle with two circular locks (see image
+below), and the game has a hint system the boy uses to guide the
+player. One section involves a train, and in another you fill a bucket
+with river water. The art is emotional and fantasy-likenot high-end
+graphics, but warm and painted. The boy is the narrator and speaks
+when you click things. Heres a screenshot from the game showing the
+puzzle and the character:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

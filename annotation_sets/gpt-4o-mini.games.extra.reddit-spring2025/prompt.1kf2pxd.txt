@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNKNOWN] been wondering about this game for awhile. I
+don't know the console or year but hope this is enough. I don't
+remember enough to describe the game but I remember a cut scene pretty
+well. The start of what I remember is your being executed on a
+platform with what looks like millions below watching, when your
+executed your head falls down just to be caught by your allys or team
+or whatever, they push your head to a container barely saving which
+then you get a new body and continue."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction self help. Love yourself. Successful
+book.. I’m looking for this book I wanted to buy but didn’t catch the
+authors website/name. The author was on my local news station
+promoting it awhile ago, I live in Milwaukee. I tried searching local
+authors but came up empty. It’s a non-fiction self help kind of book,
+either about loving yourself or being successful, one of those type of
+topics. The author is a black female author I think cover has a photo
+of the author and has purple/white on it. I think it came out
+2022/2023, but may have come out before that, but definitely not
+before 2020 Please help I’ve been googling for hours lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

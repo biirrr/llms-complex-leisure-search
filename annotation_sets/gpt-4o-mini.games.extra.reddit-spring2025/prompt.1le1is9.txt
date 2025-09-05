@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC (web or CD-ROM)][Late 90's-early 2000's] Kid's game for
+girls with a cake decorating game. Platform(s): PC for sure, most
+likely a CD-ROM but could also have been a web game Genre: Children's
+game aimed at girls, princess game Estimated year of release: Probably
+2000-2005, but it's possible it was late 90's Graphics/art style: 2D
+graphics you'd expect to see in a cheap CD-ROM kids game from the
+early 2000's Notable characters: I don't know. I want to say it might
+have been Disney princesses, but it could've easily been some other
+girly franchise like Barbie. If it was Disney princesses, I don't
+think it was one specific princess. But definitely princess! Notable
+gameplay mechanics: The only thing I remember is a minigame where you
+make and decorate a cake. Other details: It's not Barbie as Rapunzel:
+A Creative Adventure, I definitely don't recognize the other parts of
+the game and I'm sure it was 2D, but the cake decorating was really
+similar ([at 17:10
+here](https://youtu.be/HTzeMU4_Ihs?si=K4KhKYSZAenu7ZPK)). It might
+have been inside of a castle. EDIT: It's also not Purble Place or Cake
+Mania or anything like that it was a for sure 100% a princess game.
+EDIT 2: I believe it's a pre-2002 Barbie game, which narrows down my
+search significantly!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android/ios] [2012-2015] early QTE-alike minigames. it was
+quite similar to the dumb ways to die saga, after every minigame you
+received a mark from F to A and as a child i found it really hard. i
+bet it was made by devs who made My Boo cuz the style was almost the
+same"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

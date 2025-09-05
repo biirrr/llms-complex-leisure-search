@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early to mid 2000's] 3rd person fantasy slasher. 3rd
+person slasher in a fantasy setting. (fable: the lost chapters style)
+The game featured 2 campaigns (""""""""good campaign"""""""" and
+""""""""evil campaign"""""""". you could choose which one to play
+first). It had different characters within 2 campaigns, the game
+featured mostly close combat (with possible magic use - my memory is
+vague here), a castle prison escape at the start of the
+""""""""good"""""""" campaign (it's 1st mission), the game had
+cutscenes. Also, potentially humans as enemies in the evil campaign
+versus magical creatures in the good campaign. The impression of being
+graphically advanced for its time is also an okay clue, I guess."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

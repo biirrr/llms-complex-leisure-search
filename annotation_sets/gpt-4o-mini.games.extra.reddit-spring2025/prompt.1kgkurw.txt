@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Apple 2/3 or C64] [1980s] Educational game about guarding
+the Declaration/Constitution. SOLVED! Platform(s): I know for sure the
+school computer lab where I played it had Apple 2Es but potentially
+also Apple 3 or Commodore 64. Genre: Educational,
+""""""""civics"""""""" or """"""""history"""""""" Estimated year of
+release: I would have played it around 88/89 but could certainly have
+been older Graphics/art style: Vintage 8 bit, either green on black or
+white on black. Notable characters: The Founding Fathers Notable
+gameplay mechanics: You play as the night watchmen guarding the
+Declaration of Independence (or maybe the Constitution, can't recall)
+and your job was to let people in to look at it but they had to be on
+the guest list, otherwise there was a chance they were impostors and
+would damage the document. Other events occurred if you left the
+document alone too long, like candle wax dripping on it or rats
+nibbling it. Other details: Remembered this game when I read Robert
+Anton Wilson's Illuminati books, as the idea of Adam Weishaupt taking
+George Washington's identity to do shenanigans reminded me of the
+impostor George Washington attempting to erase the priceless
+document."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s]Platform game with viking and eagles for
+transportation. Platform: MS-DOS Genre: left/right platform game,
+Mario style Estimated year of release: Early 90s Graphics/art style:
+Fantasy sword and sorcery Notable characters: Protagonist was some
+kind of warrior/viking. You could transport within the same level by
+using platforms where an eagle would swoop down and carry you to a
+second platform. Wizards that would throw ball spells attacks at you.
+Fairies. Other details: Main menu image was a warrior with a girl at
+his feet, pointing his sword into the sky. Similar to that famous
+Conan poster. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

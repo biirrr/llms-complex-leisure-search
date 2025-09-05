@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android/apple?] [2010?] a running horse. There is a game I
+was playing as a child I remember a pretty white horse with a rainbow
+burning hair? And the game were about the horse doing nothing but
+running and getting upgraded."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

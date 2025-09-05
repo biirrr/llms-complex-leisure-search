@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2008ish] MMO Urban Exploration/ Racing game.
+Platform(s): PC Genre: Urban Exploration/Racing MMO Estimated year of
+release: 2008-2010 Graphics/art style: Realistic for the time period
+Notable gameplay mechanics: I think the primary gameplay was urban
+exploration and questing. Some quests involved cars, and there I think
+there was a car-building mechanic involved. Other details: It was a
+subscription based MMO that reminded me of GTA, (but wasn't). It
+closed down within a couple years (maybe less). I looked through
+online lists of MMOs and nothing jumped out at me as being the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

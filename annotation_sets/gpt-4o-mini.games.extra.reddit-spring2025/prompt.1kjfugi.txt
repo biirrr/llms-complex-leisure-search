@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015] [animal crossing-like game, you played as an
+animal, it was a mmo game]. [PC] [2015-2016] SHORT DESCRIPTION: 0.
+IT'S NOT GARDEN PAWS 1. it was animal crossing-like game. 2. your
+character was animal (like npcs in animal crossing yeah) 3. it was mmo
+game. like, there was a big island for all players and another one for
+you. 4. you could level up in game, BUT there was a subscription with
+which you could level up to higher levels (anyway you still could play
+even with low levels yea) 5. after creating a character you appeared
+on an airship, which was attacked by some creatures (??). you fought
+them off and the airship fell on the island, where the """"""""village
+part"""""""" of the game actually began. 6. the approximate drawing of
+the game. the playground was like parkour. 7. it was an ordinary 3d
+game. free camera movement and so on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

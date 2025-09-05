@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash game? Online] [Unknown] Remembering a jumping game
+with orange circle dude with one eyeball. Okay so I wanted to play
+this one game that I always played as a kid on the family computer on
+games2girls. It was a super simple game of this orange circle guy with
+one eye that would be in a flat space and it was like colorful blocks
+that made up the map and you would have to jump over enemies, the
+enemies were like black spikes, almost like a sea urchin lol and the
+levels would get harder and harder. I remember they had like 4
+different versions of the game on girls2games. It was SUPER simple
+like it was just 2d and it was jumping to the top. I remember it also
+had like platforms sort of that would move back and forth in some of
+the levels. PLS HELP its been driving me crazy because it was the
+perfect game to play to just listen to something in the background."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

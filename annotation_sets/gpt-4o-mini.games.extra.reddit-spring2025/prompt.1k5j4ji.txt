@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ROBLOX][2017][OBBY] A weird obby game. The obby starts in a
+green or blue room, on the first stage of the obby there is an asset
+of a weird orange in a toilet and an octopus, overall this game has a
+lot of free assets and it has about 50 stages. https://preview.redd.it
+/1jdrue8qngwe1.png?width=820&amp;format=png&amp;auto=webp&amp;s=edb775
+2ed96b9493ee2dfc3460bbc4c7b10605a6"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

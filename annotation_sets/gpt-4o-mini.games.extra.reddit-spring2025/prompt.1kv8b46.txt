@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s-2000s] Sliding Game in Space. Platforms): PC not
+MAC Genre: Arcade-like Estimated year of release: 90s-2000s
+Graphics/art style: 3rd Person, 16 or 32 bit graphics If I remember
+right Notable characters: I have a faint memory that you play as a
+penguin (possibly incorrect) Notable gameplay mechanics: The premise
+of the game was sliding down slopes, one to another, but you were in
+space so if you messed up you just fell into the void. Other details:
+I'm fairly certain it wasn't Tux Racer, or Marble Blast Gold. I just
+remember playing this as a kid on my family's computer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

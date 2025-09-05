@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2000s Children’s Picture Book about not wanting to eat
+vegetables. This book I believe was published in the early 2000’s.
+What I remember about it is that it follows a family eating dinner and
+the mother will not give any of them dessert until all of their dinner
+and vegetables are eaten. The children and father do not like the
+dinner and/or vegetables so the father lifts a floor board and dumps
+everyone’s food under there while the mother is making dessert. The
+mother notices they are all their food and is very happy. This happens
+for a while until one day when they slide the food down there the
+floor starts to rumble I think and then it explodes, exposing what
+they had been doing. I grew up on west coast of Canada if that helps
+at all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

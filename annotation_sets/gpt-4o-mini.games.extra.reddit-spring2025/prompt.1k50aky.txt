@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC DOS or Windows 95/98][90s] Locked camera overhead
+perspective 3d adventure/fighting game where you played as a monk
+exploring an village.. Hi y'all every few years a game pops into my
+head that I found as kid randomly browsing through the folders on our
+Windows 95 Era PC, this would've been around 1998-99 but I recall
+playing what I assume was a demo of a game where you were a monk/
+fighter of some sort where the camera would follow a 3d character
+(think the cinematic camera from GTA) with low poly graphics. I can
+recall that you would fight random enemies and have some throwable
+weapons that you could use, the only two I can remember was a dart as
+well as some sort of ball which would generally bounce off into the
+stratosphere as soon as you used it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

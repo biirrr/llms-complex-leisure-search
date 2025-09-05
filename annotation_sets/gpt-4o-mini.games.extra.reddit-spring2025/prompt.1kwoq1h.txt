@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC GAME][WindowsXP] Please, help me to find this farm
+game!. Hi everyone! Im looking for a game I played over 10 years ago.
+I dont know the release date or the exact year I played it, but I
+believe it was around 2012. The game ran on Windows XP and was a sort
+of farming game where you started with 2 or 3 characters and had to
+make them gather resources to build a small civilization. You could
+also have them breed to grow the village population. I dont remember
+the exact goal of the game, but I do remember that you needed to
+collect herbs to make medicines and take care of the villagers. One
+very strong memory I have is of a kind of wall that we had to rebuild.
+Once rebuilt, there was something on the wall where we had to place
+some amulets or relics (they were circular with a drawing in the
+middle) that we got as we progressed in the game. I dont remember
+much else because I was just a kid when I played it, but I really want
+to find this game. I also remember that the games icon was a black
+circle with a white drawing in the middle. Any information could be
+helpful& its been a long time!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

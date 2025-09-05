@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2011-2015] Indie horror game about a hanged man. I
+think I remember a lot of popular youtubers playing it back then for
+example Pewdiepie. I think the game began in the basement or it might
+have looked like some kind of prison and you had to find a key to get
+out or something like that. After that (or some time later) you would
+find a note, to be more precisely a """"""""suicide letter"""""""" and
+after that a dead body would follow you everywhere, if you would look
+back it would be always behind you. There is a lot of jumpscares and
+maybe other creepy creatures idk, I can't find anything about this
+game anymore please help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

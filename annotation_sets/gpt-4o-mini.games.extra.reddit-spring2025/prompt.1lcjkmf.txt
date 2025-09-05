@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Flash game] [2016-2018] Zombie survival game where you
+would be able to get a colony of survivors who you could assign
+certain tasks. To start off it is not Last Stand or Rebuild Notable
+Gameplay: You were defending a fort/house in a first person POV from
+waves of zombies. You could assign the different survivors in your
+group to different responsibilities such as, helping defend the house,
+scavenging for resources, and other tasks. Each survivor had a unique
+rating to each skill. Some being better shooters, others better
+scavengers, and others doing certain tasks. Each day you would assign
+the groups and would progress through the day. NPCs had chances of
+dying or finding other survivors Graphics: The graphics had a more
+realistic approach to it. For example, using stock photos as the like
+pfps for the survivors you would add to your group. Weapons used would
+range on whatever weapons the scavenging party found. You would aim
+and shoot with your mouse Other details: I remember there being like a
+journal you would keep with the days numbered. Im not sure if it was
+7 days or 14 days until you beat the game. It was very similar to
+last stand but didnt have a cartoony art style and wasnt in that 3rd
+person pov."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teacher/counsellor for students with special needs in a
+school, kind of like an autobiographic novel. [s]. I first came across
+this author a couple of years ago. There are some 6 or 7 books on the
+topic by this author. Protagonist works as a counsellor for special
+children in a normal school. She helps special students to learn by
+alternate things than books. There are some birds in cages in her
+class? And studenta feeds them. In one of the books, there is a small
+girl (11 or 12 yr old ig) who murders a little boy and is caught by
+the police. She is taken to the protagonist for the time of her
+sentence and she gets to know the girl and understands why she did
+that. She starts loving her, and fights for her in the court, because
+she understands that the girl has a chance in a normal school
+environment, but if she is confined to juvenile home, she will get
+worse and there is no scope for her. I also remember the protagonist
+hasa bf, and she loves these children as her own and always talk to
+him about them, which he finds endearing, but also sometimes
+exhausting. It also describes a lot of children with other
+differences, like there was a child with autism ,and a lot of
+different types of children, who she cares for in her class. It's a
+really good read, and teaches you a lot of things about caring for
+differently abled children. I really wanna know the author's name( I
+vaguely remember the author is female, but I am not quite sure)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

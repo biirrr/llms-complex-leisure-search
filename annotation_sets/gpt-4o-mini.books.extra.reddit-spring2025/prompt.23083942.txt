@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA novel in the form of a boy and girl's notes to each
+other. Read around 2004-2009.. Brief YA novel told in the form of the
+two protagonists' notes back and forth to each other. The protags were
+a boy and a girl, either in high school or college, and I believe they
+were friends at the beginning but there was a romance element as it
+developed. I feel like they were written notes they left for each
+other, not text messages or emails, but I could be mis-remembering. I
+read this book around 2004-2009 and assume it came out around then,
+but not sure. I think I remember it having a lime green cover with
+some sort of silhouetted person?? I don't know why I remembered this
+recently but it is driving me crazy! Thanks for any ideas you might
+have."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

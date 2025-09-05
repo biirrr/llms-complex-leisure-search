@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox] [Around 2017] Horror RP Game. A couple years back I
+played some rp game on Roblox that I can't seem to find again. I guess
+it could be considered a horror with it's creepy theme as the morphs
+you could choose to play as would be things such as haunted dolls or
+creatures with unnaturally extended limbs. It was a simple enough game
+with a small area to converse in  a house. After choosing a creature
+to play as you'd spawn outside this house next to a dog house. Then
+when you went inside there was a phone on the wall to the right which
+would occasionally ring. The interior of the house was simple enough
+from what I can remember too, sitting room to the left and kitchen to
+the right. Then there were also some stairs somewhere that would lead
+to a basement with cells, pretty sure there was also I hidden room if
+I remember right. A final feature I can remember is the Easter event
+where every player would just be able to go around the house,
+collecting small easter eggs. If anyone can remember what this game
+was called my soul will belong to you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

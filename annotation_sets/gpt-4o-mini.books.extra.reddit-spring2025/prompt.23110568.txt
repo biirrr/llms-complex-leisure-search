@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction, early to mid-1980s - Girl goes to live with dad,
+step-mom, and new baby half brother.. Dad used to call the new baby
+half brother, Tiger. She called her step mom “SHE” and said it would
+make a good title of a horror story. She makes friends with two other
+misfits and falls for the boy next door. The boy gets her hooked on
+prescription drugs. There’s a scene in the middle of the book where
+she and her two friends are sitting in the curb outside a party where
+they had run-ins with the local mean girls. I think they are chatting
+and drinking a Pepsi and one of the friends said that she had called a
+mean girl, a ragamuffin because it was all she could think of."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

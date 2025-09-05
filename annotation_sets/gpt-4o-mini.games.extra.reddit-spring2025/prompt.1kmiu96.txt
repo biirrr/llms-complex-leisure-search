@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2015] A Sword Fight Game. What was that game
+released somewhere in between 2010 and 2015, you could control sword
+with mouse movement, characters hover in air and enemy fights. The
+terrain is just ocean everywhere, and you can fly around with sword
+during combat with the enemy. # Additional information: 3D game 3rd
+Person view"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

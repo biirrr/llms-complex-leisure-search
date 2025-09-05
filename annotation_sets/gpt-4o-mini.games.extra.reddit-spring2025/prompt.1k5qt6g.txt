@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early-Mid 2000's] Help finding RPG. I made this image
+as best as I can remember the game looking like. Fantasy RPG, 1st
+person and maybe 3rd person, I remember a desert, very open, several
+pyramids/temples, skeleton enemies. The draw distance seemed pretty
+far. Morrowind has similar graphics and engine, but it could have been
+some fancy raycasting. Ravenloft: Stone Prophet has a similar color
+palette and theme. I watched someone on a twitch stream play this game
+in 2016ish. It could have been a mod for another game. Thanks for any
+help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

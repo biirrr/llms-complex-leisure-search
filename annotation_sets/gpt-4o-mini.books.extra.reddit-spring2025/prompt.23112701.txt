@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction where main character is a physician
+who makes home visits, child gets bitten by dog on the face during
+dinner party, ghost seen upstairs.. I read this book and didn’t add it
+to my Read folder on Goodreads. I remember the main character was a
+male physician who made home visits. Somehow the maids were involved.
+There was a young girl bitten by a dog. The dog was spooked.
+Apparitions in the home. Suicide upstairs in the bedroom where a sick
+woman hanged herself. I read this a year or two ago, but it could have
+been published anywhere between the 1930s and 1980s. Probably a thrift
+store find, but I have so many books, it’s tough for me to narrow it
+down and remember. It’s also possible I found it at the library and
+returned. If anyone can lead me in the right direction, I would be
+forever grateful!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

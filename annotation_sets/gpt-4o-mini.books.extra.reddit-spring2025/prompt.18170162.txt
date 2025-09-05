@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children/Teen book about girl and siblings who start off
+being abused then sent to many foster homes [s]. When I was a child, I
+remember reading this one book. Unfortunately, I can't remember either
+the name or the title, nor other information about it. All I remember
+is the basic premise. A girl named Jerry and her brothers lose their
+mother to a house fire and are taken in by their abusive grandmother,
+who mistreats them while lavishing her love on another child, Alice.
+Once they get taken out of her care, they get placed in foster homes.
+At one point, Jerry graduates from school with the surname Zigga and
+tries to get her life together, and that Alice becomes a stoner. I
+also remember that Jerry had a cleft palate. Unfortunately, that's
+about all I know about it. I wish I could provide more information,
+but it was so long ago. Lately, memories of the book have been picking
+at my brain, and I haven't gotten answers in the places I've looked,
+so I thought I'd come here and ask. Do you guys know the name and
+author of this book? Please let me know if you do! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

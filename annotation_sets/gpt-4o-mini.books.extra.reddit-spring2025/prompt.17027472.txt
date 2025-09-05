@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book about diseases [s]. Searching for a book that I saw
+years ago at Barnes and Noble. (Probably about 5 years ago.) I want to
+say that the cover is black with lime green writing and features a
+spider or skull and crossbones or something creepy along those lines.
+Anyways, the book is about diseases. It lists where the disease
+originates from and the side effect of the disease. Any idea what book
+I may be speaking of?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

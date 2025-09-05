@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Woman in finance gets divorced because
+husband cheated and got another woman pregnant. She starts a bakery,
+has hookup on roof with new guy (wealthy, in motorcycle club). Read
+2024. [s]. So FMC husband gets another woman pregnant, she tries to
+stay because they've been together since middle school. The MIL is
+excited about the baby and doesn't like the wife so she's very pushy
+about him helping the baby mama. They tell FMC that she's not allowed
+in baby's life. She finally leaves when she catches him in their bed
+together. She starts a bakery after making cupcakes fir a birthday
+party, and ends up meeting a new guy, who had seen her years before at
+her old job in finance. They have triplets."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

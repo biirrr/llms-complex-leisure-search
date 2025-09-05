@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX?][Late 1990s - Early 2000s] Underrated series of
+japanese dark games. I heard about this series a while ago, probably
+in a Youtube video highlighting it as an underrated series. It was
+either a duology or trilogy, consisting of japanese games in early 3D
+graphics that in my memory ressemble those of PSX with pre-rendered
+backgrounds, but could be PS2 or a different platform. The games were
+highlighted for their story, with iirc more than one main character
+throughout the series, at least a girl and a boy. The setting had this
+appealing dark dream-like quality to it, I think there was a train as
+a setting at some point. What is stumping me is the actual genre of
+the game. I'm not sure it there were narrative VN-like games, JRPGs,
+Survival Horror... I only know they're niche but well-appreciated by
+some."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

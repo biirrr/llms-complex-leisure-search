@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction about a lady who receives an old
+suitcase mysteriously in the mail. The book then goes through dual
+storylines set in the present and Nazi-era. Spoiler.. Looking for a
+fiction book about a lady who receives an old suitcase in the
+mysteriously in the mail. The book then goes through dual storylines
+set in the present and Nazi-era while she tries to unlock the history
+of the suitcase. The female protagonist shares similarities with the
+struggles of the suitcase's owner, who she discovers by the end of the
+book. The suitcase's owner encounters Einstein on her journey to
+escape Nazi Germany."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

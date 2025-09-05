@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book from 80s pioneer girl and family meet Indian
+girl and her family [s]. I am trying to find a book I read as a child(
+I am 30yo). It was about a pioneer family. The story is told from the
+point of view from the daughter, who had blond hair. Parts of the
+story that I can remember: the girl hears drums at night and gets
+afraid. Her father comforts her. She has a doll that looks like her.
+Her family meet an Indian family that has a girl the same age as the
+pioneer girl. In the teepee the pioneer girl trips near the fire and
+her doll gets singed. The Indian girl saves the doll and gives it back
+to the pioneer girl. I don't believe this was a chapter book. I
+remember it was beautifully illustrated. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

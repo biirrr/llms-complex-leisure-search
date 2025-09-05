@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [circa early 2000's] third-person action RPG perhaps?.
+Hello, guys and gals! My grandfather passed away, and while going
+through his old photo albums, I found a +20 year old (maybe closer to
+25) picture of me as a child playing something on our old computer.
+Now, curiosity got the better of me, and I started wondering if anyone
+might be able to make out the video game in question from the blur in
+the picture. I have no recollection of the video games I played, apart
+from plenty of first-person shooters and strategy gamesbut this one
+doesnt look like a shooter. Looks like it's third person with maybe
+some sort of armor on? Green vertical bar on the lower left corner and
+a red horizontal bar next to it. I don't know if this is a lost cause,
+but I thought I'd give it a try. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

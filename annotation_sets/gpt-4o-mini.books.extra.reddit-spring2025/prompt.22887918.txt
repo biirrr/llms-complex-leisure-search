@@ -1,0 +1,47 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Post Apocalyptic/ Sci-Fi book series set a couple of
+centuries after the Earth got dismembered in islands floating in the
+sky over a cloud-covered void. Spoiler. [s]. Around 2070 some kind of
+""Event"" destroyed the Earth, turning it into islands (usually
+archipelagos of them, often representing pre-Event nations and/or
+cities) floating over a void covered by a layer of clouds. A couple of
+centuries later, the protagonists (at least a young man and woman, but
+they were part of a bigger group) live in a village on one of the
+floating islands, but the island's water (collected from the rain, I
+think) is ending because the rains lately are getting scarce; but then
+someone theorizes that all the world's water must have ended in the
+void, under the layer of clouds, where the atmospheric pressure is so
+high that no one has ever been to. During the books there are a few
+""Flashbacks"" of the world just before the event (notably, the first
+one is just at the start of the first book), always narrated from the
+perspective of a scientist woman character, used to clear a bit of the
+""lore"" behind the Event. The only clear part of the plot that I
+remember is (view spoiler) [ that (probably in the second book) the
+protagonists fly (with some kind of airship probably) to the flying
+pieces of what remains of London, to reach a secret laboratory where a
+nuclear powered prototype spaceship, capable of surviving enormous
+pressures, was getting built before the event. Here, they fight some
+kind of Mad-Max looking british punks and have to survive heavy
+radiations in the laboratory (the ship's reactor got damaged during
+the event centuries before); after this, they bring the ship to their
+home island to repair it and prepare to go into the void to find the
+disappeared world's water, but the book finishes here on a
+cliffhanger. (hide spoiler)] I am pretty sure this was a book series,
+and that I've read the first two books, I hope that a third book
+exists to end the story. I read those two books probably around
+2014-2018, they looked like recent books (surely written after 1994 as
+the Eurotunnel between France and England was mentioned in the
+""flashback"" at the start of the first book). They were written in
+italian, but I'm pretty sure the author didn't have an italian name,
+he/she was probably European though since that's where (as far as I
+remember) the book takes place."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

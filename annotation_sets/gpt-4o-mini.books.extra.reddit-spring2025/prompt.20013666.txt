@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction about innovative policing strategy. [s]. Looking
+for an adult nonfiction book about policing that I read 7-10 years ago
+in the US, so about 2009-2012. It's about a policing strategy and
+here's what I remember - The police called in everybody who was on
+parole/probation and told them that from now on, they would treat all
+murders the same as the murder of an officer, stopping at nothing to
+find and punish the murderer. The message was ""we care about you as
+much as we care about each other."""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

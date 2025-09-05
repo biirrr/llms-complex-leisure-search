@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction about library in a small mountain town. the
+main character is a young man who leaves his former life behind to
+move to a remote village in the mountains. There, he starts working at
+a library, whose main visitor is a shy boy who comes every day to
+read. There is also an older woman who looks after the library, and an
+elderly man who used to be the library’s owner. I don’t have any more
+details. I need the title of the book. I think it happens somewhere in
+Japan, but not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade fiction. A girl visits Mexico and discovers her
+family history.. I read a book around two years ago about a teenaged
+girl living in the US whose family came from a tiny town in the
+mountains in Mexico. (Note: it could be another Latin American
+country, I may not remember correctly) Her Dad sends her to visit her
+family there. She meets a boy her age, a goat herder who plays guitar.
+(I think his name was possibly Pedro?) They slowly begin to fall in
+love. They both want to discover an almost mythical waterfall hidden
+in the forest around the mountain village somewhere. While this is
+happening, her grandmother’s story is also unfolding. Something
+happens to the boy, but he survives. They find the waterfall together.
+Then she goes home to the US. Anyone have any idea what this might be?
+Thanks so much for reading this! I know it’s a bit long."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

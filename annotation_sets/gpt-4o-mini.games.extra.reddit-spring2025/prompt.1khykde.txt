@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC &amp; Mac] [Late 2000s] Flash Game where you control 3
+separate characters. Greetings everyone! First post here and I hoped I
+provided as much detail as possible! Platform(s): Web browser (Flash-
+based site similar to Kizi, late 2000s) Genre: 2D Puzzle Platformer
+Estimated year of release: Sometime between 20052010 Graphics/art
+style: Clean, non-pixelated visuals. The art style had a modern,
+slightly cartoonish look with militaristic design influences. Not
+realistic, but also not overly stylized or exaggerated. Characters had
+distinct color schemes. Notable characters: You controlled three
+separate characters, one at a time, each with unique abilities. Names
+might not be exact but based on memory: """""""" Scout: Blue-themed,
+turned invisible when not selected """""""" Shield: Green-themed,
+crouched and raised a shield when idle """""""" Tank: Large/heavy
+character, color scheme unclear Notable gameplay mechanics: You could
+control only one character at a time; the other two remained idle.
+Each character had a specific utility that you had to use in
+coordination to progress through levelse.g., positioning them
+correctly to solve a puzzle. The game heavily emphasized strategic
+character-switching and placement. Other details: """""""" The music
+was a low-bit, cartoonish, space-themed tune. """""""" The game may
+have had the word Commando in the title, but Im not 100% sure.
+"""""""" Played on sites similar to Kizi or Miniclip, but exact site
+is unknown. """""""" Theme was modern/militaristiclevels had
+industrial or tech-based designs."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

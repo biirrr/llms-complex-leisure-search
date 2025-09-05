@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010?] Multiplayer game with 3rd person fighting and a
+commander. Platform: PC Genre: Moba? Estimated year of release:
+2010-2015? Graphics/art style: 3D Notable characters: Dwarf (builder),
+guy with a gun, big playable demon character if conditions are met.
+Notable gameplay mechanics: 1 commander on each team, who can place
+buildings while the other players build and fight in 3rd person. I'm
+sorry it's so vague but it's all I can remember and I've been
+wondering for years which game it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

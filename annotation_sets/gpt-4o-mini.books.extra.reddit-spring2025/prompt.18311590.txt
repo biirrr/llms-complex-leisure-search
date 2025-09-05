@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book on moving out for first time. [s]. I saw
+this book in the library in the U.S. in the 1980s. I think the title
+is ""Moving"" or ""Moving Out."" I did find this:
+https://www.goodreads.com/book/show/5... However, it seems unlikely to
+be the one I saw, as it was published in New Zealand and no U.S.
+libraries have it. But the gist is the same: How to move out and get
+your own apartment, set up utilities in your name, etc. I recall it
+being softcover, with big blue block letters and an illustration of
+some kind on the cover. It may be obsolete at this point. So I'm open
+to recommendations for other books on the same subject. thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

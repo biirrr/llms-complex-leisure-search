@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Famicom?] [1990s] Old NES game: big red-haired kid,
+temples, waterfalls, LIFE bar at bottom?. I have some screen shots
+below to help. Looking for an NES/Famicom game where you play a red-
+haired boy in a blue outfit. The character is pretty big compared to
+typical NES games. The first level has temples, waterfalls, and you
+have a LIFE bar made of boxes at the bottom. Theres also a little
+character head icon with a number of lives shown. Platformer style, no
+heavy shooting."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

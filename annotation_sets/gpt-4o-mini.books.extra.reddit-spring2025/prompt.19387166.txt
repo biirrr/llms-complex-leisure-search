@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Motivational quotes. [s]. Hello Readers, I am looking for a
+book, but I have no idea about the Author or Name of the book. All I
+have is image of it, screenshots taken from Instagram. Any help would
+be highly appreciated, https://ibb.co/dJ3nud https://ibb.co/ikoO0J
+https://ibb.co/i8crLJ Thank you in advance! Regards, Aarti"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

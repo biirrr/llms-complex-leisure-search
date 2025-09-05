@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP] [~2010] RPG about the protagonist fighting a giant
+monster/dragon at the start of the game while trying to defend his
+home. **Platform(s)**: PSP (not sure if it was released on other
+platforms) **Genre**: RPG **Estimated year of release**: Around 2010
+**Graphics/art style**: Similar to RPGs from that era, like *Final
+Fantasy* or *Monster Hunter*. **Notable characters**: Protagonist
+without any equipment at the start of the game. **Notable gameplay
+mechanics**: I don't remember the gameplay mechanics in detail.
+**Additional details**: The game starts with a dragon attacking and
+destroying a medieval-like city, and the protagonist attempts to fight
+it but fails. The art style doesnt seem anime-like, though I could be
+mistaken. Its definitely not *Final Fantasy*, *Monster Hunter*, or
+any *Phantasy Star* game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

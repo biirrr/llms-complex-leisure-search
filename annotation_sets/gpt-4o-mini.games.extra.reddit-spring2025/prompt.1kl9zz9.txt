@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010-2013] Platformer where you play as a thief to
+get treasure. Hey all! This was a platforming mobile game where you
+played a thief wearing a green tunic with a hood. You had to get
+through levels to get to the end to win where each level flowed into
+each other, I *think* with the typical 1-1, 1-2, etc leveling system.
+I believe there were 4 worlds. I know for a fact one was lava-themed
+and one had a yellow theme, so likely Gold or Egypt themed. There were
+""""""""puzzles"""""""" to solve like grabbing keys for locked doors,
+you could kill enemies though I can't remember exactly how, maybe by
+luring them into traps like dart traps. I *think* you had an attack,
+since you could break pots to collect gems. Each level or each world
+had hidden secrets to find, like golden chests with unique loot that
+just existed to collect I think. Once you beat the game, there was a
+speed run mode where you ran from the entire game in one shot, and I
+loved this and I think got about ~30min as a PR. Please help! I doubt
+this game still exists but I wanna remember what it was so bad! Thank
+you in advance :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

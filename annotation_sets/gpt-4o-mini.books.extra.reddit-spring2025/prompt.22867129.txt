@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance about widow who posts ad for new
+husband. [s]. My mom is trying to find a book she read probably 20
+years ago, about a widow with small children on a farm who posts an ad
+for a new husband and the man who responds to the ad is fresh out of
+jail/prison. Book might be set in the 1800's (whenever people trusted
+ads to find spouses). We think it was called Bittersweet, however so
+many books share that title and we can't find the one we're looking
+for so we're hoping to find the author's name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

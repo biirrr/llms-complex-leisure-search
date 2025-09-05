@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2000s] This game was about saving the world from
+monsters. I don't remember much about this game, I remember that I
+played this game on an old computer with a huge white monitor. I
+remember that at the beginning of this game you can choose a
+character, such as: women, men, cyborg, robot and a demon or a
+vampire. Also in this game in the settings you could change the blood
+to flowers. Also in this game after passing the level, you could pump
+up the character, the pumping looked like a tree. The camera in this
+game was from above, it did not move. The game was 2D. The first mobs
+were small orange monsters, and the first boss was a robot, but in the
+following levels he was like an ordinary mob. When I played this game
+I always chose the vampire demon, because in his pumping there was
+vampirism which helped a lot in passing. I don't remember exactly what
+he looks like, but I think he's red with a blue cloak. I hope my post
+will be noticed and they will help find this old game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

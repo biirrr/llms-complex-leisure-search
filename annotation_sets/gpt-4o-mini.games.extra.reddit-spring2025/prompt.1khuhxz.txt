@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2020] game about cars and guns. Hi everyone! First
+post ever (sorry if its not well written &lt;3) So i remember a game
+that i used to play maybe 7 8 years ago, but the game was surely
+older. It basically was a car game where you had guns and you had to
+shoot and destroy other cars and drivers. It was strictly just cars
+and no humanoid characters in the game sequence. You could also buy
+and upgrade your cars and weapons. The game also had a map which you
+had to play each mission to unlock the next one. I really dont
+remember anything about the story atm."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

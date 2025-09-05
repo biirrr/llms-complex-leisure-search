@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller about the disappearance of a young girl
+during a family vacation. Years later the dad dies and the older half
+sister and now teenage twin of the vanished girl are going to his
+funeral. Spoiler. [s]. I remember quite alot about the plot, but
+nothing else. A teenage girl has a bad relationship with her rich
+fatherand is forced to go on a vacation with him, his friends and his
+new younger wife and their twin daughters. During that vacation, one
+of the young twin girls dissapears. Years later, the dad has died and
+now the older daughter takes her estranged remaining half sister to
+the funeral. The thriller is set both in the past and present. SPOILER
+ahead: you find out pretty soon the girl actually died of an overdose
+because the adults drugged all the kids so they could go out and
+party. They cover it up and get away with it. There is a plot twist in
+the last pages where you find out the overdose wasn't an accident."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

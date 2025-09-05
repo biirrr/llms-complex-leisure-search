@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser] [2010s] Psychological platformer. I played this
+for the first time somewhere around 2014 I believe. It's a platformer,
+black an white if I recall, and there's a narrator who speaks to the
+player. In the very beginning the narrator asks you if you're a man or
+a woman but no matter what you choose they go """"""""Wrong. You are a
+boy."""""""" and continue to refer to you as such for the rest of the
+game. The narrator then tells you to do things. Like jump, or slide,
+or go over a spike pit. If you fail the narrator would get mad and the
+screen would start going red, and the more you'd fail or disobey (I
+think there was a bit where you're asked to jump into the spike pits)
+the more distorted the screen would become, full of red and maybe even
+glitchy bits? I don't remember how it ended or if I ever finished it
+but at its core it was a game about abuse and being stripped of your
+own agency, and it really hit hard."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

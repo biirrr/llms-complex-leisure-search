@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2018-2022] It has ...scape on the title of the
+videogame?. What's this game that has scape on the Title? It's a
+relaxing pc game like Cloudgardens (but more realistic) where you
+build landscape and nature like Blender 3d. t.i.a."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

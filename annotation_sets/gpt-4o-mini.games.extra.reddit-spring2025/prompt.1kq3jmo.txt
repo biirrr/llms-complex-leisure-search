@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][unknown] Possibly relatively new indie game stuck in my
+head. Platform(s):pc Genre:Exploration/puzzle Estimated year of
+release:Probably after 2018 Graphics/art style:2d seen from above
+Notable characters:None Notable gameplay mechanics:None Other
+details:The game takes place in the protagonist's new work building
+with floors separated by numbers, each floor has a theme. The game has
+a horror-like aesthetic. And I vaguely remember (I might be wrong)
+there was a girl who worked on a floor where a printing machine
+monster follows you in the middle of toxic smoke."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

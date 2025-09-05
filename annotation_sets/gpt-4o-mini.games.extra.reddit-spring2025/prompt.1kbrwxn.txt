@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][YEARS 17-19] 2 player foot racing game from some
+popular chrome site. the game is the one above, for two players, with
+characters that only had textures and colors, who run through
+scenarios such as cemetery, snow and forest, facing obstacles such as
+mud puddles, bees, zombie hands and tombstones, and with simple
+controls just jumping and crawling, if I'm not wrong it starts with M,
+help me please"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020~] Indie horror(?) game about driving to get a wish
+granted. I recall playing a game a few years ago that was probably
+downloaded from itchio: The game starts in 3D, and you are in a empty
+living room with an object on an altar in the back of the room, when
+you aproach, a voice asks what is it that you desire, and you can
+actually write your answer. The game has to recognize your answer as
+valid (I think) so you can't write gibberish. After that, the rest of
+the game becomes 2d ans alternates between a section where you drive
+and avoid spooky obstacles, and a section where you arrive in a town
+(you see a map or aerial view of the town) and have to manage your
+money to buy food and gas (or buy lottery tickets to gamble) and you
+get to see a map so you know what direction to turn during the driving
+section."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

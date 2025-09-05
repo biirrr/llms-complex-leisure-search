@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance series? Female lead (actress, singer) meets
+male lead (from rock band) at airport. Later, she and bff (model,
+drummer) start a band.. Looking for this book, I think it’s a series.
+She’s an actress (Or was) - bff is a model - I think her brother is an
+actor too.. When the book starts its when she’s at an airport (Going
+for a audition- She gets it and that how she becomes famous) she meets
+main guy from rock band, they chat for a bit. Then it skips to current
+time - Her and her bff start a band. She sings (maybe plays guitar
+too) - bff is the drummer. Then they meet the guys from famous rock
+band again (He remembers her) they collab. She and main guy from band
+start dating. That’s the basics of what I remember. I’m searching but
+coming up empty and its driving me crazy!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

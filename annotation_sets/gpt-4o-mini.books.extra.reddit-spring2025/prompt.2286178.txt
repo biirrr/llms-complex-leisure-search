@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sci-fi short story: A man finds another dimension under his
+sofa. Hello all, I once read a science fiction short story in a
+locally translated Science fiction anthology. It contained Ray
+Bradbury's Sound of Thunder as well. Therefore I'm sure the story in
+question might have also been a translation of a known work. The only
+bits and pieces I can remember are, 1) A man falls into another
+dimension under his sofa (he might have been crouching to reach for
+some fallen object and he gets pushed in) 2) This dimension is sort of
+greyish and empty Does anyone know what this short story might be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64?] [Unknown] help me remember!. I am trying to remember
+a game I watched my dad play. I'm pretty sure he got it when he bought
+the N64 close to its launch. It had a rotating square platform in a
+dark background, and you would move across the board and shoot at
+waves of enemies which were also shooting at you. Levels would get
+progressively harder. I seem to remember techno/electronic music
+soundtrack. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

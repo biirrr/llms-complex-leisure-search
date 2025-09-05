@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2018] Turn Based RPG with skill tree and 2 young
+kids who go into a town. I don't have a picture, but i vaguely
+remember a few things. First, it was a turn based rpg, 16-bit pixel
+art, and top-down POV The game started with a young boy and girl in a
+house in the woods, one could have been lost or hurt or something and
+the other agreed to take care of them. I think there was a parent too,
+but afterwards, the kids went into a town where they either went to an
+academy or guild or something where they learned about a skill tree i
+think. After that, the tutorial was in the sewers where they fought
+rats and stuff, learning the basic combat mechanics and stuff, i think
+it was a grid, tactical combat system but i could be wrong. If anyone
+has any ideas lmk please and thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy book read in early 2010s. Cover has a girl with
+the mountain behind her. Girl travels up mountain and survives many
+hardships. There is a prophecy involving a girl with either white or
+red hair. Spoilers ahead. The book is in English. The book cover was a
+photo-realistic image of a girl (I think she had black hair) with the
+mountain which she travelled up behind her. I read this book roughly
+13 years ago so it would have been the early 2010s. The setting wasn’t
+modern, I vaguely remember the protagonist using a dagger or sword to
+defend herself on the mountain. Spoilers ahead: I remember that she
+travelled up the mountain and when she was seeking shelter in a cave,
+she re-unites with a male friend who unfortunately later dies. There
+is a prophecy about a girl with either white or red hair (can’t
+remember the color) conquering the mountain or saving the people. The
+protagonist (female) has black hair. However, I vividly remember that
+at the end of the book, her hair color becomes the same as the one
+stated in prophecy due to the light reflected by the snowy mountain. I
+apologise in advance for not being able to provide more information.
+It has been so long and I really don’t remember much other than really
+liking the book! Any help is much appreciated. Thank you!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

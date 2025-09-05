@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360/Xbox One] [2010's] 2D team fighter game. I played
+this game with my friend around 2012 on the Xbox 360 (could've been
+later and on the Xbox one as well). There were two teams on each side
+of the map. The goal was to get to the other side and destroy the
+other teams base. All players were real players (I believe). It was 2D
+with platforms. You could select between a multitude of characters.
+The one I remember is a monkey with a jetpack/laser thing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

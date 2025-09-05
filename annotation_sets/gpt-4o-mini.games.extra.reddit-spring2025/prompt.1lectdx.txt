@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000 ish] First Person indie space game with Newtonian
+physics. The graphics were MSPaint level basic but the flight model
+was very detailed. Repairing your ship too was very detailed too
+requiring you to remove panels with a screwdriver and and replace
+burned out components individually.. You could dock with a space
+station to pick missions and talk to people. It was developed by a
+brother and sister team but has since been abandoned. Conceptually its
+pretty similar to Ostranauts but in 1st person"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

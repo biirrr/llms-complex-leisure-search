@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Game about a black haired woman in a haunted
+mansion. Hello everyone, I need help looking up a steam game that I
+once saw, but I can't find again I don't remember when I saw this game
+because I was a middle schooler, but what I remember is that it was a
+steam release, and it was a horror game about a black haired woman
+trapped in a haunted mansion, and it was cold, and she was chased by a
+monster like person. The reason I remember this game is that the game
+is 3D, and it was VERY VIOLENT, it's not clocktower, not haunting
+ground, not a PS2 game or a flash game. I remember the game being
+probably European, it wasn't some weird Japanese Eroge or Doujin game
+with erotic content. One more detail I remember is that one of the
+endings was something about the main character being pregnant, and
+she's giving birth to the villain's son or something like that. It was
+very disturbing I've been looking for this game for a while, but I
+haven't found any results any help is appreciated, thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

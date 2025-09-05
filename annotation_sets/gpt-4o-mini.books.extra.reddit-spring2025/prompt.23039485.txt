@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction. I Just joined and I need help!. Hi, I tried so
+many different things before this, in fact, I was committed to
+scrolling through 60,000+ books on Libby to find this book. I read it
+sometime between 2019-2022 I have a vague idea of what happens I have
+a list of things I'm for sure on though The cover features a fallen
+bicycle. The story involves multiple points of view (at least three).
+One early scene is set in a lunchroom. The plot centers around teens
+in a mental health facility, possibly including twins(who were girls).
+The book includes content warnings at the beginning. other than that
+it's kinda lost I think that after a few chapters, they get out? and
+like run into a tank maybe but that's 100% not guaranteed. I also
+thought the cover with the fallen-over bike it was raining or wet
+outside or maybe just dark outside. I need help finding it I thought I
+read it on Libby and it was a DNF. I started reading it at a rough
+time so I just couldn't get far. One last thing I think I remember is
+I think there was a guy who was a little creepy to someone maybe one
+of the twins."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

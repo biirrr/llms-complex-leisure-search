@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2020] Physics based 2D platformer shooter. The
+game was pixelated, although not full on 8-bit. The first boss was a
+helicopter with arms, the arena was on a bridge, I think the boss
+would also break that bridge at some point and the second boss was a
+blond lady in blue suit with a big plasma/laser gun and the arena was
+in some sort of cave. I think you could also contol a mech at some
+point in the game. That is all i remember, unfortunately"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

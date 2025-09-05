@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1996?] Action/Adventure time travel game. I don't
+remember much about it because I played as it as a child but here is
+what I know. - We had the demo on our PC along with Muppets Treasure
+Island. - It was 3D movement I think, or 2D sidescroller. - It was
+some kind of adventure / slow action game - I distinctly remember a
+caveman but also some more futuristic things so I assume time travel
+was involved. - Pretty sure there was an inventory of some kind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

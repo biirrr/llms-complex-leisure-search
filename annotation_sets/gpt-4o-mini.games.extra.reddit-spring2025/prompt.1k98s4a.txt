@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [Unknown] Game about a kid trying to save her(?)
+sibling(?). Platform: PlayStation 2 Genre: Action-adventure, I believe
+Estimated year of release: Unknown Graphics/art style: It was 2D and
+had an anime-esque style. The actual playable game portions were
+pixelated, but the cutscenes were just 2D anime-style. Notable
+characters: The main character was a child (I think a girl) with
+either blue or pink/purple hair, in a sort of chibi-styles. I think
+they wore a navy coat and red scarf, however that isn't as concrete a
+memory and I could be getting it mixed up. Notable gameplay mechanics:
+You would walk around and kill monsters. Definitely used projectiles,
+I can't seem to remember if they were snowballs or magic, but I'm
+increasingly certain they were snowballs. Other details: The cover art
+was definitely dark in colour, maybe blue or purple with some grey. It
+had the protagonist on the cover, surrounded by some of the monsters
+they fought against. In the game, there were a few biomes, I remember
+a snowy area and a desert area. I also remember a siren enemy, so
+there had to be a water area. Every now and then while you were
+walking, there would be a high pitched cry and a red exclamation
+point, and then a swarm of monsters would emerge. I don't remember
+much dialogue happening, I don't remember any NPCs (although I don't
+think I made much progress, I was very young and found the game very
+hard)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

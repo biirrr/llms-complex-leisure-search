@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2009-2012] A platformer about a family of emojis. I
+remembered playing one flash game from my childhood. It was a puzzle
+platformer game, where the player controls a family of round
+characters (looking like emojis). Each character had different
+abilities (father - single jump, mother - mirrors movement of father,
+son - double jump, baby - can't jump, grandfather - floating in the
+air). There can be multiple characters on a single level, but only one
+can be selected and controlled at the time (no multiplayer). The only
+hazards on the level were spikes, fires, and bombs. The game had an
+internal achievement system. There was classical sad music played in
+the background."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][1990s] RPG type of game, had a scene where you time
+travel and have the option of preventing one of the main characters
+from becoming paralyzed and wheelchair bound. Trying to think of this
+game I played like 20 years ago. RPG type game with graphics similar
+to Tales of Phantasia/Chrono Trigger. There was a time travel or flash
+back scene where you had a chance to prevent one of the main
+characters from getting hurt by a machine, I didnt understand back
+then what to do prevent the injury, so I wasnt able to prevent it.
+Character was female and a wheelchair user. Ring any bells? Just got a
+Steam deck so looking to play this again. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

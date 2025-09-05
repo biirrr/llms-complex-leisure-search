@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2015-2017] Game about surviving on an island.
+Platform(s): Mobile, Andoid Genre: Survival Estimated year of release:
+Graphics/art style: Pixel art Notable characters: Notable gameplay
+mechanics: Fighting, Collecting fruits, Upgrading a house Other
+details: A top-down game, you were on an island, on the island was a
+cave with slimes, you had a camp that you upgrade to a house, game
+looked kinda bad"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

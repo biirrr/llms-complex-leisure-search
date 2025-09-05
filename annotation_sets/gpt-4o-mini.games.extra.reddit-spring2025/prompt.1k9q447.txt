@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH PC] [2010s] PBS Kids(?) game about shapes in space
+(Not Cyberchase). I don't remember much about the game at all, other
+than the fact that you played as a sentient shape, I think a square?
+And are in space. There's a lot of reading, little actual gameplay
+except clicking on things/NPCs, it's mostly story based. I think the
+plot was about a party? Or cookies?? Or robots??? I don't know
+anymore. It was all 2D, very bright and sci-fi. I remember a lot of
+blues too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

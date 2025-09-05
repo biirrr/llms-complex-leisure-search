@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[windows/pc][1990] medieval style game. (Solved) When I was
+younger I played a game that you control small groups of different
+types of soldiers. Some knights, archers, a wizard, halflings or
+gnomes, a rogue etc. The beginning started you out in a small town
+learning the controls. You would make pumpkins explode set scarecrows
+of fire etc. Then you would head up the hill to assault a castle and
+had to break in. Once inside you had to hunt down the king and
+capture/kill him. It was not turn based but realtime game play."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

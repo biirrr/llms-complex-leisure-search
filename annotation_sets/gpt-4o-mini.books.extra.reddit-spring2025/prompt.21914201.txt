@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Modern Sci fi. Girl goes to a different (icy) planet to save
+her father, but almost freezes to death before being saved by an ice
+being. A dried up ocean is on the planet. Read early-mid 2000's.. I'm
+looking for a science fiction book I read once about a girl going into
+space via strange means, and ending up on this icy planet. She's saved
+by two beings, one who is basically Regiice, since they are a
+crystalline, sentient mass of ice, and the other who is not that, but
+whose features I do not recall. Spoiler Warning further down! They're
+traveling together and they find this massive area that's supposed to
+be an ocean, but it's all dried up. I don't remember a whole lot about
+what happens or what she's trying to do, except get home, but by the
+end of the book I think the planet blows up or is destroyed in some
+way. I think her father dies or was already dead as well, but I'm not
+sure. The book's cover had a man's face i think? Overlayed with a
+space background. I can't remember if butterflies were on the cover as
+well, but I feel like there were. I read it in early to mid 2000's but
+the book is probably much older than that, since it had an old-timey
+sci-fi book feel to it. Sci-fi is not my usual taste so I'm having a
+hard time finding it, anyone have ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

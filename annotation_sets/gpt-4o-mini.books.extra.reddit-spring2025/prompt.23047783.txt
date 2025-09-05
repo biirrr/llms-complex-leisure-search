@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy Short Stories about young girls being courageous
+and brave, anthology with a bunch of different short stories.. was a
+hand me down book from my cousin born in 96, I remember two of the
+stories, one had to do with a young girl that could bake very well and
+disguised herself as a boy to enter and win a competition to cook for
+the king, a second had to do with a girl who had to answer 3 questions
+in order to marry a prince but outsmarted the prince's mother. each
+girl was also from like a different country?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1998] 90's Web RPG - I think I know the name but am I
+remembering correctly?. **I think I remember this game's name as
+'Rock' or 'ROCK' (could be an abbreviation, but I don't remember it
+that way). I did a number of searches with this name with not much
+success, or I searched incorrectly. Does anyone else remember a game
+like this with this name? Am I crazy?** **Platform(s): PC/Web**
+**Genre: RPG** **Estimated year of release: 1998-ish** **Graphics/art
+style: Text (i think)** **Notable characters: unknown** **Notable
+gameplay mechanics: Action pool, actions consumed per move/action,
+resets every 24 hours** **Other details: So I thought this game was
+fully web based, not a wrapper for a BBS. I don't think there were
+many graphics.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

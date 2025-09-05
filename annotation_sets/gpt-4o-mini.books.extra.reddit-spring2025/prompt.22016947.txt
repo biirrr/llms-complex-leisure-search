@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Werewolf Romance - girl rejected by pack & mate;
+Werewolf god appears. [s]. I'm currently looking for a werewolf
+romance that had been recommended to me on my Kindle app, however I am
+unable to find it. From what I recall, It is about a girl who is
+treated badly and basically rejected by her werewolf pack and the
+alpha or his son is the worst, because of something her dad or her mom
+or both of her parents did in the past. And since one or both of them
+is gone she receives the brunch of the disdain of her pack. At her
+coming of age she transforms for the first time, it is discovered that
+she is the alpha's son's destined mate. She hope's that means things
+will finally start to turn around for her - because she was his mate,
+surely he would protect now, right? However, he rejects her in front
+of the entire pack. Her wolf spirit can't handle the rejection and she
+starts to die. Until the spirit/god/protector/deity of werewolves
+appears and decides to take her as his mate. And that is all I can
+remember. Please let me know if this sounds familiar to any of you!
+Thanks ☺️"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010's] Futuristic themed fps game. I'll try giving as
+much detail as possible, I am so sorry for that there is not much
+detail. Platform(s): PC Genre: First Person Shooter / Adventure / Open
+World / Single Player Estimated year of release: 2008 - 2010. I played
+this in 2010 - 2011, but the release may be a few years earlier.
+Graphics/art style: Futuristic, yet not cyberpunk Notable characters:
+MC was a male, and probably wore glasses like in Matrix. Notable
+gameplay mechanics: No abilities or inventory system I can remember
+of. There was only futuristic themed weapons, and the enemy looked
+like wearing futuristic apparel. Other details: I only have a vague
+detail of a scene from my childhood. I think it had an open world
+setting where things barely existed. I remember seeing a huge
+electricity tower in the middle of a green field where nothing
+existed. Near the electricity tower was an entrance to an underground
+facility. It was dark and had enemies inside. Looked like a factory
+with metals all over. Only things I remember is shooting random
+enemies with futuristic weapons. Not sure but the game probably had a
+blue menu that looked like tinted glass. Again, sorry for not
+providing many details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

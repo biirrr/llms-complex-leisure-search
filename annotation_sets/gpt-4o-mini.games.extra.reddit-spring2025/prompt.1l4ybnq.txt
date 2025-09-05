@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Java][2000s][2D] Game where you fly and crash into
+birds/aliens for points. Im trying to remember a game I used to play
+on my father's mobile phone back in the mid-2000s. It was on one of
+those pre-smartphone devices, probably running Java. From what I
+remember, the goal of the game was to crash into as many things as
+possible to gain points and momentum to fly further. It was a 2D side-
+scrolling game with horizontal movement. You could crash into things
+like cactuses, birds, and even aliens if you got high or far enough. I
+vaguely remember that the game might have been about a stuntman or
+something similar, but Im not entirely sure. The games title may
+have included the name of the main character. Any help identifying
+this game would be amazing!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

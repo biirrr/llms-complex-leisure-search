@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Nintendo (Maybe)][2010s-2020s][Platformer/Action] Trying
+to find a game I only remember some music from. I am trying to find a
+game I can really only remember a small snippet of music from. I wanna
+say platformer or action game. Bit of music I remember is very upbeat,
+I wanna say it was boss music. I have recreated what I can remember
+from it below.
+[https://voca.ro/1eKXyR5jlPP3](https://voca.ro/1eKXyR5jlPP3)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid-late 90s] Point and click puzzle game involving
+time travel to solve a mystery. Platform(s): PC Genre: Point and
+click/puzzle Estimated year of release: Mid-late 90s, possibly early
+90s Graphics/art style: Hard to visualize now, but realistic for its
+time period? Maybe an almost painted look, as most screens, iirc, were
+static. Not dark or gothic. Not cartoonish Notable characters: Only a
+monk that I recall talking to who wanted me to solve a puzzle with
+some stones that had me stumped Notable gameplay mechanics: You're
+tasked with solving some mystery that requires traveling back to
+different places in different time periods, where you must solve
+puzzles and interact with the people of that time period. Point and
+click gameplay with semi-open worlds at each location that you could
+explore by going right, left, forward, or backwards. There was some
+kind of central hub with crystals (?) that were used to go to each
+time/place Other details: You would take on the role of someone who
+belonged in that time period. I didn't get far because a) I'm pretty
+sure my dad bought me the *second* game in the series, so I really had
+no clue what was going on (I was 10 in 1995, for reference) and b) the
+tutorial was *sparse* and I could not figure out what it wanted me to
+do *anywhere.* There was a monastery, where there was a monk who
+tasked me with solving a puzzle involving some stones with symbols on
+them, I believe that I had to step on in the correct order? And there
+was an... Irish? countryside. Definitely set in the middle ages.
+Possible the monastery was *in* the Irish countryside- also possible
+the monastery was in Tibet. It's incredibly fuzzy. I'm unsure of this
+detail, but I feel like I was ultimately looking for more crystals to
+take me to more times and places that would give me clues to this
+mystery I was trying to solve, the premise of which has been
+completely lost to my crappy memory. The game that people mention that
+always makes me think of it is Myst and I want to say the game title
+was """"""""Mist(s) of"""""""" something, but I could be way off on
+that, too"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

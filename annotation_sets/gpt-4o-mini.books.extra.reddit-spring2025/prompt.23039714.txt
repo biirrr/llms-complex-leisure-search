@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction/ Sci-Fi. Miranda has a day off school for lunar
+event that turns catastrophic (Moon comes too close to Earth), almost
+like apocalypse, has to survive with her family. Read around
+2022-2023. Spoiler.. Read it about two or three years ago. Miranda, a
+student, has a day off for some lunar event that turns catastrophic.
+The moon comes too close to earth or crashes into it, can't quite
+remember. It's almost like an apocalypse and she has to survive with
+her family. Her neighbor, an elderly woman, leaves everything to
+Miranda when she dies. Miranda goes to search for more people and/or
+food, decides she wants to die so her mom and brother(s?) can survive.
+She finds a group of people who have been running a food service and
+give out something like a week's worth of food per person to her. She
+basically has to help rebuild. Sorry for vague details, it's been a
+while!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

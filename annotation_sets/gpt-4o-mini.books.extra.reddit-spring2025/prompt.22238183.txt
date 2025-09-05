@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Horror anthology for Kids- featured multiple stories
+involving vampires. Two-in-one reversible. Spoiler.. I had this kid’s
+horror anthology once that was 2 books in one or “reversible”. If you
+turned it around, you could read the other book. I most likely got it
+from a Scholastic flyer or book fair at the time. I recall it being
+very thin, like a chapter book, and possibly black in color. I mostly
+recall one story where the character was, as described from their
+perspective “ V. African American” (v being for vampire). The story
+ended with the main character drinking a school bully’s blood. The
+title of this story may have been “doing it old school” or something
+similar. The only other thing I can recall is a fragment of another
+story where the main character recalls how a fellow vampire had
+chipped their fang on a Blackberry. (As in the phone, though child me
+didn’t get that and thought said vampire was just really bad at being
+a vampire.) If nothing else, this places the time period for this book
+pretty firmly in the 2000’s to early 2010’s. I don’t know if the
+anthology was exclusively vampires, or if only one half was vampires
+and the other something else, or if there were just a lot of vampires
+in general? I think the title of the book- or at least one half of it-
+may have had “bite” in it, perhaps in some sort of spooky pun, but I
+don’t know for sure and honestly, this really wouldn’t narrow down
+much in a search for any horror, stories, let alone vampire stories
+specifically. That’s all I can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

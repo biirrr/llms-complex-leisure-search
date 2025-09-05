@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2013-2016?]You try to rob a house thats haunted. I
+remember playing this one horror game when I was younger on my iPad,
+you try to loot a house that has valuables, but theres a ghost/demon
+that trys to kill you, I remember the game being mostly grey in
+color, and the creature being a ghostly head of a woman with long hair
+and just its neck (part spine hanging out?) all I remember was that
+popular YouTubers played it when it came out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

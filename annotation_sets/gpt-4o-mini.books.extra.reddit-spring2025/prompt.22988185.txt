@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Serial Killer Mystery. Guy who has a history of
+stalking women married a girl whose sister was killed. He used to own
+a tech company but sold it so all he does now is dig up bodies and
+report them to the cops.. I remember that the mom opens up a clothing
+store that she names after her dead sister. The guy keeps like a
+digital journal of all the bodies he has dug up. It is the 20 year
+anniversary of his sister in laws murder. He is buying info from the
+cops but the cops dont know it is him finding the bodies. The cops end
+up suspecting him of the kidnapping of his daughter but after he finds
+her he manages to pin everything on someone else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

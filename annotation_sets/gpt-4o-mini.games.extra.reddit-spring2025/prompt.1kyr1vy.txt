@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990] Dos Tank game. Solved! It was Battle Europe.
+Thanks Dre10g! I'm trying to find anything, even if it's just someone
+with the same memory, of an old dos tank game I played as a kid. If I
+remember right it had a isometric view and you controlled a single WW2
+sherman tank as you went through a town blowing up enemy german tanks.
+You got upgrades for your tank by collecting medals that basically
+just made your tank into a bigger, better tank instantly and I think
+the enemy tanks dropped them. Some key indicators: 1) I believe it was
+a DOS game because I remember having to type out the exe command. a) I
+THINK the command was battletanks or battle. (I always thought it was
+called Battle Tanks) 2) I played it around the same time as
+Wolfenstein 3D (pc) and Mario Paint (Snes) so the year was around
+1992. 3) I believe our computer was a 133 mhz Pentium 4) It was color
+and isometric/top down - not first person and wireframe. 5) It was
+real-time - not grid based. Like I mentioned above I thought it was
+called Battle Tanks but I can't find anything on it. Maybe because
+naming your game Battle was the fad at the time - like Battle Chess or
+Battle Bugs. Appreciate any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s] Point and click game (Rescue heroes based?) Saving
+people on a pier amusement park. I have vague memories of playing a
+point and click educational game while I was in the hospital as a
+child, I remember it was either about building things on a pier or
+saving people using helicopters and stuff. There may have also been a
+level with a quarry / mine and doing similar things all in a point and
+click cartoonish art style. GL and thanks everyone :) Edit: the camera
+view was very zoomed out akin to an RTS, and it may have been a cereal
+box game or something equivalent from those days"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

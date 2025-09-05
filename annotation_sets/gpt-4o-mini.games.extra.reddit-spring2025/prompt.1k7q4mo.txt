@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC game][no clue what year] A game where you play a yellow,
+round 2D robot. Platform(s): PC Genre: Roguelike Estimated year of
+release: Not sure, but I believe before 2010 Graphics/art style: 2D,
+don't remember artstyle Notable characters: every character was a
+round yellow 2D robot with different blasters attatched as weapons,
+you play as a small one Notable gameplay mechanics: you just gotta
+kill enemy robots, and eventually you reach a boss, that drops a bunch
+of gold, and its own weapon on death, that you can that equip in
+levels going forward Other details: I played this game a long time
+ago, I believe on the site Friv, tho I am not entirely sure if it was
+there (haven't been able to find it there since, which is why I'm not
+sure) I have been googling so much, and I'm simply lost"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

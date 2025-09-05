@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Zombie Apocalypse (I think? Seemed like it at the time)
+Where the character is a girl who has a glock she does not want to
+lose and I read 8ish years ago (2016) and seemed like a newer book at
+the time (More below). I'm sorry if this is not a good enough
+description, but it is all I can remember. I was also not sure how
+broad a spoiler could be so I wanted to be safe. This is my first post
+and I am really bad at remembering these but wanted to find it to read
+again. Anything helps and I really appreciate it! Either dystopian or
+YA fantasy and I remember that the book covers are all black and the
+titles were all single words (I think) colors were red, blue and green
+(it is a trilogy) I believe at one point that she does find safety."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

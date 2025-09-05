@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] 2D Railroad building game. I am searching for a
+game where you can build a model railroad. You build tracks and you
+put trains on them. I am not sure if this was the main focus of the
+game or if there even is any gameplay beyond doing that. I'm rather
+sure the game featured a strict 2D top-down perspective: No tilting,
+no rotation; just literally top-down. There's a chance that this is a
+false memory and that the camera was tilted a bit, but I'm 100% sure
+it did not feature the 45° rotation known from Transport Tycoon and
+many other management games. I bought the game on a 3.5"""""""" floppy
+disk (possibly more) in Germany. It's neither of * 3-D Ultra Lionel
+Train Town Deluxe * Transport Tycoon, Railroad Tycoon etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

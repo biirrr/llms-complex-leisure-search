@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90s - Early 2000s] First Person, Starts in
+Subway. I've been digging my brain a bit and can't figure this one
+out. It was a DOS game, you start in a grey room where you're made to
+select a character from a wall. You're surrounded by these images all
+around you, and they appear to be of Chinese deities or legendary war
+generals like from the Romance of the Three Kingdoms series (or San
+Guo Yan Yi in Chinese/Mandarin). After selecting a character, you exit
+the room and hop on a train. Arriving at tour destination, you alight
+and start tearing shit up. Can't remember the appearance of the
+enemies, but assume they're soldiers/humans. The order may be reversed
+as well where one might have hopped on a train, selected a character,
+hopped on the train again and off afterward to start the fighting.
+Hope that helps you help me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

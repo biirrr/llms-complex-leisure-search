@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] Educational game involving gemstones.
+Very vague memories but this is the limited info I recall: -CD-ROM
+-Educational, quest style, where you would answer questions in the
+levels to get further. - Something to do with dirt and gemstones.
+Maybe something to do with space? - Believe there was a female MC. -
+Math Blaster rang some bells but its not what Im thinking of. -
+Played this around the same time as rollercoaster and mall tycoon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s or 2010s] Game where little people land on an
+island, gather food, and act autonomously. I played this game around
+2010 on a Windows 7 PC. It starts with a group of tiny characters
+arriving on an island by boat, which breaks down. They set up a little
+camp and begin gathering resources like fruit from trees, storing them
+in a warehouse or similar, and could build bridges and discover more
+of the island as much as I remember. Characters would get hungry and
+stop working if not fed, and theyd go eat by themselves. The game had
+no enemies, no levels, and was focused on peaceful resource management
+and exploration. The graphics were realistic, with a lush
+forest/jungle environment. The music was beautiful and relaxing. It
+was played from a top-down or isometric view. Similar to Virtual
+Villagers but more realistic and forest-based. Ive been trying to
+find this game's name for years. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "true crime British book about early forensics published in
+2009 or 2010 [s]. Back in the summer of 2010, I traveled with my
+family to England for a few weeks. There was a book that had just been
+recently released that looked fascinating to me. It was a true crime
+or historical account about a murder mystery around the late 1800s,
+early 1900s (""Sherlock Holmes"" era), and was one of the the first
+(or maybe the first) mystery solved with forensic science. I believe
+there was some suggestion that Sir Arthur Conan Doyle had stolen some
+ideas for Sherlock Holmes's detecting style from the mystery. For some
+reason I foolishly thought I would remember the title of the book, and
+I didn't want to buy it in London and have to lug it home (silly me--I
+ended up buying Twilight and lugging that home--and regretted that
+decision on several accounts). I've poked around in several places to
+see if I could find it, but nothing seems familiar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

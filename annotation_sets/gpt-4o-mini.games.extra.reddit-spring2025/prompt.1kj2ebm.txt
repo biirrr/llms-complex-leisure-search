@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX] [90s-00s] Comedic Airplay flying game. EDIT: SOLUTION
+FOUND - FREAKY FLYERS FOR PS2 *Title should say Airplane* I am
+starting to feel crazy here. I cannot find any trace of this game. My
+father had a PS1 in the house growing up (I'd place me playing around
+early 2000s) and I remember very little, probably the first level or
+so of the game, but the main way I can describe it was a comedic plane
+combat game. I recall this first section of the game including western
+themes, almost like there was a cowboy or person wearing a bandana
+involved. Multiple protagonists, like you were part of a team. Quite
+cartoony. Unsure if this was a demo or full blown game. Help me out
+please so I can prove to my sister I am not crazy. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

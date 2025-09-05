@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Late 2010s-2020s][PC] Indie horror game about making a
+perfect indie horror game (Not Is This Game Trying to Kill Me?). I do
+remember Vinny from Vinesauce playing this game. The game is a 3d game
+that has you play as a game developer. The game developer spends most
+of the game stuck in his room trying to develop a game of his own. The
+gameplay involves switching between the computer and the real world.
+The developer solves puzzles inside of his own game while trying to
+deal with hauntings in his own house. One major part of the gameplay I
+remember is that the developer can change the setting of his game.
+There were four settings for the game, one of them being a hospital
+from what I remembered. The ending of the game is the protagonist
+stepping out of his room. It turns out he was doing a demonic ritual
+and he sacrifices himself to summon a demon. The game is entirely in
+3d and whenever he turns on a game, the screen goes into the POV of
+the character in the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

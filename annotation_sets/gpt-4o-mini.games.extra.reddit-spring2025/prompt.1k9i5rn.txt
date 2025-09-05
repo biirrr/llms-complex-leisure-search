@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][1990s][JRPG][Multiplayer?] Particular JRPG where you
+and friends could build characters.. Hi! This could also be SNES, PS2,
+or GameCube potentially, at the latest it would be 2004. But the art
+style is very PS1 JRPG typical pixel art such as Xenogears or Grandia.
+But it was a game that I briefly played at a friends place for like
+10-15 minutes but it was such a cool concept. You chose your character
+and got to choose their starting weapon. And this I remember in
+particular being that he chose Nunchaku which is very cool. The
+multiplayer part may or may not be accurate but I felt like we all
+picked characters. Any help would be great, I know its not much to go
+off of, but he cant quite remember what it was called either."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

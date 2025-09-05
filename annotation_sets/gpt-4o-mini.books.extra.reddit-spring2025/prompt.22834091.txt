@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Thriller: Woman (Emlynn?) in her 20s helps
+former boyfriend search for their mutual female friend (Janessa?) and
+the friend's boyfriend (Bush) who live in a camper van but recently
+went radio silent and missed a check-in. Spoilers.. Former boyfriend
+of Emlynn has addiction issues and a few years earlier had left Emlynn
+alone in the wilderness without provisions where she almost died.
+Emlynn and former boyfriend find their mutual friend's camper van and
+decide to follow a trail which they hope leads to their friend. But
+the former boyfriend has ulterior motives for finding mutual friend--
+he and Bush are involved in drug running and Janessa is going to turn
+Bush in. Bush attacks the two women but the women prevail in the end
+and all are rescued. This book was recently published--I think maybe
+2023 or 2024. I listened to the audiobook so I wasn't sure of the
+spelling of the main character's name. The only name for certain was
+the drug runner--Bush. Other character is Vargas (sp?) who is a forest
+ranger and he had found Emlynn naked and near death after boyfriend
+abandoned her. Hope this helps! Thanks :-)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

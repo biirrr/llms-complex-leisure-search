@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox] [2017-2020?] Roblox City Roleplay with CEO jobs.
+The icon showed part of the spawn on it I remember that you spawn near
+a dance floor and a concert type area. There was a white mall place
+where you could customize your characters clothes, skin, accessories.
+There was also some kind of tunnel that led to skateboard park
+underneath the concert area. And you could get a job as president of
+Roblox or Apple but thats all I can remember. I dont think there was
+the ability to be a baby in the game. You could get skateboards, use
+speed &amp; jump coils in game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Socio-Political book organized in
+Alphabetical Order by topic. [s]. What I remember: I had gotten this
+book from a public university library sale around 2012-2013. It was an
+older book for that time already, written in English, and the author
+was a man. Each chapter was about socio-political issues, and it was
+organized in alphabetical order. I remember the first or second
+chapter specifically being about abortion in this context, with the
+author going into historical and political context for each topic. My
+copy was hardback with a sleeve with at least an inch of text between
+the covers. Unreliable memory: I think the book's cover had large
+lettering on the front with not image. A though I have searched it, I
+thought it was called P Is For Prejudice, alluding to the alphabetical
+organization of the book; it must have had something along those lines
+for its name. Also, I faintly remember looking up the author and
+seeing he was either a cabinet member or an advisor to a past
+president; I think he had worked with a Conservative Republican
+president, maybe Reagan or Nixon. My gut says Reagan. I would guess
+the book is from the 1980's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[dWindows98][d2000]Strange Pac-Man like game where you're
+attacked by colorful eyeballs and try to rescue a princess. EDIT: The
+game is called **Zap Zilden** by **Lightning Software** A long long
+time ago, in the ancient times of the probably late 1990's, my grandma
+had a computer with all kinds of games on it. I know a few of the
+games and have found them, but some others are in the back of my
+brain. Namely, there was a Pac-Man like game where you played as a
+round-ish alien, and were being attacked by colorful eyeballs (instead
+of ghosts). The main feature I remember is if you hit a button, you
+could switch from 3rd person to first person, and I always thought it
+was cool because it reminded me of the Windows 95 Maze Screensaver. I
+have a vague recollection of the story (flashed at the start of the
+game) was about ascending a tower of mazes to rescue a princess of
+some kind. This game was from a company that did a few other games my
+grandma had (which I also can't find). I recall them all being sorta
+rip-offs of other classic games, the one I remember best was a
+Defender rip-off. The other major thing I remember is there was a big
+X when it booted up. This may be a studio logo, or it could be
+something else, but I vaguely remember a """"""""cool looking""""""""
+x that kind of reminds me of an Xbox, but was before the Xbox came
+out. I'm pretty sure that computer never upgraded to Windows XP so it
+was probably Windows 98. But the game could be made for earlier
+systems, or even later ones, as I don't quite remember which exact
+year it was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

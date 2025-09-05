@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2] [2000ish] WW2 pacific theater pilot game.. Platform:
+ps2 Genre: Action (ig?) It came out in the early 2000s It was trying
+to be atleast kinda realistic It was 3rd person i remember very
+distinctly it was trying to be more of a sim than arcadey bc there
+were mechanics like stalling and altitude limit by plane there was pvp
+and there was a cheat code to get an xwing and tie fighter. i very
+much remember a mission where you man an aa gun and take down a zero"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

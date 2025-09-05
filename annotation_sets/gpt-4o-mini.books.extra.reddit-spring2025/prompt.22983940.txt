@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Horror series from the 1980s-1990s that had a group of
+friends one of whom had paranormal abilities. The girls go to a flea
+market and find a beautiful shawl which takes over the girl.. The book
+cover showed a girl wearing a bright colored shawl, and I believe the
+book title had the word shawl in it but I cannot find it. The teens
+have to find their friend with the shawl because whomever wears it
+dies in a house fire, I think. It was a series with like 6 books to
+it. The kids are teens."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90's-2010's maybe] Medieval ranch idle?.
+**Platform(s):** PC **Genre:** Ranch/farming **Estimated year of
+release:** 90's-2010 maybe **Graphics/art style:** Low graphics, not
+sure of the style **Notable characters:** it had mythical animals and
+a small town **Notable gameplay mechanics:** i believe you could buy
+different spaces to raise your animals and complete quests for
+villagers (this part not be true) **Other details:** I remember a
+golden goose being one of the animals you could raise and you had to
+click to chase away animals that would try to steal the eggs. it was a
+click and point kind of game i believe? idle maybe? i played it in the
+early 2010's on my family computer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

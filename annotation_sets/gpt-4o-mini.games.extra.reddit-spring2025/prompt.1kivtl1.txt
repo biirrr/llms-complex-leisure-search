@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Kurio] [early to mid 2010s?] Puzzle game where you slide
+jelly creature thong to each other to make them bigger.. When I was a
+little kid I had this tablet ment for kids called the Kurio. And on
+that device, I remember really liking this puzzle game where there are
+these green? Jelly squares (usually with eyes) that you swipe to have
+them slide across the screen to merge and get bigger. I remember at
+the start of the game there was a cut scene where I think the jelly
+blobs were escaping from somewhere but I am not sure. I remember the
+level I got stuck on as a little kid, the slime blob' eyes were in a
+difficult area of the screen and I think you had to puck it up. I
+remember when swiping the slime went all across the screen and if
+there was no things in the way, the blob goes off the screen and you
+loose. I also remember being able to get 3 yellow stars at end of each
+level. Does anyone have any idea what game I'm talking about? I have
+been trying to find the name off and on for years now (basically
+whenever I randomly remember it every few years.) I think the time was
+between 2012 and 2015, because it was either before I was in
+elementary school or in the very beginning of elementary school. The
+game could also be older than this because it was very possible that I
+was not given the newest device as a toddler but I am not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

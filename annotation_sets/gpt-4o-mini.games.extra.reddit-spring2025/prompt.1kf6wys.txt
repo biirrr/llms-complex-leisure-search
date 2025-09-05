@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Xbox 360] [2013+] Action / Adventure retro-futuristic.
+Platform(s): PC / Xbox 360 Genre: Adventure / Action Estimated year of
+release: 2010+ Graphics/art style: retrofuturstic Notable characters:
+main character was a man Notable gameplay mechanics: robots / clock-
+like figures? Have a very vague recollection of this game so apologies
+if there isnt much information! Played this game about 12 years ago.
+Was a game that seemed futuristic but had an old fashioned theme. You
+had weapons and went around shooting people for the missions and
+collection objects. Some of enemies were robots and almost seemed like
+clocks but werent clocks. The graphics were very colourful and there
+were different locations you could go to. Seems very similar to
+fallout but it isnt fallout. It was mainly set in a city and I think
+it was ruled by these robots, but the robots looks old fashioned. I
+also remember it being quite a popular game and I dont think there
+was a multiplayer. Apologies thats not much information but any help
+would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

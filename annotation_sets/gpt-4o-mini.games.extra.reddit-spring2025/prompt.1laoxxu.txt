@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Retro Style Resident Evil Co-op Survival
+game. PC MMO Zombie Survival 2010 Retro pixel Resident evil characters
+and enemies Zombie wave with siege and barricading mechanics I
+remember distantly it was a siege style survival game based on
+Resident Evil where you and other survivors had to barricade in a
+building and survive waves of zombies. You bought weapons and tools
+and once you died you joined the game as one of the infected trying to
+kill the remaining survivors. I used to play it when I was a kid and
+was wondering what it was called. Anyone have any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

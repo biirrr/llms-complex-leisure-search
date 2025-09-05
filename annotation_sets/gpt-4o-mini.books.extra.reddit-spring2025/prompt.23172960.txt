@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Female lead goes to event w/
+male bff, accidentally meets his bro, has a hook up in conference room
+w/ no names exchanged, surprise pregnancy. Kindle unlimited book.
+Published last 5-ish yrs.. The book is set somewhere in New England, I
+think possibly NYC then the countryside of New York. FMC goes to an
+event with her male bestie. She ends up coming across a super
+attractive guy who immediately is like, she’s the one (to himself).
+He’s so attracted he gets her off on her own and they do it, but I
+seem to recall it was FMC’s first time. Just as they’re getting ready
+to actually talk etc. the fire alarm goes off and they escape but MMC
+tells her to stay put outside while he goes off to help. His mother
+ends up being transported to the hospital for smoke inhalation and he
+goes with her, missing his chance to find the woman. He hires PI’s to
+find her but they come up empty with no name to go on. Fast forward a
+few months, she’s pregnant with MMC’s baby, but bestie wants to
+pretend their engaged both for her sake and to help clean up the
+partying image he built when he was reckless after the guys’ father
+died. She’s going home to the family estate to have Christmas with his
+family, but he’s running late due to work so she goes ahead. When she
+gets to the estate, she runs into MMC/baby daddy and he goes full
+caveman possessive. Drags her to his room, has her things delivered
+there, and is adamant he doesn’t care whose baby it is, she’s his and
+staying his. They end up together in the end with an epilogue of them
+and their children enjoying another Christmas at the family estate."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

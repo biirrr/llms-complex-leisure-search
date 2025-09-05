@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. A knight fleeing from Death. Read around
+2000-2008. Spoilers ahead. [s]. I read this book when I was in middle
+school or high school, probably 2000-2008, but it might have been
+published in the 90's. The MC is a young man, son of a duke or king I
+think, and he's nervous b/c he's old going to have a ceremony, might
+be a knighting. I remember there was a small test, his father swung
+his sword at his neck as he knighted him; if he had flinched, he would
+have failed. He didn't flinch, and was knighted. Then a wizard or
+something similar gave the young man a prophecy: he would never live
+to take his father's place. He leaves, believing he will die if he
+stays. He had traveling companions, at least one boy and a girl. At
+one point they come upon a village that was destroyed by a monster, I
+think it might have been an ogre. The ogre was immortal b/c it had
+hidden its soul, guarded by man-eating mermaids. The man was able to
+get the ogre's soul and destroy it, and kill the ogre, but I believe
+one of his companions died. Death rides up to him on his horse, and
+the knight says he's done running and is ready for Death. Death says
+he was never chasing him, and the prophecy never said he would die
+young; only that he wouldn't take his father's place. Fleeing as he
+did, he would never inherit his father's title. Death was grateful
+that the knight had taken care of the ogre for him, so he offered to
+tell him when he would really die. The knight declined, saying it had
+been a heavy enough burden the first time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

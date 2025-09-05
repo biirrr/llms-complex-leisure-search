@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery/ Romance. Girl goes back to a small town where
+her best friend Rachel died. Spoilers.. (continuation of header) she
+starts to like the boy that actually ended being the one killing her
+friend because he wanted to be with the main character. the boy then
+dies at the end in a fire. think the small town had a lake too. think
+I read this around 2020. i think the cover had a photo of two girls,
+pair of legs, or some hands? something human on it and i think it had
+grass"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

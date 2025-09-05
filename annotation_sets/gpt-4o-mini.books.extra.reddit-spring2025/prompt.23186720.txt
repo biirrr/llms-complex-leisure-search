@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical. A lady (I think a dukes or count's
+daughter but I can’t be sure) leaves her house in her maid’s uniform.
+Something happens and she ends with a Lord who thinks she is a bastard
+of a Lord. Read 2015-2018.. Spoilers; he keeps her and takes her to
+his home. Where his aunt (I think) lives. The lord has to leave on
+errands and the aunt is left with the woman and she thinks that the
+woman is a servant or commoner so she makes the woman work cleaning
+and in the kitchen. The woman talks back and the aunt has her beat. It
+is later found out by the lord and he is angry. He takes the woman
+back home and finds out she is in fact a lady. I forget how the story
+ends exactly but I think she ends up pregnant and he finds out. Year
+read 2015-2018"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

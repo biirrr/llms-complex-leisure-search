@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gamesite][~2010] Age of war + Age of Empires. Hello guys.
+The game was 2D and looked like Age of War, but had the game mecanics
+of Age of Empire. You start with nothing and build up baracks, archer
+towers on a 2D grass plane. You needed food, wood and gold for what i
+remember. I used to play it at a gamesite like Armor Games or
+Friv. The enemies was computer generated and they attack in waves
+some times. Also they had outposts you tried to concure to the right
+and left. Some difficulties had spiders as enemies I think. The
+objektive was just to get to the end on the world (all the way to
+right) and save some princess i think. You could build archers,
+cavalers. But the best troop i think was the SCV/ builder because he
+threw hammers that did a lot of damage, even more then the archer i
+think, so i just had 30 of them in the same place (moved them into one
+entity) and then walk and destoyed. You could not upgrade your time
+to more modern. Everything was set to middle age with swords etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

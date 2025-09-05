@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows][2000s] small perspective bending game. I'm
+searching for a game in which you play as someone that has to scape
+various places using perspective to change the size of objects, the
+game was very low poly. I can remember some levels, I think in the
+first one you have to exit a house which has a window, table and
+chair, in the next one I remember you have to scape a tower by
+climbing to the top. In the walls of the tower there are some holes
+with some objects and in the top there is a hole in the ceiling with
+some iron bars. I played it around the 2000s on a hp pavilion 2000t
+with intel family chipset graphics, 1gb ram, pentium dual-core. I
+think the icon of the game was the house you start in."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

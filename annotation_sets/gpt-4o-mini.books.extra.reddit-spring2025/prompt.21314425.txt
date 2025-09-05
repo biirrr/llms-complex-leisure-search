@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Old book about a man who goes for a holiday in his room.
+[s]. This is about a man who writes a kind of travelogue while
+exploring his own room (like a room in a boarding house) It is quite
+old I think, 1700s or possibly 1800s. It is either English or French
+(I think French) It was done as a kind of satire on people going on
+holiday to other countries which I think had just started as a trend
+in society. I believe the author may have been a philosopher. Would be
+cool to read and share it now obviously with people on lockdown. Any
+help is appreciated, thank you. Richard"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

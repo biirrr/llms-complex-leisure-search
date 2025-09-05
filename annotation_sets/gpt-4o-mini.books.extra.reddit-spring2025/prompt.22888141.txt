@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance - The male character has diabetes.. I'm
+looking for a book where the main couple are neighbours. I think she's
+a big nerd and proud of it. They first meet when he goes over to her
+place to get a Disney DVD. She thinks it's because he's trying to
+impress a girl but it's really because his son wants to see it and he
+(the male character) knows she has it. She tells him that she's not
+going to give it to him. Then, after a couple of hours, a small child
+- his child- knocks on her door and tell her that his dad is sick. She
+goes over to help them, take the guy to the hospital where she learns
+that he has diabetes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

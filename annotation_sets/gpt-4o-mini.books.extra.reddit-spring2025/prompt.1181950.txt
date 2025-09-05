@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SF story set in a post-scarcity world. I'm hoping this is a
+book I'm looking for and not a TV episode or movie. What I remember is
+just a fragment of a scene. Two male characters are having a meeting.
+One is a businessman pitching an idea. The idea is a way to introduce
+artificial scarcity by creating products that destroy every other
+instance of that product when it is consumed. It's supposed to give
+people the satisfaction of consuming the last of something in the
+world, which couldn't ordinarily be done in a world where everything
+can be replicated. The example given is an apple, which the
+businessman takes out of a very elaborately designed box that might be
+made of gold. When the other guy eats the apple, all other apples like
+it in the world instantly rot or have worms in them or something like
+that. The point of all this is to create something unique that can
+then be sold for a profit. That's all I can remember. I don't even
+remember if this is an important part of the story or just some
+throwaway scene. Whatever it is, I encountered it recently, within the
+past few months. Thanks for any help you guys can provide. Edit: It's
+from SMBC. Not book. Nevermind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

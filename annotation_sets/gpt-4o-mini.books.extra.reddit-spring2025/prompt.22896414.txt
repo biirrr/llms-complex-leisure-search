@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA (teen?) Australian book. Tamika wrote: ""There’s two
+books but I remember a bit more about the second book. The girl has
+brown hair. She’s in grade 6 and is a bit of a tomboy."" Grade 6 for
+Aussies is ~age 16 is that right? (vs US 6th Grade is age 11). So
+probably a YA book now MG?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

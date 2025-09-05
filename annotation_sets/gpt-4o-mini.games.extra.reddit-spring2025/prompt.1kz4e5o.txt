@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS] [90s-2000s] 2D platformer about an alien escaping. I
+vaguely remember this game I played when I was a kid. It was a 2D
+platform game and you play as some Alien(?) or something. I'll just
+call him ET for now. Unfortunately I only remember the beginning of
+the game, since it creeped me out as a kid. There was an intro
+sequence, where ET"""""""" is shackled to a wall and there was a
+short narration. From there on it was gameplay IIRC. It ain't much,
+but maybe someone knows what l'm talking about. I am a bot, and this
+action was performed automatically."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

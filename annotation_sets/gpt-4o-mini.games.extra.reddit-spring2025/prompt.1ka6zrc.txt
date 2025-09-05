@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2010+] A 3D RPG/Online Social game. Platform(s):
+PC (Dont know if there was a mobile or console port) Genre: Fantasy
+RPG/Social Sim Estimated year of release: 2000-2010+ Graphics/art
+style: Looked very similar to Wizards101. 3D Notable characters: None
+that I can remember Notable gameplay mechanics: Pets you could
+ride/fly with, minigames (some were combat) Other details: I vividly
+remember an area that acted as a central hub for players, with two of
+the buildings being a place to wash/clean your pet, and the other to
+adopt a pet. You could also customize your own character with outfits.
+I remembered playing this game at my cousins house on his computer,
+and it was very cool. I want to try and revisit it and see if its
+still up, but every video/forums didnt contain what I was thinking
+of. If more info is needed, Ill try to supply. Thx"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

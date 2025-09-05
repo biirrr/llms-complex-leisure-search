@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows XP] [2012 ish?] Looking for a game about being in a
+spaceship, defeating other enemy spaceships and bosses.. I am looking
+for a space game, it has 3d graphics and i remember it being playable
+on windows xp and being nothing like Space invaders, you can play with
+mouse and keyboard, so two players and the enemies have a period of
+where they are flying towards you. I remember there being multiple
+bosses for the game, the game wasn't single coloured and the
+backgrounds i remember being strange, if you habe answers please post
+them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

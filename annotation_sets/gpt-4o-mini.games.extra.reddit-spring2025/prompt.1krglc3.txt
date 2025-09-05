@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][idk] A game about bump cars in a square arena like
+area. I'm trying to recall the title of a game I loved as a child. The
+gameplay involved crashing into vehicles to destroy as many as
+possible. The setting was a square arena with fences as boundaries and
+obstacles scattered throughout. The cars and graphics looked like the
+attached image, and the background music sounded like a nursery rhyme.
+I'm unsure if this was an official Nintendo game or a bootleg version
+of Bump and Jump. I would appreciate any help in identifying it! Thank
+you so much! &lt;3 https://preview.redd.it/b4zl368o702f1.jpg?width=640
+&amp;format=pjpg&amp;auto=webp&amp;s=e12b386de47da64f8538517bcd640c26a
+525e324"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

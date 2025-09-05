@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult non-fiction, humorous, about a woman making pumpkin
+pie while trying to care for a baby, and hilarity ensues. I think it
+may be a Thanksgiving story, or at least part of it may be holiday-
+related. [s]. GENRE & FORMAT: It was an audiobook. I didn’t read it,
+but I happened to be in the room for a few minutes to hear the pumpkin
+scene. I don’t know whether this is a collection of short stories, or
+a full-length novel, or what. YEAR: Not sure. I think it was sometime
+from 2000 to 2010, ish, but I don’t know. I’ll post a comment if I can
+narrow this further. PLOT DETAILS: The mother is alone with the baby
+in the kitchen, and she’s trying to make pumpkin pie. I think it’s for
+Thanksgiving, or maybe just a family event. Anyway, the baby needs
+changing, so the mother tends to that, but she realizes too late that
+the baby’s buttocks is very close to the food. The husband comes home
+a little later and sees his wife in the kitchen with the pumpkin
+stuff. She takes a spoonful, sniffs it, and says to herself, “That’s
+pumpkin.” She drops the spoonful into a bowl. She takes another,
+sniffs, and says, “That’s not,” and drops it in the garbage. I don’t
+think she ever explains this to him, but I think they wind up with
+some other kind of dessert instead."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

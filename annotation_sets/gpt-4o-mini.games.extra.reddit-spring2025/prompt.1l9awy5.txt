@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][2000s] Girly DS game with a dishwashing minigame?. I
+know how sexist that title sounds, but PLEASE hear me out. The odds of
+anyone else knowing this game are extremely low, but not zero, so I
+figured I just *have* to ask. When I was little, I loved a DS game
+where (if I recall correctly) you can choose one of three different
+anime-styled girls to play as. I think the premise is that you work in
+some sort of shop, and you wake up in your room at the start of every
+day. The art style was rather beautiful for a DS game (to an eight-
+year-old, at least). The only thing I can *specifically* remember
+about this game is that theres a minigame where youve got to wash
+dishes and stack them by the sink. I remember this because there was a
+quota of dishes that you had to rinse in a certain amount of time,
+and I had never seen that word before. The story was rich (again, in
+the eyes of an eight-year-old). Lots of dialogue. Any ideas? Am I just
+making this up? Thanks in advance for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

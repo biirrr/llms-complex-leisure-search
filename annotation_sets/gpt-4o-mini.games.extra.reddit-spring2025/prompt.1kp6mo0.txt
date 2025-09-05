@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2010's] I used to play this pixel/magic college
+game on maxgames.com as a kid where you levelled up characters but
+lost them as they graduated so you had to strategize how you did
+missions etc.. Platform: PC. Found on maxgames.com OR armorgames.com
+Genre: Strategy RPG Estimated Year of Release: Early 2010's? I was
+born in 2001, and I was in middle school when I came across it
+Graphics/art style: Pixel, but like decent quality pixels. Not like 4
+bit. Lots of color and movement. Notable Characters: Yeesh. I think
+the whole point is that the characters changed as you played. Notable
+Gameplay Mechanics: So you basically manage these wizards coming into
+your school. They all start at level 1, and taking them out on quests
+where combat stuff happens gives them exp and gives you gold to hire
+new wizards etc. They can level up and become stronger, but inevitably
+they'll be graduating/leaving so you have to sort of balance using
+your powerful wizards with leveling up your new ones. Other Details: I
+was quite young and there is a distinct possibility that the graphics
+of this game exist at a higher quality in my mind than they actually
+were. But I remember it was bright and vibrant with a lot of
+grass/greenery maps, top down(?) when actually out on a mission, but
+in that """"""""diagonal"""""""" way where you could still kind of see
+the characters"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

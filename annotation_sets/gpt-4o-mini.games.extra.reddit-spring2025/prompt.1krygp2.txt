@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s to maybe early 2000s] Space combat game,
+possible sequel of an obscure arcade shooter game called 3D asteroid
+impact. Right. So, a long time ago I managed to find an extremely
+obscure arcade shootemup called 3D Asteroid Impact with the help of
+this very subreddit. Now I am looking for what I think was a sequel to
+that game. For reference, this is [3D Asteroid
+Impact](https://www.youtube.com/watch?v=0Q28P1f7ezs&amp;t=148s). Let
+me start by saying that the reason I think the game I am looking for
+was a sequel to that, is that I think the ship you flew was the same
+when looking at it externally, and by the fact that in the menu there
+was a battle going on in the background with ships you'd fight in the
+game, much like the original game. Still I could be dead wrong One
+other specific detail I remember was that one of the enemy ships you
+fought looked like a knock off Tie fighter. Gameplay wise, the game
+was a 6DOF space combat game, unlike 3D asteroid impact. Tried looking
+for it, but to no avail."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

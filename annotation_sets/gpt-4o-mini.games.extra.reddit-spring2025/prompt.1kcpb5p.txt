@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES] [Early 90s] Fantasy, Side-scroller. **Platform(s):
+SNES (All I am aware it was on)** **Genre: 3rd Person Side-Scroller**
+**Estimated year of release: Early 90s** **Graphics/art style: Typical
+16-bit, arcade style fantasy art. The perspective was looking at your
+game from the side (horizontal) it was not isometric Most of it took
+place while crossing desert terrain going from left to right.**
+**Notable characters: You could pick from being a Magic User (woman),
+Archer (man) and Fighter (man)** **Notable gameplay mechanics: Side-
+scroller. You used your powers to destroy mobs and single boss
+enemies. There were lots of giant scorpions. You could only play as
+SP.** **Other details: The game play wasn't too hard and could be
+played fairly casually. I remember liking the game because it was one
+of the few SNES fantasy games I knew of where you could play as a
+woman.** **Please note this is NOT in the style of Gauntlet or even
+Golden Ax. It was a very simple side-scroller but with a nice colour
+pallet and sharp graphics.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

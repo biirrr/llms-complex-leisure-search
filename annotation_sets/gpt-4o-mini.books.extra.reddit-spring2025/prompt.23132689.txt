@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Christian fiction series about different people waking up
+and realizing that God came back and their loved ones were missing and
+no one was around. The characters realized that they were still on the
+earth because of different reasons, whether they didn’t believe in God
+or their sins and they think that their the only ones left on earth
+and it’s broken down into different first person stories and thoughts.
+I read this series around 2006-2008, I just remember there being a lot
+of books in this same series. All of the titles I remember were
+similar to one another and that if you stacked them in order on top of
+each other the spine spelled something or made a picture."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

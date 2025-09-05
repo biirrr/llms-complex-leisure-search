@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book (1990s?)- Cooky lady spreading joy
+by leaving rainbow painted pebbles around town. The phrase ""Drops of
+Joy"" keeps coming to me and I thought it was the title but I can't
+find it online. The illustrations were vivid and colorful. The main
+part of the plot I remember is that there was this cooky single woman
+that the children liked to visit. She painted rainbow colors around
+her house. One day she dropped some pebbles/beads/rocks into her
+rainbow paint and they all got dyed different colors. She then decided
+to use this to spread joy by leaving them around in various places for
+people to find. It was such an inspiring book to me as a
+creative/artsy child and I want to start writing my own children's
+book with similar themes. But I really want to find this book before I
+officially begin. Please help! Google has failed me!!!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [MID 2000s] COLORFUL PANG VARIATION. There was this 2D
+minigame I used to play around 20062009. It felt like a variation of
+the classic Pang. It wasnt an online gameI had it installed on my
+PC, probably from a Polish gaming magazine. You controlled a circular
+object using the mouse, with a line on it indicating the direction it
+was facing. The arrow keys rotated the object in four directions. The
+object would shoot at colorful bubbles that appeared from the sides of
+the screen. When hit, the bubbles would split into smaller
+onessimilar to Pang. Occasionally, theyd drop upgrades for your
+weapon. What I liked the most was the background: it started off pitch
+black or white, and every time a bubble was shot, it left a splash of
+its color behind. Over time, the background turned into a vibrant,
+painted canvas. Please help :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

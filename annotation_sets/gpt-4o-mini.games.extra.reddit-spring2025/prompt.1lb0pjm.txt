@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3/4] [2007-2013] Game about defending a castle/dungeon
+core. I have this faint memory of a game from around 2007-2013 about
+defending a core in a dungeon/castle. I remember it had different
+classes/roles, potions and a (I think) level up system. I loved this
+game (I used to play it with my brother), and I want to find it
+again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

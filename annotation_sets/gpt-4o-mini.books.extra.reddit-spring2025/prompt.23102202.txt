@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "South Asian YA? Book. Green dress on cover.. Okay so. I
+think this book was sort of a political drama?? Im also pretty sure it
+was YA. She was Indian i believe but i dont know what specific flavor
+or if it was even mentioned. Her father gets attacked by cops or
+something similar and it leaves him disabled. She might be betrothed
+to some man. Im pretty sure shes in a green dress on the cover in
+front of some stairs or behind an archway. Im not too sure tbh. Thats
+all ive got about it right now. Plz help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

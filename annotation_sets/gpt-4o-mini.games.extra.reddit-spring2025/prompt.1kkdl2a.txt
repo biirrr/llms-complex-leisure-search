@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s]-[2015] 2d horror puzzled game about circus. I
+have played this game a while ago in some game site, and just thought
+of tryna play it again, but I forgot the title of the game, I do still
+however remember some of the few details. The game started with a man
+driving, it was like a point of view, but then he notices his wife
+(idk if it was his wife) was missing at the back of the car and was
+left there was a ticket to some sort of circus? Maybe he thought he
+could find his wife there. Then the road shows a circus and he entered
+there, redeemed the ticket and there's a bunch of puzzled, options.
+That's what I remember. But the ending was I think he was driving away
+but there was a creature standing their way. That's it, that's all I
+remember. If someone knows this game let me know it'll help me out a
+lot, thankyou in advance More details this game is 2d with a bit of a
+cartoony style but still a bit off."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

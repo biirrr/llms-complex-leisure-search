@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Christian Greek Romance around 2010 or so
+written by a greek author with a name end like opolous. American
+Doctor wants to practice family medicine after graduating from Greek
+Uni. Spoilers.. This book could be no earlier than 2003 no later than
+2011 written by a Christian author. She has a last name of ending with
+something like opilous. Its about an American who get her degreevin
+Greece and dream of being a family doctor in a small town. She is
+assigned to live with the local teacher and his little girl. Hardly
+anyone in the village makes it easy for her. Eventually she wins over
+a few including the teacher (the books male interest) and his
+daughter, the village 'priest/preacher'. The turning point comes when
+a local goes into lavor. She has already lost a few babies. So the
+doctor and the teacher get as quickly as possible to the nearest
+hospital where the mother and baby are saved. The series i think has
+at least 3 books. This is the first. The next ones are about
+thebpreachers natural daughter and adoptive daughter. The natural
+daughter is older than 50 and moves to another town and starts a shop
+meets an american widow man who teachers her about living an
+adventure. He eventually reconnects with a girl who he and his wife
+almost adopted. The other book is aboutvan adopted girl who moves to
+new york as a model . Only she pretends tobe a minor model and is a
+supermodel. meets a teacher who also turns out to be an author. His
+stepmother turns out tobe the models 'real' mother. Thank you for your
+help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

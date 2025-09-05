@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2019] Extremely Trippy Wave Based FPS. Platform(s): PC
+Genre: FPS Estimated year of release: late 2010s Graphics/art style:
+ps1 visuals but a massive focus on trippynes - borderline unwatchable
+Notable characters: Don't think there were any, purely wave based
+Notable gameplay mechanics: It was an indie game so purely just the
+wave based combat Other details: I can remember seeing yt speedruns of
+the game. I can remember it taking place in a pitch black arena with
+enemies being almost blindingly bright. the game also had a
+kaleidoscopic overlay effect the full time. the game is extremely hard
+to make out. I feel like I need to specify it isn't Cruelty Squad. I
+can remember there being some sort of big yellow centipede. honestly,
+I'm clutching at straws. I'm pretty sure this was a tiny indie game
+that only a few thousand people played."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

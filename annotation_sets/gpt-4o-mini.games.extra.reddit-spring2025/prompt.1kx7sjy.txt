@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac][2000-2003][3D sci-fi/robot]. The lack of details is
+due to my memory and recollection. Ive searched and searched and
+havent come close to finding this game. I was about 6 or 7 at the
+time. Platform(s): Mac (I believe) Genre: 3D 3rd person shooter
+Estimated year of release: 2000-2003 Graphics/art style: Cartoonishy,
+a lot of lasers and electricity style effects. Multiple levels, each
+was unique and themed. Believe one level had to do with a cloud style
+city. Notable characters: Main character was a robot. I believe there
+were aliens he fought, with some friendly cows and farm animals as
+part of the game. I want to say the end boss was a giant brain?
+Notable gameplay mechanics: Believe one of the characters had a dart
+throwing mechanic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Sega][2000 ish?] You fly through the air in a mystical
+forest, sometimes you have a colourful ribbon coming out of your feet,
+I remember boss fights. Hey all! I played this game in the late 90s
+early 2000s when I was about 6 years old with a neighbour friend. I
+remember it was on her Sega, not sure which gen but I believe it was
+black? The game was very fever dreamy, the art was very magical light
+and colourful. Your character was flying, and I loved just flying
+around taking in the environment and doing fun little challenges in
+the world. I remember lots of trees, sparkles, and sometimes you'd
+collect a boost? Or something? That would make a colourful ribbon come
+out of your feet - that was my favourite haha I remember there were
+stressful aspects too, like sometimes the world went 'bad' I guess and
+you'd have to be in a safe spot (I miiight be misremembering here as I
+don't remember many gameplay specifics, and at 6 I did not understand
+how to progress in video games and didn't pay attention to the
+missions lol) I remember a boss fight, I think the boss was a giant
+mouse... I can't remember the cover of the game's case cover art
+That's all I really remember, it's been bugging me for years!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

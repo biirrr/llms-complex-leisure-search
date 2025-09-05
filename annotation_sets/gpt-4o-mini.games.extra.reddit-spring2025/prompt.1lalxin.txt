@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[nintendo DS] [2004~] calm cute girly game. I hade a
+Nintendo ds as a child (its gone now) and finally decided to buy a
+new one. I used to have a game that I cant remember the name of, this
+is all I remember of it: it was a pretty calm girly game, the mane
+character was a blonde curly haired teen girl that usually wore a blue
+hat (like a 2000s girl cap??) she had blue eyes and freckles I think,
+in the game she had two friends (dont remember anything about them
+tho). If you have any clue of what I could be talking about please let
+me know :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

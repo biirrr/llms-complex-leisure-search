@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Australian Adult fiction, written approx 20 yrs ago about a
+girl (Lolly??) who is overfed by her mother as a way of controlling
+her. [s]. I thought the book was titled Lolly but that may have been
+the nickname of the main character. The book follows the relationship
+between the mother and daughter, who (from memory) becomes pregnant at
+a young teen-age. They may have gone to live in a remote cottage,
+possibly on an island (Kangaroo Island??...or a Tasmanian island).
+It's a little off-key, almost a psychological thriller yet also a very
+in depth examination of the power dynamics between mother and
+daughter, and their obsession with food, especially cake. Written
+brilliantly, and would love to read it again. Appreciate any leads!
+(Apologies for previous post not meeting the rules!)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

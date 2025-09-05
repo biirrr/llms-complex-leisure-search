@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction, Dogs: An softcover guide of dog breeds. Cover is
+maroon on the top and bottom, in the middle is a picture of several
+golden retriever/yellow lab puppies. [s]. I got this guide around
+2007, but from what I remember about the quality of the photographs,
+it might've been published much earlier, like around the 80s/90s. It
+was soft cover and the size of a regular paperback, but it was thick,
+and the cover and interior pages were glossy as you'd expect from,
+say, a bird field guide. The cover art was a picture of several
+yellow-colored puppies, probably labs. The header (which included the
+title in white text) and footer of the cover was a dark red color. It
+looked very similar to Dog Language: An Encyclopedia of Canine
+Behavior , but the puppies were from a photograph, not illustration.
+The guide itself was very thick and comprehensive. It was separated
+into continent of origin, (like Europe, Asia, America, etc.) and type
+of dog (hound, toy, terrier, etc.) It had a small picture of every
+breed, and included basic stats and history of the breeds. Again, it
+was very comprehensive and included a lot of uncommon breeds I'd never
+heard of. Of course since I lost the guide, I don't remember what the
+breeds are, haha. EDIT: all of the photographs inside were colored."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

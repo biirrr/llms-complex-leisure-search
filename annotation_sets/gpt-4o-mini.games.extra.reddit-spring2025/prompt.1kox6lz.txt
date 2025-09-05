@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX] [Unknown] Bathhouse simulator. Last year I played a
+game on my xbox about owning a bathhouse for spirits. You got the
+spirits from locals in the town whose house had strange happenings.
+You'd need to put wood in the fireplace to keep the spirits happy.
+Genre: Simulator Estimated year of release: around 2020 Graphics/art
+style: Pixelart Notable characters: A grandma, a monk, cats, spirits
+Notable gameplay mechanics: arranging how the spirits take baths"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2012~2018] Zombies Cooperative Game. I'm looking for a
+game that I played when I was a kid, I've looked everywhere and never
+found it (I found this image, the motel was like this) It was an
+online cooperative zombie game on the PS3 or Xbox 360, in first
+person, when you started the loading screen appeared, I remember the
+screen being a small town with an old car and a motel with a purple
+neon sign saying ''motel'', the game started and you had to kill the
+zombies, there were like some generators on the map and you had to
+deactivate them while being careful not to die to the zombies, the
+zombies were kind of aliens, I don't remember a lot, but eventually,
+on that same map, new areas of the city were unlocked and players had
+to go to it, when they reached the last area, players had to complete
+a challenge to win the match, the matches took a long time. I think it
+must have been some mode from Call of Duty: Black Ops 2, but I don't
+know which one. I'm almost giving up looking for it. LOL."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

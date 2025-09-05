@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Time Travel book where a boy travels to NYC during three
+different eras after jumping on subway tracks. I know that the main
+character was a teenage boy and that he often thought about his little
+sister, who had some kind of cutesy name that ended in an “-ey”, and
+how much he missed her while time traveling. I think he jumped to try
+and save someone who fell onto the tracks? In one time travel incident
+he gets arrested and then bailed out by either the Irish or Italian
+mob because of his last name, and he then works as an indenturer. I
+think it was an Irish last name the more I think about it? In another
+incident he time travels to the Great Depression. He talks about the
+homeless people all over Central Park. He goes to buy a burger and the
+guy at the counter says “please, it’s been 2 days,” and they split the
+burger. Later when the protagonist is starving and crying on the
+street corner, his friends are trying to comfort him and a wealthy
+woman discretely hands them an apple to give to him once he’s
+collected himself. The last time travel era is during WWII. He runs
+into his friend he shared the burger with while on a bus or train or
+something, and the man is now in uniform and missing an arm. In the
+end he travels back to the present the same way he came, by falling
+into the subway tracks. He’d saved the persons life and is reunited
+with his little sister in the end. I would’ve read this sometime
+around 2010? Give or take a few years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

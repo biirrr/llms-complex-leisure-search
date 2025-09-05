@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction book about various beauty treatments and
+physical therapies. [s]. This is a book I read in the late 90s or
+early 00s in the UK. It was written by a woman who had tried out many
+beauty treatments and physical therapies, and devoted a chapter to
+each one with the theory/ history of the treatment, the supposed
+benefits and her experience of it. One of the treatments I remember
+was a facial treatment in a salon, and another was a deep intensive
+type of massage called 'rolfing'."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

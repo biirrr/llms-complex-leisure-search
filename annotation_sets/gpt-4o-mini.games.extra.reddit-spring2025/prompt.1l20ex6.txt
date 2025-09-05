@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Switch] [2020s] Multiplayer competition game where you take
+turns to race/compete in tasks.. I remember we would take turns to
+compete in races or tasks like who can throw the ball the furthest or
+who can reach the finish line the fastest. But the characters had
+werid controls like to move the arms/legs you would have to rotate the
+r and l joystick. I also remember there were funny fake ads like
+canned gravity. I feel like the game was called gorbo or glorpo or
+something like that. Thanks in advanced to anyone who knows what this
+game is called"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

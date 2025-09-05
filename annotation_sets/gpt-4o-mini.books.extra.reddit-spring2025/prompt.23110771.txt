@@ -1,0 +1,14 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen/ Young Adult series. The series talks about siblings
+who are all named after colors and each book is about a different
+sibling. Pretty sure one of them was named Indigo. around 2010s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000's] A lateral scrolling game about a tank..
+Platform(s): PC Genre: Shooter / Action Estimated year of release: I
+played it around 2009. Graphics/art style: It was fancy, I don't know
+if it was 3D or 2D because it was a sidescroller, but it had a feeling
+of Metal Slug, definitely on the cartoon side, grimey and with red
+skies, you would be travelling through a warzone. Notable characters:
+It was just the tank, it was small and chubby. You would also fight
+Zeppelins. Notable gameplay mechanics: You would move with the arrow
+keys and shoot with a mouse, aiming with it too. It was like a bullet
+hell where you'd battle planes and zeppelins. It was remarkable that
+you had upgrades both dropped in game and outside where you could buy
+them from like a shop. Other details: I don't remember much more
+details, but that's all there was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

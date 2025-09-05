@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows 3.x / 95][mid 90s] Space Puzzle game. Hi looking
+for a game that I believe came with a bunch of demo games on a disc,
+early to mid 90s The game I'm looking for is a 2D puzzle game with a
+top down view, where to need to push block and solve a room puzzle
+within a time limit. I remember a selection screen with multiple
+levels. Failing to solve the puzzle within the time limit would
+result, if I remember correctly, seeing an alien escape on ship and a
+space base exploding? I remember other games on the disc Hugo's House
+of Horrors, Operation: Inner Space (1994) and this [Dino slot
+](https://www.youtube.com/watch?v=yDo2w6Q-LTM)game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

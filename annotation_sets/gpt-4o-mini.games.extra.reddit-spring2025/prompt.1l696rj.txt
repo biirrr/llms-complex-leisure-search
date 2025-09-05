@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2009-2010] Unreleased fantasy/sci-fi game, only engine
+demo existed. Hi! I stumbled across several tech demos somewhere
+around 2009-2010 that were showcasing a 3d game engine. The first demo
+was a short first-person fight with a troll or a giant, with the
+player wielding a crossbow. It featured destrustible environment and a
+very high level of details. I think there were other things showcased,
+like lighting in different environments. The second demo was hundreds
+of running goblins, all sharing the same model, but with slight
+variations in animations, and it was explained in detail. Another clue
+I have is that one of the videos used Loreena McKennitt - The Mystic's
+Dream for the music. Unfortunately, the game name was very generic,
+something like Project Reset. I've googled for Project Reset, it was
+also an unfinished game, but not in a fantasy setting. The game was
+never finished, and the project was cancelled. I can't even find those
+demos any more. Can anyone remember the name and maybe have a link to
+those videos? Update: Found it, it was called Project Offset"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][90s] Horror game?. As a kid my dad used to play this
+horror game on ps1 and all I remember is the main character being
+outside in the dark then entering some sort of lit store where a lady
+sits at a table with her back facing you. When you interact with her a
+cutscene plays out where she turns slowly revealing her (to my opinion
+then) scary face. I'm not sure if the face was humanoid or blank or
+what, I just remember being creeped out. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][2010s] Pixel game where you're an archeologist?. This
+is a game I played on the DS, I'm not quite sure what year it came
+out. I know I hadn't played a DS for sometime when I started
+highschool, which was in 2019, but I think I'd lost the game a while
+ago at that point. Im guessing it came out sometime before 2015, but I
+know for sure before 2019. It was a pixel game, I think you played as
+some kind of archeologist, and the actual gameplay was similar to
+paper.io, where you dug up areas by drawing around a space, but
+instead of having to avoid other players, there were these monsters
+moving around on the screen and you'd get hurt/die whenever they touch
+the line you were on before finishing it. IIRC, the map was just
+covered in dirt, with you and the monster(I think some levels also had
+little guys in addition to the big one), and the monster was confined
+to the dirt spaces, limiting the space the monster can move as you
+play the level. There were multiple levels, although I'm not sure how
+many. I remember this one where the whole screen was dark, except for
+the area around your character. I'm not sure if their were other
+characters, if there were I don't think they showed up that often. I
+don't think I ever beat the game, so this is all I've got, hopefully
+that's enough."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

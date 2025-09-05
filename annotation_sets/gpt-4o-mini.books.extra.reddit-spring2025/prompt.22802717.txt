@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romantic Suspense. Sister of deceased brother seeks
+help of private investigator ex-military friend to help solve fathers
+murder. Brother had told him this friend would always keep her safe.
+[s]. Searching for a suspense/romance book I read maybe five years ago
+that I thought the author was Sandra Brown but cannot find it in her
+library. A women is trying to write research and solve her father’s
+accidental death which she believes was murder. He worked in the
+military. Her deceased veteran brother had always told her his best
+friend, also ex-military, would always keep her safe. The brother had
+warned her not to get involved with this friend though because he was
+a womanizer. The brother had told his friend to never hit on the
+sister. She believes she is now being followed and goes to the private
+investigator firm to find the friend. He runs it with his family
+members which they started after an inheritance from his father. When
+she shows up to ask for help, an SUV pulls up and shoots in the window
+of the firm. The friend vows to keep her safe because he owes her
+deceased brother. There may have been other books by the author about
+the friend’s family members in the PI firm but I am searching for this
+particular book. Any help would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

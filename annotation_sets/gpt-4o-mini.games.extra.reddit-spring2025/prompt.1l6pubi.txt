@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[gameboy SP] [2010's] childhood game. hey everyone,how yall
+doing? when i was a kid, my mom bought me a gameboy sp (i think its
+A.K.A gameboy advance sp), and i used to play a lot of this specific
+game. the game was a 2d plataform, where the main character is like a
+crab or a lobster, and it had theme on a massive winter castle, and
+the crab/lobster could stretch up and grab things, i dont remember a
+lot of it, but i think it had candy theme enemies too, and also kid
+theme enmies and scenarios, like teddy bears and cars, sorry for not
+having a lot of info"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

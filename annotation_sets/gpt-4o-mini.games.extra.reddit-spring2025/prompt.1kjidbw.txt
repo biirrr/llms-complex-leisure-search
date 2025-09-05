@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation (?)] [Possibly sometime around 2010-2015] Game
+name from my childhood ??. Okay, so i have a very very dull memory of
+watching someone play a game, the only thing I remember is that there
+was a girl who could see things but it gave her a really bad
+nosebleed. I remember a scene where she ran into the bathroom to see
+something? Is it possible that anyone here could help me out?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

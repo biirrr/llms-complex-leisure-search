@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short shoujo manga about a ghost young woman that fell in
+love with a guitar dude (who disappears) and then a little boy is the
+only one who can see her. Hi, I'm looking for a shoujo manga I read
+uuh around 2010? Its style is very similar to Nana, both in drawing
+style and feel. It's a short manga, either oneshot or a couple of
+volumes only. It's complete. The plot is about a girl in her early 20s
+or late teens who meets by chance a guitar player. She has trouble at
+home, so she sticks with him. They stay in a big home and he also has
+trouble (depression or drug abuse?)... the topics are tough but it's
+romanticized, in a kind of ""we've found each other"" way. Then flash
+back to the present, the girl is a ghost (who only remembers the guy
+vaguely), the guitar dude disappeared, and some school kids find the
+house. The manga is about the kids figuring out who is the ghost girl
+and what happened to her and her guitar dude. I thought I remembered
+the title was Moonlight but when i look this up on google it brings
+nothing (or too much of other things ^^') Thanks a lot in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

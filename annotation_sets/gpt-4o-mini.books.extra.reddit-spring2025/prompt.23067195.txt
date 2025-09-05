@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Sci-fi/ Futuristic/ Fantasy. Boy lives in a
+huge spaceship in the future. Read in 2019-2022.. I don’t remember
+very many details on this book and the stuff I do remember is very
+very random and probably wrong in some way. So this kid lives in a
+giant like really big spaceship and it’s in the future. I don’t know
+if people still live on earth or not but we’ll get to that later. I
+think he has a job or is an apprentice but I remember a factory so
+idk. One day he finds a red feather and I don think they have birds or
+any kind of animals so it’s pretty cool for him. Um I think that
+people from different planets (maybe earth??) visit at one point. He
+either is close to his dad or his grandfather. Also this I read I’m
+and weird but I remember one quote from this book and it’s when he and
+his friend are play fighting and his friend goes ‘you ruptured my
+spleen!’ And for some reason that was so funny. Also it might MIGHT be
+sort of based on Robin Hood but I don’t know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

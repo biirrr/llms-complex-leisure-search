@@ -1,0 +1,44 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [UNKNOWN] Psychological horror in the woods. A few
+years ago, I remember watching a video of someone playing this. It
+took place in a forest and followed a young girl who wore only her old
+school uniform and lived alone in the woods. It follows a pixel style
+and was the classic 2D up-down-left-right movement system. Her cabin
+was simple--when you entered, you were in the living room, and there
+was also an adjacent kitchen and the girl's bedroom. (There might have
+also been a bathroom, but I'm not sure.) There was an upstairs, but
+the player never could and never would go up there because """"""""it
+belonged to the rest of the family"""""""". The text boxes had sprites
+of the girl. She had blonde hair (I think) and her name was something
+along the style of a sweet English or Japanese name. Probably started
+with an A or E, although I'm not sure. Her sprites were the classic
+""""""""anime pointy chin"""""""" style, but as the game progressed
+and the plot got darker her sprites would distort (think: she kept the
+same face but it was... melted and her facial features were replaced
+with classic horror features like pits with small eyes and a gaping
+hole for a mouth.) Every day, the girl would go out and do different
+tasks (tending to the garden, woodcutting, picking apples, getting
+water from the well, etc). Some days would be darker than others. Over
+time, the days would gradually become more disturbing. At some point,
+when she gets the apples from the trees, they're rotten, and she eats
+them anyway. Cue the distorted sprite and her maybe calling it
+delicious. At another point, she drank gasoline. The water from the
+well was black one day and she still took it. This is when the plot
+starts to key in. One day when she goes to chop wood it's mentioned in
+some way that she attacked (and presumably killed) a family member
+with the axe. When she works with the stove, it's mentioned how she
+killed a family member through that. On the last day, all of the
+graphics are distorted. It's eye bleedingly red and when she reaches
+the well, it's empty. It's empty except for 7-13 (I think it was 11)
+skeletons at the bottom, presumably the remains of her dead family
+members. The game ends with her jumping down."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

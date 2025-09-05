@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 1900-Early 2000] 2 Bunnies (I think) take over
+the hotel and cause havoc. Hi All, Im trying to recall a game I used
+to play on the PC when I was younger. The premise was youre working
+in the hotel and these 2 bunnies (I believe) take over the hotel &amp;
+are causing havoc. Your goal is to go up and down to different rooms,
+each room is a level, and gradually save the hotel from them. Its a
+cartoonish game, really lighthearted and just fun. Ive tried ChatGPT
+and googling a lot but no luck - so please work your magic and help a
+girl out! My mind is friend searching &amp; I just want to play the
+game again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

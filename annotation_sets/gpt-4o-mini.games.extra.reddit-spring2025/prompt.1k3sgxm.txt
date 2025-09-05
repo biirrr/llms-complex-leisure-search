@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][before 2012][Souls-Like?]. I really only remember bits
+and pieces here and there, but I remember it having about the same
+style as Dark Souls look wise. I wanna say that there was a giant
+statue in the woods early in the game that you couldnt do anything
+with until a while later in the game, but there was something visible
+in its chest or head. Theres a major part of the game in which you
+must fly above lava with big demon like wings (not sure if it was the
+main character that had wings or if it was a creature). Wish I had
+remembered more, but hopefully this sounds familiar to anyone that
+sees this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

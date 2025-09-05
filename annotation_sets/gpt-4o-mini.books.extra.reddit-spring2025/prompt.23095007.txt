@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Sci-fi about underwater breathing. Read sometime
+1969-1973.. My mother read a book as a small child and no amount of
+searching has brought up anything. The only things she remembers is:
+-it was about a boy and a mentor style man -they had surgery to be
+able to breathe underwater -they came across the Transatlantic Cable
+-They went down someplace in NY or so and came up around France
+-Possibly a government mission? She acquired the book at her school
+library."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

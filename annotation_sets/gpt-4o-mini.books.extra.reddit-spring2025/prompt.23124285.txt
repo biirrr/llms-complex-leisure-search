@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade fiction: Boy's chickens become petrified,
+leading him to discover his property has lots of this radioactive
+element called ardium (NOT radium). Title similar to ‘the rock in the
+wall'? Read around 2012-2015. Spoiler.. This one is driving me crazy.
+This is a middle-grade fiction book about a boy whose family chickens
+turn to stone, and then his dad does too after getting drunk and
+falling asleep in the chicken coop. Eventually the main character and
+I think his sister talk to their neighbor, a scientist, who tells them
+about this (radioactive?) element ardium (fictional! Not radium!)
+that’s on their property. The boy and the girl end up sort of getting
+trapped in this rocky area with a lot of the element, but they figure
+out you can reverse the petrifaction with heat, so they like rub down
+their dad’s legs to un-paralyze him. I really feel like the title was
+something along the lines of ‘the hole in the wall’ or ‘the rock in
+the wall’, but nothing comes up for either of those. Also I read this
+book around 2012-2015 and the cover may have been white with brown
+lettering?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

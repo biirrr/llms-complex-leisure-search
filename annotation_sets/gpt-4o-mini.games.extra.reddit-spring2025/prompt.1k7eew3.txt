@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser Based][~2010]Point and click horror game series.
+**Platform(s):** Web browser, maybe flash but not certain **Genre:**
+Horror, point and click, puzzle, escape room **Estimated year of
+release:** Around 2010, at least that's when I played it as a kid.
+**Graphics/art style:** Very dark, dimly lit, not very stylized so
+""""""""realistic"""""""" graphics I think **Notable characters:** I
+believe you the player are an escaped humanoid that came out of one of
+those liquid stasis tanks in sci-fi [like this](https://www.reddit.com
+/media?url=https%3A%2F%2Fpreview.redd.it%2F4yk1fo1j9jqa1.jpg%3Fwidth%3
+D320%26crop%3Dsmart%26auto%3Dwebp%26s%3D2c09cb9e31e5403965cc79557b28b5
+ad7a848f1a) **Notable gameplay mechanics:** Basic point and click
+stuff, find a screwdriver, take the screws off an air vent, find keys,
+etc. There may have been standout stuff that I just don't remember
+**Other details:** Takes place mostly in an abandoned, seemingly
+underground laboratory. There are other entities around, one of them
+jumps out at you after opening a vent cover. Scared me real bad as a
+kid. I believe the game ended by getting out of the compound, but I'm
+not sure. There were a few sequel games, but I don't think I played
+any very much. I remember trying to find this game years ago and I
+think the title of it was a combination of generic words so it was
+difficult to find. Something like """"""""specimen zero"""""""",
+""""""""subject zero"""""""", """"""""project blue"""""""" or
+something. It's killing me that I can't remember, but I hope someone
+else does."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

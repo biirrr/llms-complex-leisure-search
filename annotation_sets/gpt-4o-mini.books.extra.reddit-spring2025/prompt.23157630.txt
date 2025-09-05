@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for a 1990s or 1980s children’s chapter book: neat
+girl & messy new girl become friends. I’m trying to find a children’s
+chapter from the 1990s or 80s (probably a Scholastic book). It was
+text-heavy and intended for middle-grade readers (ages 8–12). What I
+remember: • The main character is a neat, organized girl (somewhere
+between 2nd-5th grade). She’s loves school and staying organized. She
+is a teacher’s pet and loves to do her homework and keep things tidy.
+She is lonely and has no friends. • Her bedroom is in the attic of her
+house and she imagines she is a princess in her “castle” up there. •
+She brings soup in a thermos to school. • A new girl joins her class —
+messy, loud, chaotic and carefree. I think she had long red hair and
+her name may have started with S. • The girls clash, especially when
+they have to work on a school project together. • There’s a scene
+where the messy girl comes to class soaking wet and makes a big mess
+in the classroom. She gets the neat girl wet even though she wore
+galoshes to stay dry. • The messy girl brings a newt to school at some
+point and the neat girl is disgusted. • The neat girl is not very
+popular at first, but as she loosens up, she becomes more accepted. •
+The messy girl visits the neat girl’s attic “castle” and doesn’t like
+the princess fantasy, or maybe the neat girl was embarrassed about it
+and tried to keep it a secret but it was revealed somehow. • The two
+eventually become friends and neat girl learns to loosen up and have
+more fun. The cover likely showed both girls with their arms crossed —
+the neat one frowning or serious (short, darker hair), the messy one
+smiling and mischievous (red hair). Its’s not Teacher’s Pet by
+Hurwitz. I’ve had no luck, please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

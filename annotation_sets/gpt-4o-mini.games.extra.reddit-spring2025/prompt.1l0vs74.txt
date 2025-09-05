@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000's] Frozen lady. I honestly feel like I'm
+going insane trying to find this one. I have a somewhat good memory of
+it and I'm not sure if it's been delisted from whatever website I
+played it on or what's happened since. I still gotta know it's not
+made up and that it actually happened. It was a game that started with
+this girl, long brown hair I think, falling into cold waters during
+the winter. The game basically starts within levels. The first level
+which was the most difficult thing to pass was about taking her out of
+the ice. With your mouse you had to click around her body without
+touching her and unfreeze her out of the ice with a laser. Thing was
+so hard that it was a miracle when my sibling and I managed to pass it
+one day. The second level you gave her soup, but I think you had to be
+careful with not burning her? Never made it passed that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

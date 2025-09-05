@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-fi Romance. Aliens forced to live on Earth in
+reservations. Female heroine employed by the government to take care
+of them. Spoiler.. The book I have read was sci-fi romance about
+aliens, who crashed or were for some reason forced to land on Earth.
+Human government forced the surviving aliens to live in the
+reservation. The conditions in the reservation were very poor. The
+heroine was employed as one of the staff memebers, who were taking
+care of the aliens. The aliens did not look as your typical aliens in
+sci-fi romance (usually look very similar to humans). They reproduced
+by laying eggs. The heroine established a closer contact with one of
+the male aliens. He was trying to hatch one egg of his own. It was
+slow-burn romance. I read the book in English. I think it is the
+original language, but I am not sure. I have read the book few years
+ago, but I have no clue how many years ago)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

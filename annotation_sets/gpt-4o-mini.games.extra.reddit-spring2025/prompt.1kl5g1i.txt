@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Phone/Tablet] [2010s?] Point and click game on IOS. Hello
+people of Reddit, I'm trying to find the name of this game that was on
+the App Store (I played it on one of the first few generations of
+iPads but idk if it ever was on any other store. It was a sort of
+point and click game kind of in the same vibe as Monkey Island when it
+comes to gameplay mechanics. I think it was released around 2010 or
+more since I played it when I was a kid but old enough to remember
+playing it. The whole game had a sort of dark ambiance with very
+stylized characters and backgrounds that always remained in dark tones
+throughout. I also remember there being two protagonists, two male
+characters one tall and slim and one smaller and chubbier both either
+wearing some sort of mask or having their faces shaped like ones and
+one of them has long dreadlocks behind it. (taller one) When it comes
+to gameplay I think it was sort of like your typical point and clicks
+where you had to find the right items/item combination to progress
+throughout the story but I very vaguely remember the beginning of the
+game taking place in some sort of port and more precisely in a sort of
+mini hotel/Inn? A last detail that I'm definitely not 100% sure of
+(and sorry if my memory recalled wrong) but I think there was some
+sort of a Rasta theme going on throughout the game? Sorry if all of
+that sounds messy asf but it's all I can recall :,( Any help is
+appreciated !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

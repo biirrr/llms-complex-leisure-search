@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "New Adult Romance series I read back in 2014-2015. It took
+place in Australia. I believe the main characters name was Bridget and
+her brother was Alex. Spoilers.. *spoilers ahead* The girl worked in a
+coffee shop I believe and her and her brother surfed a lot. She met
+this guy (forget his name) visiting from New York City. They start
+dating. Bridget finds out that her much older brother is actually her
+dad. I forget what happened to her mom but the person she thought was
+her mom who died recently I think was actually her grandma. She gets
+pregnant and NY guy goes home. She ends up going to NY to tell him
+about the baby I guess. NY guy comes from a very rich family and they
+don’t really like her at first. NY guy has a brother also and I think
+they go into business together in one of the subsequent books buying a
+club or restaurant of some sort. The other books in the series follow
+the other people’s POVs. In one of them Alex starts dating a French
+teacher I think. I think Bridget and NY guy move back to Australia at
+some point. Im actually not sure if the main girls name is Bridget or
+if their daughters name is Bridget. I read this book literally 10
+years ago and I want to re read it. I think the title has something to
+do with fairies or wishes or fireflies. Like the mom told her that
+fireflies are fairies or something. But it’s not fantasy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

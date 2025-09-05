@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction: Truth about child sponsorship and charities.
+[s]. I don't have much to go on with but a few days ago I remember
+very briefly seeing/hearing about a book that talks about why you
+should or shouldn't sponsor a child or give to a charity. I suppose
+the author goes into deep research into the organisations to
+investigate the effectiveness of charity organisations or if some are
+corrupt. I either heard it on a podcast or had a glimpse on a web page
+hoping I'd remember it someday but recently I got approached by some
+sponsorship evangelists and I didn't really have a solid answer except
+""I'm poor and need to research first"". The latter definitely holds
+true. Sorry no title or author, that's all I got :( Cheers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

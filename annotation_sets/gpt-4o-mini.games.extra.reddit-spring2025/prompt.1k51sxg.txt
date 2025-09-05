@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010s] Zombie game where the last (I think) level
+has you in a helicopter.. Zombie shooter on mobile, all I remember is
+that what I think was the last level has you in a helicopter shooting
+some sort of machine gun down at four pillars of zombies as they climb
+up a building towards two other characters. The zombies were climbing
+up the corners of the tower and the helicopter would circle the
+building on its own as you shot at the zombies to try to prevent them
+from reaching the roof. Two other characters were on the roof. Had
+realistic style graphics. Edit: More details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

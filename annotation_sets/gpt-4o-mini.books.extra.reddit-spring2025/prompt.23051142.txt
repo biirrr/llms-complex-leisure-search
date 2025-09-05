@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Romance novel from 2009 with mages. I
+absolutely cannot figure this out! I read this probably in 2009 or
+2010 so it wouldn't be newer than that. The main character was
+Sabina/Sabine and the MMC was Ice. I'm pretty sure they were wizards
+of some sort but I'm not sure if the book used the term mage or
+witches and wizards. The book starts off with a bunch of characters in
+a safe house of sorts that gets attacked and then the two main
+characters get split up from the rest of the group. I think they were
+hiding in the trees at one point while they were on the run. Then it
+was kind of like an enemies to lovers/forced proximity deal. At
+another point near the end of the book, the MMC has a duel with
+another guy. It was part of a series. Any help at all would be
+immensely appreciated! I remember too I was reading this in iBooks but
+I no longer have an Apple account and can't access my purchase
+history, but they were advertising books like Passion Unleashed and
+Wicked Deeds on a Winter's Night by Kresley Cole in the related
+section."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox One or Xbox 360] [Late 2000's to Early 2010's] Karaoke
+game with a score called """"""""Biscuit"""""""". It was a karaoke
+game and the scores were named stuff like """"""""rock"""""""",
+""""""""meteor"""""""", """"""""supernova"""""""",
+""""""""universe"""""""", and it would show images of them as well. I
+remember the lowest score you could get was called
+""""""""biscuit"""""""" and it would show a picture of a biscuit. I
+thought it was super funny as a kid because it had a really awesome
+looking animation before showing your score and then it would show a
+photo of a biscuit or whatever your score was. I thought it might be
+one of the 'Lips' games but I cant find anything about what I'm
+talking about when I look them up. Edit: Holy, looking back now that
+animation was really not that awesome"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

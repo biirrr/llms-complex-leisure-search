@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Browser game about a blue fat guy chasing yeti
+and eating food. Game used to be playable on kizi. You play as a blue
+fat guy with yellow hair running from left to right side of the
+screen. You needed to avoid obstacles and get score for eating food
+that was found along the path. At the end of every level there was a
+boss in a from of a yeti driving some vehicle and shooting stuff at
+you edit: found it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

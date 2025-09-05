@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Cross country Eastern Europe horse and carriage. [s]. My
+wife was reading a book which I brought to the teacher room at my
+school; then, it disappeared. Plot: Man wants to travel cross country
+in Eastern Europe with nothing but a horse and trailer. He traveled
+with his kids; I recall that his wife joined him later. They got
+sponsors at the beginning of their travels to defray the cost of the
+journey. The wife didn't like the lack of privacy in the trailer (I
+don't recall if it was called a wagon/buggy/carriage/trailer). I
+remember random incidents; they'd stop for a day to do laundry; they
+were always getting free food from good Samaritans; one time, they got
+ground meet which was green but which they cooked and enjoyed anyway.
+I recall little about the plot save that they had to replace the
+horse's shoes, at one point, I think, they had to replace the horse.
+I'm just at a loss because my wife was really enjoying the book - I
+lost it! - and I barely recall anything that clearly demarcates the
+book. I think they traveled through Eastern Europe - Slovakia,
+Slovenia, Croatia, Bosnia - if not all of those countries, then some
+of them.. It was more a diary than a book. Thanks in advance (and
+hoping you can help)! Book I'd say was written later than 1980 and
+earlier than 2010. Author, got no clue!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

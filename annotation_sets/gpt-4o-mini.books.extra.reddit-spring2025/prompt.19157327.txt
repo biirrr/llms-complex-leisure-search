@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction on lobotomy [s]. Happy new year! I read this one
+around 2006-07, borrowed it from my university library. It was an old
+paperback with a black-and-white swirl on the cover. Most of the book
+focused on lobotomy and why it became so popular during the '30s-'50s,
+I believe there were some actual examples included and some
+psychological/sociological analysis too. It was not My Lobotomy
+though. Any help would be appreciated :) Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

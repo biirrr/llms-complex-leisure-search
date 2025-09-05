@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2017] On rails shooter that was hilariously bad.
+The game started in a diner/gas station of some sort where an
+explosion happened and you had to shoot some guys. Ended with the
+player on the roof of a factory/warehouse and you had to snipe a
+moving vehicle. The game also had a love story going on in the
+background, but not completely sure on that. The main protagonist was
+a man who was a bounty hunter or assassin (or something else, not
+sure). Setting was modern era, mostly in a city. It was pretty popular
+on YouTube where I think I saw Jerma play it. It was hilariously
+awful, in the same vein as Big Rigs: Over the Road Racing and Ride to
+Hell: Retribution. Gameplay was you pointing a cross hair that looked
+like a sniper scope and shooting the enemy. Graphics I don't really
+remember, but I'm pretty sure everyone looked like low polygon PS2
+characters. Edit: The game was also pretty cutscene heavy, like 50% of
+the game was just cutscenes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

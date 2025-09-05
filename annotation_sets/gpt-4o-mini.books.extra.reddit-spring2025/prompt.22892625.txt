@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Pre-1990s Collection of Children's Scary Stories including
+one called ""Wolfgang"". I read this book sometime between 1988 and
+1995, but I have no idea how old it was at the time. I don't remember
+where I got it either. It was a collection of scary stories, with a
+larger story about a family telling each other those scary stories. I
+think they were all supposedly (within the family's universe, not in
+our universe) true. One was called ""Wolfgang."" It was about the mom
+going to stay with a family when she was a young girl, and the family
+had a boy who was a werewolf or something along those lines. There was
+an illustration of her with her hair in a braid. The final story was
+made up by one of the kids. It was about a barbecue/cookout. All the
+kids went off to play or something, and never came back. I think there
+were only a total of maybe five-ish stories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

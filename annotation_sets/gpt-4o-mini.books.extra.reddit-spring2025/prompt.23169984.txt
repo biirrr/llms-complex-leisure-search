@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Main character is at a school event. Her sister
+leaves to pick something up and gets into a car accident. Read 2010.
+Spoiler.. Main character is at a school event, her sister leaves to
+pick something up and gets into a car accident. *SPOILERS* She ends up
+brain dead in a coma. She wasn't wearing a seat belt and her head hit
+the steering wheel. Might have been twin sister. Read in 2010,
+published in the 90s I think. Takes place in the 90s in the US. Car
+accident happens early in book, mc must learn to live without her
+sister."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

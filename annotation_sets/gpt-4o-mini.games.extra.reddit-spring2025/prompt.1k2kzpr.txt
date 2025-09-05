@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] A point and click game with real images about a
+anime girl coming to life and stalking you over a course of many
+days.. I remember either seeing bijuu mike or coryxkenshin, OR both,
+play this horror game. I also remember the images not being
+comepletely clear and it being sort of blurry? Aswell as the game
+taking place over a course of many days. I think maybe it said
+something about their """"""""parent's going on vacation"""""""". I
+also do remember the anime girl like i remember a key part where she
+is watching you from the balcony"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

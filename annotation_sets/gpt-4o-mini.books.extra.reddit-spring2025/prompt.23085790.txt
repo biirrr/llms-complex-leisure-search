@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction, read circa 1965, main character Chloe. YA book
+read circa 1965. Teen heroine's name CHLOE. Chloe's dad takes her fly-
+fishing in the Sierra Nevadas, falls in a river and breaks his leg.
+Chloe has to hike out alone to get to a ranger station to save him.
+She meets two mountain climbers during a snow storm who aid her. Dad
+is saved at the end - Chloe falls in love with one of her rescuers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

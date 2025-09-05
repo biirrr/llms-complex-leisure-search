@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016-2017?][Pixelated side-scrolling shooter] Game
+similar to Metal Slug with a pixelated anime art style. I remember
+playing a game similar to Metal Slug but with slower-paced gameplay
+and possibly the ability to customize or buy guns? One thing that
+stood out to me was you had to manually reload and I believe if you
+timed your reloads right you could get bonuses."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

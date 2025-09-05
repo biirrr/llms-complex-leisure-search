@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2016-2018] a mad máx style game about parry. A game
+about a hooded vagabound called parry god or something like that, it
+was a sci fi/mad max style and you have to parry every hit to fill a
+bar and the do a last hit as a finishing move (you cannot attack
+normally unless doing some special hability), it has diferent levels
+with bosses and enemies, but it was like a rebelión against the
+goverment or something like that"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

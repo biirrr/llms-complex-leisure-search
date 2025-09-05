@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Science Fiction short stories: Aliens make cars from hay.. I
+read the book in the early 70s but may have been around longer.
+Bradbury, Arthur Clarke, or Heinlein, more fantasy than Asimov. Some
+form of alien ship lands, and had a mobile factory that went across
+hay field, leaving hay bales behind. After awhile, instead of hay
+bales, it made cars (possibly flying) and left them. People took the
+free cars. I don’t remember if it made other products, but towards the
+end, it began producing free houses for everyone. It closes with the
+latest edition of the houses being produced, and they see motion
+behind the curtains, the implication is that they are either
+populating the earth with new humans, or are becoming human."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

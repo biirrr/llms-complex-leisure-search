@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1999-2002?] FPS with quake-graphics and story. I just
+caant remember what this game was called! Looking for a FPS in like
+clunky quake 1-style graphics but with a story. Remember there were
+voices so must have been a CD-game. Remember you play as a big guy
+with very small round sunglases..? And he has like a tech friend who
+talks to you and gives tips and directions. Remember a early mission
+is that you like enter a bank or something through the roof..? Veery
+hazy memory here."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

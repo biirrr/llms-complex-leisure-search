@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Unknown] help me find this game!!. It was a old
+game I used to play on my kindle fire tablet, it took place in this 2d
+world where you could swipe left or right to move around the town. The
+characters were cartoon animals, one the main one being a dog, and i
+think being on the cover, but I don't know. You could drag the
+charcters kind of like toca boca, but it wasn't that, and one distinct
+thing about it was that you could change the seasons, and the scenery
+would change with it. Can someone help me find this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

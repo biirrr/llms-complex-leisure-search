@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. A girl hangouts in a graveyard and likes to
+write letters to gravestones of babies, the new boy at school begins
+to like her and tries to figure her out. Spoiler.. SPOILER AHEAD (the
+girl likes to hangout at baby gravestones because she got pregnant
+from a popular boy at school and then miscarried. she becomes lonely
+and everyone at school doesn’t talk to her but the new boy talks to
+her and begins to like her. so she opens up to him about the letters
+she writes to her dead child. the boy also figure out her mom had some
+odd relations with some guy in the book which is important (i forgot
+why) and the girl helps comfort him after finding out. i read this
+book in 2022-2023."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

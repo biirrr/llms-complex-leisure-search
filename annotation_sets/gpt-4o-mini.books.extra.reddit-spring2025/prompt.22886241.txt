@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s fiction, about a girl named Rowan, who ends up
+alone sleeping in the woods. British, borrowed from the library in the
+late 1989s/early 90s but may have been written before that… [s]. The
+girl Rowan is maybe 11 or 12? She travels alone in the summer
+holidays, by train I think, to stay with someone - possibly an aunt -
+who lives in the countryside. When Rowan arrives there is nobody
+there, and she doesn’t have a way of getting home or contacting
+anyone, so ends up staying in the woods alone for several weeks. I
+remember her sleeping in a mossy glade. I can’t remember any other
+details! I feel my 8 year old daughter might enjoy reading it but have
+no idea what it was!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2020] I think. Ok so I saw manly bad assume hero play
+this game and it was a game where you merge these monsters in a
+facility you take their DNA and merge them and they could possibly
+break the glass containing them and you would die if that happened.
+Some of the monster were a space guy like the kooky space kook from
+scooby doo, a psychopath that was human, and a fish creature. Sorry I
+couldn't come up with more details [solved monster dna]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

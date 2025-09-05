@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2020s] A Puzzle Game that Uses an In-Game
+Handheld to Navigate. From what I remember, it's a first-person puzzle
+game (puzzle platformer maybe) where your character is also playing a
+GameBoy-like device. The game your character is playing is similar to
+the world you're having to puzzle your way around and you have to
+compare the game to world to the world world to solve puzzles and find
+holes and ladders and stuff."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

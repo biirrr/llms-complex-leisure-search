@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Military game with a training ground in a
+desert. Title had Ops in it.. Hey folks, Im wracking my brain
+trying to remember an old military game that I used to waste time in
+when I was younger. There was definitely a campaign that came with it,
+but I mainly concerned myself with the training area which had every
+gun available and an outside area for the rpg and grenades. There was
+also an opportunity to attack the npc who was guiding you that I often
+did out of boredom. The title had ops in the name, and the loading
+screen(?) was a skull on a cross. This might not be true, but the
+title hint was for sure. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

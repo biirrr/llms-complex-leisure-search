@@ -1,0 +1,49 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Short Story, read between 2000-2002 about a world in
+which all women are wives. Spoilers.. I thought I had read this story
+in one of the few short story anthologies on my shelf, but I've
+checked those again and again and it's not there. I'm pretty sure it
+was contemporary feminist literature. PLOT/SPOILERS: The story starts
+with a young girl hiding and the whole family/community thinks she's
+run away. She is trying to run away because she's going to be
+betrothed to a man who is an older adult, like 30's to 40's while she
+is only 8-10 years old. A neighbor woman finds the girl hiding in the
+basement, planning to run away, and sympathizes. The neighbor says she
+felt the same as a little girl and was going to run away but then
+realized (or maybe the girl had this thought?) that all the women she
+knew in life are wives. Women in their world/culture had no other
+function; no woman worked for wages. The betrothed man comes into the
+basement where the girl has been hiding. He is sensitive or scared or
+something, and he tells her he was worried she didn't like him.
+Whatever he says to her or however he says it softens her, and she
+returns to normal life. I think the girl has to stop going to school
+and stay home learning how to be a housewife. The mother has a line at
+one point where she says she was proud of her daughter because the
+spaghetti sauce was starting to boil and make a mess and the girl
+turned down the heat and stirred it, which was the right thing to do.
+This was said when the time came for the girl to actually be married
+and go live with the man. I want to say the story starts when she is 8
+getting betrothed but she doesn't go to live with him til she's 10,
+but that may not be accurate. It may be that the father arranges the
+marriage and there is a party and only a few weeks/months between the
+engagement party and the wedding. The girl does marry the man, and at
+the end of the story she is a teenager, having been married for some
+years. She mentions that her husband has never made her have sex with
+him, although some men do that, and she talks about another girl from
+her class who was made pregnant at 13 by her husband. The story ends
+with the main character saying she is learning about business from her
+successful husband. She is allowed to sit in on a meeting, taking
+minutes or something. It's noted that this is unusual for their
+culture and somewhat progressive of her husband but maybe it's just
+because he loves her so much? It drives me crazy that I can't think of
+the name of the story or the book it appeared in, PLEASE HELP ME!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [2000] a turn based RPG with a party of 3.. I remember
+it being cartoonish and 3D and you were able to collect party members
+as you progressed through the story. I remember one was based on
+Frankenstein, although I think his name was a play on words, and to
+recruit him you had to go to the haunted zone and collect items to
+revive his monster and that would recruit him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

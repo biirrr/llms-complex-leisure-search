@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [early 2000s] Farm game. There was a unique farm game I
+used to play as a kid.. it had a lot of stuff and story going on and
+suddenly the mansion exploded I had to collect shattered glass and
+repair it or whatever. There was a big map where I can get farmers,
+name them and dress them as I like and they could get tired and sick
+so I had to feed them well and treat them.. I played it when I was too
+little to read well I think that's why I missed it's title. Help me
+it's been months of searching for it in """"""""old farm games""""""""
+and still can't find it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "small game cookbook. I need the title of a small game
+cookbook. A picture of one page in the cookbook was uploaded to a
+Facebook group, no title or author name, no published year. I
+contacted three FB groups where the page was uploaded, but no one
+knows what book the page is from. I don't see an option to upload the
+pic here, but here are two of the three recipes on the one page which
+is the only way I can identify this cookbook. Fried Rabbit 1 rabbit 1
+tsp salt 1 chopped onion 1 tsp vinegar 1 cup flour 1/4 tsp pepper 4
+Tbl cooking fat Cut rabbit into serving pieces, then roll them in
+mixture of flour, salt and pepper. Brown them in fat, then add 1/4 cup
+water, diced onion and vinegar. Turn down heat, cover and cook until
+tender. Remove cover last 10 minutes to brown. Squirrel with Grits 2
+Squirrels Salt Pork 1 Large Onion Salt and Pepper 1 Quart Water 1 Cup
+Grits 1/4 cup catsup Cut squirrel into serving pieces and dice salt
+pork. Put pork in skillet, add squirrels and cook until brown. Add
+water and simmer until tender. Add more water if needed. Add catsup,
+onion and seasoning. Cook 30 minutes longer. Serve with grits."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

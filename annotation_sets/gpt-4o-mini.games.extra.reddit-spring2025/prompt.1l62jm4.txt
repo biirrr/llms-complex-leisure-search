@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Isometric dungeon crawler. Platform(s): PC Genre:
+Dungeon Crawler Estimated year of release: 90s probably before 1998
+Graphics/art style: Isometric dungeon crawler Notable characters: I
+think there were colored knight bosses like a black or red knight.
+Notable gameplay mechanics: Player can move in 8 directions but
+enemies seemed to only go diagonally. You could cast magic but had to
+queue up spells via some sort of hand gesture system. You could use
+those gestures to unlock spells you had not learned like I recall a
+bouncing fireball spell that took most of my mana and could easily
+kill me. Player inventory had a free hand slot or something where an
+optional attack was to throw whatever was in that slot. Damage was
+based on how heavy the item was so a decent tactic was to throw a bag
+full of rocks. I remember managing to find a very small amount of
+poisoned arrows and using that to beat a boss by out maneuvering it
+because I could move straight up down and it could only go diagonal. I
+remember having some sort of healing spell. I think instead of healing
+me I would fill a potion vial or something similar. I remember not
+knowing how to regain mana. Other details: I think the title was a
+single word of some sort but I'm not really sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [2000's?] wondering if anyone recognizes this little
+arcade game i found ages ago (art by me based on vague memories).
+Platform(s): PC, possibly an arcade game port Genre: Arcade, Action-
+Platformer Estimated year of release: sometime in the early 2000's,
+most likely Graphics/art style: 16-bit, vibrant chibi art style
+Notable characters: blue construction workers (game supports 2-player
+co-op), red construction workers Notable gameplay mechanics: game is
+centered around building walls and applying your team's colors on said
+walls to win Other details: the name of the game completely left my
+head but i used to own a disk that had a bunch of fangames from the
+late 2000's and early 2010's burned onto it but also a bunch of
+seemingly ORIGINAL titles that i haven't seen before OR since. one of
+them was this one. i can't even search for the disk itself because the
+only thing that was written on it was """"""""CD GAMES"""""""" with a
+Sonic the Hedgehog 2006 render and a Wario World render on it. my mom
+probably bought it at some sorta flea market back in the day. i did"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

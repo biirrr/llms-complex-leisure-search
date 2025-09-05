@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book 1960s/1970s. Woodland creatures..
+Looking for a children's picture book from the 1960s or 1970s
+featuring I believe either a mole or badger and a weasel. The weasel
+just wanted to have fun and didn't want to get ready for winter, while
+the mole or badger prepared for it. Later mole/badger helped the
+weasel when winter came. I think part of the getting ready for winter
+involved berry picking. It had a green cover. Read this in the 1980s,
+so my memory is a bit fuzzy. Remember the weasel character sneaking
+into mole/badger's tunnel. There may also have been an attack from a
+larger animal, not sure. **UPDATE 22 APRIL 2025** I found the book!
+It’s Good Neighbors by Diane Redfield Massie, published in 1972."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

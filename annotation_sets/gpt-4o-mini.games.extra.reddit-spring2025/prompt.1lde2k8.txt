@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Side scroller shooter/horror] [late 90s/ early 00s]
+Game with hyper realistic graphics for the time, Gothic horror with
+heavy religious themes and very gory with a female protagonist. I
+don't remember much more than the begining because I was so scared but
+i remember you fought zombies/demons, the ambiance was like hellish
+but with like greek architecture maybe? And at some point in the first
+lvl you watch someone die on a cross in a gruesome gory way. I played
+it maybe in 2005 but I don't remember very well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

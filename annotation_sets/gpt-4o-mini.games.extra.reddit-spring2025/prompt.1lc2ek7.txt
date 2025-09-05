@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS] [Early 2010s] Trying to find an old top-down SHMUP on
+iOS. Can you help me find an old mobile shoot-em-up game on ios? I
+remember playing it on either the iphone 3 or 5. It's a classic top-
+down view angle shoot-em-up. In the game, you fight against alien
+spaceships using a futuristic fighter jet, there are 3 choices at the
+start of your game: a red one with balanced stats, a sleek blue one
+prioritizing offense, and a big yellow one prioritizing defense. There
+are multiple stages going from earth to space with a big boss at the
+end of every stage, each boss has breakable parts that you can focus
+on destroying to disable an attack pattern, after losing half their HP
+they lose all breakable parts and usually have a big laser beam
+attack. The final stage takes place on the earth after the world got
+ruined by the aliens while you were gone. There's an upgrade tree
+where you unlock and upgrade your weapons from the money you've earned
+during the gameplay, weapons range from normal wide-spread shots,
+green homing shots, bomb shooters, a straight orange laser, a blue
+laser that can automatically bend to the nearest enemy, etc. I
+remember the UI arranged like the first image, with its jet select
+screen when you first start, the upgrade screen, stage select screen
+with 1 level having the pillars of creation as the background image,
+and the gameplay screen. I distinctly remember 1 boss in an almost
+egypt-themed background stage that shoots out a ring of spinning
+kaleidoscopic lasers after reaching half hp. There are a lot of shot
+types that you xan unlock, but these are what I can remember. The
+final one might not exist, idk, it's been a while, but the other 5 are
+exactly as it is. The green homing lasers are extremely vivid to me
+because it's my favorite, and the enemies it hit have that weird green
+effect on them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

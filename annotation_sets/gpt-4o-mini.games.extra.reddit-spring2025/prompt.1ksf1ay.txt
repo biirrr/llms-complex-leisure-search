@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[dont know platform][dont know year] game with a fight where
+the boss is three demonic heads coiling around the screen.
+Platform(s): I don't know, I saw someone play it on twitch last year
+Genre: action adventure? It was 2d, felt like a platformer Estimated
+year of release: don't know Graphics/art style: i'm fairly sure it was
+pixelated. Very demonic/hellish themed level. Lots of shades of red
+and pink. Notable characters: There's the player character, he's just
+a guy with a weapon. I think he had a blade but he might also have had
+some kind of ranged weapon but I'm not confident. I dont't recall much
+of what he looks like. There's also the boss, which was three giant
+grotesque heads that were coiling around each other almost like an
+ouroboros. They were coiling along the edge of the screen shooting
+things at the player character, who was stuck in the middle of them.
+Notable gameplay mechanics: The player character was mostly jumping
+around the screen to avoid enemy attacks coming at him from all sides,
+and occasionally attacking to wear the boss down. Other details: nope,
+but thanks to anyone who responds!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

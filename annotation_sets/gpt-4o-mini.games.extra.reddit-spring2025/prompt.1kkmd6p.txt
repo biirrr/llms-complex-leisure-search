@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [year maybe 2003-2005] [Third person] [spy or
+espionage type game]. Platform(s): PS2 Genre: Spy or Espionage
+Estimated year of release: 2003-2005 Graphics/art style: movie or semi
+real life style but third person camera Notable characters: NA Notable
+gameplay mechanics: swapping characters and sneaking around or
+distracting guards or finding an item that may help a character across
+the map on a level with the end goal of not getting caught or dying
+Other details: The last Mission i remember playing is I was on a train
+Going around sneaking around At one point i was on top of the train
+and was in a tunnel trying to get to another end of the train with out
+falling off. i also think the theme or title card of the game was
+green. if anyone can name off a list a games that would be nice I'm
+100% sure its not any of the metal gear solid games thanks in
+advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

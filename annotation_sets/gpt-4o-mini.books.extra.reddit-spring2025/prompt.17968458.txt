@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book called ""Japan,"" [s]. So in this case I do remember
+the title of the book--it's Japan . But since that's a one-word title,
+I can't find it because I don't remember the author's name. I think
+the cover was green, maybe with a picture of a traditional Japanese
+building on it. The author's name is male and the first name was
+something fairly common. I would estimate the publishing date to be
+maybe the 80s at the earliest, early 2000s at the latest. Thanks in
+advance for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

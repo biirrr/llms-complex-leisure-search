@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Vampire Romance. Female lead attends a boarding school,
+vampire brothers, one brother is named Lucky. Read around 2018-2019..
+I read this book in middle school in around 2018-2019. I distinctly
+remember the cover being a girl with dark hair in a white dress in the
+woods. I believe her back was on the cover and you could not see her
+face. There were two vampire brothers (?) I think. I know for sure one
+was named Lucky since I remember thinking his name was idiotic. I also
+remember one of the brothers being in a band? He wrote a song about
+the FMC being the Titania in a Midsummer Night's dream. These are
+really the only details I remember about the book. I also know they
+were attending a school of some sort (A high school) and I think the
+FMC lived on campus in like a gardener's cottage or something. Not
+knowing what this book is literally keeps me up at night. It was the
+first YA romance I ever read."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

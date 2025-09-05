@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Facebook] [2010-??] City Builder with Red or Blue Theme.
+**Platform(s): Facebook** **Genre: Simulation, PVP** **Estimated year
+of release: My Facebook was created 2010 so somewhere around that
+year.** **Graphics/art style: Cartoonish, RED , BLUE.** **Notable
+characters: Tanks, Fighter Jets, Warships, Blips.** **Notable gameplay
+mechanics: You build building that unlock vehicles of war, and then
+you fight against friends. RED v BLUE , missions on the side to build
+certain buildings, upgrades etc.(Heavily pay to win)** **Other
+details: Think the game was inspired by Red Alert 2, but it had its
+own charm, and i remember it got removed from Facebook.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

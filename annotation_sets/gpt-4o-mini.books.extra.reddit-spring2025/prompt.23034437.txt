@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Thriller - After death of son, woman solves
+longstanding murder mystery. Read around 2016.. A young, single woman
+(maybe reporter? investigator?) is still mourning the loss of her son,
+who died unexpectedly from an aneurysm when he was a toddler. She
+solves a longstanding murder case in a Southern (?) town - maybe her
+hometown? If I recall correctly, a young boy had been drowned decades
+earlier in a swamp (?). She ends up dating one of the guys in the
+town. Read around 2016 or so."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

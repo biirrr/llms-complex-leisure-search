@@ -1,0 +1,44 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "American History Textbook series, College, most likely circa
+1990s. Chapters written by different authors. Reaction to Orson
+Welles' ""War of The Worlds."" John Wayne & military. Andrew Jackson's
+duel. Read in 2004. [s]. I read this book in 2004, but I'm sure it was
+published much earlier. It was most likely a part of a series, either
+labelled as volumes or each book had a subtitle regarding the time
+frame (example: 1776 - 1850 or 1890 - 1950). This textbook wasn't a
+straightforward narrative written by one author. It was a compilation
+of chapters (or essays) written by different authors. That is if I'm
+remembering it right. And some of these writing would be interesting
+to read again. So here is what I remember: there was an essay on Orson
+Welles' broadcast of ""War Of The Worlds"" and the sociological
+reaction it had on its listeners, as well as the fallout that ensued.
+There was an essay on John Wayne's image and how he always struggled
+with the fact he couldn't serve in the military during U.S. wartime
+and was kept home to work as a ""public figure"" (there may have been
+mentions of Elvis Presley struggling with this limitation as well-
+both men wanted to serve). Lastly, there was a detailed essay about
+Andrew Jackson's duel with Charles Dickinson (I believe) and how
+Dickinson slowly died from his injuries while Jackson decided to be a
+total asshole about it. In spite of deep searches on the web, Google
+Books, World Cat and the Library of Congress, I haven't had much luck
+finding anything about this book. Its title was very generic, like
+""American Civilization"" or ""American History,"" something obvious
+like that. I believe the author (more likely editor) was male, or that
+there were multiple people involved in publication. More info: the
+cover was black on its top half with '90s era white text and the
+bottom half was a gridded collage of different historical figures.
+There were red and blue accents to designate which book was what (most
+likely chronologically). The book was a heavy paperback, approximately
+10"" square and several hundred pages. It was not a slight book. If
+anyone, ANYONE, can help me find this book and these essays... or at
+least point me in the right direction, get in touch!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ YA Historical Fiction takes place during the
+Holocaust about a girl surviving a concentration camp. Read 2009.
+Spoilers.. Read in 2009, unsure of pub date. MC is a 13 yr old girl
+living in Germany during the Holocaust. Her whole family is taken to a
+concentration camp. *SPOILERS* She stays with her mother but is
+separated from her father, brother, and other family members. A guard
+tells her to lie and say she is 14 bc anyone under 14 will be killed.
+At one point she is fed soup(?) with glass in it but she eats it
+because she is starving. At the end she is let out of the camp and
+reunited with her brother but the rest of her family was killed. Might
+have been based on a real person."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

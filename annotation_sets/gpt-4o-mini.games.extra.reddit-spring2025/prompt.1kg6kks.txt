@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gameboy advanced] [unknown] I think it was a JRPG. So when
+I was a kid my mum bought a game for my Gameboy advance so in vegas. I
+was a dumb kid so barely got past the opening but here's what I
+remember: It was an anime style RPG with a long unskippable opening
+cut scene, there was voice acting and it was about a hero defeating
+some ancient evil (kinda stereotypical). Then it opens in a village
+where you talk to a little girl (I think she's your friends sister)
+who gives you an apple and other npcs before leaving the village to
+fight birds, bees and I want to say dogs. The main character is blonde
+and his friend had black hair. I can't say much about the gameplay
+because I was a button mashing kids who never defeat an enemy but I do
+remember use of a sword and bow and arrow. I know it's a long shot but
+this game haunts me, I could never even get passed the opening and
+desperately want to redeem myself. Oh and it had a green sticker on
+the cartridge. I'll be greatful for any leads thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

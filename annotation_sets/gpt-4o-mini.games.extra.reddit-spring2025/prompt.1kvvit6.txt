@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Game about lying to people to cover up your
+murder. Platform(s): PC Genre: Detective, Psycological Estimated year
+of release: unknown Graphics/art style: drawn, possibly rotoscoped(?),
+realistic but in weird colours. Notable characters: the player
+character, who's at the same time the murderer and is trying to
+uncover the murder Notable gameplay mechanics: you can clearly read
+NPCs expressions during dialogues and change your approach based on
+them Other details: the player character has a split personality
+disorder, the fact that you were trying to cover up the murder the
+whole time is not revealed until the end of the game. I saw this game
+in a video essay at least 2-3 years ago. Didn't have any luck with
+finding the video again, it might be deleted, or might just be the god
+awful youtube search at fault."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "New Adult Fantasy. 6 main characters, each one with their
+own ""power/ background"" and they come together to solve some life-
+threatening problem. Each book covers two characters and their love
+story, while solving the problem. Spoiler.. I remember that in the
+first book, the main female character was a painter and her painting
+ended up being able to transport people to different worlds. And
+another female character, covered more in either the second or third
+book, was a mermaid who left her pod to join them on this quest of
+theirs. One plot detail was that all three females went to go shopping
+and were advising the mermaid on how to tell the guy she loved, that
+she loved him. There were some more mature scenes in each book. I read
+the book from either 2015 to 2018. The book wasn't too old, fairly new
+I think. The book setting was modern, more country than city. One
+distinct thing I remember is that each cover of the book had a very
+artistic design, super nice to look at."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

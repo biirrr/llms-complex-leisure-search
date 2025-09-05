@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DVD] [2000s] 101 Dalmatians Game with Dark scenarios and
+mainly puzzle solution focused. This game came in a fake 101
+Dalmatians DVD I had and was really well made. Things I remember: \-
+It had a narrator. \- Was dubbed in my language \- Had a lot of
+puzzles. I remember one with 3 manholes and you should choose the
+right one \- It had a clock to remind you about the time left \- Dark
+scenarios. Game was placed at a night."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

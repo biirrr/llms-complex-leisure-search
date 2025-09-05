@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "funny memoir wife of forest ranger, early 20th century [s].
+The title might have something to do with bears, I know bears figured
+in the story. I picked this book up at a library book sale in the
+1980's, it took place much earlier than that, maybe 1940's? Pretty
+sure it was a memoir and not fiction. She married a forest ranger and
+lived in one of the national parks with him, lots of funny bits about
+how she dealt with all the crazy wildlife etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

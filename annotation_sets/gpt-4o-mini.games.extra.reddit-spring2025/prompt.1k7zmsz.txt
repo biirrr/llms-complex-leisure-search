@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2024/2025] [unknown platform] Searching for a game teaser.
+A couple of months ago I saw a game teaser (it was 2 min long i think)
+of an upcoming video game starring real-life actors. The teaser showed
+only/mainly characters faces, the background was white. One of the
+female characters was played by a well known actress (i think), in the
+teaser she had short, brown/reddish hair and the teaser ended with
+that characters scream. My first guess was Death Stranding 2, but i
+cant find any teaser matching this description, maybe its a simmilar
+game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

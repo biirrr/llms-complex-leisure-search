@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Switch] Weird asian personality game in mundane
+situations. Im trying to look for it but I cant find the name. In it
+youre put in a bunch of random situations that flash between
+eachother. When you control the character their outline color is
+completely red, not black and theres a second player option where the
+other person is blue. Someone please help, thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

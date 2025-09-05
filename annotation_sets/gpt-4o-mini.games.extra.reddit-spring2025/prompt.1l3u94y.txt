@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s-2010s] [2d labyrinth game] You're playing as a
+fox, who's placing a dynamite to kill monsters (they're dropping bombs
+too); to progress, you need to find the exact number of golden keys.
+As in the title, you're playing as Fox, who is placing bombs to
+destroy square obstacles. If you're lucky, you will find a key that
+was hidden in it. You had doors that you could open only if you had
+enough keys - on the first levels, you needed one or two keys. Later,
+you had to find more keys on each level. If you had enough keys, you
+could go to the doors, open them, and progress to the next level. I
+think there were around 30 levels total. Sometimes, you pick up a
+time-limited boost to see the keys hidden in those square obstacles.
+There were a few types of boosts - for example, you could pick up one
+that killed all monsters on that level. If you wanted to kill a
+monster quickly, you would place a few dynamites around it, and it
+would get damaged from every single dynamite. I remember that one of
+the monsters was a helicopter-like - he had spinning rotors. I
+remember too, that at some level was a toxic-like - you had these
+helicopter-like monsters, who were green because they were dropping
+toxic bombs. And main goal of this game was to kill the main boss on
+the last level. He was responsible for summoning all the monsters you
+fought in earlier levels. Often you saw in levels that the monster was
+summoned. If you died, there would be footage of Fox, who is sitting
+behind bars (or generally in jail), and you would have the main boss's
+evil laugh..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

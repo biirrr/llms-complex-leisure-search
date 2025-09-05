@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [Mid-Late 2010s maybe?] first person horror game where
+you're in an abandoned city with a monster pretending to be a woman
+luring you to the center of it. i swear i found this game again a few
+months ago but now i can't remember the name again and I forgot to
+save a video of the playthrough. i feel like I remember watching
+Markiplier or some similar popular youtuber play it. you start at the
+outskirts of this city and I think you have a radio or something that
+this girl is calling for help through. I feel like her name was just
+three or four letters maybe?? And I'm pretty sure the title of the
+game had that name in it somewhere maybe? i don't remember the exact
+style of it but it was mostly gray and foggy and i think you found
+bodies every so often. i distinctly remember that there were constant
+population signs as you progressed towards the center, sometimes it
+would go up one before an event occurred then usually went right back
+down. there might be a part when the population goes up once that a
+body falls out of the sky or something then when it hits the ground
+the population count goes back down. it isn't that long of a game i
+think?? at the end, when you reach the center and find the girl, it
+turns out she's actually some kind of huge monster thing and she says
+something along the lines of """"""""I can't believe you actually
+came"""""""" with a mocking sort of tone and then kills you or eats
+you or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. A woman is starting over after her husband is
+killed in an accident with his mistress.. I read this book a few years
+ago though it probably wasn’t new. It was the first in a series along
+the style of Debbie Macombre, but I haven’t found it among her books.
+The woman was starting over and bought a house and was remodeling it
+with the help of her brother and one of his friends that ends up being
+her romantic interest. They find a false wall that leads to a basement
+where a bunch of paintings and antiques were stored during a war. I
+think the FBI or some law ended up investigating. She has her niece
+helping her with the design of the remodel. And she might be in
+bisiness with her sister for the house.I believe her daughter (or one
+of them) was overseas and came to visit. Her husband had a mistress
+and died in a car accident with her and I think he left her either in
+deep debt or with few funds. I think she used the money from the sale
+of their home to buy this house she bought and moved pretty far away
+if not across the country. May have been a beach house. Any help is
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

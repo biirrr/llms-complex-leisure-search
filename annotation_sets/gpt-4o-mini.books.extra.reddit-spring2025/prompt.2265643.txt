@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book cover has red and white striped shirt on right hand
+side (story description inside) [s]. I believe there is someone
+wearing a white and red striped shirt on the cover but you don't see
+their face. Think it was made into a movie. Authors mother is a bit
+weird and gets involved with a family with a dirty house and the
+author is forced to play with the other kids. I believe there is a
+part about one of them getting a job at McDonalds and maybe a part
+where they are on drugs or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

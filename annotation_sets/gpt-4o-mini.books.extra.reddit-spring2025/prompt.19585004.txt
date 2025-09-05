@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Marketing nonfiction book; One of the stories was
+about him being part of a gang that sold drugs. In another story he
+infiltrated the KKK. [s]. Hi everybody :) This is driving me crazy!
+I'm trying to find a book I started reading and now I can't remember
+the name. I know it was somehow related to marketing and it was
+divided into stories. From what I recall, there were two stories
+there. I think the whole book was about someone (I have this idea that
+the person was maybe a journalist? not 100% sure). One of the stories
+was about him being part of a gang that sold drugs and he was like
+documenting the whole thing. The other story, which is the one I
+really loved was because the main idea was that ""information is key""
+when it comes to a lot of things in life. The story was about him
+infiltrating the KKK and once he knew the passcode for their reunions,
+he shared it with someone he knew at a local radio station, when radio
+stations used to have those ""soap operas"", you know what I mean? So
+on that show they would use the KKK passcode, making that passcode
+useless for the KKK, because the kids who used to listen to the show
+were now using the passcode when playing with their friends. I'm not
+100% sure, but I have this idea that the cover of the book was orange
+or something really close to it. Hope it helps :) Thanks! Tiago"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

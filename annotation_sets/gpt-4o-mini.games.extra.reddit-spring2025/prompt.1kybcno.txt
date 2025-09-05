@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[windows][around2015]car game with 3 coins to buy cars and
+maps. Its not traffic slam 3 Im looking for a 3D car game on Windows
+where you collect pieces of coins to unlock new maps and cars. One of
+the cars was called 'Hot Rod'. The maps included a desert, an
+amusement park, and an underwater level. There was no timer, and you
+could activate abilities like speed boost with the 'N' key. I remember
+you could collect abilities around the map and each had a different
+color I think the speed one was light blue The main point of the game
+was collecting 3 pieces of 3coins to buy new maps and cars There was
+no racing and no timer I'm going crazy trying to find it and l'll
+appreciate your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

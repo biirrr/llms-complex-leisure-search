@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Forced/ arranged marriage,
+abusive father, female lead is classical pianist. Read 2019-2024. [s].
+Read within the last 5 years. FMC promised to be married for a long
+time. Finally married. Father is secretly abusive and steals her
+earnings from her piano concerts. Her sisters and mother are not nice
+either. New husband is nice. Genre: romance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

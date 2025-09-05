@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3] [2008-2013?] It was a demo of a 3d game where you
+basically gather people/crowd to destroy a city/cause chaos, the style
+is cartoonish. I remember playing the game on my ps3 when i was
+younger and it's been on my mind ever since i remembered it. Basically
+it's a zoomed out camera angle where you basically control one person,
+move around and gather more people as you get close to them and using
+the crowd to cause chaos on the city. If i remember correctly it
+starts at a museum or something of the sorts? I've looked desperately
+everywhere to the point i felt like i just dreamt it and it doesn't
+exist, i couldn't find it so I'm using this as a last resort, please
+if you have any idea what this game is tell me, i want to relive that
+moment of my childhood."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

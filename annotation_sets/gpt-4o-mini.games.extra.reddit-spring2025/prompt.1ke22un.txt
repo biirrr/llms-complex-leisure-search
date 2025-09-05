@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [80s-90s] Maze game with a yellow A and a red X in
+sunglasses. Solved, it was in fact A-14 (with a hyphen) I'm looking
+for a very old game I played in the 90s on a work PC in my parents'
+office. There were two characters you could swap between, a yellow A
+letter and a red X letter. The objective was to escape a maze. You had
+a limited number of steps you could take, and walking over certain
+floors cost lots more, and produced a change in the sprite of your
+character, a fearful wince as if it was searing hot. The X had cool
+sunglasses. I believe the name of the game was """"""""A14"""""""",
+but I couldn't find *anything* about it. Platform(s): PC, dos probably
+Genre: Maze Estimated year of release: late 80s, early 90s.
+Graphics/art style: mostly ascii characters, but there were some
+colorful floor sprites and a few drawn emotions on the main letters in
+a comic style. Notable characters: A and X, his cool friend. Notable
+gameplay mechanics: walking Other details: I recall there was some
+lore behind the A14 name, like there were 13 games prior, but I
+wouldn't bet on it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "white hardback children's history book series from 90s or
+00s [s]. When I was younger, I had a set of books about famous
+historical people. They were white and hardback books with some color
+illustrations. I enjoyed them a lot and when I asked my mom about
+them, she said she thinks she ordered them from somewhere and they or
+the company had the name ""club"" in them. I specifically remember
+that they had Lucy Ball, Helen Keller, and my mom remembers Johnny
+Appleseed. Any ideas on what the title of this series is? I want to
+purchase it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2007~?] PC game that I can only vaguely remember the
+opening cinematic of. A PC game I played in the early 2000's. The
+opening cinematic starts with a couple of individuals on a bridge, I
+think they might have been soldiers or guards for a town. At some
+point they finish talking and one of them throws an object over the
+side of the bridge (I think it might be an apple?) which lands in
+water below. The camera follows the object into the water, which
+reveals monsters below (possibly skeletons?) which then attack. I'm
+sorry this is so vague, I've been looking for this for years and can
+barely recall it at this point. I believe it was some kind of RTS
+game. I'm pretty sure it wasn't a first person or third person game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

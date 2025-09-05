@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [ca. 2010-2015] strategy game playing around the years
+1600-1800. **Platform(s)**: PC **Genre**: strategy **Estimated year of
+release**: 2010-2015 **Graphics/art style**: AoE2-AoE3 style **Notable
+characters**: No noteable characters, but I remember trappers with
+carabiners **Notable gameplay mechanics**: It was played like a
+mixture of Cossacks and Age of Empires-like games, but I distinctively
+remember being able to build wooden block-houses, in which you could
+station trappers to shoot out of. I think you were able to choose
+native indian tribes as playable team. **Other details**: pretty much
+Cossacks but with other unique mechanics"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

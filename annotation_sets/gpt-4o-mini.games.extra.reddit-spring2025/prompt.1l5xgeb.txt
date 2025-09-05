@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] A space survival game. I remember playing this
+game like 10-12 years ago. You basically start on a small planet,
+where you have to mine resources, craft items and tools and build a
+spacecraft. It definitely was a default first-person survival game
+like Strandeed Deep or other well-known games. Recources, when mined,
+were dropping as spheres, you needed to collect. Craft and inventory
+UI most likely looked like Unity's default UI. I recall it was just
+the main window with a list of items on the left side. In the main
+window it showed the chosen item to craft and recources required. The
+main goal was to build a spacecraft and leave the planet to explore
+space. All I remember is that the spaceship is built out of tiles or
+block, like it's Space Engineers (not the game I'm looking for). Don't
+remember anything else, please help me find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

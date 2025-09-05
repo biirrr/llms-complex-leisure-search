@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Medieval/ High Fantasy progression, resurrected
+protagonist trains to become the world's most skilled fighter. I
+believe this is a fairly well known book, but the title slipped my
+mind. I read this some time last year, and the plot has been nagging
+at the back of my head. A family in a village is attacked by a snow
+cat of some sort, and killed. The young man dies being thrown into a
+well, but his eyes glow and he is resurrected, losing all his
+memories. He is kicked out of the village due to the strange
+circumstances and works at a school or orphanage that a man in the
+village has contacts with. After a bullying incident a military man
+sees potential in him and recruits him for sword training. He quickly
+masters the fighting techniques, determined to be faster (I forget his
+main goal). Eventually there is a tournament to decide warriors to
+move on to an elvish academy of some sort, for training amongst the
+most skilled fighters. He makes it, and meets an elf that has
+flashbacks to his and her past lives, where they were apparently
+couple. I think he is a reincarnation of the world's hero of old or
+something. I don't remember past this point, or if they ended up
+discovering this connection. I tried AI with these descriptions, but
+it has miserably failed to produce results."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

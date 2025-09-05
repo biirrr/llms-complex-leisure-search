@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] [A side scroller where you control a fly that
+picks up his mosquito kids]. Hello everyone! There has been a game
+stuck in my mind for a couple of days now that i played as a kid, i
+remember that you are a bug of some sort, either a fly or a bee (i
+think it was a fly) and you basically had to solve the levels by going
+around and picking your kids up. The game had a cute story and it was
+like a comic style of narration i think, what i mean is like the pages
+of a comic where you read one box then go to the next etc etc.
+Anyways, the game is a 2.5D ? Side scroller where you can only go up
+down left and right, you can push boxes around and you can throw some
+sort of bombs if i remember correctly to clean out the boxes that have
+your children stuck in them. (possibly cheese) Your character had a
+brown yellow-ish color if i remember correctly, and your kids eyes
+were big and bubbly, i think they could also be mosquitoes? Anyways
+that's all i remember, the game also had a banging soundtrack if i'm
+not wrong. I know you can find this so let's do this!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ YA? Fantasy. It’s about two siblings. Their
+kingdom is in trouble, so their parents send them away on a magical
+journey and give them a potion to make them live long without aging..
+The sister gets lost in a stream, and the boy lives alone for a while.
+He eventually finds her as an old woman who had been married and now
+lives in a woodworking workshop. She is happy. The brother continues
+living his life, and soon the potion runs out, but he makes friends.
+They travel on something perhaps partially magical, it might know how
+to fly or might not but it travels well. Not sure what it is. I
+probably read this around 8-12 years ago in the US. I have no clue
+what the age of the book could be since I had read many very old books
+and very new books at the time. Just very curious what it could be!
+(this part I could be mixing up with another book but the brother and
+his new friends might have helped zoo animals escape? But this could
+just be my memory mixing stuff up)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii] [early 2000s] questing game for kids with colorful
+atmosphere. I might be miss remembering some of the details of the
+game but when I was young I plaid this game on the Wii, it was
+probably made around the 2000s-2010s. In the game you looked like the
+little girl from candy crush like body shape wise and you could
+customize your character. I remember the graphics weren't very good,
+reminds me of like the old animal crossing graphics, I remember there
+being a Halloween like town and maybe at some point you talked to a
+scarecrow?? There was a alien like world and I remember you could get
+a balloon there and the game was probably one of those questing games
+with little mini games. Please I've been trying so many things to find
+this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

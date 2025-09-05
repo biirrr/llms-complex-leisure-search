@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult SciFi. About crossing crystal mountains but you have
+to sing or you will die. [s]. I've never read the book, I only
+remember reading the synopsis and wanting to read it but not finding
+it available anywhere. It's not Crystal Singer by Ann McCaffrey but
+it's supposed to be similar. I remember because when I first found the
+book, there was something written in the Wikipedia on it about it
+being close to it? But what I remember that it is supposed to be about
+is that for some reason, it is very important to cross the mountains
+(made of crystal I think) or maybe there is some reward of some kind,
+I'm not sure. But it's incredibly risky to do so because you have to
+sing perfectly the entire time. I'm not sure how old, but it's an
+older book. Similar to the Crystal Singer which was published in 1982.
+I believe it was a female author, if that narrows it down. I could be
+wrong but I'm almost positive. Any help would be much appreciated!
+Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

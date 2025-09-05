@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[only computer I think] [i think in the last 20 years?]
+manage a town while solving the mystery of the spiral building. Trying
+to remember peak Hi. An ex told me about few games that seemed fire,
+but cant remember one of them. Platform: I think only pc Genre: indie
+game(?), managing, combat Graphics art style: dark and gloomy I
+suppose Notable characters: one of these playable characters is a
+little girl with magic like powers. And the creator talk to you
+thought a character with a birdlike face/mask Notable gameplay
+mechanics: at night/evening you can risk your life going in a
+cinema/theatre where the creator through the aforementioned character
+will tell you details about the game and the plot. I think also gives
+you tips about future events. Other details: you manage the
+town/settlement, they can die of illness/hunger, I think theres an
+ongoing plague, they can kill you, kids disappeared, theres a spiral
+impossible building (tried drawing it, ex had it tattooed) where kids
+are currently living, you can choose between which character to play
+which with their pros and cons (the girl and I think another one was a
+doctor, dont remember the third). Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2015-16] Sea monster album.. I remember playing a
+mobile game about you needing to complete an album or like codex of
+different sea monsters and sea life. What I can remember from the
+opening cutsceen is like your father gives you the codex but the
+entires start disappearing. I think that you would collect stars and
+evert few levels a monster would appear and you had to dodge obstacles
+in order to take a picture of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

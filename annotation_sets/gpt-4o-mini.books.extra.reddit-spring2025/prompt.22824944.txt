@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult SciFi, read early 90s. Three plots: Asian Woman Police
+Detective, a psychologist who goes into the dream state of a mass
+murderer (in custody), and two computers which are close to sentience.
+Set in US. [s]. I don't remember much about the detective except that
+she had some body modifications. The two computers' jobs are to
+communicate with each other while one is on Earth and the other is on
+a ship flying through space, maybe to Mars, maybe to Jupiter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

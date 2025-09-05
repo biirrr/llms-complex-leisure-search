@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Around 2017?] Game that has an artstyle similar to the
+Move Your feet music video by Junior Senior. So, I've been going to
+this night club lately, and almost everytime they play [this song with
+the clip](https://www.youtube.com/watch?v=SPlQpGeTbIE&amp;loop=0) on a
+screen, and it always remind ome of some game I saw either Markiplier
+or Jackscepitceye play when I was younger, but I can never remember
+the name of the game, or what it was even about, just that it exists
+somehow. It is some indie game, so I don't think it is pretty famous.
+EDIT: the game was called
+[McPixel](https://www.youtube.com/watch?v=dk8HoXSjpII), and
+Jackscepicteye played it in 2017"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [2015?] Monster High mobile game where you could
+scan irl keys from the dolls you could buy. No, I am not talking about
+Draculauras Sweet 1600 Black Carpet game and definitely not about
+Monster High Skulltimate Secrets. Keep in mind Im looking for a
+mobile 3D Monster High game. I really dont remember anything about
+the game but the only thing I remember was where I was playing Lagoona
+Blue or Frankie Stein and I was somewhere underwater walking as the
+character. There was one spot where you needed a key from getting the
+MonsterHigh dolls. What happens after you scan or use the key? I dont
+know. What MonsterHigh doll series are the keys from? Probably the
+Sweet 1600 Series since I do remember the keys being metallic (like in
+the picture) but I dont recall me playing a Sweet 1600 game. Help
+will be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

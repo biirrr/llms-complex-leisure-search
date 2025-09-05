@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC CD?] [2013-1970] 2D black background Tiny vehicle
+constantly moving to the Right ( or left? ) until u reach the end
+&amp; win with enemies on space\sky shooting u. https://preview.redd.i
+t/dhk7hyol2y5f1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=79c7
+b92ad83a57ad3318debab672b98f87ad4acd I definitely remember it looking
+much better than what I drew in this picture I remember u could shoot
+back but not sure I remember the vehicle looks like a tiny car with
+more that 2 wheels but I could be wrong more likely the background was
+just black or space like with stars unlikely colored but dark Not sure
+the vehicle was constantly moving progressing but you could move right
+&amp; left to avoid projectiles I remember each level has a different
+color ground I remember the vehicle art style was spherical dots that
+add up to make a shape of a vehicle but not sure Maybe there was UI on
+the Top right (or left) that show u the progress of how close u r to
+the end Maybe there was UI for score too but I can't remember it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

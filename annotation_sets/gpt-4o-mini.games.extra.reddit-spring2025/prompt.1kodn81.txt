@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Racing Game] [Around 2000-2014] Racing &amp; Cop Game.
+Hey, I recently remembered a game I played a few years ago. The game
+was a basic racing game, with few urban areas, since 90% of the races,
+if I remember correctly, took place in typical locations: the coast,
+the forest, the lake... What struck me most about the game was the
+mechanics of being a cop. You had a kind of counter that gave you
+""""""""powers."""""""" You could order a helicopter to make the chase
+easier, throw spikes onto the road, or other mechanics that existed
+that I don't remember now. I remember there were 4... Aside from the
+cop mode, like any car game, it had its racing modes... What I
+remember most about the game was its logo. It was shaped like the Ford
+logo, but in gray and with a different design in the middle... I hope
+this information is enough for you to help me. Thank you very much in
+advance. """"""""This text was translated"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

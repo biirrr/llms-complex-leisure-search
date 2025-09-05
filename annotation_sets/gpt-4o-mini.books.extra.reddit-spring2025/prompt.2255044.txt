@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "biography white South Africans after the war of independence
+[s]. David Parker: I am looking for a book that I read many years ago.
+It is the story a young woman traveling in Southern Africa and meets
+several white South Africans that fought the black South Africans in
+the war of independence. And the effect on their lives years later.
+Similar to the American Vietnam era veterans."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

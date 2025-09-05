@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book, approx 1960s about a kingdom of
+mice carrying each other's tails. The setting is a kingdom of mice.
+The emperor (king) decides he shouldn't have to let his tail drag on
+the ground, so he tells one of his ministers to carry it. That
+minister then is too proud to let his tail drag, so he tasks the next
+person in the chain of command to carry it. And so on, right down the
+line to the poorest little mouse in the kingdom. They were all
+following each other, carrying the next guy's tail. SPOILER: Finally,
+the last little mouse is fed up and slams down the tail of the person
+in front of him. That has a domino effect all the way up the line. And
+from that day forward, everyone carried his own tail. NOTE: This is
+not The King, The Mice and The Cheese. I have that book. But it is
+from the same era."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/PS?][2010s] Heavy atmosphere game around 2010. This is
+a game I played on Xbox 360 around 2012 l think, I remember the main
+character was young and was part of a group of friends, all quite
+young iirc. The title of the game was pretty long. I remember a
+sequence where he had to free a dog in the garden of a house (not
+quite sure about this, I also remember we had to explore the attic of
+this house. The image on the game box was yellowish irc. I think the
+game wasn't that popular. I don't think it was a horror game but as a
+kid it made me a bit stressful as it had a heavy atmosphere,
+especially the attic exploring sequence. I'd be glad if someone found
+this game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

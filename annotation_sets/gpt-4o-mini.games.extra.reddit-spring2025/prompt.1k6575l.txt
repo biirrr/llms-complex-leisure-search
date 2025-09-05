@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Genesis/SNES] [1990s] An interactive """"""""story""""""""
+game in space. There was this game I played back when I was a kid on
+an emulator, there were like hundreds of games on it. I would just
+load in a random game and find a lot of games which I know nowadays
+that are a staple in Genesis/SNES gaming. But this game stuck with me
+for one simple reason: I had no idea what I was supposed to do or what
+was going on. Several reasons: The game was in Japanese (even though
+the rest were in English), it played more like a point and click
+adventure with options while clicking on certain things or people
+(again, options were in Japanese). From what I remember is that it was
+a space game, with an intro cutscene being a small spaceship landing
+on a larger one. There is a very anime-like cast of characters, with
+the main character(?) even rocking this spicky hairdo, so you know
+that he's a protagonist. All dialogue was basically in a visual novel
+format. The crew was also quite diverse, and I don't just mean in the
+anime hairstyle department. There were 3 black dudes, although, for
+some reason, they were completely identical, with the only way to
+differentiate between them is the direction their portrait while
+talking is tilted towards, one looking straight at you, second
+slightly tilted to the left, third slightly to the right. I remember
+trying to play this game several times, but I never learned Japanese,
+so I was just spamming different commands trying to progress the
+story, but to no avail. 17 years later, I've been on a sort of binge
+to play these old Genesis/SNES games which I never finished, and this
+one popped into my head just last night. Tried to find it myself, but
+I gave up after two hours. Hopefully someone knows about this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

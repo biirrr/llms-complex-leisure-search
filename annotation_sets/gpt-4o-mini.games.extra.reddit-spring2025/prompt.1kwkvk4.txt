@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005s] Anime girl smashing spiders with a big hammer. I
+remember of an old game i used to play on my first computer. I had the
+game on a floppy disk. It was a very small games in a top down
+perspective. You were playing an anime girl with a big hammer and you
+had to smash spiders all over the screen. When she swing the hammer
+she screems in a very specific way """"""""kiiiyaaaaaa"""""""". The
+floor was green grass Please help me to find it back :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

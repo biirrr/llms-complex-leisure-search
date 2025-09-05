@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Shitty NES bootleg][Unknown] Game about small toy-sized
+anthro foxes?. Platform(s): Originally likely NES, but this was on a
+shitty Chinese bootleg Genre: Platformer Estimated year of release: No
+idea, there were games like Contra and Super Mario bros, but there
+were also real shitty angry birds demakes Graphics/art style: See
+provided images Notable characters: 2 fox toys and some army looking
+guy, didn't get far enough into the game to remember any other
+characters Other details: This was found on a crappy bootleg handheld,
+it had a cartridge saying 10000 in 1 or something, photos from 2014,
+the handheld has a video-out so I had connected it to the tv https://p
+review.redd.it/tu5vg16een7f1.jpg?width=4272&amp;format=pjpg&amp;auto=w
+ebp&amp;s=f048ad704c9d77f1da2b4dc5598afc1804451b05 https://preview.red
+d.it/u2fr3fueen7f1.jpg?width=4272&amp;format=pjpg&amp;auto=webp&amp;s=
+9910e121a8ab0886cfbd0bc8702d38d515aeae0c"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Nonfiction, Grammar - themed around kitchen or cooking.
+[s]. This was a book that I went through with my daughters around
+2012. I chose it because it combined real Language Arts rules that
+taught grammar, but tied it in with a kitchen/cooking theme. I recall
+semi-colons being described as a nail and hook, perhaps for hanging
+pots or aprons on? I know, it's a niche; but I'm hoping that somebody
+here will know exactly the book I'm looking for. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

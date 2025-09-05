@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2010s] Platformer/Puzzle game where you play as a
+kid kicking around a ball, silhouette. I played this game back in the
+day on a friv-like site, i don't know if it was ever on friv. You play
+as a little girl with pig tails and you have a beachball? you have to
+kick through the levels without popping it? i think. The levels are
+have platforming elements, more like obstacle course through a forest
+and i think you're trying to get home. Everything in the foreground is
+silhouettes. I think you can tell i don't have a crystal clear memory
+of this game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

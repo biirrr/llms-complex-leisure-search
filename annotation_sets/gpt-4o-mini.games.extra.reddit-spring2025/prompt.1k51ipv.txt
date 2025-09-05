@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ Arcade][mid 90s][FightingGame] 2D Weapon based fighting
+game. One of the fighter was a Girld/Kid who fight using a giant
+quadruple beast like lion/wolf instead weapon.. Hello I'm searching
+for a 2D Fighting game that I remembered play in one Arcade center
+during middle nineties when was a kid. It was a weapons base fighting
+game in a fantasty theme where each character had a different weapon.
+The most specific detail that stick with me is that one of the
+characters was a Girl/Kid that instead have a standard weapon. Used a
+giant feline like animal to attack, and they fought together. They
+fight together but you still control the Girl, but when you attack was
+the giant beast who attack. The feline i remembered is more like a
+giant fantasy lion like style and was totally quadruple, it didnt have
+any human feature. I think it was white but im not 100% sure, im
+trying to search right now both as feline and wolf like in case im
+remembering wrong. I tried to research with the typical arcade base
+weapons from 9x but don't seem the usually weapons base fighitng games
+suspect like Samurai Shadow, Last Blade or Asura Blade. Thanks a lot"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

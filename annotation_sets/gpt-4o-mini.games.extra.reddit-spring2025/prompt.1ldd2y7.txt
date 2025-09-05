@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Computer] [2000s?] Point and click puzzle game where you
+start in a prison. The game was 2000's-ish. I remember the game had an
+eyeball for the desktop icon. I think the game started in a prison
+area, and the game's view point was very similar to the one from
+fallout 1. I remember one of the puzzles involved using a rag for a
+zipline. I'm pretty sure the area after the prison was some sort of
+neighborhood."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

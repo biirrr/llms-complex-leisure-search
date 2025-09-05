@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SciFi from 70s/80s about a boy with psychic powers and
+aliens. A little sketchy on the details, but the story is about a boy
+who has psychic powers. He pictures a room in his mind with windows,
+and each of those windows can be opened or closed to talk to someone
+else's mind. The boy has a wolf companion that is also psychic. There
+are several races of beings also psychic. One of them is a gorgon-like
+species that can mind blast, but he can withstand it by closing that
+window, which surprises the other species. There is also a cave and
+one of the humans has the power to shake the earth, which hasn't been
+heard of in humans in a long time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

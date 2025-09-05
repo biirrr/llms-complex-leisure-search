@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS][2006] Avatar (The Last Airbender) game where
+you play aas Aang and Zuko. Platform(s): Nintendo DS Genre: a little
+platforming, puzzle solving Estimated year of release: 2000 - 2006
+most likely Graphics/art style: 45° top down with a fixed camera
+rotation, so you can see the 3d environment but only ever really move
+in the 4 cardinal directions. Notable characters: Aang, Zuko Notable
+gameplay mechanics: Use of Air (Aang) and Fire(Zuko) Bending so solve
+puzzles and defeat enemies. I'm very certain it used the touchscreen
+for the bending, tap to shoot an air blast, tap and hold to lift an
+object to then move. Other details: The story switches between the
+views of Aang and Zuko, the later sometimes in his """"""""Blue
+Spirit"""""""" outfit / setup."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

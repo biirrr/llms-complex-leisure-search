@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2000s] Fantasy Turn Based Strategy game similar to
+Age of Wonders. Looking for a game that came out in late 2000s/early
+2010s that had a lot in common with Age of Wonders 3. They had similar
+World Map views, with a single unit, holding a banner, representing a
+troop of up to six single units, able to move to various castles along
+the roads. In battle mode, the units fought in classic rpg mode, with
+heroes on the left and enemies on the right. Base units came as either
+mage, ranger, or knight, with each having multiple different upgrade
+paths. You could also pick up upgrades along the way for specific
+units by defeating a boss. Also, there was some basic castle and
+resource management, but I can't remember too much about that. The
+only other thing to add would be that I remember buying this game for
+cheap on some sketchy GameTap-like service. Any help would be
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

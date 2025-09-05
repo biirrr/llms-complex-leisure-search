@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPad][2010s] Game about Cube Animals.. I dont have a
+picture of how the game looked like but I remember that this game had
+merchandise. You could go to a store and buy figurines of the cubed
+animals from the game, you could also use a figurine of an animal you
+bought to put them into your game (im assuming with a QR code under
+the toy) and they would stay there. As far as gameplay goes, after
+putting your animal into the game I dont remember what else you could
+do, I remember it being a game similar to Nintendogs where you take
+care of the animals and thats about it, the UI was simple with some
+buttons on the side and the area the animals stayed at was just a
+white/light grey room. The only cube animal I am 100% sure was in the
+game was a brown dog with some hair in front of its face because that
+is the figurine I bought when I saw them at the store, I cant confirm
+what the packaging looked like but I believe it was just white box
+with some clear plastic so you can view the animal youre buying, this
+really is all the information I can give about the game I hope it is
+enough."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

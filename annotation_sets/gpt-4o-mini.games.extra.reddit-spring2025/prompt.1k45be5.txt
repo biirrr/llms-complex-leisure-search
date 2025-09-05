@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS, not sure which specifically] [early 2000s] [Dinosaur
+game]. I have a really vivid memory of this game I used to play on my
+DS as a young child, if I had to guess it was my 3DS but I had all of
+them so Im not completely sure! I remember that you had to go to
+different dig sites/zones, that were signified by little green dots on
+the map screen? And i remember the style being fairly pixelated. If I
+recall, once you had the skeletons they either went to something like
+a museum or gallery? I know it wasnt fossil fighters, but I cannot
+for the life of me find anything"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

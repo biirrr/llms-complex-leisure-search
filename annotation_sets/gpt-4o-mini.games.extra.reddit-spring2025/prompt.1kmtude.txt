@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2023-2025 I think] Indie Fantasy RPG similar to
+Stoneshard where you pick your class and level your character. Solved!
+Ancient Kingdoms [https://store.steampowered.com/app/2241380/Ancient\_
+Kingdoms/](https://store.steampowered.com/app/2241380/Ancient_Kingdoms
+/) I'll do my best to explain the game; 1. Either still in development
+or released within the past 3 years. I believe it's on steam but I'm
+not sure. PC only. 2. It's similar (graphically anyways) to games like
+Mirthwood and Stoneshard (I don't think it's quite as punishing as
+stoneshard though) 3. You can pick your class (the youtuber I watched
+picked a Paladin if I remember correctly) 4. There was also a leveling
+system where he unlocked new paladin skills, outside of that I really
+don't remember much else. You complete some quests underground I
+believe before being asked to go kill some wolves just south above
+ground (or outside of whatever area/structure you started in) for wolf
+meat I think? I also remember in the video the guy returning to the
+starting area and passed a dwarf and mentioned probably having to use
+the furnace in the future to craft gear then beside the dwarf in the
+next room (iirc) there was a chef that sold food? Really appreciate it
+if anyone knows the game I'm talking about. I tried finding the
+youtube video series of the playthrough but no luck."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

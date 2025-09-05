@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [2000s] A puzzle game (to my memory) where you play as
+an old man with some sort of sword finding some treasure.. I moreso
+distinctly remember one of the bosses: an old man in a wheelchair
+being carried by a nurse who did all the attacks taking place in some
+underwater base. One of the attacks was the nurse swinging the
+wheelchair with the old man in it. Sorry if this doesnt sound that
+helpful. I mostly remember this cuz of the boss theme from this exact
+fight, which has been stuck in my head all these years later."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

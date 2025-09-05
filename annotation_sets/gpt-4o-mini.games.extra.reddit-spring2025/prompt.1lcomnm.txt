@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] it was about a woman in first person who had a
+lobotomy, she was a lesbian and was walking around in an institution.
+It is really annoying me, there was a part of the game where she was
+getting a lobotomy but she ended up dying? Her eye was blood red
+afterwards too =-"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

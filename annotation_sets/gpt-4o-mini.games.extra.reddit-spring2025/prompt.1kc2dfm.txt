@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Before 2021] 2.5D single player action rpg?. I used to
+play this 2.5 d single player game on steam where you fight as a
+little hero (i think he had white hair). I remember to start the game
+you walked across this white bridge until you made it to the gameplay.
+Each map was made up of square tiles, and they were also corrupted
+with this purplish red corruption. You'd be sent there to fight
+monsters and clear the corruption. After clearing the map you'd
+teleport back to your home base, that had 6 missing parts or spaces
+that you'd have to gain over the course of the story. I think the
+point was the more corruption you cleared the more of homebase you
+got. There was also some type of spire in the middle. When you
+unlocked a space, it would be filled up with a building that would
+allow you to upgrade and get stronger. I remember when I finished the
+game there was an option to fight the hundreds of enemies or walk
+through hoping they wouldn't attack you while you carried somebodies
+corpse. It said you couldn't carry the guy and your weapons. I chose
+to not fight and they started shooting a bunch of arrows and
+eventually stop as you slowly walk. I think one guy shoots at some
+point after that and then they all murk him. Please let me know if
+there's more needed. My memory isnt the best, but i can try. I also
+think i remember there being a weapon that blasted this powerful bomb
+blast but it would do damage to you if you got close enough. I think
+there was a frog like boss enemy as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

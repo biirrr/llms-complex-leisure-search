@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [1998-2000] Space Combat Extraction Shooter.
+Platform(s):PS1 Genre: Outer space flight combat game. Estimated year
+of release: Unsure. Mid to late 90s. Graphics/art style: Fully 3D
+Notable characters: Unsure. Notable gameplay mechanics: Flying allowed
+full 3D range of motion. Could change from 1st to 2nd 3rd person view.
+Other details: I remember raising from a corridor or a shuttle, maybe
+a mothership. Went out into space and there are a specific number of
+targets enemy aircraft's to destroy. Eventually having to move forward
+to the next zone where another battle was taking place. There were
+friendlys as well. Eventually docking into a mothership it Opens a
+small hatchet that lighted fully upon entering. I played this Game in
+a disk that had multiple demos attached to it like snowboarding,
+syphonfilter, and more. Thanks for any and all help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

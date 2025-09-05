@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010ish] Flash game where you played as a robot(?) and
+blew up other robots and zombies. Platform(s): PC (flash game) Genre:
+2d sidescroller/shooter, not a platformer (you couldnt move very fast)
+Estimated year of release: likely before 2012 Graphics/art style: that
+old flash artstyle, dunno how to describe it. not amazingly detailed
+but not super shitty either. very industrial and rusted-over, maybe
+post-apocalyptic? very bronze colored. violent Notable characters:
+there were giant enemies sometimes. there were like different
+""""""""tiers"""""""" of enemies where the lowest ones wore bronze
+scrap armor and the better ones wore silver colored armor Notable
+gameplay mechanics: lots of explosions. when you/an enemy died it
+turned into a physics ragdoll Other details: there were at least 2
+games in the series and i think i played them on
+[armorgames.com](http://armorgames.com)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

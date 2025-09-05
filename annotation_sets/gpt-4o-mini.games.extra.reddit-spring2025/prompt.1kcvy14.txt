@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [2010's?] Childhood game. I'll admit upfront I don't
+remember much about it, with the enemies being what I remember most.
+You were exploring a factory (I believe) while being attacked by
+appliance robots with red eyes, kind of a mix between Transformers and
+Portals robots. I feel like there was other media about it, maybe a
+movie or show. I'm not sure who or what the main character was, but I
+remember vent sequences (and hacking sequences, now that I think
+harder) and I think there was minor parkour onto desks and boxes, so I
+think they were small."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

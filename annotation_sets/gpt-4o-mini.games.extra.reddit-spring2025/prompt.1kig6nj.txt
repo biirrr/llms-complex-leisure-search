@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3 not exclusive] [Exploration?] [00's] Hand drawn, cute
+characters, Talking Ballon, Robot protagonist, Travel to other
+planets. You know how this goes, wake up in the middle of the night
+and remenbered tahat I played this game when I was a kid. I can recall
+you start the game in your spaceship UFO like, land in a planet and
+meet your first friend that is a talking ballon. I can remenber also
+to be a spooky themed world, and a desert/ancient egypt world too. You
+would go from planet to planet helping the pelople and making friends.
+Thank you in advence if tyou try to find it because I could not and I
+really wish to live that childhood expirience again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

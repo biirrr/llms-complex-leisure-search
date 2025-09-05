@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA novel about a “perfect” daughter who quits soccer, meets
+a guy, and sees a therapist who suggests she speak in the third
+person. Mid-late 2010’s. Spoiler.. Cont. of header: Since she was a
+kid, her dad would put money in her bank account for every goal she
+scored. She’s the captain of her team but quits during senior year,
+losing a scholarship (?). She makes a move on her favorite teacher and
+is immediately turned down and ignored. She speaks to this one person
+who hooks her up with this bigger, nerdy guy. They start talking,
+writing letters and being all edgy and sappy. The guy was bullied for
+being big so he defends this younger kid from bullies and gets in
+trouble for it. He gets sent away to a camp/boarding school. They
+continue writing letters and after a while of radio silence she finds
+out he died trying to climb out of the side of the building, which he
+said he would do because he went a little unstable. Also he lost a
+buncha weight. The girl is in therapy during this whole duration and
+her therapist suggests she speak in the third person, which she does
+for a good amount of time. She tries to be a perfect prom queen and
+gets in with the popular crowd but gets sick of it in the middle and
+runs out of the limo barefoot. She goes to apologize to her date later
+but she isn’t forgiven. The book ends with her floating on water,
+contemplating."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

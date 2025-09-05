@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2000?] Game about an egg. There was a game I played in
+2006, it was a platform game kind of metroidvania, where you
+controlled an egg, and you started in your nest, at one point in the
+game you hatched and turned into a little white creature, the graphics
+looked like they were made in MS Paint and Adobe Flash, I remember
+there were several cave parts, and bosses that were monsters made of
+stone and fire, and you had to make him jump on you so he would break
+the floor and fall into a pool of water, and there was another boss
+that were 3 cannons that you had to deflect his shots back at him, the
+save point was a blue smoke I think. Sorry to be so vague, but I was
+very young and I have few memories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

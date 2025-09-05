@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] 2D pixel art game where things kill you in
+your house. You're trapped. There are eyes in the basement..
+Platform(s): PC Genre: Horror Estimated year of release: after 2010
+Graphics/art style: Pixel art. Not top-down, but seen from the
+front/side. Notable characters: Teenager or man. Notable gameplay
+mechanics: Walk around and try to see what's going on. Water a plant
+in the loft. You can access the basement with a rope as the stairs are
+destroyed. Other details: It's not the game where you play as a little
+girl, but a teenager or man. You walk around and there are creatures
+and vines growing in your house. I remember there is a basement you
+can access via a rope since the stairs are destroyed, and there are
+eyes in there. I remember there being a thing in the stove or
+microwave that you can open, but you will be instantly killed by
+claws. The bath has cockroaches coming out of it. There also is a
+plant in the loft that you can water. There are pipes that emit steam
+in the basement, and there is a valve in the far right, beyond the
+pipes. I also remember paintings and antiques maybe. I remember seeing
+a playthrough of it on YouTube maybe 4 or more years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

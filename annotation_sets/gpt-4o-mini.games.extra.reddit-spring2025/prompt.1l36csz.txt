@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][90s-2000s] Unknown Doom Clone (or mod). Ok... before
+anybody posts, I'll list what this game ISN'T: - Heretic - Hexxen -
+Doom - Duke Nukem - Wolfenstein - Quake - Blood - Chex Quest - Strife
+(but I almost thought it was it, but it isn't) - SiN - Serious Sam -
+Postal - Cruelty Squad - Team Fortress Classic - Daikatana - Ratshaker
+- Hedon - Ziggurat - Gloom - PO'ed With that out of the way, an ex-
+friend I have no contact with anymore played this weird doom clone in
+a youtube strean, but I can't find it anywhere no matter my searches.
+Here's what I recall: - Protag MAY have been female - Felt like a
+post-apoc fantasy. Wasteland-y, but had magic and cultists. - Has
+human enemies and monster enemies (one of which I KNOW made
+monkey/chimp screeches)... don't recall if robots were in it. - Game
+title is a single word title. - 3D world, but sprites are 2D - Game
+menu screen was an illustration, not just the title logo. Art style
+FEELS like Strife, but it's not Strife. Please help me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

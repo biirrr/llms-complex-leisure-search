@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC FLASH GAME] [2010s] Help me find this point and click
+horror flash game with a character thats till haunts me.. As a teen,
+around in the 2010s, there was a flash point and click horror game
+about escaping(?) a mental hospital. The patients there were deformed
+humans(?) and to escape you had to do lots of puzzles. The only thing
+i remotely remember was one of the characters (image attached). I
+havent found that game in a long while but that character scared me
+enough for me to still remember it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

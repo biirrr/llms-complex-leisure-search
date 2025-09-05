@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2005]Point and Click mystery set in American
+Southwest. I thought Sierra had made this game about getting stuck in
+a small southwest town at night. Point and click adventure lead you
+out into the native american ruins or burial grounds but I can not
+find anything about it. I am thinking Sierra because it had live
+action but maybe it didnt after all? Myst meets Windenigo was the
+overall themes. I remember alot of purple glowing magic and ruins.
+Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

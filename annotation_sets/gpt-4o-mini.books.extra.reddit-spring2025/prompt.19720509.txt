@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Life in the South Bronx in the 1950s-'70s [s]. A friend who
+has no access to the internet is looking for a book that he thinks was
+called something like Familiar Family. He said it is about life in the
+South Bronx in the 1950s-'70s. He said there is a picture of a girl on
+the cover wearing a lot of bracelets."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

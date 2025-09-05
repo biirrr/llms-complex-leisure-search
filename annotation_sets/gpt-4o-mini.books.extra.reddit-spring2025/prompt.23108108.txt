@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ Early YA. Contemporary 1990's, coming of age,
+girl drama centric book. Empty Box for School Project? Scholastic.
+Cover: purple or dark pink. Read late 1990's.. SO - I'm looking for a
+book that I LOVED as a kid. It had very ""Are you there god, it's me
+Margaret"" Vibes. I believe I purchased it a scholastic book fair in
+the late 90's - it had a modern feel. So I don't think it was a Blume
+or Cleary. It had a predominantly purple or dark pink cover. Nothing
+about the name of the book is clear to me. The main plot revolved
+around the evolving and tragically difficult time of middle school
+(possibly freshman year) female friendships. RE: everyone sucked. Even
+the main character at times. It was all very innocent and modest in
+content. I'm sure there was crushing and fighting over a boy (I'd have
+ate that stuff up as a kid) but I'm unsure. THE ONLY thing I remember
+for SURE - is that the main character had a school project at some
+point where they had to fill a box (or something) with items that
+represented themselves. She left the box empty (or a part of it empty)
+to represent the part of her she hasn't yet become. (Dear god, I hope
+this isn't actually just AYTGIMM - and I'm a total loser.) I'd love to
+get this for my daughter and niece. SO internet do the dang thing. :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

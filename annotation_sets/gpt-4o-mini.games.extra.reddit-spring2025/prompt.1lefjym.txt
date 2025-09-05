@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] urban fantasy game about fighting vampires. So
+unfortunately I do not remember the gameplay for this game at all, but
+I do remember the plot set up vividly. Youre a guy who gets taken by
+a secret group of vampires in the modern day after being lured in with
+the promise of figurines/action figures. You are then rescued by a
+woman using a parasol as a weapon who is also a vampire, but due to
+you being injured, she has to give you some of her blood and turns you
+into a vampire as well. Also I know for fact the games title is
+[something] Trip Im not sure if the game is originally from Japan,
+but it is heavily influenced by anime. The mysterious wears lolita
+fashion that is kinda over the top, a prominent character is the main
+characters little sister, and the aesthetic in general is influenced
+by anime that were coming out around this time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

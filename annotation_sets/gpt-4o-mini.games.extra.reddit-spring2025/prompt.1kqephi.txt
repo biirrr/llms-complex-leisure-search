@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Circa 2000 (?)] Puzzle game with stationary imps and
+other demons which trigger each other. **Platform(s):** PC/Windows.
+*Probably* Windows 98, but it could have been 95. **Genre:** Puzzle
+**Estimated year of release:** I'm honestly not sure. Either late 90's
+or early 2000's. **Graphics/art style:** It looked and felt like a
+flash game, but if I'm not mistaken I used to play it from the start
+menu of my PC, not online. **Notable characters:** Closest thing the
+game had to """"""""characters"""""""" were the demons you'd place
+around the grid, but they worked more like stationary
+""""""""towers"""""""". Most of them, if not all, were red, and used
+different weapons and equipment. **Notable gameplay mechanics:** This
+was a puzzle game about connecting different points of a square grid
+""""""""map"""""""", similar to the classic """"""""guide the water
+through pipes"""""""" game, except instead of pipes you placed
+different kinds of demons on a grid and they triggered each other with
+the purpose of... I don't really recall it? **Other details:** One of
+the cheapest/most common kinds of demon was an imp holding a spear or
+trident. I apologize if the post is not good enough, but I read the
+""""""""PSA: A Guide to Better Results"""""""" and tried my best to
+comply with the specifications."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

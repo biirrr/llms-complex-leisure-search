@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, History Reference book. German Government
+papers/ orders from WWII. (Possibly Jewish specific orders by German
+gvt.?) Translated to English. Cover: black and red. Published before
+2015. [s]. I'm trying to find a book I used for research in college.
+It was a collection of orders issued by the German government. They
+may have been Jewish specific orders, or they might have been more
+general. They were translated to English, but otherwise unaltered. I
+know it was published before 2015, but otherwise don't remember the
+date. I believe the cover was black and red. I originally accessed it
+as an e-book. Any assistance is appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

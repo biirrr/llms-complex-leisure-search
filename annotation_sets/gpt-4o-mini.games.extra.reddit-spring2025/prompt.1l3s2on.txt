@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS][2010-???] game about a robot doing stuff in food
+planets. Haven't been able to find this game for a long time. As far
+as I remember there was this game about a robot who explored food
+planets, breakfast planet, lunch planet and completed levels in which
+you slide around a maze collecting things. What they were idk for
+sure. The robot looked kinda like wall-e or something. I'm also sure
+there was a shop with like a rusted robot shopkeep who'd sell you
+upgrades and items for ads and currency. Haven't no idea about
+anything else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

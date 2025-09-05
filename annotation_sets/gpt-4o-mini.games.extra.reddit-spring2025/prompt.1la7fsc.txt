@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] Medieval Fantasy RTS. I only had a demo of
+this game but I remember that it was a RTS game where your leveled up
+units were carried forward to the next campeign as well. And more
+specifically the units could be upgraded as well for example a wight
+can be upgraded to a death knight or blue wizards that can be upgraded
+on the skill tree to red white or black by consuming some resources.
+There were shrines in the campaign map where you could do small side
+quests for resources, units etc. playable races were humans, undead
+(might not be what they were called in-game). Think it was 2D pretty
+good design too. There were other units like harpies, knights, peons,
+(not warcraft or anything major like that). I'm sorry the description
+is so generic :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

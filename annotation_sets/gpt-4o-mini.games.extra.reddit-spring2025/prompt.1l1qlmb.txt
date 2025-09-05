@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020?] Acadmic 3d game. It was an academic game, you
+could create a character, walk around a school campus, and learn
+different things based off the classroom. The campus was a school and
+greenery, you could go on walks, etc . It was grand, almost like an
+old-fashioned university. My first thought was Harry Potter like, but
+less fantasy. I think there were other maps, but it was mostly based
+off of learning. Maybe it came from a TV network? Edit: Bad spelling
+in title"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

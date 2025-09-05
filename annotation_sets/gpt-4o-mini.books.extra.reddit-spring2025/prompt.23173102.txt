@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ YA book. A young girl meets her new neighbor,
+a boy who is a piano prodigy. Read around 2011. Spoiler.. I read this
+in school ~2011 but it was probably written earlier than that. It
+follows a girl who has a new neighbor (I *think* his name is Ethan
+maybe?) and he plays piano. He wasn’t a social kid but she befriends
+him. At the end, I’m pretty sure there’s a fire at their school that
+he dies in. I’ve been looking for this book forever and am halfway
+convinced it’s a fever dream so if you can help me find it, THANK
+YOU."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

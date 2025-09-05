@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [around 2020-2022] rpg maker horror game about a girl
+stuck in a train station. It's about a girl who wakes up in an
+abandoned train station, where she meets a talking bird and goes back
+in time to solve puzzles. It's a fairly recent game made in RPG Maker.
+I saw it on YouTube once, but I kind of forgot the title of the
+video."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

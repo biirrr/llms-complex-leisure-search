@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][2010s] rhythm game with loads of characters. I
+remember a werewolf, Frankenstein, cyborg and girl with pink hair. You
+collect characters for your team after fighting them and I vaguely
+remember fights being rhythm based"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

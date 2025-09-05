@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller/ Mystery. Woman and her husband. searching
+for the truth about mother, father and brother who mysteriously
+disappeared 20 years ago.. In this book we follow one girl who's
+mother, father and brother mysteriously disappeared It all started
+when come back after date and she notice that all off them are
+disappeared.20 years later that same girl and her husband let
+television to make a documentary and they are hoping to somebody call
+them after that documentary is out. Her husband is more leading
+character , he is high school teacher and this book from late 2000s
+set in USA. At the end it turns out that her 's father first wife
+together with there son killed girl mother and brother .Her father was
+still alive and he was married to two women at same time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

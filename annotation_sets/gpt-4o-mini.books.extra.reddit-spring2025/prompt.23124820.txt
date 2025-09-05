@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy series with at least 2 books from the 90's about
+2 teenage werewolves. The girl is a new werewolf, i want to say bitten
+as a child but doesn't turn until a certain age.. The second book in
+this series came to my attention in the 1990s (possibly between
+1994-1996) when I saw an ad for it in Seventeen magazine. The cover is
+what I remember the most. A photo of teen boy and a teen girl,
+possibly in an embrace. He had long brown hair and i think was wearing
+a leather jacket. The premise of the book was the girl experiences her
+first transformation into a warewolf. I don't remember how she was
+bit, and i kind of remember her feeling weird while sitting in her
+bedroom in the days coming up to the full moon. At some point she
+meets a boy who's been a werewolf for awhile, and i believe he was
+watching her because he was drawn to her. In the second book they run
+away to the woods, and stay in a cabin. Somehow the boy gets injured
+really bad, and she has to nurse him. The book ends with an open plot
+for a third book, but i don't know if a third ever came out. It had to
+be with a legit publisher, because i bought them at Walden Books."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

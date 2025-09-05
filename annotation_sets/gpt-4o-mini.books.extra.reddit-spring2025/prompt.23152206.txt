@@ -1,0 +1,47 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Girl randomly pulled between real world and
+magic world, cover is drawing of girl with two halves. Spoilers.. I
+read this book around 2021-2023 but I am unsure when it was published.
+From the style of drawing on the cover I am assuming 2005-2015 ish.
+The cover is the girl with brown hair facing forward (the reader) and
+one half is normal world sweater and jeans while the other half is
+like a simple princess dress. Her hair might be braided on the
+princess side? The title is not one word but not a whole sentence
+either. I'm like 85% confident in that. The plot: Middle school/early
+high school aged girl who lives with mom and has really only one
+friend. She goes to therapy and is generally unhappy but I can't
+remember what happened. She's kinda a weirdo and loves fantasy things
+and whatnot. One day after school she's trying to talk to a boy and is
+all of a sudden magicked/poofed out of our world and into a magical
+world, like castles and rolling hills. She finds this old guy who I
+think is the last wizard and advisor to the king. She is technically
+the princess but was taken from their world so long ago that her
+family is gone/dead. The girl and the wizard go on travels around the
+country to find answers, specifically about why and how she keeps
+getting pulled back and forth at random intervals between worlds. When
+she comes back to the real world, basically no time has passed no
+matter how much time she spent in the magic world. When she comes back
+she is not taken seriously that this event happened and is called
+crazy and is forced to do more therapy. So she gets pulled back and
+the adventures continue (I think this is a duology or trilogy, maybe
+duology with an adjacent 3rd story about her son?) and eventually she
+and the old wizard find a cave that is the source of the magic that
+keeps pulling her back and forth at random. It's like a glowing magic
+sphere forcefield thing where some old sorcerers used to work hiding
+from the world? It ends with she is allowed to stay in the magic world
+long enough to grow old, marry the love interest, and have kids. When
+one day she feels it (the tingle) and she gets pulled back into the
+real world for the final time, still in her gown, and she goes to find
+her childhood friend who is also grown up and has her own daughter and
+they reconnect and it's a great ending. I really enjoyed this book and
+it is killing me that I don't remember anything useful."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2011]anyone know this game?. its made with a man in
+a tophat, he is holding a briefcase all the tome and runs from the
+cops. the game is mini puzzles, you have to put the pieces in place
+and it will show the outcome, the game was made early 2010s and i
+believe is only on mobile. the app color was a pink hue, with the guy
+falling. idk if it changed. help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

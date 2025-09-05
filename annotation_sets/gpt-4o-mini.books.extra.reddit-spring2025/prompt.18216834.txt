@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Heat, how to? Different activities and
+""spiritual"" practices involving heat (e.g., sunbathing & meditation,
+hot tubs & how to shock the system going from hot to cold). Read in
+1980's-1991. [s]. I read a rather unusual book in the 1980's
+(definitely by 1991 at the latest) that seemed relatively new at the
+time (or possibly 1970's at the earliest). The book had multiple
+chapters, each one focused on a different activity involving heat. I
+got the impression the author(s) (one male and possibly a second
+female author?) either regularly did these things or talked to people
+who did them regularly and tried them out. In particular, I remember a
+whole chapter about sunbathing that went into detail about the
+meditative aspects of sunbathing and something about the sunlight
+shining on your closed eyelids. There was another chapter all about
+hot tubs that talked about ways to kind of shock the system by sitting
+in a hot tub for a period of time and then plunging into cool water -
+or even a snow drift - I definitely remember that! I believe there was
+a chapter on saunas (maybe with instructions for how to build your
+own?). There might have been a chapter on sweat lodges and there were
+lots of other chapters I'm forgetting. Does this sound familiar to
+anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

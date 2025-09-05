@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-1999] Old school jet fighter game with behind-
+view camera  not Ace Combat (Probably)!. This is a classic PC or
+possibly DOS-era flight combat game I played in the late '90s (around
+19952000). The gameplay is in third-person perspective from behind
+the aircraft , not cockpit view. You control a fighter plane, and
+there are multiple types of planes available throughout the game,
+though only one or two are unlocked during early missions. Each
+mission follows a stage-based structure: you face continuous waves of
+enemy planes coming at you non-stop, and at the end of each stage,
+there's a large boss aircraft to defeat  usually a massive bomber or
+carrier-type ship. I remember launching the game through MS-DOS
+command prompt , so it might be a DOSBox-compatible title. It's
+probably not Ace Combat , but has a similar arcade-style feel with
+scrolling skies and side-scrolling or forward-moving stages. Does
+anyone recognize this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020] Short game about a girl facing neglect. visual
+novel point and click. there was this indie game that manlybadasshero
+played a few years ago that i cant remember the name of. youre a
+little girl being neglected by her mother, locked in your room all
+day. she feeds you through the door. you go through the game day-by-
+day experiencing pretty heavy things. you have a hole in your wall
+that leads to the neighbours house where the neighbours son comes in
+from at night. its got a very limited palette of (i think) white,
+greys, blacks, and blue/purple? it is possible that the game was made
+a little earlier or a little later, most likely on desktop, but i
+dont think im using the write terms and its removing my post when i
+upload. apologies"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy about young person entering into magical house.
+Read around 2012-2015. Spoiler.. This must have been at least before
+high school so 2012-2015. I don’t remember much. At first I thought
+the main character was a girl, but now I’m second guessing myself. I
+remember the cover being of a foyer (maybe). I think in the beginning
+the girl runs away from her job assignment ceremony and hides out in a
+boat, then finding refuge in this magic house wherein the rooms move
+around. SPOILER: the clearest remembered scene from this book is when
+her and a boy go through one particular door and are transported to a
+battlefield of skeletons and she holds her breath to be invisible.
+Sorry if this is rough and confused, it’s been a while. I think I also
+remember her being sent to an orphanage or something near the end of
+the book. TY!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

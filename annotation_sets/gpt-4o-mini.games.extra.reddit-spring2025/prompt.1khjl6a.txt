@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-Early2010s]3rd person Overhead Military Plane,
+Helicopter, Train shooter.. Back in my younger years I visited free
+online video game websites because I didnt have any money. One such
+game on these free ad based platforms was this one game where you
+started off playing as a fighter plane on a limited structured map and
+you had to bomb bunkers and cars and tanks while also fighting enemy
+fighters. There were friendly AI units and you had an air base with
+defenses and also had to bomb enemy air bases. In the bottom corner
+there was a little mini map as well with colored indicators for enemy
+and friendly units. The game featured a roster of unlockable vehicles
+and each had their own missions attached to them. Helicopters were one
+such option as well as trains which you could customize with different
+types of railway weaponry. I have vivid memories of the first mission
+being in a forested map and the next being in a desert with train cars
+you had to bomb. I think you could also customize your plane or
+helicopter weaponry too. Whatever the game was it was free to play
+online and I cannot for the life of my find pictures of it with
+keyword google searches. Its possible there was multiplayer but I
+really doubt it as I dont recall ever seeing an option, so likely
+single player."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

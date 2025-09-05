@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS5][2021-23] JRPG with a very cool anime like trailer. So
+there was this game trailer which looked like the trailer of an anime
+and people even confused it as an anime trailer. I think people said
+that it has some connections to the persona game as well. The mc had
+red hair colour and wore glasses. In the trailer when he takes off his
+glasses he suddenly starts seeing red lines. The trailer was very high
+quality and was released very recently. I can't remember the name. Plz
+help me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

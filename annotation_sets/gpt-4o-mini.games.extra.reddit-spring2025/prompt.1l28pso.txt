@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] Survival-ish game where you start as a boy on an
+island and find humanoid animals as party members. I can't remember
+the title as I probably couldn't read at the time, or it was in
+english (I'm from Poland). I remember that the game starts with a
+young boy on an island, you can craft a raft, chop trees and fight
+enemies. When exploring the island you find humanoid animals as party
+members that you can then switch to control, the rest of the team
+follows controlled character. I hope the game is real and not just a
+dream. Solved: Tajemnicza wyspa / Mysterious Island"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

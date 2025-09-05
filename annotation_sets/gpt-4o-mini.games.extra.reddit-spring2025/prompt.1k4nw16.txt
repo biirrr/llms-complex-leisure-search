@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Maybe more platforms?] [2010's] I don't remember much.
+Please help. I remember that when I was on my early teens (I don't
+remember if this was before or after undertale, but it was close) I
+played a game with a now sadly deceased friend. I vaguely remember
+some things about the plot, and I would like to adquire it on steam as
+a way to keep her alive somehow. To remember them every now and then
+when I snoop through my library. I remember that the artstyle looked
+very anime-esque, but I don't know if it was japanese. The protagonist
+and MC was a girl, grandaughter of the ruler of the place... Oh yeah,
+the worl was filled with living objects that have been forgotten or
+something like that, and there was a manequin man with a sword if I'm
+not wrong. If Im not wrong it had elements of a platformer. I don't
+remember much, but I think that the grandfather wanted to use the
+lives of the objects (I think to remember they used their
+""""""""anima"""""""" as a power source) to power his machine to
+return him and her to the real world and she sacrificed herself to
+stop him... Anyone know what game it might be? Solved:Forgotton Anne"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

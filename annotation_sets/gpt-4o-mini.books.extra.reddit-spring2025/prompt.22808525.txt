@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance/ Sci-fi. Sisters find frozen warriors from
+outer space.. Can you find this book with the following plot? During a
+hike in Russia, two sisters get lost. As they search for civilization,
+they find a cave with frozen warriors. These warriors come from other
+planets to fight a contest of life and death. The planet the winning
+fighter belongs to wins the right to rule over Earth. When the
+warriors are thawed, a battle ensues and when one of the sisters
+accidentally kills a warrior, she is automatically entered into the
+competition. One of the warriors rescues her and teaches her to fight.
+Eventually they fall in love with each other. This book was a new
+release on Storytel Sweden in Dec 23 or Jan 24. The girls lived in the
+same foster home and are not blood related Sisters. They live in USA."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

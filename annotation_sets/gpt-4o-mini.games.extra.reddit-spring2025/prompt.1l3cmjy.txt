@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox 360][2006-2010] 3rd person fantasy war game. As the
+title says its a fantasy war game in the 3rd person, you can command
+friendly units to attack enemy units and brawl yourself as well. I
+remember the friendly units were human and the enemy units are pig-
+like creatures, with the big bad being a giant pig man. I know this is
+vague, but I remember each hero you could select had a different set
+of levels, along with being able to play as the big bad at some point,
+and youd select your hero by selecting their stone statues. The art
+style was fairly grey as was the trend with 360 games at the time. I
+know this is tough but me and my brother have been racking our brains
+for hours haha Games Ive ruled out with my own research:
+""""""""overlord """"""""bladestorm """"""""any lord of the rings game
+""""""""kingdom under fire"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

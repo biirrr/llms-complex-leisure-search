@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Regency/ Victorian Mystery series. Female Investigator
+(who sometimes wears male clothes). Read mid 1990s/early 2000s.. Hi
+there ... I'm trying to track down a book that I read in the mid-to-
+late 90s (or possibly in the very, very, very early 2000s). It
+features a female investigator in what I remember as being Regency
+England, but may possibly be Victorian England. As I recall -- the
+protagonist was ruined (I don't remember why) and was (possibly)
+living out the back of a high class brothel. But she wasn't a
+prostitute herself. Also -- she often wore male clothes. Also --
+spoiler -- the protagonist fell for a man (possibly a politician) in
+the book, but he turned out to be the murderer. The fatal clue was
+potpourri caught in his trouser cuff. (Trouser cuffs makes me think it
+was Victorian, not Regency, but it could be that I'm misremembering
+and it was a turned-up hem or a pocket.) Also -- at the beginning of
+the book, while walking through town (London?) she came to the aid of
+a prostitute who was being assaulted by a man who (I think) likened
+""using"" the prostitute to using a chamberpot/privy for bodily
+functions. (Unless I'm mixing books up and this happened in a
+completely different book...) Also -- the series only ran to (I think)
+2 or 3 books because the author died young. I want to say from cancer?
+I also have a strong feeling that the author's name was Octavia or
+Olivia, but am most likely wrong because I am dreadful with names. But
+I think, when I initially found the book in the library, that I didn't
+realize the author was female, so maybe the author's Christian name
+was in initials? ""O"" something? (But like I said, quite likely not
+an O name and I've got that wrong.) I recommended this book/series to
+a friend recently, but can't locate it at all despite wide internet
+searches. Any help very gratefully received! In hope... 🙏 Emily"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

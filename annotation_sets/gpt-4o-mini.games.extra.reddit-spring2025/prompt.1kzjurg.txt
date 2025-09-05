@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES/SNES][1994] Game with toy monsters. **Platform(s): Nes
+or Snes, possibly even Sega** **Genre: Side Scroller** **Estimated
+year of release: 1992-1995** **Graphics/art style: 2D pixelated,
+colorful but with a dark atmosphere** **Notable characters:
+Frankenstein, Dracula** **Notable gameplay mechanics: Possible that
+each character had a different move set** **Other details: The biggest
+thing is these characters were possibly toys, because I remember one
+of the levels being a childs bedroom, I suppose the level could have
+just been a one off. There is also a chance that I am blending games
+in my memory.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

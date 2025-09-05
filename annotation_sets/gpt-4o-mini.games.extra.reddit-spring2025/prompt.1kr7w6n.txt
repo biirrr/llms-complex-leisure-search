@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1980s][Adventure RPG][EGA/CGA]. Am trying to relive
+this game. Release on PC, ran on DOS. Not sure if on Windows 3.11.
+Main screen is a island outlined in green. There are marshes, swamps,
+mountains to cross. You are a green figure that can walk in 4
+directions (N, E, W, S). You will encounter obstacles that require
+either you use an item in your inventory to cross (party size takes no
+damage) or just use your direction key (Party size takes sizeable
+damage). You can gather followers by meeting groups and be friendly.
+They can join or attack you. You can pick items up to add to your
+inventory to utilise. End goal was to find a ship, sail to another
+island to reach end game goal. There are maybe 7 obstacles to clear.
+You will meet merchants and can buy items. Weapons are essential to
+win fights. The obstacles I remember are you use a plank to cross a
+chasm, ropes to climb up a cliff. You can use a magic carpet to cross
+lava but it burns up the carpet after that. There are also obstacles
+in the main island. I also remember that while sailing you need to
+have oranges to prevent scurvy. Game play a 8 bit jingle which changes
+when you have an encounter. Not ADOM. Not any of the Ultima. I
+remember playing karateka and phantasie III around the same time
+Thought it was called odyssey or Ulysseus but was wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

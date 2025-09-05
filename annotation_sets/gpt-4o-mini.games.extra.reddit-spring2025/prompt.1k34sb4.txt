@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox] [2001] It was a third person strategy game. You were
+fighting aliens that got shot out on catapults. You wre defending your
+town.. Hey guys currently looking for the name of a old game I use
+play as a kid. I remember the characters were cartoon ish. Their was a
+jacked guy and a girl in a town and you had to fight aliens. But it
+was third person and you could either mover like 3 squares or shoot.
+It was a staretgy game because different characters that had different
+guns that could shoot farther or close but did more damage. I remember
+there were like aliens on catapults that were suicide bombers.There
+was also a really jacked white guy that had a bazooka. That's all I
+remember lol. If I saw a Pic I would remember!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

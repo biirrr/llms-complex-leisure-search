@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fiction anthology about Olympic athletes, possibly
+middle school level, read 2005-2007. [s]. This is a book about Olympic
+athletes I read in middle school, probably around 2005-2007. It
+contained autobiographical essays by several Olympic athletes
+explaining their Olympic journey or their most famous contribution to
+Olympic history. I don't remember who all the athletes were, but I
+know Dick Fosbury was for sure one of them. His essay was all about
+how he accidentally created the Fosbury Flop, which has now become the
+standard technique for the high jump. He mentioned that the first time
+he did it in competition the coaches from other countries were
+desperately searching the rulebooks to see if his technique was
+illegal, but found nothing, and so he won gold. Another essay (I don't
+remember which athlete) kept repeating the phrase ""How bad do you
+want it?"" (the book is NOT How Bad Do You Want It? by Matt
+Fitzgerald, I checked). This athlete wrote that phrase on his bedroom
+ceiling so that he would see it every time he woke up and remember to
+keep training hard. Also, I have the strong feeling that beach
+volleyball champion Karch Kiraly was one of the featured athletes, but
+I don't remember the specifics of his essay."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

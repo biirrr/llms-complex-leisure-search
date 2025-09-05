@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy series where a girl in the lowest class in a city
+separated by class has magic, goes to school for it. Read around 2020.
+Spoilers.. A series, I think with 4 books in it. Read it in around
+2020 with all the books already out, and they were probably more
+recently released. The city is an entire island, shaped in a circle,
+with class divisions going in rings (outer ring is the poorest class,
+center-most circle is the royalty). Giant wall around the city and I
+remember it being pretty isolated. Only girls in the outer ring have
+magic, and they go to a school where they're trained for it. Using the
+magic is physically difficult, causes nose bleeds and dizziness. I'm
+pretty sure the MC has a brother who works in the factory section and
+a younger sister who she doesn't want to have magic but actually does.
+Once the girls go to school they get sent away and are never seen from
+again. Spoilers ahead and warning for human trafficking: Once the
+girls graduate, they get auctioned off to the nobles and royals, where
+their job is to carry the nobles' and royals' pregnancies and
+essentially genetically modify the babies. Main character gets bought
+by a duchess I'm pretty sure, and I think the person sold to the queen
+gets killed by the queen. MC escapes. Love interest is a boy who I'm
+pretty sure was sold to essentially a brothel (I remember sex
+trafficking of boys being a parallel to what happens with the girls)
+(I think they might have met in the duchess' house and escaped
+together). After the MC escapes, she gets to an isolated cabin where
+she finds a woman who also has magic. It turns out that the reason
+magic is so difficult is because the way it's taught is against its
+nature, and it should actually be used more to manipulate elements and
+is rooted in the islands history. Series proceeds to destroy the ways
+dividing the city."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

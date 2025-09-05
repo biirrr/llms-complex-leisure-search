@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005-2010] Bubble shooter type game with a bubble-guy
+character.. I used to play this game a lot when I was a kid, I think
+in the 2006-2010s? It was a bubble shooter game where you could see a
+character that had the Patrick the star shape but its skin was bubble.
+I remember the menu and the game being """"""""watery"""""""". Maybe a
+bit frutiger aero style? I searched a lot in the internet, but with so
+many games of this particular style I really don't find it. I suspect
+it was made by Reflexive Entertainment / Big Fish Games / PopCap or
+one of those kind of companies. It was that era where you play games
+like crimsomland, zuma, and all those 60-90 minute demos. It was of
+course for PC."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

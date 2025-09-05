@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 1990/early2000] left to right platform game. I am
+beginning to think that this game was a fever dream at this point. It
+was a left to right platformer where you had to drive across the US to
+collect your monsters (bandmates?). You started at Alcatraz and ended
+in New York. Your character was a slobbish kid wearing a helicopter
+beanie. I believe he attacked enemies with snot rockets and picked his
+bellybutton when you left him standing still for too long. Getting
+between levels was accomplished by driving the red go-cart on a left
+to right road avoiding obstacles and gaining power ups. The game over
+screen consisted of your character saying things like Im feeling
+kind of funny, I must of ate some low fat ice cream. It was a silly
+game but surely someone else remembers it??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

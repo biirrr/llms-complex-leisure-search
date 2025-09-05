@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy, vampire like people, series, bond or die
+situation. Read around early 2000s.. I read this series probably
+around the early 2000s. It's a group of men, can't remember if they
+are related but they all have a connection. They are vampire like but
+don't call themselves vampires, they have another name for it. When
+they find their soul mate, it's a bond or die type situation and some
+of the women reject them till they realize the man may die. I believe
+blood is exchanged. I think they were created in some way, not lab
+created. They have a name for their soul mate but can't remember what
+it is. It's similar? To Black dagger brotherhood."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

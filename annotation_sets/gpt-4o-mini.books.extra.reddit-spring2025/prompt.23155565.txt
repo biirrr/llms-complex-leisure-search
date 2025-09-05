@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Realistic Fiction but possible Fantasy. Young boy finds
+comic book made by possible wolf man? Read around 2005. Spoiler.. I
+remember reading this around 2005. It was not a comic book or graphic
+novel, but a regular book. There was a boy who possibly moved into a
+new town and started visiting the library? And he found a collection
+of comic books or something of the sort that were made by this town
+recluse. He was a life a wolf man or town legend. I believe the boy
+became friends with a girl who helped him with the mystery of who this
+guy was and why he was making/leaving random comics in the library. I
+think at the end of the book the wolf man saves the kids from
+drowning. Like from a boat or canoe? Can someone please help!?!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

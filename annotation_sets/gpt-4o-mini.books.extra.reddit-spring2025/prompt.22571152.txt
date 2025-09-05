@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "I can't find this Irish true story. It was the story of a
+young Irish girl in the 70s that was taken out of school and swapped
+to an old widow farmer for a car by her father. He chained her up
+every time she tried to run away and she drank to escape the torture.
+She wrote a book and as I recall it was published by O'Brien Press.
+She ended up living in the UK. I read this in the 90s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

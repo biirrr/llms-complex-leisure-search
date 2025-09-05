@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ROBLOX] [2023] cool rpg game with a unique attack
+mechanism. It starts in a forest with foxes and wolves and when you
+get close to the enemy the battle starts and a circular forcefield
+thing goes around you and the enemy and you have to dodge its attacks
+but to do damage you have to touch the floating icons that are the
+same as your weapon and the second area has a bunch of slimes and it's
+called slime lake?? It has multiple colored slimes and a big royal
+purple slime."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

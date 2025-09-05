@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "I forget if it is an anime or manga, but timetravel / bloody
+eyes/ timetravels back so dosent get shot by woman/ i think works at a
+hospital or something?. I forget if it is an anime or manga, but I
+remember that I watched the anime, but i don't remember if it had a
+book as well. I think it did, but if not i still would like help. In
+this one, it had a boy somewhere from 15-27 years old, i remember that
+he could time travel and i remembe rone part extremely well: He walks
+into a (i think it was a room in a hospital room) and this lady on a
+bed shoots him, but he time travels back so he was not shot, and he
+waits a second or two longer before entering the room. He dosent get
+shot(i dont remember if he had brought a gun and tried to shoot her
+this time, but anyway) she had leapt out the window to escape. Yeah. i
+don't remember. I think it was in japanese"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

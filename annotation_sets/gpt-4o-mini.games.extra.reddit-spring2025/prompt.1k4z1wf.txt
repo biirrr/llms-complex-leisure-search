@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[It was a rip off snes][2008] It was a game about some
+animals on an island and there were castles. Platform(s): i remember
+having this console that had the form factor of the snes controller
+but pluged directly to the tv via rca cables and it only had one game
+Genre: i guess adventure, it was a top down game with castles and i
+think it was on an island Estimated year of release: i think i got it
+anywhere from 2006 to 2009 Graphics/art style: it was pixel art kind
+of like 32 bit Notable characters: i dont remeber if the characters
+were animals like dogs or cats, or humans Notable gameplay mechanics:
+you had to go around the island searching for objects Other details:
+im sorry for the ambiguity i really dont remember a whole lot about
+this game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

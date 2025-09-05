@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][95s to 2000s] side scrolling game where main character
+collects water drops(?). **Year**: im not exactly sure about the year,
+but i distinctly remember my cousins playing this and them, not
+allowing me to play because i """"""""didnt know how to use a
+computer"""""""" **Game**: there's an overworld map where you can
+choose which level you want to finish. you can choose which level to
+play, but there is a difference in difficulty. the entire gameplay is
+like mario, but i distinctly remember you collect water drops, as to
+mario collecting coins. i remember a stage where it was named cave of
+""""""""something"""""""" and when you choose that stage, there's pits
+of acids. basically, you can't go to this level unless you finished
+all the other levels. **Title**: i want to say the title is like
+captain nero or captain nemo, but im not sure; i may be mixing up very
+vague memories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

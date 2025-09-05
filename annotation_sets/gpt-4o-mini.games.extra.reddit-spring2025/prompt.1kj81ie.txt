@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash Game][Unknown]Fight Robot Armor Game. Platform(s):PC
+Flash Genre:Action Estimated year of release:Unknown Graphics/art
+style:Art? Notable characters:Equip Armor Main Character Notable
+gameplay mechanics:Gatling gun, punch, Mortorcycle transformer, rat,
+cyborg dog Other details:The main character wears armor (which is
+removed when defeated), enemies are rat gangs, a cyborg dog, and rap
+background music and,,,I remember what the main character looks like,
+so I'm drawing him (please forgive me if I'm not good at it) https://p
+review.redd.it/nzuyhi6dwxze1.png?width=1152&amp;format=png&amp;auto=we
+bp&amp;s=88ab5e89494fa85b9c84d577263185259cae9b66"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

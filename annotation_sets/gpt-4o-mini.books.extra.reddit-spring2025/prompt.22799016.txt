@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance/ Suspense novel: Female author, Movie industry
+setting, Voodoo horror film set in New Orleans, past relationship
+drama, hot sex. Looking for a romance/suspense novel by a female
+author known for writing in genres such as romance, spicy sex,
+intrigue, suspense, and murder (in this specific book). The story
+revolves around a passionate relationship between a woman (possibly
+named ""M"" Madison? Dunno) and a man in the movie industry, where she
+is a writer and he is a producer. They break up due to a
+misunderstanding about a pregnancy or abortion, and he moves on to
+marry someone else and has a son. Several years later, ""M"" re-enters
+""R's"" life as they collaborate on a horror film about voodoo.
+However, mysterious deaths among the cast lead them to believe the
+movie may be cursed. They sort of get back together. I remember the
+sex scenes were really good and the suspense was even better. Also I
+read this book more than 15 years ago so it's not recent. I'm sure
+she's quite a prolific writer as she did have quite a few books out so
+would love to read her other stuff, Any help in identifying this book
+would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020's] Roguelike with turn based fights, with
+""""""""book-like"""""""" UI. Haven't played it myself, just saw a
+walthrough on YT channel """"""""TianKami"""""""" some time ago, but
+now I can't find it among many new walkthouths and playlists. I'm
+sorry if the description is vague. A roguelike from a few years ago,
+with DnD vibe, where you play as a party of characters you can choose
+before start, inventory &amp; supplies mangement. Fights are turn
+based, XCOM\\Heroes of Might and Magic kind of like(?) Setting is the
+fantasy world maily consisting of sand dust and fire. The UI looks
+like a book pages the player swipes through. Also remembere that there
+is a clan of sentient rats as one of the enemies. game wasn't pixel-
+art in any way, the characters portraits looked knda old-school RPG
+hand-drawn. There were spells the characters could cast in a fight for
+""""""""energy"""""""", so even more like Heroes of Might and Magic
+battles wise. This is not Vargus, nor Sandwalkers, nor Rougebook"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

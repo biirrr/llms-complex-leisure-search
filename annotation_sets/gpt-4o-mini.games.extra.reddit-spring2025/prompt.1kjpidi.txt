@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s or 00] scifi adventure game where you see from top
+with blade runner like character. I did not play this game, I read a
+walkthrough on a magazine. It was a PC game I could never find in my
+country. This was before steam. I believe it was CD based. 32 buts 2d
+graphics. Perspective is from top, and it seems you can talk and have
+actions with the characters. Portion of the heavily stylized screen
+are for this actions. I think you can shoot, although not sure. From
+what I remember from the screenshots, this was somewhat violent/bloody
+and there was some sort of blade runner """"""""am I an
+Android"""""""" theme. Last screen is player killing a guy in tub."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

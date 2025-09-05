@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3][2012] 3rd person shooter, female main character..
+Platform(s):xbox 360, ps3 Genre: 3rd person shooter Estimated year of
+release: 2004-2010 Graphics/art style: real world cel shading, best
+guess reference is mercenaries 2 world in flames Notable characters:
+female main character Notable gameplay mechanics: none, i mostly only
+remember a few cutscenes and me jumping on a few stacked pipes or
+concrete tubes. Other details: a cutscene i remember rather well given
+the time is the main character gets blood on their eyes and the screen
+goes red with i think black silhouettes, kind of like a rage, scene
+setting was big city with busses. I dont think it was bayonetta as the
+main character from what i remember didnt have her mannerisms or
+style. an indoor hydroponics room where you shoot at a bunch of gang
+member enemies. Most enemies from what i remember wore black suit and
+ties, a few normal bodied and a few bigger. I wish i could remember
+more but its hard to tell what little details were made up to fill
+spaces so i only picked out ones i knew for certain. i do apologize."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

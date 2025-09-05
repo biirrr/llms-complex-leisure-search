@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, 1990s. Nurse met a soldier (Mac) and followed
+him through Vietnam, she befriended a Vietnamese nurse. Spoilers..
+This romance novel was about a specific nurse that met a soldier and
+followed him through Vietnam, but not at the same base. She had a
+friend that was Vietnamese that was also a nurse. I remember a
+specific scene where she received a box from someone that had talc in
+it. When she is almost done in the war she’s in some sort of accident
+(helicopter I believe) with her nurse friend and burned so badly they
+mistook her for her friend (I think her name was Lily, but can’t
+remember main character. Her love interest was named Max I believe.
+She is eventually discovered to be who she is."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

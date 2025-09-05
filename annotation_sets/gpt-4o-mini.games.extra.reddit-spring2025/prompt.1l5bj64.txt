@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox or PS2] [2000s] Military Sim With Squad Gameplay. Im
+trying to find a game from probably the mid-2000s which put you in
+control of a military squad. It had multiple unique levels, some of
+which took place in the Middle East in a war zone, and I remember each
+member of the squad had a role (e.g., sniper, assault) and there was
+about 4 in total. What was really cool was that you could switch
+between each person in real time and they could even die if you
+werent careful. It was very realistic and felt way ahead of its time.
+Thats about all I remember. Platform: Original Xbox or PS2 Genre:
+Shooter/war game Estimated date: Probably 2000s Graphics: Realistic
+Mechanics: See above"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2000] Third person fixed camera sci-fi adventure
+game. Platform(s): PC Genre: Sci-fi Action/Adventure Estimated year of
+release: 2000 Graphics/art style: Gritty Notable characters: No idea.
+I think the protagonist was either a cyborg or some type of alien.
+Notable gameplay mechanics: It has a fixed cameras like the OG
+Resident Evil games. You could collect items and use them in the
+environment to bypass puzzles. Think there was a slow moving robot
+trying to attack you too. Other details: Right near the start of the
+game, you're imprisoned on some space ship and have to bypass a
+biometric door lock using a severed hand. Trying to access locked
+areas has an alarm blurt out """"""""This is a restricted
+area"""""""". Since we were young when we played this and had no idea
+how to progress, we ended up hearing """"""""THIS IS A RESTRICTED
+AREA!"""""""" over and over until it started to become and in-joke
+amongst us"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

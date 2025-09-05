@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/ARCADE] [2010 i think] Zombie game usually played in
+arcades with those gun controllers but can be played on pc. Can you
+guys help me find this zombie game back in like 2008 maybe, i think
+its meant for those gun controller type games youd find in an arcade
+but i remember playing it a lot on pc, you had 3 lives i think and u
+lose one per hit, the character moves on his own from scene to scene
+you just had to shoot oh and you also had limited bullets i think. It
+was a popular genre at the time i remember multiple good games like
+this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

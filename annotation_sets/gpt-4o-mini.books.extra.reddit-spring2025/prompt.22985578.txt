@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Dystopian. A teenage boy is on a farm in a world stuck in
+a drought. He goes to the city and meets another kid. then they head
+to a sort of orphanage. Read 2018-2022. Spoilers.. The orphanage turns
+out to be a plot to put the minds of the old and rich in the bodies of
+the children."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

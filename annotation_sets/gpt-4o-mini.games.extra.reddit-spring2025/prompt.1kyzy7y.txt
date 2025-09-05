@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][IDK] I saw a short clip of this game in the YouTube
+video I watched. It's at 13:55. Can someone please tell me what game
+it is?. **Platform(s):** Possibly PC. **Genre:** Most likely an open
+world survival craft game. **Estimated year of release:** No idea.
+**Graphics/art style:** Voxels. **Notable characters:** No idea.
+**Notable gameplay mechanics:** Clearly, creation and destruction of
+environments. **Other details:** Link:
+https://youtu.be/nP88Sn9EHKY?si=748zp3I-TUWkaldA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

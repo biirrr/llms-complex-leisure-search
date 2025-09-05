@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1980s Children's Game/ Activity book, where the book unfolds
+on each page to be a separate board game; the book is cartoonish
+monster-themed. This book was purchased around 1986-1988, in Missouri,
+USA. The cover featured a cartoonish Dracula/vampire, and a couple of
+other monsters. This was a larger hardcover (though thin) book. It was
+designed to fold out completely, and each pair of pages became a board
+game children could play. The book did not come with dice or tokens,
+and children were encouraged to use pieces from other games, pennies,
+etc. to use as token and move around the ""board"" that each pair of
+pages formed. The book was roughly 9""-12"" wide and 12""-18"" tall.
+as mentioned above, it was a hardcover but relatively thin, so it
+could lay flat on a table to be used as a board game. There was
+roughly 30 pages (15 games). The content was board games for children
+to tweens, and was monster themed (though generally safe/cartoonish
+monsters; nothing scary in the least) (as this is my first post,
+please let me know what additional information is needed, or if this
+is the wrong forum)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

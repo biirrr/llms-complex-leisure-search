@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction about a group of kids with no parent on an
+island, used to show what society would be with no authority figures.
+I know that it is written by George Orwell. I red this book between
+2020-2021, was written well before then, not to sure of years for
+that. I remember one scene where someone killed and pig and a few of
+the other kids got upset about it since they didn’t want to kill the
+pig. They create different groups and assign tasks to everyone in what
+they have to do within the group."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

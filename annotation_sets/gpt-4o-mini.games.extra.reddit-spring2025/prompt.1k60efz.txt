@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2003ish] bargain game with a prehensile tongue?. For
+the life of me, Google is not helping my search. I remember at college
+I got a game either from a cereal cd rom or similar about a monkey-
+like thing with I think orange hair in a spike, and I believe he could
+not walkonly jump straight up and move about the environment with his
+tongue, similar to the ninja rope in the worms games. You collected
+glowing things, perhaps fireflies? I swore the game was called either
+Wik or Flik, but again google disagrees with me. Please help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][UNKNOW] A villain agency in rehabilitation game. Hi
+people, I'm here because I rememberd about a game I saw on a video in
+january and now I don't remember the name. For what I can remember,
+you are a retired supur hero that now help to comand a super villan
+rehabilitation agency. The gameplay is you deciding which villan
+should go in what mission and you descovering their history. I think
+it's a indie game and it's probably a recent game. That's all I cam
+recall from the game (and sorry for my grammar, English is not my
+native language)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [around 2010] RPG, BG like. Hey all ! I remember
+playing a game, probably between around 2010 (graphics better than BG1
+I belive), as a child, that I can't find back ! What I remember is
+that soon after beginning with your party, you go into a cave /
+tunnels, and you have to pick 1 path, left or right, one where you
+have to fight undeads, and one where there where, orks or smthg ?
+Can't remember... I was young and it's blurry, but I know it was
+underground most of the time, I remember being really surprise to see
+my father's party being back outside, on some castle walls... There
+might be some dragons involved at some point... haha !! Also there
+were quite a large variety of races and class to choose amongst at the
+beginning when you create your full party, I believe. Sorry I can't
+come up with better memories, if that rings a bell to anyone, that
+would be much appreciated ? My main memory is about choosing a path,
+right or left, at the beginning (the other way is blocked afterward),
+the rest is blurry and might be flawn cuz I was young. \[EDIT 05/14\]
+: FOUND ! Pool of Radiance: Ruins of Myth Drannor ! THX
+[rkzhao](https://www.reddit.com/user/rkzhao/) !! &lt;3"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [2025?] WW1 horror souls-lite. I was watching
+possibly Gameranx on youtube a month or so ago about upcoming games.
+Then i saw another new game video about a plague during the middle
+ages. I don't know why it reminded me of it, but it did. I do recall
+seeing some gameplay of it. You were dressed as a german soldier(?)
+wearing a gas mask. You have guns and magic. If i had to describe it
+with an analogy, it was Dishonored in WW1 without the parkour. Edit:
+Closed"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short, Humorous Comic Book about the daily life of a Cat,
+possibly late 90s/early 2000s. I had this small, short book when I was
+a kid (so late 90s/early 2000s) where each page showed an illustration
+of a cat going through their daily routine. Each illustration was
+accompanied by a sentence or two, describing what the cat was doing in
+a cute, humorous way. The illustrations were simple and cute, mostly
+in white, blue, and red. The cat was white with a red collar. I
+remember the last two pages showed the cat sleeping with their owner
+(a blonde woman I think) and ended with the cat dreaming. The last
+lines were, “Be loved. Dream.” I remember the size of the book was
+sort of small and rectangular; sort of like a book for newspaper comic
+strips. I had found the book on secondsale.com and saved it to my
+wishlist… but when the site merged with worldofbooks.com, I lost my
+wishlist. I had seen the cover of the book, recognized it, and added
+to my wishlist. Didn’t even read the title lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

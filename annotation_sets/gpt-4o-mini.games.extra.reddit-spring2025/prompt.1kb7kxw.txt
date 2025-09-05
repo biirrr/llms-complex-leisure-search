@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90's]Children's Education game on a small planet,
+curved to both sides and had block puzzles.. **Platform(s): PC,
+Windows 95** **Genre: Education** **Estimated year of release: 1998 or
+earlier** **Graphics/art style: 2D, colorful. Similar to [Alphabet
+Blocks](https://www.youtube.com/watch?v=zq1SIWhpb-k).** **Notable
+characters: I think there was a purple alien, and there might have
+been a clown also, but I might be mistaking this character for the
+Jack-in-the-box from the aforementioned Alphabet Blocks.** **Notable
+gameplay mechanics: I remember that the game (or at least part of it)
+takes place on a little green planet. It's a 2D art-direction, so you
+can only go between a few different areas. I'm pretty sure there were
+at least three, left, middle, and right. The left and right areas
+showed the planet curving downwards, maybe off-screen, to demonstrate
+how small the planet was. The only specific gameplay element I
+remember is the left part where you make a bridge or fill in a gap
+with multiple different shapes.** **Other details:**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

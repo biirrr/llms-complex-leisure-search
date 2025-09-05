@@ -1,0 +1,47 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction, British woman inherits an Italian villa. Read
+around 1995-2000. [s]. British woman inherits her uncle's villa in
+southern Italy (Sicily?), but no $$ to get there. Out of necessity
+goes for a visit and then is ""stuck"" there just at the start of
+WWII, when travel was restricted owing to gas rationing in both
+countries. She works at restoring the villa, with the help of less
+than reliable villagers, and somehow had diplomatic visitors (from
+both countries?) In one anecdote, she rents out an outbuilding (the
+first B&B) because she is short on funds, food, utilities, and has
+repeated issues with both governments for permits. She somehow got a
+telephone. One of the visitors was an American author (Tennessee
+Williams or Wm. Faulkner, or Truman Capote) and the book included
+descriptions of his childhood (running away from an abusive father at
+8 years old, sleeping in ditches), his rise to fame and fortune (he
+bought an antebellum colonial mansion with major repair issues)
+traveled via an expensive automobile (Bugatti convertible big and old)
+and brought along excess baggage, numerous diverse pets--I think one
+was a duck, today known as emotional support animals. He drank. he
+caraused, engaged in sex with women and men. But they managed to have
+these incredible conversations that gave me cause to hold the author
+in high esteem. She had major problems rousing him from his apartment,
+he was very childlike and always got into trouble with the
+authorities, it was ???!!! that he could find women to take back to
+his apartment. I think the story is true. I read this book around
+1995-2000. It is anecdotes of the many problems she had with visitors
+and repair. There was a depressed wife of a diplomat... I am aware of
+similar books/films that are NOT this book, such as Under the Tuscan
+Sun: UTS involves a couple, and it has different ""geography"" of the
+villa landscape (I think there was a swimming pool and mushroom
+hunters along with animal hunters in UTS; the unsolved title was on a
+steep hillside. It is complicated by possibly both of these books may
+have been made into films. Another similar book involved a woman and
+focused on her bitter relationship with a worthless man; though the
+meals were big, the story was about their dysfunctional relationship.
+Ah, and of course The Durrells TV series, in which a divorced woman
+brings along her 3 children. It's none of those. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

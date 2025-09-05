@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. An age gap, dad's best friend.. These details
+maybe inaccurate but that's what I can remember. The hero was the
+heroine's dad's friend. She tried to make a move and kiss him on her
+16th birthday but he rejected her as she was too young tho he wanted
+to kiss her back. After her parents death he became her guardian as
+that's what her father wanted. He was trying to keep her under control
+but she was stubborn and never listened. He always tried to push her
+away because he didn't want to betray his friend (her father ). He
+eventually gave in and their first time was in a public place where
+she lied about not being a virgin so he wouldn't change his mind(she
+was a virgin)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2003] FPS set in South American jungle. I only saw a
+trailer when I was a kid so I'm not even sure the game was ever
+actually made. Here is what I remember : in the trailer you saw your
+daughter or your wife being kidnapped and dragged into an elevator
+before your eyes. It was supposed to be an open world game with
+vehicles (I vaguely remember a jeep). I thin one of the guns you saw
+in the trailer was a desert eagle. I don't have a lot, it's definitely
+a reach. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

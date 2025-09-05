@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance book set in Italy around
+1920s/1930s. Female lead really interested in insects, meets male
+painter at villa. [s]. Hi, there was this book that I read from my
+secondary school Library and it had a turquoise and gold cover. I
+remember that it was set in Italy in around the 1920s or 30s. The main
+character is called Bea I think and she is rlly interested in insects
+and she goes to visit a villa in Italy who is owned by a family friend
+and there is a painter guy who is also staying at the villa and I
+think the title has the words 'under' 'sky' 'sun' or 'sky'. I really
+loved it and wanted to read it again and review it bc I loved it so
+much. Hope u guys know what book I'm talking about!!! Thanks Gigi"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

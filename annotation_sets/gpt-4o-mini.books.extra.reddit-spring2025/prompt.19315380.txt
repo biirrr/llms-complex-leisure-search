@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Y/A Funny stories by girl about family, neighbors, church,
+school in turn of the century America. [s]. In 1961 I was given a book
+that was purportedly the diary of a girl in turn of the century
+America writing her observations about family, neighbor, church,
+school. I think that somewhere in the stories or in the title she said
+“Praise the Lord” or something to that effect. There were stories
+about babysitting her younger siblings, about courtship rituals she
+observed, about behavior in church, etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

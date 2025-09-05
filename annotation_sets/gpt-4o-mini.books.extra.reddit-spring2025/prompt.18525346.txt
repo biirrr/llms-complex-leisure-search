@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short story about child in church [s]. I read a short story
+in English 112 around 2014 about a child that was in church. Other
+children would go up on stage and yell or act strange when they felt
+the spirit of God. One by one they waited for kids to feel the holy
+spirit and get up on stage to show it. The child in the story is
+sitting back waiting to feel the same and doesn't understand why he is
+not feeling it. This is such a horrible summary, I'm sorry. This was
+written by an American author. I hope someone is familiar with this
+story!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

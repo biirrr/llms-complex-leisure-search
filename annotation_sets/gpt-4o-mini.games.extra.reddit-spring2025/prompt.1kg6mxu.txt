@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2000s?] fmv game based on a book. Genre: first person
+point and click Estimated year of release: 2000s? Graphics/art style:
+pixelated with fmv (people had less pixels than in phantasmagoria)
+Notable characters: The only character I remember is a doctor, but
+also I think the main character, who was a teenage girl, had parents
+Other details: it is based on a book or even a film, but if it was a
+film actors were different. I saw this game in a video essay and I was
+sure it was something similar to Twilight. The frame was purple or
+dark blue and was very detailed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

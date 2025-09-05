@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir: 20th century woman becomes photographer and does war
+photography.. I remember reading this book in high school, which would
+be 2014-2018. I remember finding it in the ""new books!"" section at
+the library, so it should be published in the early 2010s. It was
+about a woman that became a photographer which then led to her doing
+war photography. I think this was around WWII. Had to be early to mid
+1900s at least. The cover was orange and my brain is telling me there
+may have been an airplane on the cover. It wasn't a super thick book
+and I recall thinking it was a little small, actually. I really want
+to reread this book because I remember loving it and I haven't found
+anything with vague Google searches. Thank you so much in advance
+folks!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

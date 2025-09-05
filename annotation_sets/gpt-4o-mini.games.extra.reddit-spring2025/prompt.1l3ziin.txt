@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Pre-2000] Action maybe shooter game. I just remembered
+one very old memory I have of a game we used to play on pc , windows
+98 or 95 The only things I remember are a scene at like a rooftop
+where there was a helicopter, I can't remember if it was a cutscene or
+you were shooting from the heli, I think the mission was over around
+that time the heli arrived, kinda like extraction. Maybe it was a
+rainbow six mission?? I think it was a shooter game can't recall if
+FPS or not. Also it might have been demo, if that matters, I know it's
+not a lot to go from but I've seen some crazy IDs from others and said
+why not see if anyone can remember it. edit: its Sin Gold 1998, thanks
+for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

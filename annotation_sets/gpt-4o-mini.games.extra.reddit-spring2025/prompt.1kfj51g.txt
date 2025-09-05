@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/steam] [2010s] 1st person puzzle game with a pause room.
+Platform(s): pc/steam Genre: 1st person puzzle game puzzle game
+Estimated year of release: ~2010s Graphics/art style: colorful, not
+realistic Notable characters: I think your mother had a mental
+illness? Notable gameplay mechanics: I remember that when you pause
+youre taken to a room with a bunch of shelves that you can store
+items on. The room I remember had a window looking outside, possibly a
+lighthouse. I think it was meant to simulate a specific mental
+illness? Or the story was about you or your mother having a mental
+illness? Thats all I can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

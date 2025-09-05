@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Free to Play 3D Fighting Game. Platform: PC (Not
+sure if it was a download or played in a browser) Genre: Fighting
+Estimated year of release: 2000s. I played it between 2006-2007
+because I had it on my own laptop. Graphics/art style: 3D. Not sure if
+the playfield was 2D like Street Fighter, or 3D like Tekken. Notable
+gameplay mechanics: Each character had a different fighting style. The
+character I remember playing did Taekwondo. Other details: Online play
+was available, but I didn't play it much. I played the practice mode
+where hits were flashed on screen as High, Mid, and Low like Tekken.
+The game might have been Korean or at least come from Asia. I think I
+remember it being hosted on the same site as a Counter-Strike clone
+and the shooter game Wolf Team, but that doesn't necessarily mean it
+was the same developers. (Wolf Team may have come from a different
+site altogether, but I remember playing it around the same time, hence
+why I brought it up.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

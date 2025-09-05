@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2008+] Hovercraft RPG. Hello mates. I'm trying to
+find a game from a childhood and can't seem to find it. It was a
+sandboxy rpg like game about delivering cargo on a hovercraft on a
+different planet and shooting other crafts on highways between
+stations/markets/buildings. I clearly remember that there were
+different biomes with different coloured terrain and skyboxes. I
+remember two crafts from the game. one of the looked like a hammerhead
+shark with a T shape and the other one was a in the shape of a ball
+with a rectangle slapped behind. I've trying searching on different
+sites, people suggested *A.I.M.: Artificial Intelligence Machine as an
+answer* but that's not it. I kind of also have the scary thought of
+that is was some Russian tech demo for a game that was sent with some
+game journal or a really obscure game. Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

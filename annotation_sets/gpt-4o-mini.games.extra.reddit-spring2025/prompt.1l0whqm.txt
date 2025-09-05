@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2015-2019] Old anime style game that has multiple mini
+games in it as well. Looking for a game I have no clue release date or
+name Used to play it on a site called y8 games premises was the mc was
+like some future playboy legend or something then a girl from the
+future tries to stop him. He knocks her out then brings her home but
+when she wakes up she has no memories. Can't remember more I know it
+has like fighting aspects and a car mini game when u want to bring
+girls on a date plus there is money management. Hope this isn't taken
+down really itching to know what that game I used to play was"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s] Violent physics based fighting/brawler game
+with medieval fantasy setting.. Platform(s): PC only I thik. Estimated
+year of release: late 90s Graphics/art style: early 3D graphics. Dark
+fantasy aesthetics. Physics based melee combat system, kind of like
+Exanima or Half Sword except the tech wasn't there yet. You could
+control how the character moved their weapons rather than playing
+preetermined animations. Thre was a dismerment system, a character
+could be dismembered and keep fighting, you could even pick up your
+severed leg and bludgeon your rival to death while jumping on one
+foot. I believe the voice acting was suitably over the top. There was
+a sort of campaign mode where you are let loose on a large level to
+kill a bunch of mobs, but there was also a VS mode in which you could
+control any of the characters, including tiny goblins. One of the
+levels had a lava river, and I seem to remember you had to go down it
+with a raft."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

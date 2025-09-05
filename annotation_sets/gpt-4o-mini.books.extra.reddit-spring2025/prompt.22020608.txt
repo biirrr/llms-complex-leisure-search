@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young Adult Realistic Fiction w/ 5-6 teens discussing issues
+teens face and their experiences with it including (tw) Self-Harm,
+eating disorders, etc. [s]. TW: This is a big paperback book like the
+size of a yearbook, the cover MAY be yellow and black, and I read it
+around 2011-2015. From what I can remember, this is not your normal
+fiction book with these issues woven into the plot, but a written
+dialogue of a group of 5-6 teenagers discussing issues all young
+people face. Each chapter would have the teenagers discuss a topic
+such as eating disorders or self-harm. One of the teens would always
+have a personal relationship with the issue. In the eating disorder
+chapter, a girl mentions that when she heard her mom and sister
+complain about their bodies, she thought ""Wow, I must be a whale.""
+In the SH section, another girl talks about people staring at her
+scars. Those are the only topics I can remember specifically. Thank
+you for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

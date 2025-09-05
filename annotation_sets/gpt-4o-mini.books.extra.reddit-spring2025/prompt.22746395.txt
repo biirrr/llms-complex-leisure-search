@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy. Guy goes into cellar, finds a door to a new
+world. [s]. All I remember: A guy is at home and hears something from
+the cellar. He goes downstairs to investigate, and there is a door or
+portal. On the other side, he is on a ""planet"" or world that is like
+a pillar with several ""discs"", each of them forming a ""flat earth""
+of sorts. The one he is on is grasslands, and he meets a native.
+Together, they travel to the center, because you can seemingly go up
+and down. I remember that he turns out to be one member of a species
+that controls different worlds and that he ""forgot"" about it. I
+don't remember much else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

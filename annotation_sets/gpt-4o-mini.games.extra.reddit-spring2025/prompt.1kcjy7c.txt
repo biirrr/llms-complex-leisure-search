@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GameCube] [2007] Anime Fighting Game. I played it roughly
+2006-07 It was a fighting game. You could do random fighters or pick
+one and fight through everyone. My favorite character had long orange
+hair, and she wore a really pretty royal blue dress that was really
+short. There was a girl with purple hair who had a bunch of purple
+outfits. A father and daughter duo. Dad was huge with blonde hair and
+the girl was blonde and wore a red, white, and blue bikini top and
+they both had cowboy hats. If you won a level, you saw a cut scene of
+that character and I'm Not sure if they all represented something or
+not. One girl swam with mermaids and was obviously topless, a good
+looking guy put on a leather jacket with not shirt on, and got beaten
+as a kid for trying to take a roll. Some girl runs around her house
+making an omelet, and another girl is on the subway or bus, and a guy
+accidentally bumps into her inappropriately and she beats him. Not
+sure if this is the write sub, so sorry if it's not! Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

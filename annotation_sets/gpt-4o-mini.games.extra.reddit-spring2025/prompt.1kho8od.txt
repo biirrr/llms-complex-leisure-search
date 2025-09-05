@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2D arcade Bomberman style] [around 2003-2006] [bird
+view] [Bomberman like game]. Hi, so this game was a multiplayer (one
+pc one keyboard, more people) but also single player. I remember
+several location, forest where u blast off barrels I think, desert
+with red spiders where u blast off cactuses and then it was this metal
+laboratory like location, with a lots of spiders. Some spiders even
+had more lives, like they got smaller with blasts and then died. I
+remember in the forest level one of the last monsters of that level
+was a cloud. I think there was also a ghost in that level somewhere, I
+remember with the cloud level there was a cottage on the top right.
+The cloud was hovering in this big open space, was hard to kill cause
+you had to trap it cause it could """"""""sense"""""""" the bomb trail
+and always tried to escape. You were collecting perks under the items
+u blasted off. I remember fires that would increase range, also bomb
+on a skateboard u could send down the line. Ability to lay multiple
+bombs. A red huge bomb that did a huge blast. It was not Bomberman for
+sure. Anyone knows? Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

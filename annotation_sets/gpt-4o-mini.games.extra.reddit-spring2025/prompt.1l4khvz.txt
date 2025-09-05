@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - Windows][Early 2000s] Point and click
+horror/supernatural game with text parser. **Platform(s):** PC -
+Windows 95/98 or 2000, no later than XP **Genre:** Horror/Supernatural
+**Estimated year of release:** Early 2000s-ish **Graphics/art style:**
+Pretty standard point-and-click backdrops, but they were pretty and
+somewhat haunting, as fits the genre. More realistic style than
+animation. **Notable characters:** Nothing really sticks out, see
+Other Details below for why. No player model was on screen. **Notable
+gameplay mechanics:** Point-and-click style, may have been hidden
+object, but I doubt it. Text parser. I specifically remember you had
+to find the names of a number (13???) of runes and then type them in
+at some kind of portal to win the game. The portal was accessible from
+the start of the game, but you couldn't end the game until you had all
+the rune names. When you entered each rune name at the portal, there
+were whispers that repeated it. **Other details:** My sister played
+this and I did not. I was too much of a wuss at the time and avoided
+anything that was remotely associated with horror, but I've been been
+on an abandonware kick lately, and cannot for the life of me remember
+more than the ending that I watched her complete. We may have gotten
+the game for free or low cost from somewhere. A cereal box or Frye's
+or something. It was not a mainstream game by any stretch of the
+imagination. It was definitely on a CD, not a DVD. *Things it is
+definitely not:* * Rune Classic * Amber: Journeys Beyond * Myst *
+Nancy Drew Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

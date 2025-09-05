@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's picture book about censorship. I recently read a
+children's book about censorship. I cannot recall the title. The
+author might be Avi, but I am not certain about that. It is a short
+chapter book. I don't think there were any pictures in the book. I
+can't even remember the plot of the book, but it starts out toward the
+beginning of the book blacking out a few words on the page. Censorship
+gets more and more heavy and by the last page of the book almost all
+of the words are blacked out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

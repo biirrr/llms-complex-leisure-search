@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015-2018] Help me find an old game i used to play. Hi
+everyone i would love to get your help for an old game i used to play
+it was between 2015 and 2018. it was a chibi game with a city as a
+base with quests and all. it had guils, gears ,a leveling up systeme
+etc.. we usually used to go to expeditions to dungeons and there were
+monsters such as skeletons and slimes that drop materials and a final
+boss. i think it had traps too. the closest thing to the game was
+dungeon hero and lost saga but its not it. Also it was just on PC and
+free to play If anyone knows the game plsssss"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

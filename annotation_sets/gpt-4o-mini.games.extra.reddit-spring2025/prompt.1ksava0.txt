@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2025?] Text-based RPG where you play as the computer.
+Platform(s): PC Genre: RPG Estimated year of release: 2025, I guess
+Graphics/art style: Text-based Notable characters: Inn keeper, a
+single goblin Notable game-play mechanics: You play as the computer
+responding to the protagonists actions. Other details: This was a game
+demo recently featured on Steam during Next Fest. It was a text-based
+RPG where you play as the PC responding to the actions of the hero.
+The demo adventure was a quick story about travelling to a wizard's
+tower and fighting a goblin. At the beginning, however, the character
+goes to an Inn and harasses the merchant there. You can allow the hero
+to eat all the garbage in the shop and choose a can of beans as his
+weapon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

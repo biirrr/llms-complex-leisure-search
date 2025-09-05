@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/XBOX360][early-mid 00's] Robot game with a campaign
+and PvP mode. Game I played as a kid on the XBOX360 but might have
+been from the original XBOX. I feel like I remember the title being
+one word or two words joined into one but I could be wrong. There's a
+campaign but I never played it much because I couldn't get past the
+first few levels, so ended up just playing the PvP with a friend when
+I was young. You play as robots but not mech suits or anything. I
+remember two PvP maps, one that was mostly flat outside in a walled
+off base of sorts, and there were vehicles you could use. Had more of
+a yellowish colour palette. The other map was more vertical and had a
+distinct inside and out - think it might've been set in a canyon
+because I remember orange rock walls. The inside was metallic and
+there was this one tall, big round room. Pretty sure there were
+powerups in the PvP mode like a saw gun and a chain gun? Otherwise
+can't remember too much other than it being split screen."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

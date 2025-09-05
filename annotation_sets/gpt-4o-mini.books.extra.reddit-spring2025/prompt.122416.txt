@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Quote question! [s]. Can anyone help me? I am trying to find
+out in which book by Paul Valéry ""To see is to forget the name of the
+thing one sees"" is? Everyone quotes it, but no one cites where they
+got it! Please, if anyone can help, I'd really appreciate it. Thankyou
+Justy"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

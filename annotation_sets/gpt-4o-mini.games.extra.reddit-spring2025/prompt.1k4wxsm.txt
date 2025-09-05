@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2015-2019] A game where you were a constantly
+rotating octogan shaped spaceship, having to survive rounds of enemies
+to earn currency in the end.. You were an octagon shaped spaceship
+floating in space, constantly rotating with your weapons constantly
+firing, while waves of enemy spaceships rushed at you, and if they hit
+you once, you are dead. There were many different weapons in the game,
+some being a futuristic pistol, a burst rifle, a rocket, and a sword.
+The first boss you fight is a very large spaceship, and he also has a
+sword, and I remember wanting to fight him blade on blade because it
+sounded cool to me. You can move by dragging across the screen, and
+once you die, you earn currency to go and spend in the ship where you
+can buy new weapons (maybe different colors for the ship?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox/ps?] [unknown]does anyone remember this game?. i
+remember playing this game on the 360/ xbox one when i was younger but
+cant remember its name, i only remember that in the game theres a
+mission where your fighting in a plane during the blitz and there was
+a training bit in the snow where you could throw grenades. those are
+the only two things i can remember about this. does anyone know its
+name?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

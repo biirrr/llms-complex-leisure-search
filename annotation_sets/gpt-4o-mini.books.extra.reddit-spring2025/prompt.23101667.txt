@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's/ Young Adult book. Cover: two sisters with dark
+brown hair wearing black, one is skipping/ walking, other is sitting
+with chin in hands. Set in New York City? Read in 1990s.. I only
+remember the cover of this book, which I read in the 1990s. Two girls
+with dark brown hair (sisters) were on the cover. One of them was
+skipping around walking around while the other was sitting down
+looking up with her chin in her hands. Both girls were wearing black.
+The story, I believe, was set in NYC."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

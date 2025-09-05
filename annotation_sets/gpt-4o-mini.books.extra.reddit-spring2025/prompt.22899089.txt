@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy about a girl Alexandria who is a warrior goddess
+sworn to protect earth from a demon gate.. So I read a book about five
+years ago about a girl name Alexandria and I remember this very well
+because there was a running joke with her and her friend about it.
+Named after some god or something. She runs a shop with her sisters
+and she’s waiting to turn eighteen so she can get her memory of her
+past lives back like her sisters. And she’s not supposed to die
+because if she dies, they lost their power to protect the gate that
+every so often leaks demons. And then she realizes that this friend
+that she has now is part of why the demons are coming out more and
+more and seeking her out and they fall in love with each other. At
+some point the three sisters have to enter the portal to demon land.
+What is the name of this book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

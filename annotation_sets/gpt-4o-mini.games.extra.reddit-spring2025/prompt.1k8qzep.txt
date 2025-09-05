@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005 (potentially earlier] Eastern Themed top down
+MMORPG. Hello, randomly found this subreddit, so i figured i could ask
+if anybody has an idea on what this game is, played it maybe 2005 or
+so for just one session to test it, and it was not for me, but from
+time to time i tried to find it again. I remember the maps being
+decently big, and it having diablo 2 kinda graphics, maybe slightly
+better, and one key part i remember is that the players in this game
+jumped like crazy, almost as much as i could see on the screen was the
+jump width of them, not sure if you trained that over time or it was
+some skill you got later, i remember visiting one area where many
+players tried to sell stuff, almost like it was in ragnarok online
+with merchants, sadly that is really all i remember, maybe somebody
+has an idea on what game that is. thank you in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

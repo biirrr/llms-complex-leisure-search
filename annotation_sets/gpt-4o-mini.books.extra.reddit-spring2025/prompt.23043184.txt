@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Time Travel book from the 1970's. Spoilers.. Read it when
+I was 9 or 10. It was a brand new hardback in the children's section
+of my library. Years are from 1974 - 1978. The title was WINDOWS
+THROUGH TIME, PORTALS IN TIME, or something along those lines. The
+plot concerned a young boy who discovers time portals in/near his
+house. Some plot points I remember: - The boy visiting a volcanic
+world with people riding prehistoric beasts. - Him meeting a
+mysterious but friendly stranger in one timeline, who reveals that he
+is his future self. The boy doesn't believe him. Until the stranger
+tells him that he got the scar on his face from falling off the roof
+of his house when he was a child. - Him traveling to a further
+dystopian future where he's chased by these man-sized ferret-like
+creatures. To avoid them he climbs the base of this crumbling, ancient
+towering statue. He notices the giant statue's feet and even though
+they're fractured/degraded, he sees that they are sneakers. He looks
+up and sees that it's a giant statue of himself. The book had B&W
+illustrations. The cover was blue and showed the boy falling and
+surrounded by several portals."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

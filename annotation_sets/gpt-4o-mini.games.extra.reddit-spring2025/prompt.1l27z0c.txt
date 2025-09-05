@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3 or Nintendo GBA?] [Fantasy RPG][1990s-2010s?][Pixel].
+So I'm helping my friend find a game she played on PS3 but it's
+possible it was on a Nintendo console. She says that the main
+character had green/blue hair, could use magic, and was renamable. You
+could also travel around and recruit new members one of which was a
+heavy armored unit. It was turn based like final fantasy is and had
+similar Pixel art. I've tried fire emblem games and some look close
+but still isn't quite right to here. She doesn't remember much else. I
+know it's not much to go off of but she'd really appreciate any ideas.
+Thank you so much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

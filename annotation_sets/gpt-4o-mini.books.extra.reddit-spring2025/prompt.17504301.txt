@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "The female lead is shipwrecked and finds a merman in a
+cave.... So i'm looking for this adult romance book (NOT young adult
+or new adult, i distinctly remember this) about this woman who goes on
+a cruise ship, the ship sinks, and she ends up in this cave with a
+merman who's been imprisoned there for a long time by some evil
+witch/goddess or something. I remember i lot about the plot, i just
+can't seem to find it again or the book's name/author. Anyone know
+it????"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Apple?][1980s?]Looking for a really old game. FOUND IT!!!
+Thank you so much for your help everyone, Constellation Odyssey. This
+was way back in the late 80's, at a stretch early 90's. These games
+were on a color computer. No flash or animation or barely, mostly
+text. It had Oregon Trail, Number Munchers, and quite a few others on
+large floppy disk drives. It was trying to get the constellations back
+in the sky. You'd travel around a small town or city and find them and
+help them get back to their original location in the night sky."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

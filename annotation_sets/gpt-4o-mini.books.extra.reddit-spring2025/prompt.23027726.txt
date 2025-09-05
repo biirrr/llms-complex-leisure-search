@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED adult/mother of a child given up for adoption finds
+out her fiance is the son she gave up. More info: During the
+industrial period, a young girl went to a city to work in the
+factories to support her parents and siblings. She gave birth to an
+illegitimate boy child. Her aunt told her it was a girl and gave the
+child up for adoption. Later on in life, the mother of the adopted
+child attempted to commit suicide after being told by her aunt that
+her fiancé was indeed her son."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

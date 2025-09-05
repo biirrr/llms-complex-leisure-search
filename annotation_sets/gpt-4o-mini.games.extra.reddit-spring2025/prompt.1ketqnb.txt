@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2008-10] A turn based Jrpg where the protagonist get
+kanjis on their faces and transform into weird creatures in combat.
+Hello, i've been recomended here to ask about a game that i don't know
+the name. The game started with a big ball of pinkish energy with a
+cat in the middle of it, it gave a group of people kanjis on their
+faces and they were in a group sent to investigate/ repel monsters
+that the marks caused. The first three were the guy from the poster, a
+girl with pink tratis, and a guy with red traits. They investigate to
+search for a guy who was trembling and found monsters, suddenly their
+marks starts glowing with their eyes and transform into weird
+creatures. All i remember was the guy fom the poster and the girl who
+atacks with a wip, when they defeat the enemies, she starts crying and
+move on Then a boss fight, with the guy who was trembling, he turns
+into a big chicken-like monster I can't remember anything else Thanks
+in advance :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

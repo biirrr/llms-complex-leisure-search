@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] A game about controlling ghosts. I've been
+thinking about this game for YEARS and to this day the name escapes
+me. Basically, from what I remember, your role in the game was to
+assign various kinds of ghosts to a location for a haunting, and your
+goal was to drive all the living humans either insane or away from the
+building. When you opened the game(?)or started a new save, you would
+hear a voice ask """"""""Is someone there?"""""""" And you would enter
+your save file's name on an oujia like screen. I remember the hospital
+level had a Pooka, (old mythological faerie creature spirit), and
+there was a level that was an homage to Evil Dead, with a Necronomicon
+like book and an evil eldritch entity locked away in the basement that
+your goal was to set free. I've been remembering playing this game
+when I was a young kid/preteen, and I spent HOURS playing it, and at
+this point I just want to know if i somehow imagined all of this or
+this Game really did exist and I am terrible at looking things up.
+EDIT: SOLVED! GHOST MASTER! THANK YOU! what a dumb name no wonder I
+didn't remember it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

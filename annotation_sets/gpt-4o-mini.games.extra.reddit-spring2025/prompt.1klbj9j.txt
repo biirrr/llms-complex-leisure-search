@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Win3.1][1990s] Point and Click adventure game,
+psychadelic-esque. Apologies for not being able to provide more
+information. My father was given an old PC back in the late 1990s, and
+this game was on it. I remember it feeling like, what I would now
+call, and acid trip. The only definitive thing I can remember in the
+game is being on a dark street, and you click either a manhole cover
+or a sewer grate, and you go down into the sewer. In the sewer there
+is a house kind of like the Bearenstain Bears tree house, but if it
+was designed to be on a black-light poster. The only other things I
+can remember is a deep sense of foreboding, and feeling really uneasy
+playing the game. Any help would be appreciated, I've been trying to
+remember this game for 20+ years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

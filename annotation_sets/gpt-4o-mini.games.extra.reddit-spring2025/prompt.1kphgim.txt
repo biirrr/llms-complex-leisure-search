@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2010's] computer virus game.. I played a game years
+ago on steam when it had a free weekend. I've lost track of it and
+can't remember the name. You are an anti virus and you live inside a
+computer. A virus has entered the computer in the form of a worm and
+you have to defeat it. You are a floating yellow drone with guns in
+different colors. You play in 1st person and have 3 dimensional
+movement as well as rotation. Can anyone help me find it? I was in my
+teens and didn't have a job and so no money to pay for games. The free
+weekend was my only chance and now I'd like to play it again. Thank
+you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

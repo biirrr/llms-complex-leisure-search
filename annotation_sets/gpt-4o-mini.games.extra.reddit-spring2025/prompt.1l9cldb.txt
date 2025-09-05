@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/XBOX/PS][After 2015] A Puzzle/Thinking Game Set in a
+Mansion. Platform(s):Not 100% sure, but I think either PC or Console
+Genre: Puzzle, Thinking Estimated year of release: Maybe 2018; fairly
+recent, Id assume Graphics/art style: Realistic-ish Other details:
+Its a puzzle game I watched someone play parts of on YT a year or two
+ago. I think you play as a detective, or someone whose good at solving
+problems. Youre sent to a mansion (I think its haunted), your first
+puzzle is to figure out how to get inside the gate; I think theres a
+shed on the left side. Only other thing I remember in detail is early
+on you have to do a puzzle in a hedge maze, but the further you get
+into it the screen is shattered and distorts how you see the maze. I
+think you have to get to the center for something. I also remember the
+entrance has a receptionist area, and I think you steat a key or
+something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

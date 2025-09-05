@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000's]Hey everybody, Looking for a game.. There was a
+game when i was very young, It was very pirate-like with Bejewled
+mechanics it had a very 'realism' (For an early 2000's game) look to
+it and featured pirate cannon battles I'm pretty sure. It was a direct
+download game from a disk or something I believe. I only remember it
+very vaguely. It had a series of levels you progressed, it felt very
+very oldschool. SOrry for such vagueties."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

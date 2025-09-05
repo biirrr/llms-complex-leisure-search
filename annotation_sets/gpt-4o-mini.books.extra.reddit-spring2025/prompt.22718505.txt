@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Medieval Romance involving a tournament, male lead
+kidnapping the female lead as revenge/ collateral. Read around 2015..
+I read this book around 2015, All i can remember is that the book
+started with a tournament where a knight (Mmc) kidnaps a lady with
+violet/purple eyes during the tournament because of a wrong her father
+supposedly did him which was a lie.. He took her to his castle and
+during the journey their attraction grew and they fell in love, on
+arrival he realized his uncle has been the villian and lied to him,
+when the lady's father arrived he formed an alliance with him and
+helped him defeat his uncle after which he married the lady. I think
+the mmc is a france knight or roman."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

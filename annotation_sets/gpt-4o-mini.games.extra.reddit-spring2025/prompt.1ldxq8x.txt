@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010s] FPS non-military game with muscular male MC
+helping female. Platform(s): PC Genre: First person shooting Estimated
+year of release: 2000-2010 not older than 2012 edit: I was wrong, its
+2014 Graphics/art style: Bright tone, not realistic , somehow like
+Unreal Tournament, the setting is in city/urban theme Notable
+characters: We play as a male MC helping female npc who may be our
+sidekick or chick, cant remembered clearly Notable gameplay
+mechanics: Shooting but non-military. MC has to go through area and
+find the boss. enemies are mostly human Other details: MC carries big
+gun (shotgun maybe)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

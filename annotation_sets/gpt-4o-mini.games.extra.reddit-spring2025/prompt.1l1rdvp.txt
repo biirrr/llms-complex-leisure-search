@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][Early 2000's] Online text-based MMORG in
+alternative Rome. Hi all, I am trying to remember a game I played a
+long time ago, it was browser based MMORG game set in alternative
+ancient Rome, they used different names for the city and surrounding
+areas but everything else was ancient Rome in all but name. Later they
+had some graphical elements you could click to create input. I
+remember being killed by rats in the sewers :) I think I had a pointed
+stick or something like that as a weapon with a beginner character. I
+think the company had a few other similar games set in different
+worlds."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

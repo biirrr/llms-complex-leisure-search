@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 20s] Old Flash horror/ puzzle game with gross
+aesthetic. Genre : Possibly horror with puzzle Style :Point and Click
+with find objects around the map with some puzzles Aesthetic : It had
+a really gross aesthetic, like 2D hand drawn with maggots and
+exagerates faces, a bit gore (not realistic but more drawing style)
+Characters : I barely remember most characters but there was a full
+head that the main character *Us* used a battery, it had a guy who was
+stabbed. In the game where this character watching TV of something
+then it breaks with a hand coming out (I think) and we just go
+outside, the game is a gross aethestic but still memorable, we have
+around a map to explore and find objects to complete stuff around,
+some npcs, a guy heads that was used as a battery, there was a huge
+insect guy. Please help me find this game, I remember playing it some
+years ago after finding it somehow but lost the name once more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

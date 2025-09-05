@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance series. Heroine is best friends
+with hero’s younger twin brothers. She falls out of a tree. Hero is
+thought of as boring. [s]. Historical romance first book in the series
+Hero has a large family and heroine live near or next door and is best
+friends with his twin brothers (they get up to lots of fun and
+mischief) hero doesn’t get involved, think he’s loved her for a long
+time from afar. I’m sure at one point in the book heroine fall out of
+a tree and hero finds her Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][PRE 2010] 2D platformer featuring a skull headed
+protagonist who eliminates enemies. **Platform(s):** PC **Genre:**
+Platformer **Estimated year of release:** Pre-2010 **Graphics/art
+style:** 2D, colorful, cartoon-style game **Notable characters:** Main
+character whose head is a skull (as far as i remember) **Notable
+gameplay mechanics:** You could buy different weapons, explore various
+locations and shops. The game featured Molotov cocktails, Uzi guns,
+and allowed you to climb out of manholes and shoot enemies. **Other
+details:** The game was for Windows and had to be installed. I have no
+idea where I got it from. We played it as kids around 2005 or 2006
+Important note. Whenever I search for this game, I always get
+suggestions for **Skull Kid**, but I'm certain it's not that one. Some
+other titles that came up were **Splatterhouse**, **Vigil: Blood
+Bitterness**, **Dead Head Fred**, and **Shank**, but none of them
+match what I'm looking for."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

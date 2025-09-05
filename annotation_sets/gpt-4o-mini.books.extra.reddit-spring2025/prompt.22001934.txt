@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction Self-Actualization/Realization Workbook.
+[s]. Looking for title of Self-realization maybe pre 2002 fill-in-the-
+blanks book that takes you on a journey, with a guide, through a
+castle (your life). At the beginning of the journey there’s a big
+party where everyone you’ve ever known in your life attends. At the
+end of the party you choose 10 people to meet you along the way in one
+room or another. The reflection of joy, sadness, pain, grief,
+surprise, and self are touched on with the group of 10 and one-on-one.
+Once you’ve made it all the way through the castle and have made
+discoveries about yourself that will help you to the next adventure,
+the guide assures you that your are now able to take your next step
+with confidence, courage, and love."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

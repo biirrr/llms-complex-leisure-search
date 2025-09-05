@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy series about a girl who was very talented with
+maps. I believe it was set in the 1800’s but it had magical elements
+in it. Read 2015-2018.. I remember there were three books in the
+series. No particular romance is sticking out to me, but there
+could’ve been something. The cover was white and it had a map in the
+center with a bunch of objects around it. I think there was a compass
+that she used often, but I remember her mostly using the maps. She may
+have found a lost relative (her dad?). I remember it started off sad
+and then got happy. Ugh, it stinks that I can’t remember more, but I
+LOVED these books and ate them up as they were released."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

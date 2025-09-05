@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Consoles][~2015] Cancelled Dragon's Dogma like game. I
+remember there was a presentation of a tech demo of the game with
+outstanding graphics, some knight with a shield was hiding in some
+crypt from a dragon like creature whom breathed fire. And the fire
+looked nearly real. And I remember this game was cancelled or
+abandoned later. It was called """"""""something Dawn"""""""", but not
+100%. It was from Sony or Sega or other big publisher. And I remember
+people compared it to Dragon's Dogma."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult novel about an Arab or Arabs. Title: ""The [Good]
+Arab""? Perhaps philosophical and political. Published 1999 or
+earlier. [s]. I'm looking for the name of a book that was written in
+1999 or sometime before. A friend gave it to me. It was a small
+paperback, but not necessarily thin. I think it was a novel, but all I
+remember is I think that the title was ""The Arab"". I thought it was
+called ""The Good Arab."" If it helps, my friend was from Israel,
+living in the U.S. and the book was in English, though possibly a
+translation or an original. Thanks. Sorry I don't know more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

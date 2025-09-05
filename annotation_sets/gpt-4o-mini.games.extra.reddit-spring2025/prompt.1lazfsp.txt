@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/PS4/PS5] [2022-2025] What's the title of this game with
+a few characters in a car in the start?. Hey guys, what's this game
+released previously, it has i think 4-5 characters riding in a car.
+it's like telltale game mechanics but the art style is cell shaded.
+like mixtape but older characters the main character is a female
+african american. i think the characters have power, but not sure
+tho."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

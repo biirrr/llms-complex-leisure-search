@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Old consoles?] [Not sure] 2d fighting game with robots. I
+remember playing this game on """"""""psp"""""""" (it was just some
+rip off with thousands of games) and it was my second most played game
+on that """"""""console"""""""" (first one was advance wars, name of
+which i found) Explanation: Its a fighting game with 2d and pixel
+graphics, i would say that graphics are better than in advance wars. I
+remember that main menu where you choose gamemodes and difficulty (i
+dont think my english was good back then), was blue and everything
+from menu to choosing difficulty was folders. I remember only 2
+robots, but not too good. One is green and brown and other one is blue
+robot with red (or blue i dont remember) sword"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

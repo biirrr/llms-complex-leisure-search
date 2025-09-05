@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "UK Teenage girl who loves photography whose mum is dying
+from an illness. Dark aqua cover with black camera sketch on the
+cover. Read 2020-2023.. HEYY SO i am trying to find a book that i read
+a long time ago (2020-2023). it has a blue/green cover with a black
+sketch of a camera on the front, with black writing. it is set in the
+UK. and its always raining. the main character is a young teenage girl
+who loves photography. her mum is dying of some sickness and
+eventually gets placed into some sort of care facility and the girl
+has to cope with her mothers death with seeing the word through her
+camera. some random parts i remember: - she walks to school everyday
+with her best friend and once she starts missing lots of school
+because of her grieving her mum's loss, the friend stops waiting for
+her outside her house every morning. the friend replaces her wirh
+another girl. (i feel like she maybe wasnt allowed to tell people her
+mum was sick for some reason?) - when her dad takes her to the care
+facility her mum is staying at, the girl gets mixed messages and
+thinks that she is out of the hospital because she is getting better,
+but actually she is going to this new place because she is about to
+die. - the dad is super kind and caring, and loves his wife a lot. - i
+think she has a younger sister? THANK UUUU XOXOOXOXOX"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

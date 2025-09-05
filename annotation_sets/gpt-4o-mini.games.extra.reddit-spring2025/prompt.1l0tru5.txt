@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[BROWSER/FLASH][2010] HEALTHY EATING KIDS RACING GAME. When
+I was a kid, my favourite game to play was this random mini game which
+involved picking a food to play as (either unhealthy or healthy),
+which then race against each other. If you pick the healthy food,
+youll win, and the unhealthy snack will burnout before the finish
+line. The game itself was ridiculously simple but its the animation
+and specifically the voice lines I remember vividly - theres even
+videos of me from 2010 acting out the characters voice lines! They all
+had a little catchphrase like Im banana - choose me! Ill make sure
+I get all the obstacles out of your way! and I used to find the
+voices hilarious. I'm from the UK, and my parents used to only really
+let me on the BBC sites (CBeebies and CBBC) so I'd assumed it was one
+of them, but an extensive trawling of those sites from around the time
+on the Wayback Machine has come up short so far. Would love any
+help/suggestions - would be amazing to reconnect with an old memory!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

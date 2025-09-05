@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller/ Mystery. Woman's sister is in a coma,
+furniture/ antique replica business blows up. Read in past few years.
+Spoilers ahead.. Hello, I'm trying to remember the name of a thriller
+I read a few years ago. The book features a woman who's father's
+furniture/antique business blows up. I believe one of the workers was
+killed in explosion. The narrator's sister is in a coma, and the
+narrator doesn't trust the father. I think there was also a homeless
+man character who lived in an empty trailer near business. (I hope I'm
+not adding a plot point that doesn't really exist) **SPOILER**
+******************************************* The father turns out to be
+her uncle. The employee who was killed had sold an antique desk for
+multiple million but secretly replaced the desk with a replica,
+because that's what he did at the company."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

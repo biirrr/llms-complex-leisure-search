@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010 or Earlier] Old Point and Click Adventure/Mystery
+Game. I don't have many details that i can remember unfortunately. I
+remember the main character was a boy/teenager who worked for a
+photographer in a studio and he was an aspiring photographer himself.
+The game starts out investigating the photo studio, upstairs, in the
+basement and then out in the back. If I'm remembering correctly, i
+believe at one point he ends up at a hospital to investigate there
+(not as a patient) and i believe he also ends up at an old diner. I
+believe one of his parents may also have been dead, maybe the dad and
+maybe by suicide and he finds out about it in the game. I can't
+remember what year i played this game, but i'm going to say it was
+definitely 2010 or before, so the game would be at least that old. It
+might even be super old, like, from the 90's, i can't remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

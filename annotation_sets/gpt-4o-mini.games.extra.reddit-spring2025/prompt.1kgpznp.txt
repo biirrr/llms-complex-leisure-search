@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Y8][ unknown]Game about a spider similar to
+incredipede. Im looking for an old game I used to play on Y8 many
+years ago. It was similar to Incredipede and featured a monster that
+resembled a spider searching for its offspring (or eggs). The gameplay
+was minimalist: you could move its legs using the mouse, and it could
+also shoot webs. The game was 2D and had a grayish color palette."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

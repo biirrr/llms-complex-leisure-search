@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids' book, written before 1970, probably a picture book,
+features a blue car named Gabriel, no memory of specific plot details.
+Hi! This is going to be very much a longshot. My brother was born in
+1966 and he remembers (he thinks) that he had a book- likely a picture
+book- when he was very young- 1970 or before- that featured a blue car
+named Gabriel. He named the family car (this was well before I was
+born and he doesn't remember the exact type of car- but it was some
+kind of late 1950s or early 1960s Chevy with tailfins) after this book
+character. He doesn't remember if the car was anthropomorphic or if it
+belonged to someone in the book- though I told him to take a guess and
+he says probably it was anthropomorphic. He doesn't remember any other
+characters or any plot points. I know this is likely going to be super
+hard to track down, but thanks for any help anyone can give!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

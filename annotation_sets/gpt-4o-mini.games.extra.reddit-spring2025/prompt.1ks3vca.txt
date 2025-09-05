@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010 -/+ 2 years] Helicopter Shooter - top down view..
+Hi all I'm trying to remember the name of a top down helicopter
+shooter game, it was from a relatively small studio if memory serves
+me correctly. I'd say it was around 2010, either a few years before or
+after this year. I think they did a few games in the line-up. Does it
+ring any bells? Thanks in advance =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

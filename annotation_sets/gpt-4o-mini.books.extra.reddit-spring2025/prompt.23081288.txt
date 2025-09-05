@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction. Black man kills a woman in a panic
+and is accused of rape and murder.. historical fiction (i assume), saw
+this yesterday but it seemed a bit old. Plot said it was about a black
+man who was falsely accused for rape and murder but had killed a white
+woman in a panic. (The cover was white and green, maybe a bit black in
+the outlines of the art?)I think it was a man in a simple somewhat
+cubism art style. I had originally picked it up because the authors
+name seemed like ive heard it commonly but i can’t put my finger on
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020s] Ball game with power ups. I did not play the
+game so I dont remember much. I think I saw it briefly in a video or
+stream a while ago. The balls had a face and the graphics looked late
+90s to early 2000s but I believe the game is a recent release. I know
+it had power up items that did different things. I remember both the
+power ups and scoring being described as similar to Balatro."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

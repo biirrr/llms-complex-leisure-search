@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2017-2019] A game about a girl who gets lost and yellow
+balls ?. hi there! please help me to find a game that i saw a long
+time ago on YouTube, i can't remember the channel. The protagonist was
+a girl traveling by train. She entered another dimension by accident.
+There was a hotel where there were these yellow cute but creepy
+perverted balls that wanted to take advantage of the little girl. You
+had to complete tasks. The yellow balls looked similar to simsimi. The
+game had a pixel art style. It also looked kinda similar to yomawari
+night alone, with all that dark vibe. thx!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

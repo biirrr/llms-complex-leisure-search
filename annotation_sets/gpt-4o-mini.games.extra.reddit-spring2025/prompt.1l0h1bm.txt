@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Mobile] [Roblox] [2017-2021]. Everyone was a noob but
+floppy and round instead of blocky. It was a round system where every
+round you could vote on a map and gamemode, some gamemodes were
+juggernuat and gun games. It reminded me of human fall flat but i cant
+figure out what this game was for the life of me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

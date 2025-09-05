@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Romance - Main character is a woman
+befriending another woman at other woman’s yoga class that she teaches
+but is actually stalking her because she used to be with her husband.
+Spoiler.. Book is set in Connecticut type town. Where a rich couple
+move to and wife befriends yoga teacher after attending her classes.
+Pretends she doesn’t know who she is but the teacher is actually her
+husbands ex. I think in the beginning the wife is given just the
+initial S. In the end it turns out that the yoga teacher woman has a
+daughter and it turns out it’s not her husbands but actually her ex’s.
+Involves them attending the local country club and potentially the
+stalker woman having trouble with having a baby?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Humour/Travel/Biography. Young man
+unexpectedly ends up on a coach trip with a group of senior citizens,
+ends up loving it and writing about his experiences.. This is an adult
+non-fiction book with a focus on humour, travel, and biography. A
+young man goes through a break up (the break up part might not be
+correct, but that’s how I remember it) and so books himself a little
+holiday. When he arrives at the transport, he realises he’s booked
+himself onto a senior citizen coach trip and he’s youngest person in
+the group by a country mile. He then makes friends with all of the
+older people on the coach, and the book is largely about the
+friendships he makes, the lives and antics of the people on the bus,
+and the trips they all take together (as he travels with them more
+than once in the end). It’s a recent book, published probably between
+2018 and 2020."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

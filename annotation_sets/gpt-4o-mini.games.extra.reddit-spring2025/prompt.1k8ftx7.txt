@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1998-2005] Point and click game including an owl.. I
+honestly don't remember much about the game sadly, just a scene with
+an owl in a tree. My sibling remembers the game too but not much more,
+other than you apparently needed to collect bars of some description.
+Played the game loads when I was a child but really at a loss for
+trying to remember more. From what I remember it takes place in a
+garden and the owl is in the tree on one of the bottom screens. Thanks
+in advance if anyone can help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

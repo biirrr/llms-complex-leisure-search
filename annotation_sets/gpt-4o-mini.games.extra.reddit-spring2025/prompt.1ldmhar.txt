@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018] Shooting game on the internet.. Not an fps, but a
+landscape 2d PVE game where your mouse controls the direction you
+shoot in. There are 5 classes of heroes in the military, I can only
+remember Juggernaut being the shotgun and Mercenary being the machine
+gun. I remember there being multiple installments (I think 4 or 5 at
+the time of 2018???)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

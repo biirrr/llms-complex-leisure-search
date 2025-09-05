@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction 19th c. ebook Sisters Moving to the Country. [s].
+It was about the time when I was reading a lot of books like ""Ten
+Acres Enough"", ""Three Acres and Liberty"", ""Cottage Economy"", and
+first person city-people-move-to-the-country-and-figure-out-how-life-
+works narratives about gardening, animal husbandry, and homesteading.
+(1860-1910'ish) I read it online back between 2006-2009, and it might
+have possibly been posted to the Hathi Trust Digital Library, or
+Project Gutenberg, or SoilandHealth, or Google Books, or Archive.org,
+or somewhere like that. But when I hunt around in those archives, I'm
+not able to find what I'm looking for. It's a nonfiction,
+autobiographical this-is-how-we-did-it sort of narrative. The book
+starts off with a pair of sisters (?) from the city who are shopping
+for their future homestead. Their agent brings them past a number of
+old, falling-down farmsteads, but have difficulty finding anything in
+their price range that's close enough to the train station for
+convenience and isn't a decrepit wreck. Eventually, they find a place
+that's shabby, but has promise, and they're able to buy it and get it
+fixed up. Stuff happens in the middle, I think. Probably involves
+things like chickens and gardens and things. The next part that I
+remember is their adventures in trying to make butter. (I think it was
+towards the middle-end.) They have no clue how to make butter. Some
+days, the butter forms quickly, in minutes; other days, they can churn
+the butter for an hour and not have any progress. They realize there's
+a correspondence between temperature and butter-formation, and armed
+with this new knowledge, butter-making/dairying proves to be a
+successful business enterprise for them. Does anyone else read these
+sorts of books? I was hoping someone would go, ""Oh, yeah! The one
+about the sisters. That's ------."" :) TIA!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

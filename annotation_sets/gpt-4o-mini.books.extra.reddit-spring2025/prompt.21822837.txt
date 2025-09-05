@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction. Woman meets ex-con while volunteering (at a
+restaurant?) in Ontario, Canada. They date and have a relationship.
+Ontario author. Read around 2016. [s]. I read this book around 2016.
+Woman meets ex con volunteering at perhaps a restaurant and embarks on
+a relationship. Non fiction book. Ontario author, her name is possibly
+Sue."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

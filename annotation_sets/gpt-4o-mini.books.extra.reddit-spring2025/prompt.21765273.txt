@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Intellectuals from different fields
+receive the same cryptic, mysterious book wrapped in newspaper by
+post/mail. Read around 2010. Spoiler ahead. [s]. I read this book
+around 10 years ago (2010ish). The narrator receives mysterious post
+of a kind of hand bound cryptic book wrapped in newspaper. He then
+discovers that other people have received the same book. I think they
+are all intellectuals from all different fields?? So they feel like
+they’ve been presented with a mystery to solve. I think the conclusion
+is that the book is in fact nonsense and there is no mystery. For some
+reason I have it in my head that it is magical realism, but I might be
+mixing it up. My mum remembers it too and says it is definitely a book
+and not a short story. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

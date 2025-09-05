@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][Unknown] Violent Game in a factory?. Platform(s):
+No Clue, probably on both consoles and PC Genre: Violent. Rated M most
+likely. Horror? Shooter? Estimated year of release: Sometime between
+2005-2019. I remember seeing a video years ago. Graphics/art style:
+Hard to say...clip of the game was an older game, so the graphics are
+probably not the best. It wasn't some sort of Ps2 graphics. More like
+PS3, where they're not bad but have aged with time. I think it was
+dark and gritty. Notable characters: Unknown Notable gameplay
+mechanics: It was some sort of cutscene that I saw. I believe it was
+the beginning of the game Other details: I don't know much about the
+game, since I've only seen small clips. I'll try to do my best to
+explain what I remember. You were looking through the characters eyes
+in first person, and it was in some sort of factory. The character was
+trapped in some sort of machine kind of like the gmod
+""""""""Pod"""""""" vehicle. It was moving around the factory, and
+machines were doing all sorts of violent modifications/changes to him.
+I think at the end some sort of team of gunners saved him, after being
+completely changed by the machines."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

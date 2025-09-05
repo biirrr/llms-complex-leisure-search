@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][google playstore][around 2012] Green question mark
+riddle game. I remember playing it on my android phone as a kid. The
+logo was a green question mark something like this. I'm pretty sure it
+was called something like """"""""riddle that"""""""" but no matter
+how hard i try to google it nothing ever pops out. The riddles were
+usually trick questions and many people did tutorials/guides on
+youtube. Later on the game released another app (Riddle that 2 and 3 i
+think) which had the same logo but in different colors (i think purple
+and yellow) I remember one of the riddles being something with cards
+where you had to put the right symbol combination in order. Another
+riddle was a clock with letters where you had to read time. The
+solution was mercedes although not sure but i know for a fact it was a
+car brand."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

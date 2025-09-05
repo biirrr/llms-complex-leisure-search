@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Guide to starting your own band (for young people). [s].
+This book was for teens and tweens, although there was a frank warning
+against getting romantically involved with a bandmate. For the
+introduction, there was a poem by Alice Cooper (I think). There was
+also advice on topics to write songs about, and the author kept
+pretending he or she couldn't remember the name of the Beatles."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

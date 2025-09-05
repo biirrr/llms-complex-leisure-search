@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Unknown] A cat hotel game. A game I used to love
+dearly. I used to reinstall it, but now I completely lost it. It's a
+game where you basically run a cat hotel. You can buy beds to have
+more space for cats (8 in total if I remember right). The game is 3D,
+realistic style and the view is from an angle upwards (so you can view
+things). The core mechanics of the game were that someone would come
+to drop their cat off into your care. A small little file/a paper
+would pop up on the screen telling you the owner's name, the cat's
+name and breed, and why they are there. Some cats required treatment,
+others just had a basic requirement. Example: """"""""Owner: Name
+name. Cat: Grey tabby, Rodger. Hello, could you please take care of
+Rodger for 2 days for me? I'm going on a trip. Rodger has been
+lethargic lately, would you mind playing with him to exercise?""""""""
+something like that. Basic requirements for cats included them being
+lethargic and you had to play with them, them needing to eat more, be
+groomed etc. Pretty much, you had to fulfill all their basic
+requirements, but there was always one that you had to pay special
+attention to. I remember in a newer update it was added that you could
+clean around the place too. I loved that game, could anyone find it
+please? :&lt;"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

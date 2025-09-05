@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid-2000s?]Fantasy RTS with floating buildings.
+**Platform(s):** PC **Genre:** RTS **Estimated year of release:** I
+don't know what year it actually came out, only that I played sometime
+in the late 00's. **Graphics/art style:** Bright colors **Notable
+gameplay mechanics:** Fantasy RTS featuring base building. The one big
+thing I remember is the buildings you would build would float in a
+pit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

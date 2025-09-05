@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2010] insect kids game. I remember playing a game
+on PC when I was a kid, somewhere between 2005 and 2010. In the game
+you were not playing a character, you could look around different
+places in a forrest and click on things to inspect them, sometimes
+things would happen or move. There was like a village with different
+insects, snails, other bugs. There were some activities or puzzles you
+could do inside the game, I remember there was one where you had to
+mix different colours of paint to get the right colour for a picture.
+There was also one area where you could see a boar run through the
+forest, which I always wanted to follow but you couldn't."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

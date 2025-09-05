@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[browser] [~2015-ish] A 2d medieval strategy flash game,
+where you can train your warriors, there is an advanced mode with more
+stats, the currency is crystals, most things are purple, and there are
+regular contests / tournaments. Like halfway through the game story I
+recall you can choose between the Lancealot or the Black Knight, or
+something like that. There are unit classes, like rogue, knight, mage,
+etc. I'm pretty sure the rogue teleports behind other units. You can
+have 6 units, iirc?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010][Repost] Object finding game where you begin
+by collecting eggs in the start. So I don't remember much but all i
+remember is that in the beginning you have to collect a number of eggs
+in a backyard type then in the house, the game was 2d as far as i can
+recall, it was also like a story type game so like there was also
+native americans in the end or smthn, and a train part too, i don't
+remember much but i think the main character's name's initial was A,
+please help me find this game my late brother and i used to play this
+game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

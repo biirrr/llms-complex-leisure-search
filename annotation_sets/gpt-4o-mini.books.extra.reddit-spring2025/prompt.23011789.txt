@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fiction. Boy makes billions whilst hospitalized
+when his parents sell the game he was making. Read 2007-2009.. I read
+the book in between September 2007 - July 2009 in a UK primary school.
+It was a fictional story following a young boy who was in hospital for
+a long time due to his health. I think he enjoyed making video games
+and his parents got one of his games published whilst he was
+hospitalized and it mades billions of dollars. The story follows the
+boy and how he spent his money like buying his best friend the bicycle
+he wanted causing his friend to become mad with him for buying
+everything they want. The main character boy always liked the look of
+a Roll's Royce Silver Ghost and eventually bought one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

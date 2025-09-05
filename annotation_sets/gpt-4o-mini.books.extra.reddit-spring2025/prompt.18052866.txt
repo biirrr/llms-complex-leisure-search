@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mystery. One of the last lines - ""I'm not her""? Young
+woman shows up claiming to be rich, elderly woman's granddaughter.
+Read around 2001. Spoiler ahead. [s]. Mystery, read maybe 15 years
+ago, written ?? My best recollections: A young woman shows up claiming
+to be a rich, elderly woman's granddaughter. Detective(?) suspects
+she's an imposter. Ending is ambiguous; she is found dying in a boat
+on a lake (suicide), and her last words are ""I'm not her."" Does she
+mean I'm not the granddaughter, or I'm not the imposter you suspect me
+to be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

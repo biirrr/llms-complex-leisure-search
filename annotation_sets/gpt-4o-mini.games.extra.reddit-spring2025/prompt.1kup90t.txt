@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Sci-Fi - Space Tunnel FPS - Kill enemy alien by
+shooting green dots on its body as it approached. Trying to find old
+90s pc game set in space. Started in spaceship until you got to a
+tunnel. Tunnel had various enemies including a very large 4-legged
+alien that almost filled the tunnel - youd have to shoot the green
+dots on its body as they appeared, as it approached you to kill it.
+Also had an arachnid that scuttled along the tunnel floor and would
+climb up your face if you didnt kill it. Not sure it was any good but
+I remember playing as a child about 20-25 years ago and would like to
+try and find it. Any thoughts?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

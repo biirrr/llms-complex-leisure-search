@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, author attempts to live in the woods (in
+England?) to recreate the experience of being a neanderthal or early
+sapiens. This should be easy! But somehow I can’t find it! I know I
+read this in the last few years 2020-2022. This book was making all
+the rounds in sciencey-anthropology podcast circles. Quite poetic in
+places. Ends with him defending his weird plan in a university dinner
+setting. It’s pretty clear he was invited to be the resident idiot and
+his host was annoyed when he didn’t quite play the part. It’s about
+trying to learn to see the world in the way our ancestors saw it. With
+the scarcity of food, and relationship to nature. edit: Being a Human
+by Charles Foster !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

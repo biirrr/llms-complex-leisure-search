@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult non-fiction. Comedic Memoirs of two girls traveling
+Europe in the 1920s, written in probably the 1950s? [s]. I read this
+book several years ago in a small library I've since moved away from.
+It was a hilarious book about two American girls in the 1920s Jazz Age
+who traveled Europe, specifically I think they were in France, (at one
+point they accidentally end up in a brothel after mistaking it for a
+hotel) and they generally get into trouble. I know it was written by a
+woman and it was filed in the nonfiction/biography section of the
+library although it read sort of like a novel."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

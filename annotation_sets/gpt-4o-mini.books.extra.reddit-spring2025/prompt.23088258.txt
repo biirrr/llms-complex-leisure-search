@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction. Friends go on holiday and one is almost left
+for dead.. A couple years ago I read a book about a group of four
+friends who went to one of the friends family villa on an island. Two
+males and two females. One female is jealous of the other since school
+age. One has a mum at home who is poorly and struggles with having
+left her. There is a boating accident and possibly two people die and
+one friend is injured. The remaining group debate leaving her for dead
+but a group member takes the car from the drive way to try to save
+them but there’s no petrol. I can’t remember much more but I’m
+desperate to read it again and fill in the blanks…only I can’t
+remember what it’s called! If anyone can help I’d really appreciate
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

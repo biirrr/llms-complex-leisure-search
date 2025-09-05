@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GB][GBC] 1990's-2000's Cowboy shooting Robot. If you guys
+can find this game, I would be amazed. I'm looking for the name of a
+Gameboy game I played when I was a child, sometime around 2004 in the
+6th grade. I had a gameboy color, so it may have been a GBC game, but
+due to the graphics, I believe it may have been early gameboy Even for
+the time, the graphics were dated, and looked like an old Atari game.
+What I recall of it, was that I was playing as a cowboy-esque
+character, and had to run around a maze fighting robots. The cartridge
+art had a man in a cowboy hat (I was a kid, it could have been a
+fedora for all I know) shooting a robot. It was from a Zelda-esque
+perspective, top-down/semi isometric. Reminds me a lot of 1980's
+""""""""Atari Adventure"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

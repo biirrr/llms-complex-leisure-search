@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED YA book with a gold cover, different group
+representatives fighting to avoid being removed from Earth.. People
+who have been chosen by to destiny fight for the continued existence
+of their ethnic group. This is organized by some supernatural beings
+with obscure planet names. During the fight, two representatives, a
+boy and a girl fall in love. The boy has gems imbedded in his teeth.
+He is from a Latin American group. The girl is from (I think) US
+group. California maybe?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

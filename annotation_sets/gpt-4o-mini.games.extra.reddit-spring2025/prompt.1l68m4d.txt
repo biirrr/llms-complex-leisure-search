@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Point-and-click murder mystery?. Platform: PC
+Genre: point-and-click, mystery, adventure, horror? Estimated year of
+release: mid 2000s Graphics/art style: kind of like a visual novel,
+realistic, but there's also pixel art in the mini-games Notable
+characters: the protagonist is a teenage girl and a notable character
+is her female best friend who invites her to go out, there is mention
+of an unknown man who is most likely a murderer Notable gameplay
+mechanics: choosing dialogue as if it's a visual novel, choices exist,
+when the girl calls you out you usually say some variant of """"""""I
+want to stay at home"""""""", you can explore the area by clicking on
+points of interest such as the microwave to make popcorn or the door
+to open it. Mini-game in the form of movement by tile to escape before
+someone catches you. Other details: I didn't get very far in this
+game, I think it was literally just the first chapter. The best friend
+invites the girl out and says she met a really cute guy, protagonist
+rejects and stays at home. Later she goes out into the woods and finds
+her friend died from stab wounds. The police arrive, there's flashing
+blue lights on the screen and you enter a sort of mini-game where you
+have to evade the police since they think you did it. The mini-game is
+based on a chess-like display where you can move one tile and the
+police follows, you have to avoid obstacles to get out. Pixel art is
+prevalent here. I feel like the title of the game may have been
+""""""""fatal"""""""" something, which is why I've always confused it
+for """"""""fatal frame"""""""". Edit: after digging a bit more using
+the """"""""fatal"""""""" as a keyword I have actually found it! It's
+Fatal Hearts. Will mark as solved accordingly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][unknown] fly a plane between worlds. Platform(s):
+phone Genre: camera from above 2d Estimated year of release: i dont
+now Graphics/art style:: like in the game rider from google play
+Notable characters: I don't remember but there were definitely some
+Notable gameplay mechanics: you play as an airplane whose shape is a
+triangle - the middle of one of the edges of the triangle is close to
+the center of the triangle, your task is to travel around the worlds
+and complete levels thereby passing the plot of the game. In the
+levels themselves (they are timed, the faster you complete the level
+the better, the first and fastest lap will be broadcast on the screen
+with the current lap as in the game bike race from Wildlife Studios)
+you need to slide the bottom of the airplane against the walls, this
+gives acceleration, press on the left side of the screen - the
+airplane turns counterclockwise, press on the right side of the screen
+- the airplane turns clockwise, this gives acceleration, and if you
+hold 2 fingers on the screen, the airplane will fly in a straight
+line. The entire game is accompanied by good sound. I forgot about
+more than half of the game. Other details: good music in game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

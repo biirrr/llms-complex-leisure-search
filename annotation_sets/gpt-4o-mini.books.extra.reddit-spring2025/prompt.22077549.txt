@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mondo-style large format photo book about death in all its
+gory/horrific forms. [s]. I read the book in the late 80s. I think it
+was published late 70s/early 80s. Adult in nature, It was a full
+colour large-format hardback photo book about death (that is, death of
+humans), in all its gory/horrific forms. I THOUGHT it was called 'Book
+of Death' or something very similar but am struggling to find it.
+Subjects covered: war, disease, suicide, and included quite shocking
+photos alongside what I can remember being straight reportage. Overall
+reminded me of mondo horror film 'Faces of Death'. Any help finding
+this would be much appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

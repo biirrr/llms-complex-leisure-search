@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc?][2000s] FPS similar to counter strike. So I was trying
+to think about how I got my gamer tag from originally. Started with a
+FPS similar to counter strike. I thought it was called 'Chase' but I
+guess it's something different since I can't find it. Similarly to CS
+you'd start with basic weapons, then as you got kills you could buy
+better weapons for the next round. I thought I remember kind of a
+desert looking cover on the box (Alien planet like mars or something
+though). It was online multi-player. I don't remember if there was a
+campaign or not. Most vivid memory was a map that was underground
+tunnel, with pipes along one side and a catwalk on the other with
+concrete barriers that you could dip in and out of for cover.
+(crouching was a thing.) Was a common choke point I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Computer] [2000-2015] A game about a truck and you have
+to drive through different levels with obstacles. Platform(s):
+PC/Computer Genre: truck platformer? 3d puzzle? Estimated year of
+release: 2000-2014 Graphics/art style: smooth 4k not super pixels
+Notable characters: none Notable gameplay mechanics: simple driving
+physics and animation. The truck has physics as does the environment.
+Other details: very wooden style. Super old. A YouTuber who played it
+had a trunk horn in their intro"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

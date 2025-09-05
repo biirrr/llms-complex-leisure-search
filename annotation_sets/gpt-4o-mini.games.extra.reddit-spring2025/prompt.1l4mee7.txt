@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][1990-1998] Mech game with melee. Platform(s): Genre:
+turn-based squad tactics mech battle Estimated year of release:
+1990-1998 Graphics/art style: isometric 2D sprites on hex or grid map,
+of either urban or military installation type landscapes, with 3D
+animations of some actions, like melee, weapons fire,.. the graphics
+were pretty drab, color-wise. Notable characters: Notable gameplay
+mechanics: you could outfit your mechs with weapons, like sniper
+rifles, or machine guns, and in particular, one had a fist weapon that
+would pile-drive a big spike into the enemy when it punched. this
+scene was animated close-up in 3D Other details: the mechs were kind
+of bulky and blocky, or rounded. not sleek and pointy. Its not front
+mission, though it was similar. slightly better graphics. thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

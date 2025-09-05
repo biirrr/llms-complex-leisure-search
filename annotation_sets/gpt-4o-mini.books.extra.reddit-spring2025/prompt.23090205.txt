@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Thriller book about 2 teens who meet on
+vacation and plot to kill his cousin.. Hi everyone, here are the
+details I'm able to remember: The girl and guy meet in a library while
+on vacation and they plot to kill his cousin by pushing him into the
+ocean, they keep in touch into adulthood but keep only meeting in
+libraries and she tries to convince him to murder her husband. I think
+his name is Richard or Richie? Not too sure on that one. I read it
+sometime last year and I can't seem to find it in my 2024 read books"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

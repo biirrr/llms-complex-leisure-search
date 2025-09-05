@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] WW2 FPS game where you played as a double-agent
+and kill Hitler by blowing him up inside of a zeppelin. I did not play
+this game myself, but I remember watching a youtube video of it back
+in the late 2000s-early 2010s. The graphics were very much of those of
+FPS games from the early 2000s such as Return to Castle Wolfenstein
+and the early Medal of Honor games. All I can remember is a scene from
+the end of the game where the player traps Hitler inside of a blimp
+and then dives out after activating a bomb, blowing up the blimp in a
+cutscene while the player parachutes to safety. I have tried many
+times to look for said scene on Youtube again over the recent years,
+but I cannot find it at all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

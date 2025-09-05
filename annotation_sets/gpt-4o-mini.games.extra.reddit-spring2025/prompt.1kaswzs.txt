@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Platformer] [2000's] G-man(?). Platform(s): PC Genre:
+platformer Estimated year of release: 2000's... maybe 2001? maybe
+sooner? Graphics/art style: metroid-y, see the 'other details' Notable
+characters: the main character was made of a bunch of blobs,
+everything was green Notable gameplay mechanics: the blobs were used
+somehow, and I think there was a gravity component although that might
+just have been how he was kept together. Other details: **It was on a
+pack with a bunch of games**one of which was definitely a version of
+""""""""Jazz Jackrabbit"""""""", there was a pinball(?) game and
+another game where you had to travel around a fantasy world in an rpg
+where you'd have increidbly difficult turn-based fights adnd you'd get
+poisoned and die."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

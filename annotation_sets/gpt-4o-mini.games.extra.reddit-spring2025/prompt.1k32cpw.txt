@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Possibly SNES][1995] Alien VS Predator VS Marines Base /
+building game.. Platform(s): Possibly early SNES. Genre: Gathering /
+Super basic Age of Empire engine. Estimated year of release: mid 90's
+Graphics/art style: Top view, graphics resemble Star Wars Galactic
+Battle Grounds. Notable characters: Aliens, Predator, Colonial Marines
+Notable gameplay mechanics: You could make a predalien. Other details:
+It was a resource collecting game. Kind of like Star Wars Galactic
+Battle Grounds. You could play as any of the 3 groups. If you played
+as Alien and dragged a Predator back to base, you could grow a
+predalien."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

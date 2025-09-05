@@ -1,0 +1,44 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[web/flash game][late 2000's] 2d platformer, your village
+bullies you and pushes you down a deep hole, you try to get back up.
+Multiple endings.. Platform: some game aggregator website like
+armorgames or addictinggames. Genre: 2d platformer, basic arrow
+controls, maybe some sort of attack mechanic as well. Estimated year
+of release: 2000's, most likely in the later 2000's. Graphics/art
+style: pixel, most of the game happens underground, so I think it was
+generally darker. The beginning tutorial area was maybe mountainous?
+Notable characters: I think you play as a dwarf (or maybe just a
+human?), and your village consists of a bunch of people that tell you
+how useless/weak you are during the tutorial phase, before they send
+you down the hole. At the bottom of the hole, there is an unknown
+entity that speaks to you, and promises to help you get back up. They
+turn out to be some sort of evil presence. Notable gameplay mechanics:
+you're stuck in some underground cave. The unknown entity tells you to
+collect something (like shards or orbs) for them and they promise to
+get you back to your village. As you go about collecting these things,
+you can also collect various power ups (maybe a weapon as well?),
+including one that improves your jumping ability (important for one of
+the endings). If you collect all of the shard-things for the entity,
+it helps you climb back out of the hole (maybe by growing a vine that
+you climb?), and then, when you get back up, you see that the the
+shards you collected have freed the now openly evil entity, which has
+unleashed hellfire on your village and slaughtered everyone, game over
+(the 1st expected ending). Another ending is possible where you
+collect the power ups without bringing any shards to the entity, and
+then you are able to make your way, especially using improved jumps up
+one side of the map to get back to the village without them dying.
+There may have been other sort of """"""""in-between"""""""" endings
+as well. Other details: I feel like the way that you collected the
+shards for the evil entity was by solving puzzles on how to kill
+creatures in different rooms within the cave system? So maybe the
+shards were souls?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

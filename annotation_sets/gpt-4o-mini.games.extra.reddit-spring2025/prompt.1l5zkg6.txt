@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID TABLET][Unknown][2000s] Doctor in a lab with
+glasses, hes fighting zombies but its from afar, only a play store
+game. So im trying to find this 2000s game i used to play on my
+samsung tablet, and Ill describe as much as i can. Its a male doctor
+narrator and its a zombie cartoon game but instead of zombies coming
+towards him, he shoots at them from a distance in the desert and hes
+at the top of the lab, the game starter looks like a typewriting font,
+and theres a page flipping sound before you start the game. but in
+order to have a perfect shot you must match your shot with the wind
+otherwise itll go right past them, i think to win you need to get a
+headshot. A notable character was the doctor, he had white glasses, a
+white coat, it would show the animation of him checking folders i
+think. Thats all i know"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

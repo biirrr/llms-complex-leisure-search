@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-fi with hero with leash. Title similar to
+Resurgence. [s]. Hi all, I am trying to recollect a book (most likely
+a series). Hope someone can help me with the title. Following are the
+things I can remember, I read audiobooks: - Book is psuedo sci-fi. -
+It has a main character - who can bond himself with a leash. - It has
+a lot of royal houses that compete with each other for superpower
+beings - These superpowers are contained in an orb/box - It has a
+'Great mother' character who has the power of telekinetics and
+possibly has a clone - Hero goes to multiple universes to reach a
+level where he can match the power of 'Great Mother' - The main hero
+acquires a dog and their bonding is superb - In the climax of the
+book/series - the hero gets the power and he and his team break into
+one of the rival royal house's castle. This is all I can remember,
+please excuse my English - as it is not my first language. Let me know
+if you can help me, finding the correct book/series Thank you in
+advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

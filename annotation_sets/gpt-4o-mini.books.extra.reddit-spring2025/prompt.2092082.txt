@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "British Travel Guide and Maps of Medieval Sites. I am a
+librarian, and I am helping a patron search for a book. He saw it at
+an estate sale, looked at it, put it down, went back for it, and it
+was gone. Here is the information he's given me: According to the
+patron, the book is ""intended to help people wishing to find and
+visit medieval and later historical locations in the UK."" He also
+said, ""The book contains, in addition to descriptions of the sites,
+set in the text, color prints of UK Ordinance Survey Map sections that
+cover the area surrounding the site. There are also diagrammatic maps
+and site plans for each site."" Do not have title, author's name, or
+publisher. Thinks it's published by a UK company. Might be a hardback.
+Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

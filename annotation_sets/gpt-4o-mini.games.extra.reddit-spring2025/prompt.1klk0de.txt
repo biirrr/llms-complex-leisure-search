@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000?] Game about demons/zombies in small town. Okay I
+have just a few memories of this but been trying to find the name for
+years. It's a PC game that has static backgrounds with 3D characters;
+think it's early 2000s. You play a male character who starts outside a
+school. Don't think you have weapons to start with. When you leave
+your car or something at the start you can walk to the school doors
+and zombie/demons will come up out of the ground and attack you but
+you can just enter the hall. They are very toughunkillable at that
+stage? You can enter the school/hall where I think there is one
+military guy in the court after a long hallway. I do remember that
+there was a small town you could go to the outskirts of, but it's
+blocked by local police with cars flashing and guns drawn. if you
+approach, the chief says something about eyes, and they shoot you. Not
+sure if it's because you're infected after being hit outside hall. I
+also remember that there is a couple sitting on a porch of a small
+house and they ask you to get shotgun shells in the town. And maybe
+something about their son and a magazine? Long time ago in my head but
+maybe the main character is like a somewhat fat balding man. You die
+after very few hits."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

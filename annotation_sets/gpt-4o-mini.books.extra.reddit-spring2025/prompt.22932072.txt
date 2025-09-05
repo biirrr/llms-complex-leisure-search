@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Black teenage brother & sister witches.. I read
+an advanced copy of the first book and I’m guessing there’s a second
+one out now but I cannot remember either the title or the author. It’s
+brother and sister ten/young adult witches in New Orleans. They are
+black. They are from an old family that used to rule Orleans, but
+they’ve gotten usurped by another family based on something that isn’t
+true. The brother is gay. He winds up, reviving his lover after he has
+died and the results are not good. There’s a river boat, theater
+people and lots of nefarious things going on. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

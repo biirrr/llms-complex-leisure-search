@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction about a girl art thief. Possibly released around
+2000-2010. Spoiler.. The story might’ve taken place in Paris (or at
+least some parts of it). In the beginning the main character is
+enrolled to a school but is quickly kicked out because she broke the
+rules. At the end of the book the girl steals a painting from a museum
+with her friends, using parts of a wheelchair as a tool. The cover
+text was written in pink."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

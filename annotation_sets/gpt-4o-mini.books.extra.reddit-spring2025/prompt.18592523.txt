@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book About Woman Who Got Raped/Tortured/Almost Murdered and
+Survived [s]. So...I'm looking for a book, but I don't know who the
+author is. I know it's called I Choose Life, and it's an autobiography
+or something. The basic premise is that the main character (who is
+also the writer) was kidnapped as a child — molested, tortured, and
+almost murdered. Afterwards, one of her main problems was with people
+trying to make this trauma her permanent identity instead of
+acknowledging that it was one horrible incident that happened to her,
+and is now over. I know there are several books called I Choose Life,
+but the ones listed here don't come close to being like what I
+described here, and I don't know who the author is. Would someone like
+to help me find this book, please? Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

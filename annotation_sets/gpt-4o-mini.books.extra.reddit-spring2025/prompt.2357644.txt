@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "60s Humor Book Series (Probably Mad Libs). I read this book
+series back in the late 60s. I think they were fairly new at the time.
+On each page was a short story with blank spaces. For each of the
+blank spaces you were prompted to fill it in with something like, a
+country, a fruit, a prison, a singer, etc., then you read back the
+story with the suggestions entered. I think they were intended for use
+in groups or a party situation. One of my teachers occasionally read
+one in class for us. The books were softbound. Rather narrow for their
+height, and may have been bound at the top, like a tablet."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2007-2011] Isometric co-op game on a Mars-like planet,
+yellow-suit soldier fighting robots and aliens. Can someone help me
+find a game I played between 2007 and 2011 on PC? The images I
+included are only for reference  the game looked similar, but the
+environment was outdoors, like a Mars-like planet. You could destroy
+the terrain and get health orbs and weapons. The main character was a
+futuristic soldier in a worn-out yellow suit who landed from a
+spaceship and started fighting robots and aliens. These enemies were
+scattered in open areas or bases. When you entered a base, the view
+would switch from isometric/top-down to first-person, but only for a
+short time. The game also supported 2-player local co-op on the same
+PC. I remember the game icon being yellow  maybe a helmet or a hazard
+sign. Thats all I remember!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

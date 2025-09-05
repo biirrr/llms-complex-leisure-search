@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens book I read between 2005-2012 about little girl
+named Penny who goes away for the summer. This is a children's book I
+read as a kid. I think it was written sometime between 1950-1970. It
+has a green cover with a girl on the front (I think she was sitting on
+a train seat). If I remember right, she was a little blond girl who
+was sent to stay with someone for the summer - an aunt maybe? I
+believe she also had a puppy if that helps. I'm almost certain that
+the title of the book was Penny, but I could be wrong because I can't
+find anything anywhere by that name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

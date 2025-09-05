@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction - Indian girl trying to read during
+British colonization. Young Indian girl is set up by her family into
+an arranged marriage. She is forced to live with a family she is very
+uncomfortable with and either the mom or grandma of the husband is
+disrespectful towards her. The girl isn't allowed to go into certain
+rooms of the house or read books. She is so young that she has her
+period for the first time and the family subjects her to live in a
+shed for the week while she is on her period. I think towards the end
+of the book, the husband finds her reading and decides he has to go by
+the house culture's rules and decides to hit or yell at her (I can't
+remember) so she she's done and leaves. The whole story takes pkace
+during British colonization of India so it depicted the clashing of
+two cultures, and some struggles of imperialism."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] [Cooking game]. SOLVED: Cooking Academy Hello!
+I am looking for a game I used to play from Yahoo Games in the late
+2000's. It was pretty ASMR-ish and cozy. The chef was a lady with
+short dark red hair with a chef bonnet on her head. The mechanics were
+similar to Cooking Mama, there were no voice commands. The music was
+also pretty calming. Iirc the cooking table was a light wood, I
+remember lots of brown shades. I remember being able to download it,
+but I am not 100% sure, so it might also be a flash browser game. Any
+chance someone remembers it? :-:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][PRE-2014] burger making game (probably flash based).
+the customers would ask for various combinations of burgers and we had
+to prepare (combine) them in time or they would become sad/mad. I
+think the cook was a woman. THe game had multiple levels and locations
+where we would go to after a series of levels. Complexity and new food
+items would be added as levels prgressed. There migh have been food
+items apart from burger. The art style was cute and clean I suppose.
+not as messy as today's online burger games. Maybe like western
+animated ghibli. THe order combinations would pop us as a thoughbubble
+over the customer heads EDIT: OMG GUYS I FOUND IT. ITS BURGER
+RESTAURANT. WHOAAA ITS LOVELY!!. THANK YOU SO MUCH"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

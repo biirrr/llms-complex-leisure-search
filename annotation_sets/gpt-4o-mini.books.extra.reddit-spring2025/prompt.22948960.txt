@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult modern vampire romance maybe in the 80's or 90's. book
+from a vampire series the details of the book are when the evil
+vampires turn someone they come back crazy and need to be put down for
+everyones safety at the start the main female gets turned that way but
+the vampire who killed the bad guys decides to try to save her the
+main guy in the story was the first vampire and also a demigod son of
+Nyx the goddess of darkness but no one knows this but him at one point
+in the story Apollo kidnaps the girl and traps her outside just before
+daybreak and when the mc goes to save her he cant get the chains off
+so has to shield her with her body from the sun while Apollo taunts
+him and while the sun cant kill him since he is a demigod he is hurt
+Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

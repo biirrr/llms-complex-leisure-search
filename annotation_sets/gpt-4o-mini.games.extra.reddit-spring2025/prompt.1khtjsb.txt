@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Quote from unknown game. Hi, I was playing
+BG3 and an NPC said a random line before a fight which was
+""""""""THIS IS GOING TO HURT"""""""" and it gave me a weird feeling
+and reminded me of a game I played before. Sorry if this is a weird
+question or against the rules, I tried googling this quote but can't
+find anything. Platform(s): PC, maybe other platforms also Genre:
+Unsure sorry but it was a very dark game about killing people I think
+(I know that could be literally anything) maybe something like Postal
+or Undertale genocide route, I'm unsure about whether it was text
+based or a 3D/2D game. Estimated year of release: unknown but maybe
+early 2000s *Graphics/art style: unknown Notable characters: unknown
+Notable gameplay mechanics: unknown sorry I know this isn't much to go
+on, sorry, all I remember is near the end of the game there was a long
+paragraph before gameplay kinda of like Postal's loading screens and
+right at the bottom in red writing it says """"""""This is going to
+hurt"""""""". It could be Postal but postal was just edgy whereas I
+think this game was actually really dark and disturbing. Thanks in
+advance, I'm sorry I barely have anything to go off of apart from that
+one line."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

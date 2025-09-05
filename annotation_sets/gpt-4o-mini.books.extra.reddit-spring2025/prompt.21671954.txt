@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography by Ellie ___, Holocaust survivor during
+1940's. Read in ninth grade. [s]. Lo, I moved your request to the
+""Unsolved"" folder because you're looking for one specific book.
+That's a good start. You must copy the genre (e.g., adult biography)
+and plot details from your message #1 to the topic header/title, so
+someone could recognize your book from that description alone. Many
+members only read the headers. We have thousands of book requests. We
+close threads with vague headers. Click the small ""edit"" link after
+the topic header. This only works on the full Desktop website - not
+the Mobile website or app. (On the Mobile website, there's a ""Desktop
+version"" link at the bottom of the page.) - Around what year did you
+read this book? A range of years is fine."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

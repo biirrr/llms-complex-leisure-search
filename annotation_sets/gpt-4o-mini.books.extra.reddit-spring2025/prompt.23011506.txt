@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult British Thriller: Woman goes missing and her
+colleagues are acting suspicious. Read summer 2024, and would say
+fairly modern, after 2000. British, believe maybe based in London?
+Switches character perspective and has time jumps. A woman has gone
+missing and her colleagues are very upset and wondering where she has
+disappeared too. Changes perspective of the colleagues and you learn a
+little about their lives leading to wonder which if any are involved
+for example a man keeps getting mass texts while at work, lady from HR
+knowing too much about people’s lives, a woman hates her colleague and
+believes she’s faking her life. They all go to the pub to try and bond
+in their grief. The HR lady also arranges work team bonding
+activities. The time jumps are to a young girl who is blamed for the
+things her sister does and is bullied by her. I think it may be called
+something like girl/woman missing or woman/girl missing which gives a
+lot of google results. Will add spoilers below. (view spoiler) [ the
+young girl kills her family by house fire and steals her twins
+identity, she goes to live with her aunt who she eventually pushes off
+a hill on a hike. She sees the lookalike of her sister at work and
+abducts her. She also sees a woman on her run and kidnaps her too. She
+is organising a birthday party for them to celebrate in her delusion.
+They work together to escape. The team bonding activity at work ends
+up being rock climbing and a man falls after his ropes are tampered
+with. A woman runs away after she is accused and then followed by her
+colleague. The 2 women escape and the person who did it sets fire to
+her house. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

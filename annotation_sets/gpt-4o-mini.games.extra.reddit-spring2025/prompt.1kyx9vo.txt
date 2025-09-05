@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][???] 3D platformer where player as a monkey collects
+food on various islands.. The gameplay: player needs to explore big
+levels to find all the collectibles (these are just floating items on
+fixed positions), while avoiding hostile animals. I can't say this for
+sure, but I believe this game had no lives or game overs of any sorts,
+so being hit meant loss of some collected food, which needed to be
+found again on pre-determined spots. You could jump and swim (without
+diving). The camera is placed above controlled character, a bit under
+angle. I can properly recall only two levels from the game: jungle,
+where you needed to collect bananas. And arctic region, where you
+needed to collect fish. But I think overall the game had 5-6 levels."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

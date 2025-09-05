@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2013-2017?] Game where you had multiple types of
+bombs to destroy a scenario. In this game you had multiple types of
+bombs to destroy a 2d scenario. You had a launcher at the bottom where
+you strategically launched the bombs and had better scores based on
+the percentage of the scenario you where able to destroy. I remember
+there was a green bomb that stick to things and a yellow round bomb
+that turned into smaller bombs after the explosion. You destroyed
+various scenarios like an image of fruit, etc. The launcher was kind
+of angry birds style where you could control direction and power."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

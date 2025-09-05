@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash Game][2010's]Combat Zombie in office building.
+Platform(s):PC Flash Genre:Action Estimated year of release:Maybe
+2010's Graphics/art style:Art? Notable characters:A man with blond
+hair covering his eyes and wearing headphones Notable gameplay
+mechanics:Fight zombies with your bare hands. Swipe the mouse to punch
+and drag to kick. You can also blow zombies away and knock them off
+buildings. Other details:Fight zombies with your bare hands. Swipe the
+mouse to punch and drag to kick. You can also blow zombies away and
+knock them off buildings.There was gore, but it was a little on the
+soft side. No organs coming out, but there was some blood flying."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

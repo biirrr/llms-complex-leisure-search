@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX SERIES X/S] [2020s] Unknown FPS with Voxel Graphics. I
+visited my cousin last weekend and her 12 year old son was playing
+some sort of shooter with voxel graphics on his Xbox. Looked like
+Minecraft but more detailed with smaller individual cubes. In the
+scene he was holding what looked like a Thompson SMG in a tropical
+setting. I don't think it was a multiplayer game but I didn't catch
+much of the gameplay. When I briefly said Hi to him, I asked twice
+what the name of the game was, but he mumbled and I didn't catch it.
+Also he doesn't speak English, so maybe he didn't pronounce it right.
+Anyway, I'm curious what it could be, it looked similar to the image
+below (AI generated from memory) https://preview.redd.it/i7wb93237x2f1
+.jpg?width=1408&amp;format=pjpg&amp;auto=webp&amp;s=729a4a2f1fb9559ef1
+eb438aa02ff5d711e7ffea
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fxbox-
+series-x-s-2020s-unknown-fps-with-voxel-graphics-v0-i7wb93237x2f1.jpg%
+3Fwidth%3D1408%26format%3Dpjpg%26auto%3Dwebp%26s%3Ded8441357b1a515a43a
+8b47bb4483df8e373dffb"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

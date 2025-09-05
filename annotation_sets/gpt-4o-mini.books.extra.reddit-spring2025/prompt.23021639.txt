@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's fiction. Non-verbal main protagonist 'Nova' is
+obsessed with space. Spoiler.. I read this book between 2015-2021ish.
+I want to say it was a Newburry nominee but despite checking I did not
+find anything. The title may have been something about a Blue Moon but
+again, that did not yield any promising results. The main character
+(again whom I believe is named Nova) is obsessed with space. Her
+sister died in a fatal car accident that Nova survived. She cant
+really communicate with anyone, at least not through words but only
+the sounds she can make. (SPOLIER ALERT) Towards the end of the book
+she is in class and they are watching the challenger liftoff when it
+explodes and she freaks out and runs away from the school. If anyone
+can find this book for me I would be very great full as I have been
+looking for longer than I would like to admit. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction about ""family"" made of misfits in England.
+SOLVED: It is Half Broken Things Moderators: I cannot seem to save
+this change--I've tried 4x. The book is Half Broken Things by Morag
+Joss. I also cannot add it to a Solved folder. I'm not sure if I'm
+doing something wrong--site seems a bit glitchy today. Thank you! I
+read this in the early oughts or possibly after 2012. I thought Margot
+Livesy wrote it but I can't find it anywhere under her name. It's
+about a middle aged woman who house-sits. She's very lonely. While she
+is watching the home of a well-to-do family, she places an ad in the
+local paper stating she is seeking her son, born out of wedlock. She
+doesn't really have a son tho. A local young man sees the ad and since
+he is adopted, he thinks she might be his birth mother. then there is
+a teen girl who is pregnant (dad is not in the picture). They all move
+into the house and start ordering food and other things using the rich
+people's accounts. The young man is a thief and (I think) would-be
+actor. When money runs low, he steals some religious figurines to
+sell. As you might guess, this novel doesn't end well. Thanks very
+much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

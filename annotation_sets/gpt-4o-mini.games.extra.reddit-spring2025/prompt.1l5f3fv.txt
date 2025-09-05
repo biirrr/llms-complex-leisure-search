@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Text Based Game where the main character is
+revealed at the end to be a woman. Trying to remember the name of a PC
+text based game I played in the late 1990s / early 2000s - although
+it's possible the game itself may have been older. It was on one of
+those 1000 games on one CD that were so prevalent then. Can't recall
+much of the plot, aside from the fact it was set in the real world (so
+not a fantasy or anything). The most notable thing about the game was
+that """"""""you"""""""" (the main character) go through the game
+assuming you are male. However, right at the end, it's revealed that
+""""""""you"""""""" are in fact a woman. I recall this revelation
+comes when """"""""you"""""""" need to get a car fixed in order to
+complete the game, and have to deal with a sexist mechanic (wolf
+whistling may have been involved) . The game then goes on to describe
+what you're wearing, which I recall included a tight skirt! Anyone
+else remember this game, or the title?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

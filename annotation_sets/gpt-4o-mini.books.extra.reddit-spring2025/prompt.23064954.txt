@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Paranormal (lowkey) with two perspectives, an English boy
+and an Indian girl in high school. Read 2008-2013. Spoiler.. The book
+takes you through the perspective of an Indian girl and her childhood
+friend, an English boy, living in England (or perhaps america). The
+boy is a popular kid, well-liked by his classmates, and completely
+smitten in love with the Indian girl. I think the Indian girl is
+bullied, or marginalised? I don't quite remember the details, but
+there is some societal pressure keeping the two apart, despite them
+caring about each other. There's a background story involving a ghost,
+and SPOILERS: this plot is resolved with the discovery that the ghost
+was the Indian girl's ancestor, who was murdered. The English boy was
+introduced to the girl in the first place, because his grandfather was
+in love with the murdered girl and always regretted not being able to
+save her, or avenge her with justice? I remember right at the end of
+the book, the grandfather goes to the police to reopen the case, even
+knowing there's little chance of justice decades later. And there's an
+analogy throughout the book, of the Englishmen 'stomping' through the
+grass. uncaring of what they destroy in their path, I think referring
+to colonisation? And the boy and girl are happy at the end, I think. I
+mostly remember the line about when the boy met the girl, from his
+perspective: 'She was cradled in her father's arms, and her long
+eyelashes blinked blinked blinked at me, and I knew I'd always be
+wrapped around her little finger', or something along those lines. I
+don't remember the cover or the names at all, just that there was a
+strange supernatural undercurrent to the whole thing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2010s] a smash brothers type game. Please help me find
+an old game Me and my sister used to play this game and I thought it
+would be fun to play again but I can't find it. -it was a flash
+game(or at least from that era) -it could be local co op -it played
+kind of like smash brothers -there was a bunch of characters some that
+I can list are a fox,flameguy,robot,ninja and a whole bunch of others
+-their were weapons that you could get like bazooka,gun,your
+first,landmine -one weapon in particular you unlock after the final
+boss is a flame/blackhole hadouken. -it was a sequel Premise: You
+would complete levels unlocking maps,characters and weapons you could
+then play in a custom match where you set everything up The final
+level had you go into space and fight the flame guy Thank you for
+helping"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

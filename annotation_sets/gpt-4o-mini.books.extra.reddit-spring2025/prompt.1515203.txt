@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED A poem about a dead child with his toys awaiting him.
+my grandmother used to subscribe to a magazine called Ideals and it
+included many famous poems evoking whatever mood was appropriate for
+the month but it also had one or more semi-maudlin poems each month as
+well. The other day my brother mentioned one that I sort of semi-
+recall as well. It dealt with a child's toys all lined up and awaiting
+his return and growing dusty in their vigil. Neither my brother nor I
+can recall the name of the poem or the poet but it got me curious.
+This would have had to have been pre-1968 at the latest. Can anyone
+else recall this poem?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

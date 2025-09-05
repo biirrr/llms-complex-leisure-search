@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GBA][1990-2000] A Game where you can pick up tiles and
+shoot them at enemies (The image is drawn from memory).
+**Platform(s):** Gameboy or Gameboy Advance or famicom **Estimated
+year of release:** earlier than 2000s probably **Graphics/art style:**
+similar to my pixel art but more polished, might have ocassional anime
+style characters in menu but not in gameplay **Notable Gameplay
+Mechanics:** There are grabbable and non-grabbable tiles You have to
+grab and shoot the tiles at enemies. You die if you collide with
+enemies or tiles which are shot by enemies. You win if you defeat all
+the enemies. The enemy at the top will generate non-grabbable tiles
+and you die if you collide with that enemy. That enemy also goes over
+all kinds of tiles. This enemy only appears after the time limit is
+exceeded. **Other Details:** I played this on GBA but it was like a
+100 in 1 cartridge back in like 2004 so I don't think the original
+platform was GBA. Might be GB or even famicom there were no save files
+yet so you need to memo the codes and input them. Sorry about my
+English, not really my first language"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

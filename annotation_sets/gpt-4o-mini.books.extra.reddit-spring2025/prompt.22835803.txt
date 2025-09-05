@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Time Travel Western Romance. Heroine is a nurse who
+goes back in time and people think she is one of her great-aunts and
+the hero name is Ben. Read around 2010-2013. [s]. I read this book
+around 2010 - 2013 but I think the book was older. The heroine goes
+back in time and everybody thinks she is one of her great-aunt or
+something like that because they look the same. I think her name or
+her aunt's name was Addie or Adelaide. The hero's name was Ben and he
+worked at her father's ranch. At first he coulnd't stand her because
+her aunt (the one who's place she took) was a bitch but he falls in
+love with her seeing she has changed. I think she has to stop the
+murder of her father and Ben which her aunt and some other guy
+plotted. I don't know why, but I've always thaught Linda Howard wrote
+this book but I couldn't find it anything to confirm that. I think the
+fact that in that period I read a lot of her books made me reach that
+conclusion."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

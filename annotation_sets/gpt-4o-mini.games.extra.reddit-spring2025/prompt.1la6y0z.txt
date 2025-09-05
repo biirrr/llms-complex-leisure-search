@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Computer] [2007-2015] Horse Ranch/Riding Game. I can't
+figure out what this childhood horse computer game I used to play. I
+want to say you were on a ranch with a particular horse you rode
+(maybe able to customize). You could ride on the ranch, the town
+nearby, the forest. I believe there may have been mini games while
+exploring. I don't remember any music but I remember birds chirping (a
+hawk squawking). I believe it was in first person. Reminds me of a
+Barbie game but I don't believe it is. I remember traveling with the
+horse like mentioned above, but there was also training with jumps and
+I believe even a race. Please help me. I think it was in the 2007-2015
+era."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

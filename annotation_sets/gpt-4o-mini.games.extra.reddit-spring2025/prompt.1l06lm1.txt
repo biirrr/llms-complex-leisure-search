@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][1990-2000] Game similar in style to Golden Axe but
+with ninjas. Platform(s): I played it 15+ years ago at the arcades.
+Can't really tell which specific platform. Genre: side-scrolling beat
+'em up arcade Estimated year of release: Probably around 1990-2000 or
+even sooner. Graphics/art style: 2d pixel art Notable characters: You
+could chose from different ninja characters Notable gameplay
+mechanics: It plays very similarly to Golden Axe, you go hitting
+people with normal attacks and you build up your special meter along
+the way. Just like in Golden Axe, you can store special attack gauges
+and the special attack is different according to the amount of gauges
+consumed. Other details: I remember a stage in which you have to climb
+a building from the outside and the enemies pop up from the windows to
+attack/throw things at you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

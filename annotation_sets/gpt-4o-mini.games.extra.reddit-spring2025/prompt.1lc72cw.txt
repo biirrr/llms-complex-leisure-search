@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s][FPS/Fantasy] First-person demo game with
+stasis chamber start, dark skies, rain sounds, and tavern. I played
+this game from a **demo CD** in the 1990s. It was a first-person
+fantasy game for PC with a HUD at the bottom showing access to
+weapons, potions, and spells. The game began in a stasis-like area,
+possibly a cave, and soon led into an outdoor area with sky, vines,
+and rain sounds. The atmosphere was dark and moody. I specifically
+remember hearing rain or storm ambience when outside. I started with a
+dagger, and there were monsters and magic-based combat. I'm also
+pretty sure there was a tavern somewhere early on in the game. The
+visual style was more like Thief: The Dark Project than Doom or Quake
+ not super polygonal, but still atmospheric with texture-heavy
+environments. It may have only ever existed as a demo and was never
+released as a full game. \+1000 aura for anyone who gets it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

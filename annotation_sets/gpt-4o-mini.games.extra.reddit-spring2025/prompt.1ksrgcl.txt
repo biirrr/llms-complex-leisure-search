@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010s] a game about sheep. There were seasonal
+skins for like Valentines Day and Halloween and there were events.
+you just collected different skins and decked your farm and there was
+a chat room where everyone would chat when not playing in the game
+intro it would play sheep noises"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

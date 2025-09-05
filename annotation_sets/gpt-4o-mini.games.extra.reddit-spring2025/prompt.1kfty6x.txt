@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE/TABLET][2010-2016~] Game where you had to take care
+of amoebas and teach them how to do things. You could buy things for
+them to play and teach them how to do things such as pooping in the
+toilet and flushing afterwards. Can't remember the artstyle at all.
+Love that game but can't find it anywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Poem: Confessional Poet. Veteran writing about the
+photograph that kept him going. [s]. The poet was a man, who had
+served in Vietnam. The poem is about a sudden discovery of a
+photograph-- THE photograph-- while rummaging around in a drawer. It
+was the picture he kept with him, stared at, prayed to while he was in
+Vietnam. (I think it was Nam.) A picture of the woman he returned home
+to marry. A woman now his ex-wife. I remember a line, something about
+""before the lies, before the betrayals"" etc. Just a very poignant
+moment of the shock of recognition, of wistfulness and loss. Has
+anyone read this? I feel really stupid for not remembering, and for
+not being able to find anything on google. I'm hoping it's easy for
+someone else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

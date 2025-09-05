@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[WII][2008-2011] JRPG. Platform(s):Nintendo WII (maybe had a
+WII U port aswell but unsure) Genre: JRPG that wasnt turnbased
+Estimated year of release: 2008-2011 Graphics/art style: Nier Automata
++ Xenoblade with a lower resolution Notable characters: -- Notable
+gameplay mechanics: i think the game kind of played like xenoblade 1
+(non-turnbased RPG with a set party of character where the player
+would control one and the othere where CPU controlled.) Other details:
+i vividly remember playing this game way back in my friends house. he
+was already somewhat far into the game and he was in a cave like
+enviroment that ended up leading into a big catherdal where you had to
+fight a big golem boss"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

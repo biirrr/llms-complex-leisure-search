@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser/Flash game] [2000-2010] Point and click detective
+game with Lovecraftian vibes. I played this game on a browser perhaps
+20 years ago. It may have been on a Warner Bros website? I remember
+that logo for some reason. You play a detective in a point and click
+mystery. Clicking an area makes the character go and interact with an
+object or the environment. Maybe you were looking for a missing
+person? Eventually you get to some drainage tunnel or something under
+a bridge or waterway. There is something pursuing you. When it gets
+you its game over. You never see what it is. There is a limited number
+of clicks that act as a limit. Every few clicks, there is a small
+cutscene. There's like an ancient stone, or tomb or something. Symbols
+light up on the stone one by one. Eventually something wakes up and
+starts hunting you. You see it pass through the screens you've already
+been to, so the farther you make it, the longer it takes to catch up
+to you. It had sort of a sort of a dark, noir vibe. There was some
+ancient evil and possibly a cult involved. I only played it once or
+twice then lost the link. It could have been tied to a movie or other
+piece of media, I'm not sure"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

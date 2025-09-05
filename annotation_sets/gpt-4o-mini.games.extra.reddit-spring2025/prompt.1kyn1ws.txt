@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][Early 2010s] Mobile game in which you start off as an
+ant with a peashooter. I remember a mobile game on my iPod 8 where you
+start the game off as an ant fighting a war with a peashooter. I think
+you start in the kitchen too. There were different characters to play
+like a beetle, a spider with swords, a snail, and definitely others.
+Each had unique weapons to them. The game progressed with the story
+with each mission having an open map with little side missions. And I
+think the main enemies were scorpions?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation 2][2000 - 2005] Motorcycle racing game. Hi, I'm
+looking for a game I played as a kid. It's a motorcycle racing game,
+with the twist that you could hit your competitors with weapons
+(baseball bats, etc.) and steal their motorcycles by jumping from one
+motorcycle to another. That's how you unlocked motorcycles."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

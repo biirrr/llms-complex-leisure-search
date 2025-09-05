@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller - 2015 to 2020? Plot: woman goes on vacation
+to meet her blind date who ends up kidnapping her and stealing her
+identity.. Plot: woman goes on vacation to meet her blind date who
+ends up abducting her and stealing her identity. Her son realizes the
+texts she’s sending aren’t really coming from her. He searches the
+picture of the man his mom is supposed to be meeting. It turns out
+that he is an FBI agent and catfishers used his picture to lure women
+on the picture on the dating site. The woman/ mom who was abducted is
+held captive in a box in the ground and they bring her out every few
+days to get her passwords for her accounts and gain other information
+to get more money from her and keep her family beliving that she is
+fine but choosing not to return home. This is huge scam they have
+quite a few others in boxes in the ground at the same time. Story ends
+with the big house on fire.. I think the book name has Fire or Pines
+in the title.. I've searched so many and I can't remember or find it!
+Any ideas!?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

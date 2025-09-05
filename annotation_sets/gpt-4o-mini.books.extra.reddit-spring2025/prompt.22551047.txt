@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller 2019. Woman BBC radio journalist laid-off
+then creates podcast to solve crime of woman she talked to on a
+domestic abuse hotline. Spoiler.. Picked this up in an Australian
+airport bookstore in 2019 by female author who was British and had
+only written this one novel. Spoiler: The female lead character solves
+a case and finds a boy who died 30 years ago in an air vent of the
+radio studio she was laid off from several months ago. Two timelines:
+London BBC radio journalist is laid off (she has a daughter) and
+decides to make a podcast. She volunteers at domestic violence hotline
+taking calls and starts personally helping a woman escape a bad
+situation. This woman disappears and the protagonist begins to look
+for her. The protagonist’s daughter coincidentally is endangered by a
+relationship with an older man while her mom obsessively. Second
+timeline is 30 years with a girl who survives high society people
+involved in human trafficking. There is a young boy who dies."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

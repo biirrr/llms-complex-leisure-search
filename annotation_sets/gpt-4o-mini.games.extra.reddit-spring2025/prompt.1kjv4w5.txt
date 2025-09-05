@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[phone][mmo/rpg][unknown]. i doubt anyone will know what i
+am talking about but i cannot find this game. its a 2d scroller and
+you start as a guy with a wooden sword to the east is a dungeon
+entrance that takes you underground the first layer is rats and they
+drop rat meat, claws and coins. you could use the coins to upgrade the
+town and to the west there was a hot air balloon to take you to a
+different town. i belive the second layer was slimes but i cant
+remember what they dropped. i played this like 6-7 years ago ive been
+searching my google play old downloads but cant find anything and if i
+search for it it just pops up with idle mmo and other stuff"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

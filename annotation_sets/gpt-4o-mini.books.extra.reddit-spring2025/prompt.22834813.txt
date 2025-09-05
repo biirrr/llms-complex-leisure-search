@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy book about a highly intelligent plant who
+inhabits a dead body and brings it back to life. [s]. Hi gals! I have
+a huge memory loss for sure because I can't seem to find a book that I
+have seen recently in my local bookstore. It's something about 2 guys
+tending to a garden and discovering an intelligent plant. So the
+synopsis ends with something along the lines of ""but all they need
+now is a body for it (i.e. the plant)"". Can you help me find this
+book please? It might be YA or fantasy and recently published,
+2022/2023 maybe!! TIA PS: I might not remember correctly but the
+bookcover was a pale green color..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

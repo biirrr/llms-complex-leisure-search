@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2000&lt;] fighting game with swords, swords glow
+when super move is used, big boss floats and has long clothes. It was
+an old fighting game with swords where each character had a blade that
+glowed in a different bright color when they used a super move (and
+sometimes they would have lightning effects), and the big boss was
+someone who could make their sword float with some dark purple color."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

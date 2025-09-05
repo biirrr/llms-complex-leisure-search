@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][no older than 2013] A quite surreal space game that
+I played as a kid in the early 2010s on the website
+""""""""KralOyun."""""""". Hi, do you guys know of a Flash game about
+a boy in space traveling across moons and planets? I remember playing
+it around the early 2010s as a kid. It was a 2D puzzle-solving game.
+Every planet or moon had its own unique character or theme. It was a
+really surreal and dreamlike game. As far as I know, our objective was
+to collect some lab glassware that contained unique liquids and attach
+it to a giant space computer or TV. I remember there being a planet
+with a telescope that showed constellations, which contained puzzles
+in them. Also, I remember there being a teleportation system between
+the planets, and you needed to unlock them."""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

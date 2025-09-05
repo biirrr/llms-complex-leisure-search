@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [unknown] point and click game ive been trying to find
+since i was a child. the game is a point and click puzzle/mystery game
+in the same format as mystery case files (might even be one of those
+games but i cant find it) i believe i used to play it through big
+fish games. i only really remember two scenes from the game. one being
+a stone tower with a red flower in the room at the top. and a shore
+with a shack on the right side and a mill or lighthouse on the left
+side, and there was a ghost of a fisherman or something on the
+shoreline edit: i believe i played the game somewhere between
+2008-2010 give or take i cant remember exactly"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

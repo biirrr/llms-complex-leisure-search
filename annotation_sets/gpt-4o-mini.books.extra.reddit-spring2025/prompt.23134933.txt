@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance with injured male lead (uses a
+cane). During a walk, female lead can tell he's in pain so she asks
+him to escort her back to the house.. I don’t remember a lot about
+this book but I read it within the last year. It is a historical
+romance. A host invites a group of people to come to stay with them
+and socialize. I think the MMC is injured (uses a cane) or scarred or
+blind or something. I think at some point everybody is on a walk, the
+FMC can tell MMC is in pain so she asks him to escort her back to the
+house. They accidentally run into each other at the park and start
+talking. This ends up becoming a regular thing where they meet in the
+park to talk. Her maid disapproves of it. That is all I remember,
+please help if you know this book thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

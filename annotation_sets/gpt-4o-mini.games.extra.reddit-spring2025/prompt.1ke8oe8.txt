@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][console release date to emulator days] JRPG with
+action item that let you use a whip or vine to cross gaps.
+**Platform(s):** SNES. **Genre:** JRPG. **Graphics/art style:**
+Characters looked like Breath of Fire, but wider. **Notable gameplay
+mechanics:** You could cross gaps, like with Sten from BOFII, but I
+think it was the main character that had the abilities. You could use
+them without switching. You used a whip or a vine, or the marker for
+using that ability had a vine around it. **Other details:** Its not
+Breath of Fire II"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

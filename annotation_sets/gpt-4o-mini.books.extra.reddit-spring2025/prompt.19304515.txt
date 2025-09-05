@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir: son recalls father may have murdered someone in a
+forest. [s]. In this book (which I thought was called ""the devil at
+my table"" (but it is not). a Son writes about life with a possible
+psychotic father. he recalls memories of his father taking him to the
+first and showing him where he murdered someone and buried the body.
+The writer cant remember if this was real or not, or whether he had
+helped and blocked it out. GENRE - Non Fiction/memoir"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

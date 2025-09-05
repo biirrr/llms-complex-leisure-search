@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1 or PS2] [90s to 04] Sci-fi turn based rpg. I've been
+trying to remember this game for a minute now and can only remember
+bits and pieces. It was a futuristic/sci-fi RPG. You had 5 guys (three
+in the front, two in the back) in white-grayish armor/suits and I want
+to say you fought robots or something. I'm certain some of the
+characters had guns. My brother remembers them having swords and
+staffs too. Combat was usually in a grid like area that was grayish. I
+remember it looking like phantasy star but if you took practically all
+the color and uniqueness from it. I also remember that these
+characters could die and you could revive them or replace them. Kinda
+like how you can replace units like in XCOM. I can see the combat
+clear as day and the base map before going into maybe a dungeon I
+think. I think it was a PS1 game but my brother thinks it was a PS2
+game. He remembers it looking horrible and I remember it being fairly
+difficult. I'm more confident in my brother's memory than mine to a
+degree but neither one of us can figure it out. Do you guys have any
+ideas what it might be? Edit: the game was 3D I believe. On par with
+graphics like FF7 or legends of dragoon. Edit 2: You never moved units
+around a grid field. You moved around kinda like you would in FF7.
+You'd Walk around, it was either a random encounter or an enemy
+approached you I can't remember which one, and your 5 guys would fight
+in a grayish combat area that looked like a grid (metal walls and
+floor). Edit 3: The combat is somewhat similar to Revelations: persona
+from the PS1 in appearance only. Except the screen angle was on the
+left side and there was a wall on the right side. The characters were
+also more spaced out and the combat area was a little bigger."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

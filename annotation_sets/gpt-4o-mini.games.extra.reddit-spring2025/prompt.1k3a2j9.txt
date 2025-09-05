@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2010s] flash game where you played as an
+assassin/gunman dude + weird giant crab boss?. You played as an
+assassin or gunman going through action levels and fighting bosses,
+there was a hub zone or starting area, the most distinguishing part
+about this game i can remember is that there was a giant, headless?
+crab-like boss with a humongous claw and either a small claw or no
+other claw, and honestly maybe lasers??? There might have been a guy
+riding it, the crab had a small weak spot on its underside 100%, it
+was a flash game, there were probably guns and you could maybe use
+swords, the game is not """"""""No Time To Explain"""""""" as that
+also has a giant crab boss but not the same one"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

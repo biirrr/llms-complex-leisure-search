@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "auto-bio Australian woman's time living in India [s]. I'm
+trying to find a book I read circa 2002 -2005 It's an autobiography
+about a woman who lives in India for a time, meets a man who I'm
+pretty sure is Tibetan, they get together and have a baby. The book
+also details her arrival back in Australia and bringing the man too.
+Some parts I remember are: Her buying clothes from a shop and wearing
+them while people stared at her - realising she is wearing
+undergarments. She describes living in a shack like house and talks
+about the monsoon season. She talks about going to the hospital for
+check-ups during her pregnancy. Don't have any memory of the author or
+title or cover and I have no idea if the book was old or new when I
+read it :( Thanks for reading, I've already tried different keywords
+in google. I hope someone out there can help Edit: It's NOT about a
+woman trying to find herself, or going on adventures. She doesn't
+packpack. She just lives in this one area of India for a time doing
+the kinds of things that the locals do, meets a Tibetan guy there and
+they get together."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

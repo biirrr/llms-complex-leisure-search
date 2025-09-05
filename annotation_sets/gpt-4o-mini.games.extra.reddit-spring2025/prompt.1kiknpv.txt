@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2019?] 2D pixel horror/platformer game. I'm trying to
+remember this 2D horror game I remember it being a platformer where
+you had to collect hearts for this girl and as you progressed through
+the game it became more and more morbid untill you reached the end you
+enter a school with a bunch of dead bodies and her at the end of it
+and she asked you to choose to with her (I believe only if you
+collected all the hearts) and if you choose her your safe but if you
+don't she kills you, any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

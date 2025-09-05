@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [1990s] 2D Side-Scrolling Action: Slaying Dragon in
+Burning Forest. **Platform**: PS1 **Genre**: 2D action sidescroller
+**Estimated year of release**: I played it in the late 90s.
+**Graphics/art style**: I remember it was going for a more realistic
+rather than stylized look, especially when it came to the environment.
+**Notable characters**: For the player character I'm leaning Viking,
+but might've been a knight. Or some blend of the two in terms of
+aesthetics. There were also dragons (or maybe one dragon?) as enemies.
+**Notable gameplay mechanics**: I don't remember there being much
+platforming, it was mostly focused on moving left to right and
+fighting. **Other details**: It's a game where you play as a Viking-
+looking dude moving from left to right in a burning forest (at least
+at the beginning, don't think I ever beat the first level lol) on a
+quest to slay a dragon. I definitely remember it being on the janky
+side. Very much suspect it was a PAL title, had that signature kind of
+austere, grimy, Witcher-y aesthetic that seemed more common in the
+Eastern part of the world. So yeah, to sum up, the key points are: 2D
+sidescroller, first level in burning forest, realistic look,
+dragon(s), janky. Been trying to remember what the game is for a long
+time, but still no success :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

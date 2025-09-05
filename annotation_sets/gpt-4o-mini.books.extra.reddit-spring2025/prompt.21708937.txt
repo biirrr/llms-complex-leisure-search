@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "70s Paperback Nonfiction Book on Vampires, Demons, Witches
+etc - NOT Usborne [s]. Hi all, I've been looking for a specific book
+for years. I spent my childhood reading everything I could get my
+hands on with regards to ghosts, ghouls, cryptids, monsters, etc. I
+definitely read The World of the Unknown and various Hamlyn books on
+the topics. The book I am searching for comes from a series of
+paperback, non-fiction books. I believe there was a lengthy series of
+these books - I seem to remember there being similar books in the
+series on all sorts of topics: dinosaurs, prehistoric animals, the
+Ancient Greeks, and so on. The books were sized about 2/3 of an A4
+sheet and were not very thick. They were entirely illustrated - I
+don't remember there being any photos at all. The books were likely
+published in the 70s. The specific book I am looking for, I cannot
+remember the name. The two elements I do remember are: - The cover.
+This was gloomy, illustrated/painted cover. It showed a scene at
+night. In the sky above, there were the faces of a vampire and a witch
+as well as another creature I cannot remember. It's likely the book
+was named ""Vampires and Other Monsters"" or similar. - An inner
+spread. This contained various water demons, including a Will O' The
+Wisp and a Kappa. The kappa illustration was strange in that it
+appeared to have an almost barrel like body. I know this is not much
+to go on but I've searched and searched: it doesn't appear to be
+Hamlyn, Usborne, Armada or Fontana, all of whom seem to have published
+similar books to these. ANY and all help will be most appreciated.
+Thanks to all!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

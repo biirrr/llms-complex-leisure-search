@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][unknown] Pokemon clone where you dug up fossils and
+cleaned them up to recreate Dinosaurs and have them fight for you.. I
+know quite a few details of the game, but I cannot remember the name
+for the life of me. I know there is an alien race that could fossilize
+themselves to go to sleep and turn into dinosaur like creatures, and
+that you could have a possible romance with one of them. There's also
+was a gang of crooks similar to red rocket, and the chief of police
+turns out to be the boss of the gang. And finally their was an erratic
+scientist who at the end of the game wore caveman clothing and built a
+time machine for you to redo the final boss fight (which consisted of
+giant space demons)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

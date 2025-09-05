@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Early/Mid 90's True Crime about multiple murder at
+restaurant [s]. I only vaguely remember this book. I read it in the
+early to mid 90's. I think. The story was about a teenage male who was
+shot (possibly in the head) along with a few other people who I think
+were around the same age. I believe it may have been a robbery and I
+think it was at a restaurant. I think they were taken to the back of
+the restaurant and tied up and one by one shot in the head. He was the
+only one who survived I believe. I can't really remember if they
+caught those who were responsible. I think some of the book was about
+his recovery. I don't remember anything about the author or the cover.
+Anyone got an idea? Thanks for the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

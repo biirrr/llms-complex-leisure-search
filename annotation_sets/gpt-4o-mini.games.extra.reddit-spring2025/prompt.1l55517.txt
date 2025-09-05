@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Web/Flash][2004-2011] 2D Top-Down Spaceship MMO.
+**Platform(s):** Flash, or similar. It was free, online, and most
+likely did not require any download. **Genre:** 2D Top-Down spaceship
+shooter, PvP MMO, an """"""""open world"""""""" map that was split
+into a grid **Estimated year of release:** mid/late 2000s, probably
+**Graphics/art style:** Simple, colored shapes, Flash-esque, sprites
+that look like they were made in MS Paint. Pure 2D sprites that simply
+rotated when turning, possibly with basic color gradients to give some
+poor illusion of depth/3D. One team had grey + red ships/bases and one
+team had grey + blue ships/bases. Background was black with white dots
+(space), and you could fly over bases (space stations, MS Paint style)
+which I believe were blue/red circles connected with grey bars. The
+circles sometimes had turrets on them (to prevent spawn camping, I
+imagine). **Notable Characters:** None, you were always in your ship
+**Notable gameplay mechanics:** You started with a basic, weak ship,
+reminiscent of a classic Asteroid ship. You had allies everywhere in
+your home sector (2D grid map that required reload when reachng edge
+of sector -&gt; next sector). You'd see badass bigger ships (other
+players), I forget the process/cost of upgrading. The closer you got
+to enemy home sector, the more battles/enemies you'd come across.
+There were enemy turret emplacements on/near bases, might've been NPC
+and/or indestructible. The game became defunct when players cheated
+(html editor? not sure), turning themselves into mobile turrets and
+the such. I don't recall any endgame function, if there was one. Might
+have just been a persistent server with players spawning, killing,
+leveling up. I believe there were cargo ships and mining, but my
+memory is foggy. **Other details:** I've done some looking and it
+looks similar to Continuum or Cosmic Rift in terms of
+gameplay/2D/camera angle, but this was much more rough/basic art style
+and presumably short-lived. I most likely stumbled upon it on
+addictinggames.'com or similar. I have tried perusing archive.'org
+without luck so far."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

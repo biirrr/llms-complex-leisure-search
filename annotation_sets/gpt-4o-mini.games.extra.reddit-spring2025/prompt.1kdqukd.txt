@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2015] Very short, third-person, experimental
+multiplayer indie game about dying together on an alien planet.. I'd
+really like to find this game again because I remember it being such
+an interesting experience. You begin the game by crashlanding on an
+alien planet in an escape pod, which cracks your space-suit and your
+oxygen is rapidly running out. The whole game only lasts about 5
+minutes. If someone else joins the game at that time, they will join
+your world and you get to live out those last minutes together, after
+which your corpses will be left for others to stumble upon. The
+visuals were cartoony and simplistic, a little bit like Sable. The
+world has no enemies or objectives, and the pace was pretty slow. All
+you could do is walk and perhaps jump. There were alien plants and
+rocks around. There was no voice chat. It wasn't a game you played in
+the browser or anything, it was a free download but it was not on
+Steam. Does anyone know about this? Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

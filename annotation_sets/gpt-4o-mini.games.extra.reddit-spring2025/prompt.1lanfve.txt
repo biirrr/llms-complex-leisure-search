@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps5] [not sure of year] I can't figure out this ps5 game as
+i only played it a few times on a share play and its one of my
+favourite games. It's a retro looking game with doors (they were like
+difficulty levels) and you could make the difficuly higher on the
+level which would make it more pixelated but if the difficulty was
+lower it would be less pixelated and there was other characters you
+could play as and they seemed similar to characters promoted by
+playstation (I think, don't take my word for it because I don't
+remember much and I'm pretty sure that you could play as different
+characters aswell) I added a sketch of what I think I remember it
+looking like >7<ý @"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Turn-based flash game that was atleast on armor
+games?. Hey! This game was like 15 years ago? You would run around
+map, which changed when you went to other room. Camera was filmed from
+up to down, and during combat it was from side. There were npc selling
+gear and other stuff around rooms. At one room there was portal which
+had combat stages you could advance through, and fight enemies in turn
+based combat. You could level up your character abilities etc while
+going through portal stages. Combat had swords on everyone i think,
+and abilities were something like stronger slashes and blinks like
+that. I\`ve tried to remember this game many times, but i just cant
+think of it. Does anyone remember something like this? Feel free to
+ask something as i might\`ve detailed it poorly lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

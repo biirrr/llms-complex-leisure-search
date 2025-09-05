@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash Game][Unknown]Racing Snowy Rods Game. Platform(s):PC
+Flash Genre:Racing Estimated year of release:Unknown Graphics/art
+style:3D Notable characters:Laughing host Notable gameplay
+mechanics:You drive on a snowy road, there is a time limit, and when
+the time is up the car explodes. Other details:You drive on snowy
+roads, there is a time limit, your car explodes when the time is up,
+your helmet puffs smoke when the game is over, and the organizers
+sometimes laugh, The game begins when the car is dropped from the
+helicopter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation][2000s] A game about street racing
+[PS2][unknown] racing. Idk why but this game popped in my head, and
+I'm having trouble to remembering it. This game takes place in Japan
+and one cut scene has a guy saying """"""""this isn't san Diego
+anymore this is japan where we got better cars and races"""""""". Also
+some cars have power ups, where muscle cars can roar and one other car
+(I forgot what type of car is it) has the power to slow everything
+down but you have dift to refill it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

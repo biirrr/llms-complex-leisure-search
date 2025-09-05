@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Web][Early 00's] Old flash games similar to the
+""""""""paper doll"""""""" dollmaker games, but decorating houses,
+rooms, buildings, etc.... See title. [Here's an example of a paper
+doll making game.](https://web.archive.org/web/20190922092424/http://w
+ww.easydoll.com/dollmakers/prepgothmaker.php) They are drag and drop
+flash websites from the early 00's. I swear there is something similar
+but for decorating houses, rooms, buildings, etc... where there is a
+room and you drag and drop the decorations and furniture for the room,
+in the same fashion as the doll maker games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

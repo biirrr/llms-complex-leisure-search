@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "volcano, true stories [s]. this is a book of survival
+stories i read (so many times) when i was young, so it must have been
+published in the early 80s at the latest. it was a mass market with i
+believe a hand on the cover. the color in my mind is a reddish-purple.
+there were maybe 8 true stories in it - the one i remember most
+vividly was a man who was in prison when a volcano erupted. im sure
+there was probably a plane crash story, as well, and one with ice and
+frostbite. i thought it had the word ""amazing"" in the title, but i
+cant find it with my limited resources. thank you?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

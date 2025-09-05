@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox one][2018-2022] a game about where you are a detective
+and you need to use real life facts to solve puzzles. A game where you
+use facts about real life you solve puzzles that give you a location
+that you must type in and you must travel to the place to continue the
+story there are 3 main paths if I can remember I think it was on xbox
+game pass"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

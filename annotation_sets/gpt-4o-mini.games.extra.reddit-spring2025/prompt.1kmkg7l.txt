@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][around 2016-2018?] A 3D strategy game that is
+similar to Clash of Clan but more blocky graphics style. You have to
+protect your castle[as your main base] from other players by placing
+walls and your own units. You can customize your own units freely
+block-by-block. anyone know this game?. **Platform(s): Mobile**
+**Genre: Strategy** **Estimated year of release: 2016-2018??**
+**Graphics/art style: Blocky / 3D / top view?? \[probably not, but
+similar to clash of clan\]** **Notable characters: I remember there
+were some units like archers, swordmans, bomb-throwers? \[most likely
+a bomb-suiciders where they explode themselves to enemy's walls and
+units\]** **Notable gameplay mechanics: Similar to Clash of Clans.
+Protect your main base from other players. Upgrade and customize your
+units freely by placing block as a pixel one-by-one. you can invade
+other players' bases by deploying your units to destroy all of the
+enemy's resources and their main bases** **Other details: The game's
+music is kind of enjoyable**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

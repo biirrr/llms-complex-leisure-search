@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, first human reports of encounters with exotic
+animals and plants. [s]. Hello everyone, this is my first post. I am
+desperate to find this book, I could kick myself for not picking it up
+when i saw it. > Front cover is orange/gold/yellow in colour with
+blue/green writing and patterns > Includes illustrations from the
+first world explorers who discovered exotic animals in far-away lands
+> i remember reading a passage about the first time someone discovered
+a pineapple, there was an illustration and a description of the sweet
+flesh with the tough armour. Thats all i remember!! It was in the
+""new thinking: section of the shop. Thank you for reading!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

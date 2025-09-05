@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Novel about a Chinese-speaking widow (not Chinese herself)
+who becomes a nun. Read about 40 years ago. Spoiler. [s]. I read this
+as a Reader's Digest condensed novel, the title I remember, in
+Italian, was something like 'The Garden of Silence'. The main
+character was a woman who had entered a nunnery after the death of her
+husband, in the novel we discover her story, at some point she is
+conflicted about staying or going out, she ends up staying, taking her
+wows, and if I remember, she's sent to a new foundation either in
+China or Taiwan where her knowledge of the language matters."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

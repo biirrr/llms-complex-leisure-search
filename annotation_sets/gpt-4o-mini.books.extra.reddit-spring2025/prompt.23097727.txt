@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1980's era YA/ Kids book (or 70's?) mild horror/fantasy/SF -
+incl. scene of boy in kitchen pretending to drink spiked tea & fake
+falling asleep to escape bad adults. I'm thinking this MIGHT have been
+one of the ""House With The Clock In Its Walls"" children's books (by
+John Bellairs) or similar. I read it when I was a kid in the 80's, so
+had to have been pulbished before 1990. This one scene has always
+stuck with me, and I'm hoping some other avid reader out there might
+remember it too! The protaganist (kid? boy?) is in a group of adults
+up to no good, and he knows they just served him a cup of tea with a
+sleeping potion secretly added into it. So he pretends to drink it,
+then fakes ""falling asleep"" so they'll be fooled into thinking the
+kid is genuinely out cold. There's a long silence in the room, then
+one of the adults laughs and says something like ""boy we sure must've
+added way more sedative into that drink then normal!"" and so the
+hero's ruse ended up working. So random! Can anyone remember the title
+of this 80's kids book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

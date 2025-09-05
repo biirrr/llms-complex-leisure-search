@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2013-2015] A game about robots that got infected
+by a virus [shooting game] [3d]. I first played this game around
+2013-2015 on my mom's phone. The logo was a face of a green robot with
+red eyes(may not be correct). I'm pretty sure that the cut scene
+introduces us to the virus and also shows robots get infected by it, I
+remember 1 specific scene of a robot gets infected by the virus and
+falls into lava. It's a 3d shooting games from bird eye view, where we
+play as a green robot(not sure), and the bot plays as a blue robot(not
+sure about the color) and helps us fight the infected robots. I've
+been trying to find this game since like 2020 and failed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

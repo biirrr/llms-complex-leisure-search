@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Isometric Flash Game where you defend your
+house against what I remember to be regular people. Im looking for a
+flash game that i just remembered for the first time in over ten years
+where you defend your home against what i think were just random
+passer bys and there were different enemy types. One enemy i recalled
+was named chatterbox i believe and they had a phone and talked alot
+while trying to kill you or destroy your home. I think it was a tower
+defense game but i also have a memory where you could freely move
+around the street while they chased you trying to kill you but the map
+was just your house and lawn and the street where enemies would appear
+from trying to attack you, i think the lawn also had something to do
+with the plot or title but im not sure. It reminded me a bit of stick
+rpg in that you and the enemies from what i remember were just colored
+balls with stick hands (the player being blue i think). The website i
+played it on was most likely gameapple and the game also had enemy
+info and descriptions that described what they were called and did i
+remember it being really fun and would appreciate if anyone that
+remembers it can let me know the title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

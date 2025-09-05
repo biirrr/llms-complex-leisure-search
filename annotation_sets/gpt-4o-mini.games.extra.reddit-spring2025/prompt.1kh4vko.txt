@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [1999-2007] RACE GAME ?. Hi, this is my first time
+posting on Reddit. I hope you can help me. I was reminded of a pirated
+game (I swear I didn't pirate it) from many years ago. I think the CD-
+ROM had the word """"""""RACE"""""""" or """"""""RACER"""""""" on it,
+but I'm not entirely sure. It's an old PC or PS1 game (I doubt it was
+for a different console, but it could be), I'd say from around 1999 to
+2007, a car racing game with no story mode. You could play it in first
+and third person (in first person, the car wasn't visible at all). I
+remember the graphics being decent for that time. One of the
+characters you could choose was named Rasputin (I think I had the game
+in Spanish). It's not a well-known series like Burnout, NFS, Rally,
+etc. I'd swear it's a fairly niche game; I doubt many people know it.
+I hope someone here knows its name. Thanks a lot in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction: Story of Adam and Eve but the snake has
+always been Eves friend. Read between 2008 and 2010. English book with
+a cover that had a girl standing in a garden but you could only see up
+her bare legs to mid thigh. A snake was wrapped around her thigh. The
+story is from Eve's perspective with the Snake as her guardian
+appointed by God. The Snake is to teach Eve how to be a human while
+God teaches Adam in a separate area of the Garden. Start's when they
+are both children. After they become adults God attempts to get Adam
+and Eve together but she prefers the company of the snake and the
+Snake does not agree with how God treats both her and Adam. God
+attempts to make Eve lay beneath Adam to 'copulate' but she has no
+interest and the snake takes her away when Adam hurts her. The snake
+then turns into a man (not sure if I remember right) and shows her how
+relations between and man and a woman should be."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

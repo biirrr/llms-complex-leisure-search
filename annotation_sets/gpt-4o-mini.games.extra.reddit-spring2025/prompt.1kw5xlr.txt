@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile, iOS] [2010s ish?] Point and click puzzle game.
+Platform(s): Had this game on my iPad, believe it was also on my iPod
+touch? Genre: Fantasy, steampunk-esque? Puzzle/detective game
+Estimated year of release: Played it around the early 2010s, could be
+earlier Graphics/art style: It had those classic detective game
+painted realism vibes, think Unsolved Notable characters: Don't
+remember any in particular, may have been the occasional security
+guard? Notable gameplay mechanics: Average point and click puzzle game
+mechanics, but they were quite difficult compared to other games, no
+guesswork. Other details: From vague memories of it I have, the areas
+never seemed to be in the same setting. Like, there was a museum
+looking area, a wizard tower (???), some sciency places, sometimes it
+felt quite steampunk. I played it over and over again trying to
+memorise all the puzzles, I remember it being a very long game. There
+was a gem puzzle I remember being almost impossible, I spent hours on
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

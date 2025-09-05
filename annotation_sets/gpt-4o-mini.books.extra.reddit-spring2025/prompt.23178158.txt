@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction. Irish (?) sisters separated on
+boat to america - one left behind in england. Sisters from either
+Ireland or Liverpool are seperated when one gets off the boat for some
+reason and it leaves without her with sister still on it. The sister
+that ends up in america is pregnant even though shes only like 13
+maybe they left because her dad i think was SA her i think her name
+was Anne something it was double barreled or maybe annie, she was
+found by a nice couple and unofficially adopted untill the woman
+realises shes pregnant and would prefer just the baby and is really
+cold to annie so she leaves but the adopted dad is still nice to her,
+annie becomes an actress is really good on stage and eventually gets
+into films but doenst like making films, she lives with a co star and
+his rich family (he might be called herb or something it definitely
+begins with an h) they eventually marry but they arent really into
+each other and shes not fussed when paparazzi leak pictures that he
+cheated meanwhile the sister left in england marries this policeman
+guy named tommy (who later dies) and maybe has kids timeline:
+definitly has the wall street crash in and i think ww2 is mentioned
+and i read this like 8 years ago"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

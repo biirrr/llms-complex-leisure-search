@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, Flash game] [Action, 2D scrolling] [2010?] Game about
+an evil dog. I remember the name being """"""""poop puppy"""""""" or
+something like that, but it doesnt come out... it was about a white,
+ugly dog that you controlled and popped explosive poo. I think it spit
+fire too. The style reminded me of games like Castle Crashers or Dad
+'n Me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

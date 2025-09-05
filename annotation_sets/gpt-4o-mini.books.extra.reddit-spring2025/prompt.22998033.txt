@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult WWII, Historical Nonfiction. Women who are held
+captive in-house-like structures in the jungle. Read 2012-2017.
+Spoiler.. Hello, I have had no luck with searches because the results
+bring me to Heather Morris’ “Sisters Under the Rising Sun.” This book
+has some similarities. It is about women (I believe there were
+children too) who were imprisoned but not in a barracks type of
+concentration camp. I believe they were being held by Japanese
+soldiers and in a jungle setting. They lived in houses that were just
+box-like structures with dirt floors. There were a few of these houses
+that lined a dirt road and at the end of the road, there was a pile of
+bodies. The book is about how the women adapted to daily life and
+survived on no or little food while being tortured. I do remember one
+part of the book described how when the main character moved into this
+structure that was flooded, had to be creative to try to make it
+livable. I believe they only had a small piece of cardboard (or it
+could have been carpet/blanket) that became a treasure to them which
+would sometimes be stolen by other women. At the end of their “road”
+where the bodies were, there was an area of torture/hangings. This
+book was very sad and did not use euphemisms at all. It was a true
+story. I did take it out of our University’s library and have checked
+their online catalogue but the results are very limited because I’ve
+lost my student ID and sign-in credentials. I also cannot physically
+visit the library. I read this book somewhere between 2012-2017 (I
+believe it was 2015/2016) in English. The title may be brief, one or
+two words but please don’t let that narrow your results because I may
+be incorrect. Thank You so much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

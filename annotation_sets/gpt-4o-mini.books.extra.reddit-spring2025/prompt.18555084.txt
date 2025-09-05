@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir - Aussie woman lives in India, has baby. [s]. I have
+tried looking for this book in Google with absolutely No answers. I
+read a paperback copy (I think) around roughly 10 years ago. It is, as
+far as i remember, a true story. Summary: its about an australian
+woman who decides to go live in india don't remember why. She hangs
+out learning about the culture and meets people including a tibetan
+man whom she has a baby with. They then both move to australia to
+live. Details: - she stays in one or two areas/houses. No moving
+around or backpacking. She settles. - one of her houses seems like a
+shack with a tin roof. -She describes living in the same area as the
+dalai lama. - she talks about the rain season. - she talks about
+buying a skirt and wearing it in town and women staring at her. Turned
+out it was an undergarment. - she goes to a pub and people there all
+sing songs together, she can't join in so she sings to them an english
+language song. - her boyfriend (future husband) teaches her some
+tibetan - how to say the equivalent of fair dinkum (I'm not kidding) -
+she spends an amount of time there pregnant and has to have check ups
+at the hospital in the city which is in her eyes less moderm and not
+so well equipped as she's used to. Maybe they go back to aus to give
+birth? Not sure. - when they come back to aus, her boyfriend or
+husband stands on the toilet seat and squats cuz that's all he knows."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

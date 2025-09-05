@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox, Xbox 360, PlayStation 2][90s-2015] I can't find this
+game for the life of me.... I just for the life of me can't find a
+game I used to play as a kid, I've looked in YouTube, Google Chrome,
+x(even with grok help) and I can't find it, so I've decided to enlist
+you guys to help me find it, I will tell you everything that I can
+remember about it. I believe in the first level you start on a space
+station/ship and something goes wrong (I think a alien breaks free or
+something) and you go and escape. I remember another level with a
+bunch of snarlac pit like holes everywhere on the ground with various
+sizes where you enter a bigger one into a fleshy cave area with acid
+around and has floating enemies in the cave too, and after you
+complete whatever you enter the flesh cave for you try to escape it.
+Another level is a base defense one where you get weapons and
+technology to defend the place, on technology I remember is this
+stake/pole thing that when you place 2 it makes a force field barrier
+connecting them, you can place more of them too and they can be
+chained. Another level I remember is a survive until the space ship
+arrives type thing also I think I remember the last level too (like
+the last bit of it at least), it is back in the firsts level space
+station but it's exploding and you're fighting big aliens trying to
+escape it. I think it's a sci-fi fps... And that is what I remember of
+the game... I really hope you people can find it..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery/ Thriller novel where a teenage boy and teenage
+girl get chased by a monster that kills you with shears. I think it’s
+a dark green paperback and I think and the title is the colour red.
+It’s around 300 - 400 pages if I remember correctly. It’s about a boy
+that goes to a camp for a break. He’s been getting nightmares about
+the same creature every night and he draws it in his notebook every
+day. When he arrives at the camp he sleeps the night and wakes up
+around 6 am to meet a girl around his age and they go for a walk off
+the trail into the woods. Somehow the monster becomes real and chases
+them through the woods. I read this book in 2017, it was in my school
+library if that helps."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

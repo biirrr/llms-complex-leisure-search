@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2000~?] A game about a city. ello everyone! I am trying
+to remember the name of a game I played about 20 years ago. It was an
+isometric 2D game where you controlled characters that fought over
+coins. The game was only played with a mouse. The characters were:
+"""""""" A man in a childs costume. """""""" An old lady who .
+"""""""" A girl with a whip. """""""" A clown """""""" A man with a
+pumpkin head (Jack-O). And others but I cant remember, And the last
+chapter was a guy with knife. The opening video was funny and featured
+a black man being shot at by a character for taking a coin. The game
+had a humorous tone. The graphics were between cartoonish and somewhat
+realistic, similar to games like The Sims 1 but with a more
+exaggerated, comical style. Each character had its own special move
+and stage. Does anyone remember the name of this game? Any help is
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

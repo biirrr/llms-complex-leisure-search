@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000?!] Robot fighting game. **Platform(s):** PC
+**Genre:** from 3rd person 3d robot fighting game **Estimated year of
+release:** Around 2000+, for sure less than 2015 **Notable
+characters:** Like a dozen of robot characters, you choose one and
+fight. One of them called Loader, some names were funny. **Notable
+gameplay mechanics:** You played as a robot against other robots. You
+could choose your robot in menu before starting. One of the map was
+like living room or kid room. You could jump on shelfes or bed. After
+few matches there was a boss fight. One of the robots was called
+""""""""Loader"""""""". Robots looked more like a """"""""metal box on
+wheels"""""""" (no mecha). It was added to some old magazine, and it
+wasn't big popular game, like small game made by enthusiast i think.
+**Wrong games: (RoboBlitz, Bots'n'Guns, Metal Rage, Swarm Arena, Robot
+Warfare, One Must Fall: 2097 )** Title if I recall correctly was
+something like """"""""living room wars/warfare"""""""" but i might be
+wrong. After winning it was like """"""""XXX Wins"""""""" like in
+mortal kombat: Loader wins"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

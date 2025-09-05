@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance triology about millionaire brothers. 1) Older
+brother gets woman pregnant and they marry. 2) Brother has one night
+stand & woman raises his secret baby.. I´m looking for a series of
+books I read almost a decade ago. It´s a romance triology folowing
+three millionaire brother´s, each book is about each of them. After
+that there was a spin off series about their cousins. In the first
+book the older brother gets a woman pregnant and they marry. In the
+second one the brother has a one night stand and she raises his child
+for like a year before he find out. In the third the bother is a
+cowboy in a ranch and falls for the ranch´s cook who is a single
+mother"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

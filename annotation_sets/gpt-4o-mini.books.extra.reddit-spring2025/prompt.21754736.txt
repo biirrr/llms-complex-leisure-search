@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True Crime. Girls killed in guest house by boyfriend. Older
+teens/ young adults. It’s true crime. This group of teen kids were
+basically unsupervised and all rich except for this boy and his
+friend. The boy (or his friend?) shot one of the girls in the guest
+house where she lived and went on the run. But the kids parents
+weren’t involved with any of them, they all drank and did drugs and
+were like misfits with how they dressed and acted but the parents were
+all rich and really well off so the kids just spent money and
+basically lived on their own. So they’re all hanging out one night and
+one of the girls (or maybe 2) get shot in the back of the head by one
+or both boys. Then the 2 boys go on the run but get caught. I think it
+was set somewhere with warm weather? Florida or California? But that
+could be wrong. I remember the girls were sitting on the floor at the
+foot of the bed and they were shot from behind, possibly shotgun? One
+of the girls was really small and had a partially shaved head, I think
+they called her tinkerbell or bell? Any help at all would be
+appreciated! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

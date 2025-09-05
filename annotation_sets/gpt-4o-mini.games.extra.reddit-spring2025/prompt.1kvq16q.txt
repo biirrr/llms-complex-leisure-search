@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade] [90s] Arcade game with vacuum. Hi all ! I Am
+looking for an old Arcade game from the 90s Platform(s): Arcade Genre:
+Platformer ? Estimated year of release: 90s Graphics/art style: I
+remember it wa quite colourful and quite loud Notable characters: A
+boy and a girl Notable gameplay mechanics: using a kind of vacuum like
+in Ghostbusters. We could suck enemy in the vacuum and spit them out
+to hurt other enemies. If We took too much enemies in the bag of the
+vacuum, it exploded and we die Other details: I also remember the
+characters saying something in Japanese at the start of every level.
+And also a boss was like a big octopus. Can someone help please ! http
+s://preview.redd.it/q94bdyedg33f1.jpg?width=1536&amp;format=pjpg&amp;a
+uto=webp&amp;s=a53d9141bf97761fc1ca08bc40ef2784e2cbdd87"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

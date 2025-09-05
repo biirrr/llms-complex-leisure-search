@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010] Survival horror game set in school/university.
+The premise was that you arrive at your school or university and
+everyone is possessed(zombiesh but I am not sure) so you save yourself
+by either shooting them or running. And then you reach a library(I
+think) where you fight the boss. I remember that we could change the
+colour of the blood to yellow, purple etc in the settings. The vibes
+of the game drastically changed when the fight with the boss started.
+Edit: You start the game by entering the gates so you fight the first
+set of monsters/zombie/ghosts/idk in an open area and then you enter
+the buildings. I think there was a fountain outside too(not sure). It
+was a first person view game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

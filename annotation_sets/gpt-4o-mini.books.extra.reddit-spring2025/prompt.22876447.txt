@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction novel. Character called Isa or Issa
+(for Isabel/ Isabella). Her Mom has all her teeth pulled and while
+recovering. House on fire. Read in 1980s. Spoilers.. I borrowed this
+paperback book in the 80s from my local library. There may have been a
+picture of a row of houses on the cover, but I'm not sure. The main
+character's name was Isabel or Isabella but her family called her
+""Isa"" or Issa"" This book was in a ""featured"" section of the
+library. I have searched by character name, plot and asked librarians
+to no avail. I'd be so grateful for any suggestions on where to find
+this book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

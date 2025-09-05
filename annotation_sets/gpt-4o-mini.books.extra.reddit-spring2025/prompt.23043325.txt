@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller/ Suspense. Girl at school/ college/ university
+fell/ got pushed through window, injured her face badly, then someone
+unknown kept preventing her to see her face in the mirror by e.g.
+breaking all mirrors around her. Read 2006-2010.. Read in 2006-2010
+from a mini-library of a language school in my home country. I vaguely
+remember the girl either witnessed or was in the surrounding of an
+attack on/murder of another girl. Didn't finish the book and would
+like to find it to reread and finish it. Cover of the book was
+probably black and either blue or green."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

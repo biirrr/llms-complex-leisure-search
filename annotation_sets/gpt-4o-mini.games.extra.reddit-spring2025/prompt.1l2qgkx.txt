@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2000] Star Wars Game Around Yr 2000. Hello, glad to
+have found this sub! I am looking for a pc game theming star wars
+around the year 2000, I remember playing it on my big brothers PC.
+What I remember is the underwater world and Jabba the Hood and a map
+which was a city on a large plateau within a forest also featuring a
+waterfall... Not much to begin with, I have been googeling my ass off
+and haven't found it. Do you maybe have any ideas? Thanks for your
+support :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

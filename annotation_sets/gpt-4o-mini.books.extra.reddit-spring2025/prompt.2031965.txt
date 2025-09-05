@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book of short stories and essays about quilting [s]. Hi,
+everybody--Sometime in the last 10 years, I read a book that included
+short stories and essays about quilting. Only one story sticks out in
+my mind. It is about an engaged woman who is biracial, part Asian and
+part black, and she breaks off her engagement because she just doesn't
+feel right about it. She is a quilt maker and makes a quilt with both
+Asian and African patterns in it. I also remember her going to a spa
+with one or two of her friends, spending some of the money she would
+have spent on the wedding. I think the story was written by a black
+woman but I'm not sure. I know it is not ""Everyday Use"" by Alice
+Walker."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

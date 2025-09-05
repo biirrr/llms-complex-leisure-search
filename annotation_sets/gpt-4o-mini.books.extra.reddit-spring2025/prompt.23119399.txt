@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Girl has to move home with mother who wrote a
+book ?about her daughter’s love life as a teen.. Girl is forced to
+move back to her hometown with her mother with whom she has a
+complicated relationship because her mother wrote a book (I believe)
+about her love life. She also is/believes she is hated by everyone she
+grew up with because they think she slept with the wrong person or
+slept with too many people or something? B it was actually not
+consensual?? I think she works at a lodge or a lake resort or
+something and makes a couple friends. she also starts going for runs.
+I read this I THINK between 2010 and 2016."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

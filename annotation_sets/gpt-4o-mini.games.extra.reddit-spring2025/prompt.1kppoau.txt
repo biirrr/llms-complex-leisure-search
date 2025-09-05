@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] An early scifi strategy game. Hello everyone. I
+search a game from probably around the early 2000s. It was an sci fi
+strategy/rts game with 1 alien race and humans. You had several game
+modes. 1 mode was you played humans and had to fight on tiles until
+you reached the main tile of the aliens. 1 mode was the same but you
+played the aliens. 1 mode was you started with just your main tile
+surrounded by the enemey. You could choose between alien and human (i
+think). I remember when you lost as human a screen appeared with a
+human shackled to the wall and some text about what disappointment you
+are. Edit: Each tile representet a map with buildings and troops you
+had and the enemy. You entered the map after choosing what to do on it
+first. Like starting with a bombing of buildings and after you got on
+the map."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

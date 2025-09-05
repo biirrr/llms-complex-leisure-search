@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1?][1990s- early 2000s?] FPS/tactical shooter with two
+final bosses/two endings depending of who you shoot in a scene.
+**Platform(s):** PS1, possibly other platforms too/instead **Genre:**
+first person shooter? I think? **Estimated year of release:** 1990s-
+early 2000s **Graphics/art style:** what passed as 3d at the time
+**Notable characters:** protagonist was a girl **Notable gameplay
+mechanics:** what's in the title. Basically right before the final
+battle the big bad disguised themselves as the protagonist and you had
+to choose who to shoot, depending of your choice the final battle was
+harder and it was a good or bad ending **Other details:** Multiple
+playable characters"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][DOS][1990s] Monster Fighting Game. I found this game on
+a Shareware CD when I was a kid in 1996. There were around 40-50
+'characters' to choose from and fight matches with. I remember an
+eyeball on a stalk, and some sort of bird aberration. I think it was
+pretty gory. From memory, it was in 16 color graphics (but I might be
+mistaken). There was a match option called 40 monster bash or
+something where you watched the monsters fight and eliminate one
+another to get to the next round."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

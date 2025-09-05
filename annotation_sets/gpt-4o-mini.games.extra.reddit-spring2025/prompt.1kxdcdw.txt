@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Year Unknown] Weird indie game where your answers to
+questions are used in dialogue for the next player. Dev deleted it
+after hacker took control and offered to stop if creator reviewed his
+game.. The game had a kinda ugly art style I think. Anyways, youd
+start out in a cave or something and youd meet this guy who gave
+weird dialogue. You killed him and moved on. I forget what happens in
+between, but towards the end if the game you take the place of the guy
+that gets killed. Its a single player game, but the code took what
+you said and reused the dialogue for the next player that played it.
+It got popular and YouTubers started playing it. Eventually, a hacker
+came and&. I forgot exactly what he did but he did something to code
+or whatever and he would communicate by leaving hints in the code.
+Saying he did it just cause he wanted to mess with somebody. Through
+talking, the hacker was like hey by the way can you play this game I
+made? Anyways it got to be too much and the guy shut the game down.
+Watched a video about it a while back. Sounded interesting and have
+been trying to find it since."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

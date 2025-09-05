@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [About 10 years ago] A game about building the
+tower. I'm pretty sure the game I'm looking for was called """"""""The
+tower of 'someone'"""""""" it was pretty simple game where you drop
+blocks to build a tower to a certain height and then a wizard cast a
+spell to make it permanent. As you go higher you unlock new blocks and
+decorations for it, I'm pretty sure there were different levels and
+the first one was on a cliff. And when it comes to colours it was
+mostly black, gray and white."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Arabian Horse Breeder and son of
+a Sheik that has a thing for Washington D.C. government employee with
+a talent for sculpting. Published 1980s/mid 1990s.. The story features
+a romance between a female sculptor who creates Arabian horse busts
+and an Arabian horse breeder who is also the son of a sheik. They meet
+in the Caribbean, and the plot includes themes of art, diplomacy, and
+horse breeding. The couple meet on a beach where he stumbles over her
+sand sculpture. Set in Virginia? Outside Washington D.C.? This should
+be a single book not part of a series. Contemporary Romance Published
+1980s-to mid 1990s Any help in tracking the name and author is very
+much appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

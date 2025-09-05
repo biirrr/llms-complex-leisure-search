@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2] [Early 2000s] Brawler game with upgradable beam
+weapons. Platform(s): ps2 Genre: brawler/fighter Estimated year of
+release: 2002? Graphics/art style: 3rd-person brawler with 3d
+environments. Character design was pretty anime-y if I remember.
+Similar to The Bouncer (but not actually The Bouncer) Notable gameplay
+mechanics: A fairly simple brawler where each character has some form
+of beam weapon (laser-sword, laser-staff, laser-spear, etc). Weapons
+can be upgraded in the campaign. The thing I remember particularly
+well, was a 1v1 multiplayer mode which played more like a fighting
+game. Other details: I think the title of the game was a three-word
+acronym. Something like AOD? Cant remember the full title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

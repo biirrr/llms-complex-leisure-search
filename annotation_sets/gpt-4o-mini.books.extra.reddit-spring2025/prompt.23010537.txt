@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Suspense, Short Story in a collection. In one story a young
+man rents a luxurious flat but there is a swan living in the bathroom.
+Read 2005-2010. Spoiler.. Spoiler: the swan turns out to be the female
+owner of the flat who turned into the swan via magic or a curse. I
+believe some piece of jewelry was involved. Physical book read in
+German but probably a translation, I believe the book cover was
+primarily white."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

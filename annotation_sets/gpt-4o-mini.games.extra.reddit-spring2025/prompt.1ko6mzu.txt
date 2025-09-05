@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000's] Free to play sci fi shooter with gun that
+had long bullets. **Platform(s): PC** **Genre: Online Free to Play
+FPS** **Estimated year of release: 2000s** I remember not much: there
+was a gun that had bullets that were a couple feet long, I think it
+was a railgun, and when you fired it there was a spreading electric
+effect at the end of the gun. It also pinned enemy corpses to the wall
+when you killed them with it, and the long bullets would stick out of
+the wall. Just a memory that popped into my head and refuses to
+elaborate itself. I think that it may have been a game in the same
+launcher as A.V.A. (Alliance of Valiant Arms) or Combat Arms since
+those are the other games that come to mind as what I was playing when
+I think of this memory."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

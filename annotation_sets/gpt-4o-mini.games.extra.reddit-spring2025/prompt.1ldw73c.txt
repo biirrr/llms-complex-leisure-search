@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash game] [2010-2013] 2D defense game about parasites.
+**Platform: PC, a flash game** **Genre: 2D defense game (similar to
+like stick war legacy)** **Estimated year of release: Between
+2010-2013 I might be wrong** **Graphics/art style: The background was
+gloomy, a wasteland somewhat didn't contain much other than hills and
+dead trees, the ground where the NPCS were was also a wasteland, no
+grass only ground, I believe it was grey.** **Notable characters: The
+game contained 2 characters, one on each side of the map(keep in mind
+its a 2D game), the one on the left was you, and on the right was a
+computer. The characters looked like queens, but in a sense of a
+insect and no not ants, or anything similar. More like a parasite.**
+**Notable gameplay mechanics: You could spawn units to attack the
+other side and win, there were many levels as I can recall. Different
+units to spawn and I believe you can evolve them into different units,
+more powerful etc. Not sure how much levels there were though.**
+**Other details: To sum everything up I know about the game, is a 2D
+defense game where you have to defeat the other side to win, simple.
+Being able to spawn units, which can later evolve into better units.
+Other than that I don't remember anything else, if you guys cannot
+find the game. I am sorry for wasting your guys time.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

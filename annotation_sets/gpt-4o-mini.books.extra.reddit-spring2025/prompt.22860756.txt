@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Man tells a woman he wants to kill his
+cheating wife, she offers to help. She tells story of drifters who
+stayed at her parents' (professors) home. Read 2019-2003. Spoilers.. I
+believe I read this book sometime between 2019- 2003 and it seemed
+like it had been fairly recently published. I believe some part of the
+blurb, but definitively a plot point, was it's a girl (late teen?
+early 20s? ) who lives at home and her parents are professors who
+aren't really into parenting her and they have students/drifters who
+stay and she catches one looking at her as she is laying out by the
+pool and before he can do anything bad to her she murders him and
+buries him in the back in a well. Because nobody seems to notice he's
+missing, she seems to get away with it. She does the same with at
+least one other person (don't remember if it's a man or woman) and
+moves away but not far away because I remember at the end she's
+driving back to the house because her dad sells the house. Maybe the
+mom leaves the dad also at some point which spurs on the sale of the
+house, the marriage seemed kind of open with maybe him traveling and
+the mother ""entertaining"" the male drfters. The girl is the main
+character, I can't remember if it's written in first person. Thank you
+in advance if anyone can tell me, it's been driving my sister and I
+nuts!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

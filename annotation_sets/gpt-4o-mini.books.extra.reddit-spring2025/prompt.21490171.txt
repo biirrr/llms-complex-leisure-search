@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book of lectures/essays about novels. [s].
+Several years ago, I bought a book that was written by (I think) a
+Toronto university professor. Each chapter was an analysis/commentary
+about a novel: Jack Maggs by Peter Carey, The Tortilla Curtain by TC
+Boyle were two. The essays/chapters were based on a series of in-
+person lectures he gave annually. I think his first name is Robert
+(but could be wrong). The book was well-written and led me to read a
+number of books/authors I normally would not have written. One of his
+reader-friendly rules was that he waited at least one year until after
+the book was available in paperback before lecturing about it, in
+order to give readers the opportunity to buy the lesser-expensive
+paperback. Does anyone know the title and name of the author? Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

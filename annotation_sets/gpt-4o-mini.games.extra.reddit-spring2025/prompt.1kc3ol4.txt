@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s/early 00s] Military FPS. Played on a friends'
+Windows PC in 2003 or thereabouts. I only remember playing one
+mission, it began with you running up a hill with a slight incline
+with your fellow soldiers. The ground was covered in grass like a
+field, there were some basic buildings in the distance. As you moved
+forward the voice of who I assume was your commanding officer came
+over the radio. He read out a short message in an American accent, it
+began with """"""""This is Papa Bear to all soldiers..."""""""" and
+ended with """"""""...may God help us all. Out."""""""" Standard
+military FPS, possibly WWII or Vietnam era. Graphics were similar to
+the original Half Life (1998) from memory. You could enter buildings,
+climb stairs and snipe enemies from the top levels. I remember
+attempting to climb into a Jeep or similar vehicle, but every time I
+did the commander would say """"""""Nine. Dismount."""""""" and I'd
+automatically be ejected from it. Sorry for the lack of detail, I
+don't think I played it very much and after 22 years I'm rather hazy.
+Does any of this ring a bell through the sands of time?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

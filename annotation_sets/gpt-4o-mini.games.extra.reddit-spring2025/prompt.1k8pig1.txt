@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1999-2005] Game where you had to look after a cat (and
+it wasnt Petz). I have been looking for this game for years, and most
+comments Ive found with a similar description point to Catz/Petz.
+Its not that, because I played Petz for years. This was a game I
+played once or twice at my friends house. You adopted a little brown
+cat and had to look after it, and I believe it gradually grew in size
+as you looked after it. You could take it to different rooms in your
+house to do different things with it. In this game you could only get
+a cat, but I vaguely remember looking it up around the time and the
+same company made the game with other animals as well that you had to
+buy separately. The only real defining feature of the game that I can
+say for certain is that the theme song was The Entertainer and it
+played throughout the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - Browser] [2010-2015] Geometric Shapes Game.
+Platform(s): Browser, Flash game most probably Genre: Arcade? Some
+kind of tower game that you had to advance vertically Estimated year
+of release: 2010-2015 Graphics/art style: 2D classic game art Notable
+characters: You were sometimes a square triangle you had to change
+shapes Notable gameplay mechanics: the world was moving constantly you
+had to jump to avoid enemies or change shapes Other details: please
+help me find this game it had like a castle environment i cant really
+remember it wasnt geometry dash the shapes had faces"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

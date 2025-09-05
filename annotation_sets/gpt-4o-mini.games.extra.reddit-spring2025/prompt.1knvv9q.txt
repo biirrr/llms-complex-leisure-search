@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DOS] [1990S] Game about breeding rats. Hi guys, I'm trying
+to remember a very basic DOS game where rats (i think) automatically
+moved around a maze and you could put items like the blue male sex
+symbol and pink female one to breed the rats, and maybe good items
+like swiss cheese? It was a very basic game but i havent been able to
+find it for years. Any help would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

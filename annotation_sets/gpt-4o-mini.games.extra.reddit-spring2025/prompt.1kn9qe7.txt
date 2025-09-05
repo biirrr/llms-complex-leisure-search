@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2010] A browser game 2D side-scrolling shooter.
+Platform(s): Browser Genre: 2D side-scrolling shooter Estimated year
+of release: \~2010 maybe lower Graphics/art style: futuristic with
+enemies guarding some facility, the walls and overall feel of the game
+is mostly white/gray. also futuristic looking weapons but i dont
+remember projectiles. Notable characters: FINAL ENEMY/BOSS, see other
+details Notable gameplay mechanics: you control a character (totally
+forgot how it looks) and shoot enemies wearing some futuristic but
+simple suits. you keep moving from left to right. Other details: FINAL
+ENEMY is this huge mechanical robot, and the only way to defeat him
+&amp; win the game is by CRUSHING HIM WITH DESCENDING DOORS/BARRIER.
+when he walks towards you, you press something to shut the barrier on
+top of him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

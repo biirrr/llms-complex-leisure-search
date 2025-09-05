@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True Crime in Ohio. [s]. **May contain spoilers (if anyone
+can ever figure out which book this is!) I read a book back around
+1997-1998. After endless google searches using what I could remember,
+I've come up empty. The book centered around a family living in Summit
+County and Medina County, Ohio sometime in the 1970s/1980s. The family
+also spent time somewhere in Florida. There were many children in the
+family and the patriarch was a terrible man who commited unspeakable
+acts upon his children, wife, and others. The daughters were forced
+into ceremonies to ""marry"" the father. I recall one or two daughters
+spoke up to a frined or counselor at school. There was an older son
+who married and him and his wife had a baby who was somehow murdered
+and the patriach was involved in both the death and the coverup. I
+don't recall much else, just that the story was so horrifying. Growing
+up in that area of Ohio, the book referenced a number of areas I am
+familiar with, making it that much more terrifying. Anyone have a clue
+as to what book this is? Even googling crimes in the area during that
+time period, I come up empty. Any info is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

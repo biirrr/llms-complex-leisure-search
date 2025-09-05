@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[1990s][PC]1990s math game that took place in a hotel or
+other two story building with lots of rooms. Circa 1995-1996, at
+recess my friends and I would go to the computer lab to play this
+game, and if you were fast you could beat it before recess was over.
+It took place in a two or more story building, and I think you played
+as a detective of some kind. You had a remote that shot waves of
+energy or something and you could use that to defeat bad guys. There
+were math games, and there were multiple rooms, some of which had math
+puzzles that you needed to beat to finish the game. I have only the
+most vague memories of this. It might have been on a mainframe setup
+with terminals. I don't think it was windows or some other common OS,
+pretty sure it was a mainframe setup of some kind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Fairytale/ Folklore. Shadow and Evil in
+Fairy Tales.. Help identify a possible non-fiction book with a black-
+and-white cover featuring a photo of a blonde woman in a white dress.
+The book’s title is written in white text inside a blue box. The back
+cover is pale blue. Can you provide possible matches or suggestions?”
+I have a blurry picture of the cover uploaded here:
+https://imgur.com/a/Z2pseuT video on instagram of the person carrying
+the book: https://www.instagram.com/reel/DDWqja..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

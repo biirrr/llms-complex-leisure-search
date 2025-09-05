@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/2000s] Top Down Squad Based Mech Game. I remember
+playing a PC games back in the 90/Early 2000s. You choose a
+corporation to fight for, each one gives you different advantages over
+the other, and you take missions against the other corporations on
+this planet that you are all fighting over. It was a top down, squad
+based mech game, and I believe (although I could be misremembering)
+that you could play in either real time or turn based. Near the end of
+the game, once you start eliminating the other corporations, the last
+three or so team up on you. I don't remember much of the gameplay, but
+it sits in my brain to this day. Anyone have any idea what I'm talking
+about?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Regency Romance where main character leaves her
+verbally abusive family after getting news that she is dying. She
+finds her confidence and falls in love. Read around 2015. Spoilers.. I
+read this book in about 2015. In it, the main female lead is thought
+to be unattractive and her family tells her so. She is also not
+allowed much freedom at home. I think she was even only allowed to
+read books about nature written by one particular author. She gets a
+letter that tells her that she is dying so she decides to leave her
+family. She meets a man and lives a life away from her family and more
+in nature. She blossoms and becomes seen as beautiful. Even a famous
+painter who only paints beautiful women requests to paint her.
+Spoilers ahead! She falls in love with the man she met and learns that
+he is actually secretly the author of the nature books that she had
+enjoyed reading. She also almost gets run over by a train when her
+boot gets stuck in the railroad track and the male lead saves her
+life. The male lead realizes he loves her after she almost dies and
+vows to find a cure for her illness. In the end we learn that the
+letter that told her she was dying was sent in error and she isn't
+actually dying."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

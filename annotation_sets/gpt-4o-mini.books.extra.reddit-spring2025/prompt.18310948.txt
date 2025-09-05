@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Diaries of teens during the Holocaust [s]. Saw this books
+series about 20 yrs ago. For some reason I thought of it again today.
+I believe it was a series focusing on different characters in each
+book. I think it was like The Diary of Anne Frank (diary style). I
+believe that's why they caught my interest since I had recently read
+that and enjoyed it. I saw them at the book fair at my school but
+didn't have the money. I can't swear to it but I think the first book
+was a boy and the cover was vaguely dark but you could see a male
+figure. I also can't remember if it was fiction or not."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS] [Unknown] Game where you can choose to be some
+sort of animal and build a themepark. I had this game on one of those
+300-in-1 cartridges. I remember choosing a unicorn as my character and
+being able to fly on a star. Your character was displayed on the
+bottom screen. The map was just a normal field but you could place
+theme park attractions. I also remember being able to visit others but
+I'm not sure of that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

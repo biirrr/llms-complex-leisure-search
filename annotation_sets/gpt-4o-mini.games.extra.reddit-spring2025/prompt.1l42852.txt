@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [2015] game where you had gems and built your own
+dungeon to defend them?. This was a few years ago and I probably got
+the year wrong. In this game you built a dungeon with traps to defend
+your gems, because while combining your gems to make them more
+valuable they were vulnerable to being stolen by other players. When
+you tried to steal other peoples gems your were a little ninja
+character and had to first unlock their door and then dodge their
+traps to get the gem. It was a game I played a lot a while ago and I
+cannot find it for the life of me. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

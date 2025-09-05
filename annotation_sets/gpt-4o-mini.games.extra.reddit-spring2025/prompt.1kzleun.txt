@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-2000] Puzzle game about climate change.
+Platform(s): PC Genre: Puzzle Game/Hidden Objetcs (1st person)
+Estimated year of release: possibly between 1990 and 1998 Graphics/art
+style: visually some real visuals and characters with realistic images
+Notable characters: I mainly remember the first mission when you crash
+your ship and need to fix a robot Notable gameplay mechanics: Puzzles
+game, you need to solve also riddles and search for components to
+repair or fix the Weather. The main villain was a mad scientist that
+use some weapon to change the weather of all the globe, I remember an
+Egypt type scenario with snow and you enter the giza pyramids to solve
+the mistery or somehow to find the mad scientist."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

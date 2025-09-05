@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360] [late 2000s - early 2010s] racing game demo with
+mountain roads. I remember playing the demo for this racing game many
+times as a kid. Genre: Racing Setting: Mountainous area with winding
+roads (europe?) Gameplay: There was a cop chase aspect to the game. I
+vividly remember being able to use a car transporter as a ramp. I
+think you dr.ive a normal looking bmw type car, one that you would see
+european (eg german, uk) cops use. Before being able to drive you
+spawn at a gas station and have to wait for a second before being able
+to drive. There was the ability to freeroam without having to follow
+the """"""""mission"""""""" Graphics: decently realistic as far as I
+can remember so probably something from later in the xbox life cycle"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

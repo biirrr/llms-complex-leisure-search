@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "NA Romance. Teenage girl refuses to speak fell in love with
+her brother’s friend who is a musician. [s]. Hi! I’ve read several
+years ago a YA book about a girl who can speak but refuses to do it
+and doesn’t go outside. One day, she meets her brother’s friend and
+they discuss about books (he talks, she writes). He is a musician who
+becomes famous and goes on tour, leaving her. They continue to discuss
+about books through letters, but one day, he write to her that he has
+a girlfriend and she stops writing to him. Months or years later, he
+comes back to see his brother and her. They admit they’re in love with
+each other and they have a HEA. Thank you for helping me, I remember
+lots of things about the story but I forgot the title and I can’t find
+it in my Goodreads shelves."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

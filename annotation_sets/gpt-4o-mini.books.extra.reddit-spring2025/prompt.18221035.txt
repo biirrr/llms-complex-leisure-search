@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Firefighting memoir w/drowning rescue; probably 'Fighting
+Fire' or 'Working Fire' [s]. I recently (within the last year) read a
+firefighter's memoir in which said firefighter describes going on an
+ocean rescue (general rescue-related; there was no fire) to save a man
+who had swum out to sea to kill himself. The writer describes the man
+as being completely emotionless when saved, I think. I'm looking for
+that specific passage/section in the book. This is a slightly
+unorthodox request for this group, as I'm pretty sure it's either
+Fighting Fire or Working Fire . I thought it was the former, but I've
+just re-checked it out from the library and paged through three times
+to no avail, and I no longer have Working Fire -- so I'm hoping that
+1) somebody who's read Working Fire (or understands how to search for
+such passages on the Internet better than I do) can confirm the scene
+before I try to track down a new copy, 2) somebody recognises it from
+Fighting Fire and can point me in the right direction; or 3) somebody
+can say, 'no, you fool, it's this other book on your shelves'. I do
+think the latter's unlikely (am pretty sure the book was by a
+firefighter, and those are the only two I've read of late), but I'm
+open to suggestions. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

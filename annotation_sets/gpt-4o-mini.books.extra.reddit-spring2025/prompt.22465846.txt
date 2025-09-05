@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non fiction book about how so much European art has ended up
+in American museums. [s]. Hi, I’ve never read the book I’m looking
+for. I have been reading about stolen and looted art. In my hunt for
+something new on Amazon I found a book and the gist was what I put in
+the title. How did so much European art end up in the States. I
+thought I saved the book to my wish list, but clearly not. Anyone else
+run across a book like this? Thank you!!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

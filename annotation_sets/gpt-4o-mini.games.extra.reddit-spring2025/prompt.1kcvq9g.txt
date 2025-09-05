@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] help me find this hidden object game
+created by big fish games. Hi! I already posted this on the lost media
+and big fish games subreddits but it gain traction. I might as well
+try my luck in this sub. I need help looking for an old pc game made
+by the Big Fish Games company. I played this when I was very young
+probably around 6 or 7. Its a hidden object type of game where you go
+to different locations and find hidden objects. I am unable to find it
+since I forgot the title and there are like hundreds of hidden object
+games they created. All I know is: - probably made in the early 2000s
+since I was 6 or 7 at that time - the locations were all in this big
+white mansion I think - it had a lawn with tall hedges as a location
+(later on in the game, theres blood on the grass) - it had a pool as
+a location - it had a study as a location (later on in the game, it
+had a dead woman on the floor) - minigames were cracking a safe and
+finding missing letters to read a letter - its a pc game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

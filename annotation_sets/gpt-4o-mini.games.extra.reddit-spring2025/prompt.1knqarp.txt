@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps1 maybe][1990s] clown namedn""""""""fwonk"""""""". I'm
+trying to remember a third person shooter with almost a birds eye view
+like a dungeon crawler. The specific character i remember was fwonk,
+he was a clown esque character and he had 2 uzis. There were a few
+other unique selectable characters to play as well and if I remember
+correctly could be played split screen. The map designs seemed
+industrial in nature. You could shoot crates and barrels that would
+drop weapon buffs ammo and health."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

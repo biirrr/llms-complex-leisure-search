@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Flash game about a plumber Platypus. Ok so, I
+remember playing this game. It was about a blue(?) platypus who goes
+through tunnels and fixed the plumbing to do something. I am very hazy
+on the goal of the game but I remember it has a entire maze of pipes
+with one particular telescope outside the maze through which you can
+see the complete maze. The game was probably set in the canyons
+according to the landscape. I think it was something about bringing
+water to the city or to his house or something along the lines."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

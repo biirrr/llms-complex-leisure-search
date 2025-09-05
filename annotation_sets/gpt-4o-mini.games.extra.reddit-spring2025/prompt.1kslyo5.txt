@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Space 4x game with warhammer 40k theme included
+with a mod. There was a game i remember playing a while back, was a
+fan game made to be a 40k grand strategy space type of game. Due to
+legal issues the 40k theme had to be split off into a mod. Honestly, I
+vaguely remember a 2nd game also like this, but I may be
+misremembering. The one I'm thinking of had a primarily black and
+green color scheme (i think) This is a niche one, if someone knows
+this one i would be grateful."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][before 2010~] Skeletons, medieval, barrels, chain
+armors and mace weapons, inside a dungeonish environment.. Hello, I am
+looking for an old game that I've played when I was a kid. The things
+I remember: \- The gameplay I assume was 2.5D because I remember
+seeing the mace on the hand but also was able to see the chain armor
+when equiped. Actually it could be FPS and the arm could be wrapped by
+chains so I could be remembering the armor from the arms point of
+view. \- The first encounters were skeletons. \- The game must be
+ready to play, no story interaction, first scenes must be the ones I
+describe here and the game was not M&amp;M style because English is
+not my main language, I couldn't play it when I was a child. \- The
+ceilings were close and environment was dark, I remember a scene where
+a skeleton was coming towards us, background was full darkness, only
+ground was visible and ceiling was also almost on top of our head. \-
+There were barrels we could brake and items were on it. We could wear
+them. I remember there was a chain armor when we equip it I could see
+it on the character as I said on the first point. \- So far
+""""""""crusaders of might and magic"""""""" seem so similar to me but
+as I said it was on a closed environment I dont remember being
+outside, the game was dark. \- The game must be something for low
+requirements, my pc was so old so bad I remember that even its memory
+was below 16 gb."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

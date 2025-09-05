@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Grade School Historical Novel about a girl who is orphaned
+and her pet heron, took place circa 1900-ish. Read circa 1974.. The
+girl was traveling by train with her Mother to go to her Father or
+other relatives, when Mother gets sick. The cover title used the type
+of fonts you would think of for circa 1900. The girl on the front
+cover had on a white dress that was so typical of that time period."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Archeology finds that do not prove there was a King David,
+that Jerusalem was not at the time the bible says he lived a large
+city, etc.. Hi all, I'm looking for a book I read some time ago--say
+about 10 years. It's non-fiction and the topic under discussion was
+archeological finds that do not prove there was a King David, that
+Jerusalem was not at the time the bible says he lived a large city,
+etc. I have forgotten the name of the book and the name of the author.
+Perhaps one of your members is an archeologist and will know the book
+I'm looking for. Once I get this book I will be interested in any
+newer facts that have come to light. Thanks for your help.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Biker Romance. Male lead is a single dad, widower who
+almost lost his child in car accident. Female lead is someone's
+daughter from another club and becomes child's nanny. Spoilers.. MC is
+a Single Dad who lost his old lady and almost lost child in car
+accident -Someone's daughter from another club plays the heroine and
+ends up being his nanny and she loves that little girl (there's a
+slight chance it may be a boy) - The nanny and kid go into town one
+day and are hit by another vehicle and she saves the little girls life
+but is severely injured in the process -The MC dad comes raging into
+the hospital and is so vicious to her. The entire MC hears him yelling
+at her that it's her fault and he never wants to speak to her again.
+One of his brothers ends up dragging him out of the room. -The girl
+heads home to her own MC and he doesn't even let her say goodbye to
+the little girl - months later he figures out he was an ass and goes
+to get her"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

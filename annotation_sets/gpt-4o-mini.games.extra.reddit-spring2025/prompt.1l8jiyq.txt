@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2019] Game where MC is framed for gruesome murder,
+develops powers to investigate crime. I apologize as I dont remember
+a lot about the game. I did not play it, but I watched someone stream
+it around April 2019, and I dont remember who I watched. Likely would
+have been newer at the time. Game was a pixel-y style but detailed.
+Similar style to the Blasphemous games maybe, or slightly less
+detailed. What I remember is youre a girl who is auditioning(?) or
+working on some sort of stage like from a play. You go to the back and
+thats all you remember, waking up surrounded by corpses and blood. I
+believe police come but you escape arrest when some guy with some kind
+of powers shows up to help. You join his crew of misfits with powers
+and solve supernatural crimes whilst investigating what happened to
+you. Might be misremembering but I think main character lady died at
+the start, but came back with powers too, not sure what they were. I
+vaguely remember Muses (greek mythology) being involved too.
+Ending/finale takes place back at the stage where it started. I dont
+remember who the killer was or anything, but this is where I remember
+a Muse being specifically. Any help appreciated, thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Genre: non-fiction, occult, magic, witchcraft, angels and
+demons [s]. The genres for the book I am looking for is non-fiction,
+occult, magic, witchcraft and possibly angels and demons. I obviously
+cannot remember the name of the book, but feel it had 'companion' or
+'complete' in the title. The book lists the Judeo-christian names of
+angels and demons and gives a description of how they appear and what
+they do (such as a particular demon who answers all questions
+truthfully). It also has listings for historical magicians or supposed
+practitioners of magic (such as Crowley, Bacon and St. Germaine),
+zodiac signs, planets and a listing of herbs and their properties. I
+read this book about five years ago in an Australian library and,
+after moving back to the area, found that they no longer carry the
+book. I cannot remember if it was hardback or paperback, though I
+think it was hard, but the book was very thick. I have been looking
+for the book for the past three years but have had no luck. I welcome
+and appreciate any assistance and feedback I can receive. I loaned
+this book with 'The Complete Dictionary of Symbols : In Myth, Art and
+Literature' by Jack Tresidder and they were on the same shelf. I have
+tried seeking this book by searching for keywords related to the book
+by Mr. Tresidder but have come up with nothing, as this dictionary is
+considered historical satire and fiction on some sites and non-fiction
+and philosophical commentary on others."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

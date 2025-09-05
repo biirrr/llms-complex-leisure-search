@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] A horror? military-style first-person
+game where the first scene was set on a very dark island-like location
+with a squad of armed people entering a jungle/forest and witnessing a
+hanged body. not much else i can remember, except it had a greenish
+filter and the darkness hid some graphic error, there was also
+dialogue. for young me it was very eerie and i had to delete it after
+the prologue. the first mission might've been an operation. also the
+scene was probably a cutscene?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

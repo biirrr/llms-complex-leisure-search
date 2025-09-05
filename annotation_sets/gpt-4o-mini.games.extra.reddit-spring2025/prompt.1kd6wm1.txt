@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [pre-2014] looking for game I used to play with late
+father :). Hi, I know this post is a bit of a stretch considering how
+little I remember of it, but when I was a little girl I used to play
+this PC game with my dad. He had ALS and was almost completely
+paralysed so I cant imagine the game was too rigorous. From what I
+remember it was an adventure game, and I THINK it was point and click.
+The world building was a bit lonely and surreal and had some vibes of
+a post-apocalyptic world, but not too depressing. Visually it looked a
+lot like the game Machinarium but I distinctly remember there was an
+8bit mini game in it that dealt with you driving a submarine/ ship and
+trying to avoid hitting the walls. Im pretty sure you had to travel
+around the map to collect items to complete interactions to further
+your progress in the game. My dad passed when I was 10 years old in
+2014 so it was likely released before then and I remember we used
+Wildtangent as our gaming library so theres a pretty good chance it
+MIGHTVE been on there. And no, its not little big planet- Im fairly
+certain the animations of the game were 2D. Thanks :))"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

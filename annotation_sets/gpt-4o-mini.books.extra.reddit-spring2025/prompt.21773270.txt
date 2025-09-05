@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Picture book about Godzilla. Mentions King Kong won in
+American version, while Godzilla won in Japanese version? Read in
+1996.. Hey folks, Does anyone remember this one Godzilla picture book
+from the 90's, I remember reading it in 1996, where it mentioned
+inside that the American version had King Kong emerge victorious while
+the Japanese version said it was Godzilla? Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

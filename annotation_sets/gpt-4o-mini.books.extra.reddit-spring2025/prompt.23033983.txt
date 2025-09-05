@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery. Native Young woman to a cold snowy country
+trying to solve a murder.. The woman gets to know a kid, who falls
+from the top of a building. There’s a man who is skilled in machines
+that doesn’t speak much she befriends. She has a rich father that is
+disappointed in her from another country. But she thrives on hard
+manual work in the cold. I read this book maybe 5 years ago but it was
+older even then. Maybe late 90s, early 2000s? Spoiler is that it turns
+vaguely into a sci fi plot. The woman is left stranded and half dead
+once the ship reaches its destination somewhere in the middle of
+nowhere snow country, but has to fight her way back for some element
+that the ship owners sought. I really liked how the beginning of the
+book was written but wasn’t as impressed halfway through. Probably
+because I don’t love sci fi usually - but I’d like to recommend it to
+someone who does. Thanks all!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

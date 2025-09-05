@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] Puzzle/platformer where you transform between a
+robot and a swinging ball. Fairly typical platform puzzle game; you
+had to move around the level hitting switches or breaking things or
+whatever to get to the exit. The game had a very specific mechanic
+that made it memorable. Your character took on one of two different
+forms, and you could switch between them. I don't recall if it was
+something you could do any time, or if you had to touch a particular
+object or something. One form was a robot thing where your body could
+telescope vertically, and you would extend arms from your body, then
+retract your body and slide horizontally along your arms. You'd
+navigate the level in a cartesian way. The other form was a metal ball
+that could shoot out a tether and you'd swing around like Spiderman.
+There were certain parts of stages where you had to use one form or
+the other, but most of the level could be navigated in either form
+(though one might be more difficult). I really preferred the ball form
+because of the fun physics, but my buddy preferred the robot form
+because of the precise control. VGA graphics, early to mid 90s I
+think. A predominantly blue color scheme, but I'm not 100% sure about
+that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

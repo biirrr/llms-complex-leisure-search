@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4/PS5] [2015-2025] Tripple A game. Hi, my mom often
+watches me play games and really likes it. Now she is discribing a
+game Which I can't remember. I only have some vague descriptions about
+it. I have been scratching my head about which game she's talking
+about. Hoping someone will recognize it. - Multiple characters
+(groups) in a maybe theater like setting. She describes it as a moment
+where multiple characters meet each other and move on afterwards. -
+Someone has or had a relationship witch another character - Realistic
+looking game - White guy witch blonde hair, a somewhat black guy/asian
+and a woman. Maybe only this 3, but maybe more. - She thinks there
+were flashbacks tot the past This is all she remembers and I really
+want to know what she was talking about. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

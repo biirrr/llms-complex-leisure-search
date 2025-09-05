@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2018~] Game where you recruited soldiers and used
+them in a squad to complete missions. A 2D pixel art military game.
+Each soldier you recruited had a randomly generated name, some special
+traits and could raise ranks after completing missions. There was even
+a graveyard screen where you could see the soldiers that died. There
+was a gear drop system too, with rarity and special effects for each
+gear. No, it isn't a tower defender. The game had a
+""""""""endless"""""""" mode too, where you fight waves of enemies (it
+was not really endless, it was up to wave 100)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA American fiction poss. 1980s. Girl brought up by family
+but isn't welcome there after her mum killed her dad. She saves money
+from babysitting, moves back to family home where murder took place,
+lives alone self sufficiently. Read before 1995.. It was an American
+book that I read in the early 1990s. It was a teen girl book I would
+say and was from a publisher that published lots of teen girl books as
+I'd read others that were from the same publishers. The story was
+about a girl who had been brought up by relatives (I think Aunt?)
+because her mum had killed her dad (domestic violence I think?). She
+saved money from babysitting and when she came of age, she moved back
+to her family house which was dilapidated. There was still a blood
+stain where the death had happened. She cleaned up the house and lived
+off the land, growing vegetables and I think hunting meat. There was a
+local store that she visited. Any ideas what the book could have
+been?!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

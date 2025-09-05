@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3/4/Xbox 360][2000s] - Main character can stop for a
+smoke break. I'm pretty sure it was a 3rd person sci-fi shooter/action
+game. Only thing I can think that's close to it is Metal Gear Rising
+or The Surge. Characters were sort of space marines in high tech (I
+think) white armor, helmets had a sort of antenna around the ear. It
+had Gears of War style cover mechanics (sure that doesn't narrow it
+down) but the key thing that sticks out as that your character could
+light up a cigarette hile in cover to recover some sort of stat. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

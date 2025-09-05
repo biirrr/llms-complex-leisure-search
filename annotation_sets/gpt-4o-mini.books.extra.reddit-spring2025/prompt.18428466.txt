@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Searching for author who wrote two titles set in Central
+Asia. I am trying to find two books. One is fiction: a short story
+collection and the other is non-fiction by the same author. Both
+featured their set, Central Asia, possibly multiple nations in the
+region where the author spent some time in his late teens to early
+twenties. The author is an American White Male who was initially an
+aid worker when he first travelled there but am not confident about my
+memories. He (oddly) emphasized in the foreword of both books that he
+had no knowledge of Russian or local languages of any place he had
+been to and no prospect of learning in future. Both books were
+released circa early to mid 00's--2003, 2004. I kept the author and
+his books in mind planning to read them soon but they vanished from
+the market as well as from shelves in libraries before I actually
+could go back to read them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

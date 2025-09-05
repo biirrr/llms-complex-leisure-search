@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2007/2006 maybe]Desert/beach with buggies, sci fi
+speeders, and mechs. My brother is looking for a sci-fi shooter he
+played as a kid. All he remembers is that it has vehicles like
+buggies, mechs, speeders and stuff and that everything has very
+yellow-tinted glass. There may have been dinosaurs too. Any help
+appreciated. EDIT: They figured it out, its Chrome (2003) from
+Techland. No yellow glass or dinosaurs lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

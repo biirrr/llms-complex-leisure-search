@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s/Early 2000s] Horror Point &amp; Click Games. Takes
+place in American Southwest. Demons?. Platform(s): PC Genre: Horror,
+Point &amp; Click Estimated year of release: 90s / Early 2000s
+Graphics/art style: Similar to Myst? Notable characters: Some sort of
+creature or demon living in a cave. Notable gameplay mechanics:
+Exploration of an abandoned gas station in the desert of the American
+Southwest. Some sort of demon or creature is in a nearby cave. Feel
+like there was voice acting in parts of the game. Other details:
+Remember watching my friends dad playing this game. It freaked me out
+when I was a kid, so I probably was closing my eyes most of the time.
+Was definitely framed as a mystery and horror game and the game
+narrative warns you against going to a cave/tunnel where some demon or
+creature lives. Have been trying to find the game for years and no
+luck. Thank you for your time and insight!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

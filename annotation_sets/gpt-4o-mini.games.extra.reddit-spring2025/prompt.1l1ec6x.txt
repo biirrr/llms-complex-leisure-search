@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][2015-2017] First person game that resembles pixel gun
+3d. Hey everyone, I need help trying to find a delisted IOS game which
+i played when i was a kid Platform:IOS Genre:FPS Graphics:Only thing i
+remember is a map(which was the main one) that looked like it was in
+the desert every building was yellow coated in sand Notable gameplay
+mechanics: The game had various guns like pixel gun 3d and could be
+played offline with bots I just wanted to find a video on screenshots
+of the game because it must be delisted and not playable anymore but
+if anyone has any idea of what it could be i'd appreciate it very
+much. Also i could be wrong and maybe this is just pixel gun even so i
+wanted to find the map to relive memories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

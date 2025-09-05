@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Paranormal? Modern couple communicating with English Civil
+War era man via computer. [s]. Im trying to find the name of a book I
+read somewhere between 1990 and 1997. It was supposedly a true story,
+written by a couple who had bought an old house/barn dating back to
+English civil war period. Man has computer/word processor and starts
+finding words written on it, supposedly from a man from civil war era
+who claims to be able to comminicate using ""The lights"" that have
+started appearing in his barn/house, first he thinks its a prank by
+his wife but they begin to believe it. the messages get increasingly
+paranoid as the man from the past believes he'll be killed as a witch
+or whatever.. This would of been found in the paranormal section, and
+it could be a self published book, It was certainly presented as ""You
+wont believe it, but this actually happened to us""... I remember it
+having a dark cover, blues purples and blacks, shadowy man in wide
+brimmed hat. I dont remember it being ac particularly good book, but I
+forgot what it was called decades ago and Its an itch I need to
+scratch. Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

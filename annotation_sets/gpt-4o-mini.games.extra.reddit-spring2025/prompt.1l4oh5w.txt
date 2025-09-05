@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - Web flash game] [late 2000's - early 2010's] same
+concept as Club Penguin but with """"""""rockstar"""""""" animals.
+Okay so i vaguely remember playing this alongside Club Penguin,
+Pandanda and the likes in the early 2010's. You controlled some kind
+of animal that played instruments i think, i remember rock music being
+part of it. The game was very colourful and i remember you could buy
+some crazy vehicles that you would ride at the press of a button. It
+was more for aesthetics though i think. I also remember it not
+requiring a membership to buy the cool stuff like Club Penguin did. I
+hope this is enough because I've been thinking about this game for
+years not being able to find it. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

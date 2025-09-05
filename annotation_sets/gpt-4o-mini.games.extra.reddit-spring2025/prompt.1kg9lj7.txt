@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox360] [unknown] game that was similar to battlefield but
+it was kinda Sci fi with exo suits. I remember that it had big open
+team vs team maps with vehicles you could spawn (tanks, exo suits and
+such) and I think it was ticket based for win conditions You would
+also build bases in certain pre designated spots Players would have
+these power suits kinda like Spartans from halo I wanna say, but I
+remember the setting being Sci fi but not too Sci fi To spawn you
+would drop from orbit or something and could get shot by anti air
+cannons It had a free demo on Xbox 360 and Im pretty sure it had
+multiple games so it isnt a stand alone"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] Peter Pan / Lost Boys. Do you remember this PC
+game centred around Peter Pan and the Lost Boys? The only level I can
+remember was where you had to get the Lost Boys from the top of the
+screen to the bottom via a series of obstacles. Each time the Lost
+Boys dropped down a level they would shout, """"""""Geronimo!""""""""
+or """"""""Weee!"""""""" in a high-pitched voice. I'm fairly sure it
+didn't use the look of the Disney characters. I've tried searching
+online but had no luck."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2024-2025] Isometric/Pixel Roguelite with Mech/Robot..
+Hello, the art style kind of reminds me of """"""""Spilled!"""""""",
+""""""""Into The Breach""""""""Bombshell Blitz"""""""". It was
+isometric and the sprites were sort of 3d but pixelated. I don't
+remember the exact details of the gameplay but it was likely a
+roguelite and you kept upgrading your arsenal. IIRC there were
+multiple types of robots/mechs, with one having a crane/hook ability?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

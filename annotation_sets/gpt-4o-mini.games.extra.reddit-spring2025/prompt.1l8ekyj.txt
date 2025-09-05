@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Educational Kids Adventure in Jungle.
+Platform(s): PC! Genre: Kids Adventure / Educational Estimated year
+of release: early 2000s possibly late 90s Graphics/art style: 2D (?
+Maybe??) sidescroller/point-and-click Notable characters: I think just
+a bunch of kids in a jungle? Some sort of monster, I want to say was
+called like The Mothra but, I guarantee thats wrong. Notable
+gameplay mechanics: Lots of minigames One was a match-3-or-more game,
+with & brightly colored beetles? Other: They were stranded in the
+jungle, I think?, and trying to fix a mechanical ship to get home? I
+remember there being a dragon like monster, that maybe turned out to
+be a robot?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

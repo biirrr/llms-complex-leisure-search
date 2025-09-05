@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3] [unknown] sci fi. I remember playing this game on what
+I think was my ps3, it was a first person shooter kind of game in
+outer space on a planet where you fought other players with vehicles,
+tanks, guns etc, I thought it was called dune19 or something along
+those lines but I believe Im wrong because Ive searched to no avail,
+I remember the servers shutting down years ago while playing. Any
+ideas? Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

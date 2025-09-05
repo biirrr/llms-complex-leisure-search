@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS/DSi][2000-2015] cute little game mushroom-like creature
+as the protag. Platform(s): DS/DSi Genre: 2D! i think it was a
+platform/rpg kind of thing? i know you could like... jump at least
+Estimated year of release: between 2000 and 2015! Graphics/art style:
+pixelated! very cute looking, though it did kind of have gloomy
+sections! Notable characters: the protag! uhm i believe she was a mix
+of like,, brown mushroom cap and cream/tan body Notable gameplay
+mechanics: i dont have an answer for this unfortunately Other details:
+i could very well be imagining this / dreamt about it, but i swear i
+remember playing this game. uhm i never finished it, but i
+occasionally remember bits of the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

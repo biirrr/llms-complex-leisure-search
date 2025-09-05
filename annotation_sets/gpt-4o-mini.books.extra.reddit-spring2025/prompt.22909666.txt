@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short, realistic YA novel about two kids who volunteer at an
+animal shelter and there is a massive flood. Read 2021-2022.. I read
+the book in 2021 or 2022, but I got it from a used bookstore and I
+think it was a bit old so it could have been published anytime before
+that. I remember it was quite short. I believe it was American but I
+am not sure of region. Possibly South or Midwest. I'm fuzzy on the
+details but basically the two main characters volunteered at an animal
+shelter. I believe it was kind of a straight laced girl and rebellious
+boy, maybe he had gotten in trouble and had to work at the shelter as
+community service or something. But this really massive flood comes
+and they end up going into the flood waters. I don't remember why.
+They get on a boat and I think someone tries to kill them in one of
+the houses, like they're trying to save someone or get something and
+people are there robbing the house. I think the guy or one of their
+dads had an old pickup truck. I know for sure there's the animal
+shelter and the flood. I feel like the title was just one or two words
+and pretty generic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

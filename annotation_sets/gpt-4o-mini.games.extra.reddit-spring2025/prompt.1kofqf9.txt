@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2004-2010][PC] Turn-based RPG game in modern times with
+mythical beings. **Platform(s):** PC **Genre:** Turn-based RPG set in
+modern times **Estimated Year of Release:** 20042008 **Graphics/Art
+Style:** Top-down RPG with typical graphics for that era **Notable
+Characters:** I dont remember any specific names **Notable Gameplay
+Mechanics:** Fairly generic turn-based, top-down strategic RPG
+gameplay (similar in style to *Baldurs Gate 3*) **Other Details:** I
+remember playing a demo of this game from a *Computer Bild Spiele*
+demo disc. The intro featured your playable character sniping from one
+skyscraper into another to assassinate a vampire. After the hit, the
+protagonist gets exposed and has to flee. During the escape, a few
+characters join your party. Eventually, you end up fighting vampires
+in a metro station. One of the characters wielded something resembling
+a lightsaber or a flourescent tube (it kinda looked like one) , while
+your main character used firearms."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

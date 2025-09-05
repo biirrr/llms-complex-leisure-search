@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[UNKNOWN, BUT PLAYED ON A TV] [UNKNOWN YEAR] competitive
+muppets game that I played as a kid. I don't remember many details
+about this game, aside from the fact that I was a young child and I
+would play it on the old CRT(?) TV with my cousin whenever we came to
+visit. The game itself was in black and white and was sort of like
+Mario Party, if Mario Party had no board game part and was only the
+versus minigames. You could pick which of the muppets you would want
+to play as, (the options being Kermit, Fozzie, Miss Piggy and Gonzo..
+I think??) I don't remember all the minigames, but one I specifically
+remember is tug of war. I also remember that the muppets had stats of
+some kind. (I don't remember looking at them much, but I think they
+may have been bars with labels like """"""""strength"""""""" or
+""""""""speed"""""""") Miss Piggy for example was basically a
+guaranteed win at tug of war, but she was bad at everything else. (I
+always liked to pick Miss Piggy because I liked winning at tug of war,
+and it was always a competition with my cousin and sister to see which
+of us could pick Miss Piggy first.) I'm not sure how old this game is,
+but it definitely is old. The style/graphics felt like a recorded
+video??? idk how else to describe it. it looked almost like it was
+recorded on a camera with people in costumes playing the characters.
+(I could be remembering it wrong though because I was VERY young) I am
+very curious to see if anyone else remembers it and knows the name of
+it, as trying to search it up has yielded no results. (edit: turns out
+I was wrong and it was muppets party cruise don't know how my brain
+distorted it that bad)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [MID-2000s] Creepy computer game I played as a kid.
+When I was a kid (probably mid-late 2000s), I frequented this website
+of a bunch of free online games. Mostly just shitty flash games on
+websites like Kongregate, and they were all free, naturally. There was
+one game that scared me shitless (partly because I was too young and
+stupid to really understand how to play it), but this is all I've got
+to remember it. Again, this is at least 15 years ago. It was some sort
+of puzzle game where you were walking around a mansion (I think?) and
+the longer you didn't solve something, the more a creepy thing
+progressed. The only two things I remember are a shadowy hand thing
+moving closer to a well, and a portrait of a man whose eyes started
+dripping blood. I quit after the latter because, y'know, that's
+terrifying. Anyone know what game that might be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

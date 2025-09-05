@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox][Xbox 360][2001-2010] Flying ship/vehicle that could
+turn to a submarine.. I'm really trying to find a game from my
+childhood, I cannot remember if it was on original xbox or the 360.
+(Probably the latter). It was a game where you could fly around in
+these ship/submarines with combat arenas. And by going down to the
+surface of the water, grind along it for a short time to transition to
+a submarine mode, and do underwater combat too. It was split screen
+multipler up to 4 people. I distinctly remember a ship that had
+elongated wings/blades that were animated and folded as you flew
+around and whilst underwater. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1998-2003] This game traumatized my child me and today
+i want to look back into it!. Platform(s): PC Genre: First-
+Person,Dystopian, horror? Estimated year of release: i cant really
+tell but somewhere between 1998-2005 Graphics/art style: 3D Notable
+characters: dunno Notable gameplay mechanics: dunno Other details: At
+the first level you fly into a cave that looks organic? But the part
+that traumatized me was Body parts sticking out of the Walls and still
+moving. Like arms, eyes and even brains. I was so scared and always
+stopped playing until i saw it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

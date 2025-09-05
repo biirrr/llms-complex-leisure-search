@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book about Cuba. Read in the late 80s. [s]. I
+read this book for an anthropology class in the late 80s. I don't know
+when it would have been published, but probably in the 80s and
+probably written by a cultural anthropologist who was likely American
+or Canadian. I don't remember any details about the book itself aside
+from that it was quite a positive look at Cuba."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

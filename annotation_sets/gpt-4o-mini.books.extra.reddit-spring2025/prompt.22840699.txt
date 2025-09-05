@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction. Woman texts AI program after parent's death
+to keep their memory alive... Read around 2015-2019. [s]. I cannot
+remember a whole lot about this book's cover besides that I think it
+had some sky on it? Not sure though. The plot was basically a woman
+had created some kind of AI program that people could use to alleviate
+their grief of a dying loved one. The program could sort through texts
+and videos of a person and create a sort of profile of that person
+that could then send texts/videos/calls to you. The less texts and
+videos you had of the dead person, the worse the program was at
+emulating them...I remember something at the end of the book about
+parents of dying children using the technology and something being
+said about how sad it was that the parents were using the small amount
+of time their kids had left to make them make videos/texts for the
+program to use after their death than the parents actually spending
+quality time with their kids. I'm pretty sure I read this somewhere
+around 2015-2019, but could be a couple of years off either way. I
+unfortunately did not add this book to my Goodreads profile for some
+unknown reason!? Thanks so much for any/all help! And I am so sorry if
+someone has looked for this before, I could not find on any of the
+other threads."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction/ Adventure/ minor Romance, based in
+1800s. Young woman tries to get by and a man who doesn’t say much
+helps her. Book was about 3 inches thick. Read in 2005, published in
+1980s?. The cover was illustrated. I remember light green grass, a
+view of water and a pretty coloured sky. There may have been some
+houses on the cover and I think a woman in a burgundy skirt and light
+blue blouse looking out at the water from the grass and you only see
+her back. The more I try to remember, I feel I might be getting mixed
+up with other book memories, so I’m not entirely sure there was even a
+woman on the cover. I think she was on a train as a child and her name
+was Mary and she may have had no memory of her past. She does
+different things to get by, acting in a play is one I remember.
+Somehow she meets a man who doesn’t say much and he helps her. He may
+have been a criminal of some sort but is actually a good man. I think
+they end up together. It’s more of an adventure story of this woman’s
+life with only a bit of romance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

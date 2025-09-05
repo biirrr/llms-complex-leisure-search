@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Self-Help, Non-fiction. Aging and illness, accepting
+aging & death (e.g., no invasive treatment if she got a cancer
+diagnosis). Woman author. Read 2010-2019. [s]. A recent female author
+wrote a book about accepting aging and death and that if she got a
+cancer diagnosis, for example, she wouldn't get any invasive
+treatment, but just live out what remains of her life. Is this
+familiar to anyone? She may have written more than one book. Year
+would be in the last decade 2010-2019 TIA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

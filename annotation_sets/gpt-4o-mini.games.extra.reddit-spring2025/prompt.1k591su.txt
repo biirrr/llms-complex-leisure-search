@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox][2020-2022] Story Game on a quest to find father.
+Platform: Xbox (used to be on game pass) Genre: Story; Puzzle
+Estimated year of release: 2015-2022 Graphics/art style: cartoony
+Notable Characters: Main character that you play as- older brother,
+also a younger sister and dog Other Details: from what I can remember,
+the dad either got taken away or trapped in some portal, and you go on
+a quest to get him back or something along those lines. I believe it
+was 2D as well"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

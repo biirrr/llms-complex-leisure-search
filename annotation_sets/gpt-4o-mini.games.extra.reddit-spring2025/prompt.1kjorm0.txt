@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005-2010s] 2D Driving Game first person inside the
+car. Hey, i need help finding a game, it was 2d pixelart maybe from
+around the 2010s or maybe before that, it was a simulator or maybe
+survival game and you could grab the things inside your car with a in-
+game hand and steer also. I don't remember the name or anything about
+it maybe it was set in america? i also think it might have been a
+flash game. pls help :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [2010s] game where youre a child locked in your
+bedroom by your parents. from what I can remember from the game
+"""""""" Its possibly black and white (white with black outlines, but
+it couldve been in colors) """""""" youre a child/young teenager
+"""""""" It isnt first person its more like youre looking down upon
+your game, kind of like omori viewpoint """""""" you cannot leave your
+room and in the middle of your room theres a table with a radio on it
+"""""""" and at night there is a black monster that comes out from the
+walls (or somewhere I dont exactly remember) and when youre in the
+bed it will come lay on top of you """""""" I remember one ending
+where you either slip paper underneath your door or somehow mess with
+the radio and then you try to jump from the window/balcony but your
+mom comes in and pulls you off I dont know exactly when it was made
+but I probably watched a video of it in the mid to late 2010s and so I
+think it was also made around that time"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

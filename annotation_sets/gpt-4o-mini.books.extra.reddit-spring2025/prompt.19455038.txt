@@ -1,0 +1,55 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "A woman's true story about her years as an alcoholic [s].
+This is a very long shot, as I think this book might have been self-
+published with a limited print run. The only reason I came across it
+is because I once worked at a hospital mentioned in the book, and the
+consultant who took care of the author had a free copy that the author
+had given her that was lying around on the ward. So, odds are against
+anyone knowing it... still, I figure it can't hurt to ask. I read this
+book in 1998, and it was in paperback. I recall the title as being
+something like 'Out of the Shadows' or 'Out of the Darkness', but
+unfortunately that's too vague a phrase for me to get anywhere
+searching it. The author wrote anonymously. As I recall, she gave her
+surname as 'A', and then, throughout the book, when a character was
+introduced that she wanted to anonymise (usually a doctor) she would
+give their surname as the next letter in the alphabet, so we'd get Dr
+B, Dr C, etc. I have a feeling her first name began with a J - Jean?
+Joan? Something like that. The book was autobiographical and told the
+story of her years as an alcoholic and her struggle to give up
+drinking. Events that I can remember from her life include: She had
+anorexia for a while in her teens; I think she was at a boarding
+school at the time but I'm not sure about that. As I recall, it didn't
+get recognised or treated but she eventually outgrew it. She went to
+university - economics, I think - and got a job working in a pub in
+the evenings to save money, which is where the problem with the
+alcoholism started. She got married and had children called Chloe and
+David, followed by a miscarriage. Chloe and the miscarriage were both
+unplanned pregnancies and there was a whole thing about her being
+worried in case either the drinking or some sleeping pills her doctor
+had given her had impacted on Chloe when she was pregnant (Chloe was
+fine when born). She worked various jobs. I think one was in a
+bookshop run by a member of her or her husband's family who gave her
+the job due to her being a family member. At another point, she got a
+job teaching maths to sixth form students, but found she didn't
+remember nearly enough of her A-level maths so completely crashed and
+burned; there was then a complaint from a parent about her smelling of
+alcohol while teaching, which mystified her as she avoided drinking
+before work (she realised with hindsight that she was drinking so much
+in the evenings that she still smelled of alcohol the next day). When
+she eventually tried to stop drinking, it was hugely difficult and she
+was under various doctors. At one point she was admitted to a
+psychiatric hospital (the one where I later worked where there was
+this copy of the book). Her daughter, now a teenager, was going off
+the rails somewhat at this point due to the stress. She tried Antabuse
+or something similar - I forget exactly which one - but it had no
+effect on her. Any bells rung?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

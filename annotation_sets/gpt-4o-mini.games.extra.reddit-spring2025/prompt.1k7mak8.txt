@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE/PC] [MID-LATE 2010'S] A POLICE/SWAT GAME. it's like
+I know everything about this game, but can't find it anywhere. So it's
+this pixel 2d game where you're starting outside of an house filled
+with gangsters, you get inside and kill them without being noticed and
+boom mission over onto the next one. You could use 4-5 different
+characters with each of them having different attributes that you can
+upgrade. Please help =O and ask more questions if you want"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

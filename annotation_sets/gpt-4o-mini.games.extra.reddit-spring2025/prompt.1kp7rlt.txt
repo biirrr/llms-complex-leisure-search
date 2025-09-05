@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010-2015ish] Tower defense where the player is a
+hero. Basically, a tower defense with the typical your side and
+monster's side, 2d style with a couple different heroes you could play
+as, though they were limited depending on the level, I remember a
+multiplayer system to get artifacts and buffs, and on the more
+specific things, there was a horse troop you could summon to buff your
+hero instead of fighting directly as a regular troop From the heroes,
+I remember a knight, an archer, and maybe a wizard and a bomber, also,
+it's possible that the game's name had the word dragon in it Here's a
+very, very ugly sketch of what it should be"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

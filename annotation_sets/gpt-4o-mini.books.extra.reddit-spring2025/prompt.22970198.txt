@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens book. Preteen girl, alcoholic father, lying
+problem. Spoilers.. Read around 2014-2016, a young girl 8-13 probably
+is in a family with a mother, an alcoholic father, an older
+brother(maybe named theo or something similar) and a younger sister.
+The main character has a lying problem, and tells her best friends
+family about what she wishes her life was like. At one point the
+father breaks the brother's arm and at another point her mom's nose.
+He gets them presents after. At the end, the mother kicks the father
+out, and the last scene with the dad, the main character brings him a
+coffee maker. There is a book in the main street series by ann m
+martin that is similar, but this is different."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

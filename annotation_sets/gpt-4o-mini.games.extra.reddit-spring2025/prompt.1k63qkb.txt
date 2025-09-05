@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/PS4/PS5/PS3 or 2] [2005-2020?] Very unique game where
+you slay titans.. I remember that this game released back in the early
+2000's, but later got a remaster which brought it to ps4, 5 and pc.
+Before that, it was only playable on the ps2 I think. Anyways, at the
+start of the game you were carrying a young woman to an altar. I don't
+remember anything about her. I don't even know if she was a family
+member or not. So once you put her on the altar, a voice from the
+heavens spoke. It told you to kill some creatures which I don't
+remember the name of. I remember that the temple the altar was in had
+a lot of stone drawings of the titans. When one died, the stone fell
+and got destroyed. You were killing them to get the girl back to life.
+Edit: Thank you guys, it was shadow of the colossus. I had it confused
+with ico."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

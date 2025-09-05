@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Phone] [2010s] Castle Defense. So im trying to find castle
+defense game with animal dog(if i remember correctly) is a hero on a
+horse that can use spells, its like wave type game where you can move
+him and protect castle and attack demon/monster castle, you can spend
+currency to summon different animals that will attack enemy castle
+Also can upgrade and buy accessory/weapons etc. in shop Cant remember
+more, if anyone knows this game would be happy to know =O<û=O<û"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult British ""Chick Lit"", male? author. Gay man has
+various relationship dramas with boyfriend, ends up with his female
+friend called Tor? (Scandinavian). Set in large UK city. Read late
+1990s/early 2000s.. I read this in the late 90s/early 00s and I'm sure
+it was sort of chick lit style, but written by a male author. I had in
+my head it was Mike Gayle but the more I think about it, the less
+likely that seems, and none of his look right anyway. It might have
+had a similar style cover - those 90s hyper-saturated colour blocks?
+It was about a gay man, who had various relationship dramas with his
+boyfriend, but at the end of the book he got together with his female
+friend, who I remember as being a stern Scandinavian woman called Tor,
+which was short for something like Torquil, but a girl's name version.
+I know it's very little to go on, but thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

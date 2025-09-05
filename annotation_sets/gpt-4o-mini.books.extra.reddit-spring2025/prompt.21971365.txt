@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture book. Kids Halloween book featuring
+Marzipan candy, from the 1970's or 1980's. [s]. Hi, Looking for the
+name of a kids book I read to my oldest and he loved back in the 90's.
+It was a kid's Halloween book we found at the library, but it was
+dated, drawings looked like 80's or 70's. It was about kids getting
+dressed up to go trick or treating, with Marzipan candy somewhere
+mentioned. Like to find it for this son's son, my grandson, so I can
+share with him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

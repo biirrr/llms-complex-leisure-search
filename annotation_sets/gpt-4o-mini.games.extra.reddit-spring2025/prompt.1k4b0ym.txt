@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[computer] [2015?] Office horror. My boyfriend described a
+game he saw Markiplier play, but he couldnt remember the name for it.
+He described it as being in one room, an office. Theres a ghost that
+keeps trying to get at the player. The player is supposed to continue
+working while avoiding certain things or doing the right things?
+Possible multiple game overs. 2d game, point and click. He said that
+at the end of the game, the player buries a body, the body of the
+ghost?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

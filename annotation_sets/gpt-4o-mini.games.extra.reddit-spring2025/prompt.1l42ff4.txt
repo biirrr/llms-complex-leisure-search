@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016 or before] A simplistic 3D detective game with a
+goofy vibe to it. I remember seeing playthroughs of this game around
+2016, or before but definitely not after. It was about playing as a
+detective in first person, I do not remember the contents of the
+mission whatsoever. It was in a simplistic 3d art style, for example
+the npc's were a bit stiff when moving. It wasn't a game with a
+serious tone as it containef very silly interactions and events. The
+game starts off at a hotel lobby, and stuff escalate from there. I
+also remember in the last mission you had to crawl into a human
+crocodiles mouth and walk through his insides to find a tv, which lead
+to the end game. I do not remember much of its gameplay, but you could
+toss stuff around, and by stuff I mean npcs too. I do not know what
+genre I could consider it in, but i'm thinking it was made by an indie
+studio. Edit: I failed to mention it was also playable in VR"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2020?]Retro MS-dos looking immersive sim..
+Platform(s): PC Genre: Immersive sim/RPG, post-apocalyptic, sci-fi,
+first-person Estimated year of release: 2010-2020 Graphics/art style:
+Retro, MS-dos look. Notable characters: Cyber-ninja looking people,
+Some of them can turn invisible. A decent amount of your enemies are a
+variety of somewhat alien-looking animals. Notable gameplay mechanics:
+Janky and rough movement like system shock, clunky fps combat using
+guns, magical/voodoo focus, melee/throwing weapons. telepathic and
+curse/voodoo based magic using a focus object. You can hire npcs to
+fight with you. Enemies drop their gear upon death that you can use,
+(throwing knives, grenades, guns etc). Hacking and lockpicking (no
+minigame, just a random chance to succeed/fail depending on
+character's skills). A lot of enemies can do long-term bleeding/poison
+damage. Other details: Early on you meet some sort of group of cyber-
+ninjas, they are guarding the controls to a dam that you have to open
+to let a ship/submarine through. The game might end with you
+detonating a nuke or similar weapon on an
+submarine/airplane/spaceship. PS: I might be mixing up some
+information, since the developer has made two similar games, one that
+is a post-apocalyptic sci-fi, and the other that is a tropical/jungle
+themed one. Both have high-tech weapons and magic and share a lot of
+gameplay mechanics and skill-systems. I'm very certain the game isn't
+actually that old, but that it's made to look and play like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

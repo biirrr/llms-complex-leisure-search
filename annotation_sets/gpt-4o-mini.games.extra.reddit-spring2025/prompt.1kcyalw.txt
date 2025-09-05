@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, DOS or Win95][90s] Platformer with multiple levels of
+doors leading to rooms/levels with different challenges. Platform(s):
+PC DOS/Win95 Genre: 2d platformer Estimated year of release: 90s
+Graphics/art style: 2d side-view platformer, bright colors, must have
+been a light-hearted/funny game Notable characters: The main character
+could stretch himself to be taller. There was a bossfight in one of
+the rooms with two sumo balerinas, if I remember correctly. I think
+there were penguins on some level. Notable gameplay mechanics: The
+main level was a multi leveled building with lots of doors leading to
+different levels, some were bossfights, some were bigger levels. There
+was a level where you could ride a bathtub, maybe even fly with it?
+The main character could stretch itself. Other details: I played it as
+a child in the early 2000s on an old win95 or DOS PC that could only
+run older games (older than early 2000s games), so it is probably a
+90s game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

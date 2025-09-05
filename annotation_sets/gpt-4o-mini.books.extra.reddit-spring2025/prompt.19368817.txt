@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Holocaust True Story - Time frame is around 1943-45.
+[s]. This is a true story of a woman who would now be in her 80s. She
+wrote her story of having survived the Nazi holocaust through several
+lucky events. e.g., she escaped being shot and falling into a pit. Her
+father was a doctor, her mother, by sheer chance took a bullet in the
+head and saved the teen. She worked in a farm in the Ukraine and
+helped the farmer whose seizure was familiar because her father was an
+MD. The girl was about 15 when her mother accidentally was shot in the
+head in town. Girl ran away; She rescues some Jewish Russian soldiers
+who were in a RR car; they helped her as well. It was nip-and-tuck
+staying ahead of the Nazis who, I'm guessing, were in trouble with the
+Russian army. When the war was over she went home to find it occupied.
+Eventually, she moved to the States. This wasn't a diary; it was a
+well-remembered re-telling of this girl's capture (and several
+neighboring families). And her harrowing events until she reached the
+States. The time frame is - 1943 to '45."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

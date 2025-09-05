@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[No clue][Probably 2000s?] Two Final Fantasy Games.. I've
+been looking for two final fantasy games for a while because I need to
+look for specific songs from them on an old sleep video I used to
+listen to. The first one has an opening cutscene of an army attacking
+the city. A group of mages begin opening portals and summoning meteors
+through them to rain down on the attacking army. The army corners a
+mother and son in a cave or mineshaft or something and the mom lifts
+the kid through a high up hole in the wall. She's killed and the kid
+is on the other side of the wall. The second one has a cutscene where
+a large character is talking to someone (I think a kid) about
+perspective and how everyone sees colors differently, and how they see
+a rose as a different shade even though they both call it red. You can
+also play as a cat person I think, and if I remember right it takes
+place in a desert. Both are 3D. The second one feels more like a PC
+game while the first feels kinda like a PS3 game, but that's just my
+feelings, it's definitely not certain."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

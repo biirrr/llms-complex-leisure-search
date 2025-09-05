@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction: American woman lived in Shanghai. In each
+chapter she discusses a Chinese character, how it got its form & what
+it means. Cultural intro to China. [s]. So back in the spring of 2011
+I read a book written by an American woman who lived in Shanghai. In
+each chapter in the book she discusses a Chinese character and how it
+got its form and what it means. It is kind of a cultural introduction
+to China. It is a small book, my copy was about 8 in by 6 in and was
+probably only 100-150 pages. I really want to read it again and I want
+my sister to read as she will be going to China in the fall. Thanks
+for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

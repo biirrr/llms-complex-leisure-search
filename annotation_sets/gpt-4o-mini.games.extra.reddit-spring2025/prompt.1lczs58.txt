@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] FPS Singleplayer. Hi. I can remember only
+the start of the first mission of the game I played sometimes at my
+uncles when I was younger. You startet in an (desert?!) area ( maybe
+droped by a chopper?) und heading to a building where a guard is
+outside. Yoh can sneak in his back and then stab him with a knife or
+shot him with a pistols, other weapons will be found later in the
+game. It was a """"""""realistic"""""""" art style (as realistic as it
+could be in the early 2000s) but I didn't remember the rest of the
+game or the final quest or something) But I think it was done type of
+anti terrorism unit games which took place in Afghanistan or Irak.or
+something. Hivemind pls help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

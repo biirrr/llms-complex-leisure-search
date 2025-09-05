@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][EARLY 2000S] Looking for a """"""""James Bond""""""""
+game. Hey everyone! I've been trying to remember the name of a stealth
+military shooter game that my dad had introduced to me around
+2006-2009 on our laptop. He used to call it """"""""James Bond""""""""
+but obviously I'm not sure if it actually was a James Bond game or if
+he referred to it that way because it felt like one. The game was
+mostly focused on stealth and tactical shooting, I have forgotten the
+main mission objectives, but it felt like an infiltration into some
+military barracks/facilities. The game's intro starts with a long(?)
+cutscene where the main character walks down a dark tunnel or hallway
+to board a helicopter on a helipad and then takes off. I think the
+first mission involved climbing a lookout tower or some kind of
+structure, with an enemy patrolling it. Been looking through lists of
+stealth and shooter games from that era but no luck."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

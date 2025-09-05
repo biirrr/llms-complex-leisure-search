@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] Website game similar to how neopets works.
+Platform(s): PC Genre: flash? Idk what sort of genre games like this
+are considered lol. Estimated year of release: early 2000s probably.
+Same era as RuneScape, neopets, whyville Graphics/art style: very
+cartoony Notable characters: none Notable gameplay mechanics: there
+was house decorating. The houses that I remember are like townhouse
+kind of on the outside, I dont remember the interior, or if there was
+any. Also part of it was dressing your character. There was also a
+random assortment of flash games. Other details: I dont think it
+exists anymore. Im pretty sure the title ended in -ville. It was
+similar to how neopets works where its just like a website game and
+you click around. It wasnt a pet site though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

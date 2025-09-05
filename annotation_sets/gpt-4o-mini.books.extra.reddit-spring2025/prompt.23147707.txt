@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction, 1990s series about a female (TV?) reporter.
+Funny and sassy vibes. Friend whose surname is Thibodeaux which the
+network want to spell phonetically. Thinking about 90s books for my
+other thread has reminded me of another series I'd love to re-find. It
+was about a female reporter, I think for a TV station but could have
+been a newspaper. I can only remember some disconnected scenes: her
+friend has the surname Thibodeaux but the network thinks that's too
+complicated and want to spell it phonetically. She interviews someone
+who has been in an 'Alive' type situation and upsets the network by
+asking him what human flesh tastes like. She (and one of her friends?)
+have edited their pre-recorded obits to make themselves sound amazing.
+There was some reference to Zubrowka bisongrass vodka. I remember the
+books as having a vibe a bit like Janet Evanovich but smarter, and I
+think one of the covers had a picture of a woman in sunglasses but
+manipulated with bright colours - maybe a hot pink border and bright
+yellow or blue sunglasses frames? That's a really random collection of
+things, but any ideas would be brilliant!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

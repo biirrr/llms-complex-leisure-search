@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED Adult Non-fiction. Pure Mathematics is completely
+imaginary, but is Isomorphic with the physical world in some cases.
+Could be a book on teaching math or physics, or a book on an abstract
+math subject like groups or infinities. Read 2019-2021. [s]. The key
+quote in this book is that mathematics is completely imaginary, but is
+isomorphic with the physical world in some cases - which makes it
+useful. I read this sometime in the last 1-2 Covid-19 groundhog-day
+years. The specific word isomorphic stuck in my head. It could be part
+of the series of books that talk about why teaching math as anything
+but a creative activity is a mistake or a physics book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

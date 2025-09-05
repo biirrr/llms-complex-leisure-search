@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [late 2010s - early 2020s] Help identify a missing
+mobile game that may or may not have been removed from the playstore..
+My friend recently had to remove a lot of apps from their phone and
+removed this one game by accident, they can't remember the name and
+according to them it was playable offline as well, they gave me a
+description: It was on Play Store, but apparently not anymore, because
+I can't find it in the section of apps not installed that you once did
+install. It's a game where the goal is to jump (not platformer) very
+far up and grab these little white things, and sometimes a pink lotus
+flower appears and gives you more points. You had to be careful to
+jump only in places you could (its like a wall), and sometimes the
+places you could jump to had fun shapes like the shape of a dragon,
+etc. It also had snow in some parts, others where you could jump only
+once on the wall before that part fell. The game has a blue color
+pallette, and the more points you get, you can pay to change the
+animal you play with. Each animal has a different little power, I
+remember the last one/the strongest animal you could get was a fox,
+which I always played as. You could watch ads when you died to go back
+to where you were, and you could watch ads to double your points after
+you died. It's very ASMR and nice to play, quiet and pretty. A little
+bit like Alto's Adventure in that case. The name may have
+""""""""flower"""""""" on the name, or not. I sadly don't remember. I
+think you could use flower petals or points to jump higher in the
+beginning from the ground, and you could also use the points to use a
+magnet which will draw the little white specks(?) closer to you, so
+you don't need to get too close to edges where you could fall. That's
+all I can remember. I appreciate any help and will explain further in
+case anyone has any questions."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir/biography about a Polish boy who is sent to camps in
+Siberia during World War 2. Spoilers ahead. [s]. I read this book when
+my dad brought it home from work, in either 2015 or 2016. I think the
+book was published in 2013, but I could be wrong. From what I
+remember, the book is about a young polish boy who is sent to a
+Siberian work camp with his family. I don't remember his name, but I
+do know he had a little brother or sister named Edek. (the rest from
+here is pretty much spoilers) after the family is released (or they
+might have escaped) from the camps, they travel to another country. I
+dont remember which one but I think it was Kazakhstan. I remember them
+traveling through the russian cities of Tomsk, Omsk, and Novosibirsk.
+I dont really remember much from there, but I know the family ended up
+in Mexico somehow before they were able to arrive in America. I hope
+this helps! I've been searching for this book for days, so thank you
+to anyone who is able to offer me and information on what it could
+be."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

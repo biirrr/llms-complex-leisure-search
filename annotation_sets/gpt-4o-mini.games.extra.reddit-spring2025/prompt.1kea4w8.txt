@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2011-2013] 3d isometric zelda like game with level
+(map) progression instead of open world. Platform(s):I played on pc
+Genre:third person fighting, but with progression through levels. like
+zelda fighting a little but with fixed levels and not world exploring.
+Estimated year of release:2011-2013 Graphics/art style: In my
+memory...maybe cel shaded but it looks like zelda and I think the
+author explicates this inspiration. The camera is isometric and fixed
+in angle and distance but I think everything was a 3D model. very
+notable that most of the game's music was blues music on an acoustic
+and an electric guitar. Notable characters:white haired male guy as
+protagonist, short hair. i think the game might be named after him.
+Notable gameplay mechanics:you unlock new weapons with new levels and
+can bring...idk two or three or something to next level. the game was
+split into levels. it may have had platforming a little bit but the
+display style was not optimized for that and mostly it was fighting.
+you have a bow and some short ranged weapon at the beginning and
+unlock some flintlocks at some point and just various other weapons at
+different points in game that have differing functionality. Other
+details: the game's name may have started with ga- or gal-. i think it
+was free... i wouldn't have been able to buy a game then. i'm almost
+certain the game had an author and not a company behind design and
+release."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

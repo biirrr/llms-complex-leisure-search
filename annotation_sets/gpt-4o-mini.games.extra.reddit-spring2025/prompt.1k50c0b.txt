@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010?] Mouse puzzle/maze game. Platform(s):
+Windows, maybe available for MAC Genre: Puzzle, Maze, Children's game
+Estimated year of release: 2000 - 2010 maybe earlier but not later
+Graphics/art style: 3D. Nothing advanced but quite average for the
+time. Notable characters: The main character is a mouse or rat (maybe
+a different rodent but probably a mouse). I think you might be able to
+control it directly but I'm not sure. Notable gameplay mechanics: The
+goal was to guide the MC through an obstacle course of sorts. I think
+you could trigger different switches and other mechanics to
+clear/guide the way. Other details: The maps where set on a table(?)
+There where different map styles such as medieval or carnival and
+maybe some sort of Las Vegas casino kind of style. It may feature
+wooden playing block style kind of """"""""high ways"""""""" the MC
+would walk on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000s/Early 2010s] Tile based puzzle game, maybe
+reveals colorful pictures as you complete the level?. I don't remember
+exactly how the gameplay was, but i believe it was sort of like a
+bejeweled or candy crush style of game. I remember it having very
+bright colorful pictures, maybe almost kind of paint by number style
+drawings. I think I remember many sceneries like a little beach and
+and maybe a couple that were animals like a cat and whatnot. I believe
+the more you complete the level, the more you revealed of the picture.
+Could be wrong and the pictures could just be the levels. I believe i
+remember 5 different tabs for different difficulties. I believe I
+remember a little progress bar would fill up and the music would go
+pretty crazy. Pretty certain i remember we had it on disc, so it
+wasn't a flash game. I almost think its some type of mosiac game like
+the Fantasy Mosiac games, but i remember the colors being way more
+brighter and especially the title screen. I also think I remember the
+pictures taking up more of the screen."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

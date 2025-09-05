@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen story, coming-of-age. MC called Eden was in hospital a
+lot and there was a guy with a flower shop. Read around 2020-2021..
+I’m actually so baffled. I read the book years ago—around 2020-2021. I
+*think* the main character was called Eden. she fell off a wall, or
+there was water involved, i can’t remember. she was in hospital and
+there was a guy with flowers? i remember she went to see him. there
+was also an older woman there when she went to his house. this might
+be a super obscure book. i’m from the UK, so we have a lot of niche
+publishers. any help is appreciated"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

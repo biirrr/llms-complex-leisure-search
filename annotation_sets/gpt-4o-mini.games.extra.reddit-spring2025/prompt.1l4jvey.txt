@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows or DOS][Mid-90s] 2D spaceship shooter.
+**Platform:** Windows or DOS (possibly MAC) **Genre:** 2D top-down
+space shooter, but not scrolling. Like a 1v1 arena fighter with a
+selection of varied sci-fi ships. **Estimated year of release:**
+Probably mid-90s. 1998 at the very latest for certain. **Graphics/art
+style:** 2D sprites. **Notable characters:** I think one ship was
+called Space Vixen or something. I remember the word vixen somewhere.
+Another ship had a self-destruct function. **Notable gameplay
+mechanics:** I think it was multiplayer. You pilot your ship around a
+static screen like Asteroids, and I seem to remember a similar feel
+with inertia drift and such."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

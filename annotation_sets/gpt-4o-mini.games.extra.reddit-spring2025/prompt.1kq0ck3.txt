@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Flash Game][2000s] Point-and-click 2D horror game with a
+menacing presence. Platform(s): PC, Web. Probably a Flash game. Genre:
+Horror Estimated year of release: 2000s Graphics/art style: 2D;
+realistic cartoon Notable characters: You play as a young woman who
+would have **flashbacks** of an old, hooded person holding a box
+containing what appears to be a small part of a skeleton. The hooded
+person places the box on a pedestal. Notable gameplay mechanics:
+Point-and-click. A **red or black gooey/foggy presence** would enter a
+room seemingly at random. It would be shown creeping in from the side
+of the screen. You are in another room when this takes place. If you
+entered that room, you would lose the game. A cutscene (from the point
+of view of the goo) of the goo charging at the woman/player would
+play. The woman is facing the goo/camera in this cutscene. Other
+details: If I remember correctly, the game opens up with a theater or
+opera house where the woman was either performing or attending. I
+can't recall if the game takes place somewhere in the theater / opera
+house, but it's definitely in the interior of some livable space."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

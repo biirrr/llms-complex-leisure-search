@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Feminist motherhood memoir where the parents turn the family
+matriarchal. [s]. This is a feminist memoir that I read in a course in
+college. That was around 2002. I remember only two distinct things:
+when reading books to her children the mother would sometimes change
+male characters into female characters and even Drew breasts on the
+Man in the yellow hat in the curious George books. And in the end she
+acknowledges that she and her husband actually created a matriarchal
+family in their efforts to create a family where both she and her
+husband were equal."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

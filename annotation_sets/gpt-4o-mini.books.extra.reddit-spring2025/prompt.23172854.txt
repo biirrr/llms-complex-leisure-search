@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction, WWII Romance/ Drama. Jewish woman
+moves to US. Read before 2013.. I read this book before 2013, so it’s
+likely older or out of print. I believe it was adult historical
+fiction/romance, written in first person, trade paperback size. The
+story is set in Europe just before WWII. The main character is a young
+Jewish woman living with her mother, father, and an “adopted” sister —
+possibly named Lore, Lorelei, or something similar. I don’t recall if
+the sister was also Jewish, but she had bad teeth (possibly due to
+post-WWI malnutrition) and had earned a nursing degree before the
+novel begins. There’s a scene where they look at a photo of her in her
+graduation uniform. Early in the book, the narrator falls in love with
+a young man whose family is aligned with the Nazi Party — but he
+himself is not. There’s a moment when her father asks what kind of
+life she would have with his family, and the man says something to the
+effect of, your family will be our family, like I'll have nothing to
+do with them if I can be with your daughter. Soon after, he
+disappears. The adopted sister goes to investigate and reports that
+he’s joined the Nazi Party. The two women end up escaping to America
+together before the situation worsens. I think the Jewish girl might
+be pregnant. In America, there are a few memorable adjustment scenes —
+like confusion over supper vs. dinner, or someone comparing German vs.
+American potato salad at a picnic or barbecue. Okay, that's as much as
+I can say without giving up spoilers. Anyone????"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2016+ maybe?] Vaporwave style game that was just
+walking around. Hi guys, this game is haunting me. From what I
+remember the game was a vaporwave style and was set in an open area
+that contained a weird building that looked like it was an optical
+illusion. You would wander around the building and it seemed to go on
+forever and I think that was the only thing to do."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

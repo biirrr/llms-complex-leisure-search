@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][early-mid2000s] adventure horror game. Platform:pc
+Genre:horror, first person point click Ive played this game long ago
+The game starts in a manor and i remeber there was a a girl singin a
+lullaby and that girl vanishes with a thunder clap and then you go to
+a hotel where you get chased by this weird ghost or creature screaming
+""""""""pippo"""""""" idk if that's exactly what he was screaming by
+yeah thats the game,the closest thing i got searchin was
+""""""""scratches"""""""" it was very similar to the game im talking
+about,can anyone help me find the game i would be really grateful"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

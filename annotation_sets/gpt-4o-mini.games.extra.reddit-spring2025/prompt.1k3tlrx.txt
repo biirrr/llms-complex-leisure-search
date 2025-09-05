@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps2][2000s] Horror game I played on a demo disc. I remember
+you play as a guy in a bathroom at a dinner I think, and he was
+washing his and freaking out after killing someone in a stall. The
+same demo disc had a dirt bike game as well. I know it's not silent
+hill, but it has that similar ps2 horror vibe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

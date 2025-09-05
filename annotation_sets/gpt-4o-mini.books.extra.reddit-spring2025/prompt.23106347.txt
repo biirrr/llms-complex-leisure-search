@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book. Dog book with soapy adventure.. I remember
+a book I read with a male dog that was having adventures while
+roaming. He met a female dog that did not like him. As a result, she
+put soap in his food or water dish so that people would think he was
+mad (I do not think they used the word rabies). he could not
+understand why people were getting jysterical."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

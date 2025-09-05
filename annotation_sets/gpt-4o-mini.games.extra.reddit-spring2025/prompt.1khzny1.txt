@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][Unknown year] Game that shares a name with a famous
+historical document.. I am looking for this old Jrpg I used to play. I
+remember it was the second in the series. It had this sort of turn
+based combat where to do attacks you had to do a qte as the buttons
+spun around your character. If I'm remembering correctly the name is
+the same as some kind of famous historical document but I can't
+remember it at all. Edit: I think it was PS2 but that could be wrong,
+it was a long time ago"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

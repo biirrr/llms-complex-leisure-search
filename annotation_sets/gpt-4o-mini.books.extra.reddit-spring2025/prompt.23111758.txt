@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction about a reclusive, disfigured young
+woman in 19th century England who tends a mysterious garden that helps
+her with her problems.. She lives in seclusion, has one friend, and
+struggles with her dark past, including the social and economic
+restrictions placed on single women at that time. Her abusive father
+and husband plot to steal her inheritance, a valuable painting left to
+her by her long-dead artist mother. Her garden gives her support and
+comfort and provides protection when peril looms. Events in the garden
+add an element of whimsy and fantasy to the story. I don't remember
+the character's name, but her name ""and Her Mysterious Garden"" are
+part of the title, I believe. I read it a few months ago; it was
+recently published (2024/2025?). The author (name?) is female
+(American?)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

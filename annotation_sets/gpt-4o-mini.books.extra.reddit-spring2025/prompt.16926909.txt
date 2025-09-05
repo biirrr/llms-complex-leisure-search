@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "book about a teen girl who had 1 breast much larger than the
+other? [s]. Probably read this one about 2000. The main character had
+one breast that was much bigger than the other. There was a boy that
+made her not feel like a freak. I think it was non fiction or semi non
+fiction. I read it when I was 11 or 12 and it seemed like it was a
+little above my reading level. Cover might have had a girl on it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

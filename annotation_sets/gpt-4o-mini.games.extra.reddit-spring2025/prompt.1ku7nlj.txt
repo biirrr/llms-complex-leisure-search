@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s]Buzz Lightyear Game?. Platform: PC (unknown if
+more) Genre: The level I can remember was an arcade shooter that was
+on a track shooting at asteroids or other things Graphics: OLD 3d with
+the basic geometry and crappy lighting. Notable characters: Zerg, and
+buzz Lightyear I think Notable gameplay mechanics: Asteroid shooter
+and i think power ups. Other details: It was very hard to find every
+time I wanted to play it as a kid in 2005-2007"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

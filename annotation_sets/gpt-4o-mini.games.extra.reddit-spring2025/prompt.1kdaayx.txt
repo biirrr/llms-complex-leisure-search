@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] a free steam horror game. I dont remember
+much, but it was a free steam horror game I played around 7+ years
+ago, you started in a really dark forest and most of the game took
+place on this wide path surrounded by trees. I vaguely remember the
+concept that the monster would get you if you made too much noise, and
+i remember a lot of sign posts and potentially a house being the first
+location you go through? For the time the game looked pretty real and
+had very little story elements from what I could tell. I know this is
+all super vague, it might have been a demo for a game releasing but i
+scoured my entire steam library and cant seem to find it or any
+evidence it existed. I know it sounds a little like slenderman but its
+not lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

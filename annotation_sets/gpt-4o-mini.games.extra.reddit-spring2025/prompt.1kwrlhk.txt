@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2010s] extremely punishing platformer with
+anthropomorphic cats.. Its very similar in art style to super meat
+boy, and it is NOT Cat Mario. it was an extremely punishing
+platformer, and the characters were anthropomorphic cats. Level Design
+looks like a castle with a lot of stone and fire. When the characters
+are hit by a trap they would dramatically splatter. It was popular on
+YouTube for a few months."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction, light & humourous. A husband/ dad leads a
+double life in U.K. - part of the week with his wife, part of the week
+in a student flat with 3 flat mates. He finds family life stressful.
+Read 1998-2004.. Between 1998 and 2004 I read a few Mike Gayle books
+including Mr Commitment and Turning Thirty. I read a similar book -
+size, genre, style. humour level. The plot was along these lines. -
+Happily married man - loved his wife - New dad to a young baby - Found
+family life very stressful - Decided the only way to save his marriage
+was to lead a double life and live away from home - Stayed in a
+student flat with one friend and two randoms - Told his wife he was
+working away from home - Lots of humour about relationships with these
+students whose lives are so different - Eventually gets caught - Cant
+remember ending but its a positive one Certain its NOT by Mike Gayle
+but its a similar style. PLEASE HELP!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

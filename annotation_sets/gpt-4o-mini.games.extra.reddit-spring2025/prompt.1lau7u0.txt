@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android/iOS] [~2016+] Simplified crash physics. I
+remembered playing this game long ago on an Android phone, you can
+select maps, some of them have a lot of wind turbines like in the
+image. Then you can select which object you'll place in a designated
+area (brick wall, bowling pins, ramps etc.), select your car, pose of
+the mannequin. I think the car will drive itself in a straight line?
+But you can select to have a steering wheel control too though it's
+hard to use. After it crashed and everything stopped moving, you can
+replay and see how you crashed in slow motion. It doesn't have
+softbody physics, instead, just having parts flies off the car."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

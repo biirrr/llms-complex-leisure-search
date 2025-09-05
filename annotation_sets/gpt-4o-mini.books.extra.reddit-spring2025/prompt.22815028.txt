@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci fi Romance. Female lead with some kind of power
+relevant to the spaceship which she hides when she stows away on the
+male lead's spaceship after escaping captivity. Read before 2020?
+Spoiler. [s]. That’s about all I can remember: 🤷🏽‍♀️ Sci fi romance
+about a FMC with some kind of power relevant to spaceships which she
+hides when she stows away on the MMC spaceship after escaping
+captivity on another spaceship - except I think she was small in
+stature and actually hid in a floor or compartment for awhile. The MMC
+was larger compared to her and when he found out about her power he
+was actually insistent at first that she not use it. That and it was
+adult romance not YA.I think"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

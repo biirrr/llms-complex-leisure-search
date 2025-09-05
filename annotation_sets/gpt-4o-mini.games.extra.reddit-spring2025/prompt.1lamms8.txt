@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Not sure][Before 2015] Probably a racing game. Hi! Im
+trying to identify a game I remember from before 2015. I dont
+remember the game very well however It should have been a racing game
+and I remember clearly a character who looked like this: """""""" It
+looked like a small red spaceship or fuselage with legs and possibly
+white feather-like wings. """""""" It had a big blue glass dome
+covering most of the body  almost like the whole thing was a cockpit.
+"""""""" It was robotic, cartoonish, and not a mod or custom skin.
+"""""""" Couldve been on Wii, PS2, PS3 but Im not sure. """"""""
+Mightve been selectable or appeared during a race. The image I posted
+is a rough drawing (bad drawing skills) of the character I would be
+super glad if you could identify it. I know I didnt give too many
+information but I think the character I described was exclusive to
+that game!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

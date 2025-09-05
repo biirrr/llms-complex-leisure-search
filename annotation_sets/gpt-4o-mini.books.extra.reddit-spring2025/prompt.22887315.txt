@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Supernatural/ Romance (series) about a man who is some
+sort of supernatural and opens a bar/ club in a boring town. Club name
+has a distinctive name. Falls in love with human woman. Read around
+2014? [s]. I read this series of books years ago so i only remember
+vague parts of it. Its driving me mad! Maybe read it around 2014 but i
+dont know when it was published. Dont remember the name of the book or
+the author. I remember at the beginning, this young woman is walking
+through woods in her town. She runs into this guy and they instantly
+have a connection/attraction. Later she goes to a new club that has
+opened in her town with a friend. The town is usually really boring so
+it's a big deal. When she walks in the club she looks up a long set of
+stairs and sees the same guy who she saw in the woods. Turns out he is
+the owner of the club. At some point the owner of the club offers her
+a job. She starts working in the upstairs VIP section where all the
+supernaturals hang out. She waits tables. Downstairs is where humans
+are allowed. The supernaturals never really go downstairs with the
+humans The owner of the club and the waitress fall in love. They is
+jealousy of an of an old lover of the club owner who is at the club,
+not sure if she lives there? The woman moves into the club and they
+start living together. At some point she gets kidnapped in one of the
+books. In the end they have twin babies i think. Thanks i hope it's
+enough!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

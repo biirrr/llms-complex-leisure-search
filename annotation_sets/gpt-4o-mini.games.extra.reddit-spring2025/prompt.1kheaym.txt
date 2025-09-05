@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc?][1996-99?] A point and click game.. There was a game I
+played when I was younger. I remember it played like the Monkey Island
+games (Lucas Arts games). It had a very colorful pallet. It was cutely
+drawn. If I'm remembering correctly you had to find 4 jewels held by
+4.....bosses? Im not sure what to call them, you didnt fight them per
+se. You had to outsmart them. I dont believe there was any actual
+combat. The main character's name had Thorpe in it. When I Google the
+name all I get is a city in England and an old baseball player. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary European Fiction (in translation). Sort
+of road trip, woman working in a small, run-down zoo. Read 2010-2015..
+Left this book on the train years ago (between 2010-2015) after I'd
+read it because my rucksack was too heavy. Wish I hadn't: Plot-(set in
+Italy or Spain or Cuba and written by a female author) a woman's
+partner dies and then her house is repossessed so her and her infant
+son go on the run. She gets a job in a strange run down zoo on the
+edge of a city. After her and her son leave the city she gets another
+job. Her new job is strange-it's to administer morphine/opium via a
+syringe, to a grumpy, elderly female client who is bed ridden and
+lives in a shabby hotel"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

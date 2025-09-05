@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[CD-ROM][1998ish] point click adventure style game.
+Platform(s):Pc Genre: point click/ adventure Estimated year of
+release: around 1998 Notable characters: pretty sure the main person
+was a blonde man, i think he wore a red shirt Notable gameplay
+mechanics: There was a point where you had to cross a grassy slop and
+you slipped and lost unless you had tree sap and another point in the
+game you had to lure a monster or guard or something using a series of
+crystals you arranged of a woman speaking to make a new sentence to
+lure him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

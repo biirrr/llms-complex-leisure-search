@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [ps2 era] i need help finding this game. from what
+i remember about the game is that its set in a mansion of sorts where
+you play as 3 characters, a brother and sister and a baby. this is a
+sort of puzzle horror game. there is a crafting system because at some
+point you make like a vaccuum gun or cannon of the sorts with a broom
+and some other items. there was like a boss fight where you use the
+vaccuum gun to fight off a bunch of rats and you also fight an evil
+guy. you spawn in an hallway and you have to escape the mansion. i
+remember one point you control the baby in like a closet you have to
+unlock"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2010s] tower building card flash game?. Hi! First time
+posting here so forgive me if Im doing it wrong. Im looking for the
+name of this flash game that used to be around in 2000s-2010s you
+could play it online on websites similar to the old addicting games
+site. From what I remember it was tower defense and deck buildingyou
+had a starting deck of cards and there were things like mages,
+archers, builders and catapult cards. The goal of the game was to
+build a tower to X height faster than your enemy, or destroy the enemy
+tower. I remember the more you won the better cards you got so you
+could build out your deck better. There was definitely a dragon card
+and some other higher power stuff. I also think the one Im thinking
+of was a sequel? Like there were two versions, pretty much the same
+but one had marginally better graphics. Any thoughts? Im going
+crazy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

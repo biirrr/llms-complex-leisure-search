@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[REQUEST][ANDROID][2015-2018] 2D Jungle Platformer With
+Tribal Mask Character. Hey everyone, Ive been searching for this
+mobile game for years with no luck. Heres everything I remember:
+"""""""" It was a 2D side-scrolling platformer game. """""""" The main
+character was human and wore a tribal-style mask. """""""" The setting
+was a jungle or tribal environment. """""""" You moved left to right,
+doing parkour-style platforming and dodging traps. """""""" It had
+levels, not endless gameplay. """""""" It was singleplayer, and I
+dont recall any weapons. """""""" I played it between 20152018 on
+Android (from the Google Play Store). """""""" The art style is fuzzy
+in my memory, possibly cartoony or pixelated. If anyone remembers this
+game, please help, Ive been trying to find it for years and nothing
+turns up. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

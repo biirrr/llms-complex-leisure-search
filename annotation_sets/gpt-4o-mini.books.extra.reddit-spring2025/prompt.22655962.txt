@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Christian Fellowship Song Book - Balloons on cover. [s]. I
+remember this from (Baptist) church in the 70's. There were two that I
+know of, one with yellow cover, the other with green. Both had 5 or so
+balloons on the covers. They were smaller, hymnal size though much
+thinner. I don't recall any of the songs (which is why I want the
+books now ;) but they were fellowship type songs, not for services or
+seriousness. Just fun, cute stuff you could sing on church picnics or
+Wed socials. I've searched on the internet, ebay, several books
+stores. Several people remember them but don't recall the name. I
+figure I could find copies if I could find out the name. Can anyone
+help, please?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

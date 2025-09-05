@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC (Windows)][2019-ish?] a point and click game where you
+have to interact with your game files to continue. Hello everyone,
+hope yall doing okay Its been a long time since a game from the
+deepest parts of my mind is haunting me, because no matter how hard I
+try to remember its name I simply cant. So, without further ado, Imma
+try to describe what I remember the best I can. """""""" Platform: PC
+(Windows) """""""" Genre: Point and click """""""" Estimated year of
+release: 2019-ish? """""""" Art style: I will pixelish ? Surely not
+realistic. Perhaps hand drawn, but my mind is very fuzzy """"""""
+Notable characters: If I remember correctly, the protagonist was a
+female. I dont remember anything about the rest of the cast. """"""""
+Notable mechanics: TO PLAY AND PROGRESS IN THE GAME, you need to alter
+your game files. The whole game is about this mechanic """""""" Other:
+The ONLY detail I have in mind, and thats why Im still thinking
+about the game till this day, is that at one point in the game, you
+fight a boss in a « Mortal Kombat » style fight with your character
+being on the left side. Like any game of this genre, you try to attack
+the opponent, but with no use: you deal 0 damage, and the boss kills
+you quite quickly. So to win, you had to modify a .txt file that
+contained your characters traits (Health, Strength..) so you can deal
+damage and actually kill him. Thats just about everything I remember.
+Oh and, I think that a French streamer named « Farod » played it, thus
+which made me want to play it myself and that mortal Kombat sequence
+was the only detail I recall because I was stuck in that phase. Thank
+you so much in advance for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

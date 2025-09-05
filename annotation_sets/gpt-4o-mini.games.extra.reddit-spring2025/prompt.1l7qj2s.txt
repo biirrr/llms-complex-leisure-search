@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2000-2005] 2D game where villain is a chair. I
+remember playing a 2D game simular to super mario where you collect
+something That looks like easter eggs and you shoot them at enemys
+like a boomerang. You start With Only one but as you progress Through
+the game you collect more of the. There Was a villain That we Called
+chair (might be a language different due to me being Croatian) and im
+pretty sure he later comes back as a cyborg chair. There might have
+been a Level where you need to rescue a penguin and bring It back to
+his Mother."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

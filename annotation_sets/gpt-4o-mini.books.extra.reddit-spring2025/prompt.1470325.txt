@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sci/Fi Chimp with a machine gun. Maybe ya'll can help me
+with this one: I read this a few years back and in hindsight I thought
+it was by Heinlein, but none of the synopses of books by him I have
+since looked up seemed to match. I can't remember the setup, but later
+in the book, there is a scene presented where a chimpanzee has found a
+machine gun (or at least a rifle of some sort) and is riding around on
+the back of an elephant. I can't remember much else about the book,
+but this scene stuck in my head and is bugging me. Does it ring a bell
+with anyone else?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

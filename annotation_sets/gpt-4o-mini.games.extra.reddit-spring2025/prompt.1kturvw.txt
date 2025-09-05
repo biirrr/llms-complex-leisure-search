@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2013-2014] [Xbox 360] Edgy hack and slash game.. Hi
+everyone, I don't know If this game is lost media or whatever but, I
+remember playing this game on Xbox 360. It's a hack and slash in this
+city that have like two sides, The first one being a normal side and
+the other being a """"""""dark side"""""""" of some kind. I remember
+the main character having a messy look and starts off with a sword and
+guns. The starting level immediately throws you in a boss fight with
+this creature that carries a knife or blade of some kind. I also
+remember the main character having a brother. And the locations are
+gritty and dirty, I also remember a LOT of swearing. But besides than
+that. I can't remember anything else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

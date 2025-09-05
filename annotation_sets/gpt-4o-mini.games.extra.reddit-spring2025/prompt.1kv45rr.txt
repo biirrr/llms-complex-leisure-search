@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2016-2023] Game where you secretly build an
+underground bunker.. It was a sidescroller, you were just some guy who
+wants to build a bunker, but you live in a suburban police state where
+the government comes to inspect your house occasionally, and you start
+with x number of cups and plates which you can use for crafting but
+they'll notice if you have too few or too many. Also you sometimes go
+to the woods to forage, and can make contacts with people who can sell
+you stuff. It was definitely an indie game and the graphics were not
+great."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

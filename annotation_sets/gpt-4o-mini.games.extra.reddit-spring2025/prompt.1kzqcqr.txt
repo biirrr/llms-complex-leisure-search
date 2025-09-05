@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FM Towns?][POTOTYPE?] A flight sim game with a fighter in a
+canyon. Hi, When I was young, in the 90s, we had a video demo of a new
+game console/computer at my local game store, I think it was the FM
+Towns. A game catched my attention, it was a fighter running in a
+canyon and shooting at ennemi planes. The game was in full FMV and
+looked a lot like Rebel Assault for PC CD. I don't know if this game
+was ever released or if it was just de tech demo but I can't find any
+video on youtube :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

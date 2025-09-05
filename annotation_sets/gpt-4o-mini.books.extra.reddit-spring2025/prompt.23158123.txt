@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance: Young woman grows up on a remote
+island (citizens are British) and guy comes to the island because he
+and his dad had gone there when he was younger. Spoiler.. Ok, here is
+what I remember: the fmc is a young woman. She lives on an island that
+is hard to get too. I thought the book said it was the island that is
+furthest from any mainland. She is secretly married to the island's
+doctor, but only so that he can remain on the island. The mmc gets
+dropped off on the island. I think he was on the island when he was
+younger with his dad. His dad had been in love with the fmc's mom. The
+fmc was on a boat with her mom when she was little and the mom died,
+possibly killed by the girl's dad. The fmc was found alone on the
+boat. For some reason, I feel like the mmc is somewhat famous in the
+US, maybe a baseball player? Fmc is a virgin. SPOILER: at some point
+near the end of the story, the fmc's husband/the doctor tries to SA
+her. I feel like that guy (the husband/doctor) is killed. The fmc ends
+up leaving the island with the mmc. Thank you!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

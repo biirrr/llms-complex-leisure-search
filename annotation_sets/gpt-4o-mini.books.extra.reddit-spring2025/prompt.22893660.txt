@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA (I think) Mystery. Guy protag is trying to find his
+missing girlfriend. I read this book sometime between 2015-2018 and it
+was basically the main character (a guy, I'm pretty sure high school
+age) trying to find his missing girlfriend but I think he's missing
+some memories? *spoiler warning because im not sure how much of this
+is spoilers)* I do specifically remember that there was a scene that
+talks about how the girlfriend tried trying out for the cheerleading
+team but was denied and basically called a w**** because she was
+dancing instead of showing off gymnastic skills. I think there's a
+butterfly at some point or some sort of butterfly imagery? I remember
+that at the end the mc and the girlfriend end up going their separate
+ways because of a crime bust I think? Now that I'm trying to remember
+it, I think the mc guy was named Michael or some sort of M name but
+that also may just be my imagination trying to compensate. Take all of
+these details with a grain of salt"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

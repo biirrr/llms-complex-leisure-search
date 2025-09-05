@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - Steam] [2010s] Dialogue Game Set in a Car.
+Platform(s): PC - Steam Genre: First Person. Adventure? Point and
+Click? You're only selecting dialogue options Estimated year of
+release: 2010s Graphics/art style: Forgot. Not Realistic. Its in
+color, but I dont think it was super detailed. Notable characters:
+Forgot. Notable gameplay mechanics: You're selecting dialogue options
+in real time during the conversation. Other details: The game takes
+place I think mostly in a car (hitchhiking?) I remember a VERY
+specific moment where the dude giving you a ride says that young
+people don't pay attention anymore and asks you what color his eyes
+are and blocks your view of them so you have to remember if you paid
+attention."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non fiction; travel; about a couple that sells their
+belongings and/or puts them in storage, leaves their jobs and travels
+world to meet oldest people, in some very remote areas, to find out
+the secret of life. Out some time before 2002. [s]. Non fiction,
+travel. Book about a couple (I believe they were in the US) that sells
+their belongings and/or puts them in storage, leaves their jobs and
+travels world to meet oldest people, in some very remote areas, to
+find out the secret of life. Read this while travelling some time
+before 2002. Was lent to me while living in England."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

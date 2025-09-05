@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir I read early 2000's. by an American woman. It about
+finding love and its consequences in Venice. The author does a great
+job describing her experience of dealing with the intricacies of
+Venetian/ Italian laws and customs. [s]. Adult non fiction, memoir I
+read it in the early 2000's. It is written by an American (possibly of
+Italian heritage) woman. It is about finding unexpected love and its
+consequences in Venice. The author does a great job describing her
+experience of dealing with the intricacies of Venetian/ Italian laws
+and customs. It is not a long book and I think it is her first
+published book. Any help is greatly appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy, read 1984-1985. Priestess or female druid
+traveled around Britain fighting some evil entity. Cover was dark in
+color with a lady in white (i think) beside or seated on a white horse
+with a sword raised. [s]. book started with a captured male druid or
+pict being sacrificed in a river off of a boat i think. main character
+would gain strength by praying or communicating with whatever god she
+worshipped. could be a cheesy 1980s style writing. bought it on a
+military base book store in germany in 1984 or 1985, book is in
+english. have searched thru major author bibliographies and major
+artists bibliographies for the cover art but have not found anything
+yet. style was more whelan or rowena than vallejo, not really brothers
+hildebrandt style."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

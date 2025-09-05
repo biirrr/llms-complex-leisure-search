@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction - Religious Theme Park (book title was
+GloryLand or Glory Land) - A fictionalized version of the Jim Bakker
+type ministry at the time [s]. This book was published by a very small
+publisher, and I remember seeing it in an airport gift shop in Burbank
+CA around 1982 or 1983. The title of the book is ""Glory Land' or
+""GloryLand"" and had an artist rendering of a suit wearing preacher
+with a bible in his hand. Additional cover art was either other
+characters or a depiction of a religious ride. Taking its cue from the
+yet to fall Jim Bakker (a preacher at the time) this was about a
+pastor who built a theme park but the bad behind the scenes behaviors
+that went on. I cannot find a copy of this anywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

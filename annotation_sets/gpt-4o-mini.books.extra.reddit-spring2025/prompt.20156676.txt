@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Self Help, Things you would ask a parent. [s]. Basically
+Self Help. Was a two book series.. Saw it in the late 80s or early
+90s.. It was basically questions you would ask your parents for kids
+leaving on their own. What you would call home to ask.. Book for
+Questions to the dad, I think was Blue. Advice on car maintenance,
+small fix its around home... BBQ hints I think, basically things you
+would ask dad.. The book for mom was I think Orange.. Would ask about
+basics on cooking, sewing a button on.. Repairing clothes? ect..
+Things you would ask your mom.. I have a child almost old enough to
+leave home soon. Trying to find the books to give her as a Fleeing the
+Nest Gift.. But cant find them. I have tried Googling every way I can
+think of. No success.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

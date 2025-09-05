@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Adventure with Runaway dolls and a bandaged teddy bear in
+the city? Read around 2021.. Read around 2021, I remember this book
+being about the dolls of a young girl who left on vacation(?) and they
+were left alone in their little dollhouse. For whatever reason, they
+leave the home and go on an adventure and run into a bandaged teddy
+bear (i remember thinking he was creepy) and I think they had to
+escape a toy store to make it back home? I believe this could possibly
+be the first book in a series?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1997-2002] FPS Shooter with alien/creatures and weird
+weapons. I was pretty young at the time playing on a cousins computer
+(havent reached out to him yet.) All I remember was he booted up this
+game, let me play and it was pretty intriguing. There were all sorts
+of weird creatures/aliens and I remember the weapons were weird, also
+I dont think there were normal weapons, they were all alien if Im
+remembering right, maybe some were organic weapons that attached to
+your hand (or even taken off of the dead creatures.) The creatures
+kind of reminded me of the aliens from the movie Evolution and I have
+this specific memory of an area like an underwater tunnel where this
+creature was swimming in the water. When you go to swim in the water
+it attacks you. Cant remember much past that I only played an hour or
+two of it so its a really obscure memory that just itches at me from
+time to time. Thanks for any suggestions!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

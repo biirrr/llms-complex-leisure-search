@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult (YA) Romance about a boy with and abusive father who
+lives next to the girl that he loves. They have a falling out and
+reconnect after the girls parents die and they both end up living in
+their old home at the same time.. YA books about high schoolers how
+live next to eachother . The boy has an abusive father and becomes
+close with the girls family (especially her father who maybe a lawyer)
+they are best friends and he sneaks into her house using a tree on the
+nights his dad would abuse him and his mother. They fall asleep
+together while listening to music (maybe). The boys mother is also
+being abused. The abusive father starts hurting the son one night and
+the girl sneaks out of her house to stop the father. She sneaks into
+the back door and the father sees her and (maybe) beats her for
+sneaking into his house (she definitely got hurt somehow but I can’t
+remember how exactly). The son gets mad at the girl because he didn’t
+want her to get hurt and now she is hurt because she didn’t listen to
+him when he told her to never go to him house. The cops get called
+eventually and I’m pretty sure that the son goes to jail because the
+mom refused to throw the dad under the bus about being abusive. The
+girls father is a lawyer and helps him. I remeber the parents having a
+quirky house and the boy would come over to play chess with the dad
+and stay for dinner a lot. (I think) There is dual time lines because
+in the future I’m pretty sure he is a lawyer and she is back because
+hr parents just died and she is staying at the house for a while. They
+reconnect because of her parents died and they are staying at their
+old houses. I read this books sometime in the last 2 years but am not
+sure when it was published (definitely a newer book)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

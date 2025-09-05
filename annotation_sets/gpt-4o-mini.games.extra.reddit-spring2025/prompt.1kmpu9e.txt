@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps2][unknown] """"""""Dark"""""""" Spyro game?. Most likely
+an old Ps2 game but I can't remember. I don't know why memories of
+this game have been resurfacing lately but it's been really bugging
+me. I have this weird reoccurring flashback of a game from my early
+childhood. (like somewhere between 2005-2010) It's a single cutscene
+from the intro of the game. You're a guy being strapped into a chair
+in what looks like a basement or something, the walls are grey and
+there's a table. I might have been watching someone play because i
+think they skip the cutscene at some point. Something gets activated
+and the player character starts to transform into what looks like an
+anthropomorphic version of Spyro but for all i know it could be a
+different game, that's just what the character reminded me of. Next
+thing i remember is the PC getting yeeted into a green portal and
+flopping out into a dark black and green environment. I think there
+might have also been grind rails at some point? Again this memory is
+from my early childhood so i could be misremembering some details,
+does this game sound familiar to anyone at all?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

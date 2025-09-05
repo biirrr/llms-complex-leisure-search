@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2010s] Indie 2D Zelda-like with roguelike
+elements. Hi guys, it's been a while since i've been searching for
+this specific game and i would appreciate any help. I remember
+watching a video about this indie game I think in the late 2010s, the
+concept was that you were a hero who just got to an island where an
+evil being was released/about to be released, then in a very **2D**
+**zelda-like gameplay and graphics that reminded of the minish cap**
+you would go through dungeons and try to fight the evil being. The
+catch was that you could die anywhere in your journey and instead of
+loading a save file the island would be terrorized for the next 100
+years, or you could win and the island would face 100 years of
+prosperity. Then a new hero would come in and start a new adventure
+either to liberate the island or to save it from calamity again, and
+the game would change accordingly depending on what happened on the
+previous cycle. I know it was released for PC and a few other
+platforms, not sure which ones."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

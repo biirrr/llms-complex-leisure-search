@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2010s] [MULTIPLAYER] [ANDRIOD] game from my childhood.. I
+was able to recover some of my memories today until I remembered this
+game. It started around possibly 2015\~2018. I think it had multiple
+features but one i distinctly remember from it is 'capture the flag'.
+No it was not pixel gun but its somewhat similar. The main theme is
+around castles, it was somewhat 3d for the most part. One of the items
+i remember that you spawn is an axe. And some other stuff but they
+werent too violent. I remember playing it on my tablet so im unsure it
+was on ios (tho i doubt it). I tried lookjng for games similar to that
+in youtube advanced searches but found no similarities thus far."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

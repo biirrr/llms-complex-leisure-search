@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "What's the name.....sci-fi about colony of ""clones"" raised
+to be organ donors for the rich. I read this book quite some time ago.
+I feel like it takes place in an isolated colony where these clones
+are living, with very specific diets, go through testing, etc. when
+some find out they are clones being kept alive and healthy for rich
+people who may need an organ donation in the future. A few escape and
+are on the run - through the desert maybe? Help???"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

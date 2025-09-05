@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen Fantasy/ Sci-fi novel from the 2000's about a boy who
+is from another planet and him and a bunch of other kids were sent to
+earth. i read this a while ago but im pretty sure its an old novel.
+This boy is raised by this guy in a small town (north cali i reckon).
+He starts noticing he is developing superpowers. His guardian tells
+him that he and a group of other kids are from another planet and they
+are numbered 1-8. They all have different powers. Another alien race
+is hunting them because the kids are the only thing that is stopping
+the bad aliens from invading earth. They've already killed Number 1
+(he was somewhere in asia or north africa). Im pretty sure this had a
+film adaptation that didnt do so well lol. All the kids eventually
+group up and stop the aliens. The boy also meets a girl at his school
+and it becomes the romance of the story (if that helps you remember
+the novel haha). This has been buggin me for months so i finally
+decided to make a goodreads account. Thanks for the help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

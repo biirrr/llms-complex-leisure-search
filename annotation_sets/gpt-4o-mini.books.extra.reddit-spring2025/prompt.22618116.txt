@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance with aristocratic Shifters series.
+Widow had married an abusive shifter. King forces her to marry male
+lead to protect their secrets. Ball. Each book about aristrocratic
+shifter. Read 2013-2023.. I don't remember a lot about this book but I
+would have read it as an ebook with the last 10 years. Probably off of
+Amazon. It was part of a series of books each had a member of the
+aristocracy that was a shifter. I think werewolf but they may have
+been a variety. The FMC was a widow that had previously been married
+to an abusive shifter. Since his death she has no intention of being
+remarried. She's human and I think she found it he was a shifter after
+the marriage. The King forced her and the MMC to get married to
+protect their secrets. I think it was regency but may have been
+medieval or highlander. I remember there being a ball that the King
+ordered both too attend, The MMC had a suspicion that there was more
+to it especially when the king called him to a private meeting were he
+ordered the marriage. I think the MMC may even have been related to
+the king although that may have been more a case of the King being
+""alpha"""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

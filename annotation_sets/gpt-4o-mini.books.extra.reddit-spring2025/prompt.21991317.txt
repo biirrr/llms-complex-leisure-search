@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction. Memoir told by young nonfamous woman of
+her time spent with older famous male author. [s]. Read this within
+the past 5 years, thought it was Hemingway but I don't think that's
+right. It was a nonfiction book written by the woman telling the story
+of her time with the famous author. I remember her being really sick
+and him doing absolutely nothing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

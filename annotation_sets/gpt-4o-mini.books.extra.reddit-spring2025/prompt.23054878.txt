@@ -1,0 +1,44 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Old, apparently obscure Manga anthology series- “year’s best
+manga”? Or similar title- each volume was a different year. Story
+about a cursed boy with a demon arm and a tragic romance story with a
+lethal mermaid scale skin disease? Spoilers.. I’m looking for a series
+of (at least) two manga anthologies with a title somewhere in the
+realm of year’s best manga”? Might also have had different seasons,
+like “winter 2005”? I read them somewhere around the 2000’s or 2020’s
+Each book was a different year- I think it was a compilation of
+contest winners??? Either way, the stories varied in style and genre
+with no particular theme. They were pretty thick, too- like three
+normal manga volumes stuck together. I remember two stories (which may
+or may not be in the same book). The first one was a fantasy story.
+There was a cursed boy with a demon arm and the old man who raised
+him. They go to a dungeon to find a cure. The boy is uncursed by an
+angel, but it turns out the boy was actually a demon cursed into a
+boy, and the angel admonishes the man saying they were nothing but
+“lambs to the slaughter”, which the demon echoes. The second story is
+a depressing romance where a man is forcibly betrothed to a girl with
+a lethal disease that will cause her to die very young that also
+causes mermaid like scales to appear on her back, as her father
+*really* wants an heir to the family. It’s also like a bl
+simultaneously. The guy who’s into the main character helps him out
+with getting the girl. The girl dies, but the main character has a
+daughter who also has the fish scale condition. The books also had a
+handful of art pieces / pin ups as well. The only one I can remember
+is one called “ Prosthetic Cop Name” or something like that, featuring
+a female character with the disability superpower of specialized high
+tech prosthetics. You’d think with how highly specific these things
+are, finding them would be easy, but it really isn’t. It’s especially
+annoying because I know not just one, but ALL of them were mentioned
+on relevant Tvtropes trope pages before, but it looks like someone
+edited all those mentions out entirely, so I’ve nothing left to go
+on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

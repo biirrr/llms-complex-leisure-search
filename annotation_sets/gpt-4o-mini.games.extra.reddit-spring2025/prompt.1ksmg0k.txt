@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2010] flash game where you stroll through every level
+trying not to kill the turtle. I remember a game from my childhood
+where the game started off normal with jovial music, until you
+accidentally kill one of the friendly NPC's, to which point you're
+brought to court where you can escape. It had multiple endings and to
+get the best ending you had to avoid injuring a turtle. At this point
+I'm not even sure if they were turtles. Edit: I found it after
+consulting ChatGPT, The game is called The Visit on Newgrounds"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

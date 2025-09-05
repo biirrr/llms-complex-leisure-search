@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy. Drug trial for psychic ability, young man
+world travels.. Main character was either in college or recently
+graduated. He took part in drug expirament for the money. These was an
+expirament to see if the drug increased psychic ability. The drug
+caused him to astral travel & eventually he ends up in another world.
+He falls in love with a ""fairy queen"" in that other world. The other
+reality reminds him of Alan Rackham's ""Goblin Market"". In one scene
+his love interest is locked in a cell of metal bars & her hand was
+burned from touching the metal. The professor (?) running the
+expirament ""fires"" the main character from the study because he has
+started going nonresponsive too quickly instead of giving answers to
+Rhine cards. The young man is frantic because he needs to get back to
+help his lady. I think he finds a street version of the drug. I think
+I first read this book in the mid-1980s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

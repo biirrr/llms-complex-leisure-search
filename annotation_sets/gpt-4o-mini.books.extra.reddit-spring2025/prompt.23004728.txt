@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. The story of 3 women, an American, a
+Japanese, and a Russian whose lives change drastically to become spies
+or work for criminals. Read late 1990's/early 2000's.. Read this book
+in the late 90’s or the early 2000’s. The story starts with a man in a
+swimming pool, supposedly an astronaut going through a rebalancing of
+his body after coming back from space. The Astronaut is accompanied by
+3 women who stay with him in the pool and tend to his needs. The book
+then changes to the story of 3 women, one an American who is a well
+known athlete who loses it and gets kicked out of the sport that she
+loves and then is recruited by the FBI or CIA. The 2nd woman is
+Japanese, and her life drastically changes that she ends up working
+for the Yakuza. The 3rd woman is Russian and her life drastically
+changes that she gets involved with the KGB. The story bounces back
+and forth between the 3 women and the astronaut. Loved this book when
+I first read it. I especially loved how the 3 women go from a place of
+weakness to one of strength. This book has been haunting me for
+years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

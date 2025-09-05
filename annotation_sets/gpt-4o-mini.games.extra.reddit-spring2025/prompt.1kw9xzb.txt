@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown but probably PC][&gt;2006] Survival Horror game
+where it's revealed at the end that you are a patient in an asylum and
+the whole game was in your head.. So this is a game that someone told
+about when I was in the 7th grade. This means it most likely came out
+before the first half of 2006 at the latest. It was most likely a PC
+game knowing the habits of the person in question but it could also
+have been on console. The only things I remember about it are that it
+was a survival horror game with a male protagonist. I assume it has
+multiple endings as the only two story beats I remember are moral
+choices the player has to make. The two story beats are that 1 you
+find a woman being crucified begging for you to help her where you can
+either help down or ignore her and 2 is that you find a man trapped in
+a machine of some sort I think it was a tractor or a car, but he is
+asking for you to kill him because of the pain where you can either do
+as he asks, try to help him where he dies anyway, or do nothing. And
+at the end if the game its revealed that those two people are the
+protagonists parents and at least in one ending you are a patient in
+an asylum. I wish I knew more to be more helpful but this is all I can
+remember and it's been bothering me for years about what this game
+is."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

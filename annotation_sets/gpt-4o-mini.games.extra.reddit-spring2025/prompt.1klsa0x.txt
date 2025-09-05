@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] game about flies in the 2000s. Hello, when I
+was a kid in the 2000s, I played a really great game called
+""""""""The Kidnapping of the Little Fly"""""""" in the Brazilian
+translation, as far as I remember. The story was about a baby fly
+kidnapped by a gangster cockroach, and the fly's father went after it
+to rescue it. The first stage took place in a kind of dump, with the
+first boss being the cockroach. The second stage was in a garden or
+vacant lot, and the second boss was a worm. The third stage was in a
+kind of cave, and the final boss was a spider. The game had a gangster
+and hip-hop vibe from the USA and featured platformer mechanics. It
+was available on the Brazilian internet, but since I tried to find it
+to relive the nostalgia, I could never locate it again. Does anyone
+have any idea what game I'm talking about? Thanks for your attention."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction, Travel Memoir from the 90's
+approximately.. Hello all :), I would love your help finding a book
+please. It's a travel memoir. A couple wanting to buy a house abroad.
+I read it first about 30 years ago. A couple want to buy a house in
+Spain(?). A woman shows them some houses and they choose one with an
+overgrown lemon grove. The woman promises to have the whole house
+renovated by the next time they come back. They travel back home and
+friends and family warn them it sounds to good to be true. When they
+return though, the house is exactly as promised. The woman becomes a
+good friend. I think friends of the couple stay in the house for
+periods of time while the couple is back home for work. I just can't
+remember and my Google search didn't bring anything up. Thank you in
+advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

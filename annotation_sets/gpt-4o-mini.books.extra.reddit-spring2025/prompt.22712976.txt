@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Historical Fiction. Young girl stows away to go
+west with dad for the gold rush. He leaves her in the city, she starts
+a business on abandoned boat. Laundry. Read around 2000-2005.
+Spoiler.. The Golden Venture by Jane Flory
+https://www.goodreads.com/book/show/1... And it's available to read
+for free if anyone else was looking!
+https://archive.org/details/goldenven... . . . Read as a middle grade
+child around 2000-2005, felt a little older, might have been published
+in the 90's. Young girl, maybe 10-13 y/o, only has a dad. He's going
+west for the gold rush, and she stows away to go with him. I believe
+they went over land. He's understandably mad, and leaves her in the
+city while he goes to the fields (possibly San Fransisco, but I'm not
+sure). At some point he leaves her alone for a while, he goes missing
+in the fields I think? She moves into an abandoned ship on the harbor
+and makes it her home. She works for a laundry business for a while,
+and then starts her own business out of the boat. I believe it was a
+business making bread or hardtack for the miners, but she might have
+been doing laundry out of the boat as well. I remember her lowing
+goods down on a rope to people on the dock below. *it's NOT Gold Rush
+Girl by Avi, found that while googling :( SPOILER I believe in the end
+the dad was robbed/badly injured/very sick, but somehow finds his way
+to the daughter's boat. She nurses him back to health and he's amazed
+by the life and thriving business she's created, and they're happily
+reunited."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

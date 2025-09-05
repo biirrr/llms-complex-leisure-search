@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "90s or 2000s memoir (maybe translated from French?) by
+mother whose two daughters were hit by a car. [s]. I read this in the
+late 90s or early 2000s and it seemed recent at the time. It was a
+memoir by a woman whose two young daughters were hit by a car and
+killed while crossing the road. It was a sort of literary grief memoir
+about the daughters' early childhood and then the accident and the
+aftermath, how the family coped etc. I remember that the author was
+married and that she and her husband stayed together, but she said it
+was common for parents to separate after the death of a child. I read
+it in English but have a feeling it may have been translated from
+French, not 100% sure though. Definitely not Joan Didion, I know she
+has written a few memoirs about death/grief but this was not one of
+hers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

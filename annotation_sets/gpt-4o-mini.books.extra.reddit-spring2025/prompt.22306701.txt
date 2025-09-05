@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens Picture Book. Sad Bear and love. Bear talks about
+different kinds of days & his feelings/ emotions, some are sad days
+when he likes to be alone. British author? Read around 2013.
+Ilustrated in color, cartoon-like color ilustrations.. I found this
+childrens book around 2013. It's a very cute and simple childrens book
+by a British author I think. It's about a bear who starts talking
+about how there are different kinds of days and then the bear talks
+about how there are sad days. The bear talks about how he feels on
+those sad days, and how he likes to be alone, but then at the end of
+it all the bear says how on days like those he loves to know he can
+come back to his loved one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

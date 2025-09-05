@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX] [2010s or 2020s] I saw this game in a comment section
+as a gif. Does anyone recognize it?. Hey I saw this while scrolling on
+a comment section on IG. the artwork looks like it could be a game
+with art by Akira Toriyama but not sure which game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

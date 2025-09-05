@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction. Teenage girl is sent to rural south
+coast to stay with two aunts? during WWI or WWII, meets boy/ man while
+walking coastal paths. Read 1996-1997.. Hello, I hope this gives
+enough information, I've been looking for this book for years! It's
+the first book I willingly read, bought and read in 96/97. It was
+recommended to me by a bookseller in a children's book shop. My memory
+fo the plot is vague so I'll do my best. It's set during the war (not
+sure if I or II) about a teenage girl sent to the rural south coast to
+stay with, I think, two aunts who live in a little cottage with a much
+loved garden. The girl might be a little wayward, maybe that's why
+she's been sent away. She walks the coastal paths regularly and meets
+a boy/man and they have rendezvous in a cave I think. She might get
+pregnant and give birth in a tin bath tub with her aunt helping her.
+That's pretty much all I can remember and a lot of that is not certain
+which is probably I've not been able to find it! Any suggestions would
+be much appreciated but I realise it's a very long shot!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

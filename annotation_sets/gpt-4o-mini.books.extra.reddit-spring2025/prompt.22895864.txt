@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance Series – Brothers (one was a mechanic and one
+was a martial arts teacher?), neighbors, cookout. Read 2021, published
+early 2010s. Possible Spoilers ahead.. I’m looking for the name of a
+romance series that followed brothers in a small town. I read this
+book in 2021 and I think it was published by a female author in early
+2010s. It started with a girl who had moved into a neighborhood and
+got to know her neighbor/the main character (the buff and burley,
+rough around the edges brother). I think 2 of the brothers and one of
+their sons + dog was living in one house. They helped her move in and
+get settled, helped when she got scared in the middle of the night.
+Someone broke her window or something, so I think this is what led to
+them spending the night together for the first time? At the end of the
+book they had a big cookout. Maybe it was a BBQ competition? The next
+book was about her friend (maybe?) who was getting to know one of the
+other brothers. I don’t remember much from this book, but I think he
+was a martial arts teacher or did something with troubled kids. I
+donated these books to the thrift store before I updated my goodreads,
+and now I want to read them again. Of course I don’t remember the
+title or authors. Help please! This is my first post so please let me
+know if I missed something that could help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

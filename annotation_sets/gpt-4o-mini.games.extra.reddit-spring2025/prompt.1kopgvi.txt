@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Flash game] [2010s] Chinese platformer game about
+aliens (presumably brother and sister/siblings). Platforms: PC
+(Browser game) Genre: platformer Year of release: somewhere around
+2010s Art style: cartoon with very bright colors, cheesy/crappy The
+game was about two (blue?) aliens, presumably siblings Notable
+gameplay mechanics: you probably could shoot, I don't remember well.
+The game had two-player mode. I remember playing this game back in
+2010s, on a weird chinese website. Possibly either
+""""""""4399.com"""""""" or """"""""42113"""""""" or something like
+that, the website had mostly numbers in the name. The image above is
+some additional info/investigation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [EARLY 2000s][STEAMPUNK TACTIC GAME]. **Platform(s):**
+Windows, PC **Genre**: tactic game puzzle game similar to Commandos
+game mechanics **Estimated year of release**: early 2000s
+**Graphics/art style**: steampunk, cartoonish characters **Notable
+characters**: has playable characters that goes like: """"""""The
+Dame"""""""" (female, picks locks, seduces guards)
+""""""""Tiny"""""""" (brute, breaks obstacles) """"""""The
+Professor"""""""" (hacks steam-powered systems) """"""""Weasel""""""""
+(crawls through vents) **Notable gameplay mechanics**: using your
+characters in order to gain access a room or place. **Other details**:
+the setting starts in a prison enclosed area. the brute guy was
+wearing prison uniform black and white."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

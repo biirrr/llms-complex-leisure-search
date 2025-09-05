@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[WindowsPC] [2010-2020] fantasy isometric top down
+civilizations with movable floating islands. **Platform(s):** PC, I
+played it on a windows, I think it was a Game from steam (not 100%
+sure though, got it from SteanUnlocked) **Genre:** Fantasy
+civilizations, strategy, 3th person, isometric top down, you could
+move around the camera **Estimated year of release:** Played it around
+5 years ago, so I believe it was released between 2010-2020, but might
+be a bit earlier. **Graphics/art style:** Fantasy realism **Notable
+characters:** I believe you would play multiple campaigns in the game,
+where each time you could be a diffrent civilization, e.g. elves,
+dwarves, humans. these each would have one main commander from that
+civ that would explein and give tips, but I dont remember more details
+about them **Notable gameplay mechanics:** You would play with
+multiple floating islands, you could move them around the map, and
+build bridges between the islands belonging to you. There were
+dragons/big birdlike creatures/airships (depending on the race you
+played as) you could use to fly around and find out the layout of the
+map. There were other civilizations, and if you would destroy the
+bridges between an island and their main island, it would become
+neutral and you could take it for yourself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

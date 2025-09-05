@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2008-2015] base defense as a greek god. From what I
+remember, you defended a temple as a greek/roman god or soldier from
+waves of mythological creatures such as minotaurs and harpies. This
+game had 3 classes, one with a bow, one with a spear and one with a
+boulder. These weapons could be upgraded, if i remember correctly, the
+boukder guy upgrades to throwing marble pillars eventually. The temple
+you defended has a base health of 200 I think which can be healed or
+upgraded between waves. This was most likelly an old flash game but im
+not 100% sure. I had a feeling i played it on kongregate"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

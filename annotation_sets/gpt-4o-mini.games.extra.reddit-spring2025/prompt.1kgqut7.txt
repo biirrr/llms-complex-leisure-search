@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[wii][2010s?] 2D level based parkour(?) side scroller.
+Platform(s): wii, was available on the wii shop as a demo and a full
+game Genre: platformer, i think? Estimated year of release: any time
+between 2006-2012 Graphics/art style: very pixelated. i remember the
+background behind the actual platform being very colorful, though. i
+think the color purple is significant in this game, i recall one of
+the obstacles being this black and purple geode thing? Notable
+characters: there was just one character who you controlled, and also
+no enemies. it was a black figure made up by just a few pixels Notable
+gameplay mechanics: the game was music based, whenever youd reach an
+obstacle youd have to jump and the sound of your jump would match the
+music in the background. you could also slide, but i cant remember if
+you could duck. all moves would make music-like sound. at the end of
+some levels, your character would cross a certain point and run off
+the side of the screen with a rainbow following them. also, when youd
+start a level, its a consistent pace, as in you cant turn around and
+go back."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

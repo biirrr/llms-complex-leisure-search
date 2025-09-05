@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s] Snowy top-down game with paranormal enemies.
+This game was possibly set in an Antarctic research station, the
+player had to go from building to building to gather resources and
+avoid enemies (I remember there was a floating ball of light like a
+will'o'wisp). The vibes were similar to the movie The Thing, you felt
+isolated in the cold with enemies you don't understand, I think it was
+night most of the time. The view was a tilted top-down, possibly a
+grid-based layout?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

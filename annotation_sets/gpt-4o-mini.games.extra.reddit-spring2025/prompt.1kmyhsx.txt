@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 00s] game about throwing stuff at each other.
+Online game from the aughts. Very simple, black and white line
+animation. Youd select a character that was basically a head and a
+small rectangular or triangular body. The heads were things like
+skulls, Jack o lanterns or luchador. Youd be auto-generated in one
+of a few simple landscapes (a bowl. Gently curving hills. Etc) and
+youd take turns throwing bricks at each other. There was a timer
+during which everyone would set the trajectory of their object and
+then take a few hops to a different location. once the timer was up, a
+dashed line would show the path of each brick or other projectile. (I
+think there were also bombs that split into thirds.) The strategy was
+to aim where you thought your opponent was going to move to while
+moving out of harms way yourself. I think it was called zorp or xork
+or something like that. thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

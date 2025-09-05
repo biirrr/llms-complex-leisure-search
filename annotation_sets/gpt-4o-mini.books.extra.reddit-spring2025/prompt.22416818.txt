@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller/ Mystery. Amnesiac woman escapes kidnapper &
+serial killer of women. She washes up on beach, has injuries from
+jumping from boat, works w detective. Possibly an island. Modern
+setting. Adopted brother. Read 2015-19. Spoilers. [s]. Spoilers
+ahead!! I read this book back in the late 2010s era so 2015-2019. It
+was a modern setting. The plot was, to my best recollection, that a
+woman washes up ashore a beach with amnesia (kind of). She escaped a
+serial killer who was kidnapping and killing woman and she couldn’t
+remember who it was. She works with a detective and they contact her
+adopted brother and he provides DNA etc. they return to the island and
+I feel like a half built or in-construction building was there that
+the big confrontation takes place at. They find a brick wall with a
+very old young dead body. And it turns out the brother had been
+killing girls the same age as her as she grew up. Possibly he killed
+their mom? Not 100% on that. I can’t find it anywhere! Help is greatly
+appreciated!! Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

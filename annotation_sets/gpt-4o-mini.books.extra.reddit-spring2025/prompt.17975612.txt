@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "non-f exploring ""Did the now-successful-people really start
+with nothing?"" [s]. I read this one about 4-5 years ago. This is a
+non-fiction, seemed to be aimed at being an interesting read for those
+who wonder what millionaires' lives were like before they became
+rich/famous/did-their-thing. And basically the book's mood/intention
+seemed to have been to put in question the popular notion that the
+famous now-successful people ""started with nothing"" or pushed sheer
+determination to super-human levels and explore what they might have
+indirectly had that could have been key to their success. Author would
+review the facts about environments and conditions some successful
+people had lived in and were exposed to before (and in some cases way
+before) they made their successes. So, a bit of a nature-or-nurture
+exploration. The individuals' biographical snippets were reviewed
+individually - either in chapters or otherwise, but i remember Bill
+Gates' middle school or high school years being discussed in detail.
+His parents' ownership(?) of a business of mainframe computer time
+rentals to companies and schools and such, and Bill's having access to
+these things. Author would point to how those conditions and events
+were outside of Bill's control and would make further explorations
+with other environments and other successful people in the book. Would
+be really cool to re-read this one, because i don't think i finished
+it back then. Any help is welcome."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

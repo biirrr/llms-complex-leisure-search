@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2020]I played this as a kid but cant remember its
+name. So I have been looking for this game were u play as a girl if i
+remember might be a guy,it was in first person so not really sure
+anyway u start the game with a cutscene of a man with blue markings on
+his arms working on a orb then suddenly some guard are trying to get
+in his room so before they enter he throws the orb out of his window
+then the guards come in and offscreen kill him i think but after a boy
+with the same blue markings on his arms takes the orb and runs away.
+Shortly after the story starts with u talking to this guy on a plane
+and suddenly it crashes so u wake up at this mysterious place with
+temple doors that need u to solve a puzzle to open them. Thats where
+my memory ends, also if i recall the male character called the orb a
+paperweight if i remeber so yeah"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

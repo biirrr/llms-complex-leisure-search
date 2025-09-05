@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Zombie/rage virus hits Australia, MC travels across country
+looking for something or someone. Hi, I started to read this maybe 5
+years ago. I remember having the book before I moved but not after I
+moved. I never finished the book. It was set in Australia, I think, I
+remember a desert, but I could be confusing it with another book.
+There was like a zombie apocalypse or there was a rage virus or
+something. The MC was traveling from one abandoned city to another, I
+am not sure if they were searching for a person or like a cure for the
+virus. I am pretty sure the MC was female and that there was a male
+character she joined forces with at some point. Given I never finished
+the book I cannot say how it ended. It was paperback and I think the
+book was older but do not know when it was published at all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

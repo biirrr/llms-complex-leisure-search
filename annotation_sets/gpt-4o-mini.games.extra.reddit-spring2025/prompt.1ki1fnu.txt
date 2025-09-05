@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox,Steam][2010s] A painter fights in a government
+facility using paint guns.. All I really remember is seeing this game
+on the Xbox and seeing a person using a paint gun to fight their way
+out of a secret facility or lab which is colored white, the enemies
+consist of men in hazmat suits who are also one white. The protagonist
+uses a weapon that uses paint to shoot enemies and as a form of
+traversal."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

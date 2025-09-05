@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction - An academic is supposed to present a paper
+at a convention but puts off writing it until he is out of time and
+contemplates plagiarism and murder. Read in 2017. Spoiler. [s].
+Fiction - An academic is supposed to present a paper at a convention,
+but he hadn't written it yet. He keeps procrastinating until he is out
+of time, and eventually decides to present a peer's work as his own.
+But then that peer turns up at the convention unexpectedly, and to
+save face the protagonist plans to murder him, but he doesn't go
+through with it in the end. I read the book in 2017, the copy I had
+was in English but I think it had been translated from German."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

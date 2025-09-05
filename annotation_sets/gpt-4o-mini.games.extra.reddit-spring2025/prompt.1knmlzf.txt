@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2003-2008] Turn-based Ego perspective RPG. **Genre:**
+Role-playing game **Estimated Year of Release:** 20032008
+**Graphics/Art Style:** The graphics quality was somewhere between
+*The Elder Scrolls III: Morrowind* and *The Elder Scrolls IV:
+Oblivion*. The art style was somewhat similar to *Gothic II*.
+**Notable Characters:** The main character was a woman with brown
+(possibly?) hair. **Notable Gameplay Mechanics:** The game was played
+from a first-person perspective in the overworld. However, when you
+encountered an enemy, it transitioned into a turn-based combat system
+with a third-person-ish perspectivehovering above and behind your
+party. **Other Details:** * I remember the demo featuring a large city
+you could explore, where you could buy rations and water for your
+journey. * There was also a farm area where you could fight bees
+(although Im not 100% sure they were bees). * The game included a
+swamp map with crocodile-like enemies and a large forest with wolves
+and bears. * There was a boss fight against a bear at an altar-like
+location."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

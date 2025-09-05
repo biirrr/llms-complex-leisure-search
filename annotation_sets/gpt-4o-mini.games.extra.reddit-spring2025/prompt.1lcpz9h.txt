@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [2010s~] Finding game. I've been trying to find
+this game for a year now, I had it when I was younger and it was a
+animated game where characters had square heads and in the game you
+can create a family as well as renovate and decorate the rooms while
+also being able to bake in the kitchen when you unlock it and plant in
+garden as well as host parties such as birthdays etc. I think it's was
+released in late 2010s ish."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

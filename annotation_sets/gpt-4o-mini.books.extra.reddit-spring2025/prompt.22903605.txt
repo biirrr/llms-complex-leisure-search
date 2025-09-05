@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s Fiction. A young Hispanic girl named Pilar
+changes her name to Polly because she is ashamed of her heritage. Read
+in 1988-1990.. The Genre is Children’s Fiction. The book is about a
+Hispanic family. I think they might have been from Mexico, but I’m not
+sure of their exact ethnicity. They are new immigrants to America and
+they are trying to fit in. The protagonist is a girl named Pilar. She
+is embarrassed by her name and changes it to Polly so she can fit in
+better at her American school. There is one scene in the book that
+really stood out for me. Pilar’s father visits her school. At the
+school, Pilar’s teacher makes fun of him because he is very short. The
+family is very embarrassed by this incident, which represents the
+discrimination that Hispanics face in the US. By the end of the book,
+Pilar comes to respect her heritage. The title of the book might have
+been “Call Me Pilar” or “Call Me Polly’. Truthfully, I can’t remember
+the title or the author. The book was set in the 1980s in America. I
+read the book around 1988-1990."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

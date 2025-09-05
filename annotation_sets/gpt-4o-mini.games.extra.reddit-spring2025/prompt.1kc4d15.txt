@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000~2010] I am looking for a game I used to play
+around 15 years ago. I don't remember what the game was called but it
+was an dungeon/adventure type of game and in this game you were a
+teenage boy/girl(not sure which) with a pet(I think you could choose
+between a cat or a dog) and you would start at a village, there was a
+merchant in the village whome you could also find in the dungeon
+sometimes. The gameplay was point and click and the enemies were the
+typical dungeon monsters( slimes, giants bats and ...) and you had to
+fight your way through enemies to find the way to the next floor. This
+is all I can remember from the game, I would be really thankful if you
+could help me with the name of this game. Ps. It is not torchlight 2."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

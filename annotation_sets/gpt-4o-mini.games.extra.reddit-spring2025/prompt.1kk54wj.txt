@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1998 (maybe)] RPG shooter with DOS graphics.
+Platform(s): PC Genre: RPG Estimated year of release: I'm guessing on
+this one, 1998 maybe. I played this game when I was 9 y/o in 2005 in a
+98 Windows computer. Graphics/art style: DOS old graphics like in
+DOOM. Notable characters: I remember that at the start of the game
+there were like 4 characters to choose. The first one was like a dwarf
+with blue armor and his weapon was a throwable hammer. The next one
+was like an orange lizard or dragon man, and he shoots like fireballs
+from both of his arms at the same time. The third one was a dude in
+brown armor or something that fires green proyectiles. And the last
+one was like a knight with classic knight armor that used like a staff
+or spear to shoot like thin yellow beams. Another thing, I beleive
+that before starting a level there was like a giant flaming skull that
+starts talking to you and in the end he says something like
+""""""""GO"""""""". Notable gameplay mechanics: basically the game
+goal was like go to point a to b while clearing a dungeon or
+something. On every level I played, my POV was my seing my character
+from the top like an RTS game. Other details: I didn't bought or
+downloaded this game as far as I know. It was already in my computer.
+This computer was a pentium 3 or 4 brought by my uncle that had a
+cyber cafe at that time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

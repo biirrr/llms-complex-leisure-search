@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Widow has a one night stand that
+results in a son. The son has a unique birthmark the same as his
+father. Read around 2016. Spoiler. [s]. Hello, I’m looking for a
+paperback book I read around 2016 but it was probably published before
+then. It’s a romance book that involves a secret child. It might
+possibly be from Harlequin/Silhouette, etc. It’s about a woman who has
+a one night stand the night of her husband’s funeral. She later has a
+son from that one night stand but she pretends it’s her late husband’s
+child. Fast forward a few years and the woman meets the man from the
+one night stand again. The child has to go to the hospital and the man
+discovers the child is his because of a family birthmark the child
+inherits from him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

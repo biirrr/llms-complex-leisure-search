@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2010] Looking for old game similar to Blupimania
+2. I just had a dream today, and unlike most dreams, I remember this
+one. It was about an old game in my childhood, so I'm pumped to replay
+it. But after searching for hours, I couldn't find it. The game is
+similar to Blupimania 2, but the graphics is much more modern. View is
+like 2.5D-ish, kinda top-down and side-view, I don't know how you call
+it. In this game, you control 1 or 2 characters (or should I say
+Balls), can swap between them, pushing squared blocks to solve puzzle,
+in real time, not turn-based. The characters look like M&amp;M
+chocolate pieces, but much rounder, not slim like in the picture,
+color is blue and yellow (don't trust my memory too much on this), has
+small hands and legs in white gloves. There are some enemies in this
+game, but I don't remember much. Also I remember there is bomb with
+the word 'kaboom'. [Edit: Found](https://preview.redd.it/8ftubxy2fp5f1
+.png?width=1920&amp;format=png&amp;auto=webp&amp;s=93b2fbe0a27513ef37b
+51ddee413c95307220708) Thank you for looking into this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

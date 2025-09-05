@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance. Josephine’s? father was framed for
+smuggling? And she was determined to prove his innocence with her pet
+ferret. Read around 2008-2014. [s]. Josephine was once Lazarus right
+hand girl as a child when he bought her after her mother died. When
+her father came back from his travels he bought her back from Lazarus.
+She helped him run his business until he was arrested. She was
+determined to prove him innocent and sets out to get evidence to help
+prove it with her pet ferret the first man she pick pockets she ends
+up falling in love with and eventually finds out it was her fathers
+best friend who was smuggling?."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

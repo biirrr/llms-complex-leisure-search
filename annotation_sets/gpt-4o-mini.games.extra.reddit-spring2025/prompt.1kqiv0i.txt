@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2000s] PS2/Xbox era third person game where
+everyone in a city is suddenly violent, featuring melee combat. I'm
+trying to find a game similar to Manhunt. The story was you are in a
+city and suddenly everyone is super violent and trying to kill each
+other. I think I remember it eventually being revealed that it was
+caused by an experiment ran by the government. It was third person and
+featured a lot of melee combat. The graphics were sort of dark and
+edgy looking, photo-realism (ignoring earlier 3d limitations) I asked
+chatgpt with no success."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

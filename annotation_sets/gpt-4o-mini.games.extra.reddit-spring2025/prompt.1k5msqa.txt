@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2010 maybe] Old RPG game with pixel graphics. \-
+It was downloaded from a website where you could play a game for 1
+hour trial. After the trial was over, you had to pay the game or
+delete it. \- The website had games like Dinner Dash and Big Fish
+Games \- The game had a sequel, because when my trial was over I
+downloaded it's sequel. \- Pixel graphics, a bit of a RPG maker style.
+\- The time I could play the main character lived in a nice little
+town, and they had to enter a cave. Once inside the main character was
+kidnapped and they ended up working as a servant/cleaning person for a
+rich person in another town. \- I can't remember if it had battles or
+not but I think it didn't, it was just story telling (I could be
+wrong) Any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

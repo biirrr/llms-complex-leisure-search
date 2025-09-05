@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Game about topdown shooting flash game. I
+cannot find any information no matter how hard I search, so I will ask
+my question here. It is a game element that I remember. It was top-
+down 2D Shooter. The player moved between rooms/areas through portals
+or open entrances, progressing to the next stage. There was a resupply
+zone where you could heal or replenish ammo by paying or interacting
+with something. The character was likely a bald man, and the main menu
+screen featured his silhouette grinning with a slightly sinister
+smile. When the player died, a screaming sound played and a stats
+screen appeared. Enemies included: Melee monsters (demonic or mutant)
+Humanoid soldiers with guns A strange blue ghost or slime-like
+creature The weapons included: rocket launcher plasma gun dual-shot
+weapon single-shot weapon with infinite ammo It is archive link. I
+used to play this game here. [https://web.archive.org/web/200804102345
+54/http://kr.theme.kids.yahoo.com/themeplus/script/?theme=1&amp;catego
+ry=12&amp;ac=view&amp;cd=5832#](https://web.archive.org/web/2008041023
+4554/http://kr.theme.kids.yahoo.com/themeplus/script/?theme=1&amp;cate
+gory=12&amp;ac=view&amp;cd=5832#) I played this game when I was a kid
+(about 20 years ago). At that time, Korea was in the golden age of
+flash games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

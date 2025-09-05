@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Vampire Fantasy book. Female protagonist cures a teen
+boy's illness with her own blood (not main plot). Read around
+2004-2007.. I read this years and years ago, probably between 2004 and
+2007. I believe the author might have been young (?) and the curing of
+the boy wasn't a main plot point, but it's the thing that stood out
+the most to me. I believe the boy's name was Elias or Elliot or Elijah
+maybe? It seemed a bit old-fashioned. The illness in question was, I
+think, implied to be HIV, but I could be way off. The (female,
+teenage) protagonist gets turned into a vampire and decides to go and
+cure him with a sort of DIY blood transfusion, IIRC. It happens near
+the end of the book? Possibly? They're not friends, I don't think, but
+she cares about him for some reason. I genuinely don't remember most
+of the book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

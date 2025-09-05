@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "WW2 boy in Siberia/concentration camp [s]. A probably YA
+book about a young boy (maybe Polish?) during WW2 sent to Siberia
+and/or a concentration camp. Starving to death, he sustains a leg
+injury and runs away to avoid amputation. He is on the run for a while
+and ends up in a US? hospital where is shocked at the waste that he
+sees. Someone gives him choclate which he devours greedily because of
+being so used to starving. My husband said he loved this book when he
+was IN JR HIGH IN the EARLY 70'S"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

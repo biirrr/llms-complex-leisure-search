@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile most likely] [No idea about the year] Some sort of a
+defense game with a sun temple. So i roughly remember this one game
+where you play as this humanoid (maybe just a human) dude with a mask
+on. I recall him being on some sort of a temple or a pyramid, fighting
+off some monsters/creatures, i think the wholes schtick was based
+around the power of the sun or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

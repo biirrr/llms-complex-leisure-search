@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Alternative History. Theory about human
+origins with religious elements. Cover: chariot/ angels?, red letters.
+Read around 2017. [s]. I came across this book a few years ago (around
+2017). I believe I recall the book being published in the 1950s or
+1960s. I think the book provides some type of alternative theory on
+human origins based off the author's experiences and beliefs. I also
+recall it possibly involved consideration of some religious elements.
+I can't recall if it was classified as a history book or another
+genre. The book cover had red letters, and I believe the art contained
+a chariot/angels?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

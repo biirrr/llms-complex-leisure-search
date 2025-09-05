@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010s] game about stopping gingerbread men from
+tearing santa apart. i remember playing this game on a phone somewhen
+in the 2010s about gingerbread men attacking santa in the game, santa
+would be sitting down (either on a chair or against a wall, maybe he
+was already dead) and gingerbread men would appear and remove parts of
+santa like his eyes or fingers. you would have to stop the gingerbread
+men by tapping on them when they appeared"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

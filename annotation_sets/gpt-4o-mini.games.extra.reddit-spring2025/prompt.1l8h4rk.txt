@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[1990][PC] Game where you are chased by green goo in a sewer
+level. I remember in the early 90s going to a friends house and we
+played games on his dads computer. The game I am trying to find MIGHT
+be related to Star Wars. It was a top-down view, in colour with kind
+of nice graphics for the time. Action-Adventure style but kind of slow
+paced. One level I particularly remember was that the player was going
+from top to bottom in a scrolling maze-like sewer level and we had to
+quickly escape some green goo going towards us. For nostalgia sake,
+Id like to know what game that was and what kind of computer it was
+played on. I was in Canada so European computers are unlikely.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

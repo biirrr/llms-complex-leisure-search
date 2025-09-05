@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction: Woman forgets who she is or what she likes and
+is lost in a grocery store. Recovers her sense of self by remembering
+she likes peanut butter sandwiches and peaches. Read 2010s.. I read
+this book in the 2010s. The girl, who must have been in her teens at
+the time of this flashback, had had a sort of panic attack in a
+grocery store because she couldn't remember who she was. She could
+only remember liking PB&Js so she bought like 5 loaves of bread and a
+couple jars of peanut butter and jelly because it was the only thing
+she could remember liking to eat. I think in a separate flashback she
+remembers loving peaches (or another juicy fruit), and sitting under a
+tree and eating arms full of the fruit till the juices ran down her
+chin. While these flashbacks were in the past, I think in the present
+she might have been an older lady and maybe the antagonist of the book
+(but not in an evil way, just cranky old lady way). I originally
+thought this could be from Pax by Sara Pennypacker but I couldn't fin
+the moment. After a lot of searches Google suggested The Silent
+Patient by Alex Michaelides but I again couldn't find the moment with
+the peaches or in the grocery store. If you recognize this moment from
+a book please let me know!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

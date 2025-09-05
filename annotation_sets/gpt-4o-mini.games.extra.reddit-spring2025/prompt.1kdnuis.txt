@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2000] a 2d sidescroller sci-fi shooter. Used to play
+it back in the day. I'm on a nostalgia trip rn and I wanted to play
+this old game I used to play with my mate. I remember you played as
+like a robot and begun in a green field in which there was a research
+facility close by. There were some platforming elements in it with
+tons of secrets scattered throughout the levels. There were pickups in
+the game which increased your stats or weapon type. One of the weapon
+types which I remember was a ball of energy that bounced and split
+upon contact with a wall or an enemy. There was a roll mechanic in the
+game similar to sonic or samus which you curled up in a ball and went
+fast. That's about all I can remember though if I remember any more
+I'll edit. Edit: I remember one of the bosses being a bio-mechanical
+being which you had to use the roll mechanic to stagger / damage. Also
+remember the difficulty icon for easy mode was the character whom you
+played as with a pacifier and the hard mode had said characters skull
+visible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/XBOX][~2015] Point and click adventure game, modern
+Lousiana/bayou urban setting, themes of automation and AI.
+**Platform(s): PC, probably XBOX since it was on gamepass.** **Genre:
+Point and click adventure, """"""""first person"""""""" (you viewed
+the game world from the perspective of your character, not moving them
+around with your pointer.)** **Estimated year of release: Around
+2015-2018** **Graphics/art style: Pixel art, maybe. Mostly taking
+place in late afternoon and night, goofy but in a David Lynch way.
+Very little emphasis on the human characters, mostly on the
+environment and cityscape.** **Notable characters: An AI interface
+that took the place of a gas station clerk, main character's mom who
+had cancer (?) in flashback sequences, main character had a robot
+companion they repaired, and an AI that looked like a ball of ducks
+(?) that acted as an objective giver for the main character's mom
+during the flashback sequences.** **Notable gameplay mechanics:
+combining items to solve puzzles, some kind of datapad (?) which
+featured a silhouette of the character you were playing (almost like
+Doom).** **Other details: New Orleans-esque bayou modern urban
+setting, including industrial vistas and night time cityscapes. The
+part where you played as the main character's mom revolved around some
+kind of government conspiracy, including a part where you broke into a
+government office to steal information (I think at the behest of the
+duck ball AI). I never even completed it, but the strange atmosphere
+and music has stuck with me for years.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

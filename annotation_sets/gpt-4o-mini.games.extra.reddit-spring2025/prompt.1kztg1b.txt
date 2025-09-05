@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Cat Cloning Puzzle Game. Platform(s): I think
+it might have been on Steam, but I never played it. Genre: Puzzle
+solving, like tetris Estimated year of release: 2010's, probably in
+the 2013-2019 range, or at least that's when I saw it being played.
+Graphics/art style: I can't quite recall, but I believe the game was
+in a simple art style, not pixel or realistic. Notable characters: I
+recall the player being a young girl. There were lots of cats! I
+remember a grandma and a grandpa too Notable gameplay mechanics: I
+believe that in the game, there was a cat cloning machine. The grandpa
+was very sick and made the machine so that the grandma wouldn't be
+lonely. However, the machine broke (i believe someone left a banana
+peel on the machine) and it kept cloning cats. The little girl was
+building forts to protect against the cats, but I may be wrong on that
+part. Other details: I only watched a youtuber play it. I believe it
+was Jacksepticeye who played it, but it may have been Kubz Scouts"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

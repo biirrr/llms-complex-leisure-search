@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Sister goes missing - blue (heart?) necklace
+found in the park. Spoiler.. I read a book in middle school
+(2012-2014) about a girl whose sister was kidnapped from their home.
+The MC was sort of awake and remembered seeing a man in the house. I
+can’t remember much else, except that the sisters had blue necklaces
+and the MC found her sisters necklace at the park or in a field. It
+ended up being the neighbor that kidnapped and killed the sister."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

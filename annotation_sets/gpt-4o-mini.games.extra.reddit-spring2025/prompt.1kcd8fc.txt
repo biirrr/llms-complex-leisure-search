@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Amiga][1990-94] Side scroller/platform?. It was a side
+scrolling game. I think there was combat in it. Not too sure about the
+platforming. I think you picked up coins to buy weapons or upgrade
+your character. I can't remember what the Main character looked like.
+I think one of the enemies was a slug? The colours had a natural
+pallet, set in a woodland maybe. I think there was rope ladders Games
+i remember playing at the same time to give an idea of the year were
+Rainbow Island, Bubble Bobble, Populous, a Air Hockey game and a Test
+Drive game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

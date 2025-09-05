@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Childrens Fantasy (?) book about a poor little girl
+meets sketchy tall blond guy in her town/ village. Read around
+2019-2022. Spoiler.. so i read this in a novel study group in around
+2019-2021, cant remember much, but the book was an easy read book and
+wasnt that long, and had a girl on the cover (animated/drawn) and i
+think it mightttt have been something like ""the ___ girl"" or like
+""the __ witch"". the title was short. anyways. the book starts off
+with the MC, this little girl, and shes like, dirt poor right. no
+parents. sleeps on the floor in some house/workshop. i think she sells
+stuff like sticks or something, i dont thnk the people in her town
+care lol. she lives in this small village and i remember there being
+this nice baker guy who may have given her bread. but the little girl
+ends up meeting this weird like, witch? creature? guy, and hes
+described as real pretty, pale, tall and long platinum blond hair, he
+may be an antagonist or something, i remember him ending up being a
+not so great guy. he migt have cursed her, or bought something from
+her, they interacted a bit and then he like disappeared. and i think
+somewhere in the book she ends up joining this group of people,
+possibily a rebel group against something, i think some people die or
+something. tall blond guy is not a love interest to make it clear, hes
+like mysterious and shady, i dont believe hes human but he looks like
+one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

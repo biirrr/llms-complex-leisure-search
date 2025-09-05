@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] 3D room filled with different colored blocks
+that need to be cleared out, I think it was point and click in first
+person.. It had upgrades to help clear the blocks faster, as the
+levels go up the blocks have more health. May have been a Unity
+developed game, unsure if it was browser based or on one of the
+platforms. I remember spending hours and hours playing it. Slight
+incremental vibes to it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

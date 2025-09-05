@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction - Poor girl meets wealthy woman, goes to Europe.
+Read 1998.. The book was fiction, a chapter book, probably under 200
+pages. It was likely written in the 1970s or 1980s. Written in English
+for pre-teens or teenage readers. I read the book in 1998 while in
+junior high school. The story takes place somewhere in the United
+States in the 1970s or 1980s, possibly early 1990s but I doubt it -
+that would have been way too modern for my public school. The main
+character of the story is a teenage girl who comes from a poor family
+and is not terribly popular at her school. She suffers from a lack of
+confidence until she encounters an older wealthy woman who takes a
+liking to her and wants to take her to Europe. Her mother and father
+reluctantly agree to let her go. I remember a distinct detail is when
+the older woman visits the girl's home to meet her parents and ask for
+their permission to take their daughter to Europe, the mom serves
+drinks on a metal tray that has beer logos on it, and this embarasses
+the young girl. At the end of the meeting Dad says, ""I guess we'll go
+get you a passport."" Although I did not finish the book I suspect
+that the wealthy woman was not all that she revealed herself to be and
+her true intentions were possibly sinister and would be revealed later
+in the story but this is speculation on my part."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

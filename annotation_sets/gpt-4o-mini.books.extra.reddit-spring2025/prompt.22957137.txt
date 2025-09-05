@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance - Woman falls into River an found
+by a genius painter. Read around 2022.. Read around 2022 (before or
+after) A young woman around 20ish is told by her mother to seduce a
+peer so he will marry her. She winds up pregnant and not married when
+her mother finds out she throws her out of the house. the young woman
+wonders around and eventually meanders to a river. It is winter and
+she falls/jumps in. A hermit finds her and take her home. this hermit
+is either autistic or maybe jus a bit mentally handicap. But he
+decides to keep her. His butler/keeper tries to talk him out of it
+especially when they find out she is pregnant. Eventually the woman
+wins them over and the hermit and she are married. She finds out he is
+actually a peer and a brilliant painter. She also finds out they are
+needing funds she she talks the men into showcasing his works in
+London at the art exhibit but is meant to be semi private. He is all
+the rage once his painting come out and the ton can not get enough of
+his paintings. Lo and behold her mother shows up at the art show to
+try to meet this famous painter knowing that her daughter is married
+to him. the daughter shuns the mother. The daughter has a wonderful
+group of friends at th end of the book. It is a part of a series and
+not the first book because the friends are the former books. The
+series is like oddballs of the ton or something meaning that. thank
+you for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

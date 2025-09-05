@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2014-2019?] [Roblox] [Xbox, phone, PC] Game where you go
+into area 51 and find memes. Platform(s): Roblox Genre:IDK really how
+to describe it Estimated year of release:2014-2019? Graphics/art
+style: average Roblox style Notable characters: I remember seeing Nyan
+cat, SpongeBob, Patrick? And Sanic Notable gameplay mechanics: it was
+like a museum kinda Other details: nothing I can think of I remember a
+white/yellow room where you ate cake"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

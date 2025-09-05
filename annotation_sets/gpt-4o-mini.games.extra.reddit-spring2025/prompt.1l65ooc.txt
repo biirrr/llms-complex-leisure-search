@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990's] 3 in 1 Educational point and click game.
+Platform(s): PC Genre: Educational Estimated year of release: Late 90s
+Graphics/art style: Hand-drawn Notable characters: A Monkey in Game 1,
+an octopus in charge of races in game 2, an alien girl on rollerskates
+in Game 3 Notable gameplay mechanics: point-and-click, educational,
+and reading. maths, patterns, English Other details: Hi all. Trying to
+think of this game has got me going crazy. It was an late 90s
+educational point and click gamne, was in a set of 3 games, one was
+you play as a monkey who was playing hide and seek in a library with
+his animal friends and the only way to find them was read books and
+look aart around the library, game 2 was about saving fish and
+creatures from cages through patterns and one game was led by an
+octopus who ran the races, game three was math based in a space
+station and you play as an alien on rollerskates solving a mystery.
+Getting my kids into a lot of old-school puzzle/educational games and
+would love to share this one with them as well. Any help at all is
+great. Hopefully, this wasn't a fever dream and I didn't make it up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

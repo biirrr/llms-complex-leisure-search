@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010] 3D top-down game with a knight in a magical
+village, bizarre story, and a boot-shaped weapon. **\[SOLVED\]
+DeathSpank** Hi everyone, I'm trying to remember a game I played
+around 2010 on PC (possibly also available on Xbox). It was a 3D game
+with a top-down or isometric view, featuring a knight in a magical
+village. The story was quite bizarre and humorous. One mission
+involved collecting demon poop using a boot-shaped weapon to kick
+their butts. The game had a cooperative mode where the second player
+could control small creatures or minions. The art style was
+cartoonish. I believe the protagonist might have been undead or
+resurrected. Does anyone know the name of this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

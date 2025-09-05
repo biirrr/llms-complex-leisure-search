@@ -1,0 +1,40 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Realistic Fiction book (kind of a mystery book)
+read around 2015/2018 about a young girl whose mom who is studying to
+go on a game show and mom's boyfriend teaches girl how to tie knots
+(possible time travel(?)). I read this book around 2015/2018 for a
+""Battle of the Books"" event my school district was doing at the
+time. The cover had some kind of warmish light pink on it and a creamy
+white or something. I want to say the cover is a birds eye view of a
+city or street with little people or cars and in the middle is the
+title. It follows a young girl who was in middle/high school. I
+remember throughout the book it talks about how she's doing some kind
+of school project talking about yawning and why yawning is
+""contagious"". She lives in a kind of ""poor"" ish apartment complex
+in a city with her mother (and maybe little brother/pet?). I remember
+it talking about how she was a ""latchkey kid"" Her mom was studying
+to go on a trivia game show of some kind (I want to say it may have
+been jeopardy). The mom had a boyfriend that was some kind of sailor
+or fisherman or something and taught the girl how to do knots which
+she did as a like an anxiety/stress relief. I remember there was some
+kind of boy second main character (I don't they ever had anything
+romantic just a classmate situation) I think she perceived him as kind
+of a jerk/bully character? I remember there was something that had to
+do with some kind of old man mysterious character. There were some
+kind of clues or something they were following and a weird mystery
+kind of thing. Maybe some kind of time travel I remember the end was
+really weird/unexpected. I remember for one of the questions in the
+Battle of the Books event it asked about the significance of quotes
+throughout the book from Albert Einstein or something (though that may
+have been asking about a different book) I hope I can find this book,
+I've been looking for it for AGES :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

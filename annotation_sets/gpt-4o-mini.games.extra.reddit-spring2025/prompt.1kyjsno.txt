@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][Mid to late 2010s] Point-and-click mystery
+adventure horror games. I remember playing these Point-and-click
+mystery adventur horror games around the mid to late 2010s. They
+remind me a bit of Junes Journey in their art style, but that's about
+all the resemblance. It was 2d, fixed screen, and it had an inventory
+at the bottom of the screen. Played out in chapters. I remember the
+loading screen was this bright orange, and I think the name of the
+developer started with an 'H', and it was a short name I think. I
+played those games all the time, and I miss them. I remember there
+being puzzles and codes, etc. one I remember took place in an
+abandoned asylum I think, or something similar. A lot of them had to
+do with ghosts or hauhtings. I vividly remember this one, in the
+asylum game, a code having to do with the alpha/beta/omega symbols,
+and another in that game with cutting open a teddy bear to get a key.
+This was on Android, I don't know if they were available on iOS or
+anything else. It was free also. I'm dying to play them again, so if
+anyone knows the dev name, I'd be so grateful."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

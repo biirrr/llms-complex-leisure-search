@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES, I think] [1990s] Wizard in a Dungeon. One part that
+stands out in my memory is, at one point, you have to drink a potion
+to get through a hole in the wall. On the other side, bad guys try to
+stomp on you as the potion has a time to wear off. If you get stomped,
+it scrapes you off on the floor, checks its foot, scrapes a bit more,
+then keeps walking around. Another part is that tiles in the dungeon
+break under you, you catch yourself with your staff, then you have to
+press the button in a steady rhythm to get out. I've tried Google to
+no avail. Thanks for any help. SOLVED! The Immortal for Sega."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

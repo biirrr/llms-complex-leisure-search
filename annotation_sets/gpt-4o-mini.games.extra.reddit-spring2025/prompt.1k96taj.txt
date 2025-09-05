@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][LATE 90s/EARLY 00s] MOTORBIKE GAME ALLA CARMAGEDDON.
+\-The desktop icon was a """"""""B"""""""" and the name under it was
+Biker \-No idea of the objective of the game, just run around and
+cause mayhem, run over people \-People would scream when you ran over
+them, and they would scream a lot, like a GTA pedestrian times 10
+\-Cops were pretty much made of granite and you could not run over
+them, and if you were too close to them they would shoot you, one time
+i turned around the corner and there was a platoon of them marching
+around \-Setting was a city, like GTA 3 Liberty City \-The game was
+dark, like really dark, so dark i'm thinking it might have been a bug
+that made it much visually darker than it should have been"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

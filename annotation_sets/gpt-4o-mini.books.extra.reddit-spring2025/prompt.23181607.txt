@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA or Preteen, about a girl who looses her stamp collection
+in the tree in her grandmother's yard. Read in early 1970s. Spoiler..
+A girl with a stamp collection contained in a small metal box climbed
+a tree in her grandmother's yard while her family was visiting. She
+didn't have any pockets in her dress, so she stuck the box in a hollow
+in the tree. The family leaves and calls her down from the tree, and
+she forgot to retrieve her box. Later, she visits again, but the
+hollow has grown over, and so she has lost her stamp collection
+permanently. (view spoiler) [At some point (I'm not sure, but I
+believe she inherits the house as an adult), there is not enough money
+to pay the mortgage on the house. Just before the house is foreclosed,
+lightning strikes the tree, splitting it open. She discovered her lost
+box of stamps among the remains of the tree and found that the old
+stamps were worth enough to pay off the house. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

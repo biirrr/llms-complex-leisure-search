@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash/PC][2004-2011] black and white flash game cannot
+find. The game was hand drawn, most words were misspelled like the=teh
+and awesome=awsum, and there was one section with ghosts, and you had
+to race one of them, and you just went from room to room by going from
+left to right, and one section had you get a key and lose in in a
+grate, but you had to press a key on your keyboard to get past this.
+please help me figure out the name and possibly where to play again if
+possible"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES] [UNKNOWN] 2D point and click robot boy anime style
+game. I played on a SNES emulator and I downloaded a folder where
+there were several games like about 100, there was a day when I didn't
+have anything in mind to play on this emulator and I clicked on a game
+randomly and it landed on this game that I'm currently looking for,
+I'll list the things I remember: The game had very beautiful art and
+the sprites were very well animated It was in a Ranma-like anime style
+I think the protagonist was a robot because I remember being able to
+stretch his arm somehow The game's introduction reminds me of the
+opening of Uresei Yatsura (the character runs to one side as if he was
+running away, and dps appears in the middle coming towards the
+player's screen and the name of the game appears) I think it was a 2D
+point and click game because I don't remember not being able to walk
+normally and getting stuck in the early part of the game I think the
+name of the game starts with A or B because I remember it being at the
+beginning of the list Lastly, here's an image of how I remember the
+main character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES PS1 or Sega Genesis] [90s] I only remember one detail.
+Sorry if this sounds dumb, but I'm trying to remember the name of a
+RPG game I used to play, not sure if it was the the PS1, SNES or the
+Sega Genesis. Literally the only thing I remember about the game is
+there was a little cheetah or cat character that could follow along
+behind you and its purpose was to make you run or walk faster. (It was
+one of several characters that could follow behind you.) I think there
+was a part where you had to complete a race around a track using this
+character. My brain remembers it as Genso Suikoden but I don't think
+it was because Suikoden doesn't feel familiar watching replays. I wish
+I could remember more about it. I'm not much of a gamer but this was
+one of the few that I enjoyed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

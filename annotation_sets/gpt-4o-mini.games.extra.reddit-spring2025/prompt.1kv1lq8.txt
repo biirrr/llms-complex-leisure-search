@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010] Flash Game, Crusades. Crusades Flash Game Hey
+folks, I am looking for the name of a flash (?) game I just
+remembered. It was a combination of campaigning on an overworld
+showing parts of europe and the mediteranean region at the time of the
+crusades. You could go out and grind for weapons, or try to conquer
+cities and regions. The battles were done in a 2D sidescrolling, hack-
+and-slash style action. Must have been around 2010-2015, I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

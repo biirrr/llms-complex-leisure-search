@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult (YA) Romance - Teenage girl falls in love with boy
+next door who has an abusive father. Spoiler.. He sneaks into her room
+at night by climbing a cherry tree and spends the night. *SPOILER
+ALERT* . . . . . She eventually calls the police during one of his
+father’s outbursts and his father breaks her arm, causing her to lose
+a scholarship. Her parents are nice and her father’s a lawyer. Can’t
+remember the rest of the plot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

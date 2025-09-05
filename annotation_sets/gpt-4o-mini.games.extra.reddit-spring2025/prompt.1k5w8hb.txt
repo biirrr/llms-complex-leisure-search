@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2014]A 2D browser game with a fantasy like art
+style with turn based combat. Platform(s): The game is a browser game
+and I always played it on a PC Genre: From my memory I would call it a
+Action Adventure game that is based on turn based combat. It also has
+a Story which I don't remember what is was about. Estimated year of
+release: I played it between 2012 and 2014 Graphics/art style: The
+game is 2D and has a Fantasy like art style where the first enemies
+you fight were low level wolves and slimes. There was a tavern to meet
+new characters and a blacksmith to buy better weapons. Notable
+characters: Your team had multiple characters which have different
+classes. I only remember that one class used a guitar as a weapon
+which could send attacks called Sonic Waves to the enemies by
+strumming his guitar. Notable gameplay mechanics: The game was a point
+and click game centered around turn based combat where the feature
+that I remember was a speed mechanic where your characters could have
+multiple turns if they were faster than the enemies they fought. It
+was visualized at the bottom of the screen where you could see the
+icons of the characters and their speeds. There was also a training
+area in the woods where you could fight wolves and slimes over and
+over again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

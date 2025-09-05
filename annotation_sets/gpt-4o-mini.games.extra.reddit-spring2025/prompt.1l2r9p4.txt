@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS5][2020-2025] third person survival horror with
+telekinesis. I saw the game in the intro of the video """"""""PS Plus
+extra June 2025 Games"""""""" by GamingBytes. It seems like a third
+person survival.horror. The character you play as has long white hair
+and uses telekinesis to fight off meaty foes. It seems to take place
+in labs with enemies kinda ressembling the zombies from Half Life."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "British Child Abuse True Story - He then finds it difficult
+to hold down a job, he's screwed over by his legitimate employment so
+he turns to a life of low level crime. He's used as muscle. [s]. I'm
+looking for a book that is set the 80's or 90s in England. The book is
+about a boy that is abused primarily by his mother (who you learn has
+severe mental illness) and partially by his timid father that suffers
+from epilepsy. He has two other brothers I believe that don't get it
+as bad as him. He grows up poor and is subjected to terrible things.
+He eventually gets taken into care. The family mentors him a little
+but he has to leave when he's older. He then finds it difficult to
+hold down a job, he's screwed over by his legitimate employment so he
+turns to a life of low level crime. He's used as muscle. He's used to
+do backyard fighting for money. He's eventually set up to take a fall
+in a fight. This takes place within a ring of cars. He later finds
+love in his girlfriend but his abuse makes his mannerisms unusual and
+he has to explain all this to her. It is a true story about him
+growing up I believe. If you know the title of this book and can link
+me it, I would be extremely grateful. It is similar to a boy called
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

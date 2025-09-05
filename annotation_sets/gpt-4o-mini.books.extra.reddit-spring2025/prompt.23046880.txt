@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Urban Fantasy/ Sci-Fi. Family with powers lives in a
+warehouse. Read 2018-2023.. Things I know for sure: - read sometime
+between 2018-2023 - a family lives in a warehouse, they have little
+individual 'rooms' built around the warehouse in addition to a garage
+area - female new adult protagonist, takes care of her younger
+siblings and the grandmother lives with them as well - some (or all?)
+members of the family have some sort of special ability/power - the
+parents are missing or dead - the grandmother has some kind of
+mechanic power/ability - the family is stressed about their financial
+situation Things I'm pretty sure about: - the female protagonist or
+one of her siblings has a 'special' power which they need to mask to
+keep hidden - male antagonist (future romantic interest, enemy-to-
+lover style?) buys the mortgage to the warehouse to blackmail the
+female protagonist into helping him with something - the male
+antagonist is an ex-soldier/borderline war criminal dude with too much
+money for dubious reasons, has lots of resources/staff at his disposal
+- has a steampunk feel, no creature characters (ie. no vamps,
+werewolves, faeries, angels/demons, etc.) that I can recall Thank you
+for any suggestions you can offer!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

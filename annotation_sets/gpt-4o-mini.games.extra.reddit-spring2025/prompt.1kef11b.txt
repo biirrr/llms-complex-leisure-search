@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows XP][2010s] A game about a box rolling in a puzzle
+maze game. I'm looking for a game that appeared around 2010 or so.
+It's a game embedded in an Excel sheet, maybe it was written in Flash,
+I'm not sure, it has a box in it, you can control the rolling of the
+box by using the up, down, left, right and left arrows on the
+keyboard, when the box rolls over different grids, different
+mechanisms can be triggered, and in turn, some paths can be opened,
+and some paths can be closed. It's a very interesting game, I played
+it more than ten years ago, and now I've been looking for it for a
+long time and I can't remember what it's called, so if I can find the
+name of it, it must be very easy to find it. Thank you all very much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

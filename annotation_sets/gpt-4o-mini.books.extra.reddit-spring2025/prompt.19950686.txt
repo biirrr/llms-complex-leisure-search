@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "(1970s?) version of the New Testament for prisoners. Years
+ago in the library I found a version of the New Testament meant for
+prisoners. I feel like it was from the 1960s or 70s. I vaguely recall
+it referring to a murder as a 'rubout'. This was supposed to come
+across as 'hip' to the prison audience. Thanks in advance! Kevin"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

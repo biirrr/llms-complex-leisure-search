@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Photo book about famous kisses. [s]. I read this in a Barnes
+& Noble maybe five years ago. It was a coffee table book, not too big.
+It had pictures of famous kisses, both in real life and in the movies.
+There were sections on kisses between men and between women, including
+one between men in a very old WWI film, and another one of the
+""fraternal embrace"" between Leonid Brezhnev and Erich Honecker in
+1979. There was commentary, too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] [Sticker game with many different versions].
+Games where you could pick a background and drop stickers of
+characters onto it. It had many different themed individual versions
+but they were the same games only the backgrounds and stickers that
+you could choose changed. The ones I remember are: superheroes,
+medieval fantasy and anthropomorphic animals. I played them when I was
+a kid during the 2010's but they were probably older than that. They
+had a cartoony artstyle. Edit: I found it myself! It is the Sticker
+Book series by Dataware."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

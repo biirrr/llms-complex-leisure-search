@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android][2012~2014] Spaceship game that used a gyroscope.
+The gameplay used a gyroscope, but you could also tap on the screen.
+I'm absolutely sure that the game is from that period because I played
+it when I was in college. The icon was a blue spaceship on a dark
+background. The home screen reminds me of Kuuasema's Supersonic, but
+it's not that game. Similar games that I found: SpeedX 3D, Speed Maze,
+Supersonic (Kuasema), and Space Tunnel. Space Tunnel is the most
+similar, it even seems like a copy or inspiration. The animation when
+the spaceship crashes and the sound effects are the same, but IT'S NOT
+THAT GAME! Space Tunnel is from 2017, the game I'm looking for is
+older, and had simpler visuals. The image below was the best I could
+find. It was from the beginning of the game, but I don't know if the
+image IS from the game I'm looking for - but it looks like it, and
+looks a lot like it. I have a vague memory of there also being
+translucent blue rings that we were supposed to cross, but I'm not
+completely sure about that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

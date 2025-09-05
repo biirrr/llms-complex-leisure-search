@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "WW2 memoir set in Paris, 2 women, smuggling downed airmen.
+[s]. I read a memoir published in (I think 1943, maybe 42---definitely
+during the war) about 2 women in Paris who helped the Resistance
+smuggle downed airmen out of France and back to Britain. The
+narrator/author was one of the 2 women. She used pseudonyms and
+different place-names for security reasons, as the war was still
+ongoing; there was a statement re: this fact on either the title page
+or foreword. One woman was French, living in Paris; the other was (I
+think) American. There was a French priest who came to their apartment
+to help with planning. I cannot remember the title or author; in fact,
+the author may be been listed as Anonymous. My copy was a red/burgundy
+hardcover. Does this sound familiar to anyone? Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

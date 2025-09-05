@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Lates 90s - Early 2000s] Arcade Bottle Shooting Game.
+Trying to find a computer game we had on our computer in the late
+1990s and early 2000s. It was a shooting gallery type game where you
+shoot bottles off the bar top, tables, and shelves in a saloon. It was
+a point and click shooter game. There also was another level that had
+red targets around and on top of a barn, there might have been duck
+targets too. It was a very simple game and could've been part of a
+arcade game pack or cereal box CD but all the games I've looked up
+don't match it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

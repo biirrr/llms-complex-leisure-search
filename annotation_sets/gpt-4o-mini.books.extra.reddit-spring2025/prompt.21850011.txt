@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-Fiction Travel book. Southwest France. Female
+journalist? lived in SW France for a year, documenting the people,
+customs, etc. Title: similar to Deep South? Read around 2005. [s].
+This is a book written by a woman who was a journalist I think. I read
+it in 2005 or so. She stayed in SW France for a year documenting the
+people and customs etc. possibly called something like Deep South."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

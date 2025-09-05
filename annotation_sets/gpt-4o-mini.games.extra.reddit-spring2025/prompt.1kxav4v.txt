@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][200?-201?] A WW2 game that has you play different
+characters in Allied factions. I don't know the name of it, but i
+remember playing it on my dad's laptop as a kid. The most useful
+detail is that the missions swapped POV's, and you started as
+American, then at some point you were a Russian conscript at
+Stalingrad, and I think at one point you were a French resistance
+fighter, but I might be remembering that one wrong. A few more
+memorable things was one of the American missions had you parachuting
+into a Nazi base in the middle of the night, and the last mission was
+raising the Soviet flag at Berlin."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

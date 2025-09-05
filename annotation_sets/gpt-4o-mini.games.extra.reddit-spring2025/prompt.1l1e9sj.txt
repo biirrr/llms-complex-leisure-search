@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2000s] Point and click game like """"""""Still
+Life"""""""" but the protagonist is a guy and I believe the first
+level as outside an apartment/house and you are supposed to get in. I
+remember playing it back in 2008 and I never got to finish it as that
+kind of games always confused me. As an adult, I was able to play
+Still Life and complete it so I would like to revisit that game. The
+protagonist is male, the first level is outside an apartment or a
+house and you have to get in. I never got past it so I never completed
+it. I've tried to google """"""""Games like Still Life"""""""" and
+none of them were close to what I remember, it may also be possible
+that I may be remembering things wrongly so I am posting here as a
+last resort."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

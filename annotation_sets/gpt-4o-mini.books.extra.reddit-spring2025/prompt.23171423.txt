@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction Romance. Duke's sister grasslands on
+planet, rides with rebel, tricked into marriage. A human leads a
+rebellion against aliens and is rewarded by being made a Duke. His
+sister crashlands on the planet and joins a group of nomads. A
+matriachal society. Men embroider their shirts in fancy patterns and
+fight using sabers. A rebel(?) leader named Bahktain(? Baktain? Some
+variation on spelling) tricks the woman into marriage by ""riding down
+the avenue at sunset"" - I'm almost certain that's a quote."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, Time Travel. Girl travels back to 1980’s,
+interviews rock star, takes him back to current day with her and world
+thinks he died by going off a bridge. [s]. Her aunt was somehow
+involved- she traveled back from supply closet in office. I think
+someone- a bandmate??- was trying to kill him"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's picture book. I once read a really short book
+that may have been a pop up where someone is looking through a house
+for something not named. At the end, you find out that it is a puppy
+in a box. The illustrations are quite colorful and in the style of
+Eric Carle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

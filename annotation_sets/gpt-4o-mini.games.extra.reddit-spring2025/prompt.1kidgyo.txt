@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s-early 2000s] puzzel type kids adventure.
+Isometric. Scifi with aliens.. Played it as a kid but never knew the
+name. It was 2d isometric. It had puzzles, aliens, and monsters. I
+remember some of the items were alien spikey fruit and space ship
+parts. The goal might have been to explore the planet to retrieve ship
+parts to get off the planet but I could be manifesting that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

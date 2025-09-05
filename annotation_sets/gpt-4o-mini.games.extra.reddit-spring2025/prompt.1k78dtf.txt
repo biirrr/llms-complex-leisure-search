@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Flash Game][2010-2015?] Flash game where Viking shoots
+space gun at waves of enemies. It was a top down shooter where you
+played as a viking with a gun that shot bright blue bullets. There
+were waves of enemies that would spawn, wolves being the main enemies,
+and some kind of witch or wizard that shot ranged magic/bullets of
+some kind. Power-ups and different weapons would spawn during waves,
+i.e. a shotgun or a faster firing rate power-up. I think there were
+upgrades that could be chosen in-between waves as well, though I don't
+remember what they were like."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

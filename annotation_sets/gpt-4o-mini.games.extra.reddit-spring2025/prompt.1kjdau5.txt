@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS] [2012-2013] A mix 3 type game involving a leprechaun.
+Mix 3 type game, I played it briefly around 2012-2013 on my iPad.
+There is a leprechaun, gnome or troll-like figure standing on a piece
+of grass to the left of where the gameplay takes place. Behind him is
+a lake/fjord and mountains. The colors are warm-toned and brown. I
+drew a quick demonstration, excuse my horrendous drawing, I was in a
+hurry. However it was widescreen as opposed to how I drew it. Does
+this ring any bells?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

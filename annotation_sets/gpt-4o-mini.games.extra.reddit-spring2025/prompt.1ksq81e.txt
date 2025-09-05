@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][1991/1992]SIDE SCROLLING PLATFORMER WHERE YOU TURN
+INTO A METAL PANTHER. Pretty close to the SNES launch (i think) I
+bought one of those third party Tips &amp; Tricks books that had
+pictures and tips for some games. There is a game I remember from this
+guide book that I can't find anywhere. What I remember is that it was
+a side scroller, (action?) game, and I remember one of the screenshots
+almost perfectly in my mind, a robotic\\metal jaguar or panther type
+of creature, and the guide mentioned something about """"""""you must
+turn into the Jaguar to get through this space, but make sure to
+conserve your energy"""""""". I can't remember but it MAYBE called
+this the """"""""beast"""""""" form or something rather than saying
+jaguar or panther. but it definitely looks like a panther robot with a
+tail and everything. I've been looking but I can't find it anywhere.
+It's not Metal Morph or Metal Warriors, though they seem like that
+would be it from the desciptions, those really don't look like it. I
+think it might be a game released pretty early, other games I remember
+being in the guide are Super Mario World, Castlevania 4, Joe and Mac,
+Super Ghouls and Ghosts"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

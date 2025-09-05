@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010]Space opera game with twin brothers. Hey all. I'm
+trying to remember the name of a game from around 2009-2013. It was
+set in a space setting (or at least somewhere, where the sky was
+always dark and filled with stars). The mc was a one of two
+twins,trying to kill their """"""""king"""""""" father. I remember the
+mc wearing light clothing whereas the father-affiliated twin was
+wearing black. There was a lone throne on a platform where the king
+sat and the setting around the king was really regal with gold accents
+even in the doors. Does this ring a bell to anyone? thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

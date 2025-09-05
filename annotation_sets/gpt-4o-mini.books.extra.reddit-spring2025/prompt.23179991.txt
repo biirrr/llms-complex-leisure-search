@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2011 YA Romantasy Series Featuring Magic in a Hot U.S.
+Locale; Pink Book with Crows. I read this around 2011. One of the
+books is dark pink with bird silhouettes in flight and a girl on the
+cover. The book takes place in a warm U.S. location—Arizona feels
+right; somewhere dry and remote. In book one, I believe she moves
+there to live with family after having struggles at home. She
+discovers her magic and falls in love with a male protagonist. The
+magic has ancestral/ritual roots. Possibly inspired by Indigenous or
+Mayan cultures."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

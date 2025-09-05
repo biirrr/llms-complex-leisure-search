@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle School Fiction - A couple of kids make a blog and
+post things pertaining to their middle school's gossip and news.. I
+read this book in middle school so around 2016-17 and I haven't been
+able to find it after that (I do remember the book having a 2000s
+cover). This small friend group made a blog online where they would
+post gossip and latest news from their middle school. They might've
+decided to establish that after one of the friends got removed from
+the school's paper (I think). At first everything was going smooth and
+people enjoyed it, until everything took a wild turn and someone got
+very upset because their personal business got posted on the blog. One
+of the friend's who established the blog couldn't take the pressure of
+it and decided to run away and hid in the forest. The cops were
+looking for the friend and finally found him/her. Not sure if this
+detail helps out at all, but I do remember one of the main characters
+be Muslim because he'd pray with his family multiple times a day."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

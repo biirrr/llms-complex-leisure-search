@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console] [2010s probably] 2D beat-em-up game about
+cleaning. I remember playing this game on what Im 90% sure was my
+friends Xbox back in middle school. I think there was like 3
+different characters with different methods of cleaning/combat, and
+your goal was to clean the floors and beat up several enemies around a
+2D space. I vaguely remember the game having a sort of Speedrunners
+type vibe. One of the characters had a mop or a broom, I believe?
+Anyone familiar with this? Sorry if I ended up getting details wrong,
+as it was ages ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] 2D platformer about a boy turned into a blue
+ball by a wizard. Hi, I joined this community because Ive been trying
+to find a game I played a long time ago. Ive been looking for it for
+5 years now, and I think it might be lost media. From what I remember,
+the game was about a boy who got turned into a blue ball =5 by a
+wizard. I dont remember if the wizard was good or bad. I think it was
+a 2D platformer set in a colorful forest. Thats all I remember. I
+dont know if it still exists or not, but if anyone knows anything,
+Id be super grateful!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

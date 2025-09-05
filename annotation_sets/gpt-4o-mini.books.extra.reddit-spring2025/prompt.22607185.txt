@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Literary Fiction about a wealthy South American woman
+in a failed marriage who begins a journal seamlessly blending fantasy
+and reality when she discovers that she is dying --if she is in fact
+dying to begin with!. I read the first few chapters of this book about
+twelve years ago, around the same time that I read The Gardens of
+Kyoto, with which it is contemporary. It is a short novel (under three
+hundred pages) and it would be classified as literary fiction (or
+should be). The setting, South America, possibly Chile (post-Pinochet)
+or Peru. The protagonist is a creative, sensitive woman trapped in a
+loveless marriage to a wealthy business man who is as clueless about
+the true state of his marriage as he is unimaginative, conventional
+and dull (a typical fatuous bore). We learn early on in the book that
+she, the main character, is dying, presumably of cancer. But maybe
+not. She is an unreliable narrator. We know this because in the first
+chapter we learn that her lover had just died, ""expired like the ash
+on the end of his cigarette"", silently and without notice, right
+there beside her in a motel bed. She records this in her private
+journal which she leaves for her estranged husband to find. Since the
+deceased is her husband's business partner, and very much alive, her
+clueless clod of a spouse is rather bemused by this fiction. In fact,
+he knows full well that his partner didn't expire after having sex
+with his wife because they were on a business trip together that day.
+In any case, his beautiful, melancholy wife (I am quite taken by her)
+documents in her journal the progression of her illness and her
+reflections on love, life, death, loss and relationships and on the
+inseparability of reality from dreams, fantasy and imagination."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

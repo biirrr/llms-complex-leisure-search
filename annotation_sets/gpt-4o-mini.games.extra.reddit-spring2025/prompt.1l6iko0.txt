@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010s] Puzzle escape game on the IOS App store. I
+remember a puzzle game on the app store way back when. I think it was
+part of a series of puzzle games that was made by the same dev team.
+The one I specifically remember had you stuck on a magical island that
+had different areas based on different seasons. I vividly remember the
+first area having four different doorways and a statue in the middle
+of them. The art style had a realistic look to it and the gameplay was
+simple point and click adventure stuff. You would go around collecting
+items for puzzles and also would occasionally solves puzzles that were
+hidden around the different areas. EDIT: I FOUND IT!!! The game I was
+thinking of is called The Lost City and it was made by Fire Maple
+Games"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

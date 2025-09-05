@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography or Biography - Woman discovers that severely
+disabled man is trying to communicate. I can't recall exactly when I
+read this book but it would have been between 2010 - 2015. It was a
+true story and I recall the main themes being a severely disabled man
+(I think he was living in a group home). He was unable to communicate.
+A woman (maybe a support worker) was interacting with him and noticed
+he was using eye movements (maybe blinking) to try to communicate. She
+continued to experiment with communicating with him and eventually he
+was enabled trhough technology to be able to communicate. I remember
+him telling stories of abuse and neglect that he had endured from
+support workers who believed that his intellectual capacity was not
+there."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

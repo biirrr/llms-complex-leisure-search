@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android][2016?] visual novel thing with a pink haired girl.
+So, just like the title- It was this weird visual novel where you meet
+a pink haired anime girl on the street. I played it was a kid but I'm
+not quite sure when specifically, 2015 is just an estimate- pretty
+sure it was around at that time. I remember a good chunk of the story
+options: -You could lose your memory (or it could've been already lost
+at the start, not sure). -There's also a part of the story where you
+could regain your memories. -She could turn into some yandere (?) who
+kidnaps and/or kills you depending on where you are in the story. -You
+could also kidnap and/or kill her. I'm not sure if it was the
+objective cause there were many endings which didn't involve that, but
+it was an early on option. -romancing her was an option, obviously,
+but it wasn't a mature game. -I vaguely remember time travel being
+mentioned, I think that mightve been part of some DLC for another
+ending ? -You could also use real money to purchase different outfits
+and hairstyles for her in the menu That's pretty much all I can
+remember from it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2025] Pixel game about building a team of 10 with
+different classes.. Came across this in my old pics and really wanted
+to try it again. No idea what it was called but i have a few
+screenshots showing menus. You can see classes, teamsizes and all the
+equipment skills they could be equipped with. If anyone knows,
+please."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

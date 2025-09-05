@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][UNKNOWN]Looking for a rare game with title like S.O.S
+or S.O.2  Young swordsman in a foggy city. Hi everyone, Im trying to
+find a PlayStation 2 game I played many years ago but cant remember
+the exact name. Heres everything I recall that might help identify
+it: * The title or logo of the game included the letters S.O.S or
+something similar, with the last letter reversed, so sometimes it
+looked like S.O.2 or S.O.Z. The title text was blue. * The main
+character is a young man who uses a sword. His outfit was like a high-
+collar or turtleneck coat, somewhat reminding me of Leon from Resident
+Evil 4, but not exactly the same. * The graphics were 3D, similar in
+style to Final Fantasy on PS2, semi-realistic or anime-like. * I
+remember a cutscene where a girl (possibly the protagonists sister)
+is kidnapped by a helicopter. In that scene, they take her into a
+building and walk her down a hallway with a large red carpet. * The
+game setting is a city with a lot of fog or blur, giving it a
+mysterious atmosphere. * Enemies looked like men in dark suits or
+jackets, wearing dark glasses, like bodyguards or agents. * As for
+gameplay, when opening boxes or defeating enemies, shiny points or
+orbs would fly toward the protagonist, similar to what happens with
+Kratos in God of War. * The start screen showed the title in blue with
+those abbreviations or letters. It doesnt seem to be a well-known
+game, might be Japanese or had limited release. If anyone recognizes
+this game, I would really appreciate your help. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012] FPS SHOOTER. Alright ppl idk how to start, but
+the fact that i don't remember at what age I played this game is
+k!ll!ng me, but it was like 2010 before or after, Anyway so it's if
+course FPS shooter game, and i am not able to remember its name but it
+starts the first mission in a desert of an African-like mission while
+there's 2 enemy bases on left and right, not so far away from each
+other, and on the to the right side base, there's a pond-like place
+where u can grab an RPG-7, that's all for the first mission I do
+remember about 3 other missions in it but that for the next post,
+thanks for toning."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

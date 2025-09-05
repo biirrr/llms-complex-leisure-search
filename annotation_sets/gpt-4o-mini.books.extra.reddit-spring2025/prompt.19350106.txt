@@ -1,0 +1,45 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/Fantasy, series, starts with brother and sister abducted
+through basement wall into another world to learn magic. [s]. Hi
+there, I'm looking for a book series I read as kid around the year
+2001 in the UK. The first book starts off with a brother and sister
+helping their dad move boxes in the basement/garage when suddenly the
+brick wall bursts open into a void which the brother and sister get
+pulled into(possibly with a large claw?). My memory here is pretty
+vague but on the other side, there's a pocket universe where it's
+winter, and the brother and sister are brought to a castle to be
+apprenticed to a witch or queen to learn magic, though it's not the
+queen but her manservant that teaches them. The brother has no talent
+with magic, though the sister learns quickly. There's a scene where
+the sister is learning magic with the manservant and she asks him how
+she's able to materialise things out of nothing, and he replies that
+this entire pocket universe has been suffused with magic to the point
+that that's possible, though wouldn't be usually. In the end of the
+book the sister and brother defeat the witch-queen and escape back to
+the real world, where they find their father still sitting there on
+his knees weeping in shock and grief, as barely any time has past in
+the outside world. The sequel to this book which has to do with the
+effects of what happens after the siblings arrive back. Apparently
+their return has caused a general return of magic to the world, and
+all people under the age of 25 or so have developed magic, with the
+sister being the most powerful of anyone. The magic is mostly kind of
+a nuanced control of the physical environment immediately around you
+and your body. The brother still can't use magic, though he has some
+kind of anti-magic ability. Then intergalactic magic polar bears (I
+think?) who worship spiders arrive or something, and the sister and
+brother go to their world alone because only she's strong enough to
+withstand travelling through the vacuum of space. I can't say I'm too
+confident on the details after that point, because it's been nearly
+probably around 17 years since I read it. If anyone knows of anything
+that sort of matches up with the books that I'm talking about I'd be
+really appreciative :) Edit: Sue got it. It's The Doomspell."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

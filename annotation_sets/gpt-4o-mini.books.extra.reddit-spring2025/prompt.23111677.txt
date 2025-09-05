@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Short Story read early 1990's. Flowers stuffed into
+breathing tube.. In the early 90's my 5th or 6th grade teacher gave us
+a stapled packet of this creepy short story (it was not in a binded
+book). There is some sort of idea with the main character taking on a
+challenge to sleep in a coffin overnight. He creates an airway for
+himself above ground so that he can breathe while he sleeps in the
+buried coffin. In the end, a woman visiting the cemetery sees the
+freshly dug grave with the unusual ""vase"" and feels sorry that the
+graves has no flowers. She stuffs the flowers into the ""vase""
+(breathing tube). The end. For a long time I thought this was written
+by Edgar Allen Poe, but my research turned up nothing. We were
+probably studying Poe around this time and I just ended up associating
+him with the story."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

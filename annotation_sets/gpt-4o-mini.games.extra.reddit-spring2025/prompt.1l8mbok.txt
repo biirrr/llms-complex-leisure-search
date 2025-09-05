@@ -1,0 +1,44 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 00s] Car Racing/Battling Game. **Platform(s):**
+PC. I kind of remember playing it on in a browser maybe at first, but
+was able to download and play it at some point, too. I'm pretty sure
+it was free. **Genre:** Racing/Battle Royale sort of combo, but no
+multiplayer. I only ever played against computer characters.
+**Estimated year of release:** Probably in the 2000 - 2007 range.
+**Graphics/art style:** 3D low res box-y retro looking graphics. Very
+similar to 3D N64 style. The tracks were all colorful (neon-y arcade
+colors) and laid out sort of like Hot Wheels tracks, like there were
+gaps in them sometimes where you'd fly off, and big loops you'd go up
+and around in. There wasn't anything in the background. No trees, no
+people, no weather, nothing like that. You were just driving around in
+a sort of a color void. **Notable characters:** I remember the
+difficulty level on the computer cars varied a lot. Some of them were
+easy to beat, some of them were fast and scary. The only specific one
+I remember is a dark colored Monster Truck that felt like it was
+hunting me for sport. It would come out of nowhere and smash me into
+walls. It felt more like the cars were sentient and there weren't
+actually drivers in them. They all sort of had their own
+personalities. **Notable gameplay mechanics:** I can't remember if
+there were separate racing and battle modes. They blend together in my
+memory. I remember trying to win races, but I also remember often
+getting aggressively hit by, and hitting back, the other cars. If your
+car took damage, it would get mangled and make it harder to drive the
+rest of the race. There was maybe power-ups and stuff along the track
+to fix this? Don't remember. You could maybe also do tricks off ramps
+for points. You unlocked more cars the more you won and advanced. It
+was just basic WASD movement, nothing special in the controls. **Other
+details:** I want to say the name had something like
+""""""""wild"""""""" or """"""""crazy"""""""" or """"""""mania""""""""
+in it, and sort of catchy. The name """"""""Need For Speed""""""""
+sounds close, but it obviously wasn't that game. Thanks in advance for
+any help anyone can provide!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

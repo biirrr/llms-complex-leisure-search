@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. High school girl (named after a flower?) thinks
+her boyfriend Chase is acting suspicious, so she follows him...
+California. Cover: green, flowers or grass. Spoiler alert.. I need
+help finding the title of this book The front cover has like flowers
+or grass, so it's green, but also has orange color trimming. I believe
+it takes place in California. Spoiler ALERT!!!! It's about a high
+school student who I think is named after a flower. She thinks her
+boyfriend Chase is acting suspicious so she follows him one day and
+finds out that he and his father are KU KLUX KLAN members. But Chase
+decides that he doesn't want to be a KKK boy but when he tells his
+father, the dad beats him up. There is a also a character name I
+remember called Gus. I believe he was the grandfather or uncle of the
+girl and he was either killed by something else or a KKK member in the
+past. I also remember that the girl's mother liked living the fast
+life and she does visits her daughter sometime in the book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

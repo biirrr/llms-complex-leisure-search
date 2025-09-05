@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Horror game where you must a lost girl but ends
+up decapitating her. Hi everyone, Im trying to find an obscure indie
+horror game I saw on YouTube years, but now cant find it. Heres
+everything I remember: - First-person perspective, possibly point-and-
+click - You start the game in a bar, then go through a trapdoor and
+descend underground - The underground area is filled with cultists,
+demons, and skeletons -Youre searching for a blonde girl who had gone
+exploring underground. The girl is dead when you find her and she
+attacks you. - The game had puzzles, an inventory system, and no voice
+acting - The graphics were very simple, possibly MS Paint-style"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

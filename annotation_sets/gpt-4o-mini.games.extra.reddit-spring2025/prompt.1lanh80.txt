@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] survival game. remember playing a pixelated
+game about a person in a apocalyptic world where everyone except a few
+people had escaped to the moon so your objective was to go around
+figuring out how to get to the moon but every thing you did would take
+a specific amount of time and when the clock reached a specific time
+something bad would happen so you would need to find shelter and that
+would also take time to barricade the walls and things like that and
+in the ending you eventually go to the moon and go into a sleeping pod
+as you watch the world get destroyed and also the world was covered in
+sand I would be very grateful if I could find it because I remember it
+being really fun thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

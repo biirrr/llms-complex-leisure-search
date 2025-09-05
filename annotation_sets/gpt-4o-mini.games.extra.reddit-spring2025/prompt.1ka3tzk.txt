@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android/Mobile][~2017] anime style hack and slash sci-
+fi/cyberpunk. As far as I recall. The story is set in a robot factory.
+There was an emergency where all the robots in the factory went
+haywire and begun attacking anyone inside the factory. The first
+protagonist is what I think a mechanic. Adult female, white hair but
+I'm not sure, black- rimmed glasses, orange and red color pallete. She
+fights with this hightech spanner/wrench. She is curvaceous. Halfway
+into the game you are introduced to the 2nd protagonist. She is the
+daughter of the CEO of the company. She is investigating the cause of
+the robots in the factory going haywire. Adult female, White, black,
+and yellow color pallete. Compared to the first protagonist She's
+fights like a mage because her weapon can conjure up electric charges
+that damages the robot enemies. I can't recall the details of the 2nd
+protagonist since that's where I left the game. The game is anime
+style with kind of like a top-down view like The Diablo series or MOBA
+titles. Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

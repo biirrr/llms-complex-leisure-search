@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps1] [late90s] 3d arena fighter. I had a demo disk with
+this game on and I don't remember what it was called. It was a 3d
+arena fighting game. 1 to 4 players. The demo had four characters to
+play as. A human on a flying bike, he could shot a lazer, do a ram
+attack and could do a kamikaze. I think it was a robot, they were
+covered in saw blade. Could throw them around, leave a spinning blade
+obstacle and do a chop attack. A six leg rhino thing. It could
+headbutt, change around the arena, and fart. And last was a blue
+lizard/fish/alien. It had claws. A tiny lazer and could lay eggs. It
+looked as though there was at least sixteen playable characters in
+this game. The way they were spaced out on the select scree makes me
+think it was four factions each with four fighters. I'm not sure if
+this game ever got a full release I've never seen it since that demo."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

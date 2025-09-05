@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi, Space-Opera. In the vein of the Bobverse, book
+is about a man waking up to find the entire galaxy has gone hostile on
+humanity, his only companion in an A.I. Possible plot points include:
+- A.I being either (banned/hunted down) do to them becoming insane
+gods. - Finding others humans in the galaxy. - The A.I and human are
+partners in a Grey Mouser/Fahrd type situation. Its a 7 book series on
+Amazon or 5, it's been awhile."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

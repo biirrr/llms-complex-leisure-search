@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][1995?] Side-Scrolling Bullet-Hell Shooter, Planes,
+Top-Gun Vibe. I have the vaguest memory of a game that I played in the
+90s on the SNES. It was a side-scrolling bullet-hell style shooter
+(horizontal, not vertical scrolling) where you controlled a fighter
+plane of some kind. In between levels or at certain milestones you
+could upgrade your plane to have better guns and have other powers in
+an RPG-like system. I don't remember it being sci-fi, I think it was
+aiming for a more 'Top Gun' style vibe though obviously the
+guns/planes/powers must have been slightly over-the-top. That's
+generally all I can remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

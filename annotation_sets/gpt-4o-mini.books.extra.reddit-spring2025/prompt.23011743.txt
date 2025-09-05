@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "MC Romance. Heroine finds brother in MC but he doesn't want
+anyone to know they are related. The Hero thinks something is going on
+when he finds them both in the brothers room.. The h and her brother
+are estranged for some reason. Brother is in a MC she shows up to see
+him or something. She ends up with the H I think he is the president.
+One day there is a BBQ at the club and h goes in to talk to her
+brother an sees him with a girl. She says something about using
+protection. He take h into is room to talk an tells her that he
+doesn't want anyone to know she is his sister. When they open the door
+to leave H is standing there an angry think something is going on"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

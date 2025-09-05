@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids/childrens cookbook - orange, square - many healthy
+recipes carob. [s]. Hi , Can anyone help in my search of finding a
+childrens cookbook that started me on my lifelong love of cooking and
+food .. I thought it was the best thing ever and must have tried
+nearly ever single recipe in it .. but can't for the life of me
+remember the title I know it was orange and white , hardcover, square
+shaped - probably published in the 80's - 90's ... had pretty exotic
+ingredients for me back then like carob ( the beginning of the book or
+maybe it was the end had a glossary of what some ingredients meant and
+how you could find alternatives) .. I think most of the recipes were
+really healthy .. there were interesting illustrations inside .. maybe
+cartoon like characters of kids talking to each other .. there were
+many recipes that you could have substitutions ie make your own
+interesting sandwich etc .. as I type this I am sounding more and more
+vague ... am pretty resigned to the fact that I am never going to find
+this darned book"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Point and Click game featuring twins. EDIT:
+its two of a kind!!! I used to be obsessed with a site that contained
+tools for making point and click adventure games, and contained many
+free games. My favorite was one featuring twins that you could
+control, and swap between, to solve the mystery. If anyone knows what
+Im talking about that would be amazing! **Platforms:** PC **Genre:**
+lighthearted mystery **Estimated year of release**: 2000-2007?
+**Graphics/art style**: not the most sophisticated, not quite
+pixelated but not high res by any standard. Bright colors **Notable
+characters:** Two twins, one girl and one boy. You switch between the
+two characters. **Notable gameplay mechanics**: point and click. You
+had an inventory and could look for clues, collect items, and use
+items on things for additional effects **Other details:** the setting
+is a small town. There is a bar. The twins have dead parents, if I
+recall correctly. Overall the game is pretty silly, but nonetheless a
+top favorite from my childhood. Thanks a ton!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

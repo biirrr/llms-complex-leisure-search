@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Interactive audio experience] a game where you play as
+a robot simulating human life. The game was played alongside an
+accompanying cassette tape. It was almost like a musical audiobook.
+Very psychadelic. I'm trying to find this game I think it was maybe on
+zx spectrum but I'm probably wrong. You would start the game and tape
+at the same time and you would go through multiple experiences as you
+age and go through life."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

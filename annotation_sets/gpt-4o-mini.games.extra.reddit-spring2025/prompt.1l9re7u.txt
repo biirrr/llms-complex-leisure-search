@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990-2000] A vague childhood core memory. Hello
+friends! This is my 1st post here, and if it's the wrong place please
+guide me to the correct subreddit. This memory I have is from early
+2000s and the game might be a tad older, I got it as a demo on a CD.
+Basically you had 6 or 8 """"""""gods"""""""" that were all in a
+circular room and you could choose a mission from either of them, but
+every completed missions upset some and made you friends with others.
+The gameplay itself was having an army of creatures that looked like
+they were straight out of Spore, and you had to basically battle the
+enemy armies, from a sort of 3rd person point. One god was dark themed
+and had a """"""""rotten"""""""" theme army that was insanely strong
+with some ranged units that dealt massive dmg from far away, so it was
+best to not upset him. Another god was blue and had a yellow head,
+like a balloon or a lightbulb with Xs as eyes and a mouth. I know it's
+incredibly vague but that's all i remember. Does anyone have an idea
+how it might have been called?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

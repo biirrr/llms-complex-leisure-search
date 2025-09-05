@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s?] Can't remember this multiplayer game. Hi Guys,
+Help me remember the name of the game. It was Aliens vs Human or
+something where Alien players' POV is top down while human players
+have first-person POV. I think the main objective of the game was for
+the aliens to break into the base or something. It was like MOBA game
+of sorts. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

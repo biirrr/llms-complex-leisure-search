@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical/ Travel Fiction possibly public domain
+called something like ""Shadows of the Moon"" about a couple living in
+Europe off of rich friends. I believe I listened to this
+Historical/Travel Fiction called something like ""Shadows of the
+Moon"" (but obviously title searches have failed) on Librivox, which
+makes me think it was written around turn of the century and is in
+public domain. It is a romance about a man and woman who make a secret
+pact to see how long they can live off of their rich friends in
+Europe. But in their materialistic, hedonistic experiment, they wind
+up falling in love with one another and find true depth of feeling,
+curing their mutual shallowness. Lots of fun, opulent descriptions of
+their beautiful surroundings and lavish lifestyle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

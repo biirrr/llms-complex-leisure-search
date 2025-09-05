@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery set in Pacific Northwest coastal town with big
+little lies vibes. Spoilers.. *spoilers most likely* The protagonist
+is an isolated woman with a baby, who is married to an abusive
+husband. She recently married her husband and moved into his house.
+One of the neighbors lost her adult?teen? son in a hit and run
+accident, which remains unsolved, before the protagonist arrived in
+the neighborhood. The book follows the woman's relationship with her
+husband and the neighbors, who discover the abuse and work to help her
+escape her abuser. It also uncovers the mystery of the hit and run
+accident. The book opens with the car accident. I found it in a little
+free library last summer, read it in 2 days, and passed it on. Hoping
+to find more by the same author!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

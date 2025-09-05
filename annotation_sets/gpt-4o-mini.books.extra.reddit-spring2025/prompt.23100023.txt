@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Suspense. Teens in house trying to evade killer in
+darkness wearing all-black theater actors' clothing. Read late
+1980s/early 1990s. Spoiler.. Hello, first time poster, looking for a
+suspense novel from long ago, here is the plot summary and details: I
+read this book in the late 1980s or early 1990s. In Canada but likely
+published simultaneously in the U.S., likely American publisher. It
+was a suspense/thriller/mystery novel possibly for young adults. Plot:
+Dark and stormy night when several teenagers are driving home in a van
+during a rainstorm. The vehicle breaks down and the teens spot an old
+house up on a hill barely lit. They approach the house in the dark and
+manage to enter it. Once inside, they find it very dark, no
+power/lights. They come to the realization that they are not alone,
+there is a killer in the house that can see them and follow them,
+trapping them one by one. Suddenly the remaining teens realize that
+they can remove their outerwear leaving only their theater garments
+on, all black clothing including netted face mask and hoods, so the
+killer now cannot see them, and they can move freely as they become
+accustomed to the dark. In the end, one or a few either escape or
+catch the killer. **If anyone can determine this book and title, I
+would like to read it again! The author did a great job making it
+suspenseful and scary!----Joel"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

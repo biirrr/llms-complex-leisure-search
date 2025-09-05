@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's-2010's] Cooking game. Hey guys. Could you guys
+help me find this cooking game where youd try and make different
+dishes as perfectly as possible. By the level select thingy, it would
+show a bunch of different countries and you could choose what dish you
+wanted to make from those countries. Im not sure if there was any
+characters, but there might have been on the main menu."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

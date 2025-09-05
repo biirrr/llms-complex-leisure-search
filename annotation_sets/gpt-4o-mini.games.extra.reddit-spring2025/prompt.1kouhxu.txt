@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][unknown] Kill the chameleon (?). I think I heard a
+streamer or youtuber talk about it, I tried to Google but nothing came
+up. I don't recall any details but they were taking about hard games I
+think? I'm not sure if I got it right or maybe chameleon is just the
+name of the enemy but this has been in the back of my mind for a
+while, sorry if it's not much information."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

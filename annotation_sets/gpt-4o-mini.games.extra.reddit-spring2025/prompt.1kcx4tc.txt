@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, DOS or Win95][early-mid 90s] 90s fantasy game with
+scary red horned skull (or devil face?) on death screen.
+**Platform(s): DOS or Win95** **Genre: Not sure, point and click or
+isometric, it was a fantasy game** **Estimated year of release: I
+assume it was early-mid 90s** **Graphics/art style: pixelated, I think
+it was meant to be realistic, there were far away shots, but mostly
+top down/isometric** **Notable characters: the hero was male, but I
+don't remember else** **Notable gameplay mechanics: I don't remember
+the gameplay, it could have been a point and click game or an
+isometric fighter, but there was a death screen, so there should have
+been some kind of a fight mechanic** **Other details: The most vivid
+detail is that there was a death screen with a red horned skull or a
+devil head that terrified me when I was around 5 years old. I didn't
+personally play it, I just watched my brother play it. There was a
+screen I remember where your character climbed steps to a castle or
+some kind of city with walls around it. That was a side/faraway shot.
+I think there was """"""""Dragon"""""""" in the title, but I am really
+not sure.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2020ish] A ball gem where you need to turn red
+balls green. Platform(s):mobile Genre: Estimated year of
+release:inthink 2020ish Graphics/art style: Notable characters:
+Notable gameplay mechanics: you move your screen with your finger to
+move the ball in the maze(?) Other details: sometimes as reddit story
+backround in youtube"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

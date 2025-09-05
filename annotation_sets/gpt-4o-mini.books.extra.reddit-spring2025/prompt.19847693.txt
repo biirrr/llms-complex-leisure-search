@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult non-fiction about unintended consequences. [s]. I am a
+librarian trying to find a book for a patron--someone else mentioned
+the book to him recently but he doesn't remember the title or author.
+He thinks the main theme of the book is about unintended consequences
+and the way that they have ripple effects over long periods of time.
+It may or may not be focused on technology. The only example he
+remembers is the idea that the width of a space shuttle is based upon
+the width of a railroad, which is ultimately based upon the width of a
+horse. It is very possible that this is a best-selling work of pop
+non-fiction, but with only these details I'm not having much luck
+searching for it. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

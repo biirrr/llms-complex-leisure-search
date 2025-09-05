@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo Gamecube] [2000s] Third person flying battle game.
+As a kid i remember playing a game on the gamecube with a friend. Some
+features: You could choose your character at the start of the level
+""""""""asian style"""""""", as in very colorful and action oriented I
+specifically remember boss battles where you had to fight this chinese
+style dragon as the main boss. I remember one of the crappier
+characters was a little helicopter that was slow and had bad weapons.
+Unfortunately no screenshots, i played this around 2006-2007 so my
+memory is a bit vague."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

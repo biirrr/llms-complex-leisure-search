@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Suspense Thriller paperback from early 1980s.
+Surveillance and either sinister phone calls or someone in the van
+snooping on people. Set in US. Cover: dark background, phone or van?.
+The cover image was either a phone or a van against a dark background.
+The plot involved either sinister phone calls or someone in the van
+snooping on people. But one detail I remember clearly. At one point,
+someone has a dream, possibly inspired by a movie on TV. It involves
+seeing a man standing on a mountain in a burning landscape. It's a
+description of the ending of Disney's The Black Hole, which came out
+in December 1979. Therefore this book had to be early 1980s. I know
+it's not a lot to work with, but if this rings a bell with anyone, I'd
+appreciate it. Just a book mystery I'm trying to solve."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

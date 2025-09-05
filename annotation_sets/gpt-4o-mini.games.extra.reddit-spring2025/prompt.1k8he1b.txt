@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP] [Early/mid 2000s] Game where you play as a humanoid
+animal and go to cave/dungeon(?). I'm trying to find a game I played
+as a child. Maybe around 2006 or so. It was a PSP where you were some
+kind of humanoid animal on an adventure(?). I'm pretty sure you had
+different animal options. I clearly remember being able to be a
+crocodile. I'm pretty sure you could maybe dress them up, or they were
+dressed up. I think the crocodile had maybe a hat and a cape. As for
+playing, all I can remember is that maybe you had items. And that the
+""""""""adventure"""""""" kind of started like in a cave or dungeon.
+Like you went from the town to a cave or something. Appreciated your
+guys help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

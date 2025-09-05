@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance book about a girl who owns cabins and a guy
+who rents the same cabin through the years year could be 2017-2020.
+Hi,im looking for a book about a girl who owns cabins in the
+mountain/island and a shady / criminal silent guy who comes back
+through the years and rents the same cabin. Ahe first started the
+business with a boyfirend but they broke up in the meantime. So this
+guy sometimes stayed in the same house, i vaguely remember they had
+intimate moments on the table(?!) And he helped her redecorate some of
+the place. In the end they end up together but there was much
+suffering from his sied and as i recall a playlist through the book
+and he listened to the songs in the end, posobly appologise by one
+direction or let her go by passenger Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

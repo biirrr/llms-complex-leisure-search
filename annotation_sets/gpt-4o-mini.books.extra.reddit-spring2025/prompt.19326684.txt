@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Guide to music for people who don’t like it. [s]. This was
+actually a humorous, nonfiction guide to rock by a man who clearly
+loved it but had his frustrations with it. Its title was something
+about not liking music, or not being a fan. I remember him complaining
+about people who say “The Beatles” when he asks them what music they
+like. “Of course you like the Beatles. Everyone likes the Beatles. I
+meant besides The Beatles.” Like that. I read it in a Florida used
+bookstore, I believe, 2009-2012."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

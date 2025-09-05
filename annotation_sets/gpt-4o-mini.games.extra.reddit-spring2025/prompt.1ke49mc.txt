@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90S/Early 2000] Action RPG (probably), this will be
+almost impossible to find. \-I """"""""played"""""""" this on a
+Windows ME computer \-I remember just moving around this forest area,
+i don't think i've even fought a battle against an enemy, but i think
+it could be an action RPG like Diablo or Divine Divinity \-Viewpoint
+of the buildings was from the front (like Stardew Valley) \-Could be
+the first area of the game: it's a ranch with a small building on the
+top right, and a gate on the top with a guy that doesn't let you out
+unless you go inside the building to talk with someone (i think, game
+was in english, not my first language and i didn't speak a word at
+that time)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

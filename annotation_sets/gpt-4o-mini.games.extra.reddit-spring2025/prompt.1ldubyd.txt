@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2013-2016] The game about 4 diffirent colored clones
+who destroy cubes in order you play (Like you play as first then when
+you play as second first one make all moves you did before). Well i
+remembered the game graphic was simple 3D with the gameplay was like:
+you wake up as first of four clones and you go into arena and level
+starts, as level begin cubes begin to spawn from walls and floor and
+you must destroy them as much as you can ater few minutes level ends
+and you wake up as second clone and your first clone redoing all the
+moves, the goal of level destroy all cubes before they gone also as i
+remember every clone had its own weapon and they were just low
+polygonal models with same color (sorry if somethings wrong with this
+post its my first post ever:))"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

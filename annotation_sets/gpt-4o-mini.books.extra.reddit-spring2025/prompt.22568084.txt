@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Historical Fiction about an African girl who
+leaves her village for a quest, falls sick, set in 1300s? (read
+2000–2006?) [s]. I probably read this book between 2000 and 2006. I
+believe it was a chapter book with some pictures. Protagonist was an
+African girl of age 10 or so, in a part of Africa I can't remember,
+and I want to say the setting was way back in history—maybe the year
+1300? I read only the beginning, so I don't remember much about the
+plot or even why she left her home. I just remember descriptions of
+artwork in the village and a conversation with an elderly artisan.
+Once out of the village, the girl gets sick and uses leaves to reduce
+her fever (or maybe wakes up to find herself cared for by a stranger
+who uses leaves to reduce the fever?). The book seemed new and was
+published in English and, I'm guessing, the U.S., where I live. I
+found it on my family's bookshelf in Florida (it's no longer there). I
+was familiar with the American Girl books, so at first I thought it
+might be Saba: Under the Hyena's Foot , which was part of the American
+Girl brand's Girls of Many Lands series, but I don't think it is. I'm
+associating the book with the color green and the letter G. I remember
+the writing being vivid and would love to revisit this book, so any
+ideas are much appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

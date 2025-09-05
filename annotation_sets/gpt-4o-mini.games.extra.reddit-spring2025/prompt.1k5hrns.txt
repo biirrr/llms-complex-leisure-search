@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2005-2010?][Website PC] Silme or blob like game?. It was
+probably in Friv, since I remember playing it in an epoch I wanted to
+play all old Friv website games one by one. You had this mass thing, I
+think you could grab it with your mouse to interact with it but I'm
+not really sure. I think you could have different colors and shapes of
+mass? But I'm not really sure of anything. What I do remember is, you
+could mix the DNA of two of them to create another one or something
+like that. I've been remembering that name for so long, but never
+found it again. I tried to do a drawing. I know it kind of looks like
+Tasty Planet, but the game is completely different. I don't know if
+they had eyes or if the eyes looked like this either."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "California surfer handicapped motivational speaker [s]. This
+was a book I received back in 2005 or 2006. It is a memoir, and i
+think it may have been published between 2003 and 2006. It was written
+by a motivational speaker who used to be a surfer back in the mid
+1990s.I believe he was surfing in Malibu, CA when he had his accident.
+The author had dark blond hair, and in his story he was engaged at the
+time of his accident, and I think he had a younger brother. His
+accident caused him to be wheel chair bound. Also, I think he was a
+Christian, and the book cover was white with a picture of him in a
+wheel chair, in a tan colored suit perhaps and smiling. I'm pretty
+sure that he ends up marrying his fiance, and I think his accident
+happened around 1996. I think his name may have been Matthew. THE man
+is not Christian Bailey and I have had a very difficult time finding
+this book. For some reason I thought it might be called 'Live your
+life to the fullest' or something similar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

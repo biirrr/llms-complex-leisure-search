@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ YA about boy who gets stuck in a time loop
+after getting hit by a car. Read around 2007-2009?. I thought the book
+was called Replay or Rewind, something along those lines, but I can’t
+find anything that fits. I remember pretty distinctly that the boy got
+into a fight with his parents (?) in a lower part of the house, then
+ran upstairs and out into the street where he got hit by the car. He
+spent the novel trying to stop his death and eventually realized he
+had to resolve things with his parents or something like that. I read
+it around 2007-2009, and it might’ve been published a little before
+that, but probably wasn’t more than 10 years older than those dates."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

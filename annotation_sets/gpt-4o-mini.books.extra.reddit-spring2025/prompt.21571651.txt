@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction travel memoir about the Trans-Siberian Railway.
+[s]. I read this book about ten years ago, and checked it out from the
+San Francisco Public Library. Oddly, a search on their website turned
+up nothing that sounded right- it only gave me listings for travel
+guidebooks for the Trans-Siberian or historical writings about it. The
+one I am looking for is a relatively recent one- I'd say written in
+the 1990s at the earliest, but I think early 2000s. Brown cover. The
+author has some funny anecdotes about Russian tourism officials
+offering to arrange special excursions and visits for him in the
+places where he stops along the trip, but almost none of them come
+through. I especially remember him talking about the food on the
+train, and how spartan it was, and people he talked to en route. If
+you think you have an idea, thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

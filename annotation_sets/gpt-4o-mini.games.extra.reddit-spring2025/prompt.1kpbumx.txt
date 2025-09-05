@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010's?] Game about escaping a big cathedral tower
+with a bunch of big eyeballs that capture you to restart progress.
+This game has been on the tip of my tongue for years and every
+occasion I try to search for it I never find results, so here's what I
+can remember; I assume the game came out in the early 2010's, the
+graphics were saturated, cartoony and look to cheaply made in unity.
+The building I remember to be somewhat pink-bluish. You start off in
+some room with a tube of white pellets, and when you leave this room
+you meet a bunch of levitating eyeballs that patrol the hallways and
+restart you back to the room if they spot you The tube was positioned
+in the corner right of the view and you'd collect pellets around the
+tower to throw at the eyeballs to disable them for a short time to
+help you evade This is all I can remember when it comes to gameplay,
+as far as the story goes I have completely forgot if it had any sort
+of ending or if it was just escape tower and game win, any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

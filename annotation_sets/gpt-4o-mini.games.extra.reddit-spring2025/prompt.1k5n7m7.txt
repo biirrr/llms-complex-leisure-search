@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Cartoon Server/Restaurant Simulator?. Looking
+for an old game I used to play on a friend's computer. Platform: PC
+Genre: restaurant simulator/tycoon thing? Estimated year of release:
+Early/Mid 2000s Graphics/Art Style: 2d smooth animation, not pixelated
+if I remember correctly Notable characters: server looked like Cooking
+Mama but like normal sized head... I think Notable Gameplay Mechanics:
+The goal of the game was to turn tables as fast as possible and keep
+customers from leaving by quickly seating customers, taking orders,
+cleaning dishes etc. It was mostly just point and click to move the
+server from table to table as well and interact with the
+kitchen/dishwasher and such. As you progressed through the game you
+got more tables and different customer types. One other detail I
+recall, but you would hang orders on like a metal wheel and the
+kitchen was open, at least in the levels that I played. Used to play
+this game all the time but never thought to actually remember the
+title... I also may be off a bit on the year, it could be as new as
+early 2010s but I doubt it as I would have been in middle school and
+that doesn't sound right."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

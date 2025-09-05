@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Israeli Spy (Author, Ben in his name) during the Bush Sr.
+administration. Read in 1990s. [s]. I read a book in the 90s. It was
+set during Bush Seniors years as president and his govt selling of
+arms to (I think Iran). The author was an Israeli spy - had Ben in his
+name. The book detailed all the dodgy stuff the Bush administration
+got up to. Of the book itself I remember the cover was black but can’t
+recall any other details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, Fantasy. Fairy/ half fey woman on the run.
+Sex scene involving a horse stable and prize stud horse. romance/smut.
+The cover of the book suggests 80s to 90s old dusty painted cover. A
+woman with long blond flowing hair and a horse and green trees and
+grass. A half fey woman is on the run. Her sister and mother (?)
+(Family) was taken. Shes a slight woman with wild white blond hair.
+Fantasy romance book. The only part i remember is one sex scene at
+some rich kings Palace. He was showing her his prized stallion (big
+black horse) as he was mounting a mare. The king guy makes a mattress
+materialize and the have sex ""like the horses"". Reverse harem as
+more fairies join in. And then whomever was after her shows upnat
+their front door (so to speak. Of the palace/kings lands) he wants her
+to stay with him. Promises to keep her safe. But she leaves of course.
+It was a thick book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

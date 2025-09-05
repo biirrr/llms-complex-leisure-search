@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC,Flash][late 2000, early 2010] Beach/Port Manager. Hi, I
+am looking for a flash game that i used to play as a child. You were
+playing from a top down perspective and everything was segmented into
+square tiles. On the Beach part (right part of the map), you had to
+build roads, Restaurants, bars, police stations, fire stations, hotels
+etc. Then on the water you had to place docks for ships and boats in
+all different sizes, ranging from sloops in the early game to big
+cruise ships in the late game. And the character giving you the
+tutorial was an old man with a big white beard."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

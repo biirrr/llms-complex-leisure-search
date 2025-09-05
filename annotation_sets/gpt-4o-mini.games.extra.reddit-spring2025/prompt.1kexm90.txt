@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC-DOS][~1993?] Football game with fantasy
+creatures/monsters, violence and sharks. Platform(s): DOS Genre:
+Sports, Football Estimated year of release: Early 1990's, probably
+Graphics/art style: Pixel art, sprites, camera moves vertically.
+Notable characters: Fantasy creatures, goblin/orc like team members
+and a shark guarding the touchdown area in a water trench. Notable
+gameplay mechanics: Violent, characters can be eaten and killed by the
+shark guarding the touchdown area. To do a touchdown a character must
+swim across the water trench and avoid the shark. Other: all teams
+were pretty generic but composed by goblin/orc like members, they can
+be injured and even die during the match. As previous mentioned the
+most relevant feature (the one I mostly remember) is the fact that in
+order to do a touchdown you need to have a character swim across a
+water trench guarded by a shark-like creature. PoV is top down and the
+camera moves vertically."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

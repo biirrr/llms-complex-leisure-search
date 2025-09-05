@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy - Young girl discovers a ghost girl who
+is linked to a sinking ship. Read 1990s. Spoiler?. I read this during
+the 1990s. It's a children's book, featuring a young girl who's trying
+to figure out why a ghost girl is haunting (a ship? her? something
+else?). I believe the book cover was half illustration/half brightly
+colored title box. Possible spoiler: (view spoiler) [ The ghost girl
+was abandoned on a sinking ship by her parents/guardians/bad people
+and was unable to escape because she was restrained somehow (cargo
+net?). Sort of thing that would make anybody haunt, really. (hide
+spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

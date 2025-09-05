@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Home renovation in South Carolina. [s]. This is a non-
+fiction biography. Two guys buy a rundown home in Georgia, that once
+belonged to a member of NY society, as a winter home. It was a funny
+read with all of the trials that they went through. One of the tales
+deals with an old bankers vault, in the basement and they have to
+actually break in to the vault."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

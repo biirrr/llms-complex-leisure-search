@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Penguin in a castle full of sweets 2D game.
+Platform(s): PC Genre: arcade Estimated year of release: 90s
+Graphics/art style: there's the game called Prehistoric 2 and I'd say
+it's the same kind of graphics, I played both games at the same time
+in the 90s Notable characters: only the penguin himself. He doesn't
+have any clothes on I think. Don't remember any other characters at
+all, not even the final boss if there was one at all :( Notable
+gameplay mechanics: you just move around the penguin, jumping and
+walking, I don't remember any weapons being used in this game Other
+details: so it all starts with the scene where you have to move to
+penguin to enter the castle. And then there're different levels with
+different types of sweets in them as decorations (like candy canes
+f.e.). I also remember the level with 2 (?) humongous penguins, but I
+don't remember if you should've killed those or just go through them.
+They might have been just decorations I think> I apologise for the
+formating and any mistakes in my English>r"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

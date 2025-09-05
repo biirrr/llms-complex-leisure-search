@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2024] Fast paced, """"""""Ultrakill-Style""""""""
+boomer-shooter. Edit: [Solved] The game is called TAMASHIKA . . . . .
+. . Platform: Windows-PC (Indie-Game) Genre: Indie, Jump-n-Run, 3d,
+First Person Shooter Release: (~2024 Still in development) Graphics
+Art Style: Constantly changing colors and overstimulating enviroments.
+Everything looks like the aesthetic of being drawn with MS Paint. (A
+mix of the style of Cruelty Squad and Ultrakill). Everytime an action
+is performed (i.e. Enemy killed) the screen fills with blood effects,
+floating particles, numbers (Score?), etc. Notable gameplay mechanics:
+You have a sort of throwing star in your left hand (Can be used to
+return in time, very similar to Tracer from overwatch) In the right
+hand there's a knife that can be used to melee enemies. The music and
+the in-game sound effects sounded also very cluttered and chaotic I
+found out about this game through a repost on Twitter/X where a person
+retweeted a gameplay snippet of this game with the caption """"""""I'm
+gonna pirate this game"""""""". Probably alluding to the fact that the
+gameplay shown is very fast paced and for people with """"""""short-
+attention-spans"""""""" due to the overwhelming amount of things
+happening at once."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

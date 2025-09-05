@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Autobiography. Psychological book. Woman
+makes voyage in a kayak across lakes, personal growth and conflict.
+Read around 2002. [s]. Can anyone help me find this book? I read it in
+the early ‘00’s (I think 2002). A specific moment I remember is that
+she drinks coffee and almost needs to end her voyage early. Descr:
+Psychological novel: Woman makes voyage in a kayak across lakes,
+personal growth and conflict."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

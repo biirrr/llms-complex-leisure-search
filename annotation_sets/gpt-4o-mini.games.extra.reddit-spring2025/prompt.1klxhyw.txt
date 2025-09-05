@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4][2013-2018] Space game about making money. Dumb game I
+played once when was drinking. Top down space ship in space, idle
+mechanics can go to a planet and build things for income. Distinctly
+remember the icon or title being a guy riding a rocket with money
+flying around. Think it was like space corp? Or something like that
+goal was just to make money If your ship got destroyed you flew around
+I. A little space pod till you got back to a planet. Pretty sure it's
+delisted I had trophies but their gone, but it's not on the delisted
+game page"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

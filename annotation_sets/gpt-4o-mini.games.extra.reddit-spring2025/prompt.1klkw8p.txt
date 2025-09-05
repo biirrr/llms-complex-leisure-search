@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile Game][2014] A game about Fantasy Tower defense.
+Platform(s):Android Genre:Fantasy Tower Defense Estimated year of
+release:Around 2014 Graphics/art style:Kingdom Rush Tower Defense TD
+artstyle Notable characters:At the beginning of the first level, you
+as a ally human save 3 character. One a orc (I think), a edgy elf with
+dual blade, edgy demon honor, eyes grow green, got a edgy wings to
+represent he's half demon. And A elf girl that. Uses bow. The image
+shown is the elf dude. Notable gameplay mechanics: Game is similar to
+Stick war Legacy. However instead of having long cool down and limit
+on unit. You can literally just spam an entire army. (if you generate
+the point fast enough) The game throws you with a enemy spam expecting
+you to break their front line and kill the enemy general (AKA the boss
+that basically stand at the other side until you hit him he moves.)
+Other details:The game has a P2w feature where you pay money to unlock
+cooler hero. For example the edgy elf I mention above cost around $5
+if I still remember. Only for that, the game is pretty much free to
+play."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[3DS][2014-2017] mansion escape room. I remember playing
+this game back around 2014-2017 on my (now unfortunately lost)
+Nintendo 3DS. You were in a mansion and started locked in a bedroom,
+and as you solved more and more puzzles steadily unlocked more rooms
+and areas, I remember distinctly there being horse stables, a library,
+a bollards room, a big grand staircase, a museum room with statues and
+art, an exterior garden behind the mansion that had a bench with an
+engraved placard on it, and a butterfly puzzle to get into the inner
+garden that I never managed to finish. Other puzzles had you finding
+the rungs of a latter, or finding the heart of an automaton that was
+in the library or museum, I don't quite remember which room. I think
+one of the earlier puzzles was a puzzle box in the first or second
+rooms? The sound track was very calming, almost classical sounding,
+but not quite classical? I can picture it in my head almost, but not
+strong enough to properly identify it without hearing it again. It had
+a pretty realistic artstyle from what I remember, but it could have
+been slightly more cartoony since my memory on that part is a little
+fuzzy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

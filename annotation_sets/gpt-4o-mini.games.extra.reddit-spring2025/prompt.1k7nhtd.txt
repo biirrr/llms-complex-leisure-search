@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Mid 90s - early 2000s] 2D Point and Click Game
+Starring a Child Having a Nightmare. Take all of this with a grain of
+salt. It has been literal decades since I played and it has always
+been niggling in the back of my mind. Especially, as I grow older and
+wish for some nostalgia. Platform(s): PC I don't believe it was a
+browser game, but it's possible Genre: 2D Point and Click game
+Estimated year of release: Mid 1990s - 2000s. I played it when I was
+very young and remember very little of it. It's possible it was
+already old when I played it, so it could be that it was released when
+I was too young and I only played it later. But I do not believe I was
+in school yet at the time. Graphics/art style: 2D hand drawn animation
+seen from the side, not top down or isometric. Of course, don't know
+if it was actually """"""""hand drawn"""""""", but I don't recall it
+be pixelated. Overall gloomy feel, since he was having a nightmare.
+Looking back one may say it feels almost """"""""Tim Burton-
+esque"""""""". I feel like their was a circus car (not a clown car,
+but rather what appears on a box of animal crackers or if you've seen
+Teen Titans what beast boy was in when Starfire went into the future),
+maybe a hospital, and maybe a school that all three could be looped
+through. Buts it's been so many years I'm not sure. Notable
+characters: The only character I remember is the player character who
+was a short boy in possibly stripped pajamas. Notable gameplay
+mechanics: It was a point and Click, but I don't recall much more than
+that. There didn't seem to be a time limit and the only failure state
+I could think of is that you just wouldn't progress. Not timer or
+enemies."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

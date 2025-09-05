@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2010s] game of finding the feathers and seeing
+memories, with woman and owl man. In the game, you are a woman who
+searches for feathers and objects in various places (starting at her
+house), and each feather/object found brings back a memory of her with
+her husband, who would be the owl man (owl head). It seems that she is
+mourning the loss of her husband in the game. And if I'm not mistaken,
+he or she plays an instrument which would be the violin. The game is
+from 2010 onwards, with a cute appearance and very simple to play,
+talking about the protagonist's relationship with the owl-man, if I'm
+not mistaken portraying mourning. Does anyone remember or know what
+game it would be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

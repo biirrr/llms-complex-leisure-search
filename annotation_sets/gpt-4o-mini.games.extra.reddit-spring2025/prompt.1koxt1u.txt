@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2000's]Tower build puzzle like game. This was a game
+on PS2 from the early 2000's, you play as a bean like character in the
+tower, similar to tetris and puyo puyo, to build a tower against
+another player trying to do the same, the goal is to get to the top of
+your screen and reach a hot air balloon to fly away. Any help would be
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE][2010s?] escape room game. Platform: Mobile!!! i
+played it on my samsung phone but it could also probably just be an
+adaption of a game on PC Genre: Puzzle game? Estimated year of
+release: sometime in the early 2010s Graphics/art style: 3d semi-
+realisticish? notable gameplay mechanics: first person. it was just
+kinda like a point and click puzzle game. you could travel to other
+rooms by tapping on an arrow and interact w objects by tapping on it
+other details: i remember the player starting out in a locked car in a
+dark parking garage(?) you had to find the car keys to turn on the car
+so you could unlock it i think. then after you escape that you had to
+escape this apartment. i never got past that part so i dont remember
+any more :( i remember it being kinda eerie as a kid, but there was
+never any actual scary elements. i think the lack of any characters
+freaked me out a little i hope you guys can help me find this!!! ive
+been looking for so long =-=- thank you :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

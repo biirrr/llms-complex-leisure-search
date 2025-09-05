@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance - werewolf mates at Werewolf School with alpha
+king- ad from facebook. Ok sorry this is all I know, it's an ad on
+facebook for AlphaNovel app and it looked somewhat interesting, so
+long shot was wondering if anyone recognized it? No idea the actual
+plot, or even if it's available anywhere except the app.. but this is
+the excerpt from the ad: ""When it's your first day at Werewolf
+School, and you are about to be sorted into your rank. Anxious, you
+enter the hall and sit down next to an attractive man covered in
+tattoos. He's all alone and exudes danger. ""As you wait for your
+turn, you notice how close your legs are to touching. Suddenly,
+everyone falls silent and you feel your wolf going into heat. Before
+you go crazy, you stand up and want to leave, but his strong hand
+grabs you. 'Why is everyone staring at us?' you whisper, confused. His
+gaze glides over your body and he says 'it's the first time I let
+anyone sit next to me.'"" The second excerpt: ""'Mate' he said. 'No'.
+Panic surged through me. It was the Alpha King. In that moment, all I
+wanted was to disappear, to escape the attention and the impending
+consequences of meeting my mate."" That's all I got. Just saw the ad
+today so I'm assuming the book hasn't been available very long. Any
+takers?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

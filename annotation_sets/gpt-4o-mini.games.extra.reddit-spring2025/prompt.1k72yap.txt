@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] 2D Star Wars Tower Defense set during the Battle
+of Geonosis (reconstruction pic in post. https://preview.redd.it/iha26
+1lqguwe1.png?width=1560&amp;format=png&amp;auto=webp&amp;s=75dd82e25cd
+5bcd47cedb18f4fe10680a97f71b4 Platform(s): Windows PC, probably not a
+flash game since it was run from an icon on desktop Genre: 2D Tower
+Defense Estimated year of release: Before 2015 Graphics/art style:
+Might be pixelated Other details: The game looked something like the
+image above. I don't remember gameplay mechanics that well, but you
+had to prevent the Separatist forces from getting to your artillery,
+and you could call down gunships that would drop off squads of clones.
+There were no """"""""lanes"""""""", all enemies and clones moved on a
+single plane at the bottom of the screen. The game over screen was
+something like the following (with a screenshot from the movie): https
+://preview.redd.it/r7u9rx4rguwe1.png?width=1400&amp;format=png&amp;aut
+o=webp&amp;s=de9712c088663edced043e9aae86cd90ceeaf3ee"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

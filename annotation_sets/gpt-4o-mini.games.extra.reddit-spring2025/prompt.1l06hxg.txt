@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows] [2000s] Strategy, turn-based, like Disciples. Here
+is the description I formed in the process of asking questions in the
+GPT chat: I played on PC, it was a game like the Disciples series,
+there was a part where you just walk around the map as a character,
+and another part when you fight enemies is turn-based, but there is no
+classic battlefield, just character icons and when they are wounded
+their icon gradually turns red From what I can remember the medieval
+setting, you can level up your subjects and hire them in the castle I
+played them somewhere in 2010-2012, respectively, the game was of an
+earlier release. There were only humans from the factions, and there
+could be ghosts and that's it The game is divided into campaigns, one
+of the campaigns was to restore your rule (but that's not accurate, I
+could be wrong with this point) The battles were the same as in
+Disciples and the subjects were in the form of icons and also received
+damage, the subjects were in the form of icons, and on the big big map
+there was one icon of my character and it seems a little animated
+There were no special locations, there were castles where you could
+hire units, maybe some swamps, meadows On the battle screen there were
+only icons of the characters, without a detailed background. There was
+no fantasy there, at most it was ghosts and that's it So you had to
+collect gold to hire units, and also pay them a salary, if you don't
+do this, they will refuse to fight One of the statuses on the
+characters seems to be a curse So a continuation was planned, but it
+seems it didn't work out. I also remembered that there were castles
+where you could hire people, churches where you could hire monks or
+nuns, and there was the opportunity to sail on ships."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

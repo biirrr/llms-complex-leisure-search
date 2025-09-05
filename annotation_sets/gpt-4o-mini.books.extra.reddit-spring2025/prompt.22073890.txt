@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Girl grew up in Scottish isle, moved away then moved back
+after addiction problems to find herself again on the island. [s]. I
+read this about 5 years ago and loved it! If anyone can help me that
+would be brilliant! It's a lovely story about a girl who moved away
+from her very isolated home in an island north of scotland. She became
+in debt and an addict in I think London, moved back to her place of
+birth and found herself, the island was very healing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

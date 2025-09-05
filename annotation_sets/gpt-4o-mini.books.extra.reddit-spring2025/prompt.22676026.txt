@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's middle grade, contemporary fantasy. On her 11th
+birthday, a girl switches bodies with another girl in London; has to
+coordinate with several girls to switch back to their own bodies..
+When a girl turns 11, if she wishes she was someone else, it can
+actually happen. The main character, Robin, does this and switches
+into the body of a girl in London, I think her name is Fiona? A lot of
+Robin figuring out British slang. A major plot point is that she uses
+Facebook to coordinate a bunch of girls to switch back into their own
+bodies. Read around 2010. Published in the US, written in English.
+Checked out from a library. Was a hardback edition, seemed fairly
+recent at the time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

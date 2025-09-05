@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS] [2000s-2010s] A 2D game set in space &amp; you play as
+a bald man with a goatee wearing army uniform. Game was on iPad, you
+play as a man that wears green camouflage cargo pants, grey shirt or
+tank &amp; fingerless gloves, he was bald with a grey goatee, levels
+starts with a dialogue between you and a girl's hologram and she gives
+you mission's brief game takes place in space you are on a ship and
+fight alien by punching and shooting them. Visual aid provided above."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

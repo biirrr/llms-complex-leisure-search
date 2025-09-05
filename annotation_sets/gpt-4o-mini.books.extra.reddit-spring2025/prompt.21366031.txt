@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction: headmistress writes about her experience
+turning around a no-hope school. [s]. I read this in abbreviated form
+in a Readers' Digest magazine. Probably in the '80s, possibly later.
+The book is *not* LouAnne Johnson's 'Dangerous Minds'/'My Posse Don't
+Do Homework', but is same genre; the author tells her story of taking
+up a job as headmistress at a no-hope school (I think inner city) and
+making a difference by her willingness and optimism. Pretty sure it
+was in the USA. Bits I remember: On the first day, she complains to
+the janitor about the urine smell in the toilets. He tells her it's
+soaked so deeply into the floor that there's nothing to be done about
+it. She proves him wrong by scrubbing the floor herself and getting
+the smell out. This makes a good impression straight away, because the
+staff now all know there's no job she considers herself above doing.
+At one point, someone official who's come in from outside to test the
+children tests a child who's supposed to be too badly learning
+disabled to manage in a normal class but was making good progress in
+such a class with a sympathetic teacher; the tester ignores what the
+staff have to say about the child's progress and just insists that the
+child has to be in the class for children with more severe learning
+disabilities. The teacher who's been teaching the child simply waits
+until this person has gone and then goes and leads the child out of
+the other classroom and back to hers. There is some talk near the end
+about the crack epidemic and how badly prenatal crack exposure is
+damaging children's brains. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

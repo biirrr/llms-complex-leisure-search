@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s] 2d pixelated endless runner platformer
+game where you play as a frog. Platform(s): mobile (others idk) Genre:
+platformer Estimated year of release: no clue, probably over a decade
+ago Graphics/art style: pixelated I think Notable characters: I think
+it's a frog and you can unlock different frog types that have
+different abilities. But it might not be a frog and that's why I'm
+having so much trouble finding it. Notable gameplay mechanics: as far
+as I remember, just jumping. You just kinda jump over stuff, there's
+like 3 or 4 different areas that you clear and it's just an endless
+scroller kind of thing until you die. Other details: you would start
+off as like a normal frog, but you could get like a ninja frog that
+jumps higher, or the Superman frog that can fly for short periods of
+time. Or there was like the gold frog for when you have a bunch of
+money. Please help me find it I beg you thank you so much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Juvenile/ YA SciFi. Several short scifi stories including
+one where western town gets ""removed"" by aliens and one sheriff
+deputy sees it happen and his gun is found far in the future after the
+event occured. It was a collection of about 7 - 8 sci-fi short stories
+geared towards younger readers that I read in the early 80's or so,
+and I can't remember the name of the book, but do recall some of the
+details of the stories it contained (not titles though) One story was
+about a lady that lived alone tending her plants and her home got
+broken into and she was robbed (killed too?) and one of the plants
+attacked and killed the robbers. Another was about a new kid to school
+that everyone thought was strange and it turned out he was an alien
+that would go ""home"" to a UFO. (Discovered when kids followed him
+one night) The story I remember the most was about a police officer in
+a desert town saw huge ships ""float"" towards the town as he was in
+the desert, he heard a loud hum and saw beam of light from the ship
+and when he got back in town everyone and everything was gone and in
+their place were prehistoric humanoids . The story ended with a future
+scientist being puzzled uncovering a gun from the site of where the
+town was in what was assumed to be far in the future after humanity
+was reset. The cover of the book had a picture of the Earth in the
+middle with a target over it like it was in the scope of a gun. There
+was also a green cartoon-like alien with tentacles wrapped around the
+earth. I believe some text was on there such as ""is anyone up
+there"". It could have been a book from the scholastic book club for
+late elementary school aged readers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

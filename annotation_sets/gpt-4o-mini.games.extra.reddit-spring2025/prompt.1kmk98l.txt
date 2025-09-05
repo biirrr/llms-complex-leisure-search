@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES] [1995~] Platform game about a ball/marble. Hello,
+I've been searching for a game I have really few memories of \-I'm
+pretty sure it was on the SNES (and available in Europe) \-Not a
+famous game at all, or at least around the same popularity as Plok for
+example \-Simple graphics, really colorful \-What I remember the most
+is the map : top down view, where you could go a bit everywhere with a
+lot of path and levels, some blocked \-In a toy world ? like with a
+lot of simple machines with tubes and cubes \-Playing as a ball or
+marble (or slime ?) A lot of levels and the map had tubes you could go
+in \-I somehow think we might be able to """"""""transform""""""""
+into a ball, and maybe are not always one Things it is not : SmartBall
+/ PuttySquad / JellyBoy2 / SuperMorph / OnTheBall Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

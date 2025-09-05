@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Amiga 500][1990ish] A game which includes you
+building/testing/flying a flying galleon for your army. In magazines,
+the art for the game featured the painting The Death of Marat..
+Honestly, this is doing my head in. It was a game that I pined for,
+that none of my friends had, that we had seen in a magazine. I barely
+remember what it was about, but there were screenshots of a round
+table/council with economic decisions maybe. The main thing I remember
+was that there were flying galleons, and you could customise these
+with different wings/sails/propulsion systems and weapons. Help me
+reddit, you're my only hope!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction juvenile American boys fled ship and hid in
+Siberia for the winter in 1800s. The book was based on real events. An
+American boy in the late 1700s or early 1800s joined up as a crew
+member on a ship. The captain was abusive and after he severely
+injured the boy, the boy, along with a friend, deserted and hid in
+Siberia for the winter. A local medicine man helped heal the boy's
+ribs. Eventually, the boys found another ship and learned his father
+had reported him missing. The captain was apparently disciplined for
+his conduct."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery. Two girls with interconnected stories, one is
+art student (sculpture named echo) whose younger brother went missing/
+kidnapped when she was watching him, can't stop crying. Vacation in
+same Australian? town. Read ~2014-2015. Spoilers.. i read this in
+about 2014/2015. the book is told from two different girls
+perspectives. one of them is an art student who’s younger brother got
+kidnapped when she was watching him and she can’t stop crying. the
+other girl lives with her grandma or aunt or something and both of
+them happen to go on a holiday to the same place where one girl used
+to live. the girl who was an artist is a sculpter and names a
+sculpture echo. so the crying girl goes to this town and stays in the
+house that the other girl used to live in, and when she lived there as
+a kid she was friends with the next door neighbours kids and then one
+day she went there and the whole family had died like i think murder
+or something, and when she was at the house she hears a voice asking
+if she wants to choose another path and then she runs out. so when she
+goes back she goes to her old house where the other girl is staying
+and they become friends and talk and then the other girl finally stops
+crying and they talk about the voice and different life paths or
+timelines and then it ends with the second girl finding the brother
+and the woman who kidnapped him and she gets killed saving the brother
+and it ends at her funeral and the other girls brother is back with
+her"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

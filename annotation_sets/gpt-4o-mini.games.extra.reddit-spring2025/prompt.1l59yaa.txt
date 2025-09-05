@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2000's] East Asian(?) action platformer. Hey, I'm
+trying to remember what this game I had as a kid was. It very well
+could be a Japanese game but from what memory I have of it, it felt
+like it had a more Chinese aesthetic but that's an old memory so I
+could be wrong. I think you played as a God, or a great hero or
+something who was betrayed by his best friend, or student or something
+similar and got launched away from the world on a comet. It's come
+back around and now you're back centuries later and after revenge.
+There might have been a love interest inbetween the PC and the guy who
+betrayed you I think. I remember lots of jumping around and fighting
+stuff. Kinda felt like a worse Devil May Cry in play style?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

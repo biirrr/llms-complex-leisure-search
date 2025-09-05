@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery series featuring all-boy cast solving mysteries.
+[s]. Pretty sure this was one book out of a series of many; I really
+only remember it vaguely, but one of the boys in the main cast (of
+3-4?) was the smartest one. He wore glasses and was, according to the
+scene I remember, a bit chubby. When they were up against one of their
+suspects (or someone they had to scrutinize, not sure if he was the
+bad guy in the end but they just needed to hide the fact that they
+were detectives), he pretends to be really dumb, and the dismissive
+adult man, specifically because he's stereotyping the chubby boy,
+believes it. Later in the book, though, the man shows them a jewel and
+reveals something about it being real or fake in question form, the
+boy replies, and his answer clues the adult man into the fact that the
+boy is actually really smart, which he'd already suspected. The adult
+man is very triumphant about this, for some reason. I remember
+thinking I should've read this series from the beginning, so it was
+probably not the first book in the series, but then I never did read
+any of the other books and now I have no idea where it comes from.
+Read between 2009~2014, but it wasn't a new book then."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

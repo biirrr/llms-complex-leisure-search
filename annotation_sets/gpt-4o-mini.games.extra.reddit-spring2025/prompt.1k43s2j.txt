@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s or 2000s] Adventure Game with Moth and Candle
+Scene. Platform(s): PC Genre: Point-And-Click Adventure Game Estimated
+year of release: Somewhere in the 1990s or 2000s Graphics/art style:
+Dark, duller/more neutral colours, blacks and browns. Very angular
+paper-like graphics, similar to Return to Monkey Island. Smooth,
+simple, abstract art style. Notable characters: Two characters - male
+voices. Maybe a boy and a mentor/buddy of some kind? I think you
+played as the boy and your buddy walked around with you. Your buddy
+may not have been human. Maybe a bug or animal? I think they had big
+heads that were angular-shaped? Notable gameplay mechanics: Point and
+click I think. Other details: I only recall one scene from this game.
+The two characters enter a dark room where the only thing visible is a
+wooden table. On the table is a candle and a moth is slowly circling
+it. The two characters get transfixed by the moth and watch it and
+walk closer to it. They both get extremely sad in an over-the-top way
+about how the moth is circling the light and getting closer to it.
+They maybe even cry about it. And try to decide if they should blow
+the candle out or not. I think the overall story is something about
+being trapped somewhere and having to find a way to escape. I recall
+dark corridors and locked rooms. I think it was a kids game. There was
+definitely humour/silliness in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

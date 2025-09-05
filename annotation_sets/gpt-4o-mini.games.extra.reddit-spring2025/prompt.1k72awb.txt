@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[browser] [around 2012-2016] kinda like a mix between
+coolmathgames and the og abc mouse?. I played it in browser on my mums
+pc, I know it was browser only but not if it was pc only it was a game
+website with a variety of fun educational games i played it as little
+kid in elementary school so somewhere around 2012ish to 2016 at the
+latest the art style on most of the games was similar to (but not
+quite the same) that one art style you see in elemtary school
+assignments a lot (sorry idk how else to describe it) i remember one
+page was shapes and examples of items that were those shapes
+(specifically remember yellow background and one of the shapes was a
+blue rhombu), there was one game that was like a make yourself and
+your room game (think it might've been titled something like
+""""""""who are you""""""""), and there was one math fractions game
+where you cut pizzas"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

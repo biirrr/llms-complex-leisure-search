@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][Early 2000s] Sneak game?. Old game on I played on
+my dads 360. He was really into games like metal gear solid, call of
+duty, payday, splinter cell, fallout, etc. There was this game I
+played when i was younger and the opening parts of it or at least on
+section of the game consisted of two characters, both Caucasian one
+male one female. On this open grass cliff kind of ledge thing I think
+with a waterfall. The female mightve had brown/red hair? At some
+point I think the characters decide they want to play hide and seek,
+then the female ends up getting taken and the male has to go look for
+her in this underground bunker facility guarded by soldiers with guns
+and whatnot. The entrance to the facility is a hatch with this long
+ladder if I remember correctly. And as the guy you have no gear
+whatsoever on you and I think youre wearing a grey/ dark blue shirt.
+It was third person and its definitely one of those sneak and disarm
+games like splinter cell or metal gear but I have no clue what the
+name is."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

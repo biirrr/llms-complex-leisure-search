@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC and Console] [2024 or 2023] I need to find a recent
+announced game. During some gaming event in 2024 or 2023, I saw a
+trailer for a game that looked really good. The game had an aesthetic
+similar to Elden Ring, with fantasy elements and giant, interesting
+creatures. I remember that at the beginning of the trailer, two
+characters were shown, one of whom was an adult and the other was a
+child. As the trailer progressed, several other characters were shown
+fighting or observing the scene while their lines played in the
+background. The trailer ended with the two characters from the
+beginning delivering a kind of flower to a magical tree. I also
+remember that there were rumors that the game was going to be free."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

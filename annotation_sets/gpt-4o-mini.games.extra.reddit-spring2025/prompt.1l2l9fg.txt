@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH GAME] [Mid to Late 2000's] Top-down, pretty simple
+game where you're a circle or cell with a big knife and you slice
+other circles/ cell enemies.. My brain says """"""""X Scissor""""""""
+but I can find a game by that. I remember an enemy book would be
+updated when you find a new circle or cell enemy. I can't remember if
+there was an upgrade system. In my memory, it reminds me of bubble
+tanks but with a knife. When you slice an enemy, it splits into
+smaller cells I believe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

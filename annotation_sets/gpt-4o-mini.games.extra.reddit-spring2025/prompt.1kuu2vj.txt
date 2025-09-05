@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2017] Royal themed game where you create the story.
+Guys please help me find this game where your objective is to create a
+story in a comic format by putting characters and objects in specific
+places. It's medieval-ish style, mostly uses kings, queens, jesters,
+etc. related to royal theme and has beige UI iirc. It's also
+relatively popular on YouTube shorts"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

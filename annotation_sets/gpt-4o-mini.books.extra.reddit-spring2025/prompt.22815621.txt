@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance between an European (Sweden/ Norway) exchange
+student with the host mum while living in her family house. [s]. The
+book was possibly published in early 200s. The book has light color
+cover. I didnt remember the book. The book was written in two parts.
+The below was a vivid memory recollection: The first part was started
+with a family, mum, dad and 2/3 teenagers children welcoming an
+exchange student in their home. They became best friends with their
+children. The mum was unhappy in the marriage. When the exchange
+student broke up, the mum cheered him and they started to have deep
+conversation. Then there was a tripto a holiday house, where they
+started to have a romantic relationship. There was a scene in outdoor
+shower where they were almost get caught by the dad. The student was
+lifting her up from the shower so the dad couldnt see her feet….. The
+second part of the story was when he returned back to his country and
+i had not finished the book. Could anyone please help me identify the
+book? Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

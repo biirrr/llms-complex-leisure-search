@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015?]Level, die, repeat, start from 0. While watching
+the SGF's, I started to get flashbacks of a game I played some years
+ago. I don't remember too much... It was. Well, NES/SNES Style. You
+start a game as a hero and you have to defeat the evil demon king. The
+special thing about the game was.. if you died, you had to start from
+the beginning, from Level 1 again. You had limited time to defeat the
+demon king, so you had to decide """"""""Where do I go now? This
+castle there? This forest?"""""""" depending on where you go, you
+could find allies, or loot, or enemies to level. It had turn based
+combat, where you couldn't see your own characters but just the names
+and had some awesome pixelated pictures for the enemies. I think the
+first location you could find was something like an Inn, if I remember
+correctly. Someone has an idea, maybe?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

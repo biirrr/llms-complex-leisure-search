@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][90s/00s?]Japanese Action Game?. **Platform(s):** I
+think it was only on the PS2 **Genre:** Japanese Action RPG
+**Estimated year of release:** Late 90s/early 00s **Graphics/art
+style:** Like a sepia filter kinda style, reminds me of evergrace a
+bit **Notable characters:** Just one playable male character **Notable
+gameplay mechanics:** I think it had like slow-mo where you could
+select certain body parts to target which I think similar to parasite
+eve, it mainly takes place in a dungeon **Other details:** I remember
+the story the main character having flashbacks to his wife/child
+sitting by a tree and then both getting killed by some soldiers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

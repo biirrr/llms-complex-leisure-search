@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNSURE] old gen sci-fi shooter, PvP and PvE,. i
+remember \~2017/18 i used to play this one first person shooter game
+that has a sci-fi look but was probably made in the 2000s or even
+before. the characters were all robot looking things colored red and
+blue. there were tons of maps and gamemodes. there was a single
+player/ offline mode and online multiplayer which i never played. it
+was super low tech, could run on half a potato. there were a bunch of
+generic shooter-game guns; handgun, AR, RPG, sniper etc etc. it kind
+of looked like a base for all shooter games, simple and like you could
+use any texture or something. pretty sure it was also open source. i
+found it somewhere online somehow and just downloaded from their
+official site or something. i tried looking it up but """"""""shooter
+game"""""""" is seems to be slightly common now. i wish i remembered
+more but i dont think there was much remarkable about it. probably
+wasnt ever a popular game thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [2018-2022?] Looking for a realistic horror game with
+a house in the woods.. This game looks really really new in terms of
+graphics, atleast how I remember it. I watched a YouTuber play it. It
+was basically, a small house in the middle of the woods. It was always
+snowing, basically always a blizzard. At one point you were able to
+leave the house and follow a snowy trail. I also believe that the
+villain was either the MC's dead son, or it was some random guy's dead
+son. All I remember is that, the villain was a young man who died and
+haunted that specific house. I also remember there was one particular
+scene where the monster was hiding behind a closet. He was very tall
+so you could see his head, but he was behind the closet. Thank you in
+advance for helping me find the name! By the way: This game is first
+person."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][unknown] looking for recent game. Okay so this is gonna
+be difficult. But I remember some game that came out I think not even
+a year ago, was popular for a short time. It kinda has the looks of
+animal crossing, it was multiplayer where you could type to other
+players. I remember a tiktok of a streamer where they were sitting
+around a bonfire and typing with randoms. Think there was fishing
+aswell. It had charachter customization, the charachter I saw had a
+triangle nose. Well this is pretty much what I remember. Hope someone
+knows more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

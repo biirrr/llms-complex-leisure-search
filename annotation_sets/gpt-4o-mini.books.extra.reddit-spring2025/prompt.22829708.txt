@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance? Woman left by boyfriend at Walmart, ends up
+living there. [s]. Hello. Recently my mom and I where talking about a
+book she loved when I was a kid, She would read it out loud to me and
+my dad every night but would leave out the ""adult parts"" . I would
+really like to buy it for her as a Christmas gift but neither us can
+remember the name though. So here is what I can remember: *it was the
+mid to late 90's and I think Oprah may have read it or was part of her
+book club. * it was about a woman that didn't have any money or
+family. * she is pregnant and traveling with her boyfirend * they stop
+at Walmart and he leaves her there. * she ends up staying there in the
+camping section and keeps a notebook of all she uses to pay the store
+back when she can get a job. * no one knows she is living in the store
+* I remember her some how being at the hospital but I don't remember
+how she got there. * the owner of Walmart visits her at the hospital
+and tells her she doesn't owe anything"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

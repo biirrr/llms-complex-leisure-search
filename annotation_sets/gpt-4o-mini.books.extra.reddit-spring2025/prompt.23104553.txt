@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Fantasy. Mysterious animal appears in a river in main
+character's hometown. Animal wasn't specified but described as
+something like large otter/ beaver. A major characters set tripwire
+cameras to photograph the animal. Read 2000s. Spoilers.. From what I
+remember one of the major characters transforms into this mysterious
+animal at the end of the book. The whole book has an eerie feel to it.
+The cover had an otter/beaver's eye with possibly a camera shutter as
+the iris (might be misremembering the camera shutter but it was
+definitely a striking eye). Photography was also a theme that stuck
+out to me as a major character trait of one of the main characters.
+Main characters are aged around 10-13. Read in early-mid 2000s. Likely
+written in late 90s/early 2000s. I think the author was a woman. My
+memory of this book is very hazy, I read it when I was a child, but
+I've made half-hearted attempts to find it over the years. Left an
+impression on me as a child and I'm interested to see what I'd make of
+it as an adult. Any help or suggestion is appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

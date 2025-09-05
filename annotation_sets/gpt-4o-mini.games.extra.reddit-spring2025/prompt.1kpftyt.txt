@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/00s] Scifi game. Platform: PC game Genre: Adventure
+game, riddles Estimated year of release: Late 90s at the earliest,
+most likely early 00s. Graphics/art style: 3D graphics, 3rd person
+perspective. Sort of childish/cartoonish animation style, bright
+colors. Science or science fiction theme. Notable characters: Main
+character was a guy, wore robes, maybe baggy pants. Unsure if he had
+hair, if so it must have been a manbun or something. Notable gameplay
+mechanics: Lots of problem solving, riddles, looking for clues.
+Gathering special items and information by talking to people. I'm
+fairly sure there was fighting, like hitting and shooting. Other
+details: I was trying to remember the name, but all I could think of
+was Little Big Planet, which is definitely wrong, but maybe some of
+the words are the same?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android,iOS?][2014-2015]Team Game. Im trying to find this
+game i would play on my android tablet about 10-11 years ago, I want
+to say it was a game that had game modes like team deathmatch but I
+mainly remember playing capture the flag on it. Its characters were
+military styled with the game kind of having a cartoonish style to it
+(as in not completely detailed like cod mobile today) The closest game
+I can remember that reassembles its characters is Boom Beach, The only
+map i really remember was a kind of torn down small town, with what
+Im assuming was some sort of building in the middle which would have
+2 sides where you would capture the flag (ALLEGEDLY) Ive tried on my
+own to find it but I just cant remember much more details than this,
+Im hoping someone can throw me some games to see if I can recognize
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

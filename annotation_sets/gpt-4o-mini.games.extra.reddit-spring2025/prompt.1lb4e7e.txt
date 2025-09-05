@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][CONSOLE][2010S?] SAW THIS ON A YOUTUBE VIDEO. I vividly
+remember watching a YouTube and i think it was pewdiepie? Playing a
+game where your a human who thinks hes a car and the graphics are
+pixilated and you do races around a track. Its supposed to be a funny
+game but I cant find it anywhere and I've searched things like
+""""""""man is car game"""""""" and so on haha But if anyone has any
+information please let me know Thanks :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Gay Romance. Scientists, new alien species, small
+town. The book is part of a series about living in a small town that
+is secretly a base for the government to communicate and find an alien
+species called grey something and the main characters of each book
+consist of members of this organization and there's a cute and nice
+alien who makes contact with the humans. I read it last year or two
+years ago and it's set in the US and it's a contemporary novel."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

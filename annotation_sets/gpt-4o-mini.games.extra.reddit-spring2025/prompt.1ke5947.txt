@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s?] Shooter game with intentionally
+""""""""ugly"""""""" graphics?. I watched a friend play this game once
+back in 2021, and he'd already 100%ed so I know it's from before then.
+If I had to guess, it was a 2010s game, probably no earlier than 2013
+but I really can't be sure. It was a singleplayer first person shooter
+game and it was REALLY weird. You had missions you went on and there
+were achievements and badges to get. It had an art style similar to
+ULTRAKILL with its """"""""older graphic"""""""" type look, but it was
+really strange and surreal or dreamlike. It was gross, but
+intentionally so, like that was the intended aesthetic. The game had
+really bright colors and I vividly remember some of the enemies being
+blank red figures. I remember that some of the enemies were colored
+differently depending on if they were """"""""targets"""""""" or just
+innocent bystanders. (ie dark/shadowed ones with guns, red ones that
+ran away) There was a shopkeeper that you would buy weapons and perks
+from and he also gave you your missions/quests, and I remember him
+being, once again, aesthetically Ugly. I also remember there being a
+lot of green goo or slime around the menus and chat boxes. The music
+was warped and surreal and distorted just like the art style. **It's
+seriously driving me up the wall** that I can't remember the name of
+the game, i only have really vague images of my head. It is not
+SUPERHOT (before you say that, because of the """"""""red
+figures""""""""), from what I know it's a really obscure game. I
+believe it might have been made by one guy but do NOT quote me on
+that. I would attach a sketch but I genuinely cannot draw out what I
+remember this game looking like. It was on Steam and I think the guy
+who showed it to me said it was made by an artist who does a lot of
+""""""""ugly"""""""" surreal pixel art and old game renders."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

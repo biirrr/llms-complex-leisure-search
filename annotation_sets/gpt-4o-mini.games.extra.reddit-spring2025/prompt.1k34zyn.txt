@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [unknow] a visual novel game about a flood and
+yuri. Platform(s): Play Store Genre: Visual novel Estimated year of
+release: i really don't know but maybe 2020/2021? Graphics/art style:
+looks like the Underworld Office Game: Story Game's artstyle but a
+little less cartoon. The backgrounds were eith a cild pallete and it
+was always raining Notable characters: Protagonist is a purple haired
+girl with glasses and tall, and there is another character who is a
+blonde girl with sharp teeths Notable gameplay mechanics: Other
+details: The game told about a flood, the protagonist (purple hair)
+lived on an island that now has mud monsters but then she decides to
+go live on a ship (and then a blonde girl with a demon coat and dark
+skin appears)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

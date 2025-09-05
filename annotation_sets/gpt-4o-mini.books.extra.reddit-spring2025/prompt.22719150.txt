@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Motorcycle Club (MC) Romance series. Girl is a
+surrogate (mother) for MC couple, meets one of their friends and falls
+in love. Published 2014-2024.. MC romance book in a series about a
+girl who is a surrogate for an MC couple and she meets one of their
+friends and falls in love. I cant remeber the name of the book or the
+characters names and i would love to read it again. The whole series
+was great. Written in the last 10years"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Literary/ Feminist fiction. Mother leaves family to
+live alone out of town, sands and oils an old table. Read late
+1980s/early 1990s. [s]. I read this in the UK in the late 80s/early
+90s (no later than 1994) and it had a contemporary feel so I wouldn't
+think it was written earlier than about 1970. It was one of my mum's
+literary/feminist type fiction books, so I had it in my head it was
+published by Virago, but that's just a guess! The main character is a
+mother who leaves her family to go and live alone in a cabin(?) in the
+mountains(?) - certainly somewhere away from other people. The setting
+makes me think it was the US rather than the UK. I particularly
+remember a scene of her sitting outside the cabin sanding an old
+table, and it making her hands hurt but she keeps at it until it's
+really smooth, then oiling it and the wood being so dry that it drinks
+up the oil. I think she drives into the nearest town once or twice a
+year to get supplies, so I think she stays in the cabin for at least a
+year or two. I think her daughter finds her (the daughter is a young
+adult), but I can't remember if she returns to her family in the end.
+This is all super vague I know, but any help would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

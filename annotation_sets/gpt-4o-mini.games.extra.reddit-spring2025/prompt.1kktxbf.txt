@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][90s/2000s?] A """"""""Level Clear"""""""" jingle
+from a video game, probably on a Nintendo console or handheld..
+Whistle warning, adjust volume accordingly.
+https://voca.ro/16TDuTHGznKr This level clear jingle has been popping
+into my head from time to time for years and I can't for the life of
+me remember what game it comes from. The original version is played on
+a rock guitar-sounding instrument. It's probably from a platformer on
+NES/SNES/GBA/DS, but I can't say for certain. Anyone recognize this
+tune?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

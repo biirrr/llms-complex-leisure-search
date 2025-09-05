@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Romance about an injured (possible) high school
+baseballer who coaches a girl's softball team with the main girl who
+has never played before.. Ya Romance that I read sometime between 1994
+and 2003. Characters are likely in high school. Lead boy plays
+baseball but injured his arm and for some reason ends up coaching a
+girl's softball team (I believe). Lead girl has probably never played
+before and the boy is annoyed and frustrated. I don't remember the in
+between details, but they start dating somewhere near the end. I have
+a vague feeling that his name is more common like Brad, Ryan, or
+something, but can't be certain."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

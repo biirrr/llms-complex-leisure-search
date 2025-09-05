@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Game about living life as a guy just getting
+by. I'm trying to find the name of a game I used to play probably in
+the 90s I had it on diskette. My memories are very vague, but here
+goes: You played as some guy You go to places by clicking on a map I
+think the map was a single square screen When clicking on the map some
+overlay window shows the place The guy starts living in a cheap crappy
+apartment, but you can buy better or improve it One of the places was
+a bank where you could trade silver or gold (like stock trading) I
+believe you had to get a job I believe the graphics were pixelated
+photographs I'd be surprised if anyone knows, but then again I've seen
+people make do with less xD It was kind of a predecessor to the sims I
+guess. I can't seem to find it through google though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

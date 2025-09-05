@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps4][2010s] game similar to call of duty. Can anybody help
+me find this game I used to play? I played it on ps4 and it was kind
+of similar to call of duty in ways and you also got credits to buy
+other weapons and etc. it was more futuristic as well. And the
+characters kind of looked like halo characters I think. I have been
+searching everywhere and have never found it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

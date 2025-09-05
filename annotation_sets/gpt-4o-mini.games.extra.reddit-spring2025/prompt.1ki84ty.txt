@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC &amp; console?][2015-2019] Cute animals protesting game.
+Hallo!!! I'm looking for this one specific game I played a long time
+ago, but I remember it very vividly and very fondly!! The game was
+about I think a dictatorship or aggressive military and police force
+but painted in this very cute way, we played as a group of cute
+animals gathering more and more little animals and rescuing them from
+prison, the larger the group of animals was the stronger you got per
+level, The animals were these cute googly eyed creatures and there was
+a large variety of them, foxes, rabbits dogs etc..the police and
+military were little guys in what I could only describe as
+stormtrooper style masks except dark green and dark grey!! I think the
+game had the word 'cute' or 'tiny' in the name? But I'm not so sure
+about that last detail!! Here's a drawing of what I remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

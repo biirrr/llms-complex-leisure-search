@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][Early to mid 2000s?] dark gritty shooter where I
+only remember tutorial section shooting body bags?. To add more
+detail, I only remember doing the very start of the game before
+quitting, but basically it was this tutorial section where you were in
+this old, dimly lit, and dinghy shooting range like area. and there
+were strung up body bags where some other character would walk you
+through shooting your weapon at them for practice For some reason I
+keep thinking the name of the game is watchmen or has watch in it
+but no correct games show up. I always use to confuse the game for
+time shift as a kid and would rent the two from a blockbuster as a kid
+It was a fps game and for some reason I felt kinda modern day but also
+weirdly like future esque like FEAR."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

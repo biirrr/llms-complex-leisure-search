@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2023] killing monsters, as a monster. I played this
+game on steam, and you basically go off and kill monsters? In the
+first levels youre in a desert, and killing slugs with teeth, and some
+other things. Then you go into the sewers where theres rats and also
+other things. And thats as far as i got in the few times i played. You
+get to choose what character you play as, and they all have different
+abilities. you unlock them by getting further in the levels. From what
+i remember there was a water drop thing, a green one that i think was
+a plant, a purple one, and others, one had spikes and rolled? Before
+you started the game they sat in a little campsite or something i
+think. You have to shoot at the monsters until you kill them all and a
+portal pops up. You could unlock new weapons as you broke boxes or
+something i assume. The visual of the game was like, pixelated?? In
+the same way that stardew valley is if that makes sense. Anyway, I
+played this game at a friends house a year or maybe 2 ago, but we
+arent friends anymore and i cant ask them, so if anyone knows what it
+is please tell me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

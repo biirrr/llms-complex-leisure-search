@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2026] Upcoming indie exploration/rpg game featuring
+tilt-shift camera (similar to Tunic) about a guy with a backpack
+traveling and fighting. Trailer shows the guy entering into a tavern
+at some point. Been in development for several years. Developer
+recently gave an update, though.. Platform(s): I believe PC is the
+platform Genre: RPG, adventure, exploration, indie Estimated year of
+release: 2025-2026 Graphics/art style: tilt shift camera, perspective
+similar to Tunic Notable characters: a man with a backpack walking
+through the woods, entering a tavern, and fighting some sort of
+monster near a fire in the woods. Notable gameplay mechanics: I don't
+know of any specific mechanics, except for the unique camera and pov.
+Other details: Been in development for several years. Developer
+recently gave an update, though. I saw the trailer for the game about
+2-3 months ago. Someone had mentioned the game in a reddit comment."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

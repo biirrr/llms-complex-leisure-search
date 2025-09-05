@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [late 00s to early 2010s] Children Edutainment game.
+In the 2010s I use to volunteer at a daycare, I remember one of the
+game they had on a computer was the one im trying to find. It was 3d,
+and open world. and had a story If im remembering right. I remember
+it having a song that one kid use to play all the time it drove me
+insane. I have a memory of the company having the word Jump in it,
+although that might be because it was so long ago, anything helps! The
+name of the game or song, I know I didnt give much information, but I
+really dont have any."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fiction UFO book - local scientist interested as town
+undergoes a UFO ""flap"". [s]. This would have been from 1977-ish or
+earlier This was a non-fiction UFO book. Specifically, I remember that
+it was written by a man of science (maybe a physicist, maybe just a
+high school science teacher) who hadn't paid much attention to the
+whole UFO thing until his town underwent a ""flap"" and so he decided
+to treat the reports (and the things he and others saw) as a
+scientific observer - he comes out the other end feeling that if the
+(few) observations he personally had, and the reports from others,
+were actually solid observations, the objects seen could not be
+observing the known laws of physics. If it helps, the cover of this
+book (hardcover), iirc, had a black background, the stylized/partial
+body/edge of a saucer (or cylinder) in dark blue, and bright yellow
+portholes - perhaps the book was dark blue, the outline lighter blue,
+but I definitely remember the contrast between the bright yellow
+portholes and the blue. The name MAY (but certainly also MAY NOT) have
+been something along the lines of OPERATION UFO or something. I
+remember two specific ""sightings"" he had - one was very low-level,
+students telling him that at a popular ""park and neck"" spot, they'd
+seen strange lights. So he hangs out there at night and, looking
+directly overhead, sees a number of points of light that strongly
+resemble stars but which furtively move around. The second sighting
+was when he walked out his front door near sunset and saw this large
+thing in the sky, on the horizon, that I think looked like a ""stubby
+bullet"" and which disappeared or entered a cloud."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

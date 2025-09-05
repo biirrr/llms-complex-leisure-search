@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s-early 2000s] A point and click horror game.
+Looking for a point and click horror game. Might be related to
+vampires or draculas? Not sure. You play as a female protagonist. All
+I remember was there was a segment where you had to find a way into a
+house/castle. I think I remember entering in through a window and
+there was a vial of blood or something blood related. There were
+likely some puzzles involved."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

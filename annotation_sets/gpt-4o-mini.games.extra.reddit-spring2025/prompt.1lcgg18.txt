@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] First Person Horror Game where you're bossed
+around by someone on The Phone.. I remember watching a youtuber play
+this game and for the life of me I can't remember what it was called.
+It's first person and you're stuck in a house. You get these phone
+calls from someone basically forcing you to do what he says (he may
+have implied someone you love was kidnapped?) One distinct part I
+remember is that the Guy on the phone forces you to call an Escort
+service and makes you kill the Woman who shows up to the house. I have
+to know if this is a real indie horror game or just a fever dream I
+had."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

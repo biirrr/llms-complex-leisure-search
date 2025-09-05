@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Around 2005s] 2d-platformer game where you play as a
+guy who gets turned tiny by aliens. **Platform(s):** - PC **Genre:** -
+2D-Platformer **Estimated year of release:** - Around 2005s?
+**Graphics/art style:** - Western cartoon artstyle. The graphic looks
+very detailed and colorful. - I think it's detailed pixel artstyle but
+I could be wrong? **Notable characters:** - the protagonist is a young
+man. - aliens wearing trench coat? - a woman getting kidnapped by
+those aliens? **Notable gameplay mechanics:** - It plays like a
+typical 2d-platformer game. You collect coins on the way or something.
+You defeat enemies by jumping on top of them like in Mario games. -
+Hidden paths behind tree leaves. - I think it has a password system
+for the stage, where the password's inputs are the image of each
+alien? **Other details:** - I remember playing a demo of this game
+back when I was a kid. It was a straightforward 2d-platforming game
+where you move from left to right. I remember the first stage took
+place in a forest or garden area: there were a lot of trees and
+insects. - I think the premise is that some aliens kidnap a girl and
+when the protagonist tries to stop them, they turn him tiny with their
+weapon or something. - At the end of the stage, there was a trailer
+that promoted the full version. I remember seeing an Egypt-themed
+stage and a futuristic space station (?) stage with laser traps? I
+wonder if the game actually got released or it was just a demo for a
+game that never got published... Edit: The game's name is Bud Redhead:
+The Time Chase!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

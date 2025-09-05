@@ -1,0 +1,14 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2008] Game about destroying asteroids. On windows
+xp, view from top, super simple. Up to 4 or 6 player, cant tell.
+Opened like a simple window with system menu on top. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

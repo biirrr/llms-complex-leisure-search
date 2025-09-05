@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Christian Romance series. Girl, who really likes Elvis,
+dates a guy. Later, has an Elvis figurine in her bouquet. Read around
+2012-2014. Spoiler.. YA teen book series, Christian themed, about a
+girl, who really likes elvis, who dates a guy then in one of the books
+gets married and has an elvis figurine in her bouquet. I remember a
+scene where the two talk about marriage and decide to do it he just
+needs to propose, conversation happened over oreos??, later on her
+friend gets married and when the friend gets back from her honeymoon
+she announces she’s pregnant… Read around 2012-2014 but it didn’t look
+new Recently found another one I’d been looking for called the carter
+house girls by melody carlson that I read at the same time so maybe
+something similar or similar author?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

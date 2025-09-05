@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s-2020s?] cozy point and click with a horror
+twist. A few years ago I remember watching a YouTube let's play of
+this game. I thought it was manlybadasshero but I couldn't find it
+after scrolling through his videos. It's possible he deleted the video
+or I just missed it, but it might be a good lead? I'm not too sure
+about its release date. I think I watched the video some time within
+the past few years but the game could've been older; the style however
+makes me think this was more recent, like, post acnh since that's when
+cozy games with animal characters started getting popular. Anyway, the
+game starts out in the main character's house. I think it's a female
+character and some sort of animal (all the characters were animals).
+Her goal is to bake a cake I think? She walks through the town talking
+to different npcs, getting quests, finding items, etc. Some NPCs I
+remember were a wine-loving artistic cat(?), a jewelry obsessed
+magpie, and a sheep/goat that always stayed inside until the end.
+There was some kinda twist about a satanic cult or something with the
+sheep/goat. I think there was also something about a milkman/milk
+bottles/deliveries. There was some kinda wooded area at the end of the
+map and now that I'm thinking about it I think there was a quest
+involving bees. I didn't realize I remembered so many details about
+this game but I can't remember the game's name!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

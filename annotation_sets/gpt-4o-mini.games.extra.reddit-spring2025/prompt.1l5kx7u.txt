@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unsure] [Post 2010 probably] a 2d game where you have a
+world to design on your own, and you can visit others worlds. I
+desperately need help with this, any searches I had just led to
+nothing. It was probably on console when I played, but not 100% sure.
+You could grow things like dirt trees so you could build or get
+furniture. You could visit other people's worlds and they were
+furnished and used signs. It was grid based, I think. Imagine terraria
+but the character's big and so are the blocks. Good luck &lt;/3."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

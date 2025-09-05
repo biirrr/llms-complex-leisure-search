@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Girl finds out she was a necromancer. I
+distinctly remember her bringing a dead seen better days little bat
+alive and when she reanimated it it tried to pitifully crawl towards
+her. Read 2014-2018.. I would have read this book some time 2014-2018
+when I was in middle school it was most likely some type of
+romance/supernatural fantasy novel as that was my obsession as a kid.
+I would have found the book as a “free” book on the old android
+tablets (the white chunky ones you’d give to kids as a first iPad) it
+was recommended to me from the android book app after reading Alpha
+girls if that helps with a general idea of the genre This book has
+plagued me for years and would love any insights! Thankyou in
+advance!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Dystopia with mandatory euthanization for old people. I
+think the book starts when the main character and her family are
+visiting her grandmother before she's due to die. I think the society
+can't support old people after a certain age, so they all get put
+down. I don't remember much else. I think I probably didn't finish it.
+I read this more than 10 years ago, maybe even 15? It was during the
+YA boom."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

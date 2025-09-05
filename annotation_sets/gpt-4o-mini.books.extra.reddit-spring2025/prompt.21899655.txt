@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult True Crime Non-fiction. Woman who is either dead or
+missing. She lived with her stepfather. Male author knew her when they
+were teenagers. Cover: photo of murdered/ missing blonde teenager.
+Read around 2010-2011. Spoilers ahead. [s]. I read this book around
+2010/2011 - it was a book I got from the library. The cover had a
+photo of the murdered/missing woman on it from when she was a
+teenager, she was blonde and pretty. When the author knew the victim,
+she was living with a guy who either was her step father, or said he
+was her step father. Later she ended up having a child by him (the
+step father dude) and I think he made her work as a stripper. She and
+her young son either disappeared completely or were murdered and the
+case is unsolved (I can't recall which) and it seems the step father
+dude did it. The guy who wrote the book was friends with the victim in
+high school. in the book he talks about what a sweet, fun girl she
+was, but she wasn't allowed to do much. And I believe he discusses how
+he regrets not trying to help her when they were teenagers. She may
+have gone missing in Florida but again, I can't be sure. Thank you in
+advance! Trying to recall this book and this case is driving me crazy!
+:)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

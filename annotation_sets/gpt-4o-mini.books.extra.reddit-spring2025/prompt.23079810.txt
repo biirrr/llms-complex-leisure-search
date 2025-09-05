@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery novel set in a small town in which a female
+character studies brains and learns something traumatic about the man
+she's in a relationship with. Spoilers.. I read this book at least a
+few years ago. I want to say somewhere between 2019-2023. Things I
+have vague memory of: - There were some murders some years ago and
+murders are happening again in the present, some years later - A
+female character has a profession in which she is studying the brain,
+including getting brain imaging done on friends and family - She is in
+a relationship with a man - One or both of them work in a college; I
+have vague recollection of the book mentioning office hours -
+SPOILER...Later in the book, she realizes that he is the killer Things
+I remember clearly (ALL SPOILERS...): - At least one of the ""present
+day"" murders was framed as a suicide; I believe the victim, male,
+jumped off a rooftop - One of the clues that led the woman to realize
+her man was suspicious is that he managed to avoid getting his brain
+imagine done for her study - in the book she makes specific mention
+that she's going to identify each person's brain scan individually and
+how she's technically not supposed to due to the nature of the blind
+study, but that she needs to to see HIS scan. Which she doesn't -
+because he had scheduled to get it done with one of her peers or
+someone else, but cancelled the appointment or something like that The
+book is NOT: - A Flicker in the Dark - Behind Her Eyes - The Silent
+Patient"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

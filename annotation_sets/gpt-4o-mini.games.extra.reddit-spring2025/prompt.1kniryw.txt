@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2008-2009] Help Me Identify This Childhood Letter Game.
+Im trying to find a game I vaguely remember from when I was 2 or 3
+years old, back in 2008-2009. My memory is a bit hazy, but I recall
+watching my older cousins play it on our family computer. The game
+featured a green glob or slime-like creature battling octopus-like
+enemies by putting up words."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[TOMT][late 2000/early 2010's PC] Overtly edgelord RPG
+maker/visual novel about a teenage boy who goes predator hunting after
+his sister is kidnapped. It had an annoying song that played during
+all the walking about bits, and dialogue so edgy you could cut
+yourself on it. The MC had stray dogs who he fed meat (and possibly a
+corpse) to. There was a neverending scene with a neighbour cop (?)
+suspecting the MC of doing vigilante justice, but i don't think it
+lead to anything. It had a very simple top down view and stock assets
+I think. Just simple stuff like contemporary homes and whatnot, plus
+the town. There was an abusive father involved? I think? Something
+with a web browser? That's pretty much it. I appreciate any
+suggestions. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

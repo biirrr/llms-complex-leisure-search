@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance, 19th century after 1839, Second
+chance. Wealthy wife asks Duke (pianist) for divorce after 10 years of
+marriage, he moves back to London. He had moved to New York and became
+wealthy. Liebestraum. Read 2016-2024.. I read the book between
+November 2016 and 2024"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

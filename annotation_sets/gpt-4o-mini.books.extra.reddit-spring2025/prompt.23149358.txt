@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Contemporary Christian, Choose Your Adventure Series.
+Read in 2012-2015. Essentially each book in the series followed a pre-
+teen/teen girl who was faced with a tempting choice and the reader
+could see what happened if the girl made the choice or not. I remember
+the plots of three of the books - one where a swimmer is offered
+speed, one where a girl is playing truth or dare at a sleepover and is
+dared to buy cigarettes at a gas station, and one where twin girls
+start high school and one twin gets invited to a party (with drinking
+etc.) and the protagonist must decide if she wants to go with Got
+these at a thrift store between 2012 and 2015, must have gifen them
+away at some point because i cant find them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

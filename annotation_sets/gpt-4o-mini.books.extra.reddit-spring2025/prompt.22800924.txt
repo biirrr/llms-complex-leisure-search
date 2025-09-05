@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy. Mercenary who was slave who escaped. Nickname
+Banty or Bantam. Likely a Series. Read in mid 2000s. Spoilers. [s].
+Adult Fantasy book read in early to mid 2000s. May be multiple books.
+Story focuses on a partially fey or fairy man who is enslaved along
+with his sister. Collar for slave is made of a metal which harms them.
+They're separated and he has a graphic encounter with the lady of the
+house that results in him having to run away. It also results in the
+death of a fellow slave who helps him escape. Once out he becomes a
+mercenary and ends up finding his sister eventually. She was freed,
+happily married and has a daughter. She is able to read auras. His is
+yellow and filled with joy when he sees her. At one point he pretends
+to be a slave again to infiltrate a household and interacts with
+someone who was kind to him when he was enslaved. He ends up
+protecting royalty at some point either later in the book or in
+another book by having a princess pretend to be a mercenary in his
+group. His nickname was Banty or Bantam because he was small and
+fierce."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

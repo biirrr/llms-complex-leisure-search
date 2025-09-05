@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2? I think][2000-2005] A GTA like game set in the desert
+setting and you blow things up in the start?. I think the game is set
+on like wild west ( I think it was on some desert). And the MC also
+has some skill like he has some revolver skills to kill people. I
+think the game name starts with T ( i am not 100% sure) . To give you
+some more info, I have already checked these games but they do not
+match what I am looking for: NFS Undercover, True Crime, Driv3r, NARC,
+Mercenaries 2, The Gateaway 1&amp;2, Total Overdose, Saints Row,
+Sleeping Dogs, Gangs of London. Thanks to whoever will help PS:
+English isn't my first language"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

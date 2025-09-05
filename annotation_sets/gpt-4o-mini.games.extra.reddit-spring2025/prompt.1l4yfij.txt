@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Original Xbox][2001-2006]Colorful sci-fi shooter that got
+scary quickly. I am trying to remember a game that freaked me out when
+I was was playing it when I was 10. It was in 2008 on a second-hand
+original Xbox and we got the game with it. It was some time ago but
+all I can say for sure is that it was a sci-fi shooter with Star Wars
+style laser guns as well as regular ones, the starter enemies and
+levels were quite colorful and not scary, and a level some time into
+the game turned that upside down and introduced abominations in a
+swamp. I never finished the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

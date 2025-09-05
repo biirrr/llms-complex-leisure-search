@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery - Girl investigates the murder/ disappearance of
+another girl ten years prior and finds her diary. Hi! I'm trying to
+remember the name of a book I used to love in middle school (ten years
+ago). Here's what I can remember of the plot: A girl gets interested
+in the disappearance or death (can't remember which) of a girl who
+went to her school, and I believe had the same teacher as she did,
+from about ten years ago. Somehow, she finds her diary, and starts to
+get closer to unveiling the truth. I believe the killer was either
+that girl's mom's boyfriend or her own stepfather. The book had a
+creepy, woodsy vibe for sure and if my memory serves me right, one of
+the character's names was Rebecca/Rachel/Jess/Sarah. I think. Thank
+you for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

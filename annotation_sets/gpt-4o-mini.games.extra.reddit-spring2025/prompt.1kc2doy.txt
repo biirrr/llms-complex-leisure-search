@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/PS?][unknown] Came across this meme. Does anyone know
+where this is from?. I came across this meme and everything stuck out
+to me about it. The character, setting, and graphics are right up my
+alley as a game Id play. I know nothing about where this could be
+from so I hope someone here would."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

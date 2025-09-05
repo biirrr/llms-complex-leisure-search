@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016 or so] Comedy point-and-click game about a mutant
+guy with no nose. Platform(s): Most likely PC Genre: Point and click,
+comedy Estimated year of release: 2016 or later - I remember
+Markiplier did a playthrough of it, and I think he had the red-dyed
+hair at the time, which would have been 2016. I tried looking through
+his videos from around the time and didn't see it, but I might have
+just missed it, given that there are a ton of videos. Graphics/art
+style: 2D, viewed from the side. It wasn't pixel art, but I think it
+was trying to emulate older games - it reminded me a little of the
+original mortal kombat, in that it looked realistic but without high
+fidelity. You could tell it was drawn Notable characters: The
+protagonist was this mutant guy with no nose and a bulbous forehead.
+No hair. I think he didn't really have a neck, either, his chin area
+just continued into his chest. He had a nebulously european accent,
+maybe german? Notable gameplay mechanics: You could talk to other
+characters Other details: Techno(?) music was a big aspect. I remember
+there was a scene where you were talking to some guy (maybe a broken
+down robot?) and you listen to music together. The protagonist's
+sprite does a little head-bopping dance. It was set in the post
+apocalypse, and I think there was mention of the CCCP?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

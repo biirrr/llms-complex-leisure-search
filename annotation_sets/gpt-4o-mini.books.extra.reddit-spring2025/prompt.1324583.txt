@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Newish book argues that we'll run out of power for our
+computers/Internet [s]. My mother read a newish (from the past 3 yrs.
+I believe) book where the author argues that we may not continue to
+have enough power for data centers, etc. I feel like it had a 3 or 4
+word phrase for a title. ('Failure to Connect' was a book that
+criticized the use of technology in education. I feel the title had a
+similar 'flavor'.) Thanks in advance! Kevin"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

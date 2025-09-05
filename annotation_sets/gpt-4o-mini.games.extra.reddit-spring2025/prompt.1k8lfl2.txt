@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2015 RELEASE] A Game About Winter and Survival.
+There was a game that I had watched a playthrough of about....two or
+three years ago, if I'm not mistaken. The game started off with your
+mother telling you to go shoot some deer with your siblings to eat
+dinner, because it was late-winter and your father wasn't around to do
+it for you. When you step outside, all the deer ran away, making you
+unable to eat another night. Food grew scarce, and since you were the
+oldest, you had to give up your food to the younger siblings. As time
+went on, your siblings slowly disappeared. I can't quite remember the
+excuse for it, sadly. But you were able to eat, until you were the
+last one left, if my memory serves me correctly. I should've mentioned
+earlier that there was a pantry that was locked. Then, one night, text
+displayed that you were too hungry to fall asleep. You then went to
+your mothers room and found some meat, but your mother chased you to
+the pantry, and there was a saw that spun around the room. you
+couldn't get hit, but you needed your mother to step over it while
+being chased to end it. You then ate your mother and when you woke up,
+spring was starting, showing that if you could've waited, you would've
+survived It was a pixelated game, and I may be incorrect about the
+pantry part, but there was a locked room you could now unlock. I don't
+know the platform because I watched a gameplay of it. Sorry if there
+wasn't much detail, my memory of this game isn't good."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Point and Click Magic Adventure Game.
+**Platform(s): PC** **Genre: Point and Click Adventure** **Estimated
+year of release: early 2000s** **Graphics/art style: 3D characters,
+very blocky** **Notable characters: Blonde with pigtailed protagonist
+(named Blondie?), a prince that fell out of the closet, two best
+friends of protagonist** **Notable gameplay mechanics: Point and
+click, puzzles** **Other details:** I remember playing this very young
+on WildTangent. This took place in a magical world where the
+protagonist (who attends a magic school with her two best friends)
+opens her closet and a prince falls who claims to have been from the
+past. A witch had cursed him and sent him to the future. At some parts
+of the game, you play as the two friends of the protagonist. There is
+also a scene I remember that terrified me as a kid where you had to
+fend off some scary looking harpies. I've been trying to remember this
+game and I just can't find it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

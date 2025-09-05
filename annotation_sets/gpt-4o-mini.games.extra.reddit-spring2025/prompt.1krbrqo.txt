@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][Unknown] honestly dont know much. I apologize in
+advance.. Platform(s): I believe it was only on ps1. Genre: I BELIEVE
+it was a 3d platformer. Estimated year of release: no idea. But
+probably late 90s. Graphics/art style: 64-bit I think. I remember
+blocky-ness. Notable characters: the protagonist is male Notable
+gameplay mechanics: unknown. Other details: I know I havent given a
+lot to go on. I apologize but I HAVE to know what this game was. All I
+really remember is that a dude in the game would constantly say Im
+going for it and I think there was a watery or sky environment. For
+some reason I remember blue thats why Im guessing that. I know this
+is almost impossible but I had to ask cus I can almost picture it.
+Its so close. Please help. Please=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

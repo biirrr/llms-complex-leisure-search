@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DOS/WINDOWS 95] [1994-1998] Looking for the game with the
+enemy that looks like this!. Ive literally been looking for it since
+I was a kid, and its driving me crazy. The game takes place inside an
+empty mansion, there is thunder and lightning at the beginning. I
+already ruled out: Realms of the Haunting, The Legacy: Realm of
+Terror, I dont think its Hexen, Heretic and its certainly not
+Blood. The enemy is a priest, his robes have red parts, not blue like
+my image. He has rams skull instead of head, a tome in his hands,
+there are two flaming pentagrams above and below. He is a sorcerer,
+I think he cast spells from his tome. It terrified me so much as a kid
+I never touched the game again but I would give anything to find it
+now"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

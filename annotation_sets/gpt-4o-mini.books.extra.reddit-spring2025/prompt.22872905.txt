@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Realistic Fiction. Cynical narrator, boy had
+poor relationship w father. Male friend named Bird had large nose,
+boys had crush on same girl. In bedroom, turns & speaks to reader as
+""you."" Cover: mostly black, red title. Read ~2016-17.. was the
+narration in present tense? the cover being all black with the title
+in red makes me wonder if the style/design also hinted to any specific
+subgenre - horror, fantasy, sci-fi, special kind of school?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

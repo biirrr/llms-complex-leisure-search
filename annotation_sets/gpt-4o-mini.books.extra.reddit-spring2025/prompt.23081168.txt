@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Thriller: DNF Followed multiple characters
+with different plotlines, I vaguely remember a family inheritance or
+some kind of family drama which kicks off the book.. I read, but did
+not finish,this book about 5 years ago, we were donated books by my
+mom's elderly patient which included multiple books by author's like
+Mary Higgins Clarke, Lisa Jackson, Meg Gardner etc. This book was
+included in this group, I remember one of the books I started followed
+three distinct characters, at least one was a man who I remember
+living somewhere near a fishing town, and another was a woman with
+dark hair. They were all late 20's- early 30s. The book was set in
+early 2000s because I remember them having cell phones (not
+smartphones). There's one scene specifically that involves the woman,
+she was searching for something and meets a man described as a big
+""grumpy"" man with dark features who knows about the thing she's
+looking for, they get a hotel/motel room for the night and
+romance(very adult) happens. I vaguely remember there was some sort of
+family tie in to the story (the three main characters being related)
+but I'm not positive. I believe the chapters were named after the
+character it would follow for the chapter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

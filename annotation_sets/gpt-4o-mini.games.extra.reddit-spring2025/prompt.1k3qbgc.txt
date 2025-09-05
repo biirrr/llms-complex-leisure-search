@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Game about finding a lost brother..
+Platform(s): I played on PC Genre: 3rd person, Adventure game
+Estimated year of release: 2000s Graphics/art style: gritty 3d
+graphics Notable characters: game begins (if i remember correctly)
+with protagonist on a moving train, narrating a story about his
+brother . upon arrival at an abandoned station, the only sounds are
+those of crows, the plot involves finding a lost brother, it was not
+point and click based game, Notable gameplay mechanics: I could move
+around station and there were houses and i could jump around those
+fences , Other details: at some point the protagonist holds a torch to
+explore a cave."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

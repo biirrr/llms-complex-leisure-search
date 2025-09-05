@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2-PS3][2000-2008] Military game. This has been impossible
+for me to figure this out but im looking for this military game it was
+split screen one player was locked in this sand hut or something and
+was injured while the other player had to go get him out of this cell
+and when you finally got to him he was injured so you had to carry him
+while fighting off the enemies trying to kill you would really love if
+someone could figure this out"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

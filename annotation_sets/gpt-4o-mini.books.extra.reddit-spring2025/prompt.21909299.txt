@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction. Guy is investigating murder. Aliens
+have established a colony on Earth, they have perfected a technology
+of religious architecture (it induces religious experiences). He has
+mystical experiences. Read 1985-2005. [s]. So the guy is investigating
+a murder and has to go into a colony that's been established by aliens
+on Earth (I'm guessing that it might have been one of the aliens who
+was murdered?). It's all official and above board, no covert
+operation. The aliens have developed architecture that induces
+religious experiences (at least in humans) so his investigation is
+continually disrupted by his mystical experiences. Read: 1985-2005;
+probably early 1990s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

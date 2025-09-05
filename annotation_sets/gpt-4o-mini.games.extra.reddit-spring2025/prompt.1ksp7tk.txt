@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2023/4] A glitchy game I watched in a video once, never
+to be seen again. Hi Reddit. Back in 2023/4 I was watching a lot of
+AstralSpiff and TetraBit, and I think one of them played a game that
+was intentionally broken. It was first person, 3D, kinda wonky
+graphics like g-mod, the game took place in a grey city. There were
+tasks to complete and various means of transport you could find around
+the map. I think one was a giant fan and it was super overpowered. Due
+to the game being super glitchy and broken it had a fairly sized
+speedrunning community. I've been looking for this game (and the video
+associated with it) nonstop so any help is appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Appalachian Trail solo woman thru hike 60's or 70's. A
+journal/diary of a woman's solo thru hike in the 60's or 70's. I think
+it was printed in her own handwriting, definitely illustrated with her
+own sketches. I remember a story where she met up with a man who had a
+small plane and took her for a flight and she drew a picture of the
+plane. I can't remember any other specific illustrations. I think she
+took a break at some point due to injury and started back up at a
+later time. That's about all I can remember. There are so many memoirs
+now of thru hikers...I've searched every variation of keywords on
+google that I can think of but have had no luck so far. I'm hoping
+someone else here has read it! I loaned it to someone years ago and
+never got it back. Thanks in advance if you can help me find this book
+again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

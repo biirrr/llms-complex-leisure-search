@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010 or earlier] island bug chad game. Hi! I'm looking
+for a certain game with a """"""""cartoonish"""""""" style, 2D, side-
+scrolling from a third-person perspective  kind of like a platformer.
+I think it was released around 2010. The game started with you either
+crashing on a beach in a submarine or arriving there with one. You
+played as a muscular blond guy, and I think you were supposed to
+rescue someone  though I'm not entirely sure. Your enemies were
+anthropomorphic insects, bugs, or something similar that lived there.
+They had their own houses, clothes, but looked pretty gross. It
+definitely wasn't a game for kids  rated at least 16+. Of course, I
+was a kid back then, haha. I remember it was available on a CD that
+came with a magazine, probably named """"""""Action""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

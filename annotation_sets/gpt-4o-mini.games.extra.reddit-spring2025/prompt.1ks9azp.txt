@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GC or PS2][early 2000s] Football game thats not about
+football (soccer). I have this random game pop up in my head
+occasionally. I remember playing this in a store when I was young, Im
+not sure if it was a demo or a promo or something. I remember buying
+Jet Set Radio for the Dreamcast that same day. Imagine a football
+(soccer) mechanics game, but without the football. I remember some
+players in a dark room, mission impossible vibes with laser obstacles
+and you had to run around and get the ball. I never got to play too
+much of it, but it is possible that the players on screen were famous?
+Like Ronaldinho and whatnot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

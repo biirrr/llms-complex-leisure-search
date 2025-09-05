@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2000s] Dark and grim Mass Effect like game.. The game
+was around the same time of Area 51 I think? Gave me mass effect vibes
+but more grim and dark. I dont remember much but I was like between
+9-11 playing it, (Im 29). Basically the game starts with a cutscene
+if you and your characters girlfriend running from a hulk like alien,
+she gets caught and it rips her head off corkscrew style. Only other
+part I remember is that same type of alien standing at a door at the
+end of the hallway and you couldnt get past it, but it wouldnt
+attack you or do anything hostile. Thats all i remember sorry >#"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

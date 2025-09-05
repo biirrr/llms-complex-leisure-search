@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2016-2020] 2D horror game where you collect resources
+to survive the night.. I remember it being quite popular, A 2d story
+driven horror game, one of the main mechanics that i remember is that
+during the day you collect wood and gasoline to light torches inside a
+bunkered house. During the night there are creatures / ghosts that try
+to break in, you need to stay away from the dark areas. Furthermore,
+the graphics can be describes as gritty. There are villages / npcs
+that you interact with to try and escape the area."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

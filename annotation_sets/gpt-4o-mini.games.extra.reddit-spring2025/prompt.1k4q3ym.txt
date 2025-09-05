@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [200X] Game about being a motorbiker where you gain
+points by crashing and doing stunts. I had this game where you where a
+motorbiker and gained score by crashing, ragdolling and doing the most
+damage posible to yourself, it was a 3d game, had ragdoll physics,
+blood and i remember the cover art having a dude making a stunt or a
+motorbike helmet but made out of blood"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

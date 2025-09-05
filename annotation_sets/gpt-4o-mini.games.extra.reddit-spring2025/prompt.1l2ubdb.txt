@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] 1st person vampire/monster hunter game.
+Hello everyone, I've been thinking about this game for past few weeks
+and googling hasn't yielded anything useful. All I remember it was a
+pc game definitely from early 2000s, 1st person monster hunting game
+where you played as a Van Helsing type character and one of the
+weapons was this spinning blade/sawblade gun/sword or something. One
+of the levels was on a cemetary chasing Frankenstein monster I
+believe? Any help would be appreciated, thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

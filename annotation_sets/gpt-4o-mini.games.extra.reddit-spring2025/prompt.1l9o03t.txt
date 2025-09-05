@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Freeware 2D Sidescroller in a surreal post-
+apocalyptic setting. Platform: PC Genre: Freeware
+Sidescroller/Metroidvania(?) Estimated year of release: Somewhere in
+the 2010s Graphics: Pixel art, with surreal visuals and a stark color
+palette. I recall the majority of the game being black and white,
+perhaps with occasional splashes of color reserved for the more
+otherwordly elements This one's really eluding me. This is an older
+freeware game of some obscurity, with the premise (I believe) of
+exploring an earth (moon?) ruined by a surreal apocalypse. The player
+character was some sort of tank or drone that would platform through
+stages, fighting strange abstract entities and collecting resources
+that could be used to upgrade your abilities and (I think) unlock new
+paths. Different stages could be selected from a larger map as you
+unlocked them, and replayed to gather more resources. The story I
+think was mostly told through heavy lore dumps (possibly with audiolog
+voice acting?) I do remember it being rather grindy and esoteric, and
+difficult to make much tangible progress, but it had enough
+interesting elements that I'm really hoping to find it. I think the
+game's name was something rather odd and un-game-like, possibly
+science related, but I'm the least sure about that out of everything."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

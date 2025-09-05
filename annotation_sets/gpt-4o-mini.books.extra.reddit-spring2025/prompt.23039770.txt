@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance spans decades. FMC’s name is George I believe
+& is the youngest. All her siblings (all boys) are named after
+musicians or songs. She has a brother named Marley who is in a band. 2
+love interests. Read around 2024. Spoilers.. Spoilers! Spoilers!
+Spoilers! It starts off with FMC meeting her 1st live when they are
+kids. He is her brothers best friend and they get together when they
+are teens. Him and her brother are in a band and go out on tour
+together after the brother and boyfriend are accused of rape she
+breaks things off. After a while she eventually moves on with her
+second love after meeting him at his bar. He does not initially want
+anything to do with her after he finds out who her dad is ( they both
+have criminal ties). She eventually gets back with her first love
+(which crushes her second love) and marries him. She bumps into her
+second love at his club while married and has sex with him. Her and
+her husband also buy the house her second love is selling. Her husband
+dies and she eventually gets back with her second love."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

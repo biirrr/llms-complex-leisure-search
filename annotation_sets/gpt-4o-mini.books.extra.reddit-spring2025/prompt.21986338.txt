@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult NF/F - 1950's? - Fiction-style Psychology choose-your-
+own-path-through-the-book paperback featuring East Coast Rivers [s].
+This is a weird one. I've never posted about it but have looked for it
+so many times. This was in my dad's bookshelf when I was growing up in
+the 70's, although most of his books were from the 1950's It was a
+paperback. I have not a clue what the title was. The book was like a
+non-fiction choose-your-own-adventure. You'd start reading and then
+you'd make a choice what to do next. But I think the whole purpose was
+to teach your psychological lessons. I think there might have been a
+short quiz at the beginning (maybe) and then you'd start on some River
+path. I remember the Monongahela was one of them. I believe they were
+all East Coast rivers. You'd read a page or two, and it would say,
+""Do you do X or Y"" and that would direct you to another page in the
+book so you'd be skipping around in it. I think in some of the paths
+you could die, but I'm not sure. It could also be straight NF with no
+fiction element. I think it was written in 2nd person. It was
+definitely for adults, and it was too ""deep"" for someone my age, but
+I was fascinated by it. I'm surprised I let it go when going through
+dad's stuff before he died in 2003, but somehow it didn't end up with
+me, and I've never seen a copy since. Although since I don't know the
+title, maybe I just didn't recognize it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

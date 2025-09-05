@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][recent 2020ish] surreal desktop simulation with poems.
+Pc game, simulation, recentish i'd say, 2d cute artstyle with very
+strong and eye vomiting colors, may have been pixelated but not sure,
+bunny blobs that jumped around, desktop simulator where you click
+video files and so on, some time ago i found a game where you clicked
+icons on a desktop with eye vomiting colors, each icon showed you a
+story/situation using cute bunnies while talking about topics like
+suicide and self neglect and so on, it had a lot of poems, sections
+where you had to write or interact. i remember some bunnies having
+only one eye and they looked like a blob with bunnie ears."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2015] zombie killing game. Does anyone know the old
+zombie game where it starts with you on a bike with blades on the side
+and you go through zombies slicing them up, then you get a story of
+like you getting vaccines or something idr but you are collecting
+things and bring it back to base. You go through the city or the malls
+and kill zombies while not being killed. Played like 8 years ago, idk
+when the game was made"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

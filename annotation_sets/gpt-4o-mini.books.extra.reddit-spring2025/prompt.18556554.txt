@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Dad and I looking for true crime about 2 kids who killed a
+third.. Hello. This shouldn't be that hard to find except for the fact
+that it's a very old book that we both read decades ago. It's true
+crime and rather horrifying about two kids..boys..who murder
+someone..a third boy ""to see what it was like"". My dad says it was a
+very well known book. Problem is neither of us remember what decade it
+came out in. I think at the latest the eighties but could have been
+before that. Does anyone know what book we are thinking of?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's How-to Picture Book on creating ""art trouvé""
+projects circa 1960's. Non-fiction, hard cover, probably slim, book
+with full color photographs of three dimensional art created from
+found objects like spools of thread, wire, etc. Written in English,
+likely published in USA. Originally discovered this book in my
+elementary school library around 1965 when I was in fourth grade (9
+years old) and it opened my eyes and hands to the joys of making! It
+seemed appropriate for later elementary up to a teenage audience. I no
+longer remember its cover or colors. I DO remember two of the notable
+projects: ﻿﻿+ A cannon made from sewing thread spools ﻿﻿+ A locomotive
+engine with wire to simulate piping What strikes me the most was that
+the projects were not meant to be accurate replicas or scale models.
+They had an ""abstract art"" feel to them which awakened me to the
+beauty of this form. I'm only guessing that there would've been
+instructional text, and perhaps pictures of the projects in various
+stages of assembly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

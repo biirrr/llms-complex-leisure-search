@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[nes/snes/genesis/ps1][1985-1995] rpg help. A buddy of mine
+doesn't use Reddit and asked me to post this. Information given was
+Rpg roughly 30 years ago on the Nes/Snes/Genesis (I suspect Ps1
+maybe). Turn based Rpg. No action or side scrolling You could turn
+into a dragon for prolonged periods and it ***wasn't*** Breath of Fire
+(it did get him into bof though). Game had a pixel look similar to FF6
+Due to the time then, it wouldn't be anything that later got a
+translation. North American release. He was 10 when he played this
+Sorry, I know its not a whole lot to go off of."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 90s early 2000s] Bug Puzzle jungle game.
+Platform: PC Genre: Puzzle/Strategy Estimated year of release: unsure
+but probably early 200s Graphics/Art Style: it was 2D game. It showed
+you a shape of board, it changed each round, and the one that sticks
+out in my mind was very leafy and it almost looked like a jungle.
+Notable characters: I dont remember there being specific characters
+other then the bugs that crawled around the board to break your line.
+Notable gameplay mechanics: You would click on the board and two
+ropes(?) strings of some kind would make their way to opposite sides
+of the board from where you clicked. Once the connected it cut the
+board or maybe just blocked it off. Other details: I was very young
+when i played this so the mechanics might be slightly off but in a few
+short words it was a jungle themed slicer game with bugs. I posted
+this same game about two years ago and nobody seemed to know. I have
+been thinking about it again and was hoping maybe somebody would
+recognize it. It gave similar vibes to ZUMA."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

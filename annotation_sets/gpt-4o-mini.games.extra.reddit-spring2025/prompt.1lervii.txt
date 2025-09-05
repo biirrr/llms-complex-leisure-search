@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s]Racing Game with Taxidriver and Cowboy
+Character. **Platform(s):PC** **Genre:Racing Game / Arcade Racing
+Game** **Estimated year of release:2000-2006?** **Graphics/art style:
+Realistic?** **Notable characters: A black Taxi Driver; A Cowboy
+Character with a Cowboy Hat (Older man I think)** **Notable gameplay
+mechanics: Upgradable Cars, Taxi can be upgraded, Cowboy's Truck can
+be upgraded, Nitro, Police chases** **Other details: If you picked a
+character you start out with their most basic car. I remember you
+could later then upgrade the Taxi e.g so it had a full body kit later
+on and was very fast. The Cowboy Man had a basic Truck and if upgraded
+later it had a antler on the hood of the car.** **I can also remember
+a part of the Intro of the Game: You could see a police car at a
+gasstation of something similiar and the door of the police carwas
+open. Then someone drove by really fast, crashing the door along with
+them.** It also had different kind of maps. I can remember a wood'ish
+map and a desert/Texas style map. It also had splitscreen."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

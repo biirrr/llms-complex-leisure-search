@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy/ Dystopia with female lead fighting Hunger Games
+style with multiple monster dog-like companions. Read 2017.. YA
+Fantasy/Fiction The premise of the world is basically our world but
+with connections to another world. This other world provides both
+monsters and dog-like companions to certain humans. These people are
+randomly selected and are recruited by the government to fight the
+monsters, which is filmed. This is sent out to the populous as
+entertainment and the special people with their dog-like companions
+are kind of like celebrity. The main character is a woman who
+originated from a mountain area. She fought monsters there for a bit
+before going to the more populous area that had worse monsters. The
+fighters are supplied with training but also special outfits with
+their own color schemes/brands, so it looks better on television. She
+starts with five dog-like companions but ends up with more after one
+of her opponents’ companions abandon him because he was dishonorable
+by cheating in a contest against her with a laser. Other random
+details: -one of the men she knew was religious and she made fun of
+his idea of modesty -standard food was lab made and if you wanted real
+meat it was a luxury good -she wrote about how her dogs were not true
+black, they were the darkest shade of gray, which is the true color of
+shadows I don’t remember any names or anything about the appearance of
+the book unfortunately. I read it around 2017 in America. I read it in
+middle school but there may have been sex scenes I don’t remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

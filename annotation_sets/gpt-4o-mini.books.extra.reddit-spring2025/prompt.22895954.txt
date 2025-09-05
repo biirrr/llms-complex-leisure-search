@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction set in late 1800s/early 1900s girl is
+sent away (from the UK?) by aunts/family after being involved in a
+Women's rights protest that got violent, she stays at a plantation for
+sugar cane (an island?). Read early 2010s.. And discovers that the
+land-owner's son had a daughter with a slave/worker, and the owner
+unknowingly had a child with his granddaughter (the child has red hair
+like the owners family). Read in the early 2010s. Help! x"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1900s - 2000s] old game I played where you picked one
+of two kids before getting pushed out a tower window.. Platform(s): PC
+Genre: Adventue/Fantasy? Estimated year of release: 1900's - 2000's
+Graphics/art style: 3D with old semi-blocky characters, from like
+Fable era games. Notable characters: I think between a boy and a girl,
+or a brother and his younger brother. Notable gameplay mechanics: You
+could use a flute or something to I think calm the monsters down.
+Other details: You start as little kids and get brought to a tower by
+an old man. You then chose your character before getting shot/stabbed
+by the old man and fall through the towers window. You then woke up in
+a sewer I think and fought through some bats/spiders before fast
+forwarding to being a teen. My memories fuzzy but I think you had to
+calm down and move past a dragon before fight bats again, or bat
+adjacent monsters. This is sadly all I remember but I LOVED this game
+as a kid. I think it was an old disc on the PC; but my dad also had
+Floppy Discs as well as Discs."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

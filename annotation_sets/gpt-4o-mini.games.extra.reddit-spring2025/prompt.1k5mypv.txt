@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2010s Maybe?] Horror Game.. All I remember from this
+game is that it was an 8 Bit 2-D horror game where theres a twist that
+the game you were playing this whole time was merely a game on a
+handheld game system that a character in a house was playing, and
+their console runs of batteries so suddenly it turns into a 3-D game
+where you roam around the house and look for batteries."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Wedding Planning on a small budget.
+Saving money. Stories by real brides and how they managed their
+weddings. Read around 1987-1988. Likely published early-mid 1980s.
+[s]. I read this book around 1987-1988, before I got married in '88.
+It was a guide to planning your wedding on a small budget. I think it
+had a photo of a bride (a head shot, not full body) on the cover. What
+I remember most was that after the chapters of suggestions on saving
+money, there was a chapter with stories by real brides and how they
+had managed their weddings. I don't think it is ""How to Have a Big
+Wedding on a Small Budget"" by Diane Warner, but it is definitely in
+that vein. And most likely published in the early to mid 1980s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

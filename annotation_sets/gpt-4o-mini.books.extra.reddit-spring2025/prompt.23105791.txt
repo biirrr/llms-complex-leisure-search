@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Historical Fiction. A young girl moves to a
+small town with her family in 1900. She meets a beautiful young
+mysterious woman while ice skating. Read in mid-1970’s. Spoiler.. I
+got this book out at the library around 1978 and it seemed pretty old
+then, but maybe written in the 1950’s. I don’t think it was really
+early in the 1900’s. The protagonist is a young girl about 8 to 11
+years old. The story is set in the United States in a small town,
+maybe in Ohio, and begins in the year 1900. The girl and her
+grandfather are planning to celebrate the next New Year’s Eve when it
+will become 1901 because they know that that is when the true
+beginning of the twentieth century will begin, not 1900 as everyone
+else thinks. The girl has an uncle who is sad because he recently
+broke off an engagement with a woman he believes did not really love
+him. His name may be Edward. The girl goes ice skating on the pond in
+the middle of town and meets a beautiful young woman. She tells the
+girl to call her Fairy Child. The young woman’s name is really Miss
+Fairchild. It turns out that Miss Fairchild is really the ex-fiancée
+of the girl’s uncle. When the uncle finds out that Miss Fairchild has
+befriended the girl, the uncle and the rest of the family are angry,
+believing that Miss Fairchild is using the girl to get back together
+with the uncle. Miss Fairchild gives the girl something and it allows
+the girl to find out the truth about something. When the girl solves
+that mystery, it leads to the uncle and Miss Fairchild resuming their
+relationship. The assassination of President William McKinley is
+mentioned."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

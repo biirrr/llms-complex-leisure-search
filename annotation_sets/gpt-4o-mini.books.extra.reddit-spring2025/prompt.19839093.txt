@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir - woman's therapist cons her out of lots of money and
+tells lies. Uses the phrase ""Do you trust me?"" Possibly faked his
+own death. [s]. Memoir that took place in the 1980s. It's about a
+woman who saw a therapist for many years. He told her a lot of lies
+about having a family (both a set of twins and a set of triplets), and
+he promised she could become part of his family. He conned her out of
+thousands of dollar under the guise of paying for years of therapy up
+front. Then he dies and she attends his funeral, but she suspects he
+faked his own death. His catchphrase was ""Do you trust me?"" It's
+possible the fake twins' names were Vanessa and Damien. I think she
+lived in California and may have worked in the film industry. She grew
+up in a wealthy family who didn't give her lot of love."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

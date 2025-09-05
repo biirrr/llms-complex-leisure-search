@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery revolves around a girl who lives with her
+brother and mother at an old rundown hotel which they run. Coming of
+age series. Read around 2004-2014.. Read this probably 10-20 years
+ago. There are 3 books in the series. The main character is a girl who
+is trying to solve some mystery about the area she lives in, there is
+a pond or lake involved. She and her brother and mother live at this
+hotel which used to be a place where the rich came for holidays and is
+now rundown and I think owned by another family member? She waits
+tables etc, but is on her own a lot and is trying to figure something
+out. There is a sheriff or policeman who is kind to her also in the
+books. It's adult fiction, but is kind of a coming of age type
+series."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

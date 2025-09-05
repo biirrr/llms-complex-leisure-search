@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "find books based on cover. Hi! First time posting here. I'm
+looking for books in this post:
+http://atlantastartedraining.tumblr.c... I'm trying to find the pink
+book, the gray book, and the black book underneath the gray book in
+the picture. From what I can tell, the first 2 words of the gray
+book's title are ""A New"" and the last 3 words of the black books
+title are ""Way Of Death."" Any help you guys could give is incredibly
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

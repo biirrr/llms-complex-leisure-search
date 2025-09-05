@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2000-2010] 3D motocycle game. I remember when i was
+really young my dad had got me this motorcycle game, the menus were
+red, I think there was at least 3 different modes, tbh i can't
+remember if these 3 modes were same game or 2 different games cuz ik 2
+of these modes MUST be from the same game. so the 1st mode was just
+like motogp 2000 but i had it on pc, it was playstation, and 2nd mode
+was motocross type, an arena type place, audience surrounding a field
+where i would use my dirt bike to race. and the 3rd or prolly a 2nd
+game? i remember it had slightly better graphics and it was on a city
+type location, like illegal motocycle racing? maybe? i was like 8 or
+something back then. i don't remember much. i've been trying to find
+it by watching evolution of motocycle games vids but haven't found IT
+yet"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

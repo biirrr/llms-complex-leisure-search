@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2015] A point-and-click game about a cowboy in an
+empty town in the wild west. This game has been itching the back of my
+head FOREVERRRR. I dont remember much about the game though. Honestly
+I dont even know if it was real or if I just dreamt of it. I was
+super young when I played it. I remember playing it on my family
+laptop with my brother. I dont remember if it was a game he
+downloaded or just a flash game, but im leaning towards flash game.
+The game couldve been made before 2012, but thats just around when I
+played it. The artstyle is kinda hard to describe. It was sorta blurry
+and pixelated, and there was little to no detail, just colour. A lot
+of yellows, oranges and browns obviously. I dont think there are any
+characters that you can interact with since as I said in the title,
+the town is empty. However, there is one scene I think at the end
+where you aim through your gun and you see someone pointing a gun back
+at you and you die. Again, its a point and click game. Its in first
+person. When you go to another area, its just a still image like
+most. It was super creepy. I remember nothing else about the story or
+what was going on. I dont remember much of the layout. There couldve
+been a section with all your items at the bottom but I dont remember
+there being one. I dont think any music played, just howling wind. I
+know its not silverload. Im sorry this is so obscure. Ill ask my
+brother if he remembers and give an update if so."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Alcoholic dad represented by ogre-monster with
+anger issues.. Remember watching a minecraft youtber do a play through
+of this game when i was younger. You play as a boy who does
+platforming stuff, puzzles too i think. You feed the ogre the right
+frogs (that represent beer) to control his mood swings. It's not a
+very cartoony artstyle, it was realistic looking. The town looked sort
+of like how i imagine spain is. The ending was emotional - it might
+even be a twist that the monster is your dad."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

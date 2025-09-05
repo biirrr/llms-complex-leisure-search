@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2019] pixel art metroidvania about a DnD campaing.. (
+english is not my first language) The game trailer showed a group of
+friends playing a dnd campaing and one of them leaves the room to go
+to the bathroom, but when he gets out he finds the house turned into a
+giant dungeon filled with monsters. I also remember this part of the
+trailer where he prayed to a god or something like that. Found: it's
+named 'UnEpic'"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

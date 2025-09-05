@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[UNKNOWN] [UNKNOWN] I need help finding a game. So im unsure
+if this is a actual game but I remember making it my pfp on something
+very long ago but ill try my best to give as much detail so im unsure
+but I remember the game name as """"""""Ranch"""""""" You play as a
+purely black figure and the only features this figure has is a white
+circle around on its face it was a puzzle game and the games
+atmosphere was darkish but the actual location was like a wooden area
+with a dip lighting it was a very slow pacing game and I believe there
+was a inverted version of the black figure I made this quick drawing
+of the character iv tried asking chatgpt and I tried looking for old
+game finders but to no no avail."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

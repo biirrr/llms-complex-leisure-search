@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Christian Middle Grade series. Girl named Lucy plays
+soccer.. This series was centered around a girl named Lucy who lived
+in either New Mexico or Arizona. Her mom passed away, and her Dad has
+been bringing her up alone ever since. However, he does hire a
+housekeeper. Lucy enjoys playing soccer with her best friend and
+neighbor (I think his name was JJ) who is going through some difficult
+family stuff. Lucy’s aunt is constantly trying to get her to become
+more interested in traditionally feminine things like shopping, and
+wants Lucy to grow up quicker than she’s interested in. Eventually,
+Lucy turns a ragtag group of neighborhood kids into a soccer team.
+Thank you for reading this!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

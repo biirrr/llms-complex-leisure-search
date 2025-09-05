@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2007-2012] City Builder Based in a Contemporary City.
+Platform(s): PC (unsure if exclusively) Genre: City Builder,
+Contemporary Estimated year of release: 2007-2012, approximately
+Graphics/art style: Contemporary american city, realistic 3D graphics
+(but dated by the time) Notable characters: Citizen of the city who
+tutorialises the player; has a strong american accent (either New
+York, Boston or Chicago), sits on the steps of a tenement block he
+asks you to build Notable gameplay mechanics: Buildings are
+upgradeable; I recall adding advertisement billboards to businesses
+Other details: Nothing else unfortunately"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

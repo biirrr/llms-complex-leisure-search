@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s]Point and Click alien body snatchers game with
+unnerving voicework. **Platform(s): PC** **Genre: Alien/Horror**
+**Estimated year of release: early 90s** **Graphics/art style: Pixel
+art** **Notable characters: I only remember the cast being
+intentionally mundane/normal** **Notable gameplay mechanics: Point and
+click game, had very unnerving voice work (similar to old Molly Moon
+shorts) made with like $5 microphones** **Other details: If I recall
+correctly you played as a boy in a town and had to like uncover the
+conspiracy about alien body snatchers? I could be entirely wrong
+though, the only thing that I remember clearly is the voicework and
+the general feeling of the game.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

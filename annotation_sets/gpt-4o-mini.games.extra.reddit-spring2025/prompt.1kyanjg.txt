@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Roguelike] [2014-2018]. PC - Roguelike - 2014-2018
+Dark, isometric and misty. Looks a bit like the New Londo location
+from dark souls. A lot of negative space. Raised mossy stone areas
+with decrepit ruins, illuminated by your characters torchlight. Your
+Character appears very small in the composition. The only characters I
+know about are the player character and some little shadowy wraiths
+with red eyes that you fight. The player character has a torch and a
+sword. I remember some spike traps that kill you instantly, and also
+the game is permadeath, as in you always respawn at the beginning and
+keep nothing when you die. It didn't have a great steam rating, a lot
+of people thought the game was too hard. I've attached a very blurry
+screenshot, sorry for the quality."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

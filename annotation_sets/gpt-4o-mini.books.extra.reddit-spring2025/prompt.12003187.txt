@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Egyptology [s]. This was another great book I received from
+Barnes and Noble, back in 2005 or late 2004. It had a gold cover, and
+the book itself was sky blue. I think that it had a picture of a
+pharaoh, maybe King Tutankhamen on the front. I really liked how it
+had a timeline of the rulers of Egypt from antiquity up until the last
+one, Cleopatra. I think that it only covered Egyptian history up until
+the start of the Roman empire. There were many fantastic photos, maps,
+charts, etc. And there was a marvelous bibliography at the end. I wish
+I could remember the author's name! I believe it was published by a
+man, and he may have been from the UK."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

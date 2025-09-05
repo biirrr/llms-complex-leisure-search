@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][unknown, early 2000s maybe?] 3 man squad of master
+chief styled characters, fish people and a giant kaiju. as title says,
+no screenshot, just trying to remember the name of this game, i
+believe it was a sequel? believe it was 3rd person when you played the
+like trooper guys, maybe rts styled when playing the fish and i dont
+remember for the kaiju? think it was kind of heavy on comedy and had a
+vs multiplayer?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

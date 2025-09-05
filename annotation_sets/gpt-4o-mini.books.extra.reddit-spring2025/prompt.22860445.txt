@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Young woman's dad dies, young wealthy
+employer (rancher?) lets her remain on property, she's best friends
+with his sister. He wears eyepatch. Read around 1990's/2000's.
+Spoilers. [s]. A young woman’s dad dies and his young and wealthy
+Employer allows her to remain in her home on his property where she
+and her dad had lived for many years. Maybe the Employer/main guy is a
+rancher? They are attracted to each other. He has the use of only one
+eye and wears a patch. She is best friends with his sister until the
+sisters boyfriend makes a play for her and the sister gets jealous and
+lies about her to the main guy. He believes his sister and is furious
+with the girl and chews her out and humiliates her on Main Street
+calling her ugly names and telling her to never come around again. She
+graduates with no one to watch her & celebrate with her and moves away
+that same day. The main guy won’t let his brother and sister even say
+her name around him. She is hit by a vehicle and the doctor finds a
+paper with the main guy’s name & number and contacts him- Very similar
+to Wild Obsession. The guy flies his sister and younger brother in his
+own plane to go to her and bring her home. They resolve their
+differences. The sister is sorry she lied and she is so impacted by
+the nurses at the hospital that she decides to become a nurse. This is
+the basis for a sequel about her and her love interest which is very
+similar to Lietha ward’s book, Seth & Priscilla."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

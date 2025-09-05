@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[probably PC] [2000s] Pixelated dog game where your choices
+dictate which ending, weirdly dark. So I remember watching a
+markiplier playthrough of this ~5 years ago, it was a pixelated dog
+game where you had to make different choices to see the outcome. I
+remember there being a big brown bulldog that I think you play as, and
+one of the endings being keeping all the food to yourself and not
+helping the other dogs. It's also blending with this game that was
+also pixels, but little kids and you made achool desicions. This one
+was very dark, I remmeber something about a murder, and the cafeteria
+meat being human. There was a blonde girl with a pink dollhouse, and a
+brown haired bully that would steal your lunch money. Are these the
+same game or am I melding two? Im not even totally sure the dog one is
+real at this point. Thank you to anyone that can help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

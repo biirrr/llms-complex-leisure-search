@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/2000] 2D car shooting game. **Platform(s):PC
+**Genre:Shooting **Estimated year of release:90s/2000 **Graphics/art
+style:2D **Notable characters: - **Notable gameplay mechanics: you
+drive a car and shoot from inside the car and can do mission, the
+background is like from wild west or texas or something with pyramid
+ish building **Other details: you can upgrade weapons/sell loot and
+stuff"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction? Debt. Funny, lonely woman Karen moves from
+Chicago to New York. Starts a daily blog on how she got out of credit
+card debt, with $ amounts. Based on real person? [s]. After moving
+from Chicago to New York funny, lonely woman named Karen starts daily
+blog detailing how she got out of credit card debt. She makes daily
+entries of total debt remaining, how much she spent and what she did
+to save or cut down the approximately $30,000 - 40,000. Example in
+Book: March 5: Total debt: $29,950. Walked to work to save cab fare,
+sold Gucci handbag on eBay for $300, ate expired soup for dinner.
+Total debt. Now $29,650. I think this is based on a real person."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

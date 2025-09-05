@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Genesis] [90s] A run and gun action game. Cant remember a
+whole about it except that you couldnt turn around by pressing the
+direction on the d-pad you had to use a another method that I only
+stumbled upon by chance due to the manual going missing. Also 2nd
+level boss was based on a Dogu Jomon where you had to shoot the eyes
+on both sides of it which was made nearly impossible for me due to the
+affirmations not knowing how to turn around."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

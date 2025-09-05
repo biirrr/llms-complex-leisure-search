@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Military game with heli landing on beach and
+sticky bomb on gate. Hey everyone, Trying to remember the name of this
+PC game I played around 20082010 (not 100% sure on the exact year). I
+vaguely recall the name being something like *Code of Conduct* or
+*Code of War* (Im pretty sure it had the word 'code' in it), but I
+could be wrong. The intro cutscene had a helicopter flying over the
+ocean, then landing on a beach. About 34 military soldiers disembark,
+and you control one of them. Early in the mission, theres a gate you
+have to destroy using a sticky bomb. I had the game on a CD back then.
+Been trying to remember the name for years. If anyone recognizes this,
+Id really appreciate the help! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

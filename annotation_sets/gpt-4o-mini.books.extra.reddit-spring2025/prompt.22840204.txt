@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror/ Thriller: A male writer of true crime murder
+novels gets fan mail from a suspicious source. Spoiler. [s]. The
+writer goes out to find the person writing the letters and gets
+kidnapped and put in a house in a badlands. Later he finds out it’s
+his brother who kills women and keeps their hearts in a freezer. His
+brother tries to get him to kill a couple women that he kidnaps but he
+wont do it. I read the book about two years ago but it was older maybe
+90s or early 2000s. I think it takes place in Montana but im not sure
+of that. I think it was the first book in a series."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

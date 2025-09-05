@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA 2000s. Teenage girl is chased by serial killer. She moves
+to an island by ferry and meets a group of teens who seem like they
+have a secret. She realizes she is being stalked by the killer on the
+island. Spoilers.. SPOILERS AHEAD: (view spoiler) [ she finds out that
+the island is like purgatory and she is already dead. she fought the
+killer by a road. he stabbed her and she took the knife and stabbed
+him too so they both died (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

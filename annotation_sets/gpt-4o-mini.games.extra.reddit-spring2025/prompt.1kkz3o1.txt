@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps4] [action?] [around 2000s?] [?] [bacteria sorta thing]
+[move like a snake]. so there was this game i used to play with my
+cousin you were like a bacteria thing you grew bigger by eating other
+bacteria, i can also remember like a boss or smth (not sure) i played
+thiis like 4/6 years ago you could play with like 4 local players"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

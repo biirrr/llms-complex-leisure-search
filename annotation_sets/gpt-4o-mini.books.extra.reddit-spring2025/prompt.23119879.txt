@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction trilogy: Alien invasion, involves
+alien structures where they use bells to test people's genetics. Read
+early 2000's.. This is a trilogy. Plot revolves around an alien
+invasion occurring over many years and they have built permanent
+structures around the planet, especially in Antarctica and I believe
+China and Gibraltar. The aliens are collecting humans, predominantly
+in China at the start under the guise of work, and testing their
+genetics using special bells. There is a underlying conspiracy plot
+where a secret organisation is trying to cover this up and help the
+aliens. There are a few main characters. One is a man investigating
+the secret organisation. There's also a women who has got the alien
+genes and I think she was a scientist of some sorts and knows the main
+alien (from a past life or something). I can't remember why the aliens
+are invading. There is some time spent in space in the later books. I
+think the story ends at the Gibraltar facility. I read these books in
+the early 2000's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

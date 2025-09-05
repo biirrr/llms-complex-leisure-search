@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction, photography book about birds. When I was a kid
+in elementary school (circa 2005-2011) I remember checking this book
+out from my school library all the time. It is totally possible that
+the book is older than those years though based on how school
+libraries don’t always get new books. It was smaller in size than a
+typical book and was mostly full of pictures. I believe it was
+paperback, but the cover was a bit thicker/more durable than most
+paperbacks. I checked it out all the time for the beautiful photos in
+it. If I remember right, it was mostly pictures of a bird, with a
+column on the right explaining where it lives and diet and things like
+that. I remember there were North American birds in it because my mom
+and I would look for them, but I cannot say for certain that it was
+only a book on North American birds. I remember there were also other
+volumes of this series on different topics (weather/clouds, rocks, and
+flowers) if that helps for tracking this one down. I don’t remember
+what the cover looks like but I can remember the page set-up. Please
+help me find it, thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4] [2015?] it was demo and was really looking forward to
+the full game.. The game was realistic style. only 10 mins to playing.
+the main character was male In the demo's opening scene, the game
+begins in a railcar (the kind used to carry storage). A main character
+is standing there, just chilling, with some boxes around, nothing
+really important. Suddenly, he feels a shake and a jolt before
+blacking out. The train has crashed. When the main character wake up,
+he find himself outside, surrounded by fire and destruction. Trains
+have crashed everywhere, demolishing buildings around them. (Outside
+was dark night time.) You then start playing the game in first person.
+As you look around and walk, you see a train wheel rolling by. You
+reach a damaged railcar lying on the ground. You notice its door
+starting to bulge as if something inside is trying to get out.
+Suddenly, the railcar bursts open, creating a hole. The person looks
+confused, trying to understand what's happening. The scene zooms in
+slightly, and you see a monster hand with long nails reach out& then
+the screen cuts to black. The games title appears with a number 8
+in it, for some reason I remember that. It was just a demo. I was
+really interested in it, but I couldnt figure out when the game was
+going to be released, I forgot all about it until now. Ive started
+remembering it again, but I cant remember what the game name and
+can't find on google anywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

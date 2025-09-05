@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Disney art game/photo editing program.. Hi
+Reddit, Recently, Ive been feeling nostalgic and I've been trying to
+find some old games and programs I used to mess around with on my
+sisters computer. But theres one in particular I just cant seem to
+find, no matter how hard I try. It was an art game/photo editing app
+made by Disney for computers, think about Kidpix and other similar art
+games for children. I remember it having animated stamps (like
+eyeballs that would roll around, mushrooms that would grow and pink
+and blue butterflies that would land on the screen) , PNGs of Disney
+characters, and backgrounds to choose from, mostly from the 2d
+animated movies, Cars and maybe toy story if I remember correctly.
+I've tried digging deep on google, but all I could manage to find was
+mobile apps from the early 2010s. The CLOSEST match Ive found is
+Disneys Magic Artist Deluxe. It has some of the same exact animated
+stamps and some of the character's PNGs but the interface doesnt
+match what I remember. The version I used to have had a baby blue UI,
+but I cannot find any trace of this version existing. This version had
+a menu that would slide open on the left and it would allow you to
+select the stamps and different brushes, and on the right there was
+another one that would allow you to select different backgrounds and
+pictures from your computer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

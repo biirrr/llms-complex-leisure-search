@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Horror. Dead father, pov from boy who can see ghosts. He
+and his mum move to a house when she gets a new job. Old guy in the
+house with young girl. Is stealing her blood to become immortal.
+Ghosts help solve mystery. Read 2010-2013. Spoiler.. Other points: set
+in past. Potential victorian times. spoiler: house burns down at the
+end with the old guy. dead ghost girl is victim of blood letting"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Hero sleeps with heroine's male friend, out
+of spite, when she left to get her sister. Read 2019-2023.. Hi! So I
+read the book within the last 5 years. Heres what i remember: -the
+heroine in this book was the other woman in the previous book. Hero of
+that previous book was with her, in part, to protect her from issues
+in her family. I dont remember if the characters were in college or if
+they were older. -the hero of the book im looking for hates her but
+for some reason the heroine ends up staying with him at his house.
+Everyone would consider her a screw up, including the hero. - theres a
+scene where she leaves the heros house without telling him she was
+going to be back in a couple days. She left to take custody of her
+little sister. The hero thinks she left him and in retaliation he
+sleeps with her male friend. This friend was probably her only friend
+in that town so when the heroine comes back and finds out that he did
+this out of spite, she is devastated. - The heroine and her little
+sister moves out his home to another part of town. She gets a job and
+a place. The hero misses them. He has a room renovated for the little
+girl in hopes that they will be back. Thank you in advance for your
+help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

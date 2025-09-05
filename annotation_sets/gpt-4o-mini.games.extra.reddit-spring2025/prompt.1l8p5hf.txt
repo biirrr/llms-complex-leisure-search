@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Windows 95][Mid to Late 90s] Futuristic adventure game
+with pre-rendered scenes  you die very quickly. Hi everyone, Ive
+been trying to remember the name of a PC game I played on Windows 95,
+most likely sometime in the mid to late 90s. Heres what I remember:
+It was set in a futuristic environment. The gameplay involved moving
+from building to building, and you could interact with NPCs. Some
+locations I remember include a bar or nightclub, and a corporate
+office building. It was not a 2D side-scroller  instead, the game had
+pre-rendered backgrounds or scenes, and the visuals looked quite
+modern for the time. One key thing I remember is that you could die
+very quickly in the game  your health would drop fast, and I often
+didnt survive very long. Unfortunately, thats all I can recall. Ive
+been looking everywhere but no luck so far. If this sounds familiar to
+anyone, Id really appreciate any suggestions! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

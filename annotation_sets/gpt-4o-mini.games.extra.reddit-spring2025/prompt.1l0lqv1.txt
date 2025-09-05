@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2019-2023] Indie game where you send out a robot drone
+to collect fragments from a planet. So the premise is (if i remember)
+you get sent out to a distant planet in order to confirm the fate of
+an other spaceship crew. You send out a robot scout on the planet and
+control it from the ship. There was a parasite present on the planet,
+it hid in one of the fragments. I remember being able to go from room
+to room in the ship, with the possibility to lock doors. There is a
+good ending, where you contain that parasite. The game is similar to
+silent breach and iron lung as far as graphics go. It's full 3D and
+you are able to explore your ship. edit: info"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

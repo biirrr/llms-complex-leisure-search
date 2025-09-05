@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Diary of teenage girl published as nonfiction book -
+Australian book. [s]. Diary of a high school girl from Perth,
+Australia. She died of suicide and her mother published her daughter's
+diary. I think pub 1990s. The girl's name started with M, maybe
+Miranda. I read it in early 2000s. It had photos from her life,
+including one of her at Sea Scouts at Mosman Bay on the Swan River.
+She lived in my home town - Perth, Australia. Can anyone help with
+girl's name or title of her book. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

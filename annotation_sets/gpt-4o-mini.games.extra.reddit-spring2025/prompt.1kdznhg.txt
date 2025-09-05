@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][2018] Zelda like game about drawing. **Platform(s): DS?
+(not certain)** **Genre: RPG** **Estimated year of release: 2018 (prob
+way lower)** **Graphics/art style: Drawed on** **Notable characters:
+You draw the characters** **Notable gameplay mechanics: Drawing,
+infectious black sludge** **Other details: At the start of the game
+you draw the protagonist and antagonist. The antagonist gets infected
+by black sludge and corrupts the world wich includes creating enemies.
+In the game you can collect colours as cosmetic. The finale is
+concluded with protagonist and antagonist becoming freinds again.**
+Other Information (might not be important): There is a section where
+you go underground. The final boss consist of 4 things you need to
+collect/knock down to free the black sludge from the main antagonist.
+You can use a pencil to interact with the world and different colours
+do different things. Edit 1: There are different types of pencils that
+you collect while progressing trough the game. the pencils that you
+collect all have its own ability that comes with unique interactions
+and a symbol on each pencil. Edit 2: The final encounter takes place
+in a castle wich is octoganol/hexagonal shaped This has been solved!!
+Thank you all!!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

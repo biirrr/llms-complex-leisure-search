@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book 2000s(?) I read in elementary school about a
+misbehaved boy who cuts off the tip of a girl's nose on a field trip.
+I read this book in my elementary class sometime in the early-2010s.
+The book was about a young boy who was no older than 9. He was known
+to misbehave a lot, but I specifically remember a part in the book
+where his class was on a field trip, he and a friend(?) were messing
+around with pairs of scissors. Then he chases a girl with them (I'm
+pretty sure he liked this particular girl as well) and then ends up
+slicing off the tip of her nose. I remember no other details of this
+book. If anyone figures out this book's title and author, thanks in
+advance!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

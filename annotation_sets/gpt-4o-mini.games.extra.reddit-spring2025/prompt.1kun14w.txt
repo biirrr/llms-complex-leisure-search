@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [1988] Handheld game console from the 80s. I don't
+have a lot to go on, but l had this portable game in the 80s, probably
+1988 but the device might be older. It has a rectangular screen with a
+triangular bezel in the top. Button operated, no joystick. Having
+trouble remembering the specific game but it didn't take cartridges, I
+believe it was the one game. I've searched for handheld devices from
+this time with no luck. Appreciate any help in finding information
+about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

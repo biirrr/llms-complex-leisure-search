@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1970’s YA Romance. Catholic school tomboy plays basketball
+attracts Sister’s crush.. MC is a Catholic schoolgirl and a tomboy.
+She’s on a basketball team I believe. She wears a school uniform. Her
+older Sister is considered prettier so everyone assumes the BMOC boy
+likes her, but it turns out he likes the tomboy Sister. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

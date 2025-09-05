@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance. Heroine raises stepdaughter's
+child who dies in childbirth. [s]. The heroine travels by train when
+notified that her runaway step daughter is about to give birth. She
+arrives to find the stepdaughter tied to the bed by crazy hero’s
+sister and stepdaughter dies in childbirth. Heroine agrees to stay to
+raise the baby and marries the farmer., who makes furniture in his
+spare time. Written in the style of Lavryle Spencer or Linda Lael
+Miller. I think the crazy sister name is Hattie and the hero name is
+Daniel. Old book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

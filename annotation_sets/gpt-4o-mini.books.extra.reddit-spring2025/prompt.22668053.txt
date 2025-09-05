@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir towards self-help. About a woman who spends a
+year alone in a house. Perhaps from New York. Perhaps after Divorce or
+Breakup. Read around 2000ish. Maybe Solitude in title.. I know, this
+isn't much to go by...there may be a cat, and a phone in an office of
+an older house, and maybe it's near water. This definitely came out
+before all these ""solitude is great"" self-help books became a thing.
+Don't know if it was a bestseller, I just found it at a bookstore.
+Maybe 250 pages? House is somewhere out in nature or a smalltown.
+There is snow in winter. Definitely on the East Coast. Maybe in
+Maine/NH? Leaving life behind to find yourself. I think she had a
+high-powerd job? I thought the title contained Solitude, but search
+doesn't turn up anything. I think she might have been a writer. I
+think the cover was a nature scene. Paperback."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

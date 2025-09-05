@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020ish?] Game about spaceships that try to land on a
+planet. **Platform(s):** PC/Steam, I think. **Genre:** Sci-fi,
+action?, simulation?, strategy? **Estimated year of release:** Around
+2020? **Graphics/art style:** The ships were chunky and rectangular,
+[like this](https://cdn.astroempires.com/landing-
+page/landing2/desktop/images/ships/cruiser1.jpg). They were probably
+rendered in 3D, but the gameplay was essentially 2D. You had a wide
+view of the planet's sky/horizon, and you were looking at the ships
+from the side with a fixed camera. Think Lunar Lander or Missile
+Command. Even though the ships were big, they were far away, so they
+looked small. The planet's atmosphere was kind of stormy or at least
+cloudy, I think. It seemed hazardous. I remember the UI being mostly
+yellow/orange and looking like a holographic HUD. This HUD-like UI was
+very prominent. You might have had to monitor gauges as the ships were
+landing or something like that. **Notable characters:** Unknown.
+**Notable gameplay mechanics:** The game involved spaceships (big
+ones, I think) trying to land on a planet. I think they slowly
+descended to the surface. There might have been smaller ships that
+accompanied the large ships. And the ships might have shot missiles? I
+think you were probably in charge of the fleet, and it was your job to
+land the ships, but it's possible that you were trying to defend the
+planet from the invading ships instead. There might have been a
+planning stage before the ships started dropping. **Other details:**
+It seemed like the game had a decent budget, because the
+graphics/presentation looked good. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

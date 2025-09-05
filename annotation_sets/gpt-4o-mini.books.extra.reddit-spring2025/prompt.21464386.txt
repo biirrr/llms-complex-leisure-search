@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Romance novels with housekeeper working for a wealthy
+family. I read this book about 5 years ago.Romance novel about a
+housekeeper named Izzy who is hired by the leading male characters
+mother. The hero and heroine meet when the heroine is cleaning the
+hero's house and accidentally breaks something.What I remember the
+most from the book is that tje heroine has a beauty mark under her
+butt. SPOLIER ALERT: The heroine is dyslexic and also has an abusive
+mother who accusses her of wanting to sleep with her partners."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

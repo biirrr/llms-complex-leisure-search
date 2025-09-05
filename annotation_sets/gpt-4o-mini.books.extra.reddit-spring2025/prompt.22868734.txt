@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy portal story with a college (?) student (F)
+who ends up in Fairy and falls in love with a cranky, much older
+magician.. I read this fantasy novel within the last 10 years. I think
+it was the start of a series, but not entirely sure. There was a
+college woman who was in a car accident or her car broke down, she
+walked into the woods and ended up in Fairy (I think). She was set to
+marry the prince (not entirely of her own will), who was horrible, and
+escaped out of Fairy and ended up with a cranky old magician. Some
+quest that I can't remember. It involved a wooden flying contraption
+that barely worked. There was a library where the books were alive? Or
+the characters popped out of the books? There was a legendary female
+magician - sort of like Cadsuane from Wheel of time. A jaguar or
+leopard, maybe? At the end, young woman realizes she loves the cranky
+wizard. Maybe he reciprocates, but probably not. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

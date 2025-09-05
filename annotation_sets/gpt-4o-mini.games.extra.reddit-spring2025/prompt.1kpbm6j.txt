@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] 2D Stealth Shadow Ninja Platformer Flash Game.
+**Platform(s): PC - Flashgame** **Genre: 2D Platformer Stealth. Not
+top down but from the side.** **Estimated year of release: Somewhere
+around 2010... I think. Peak flashgame era** **Graphics/art style:
+Extremely dark. The land was black and you could see your character by
+his silhouette of the night sky. Vibe was that you were in the shadows
+and unseen. Sometimes there were buildings with enemies and lanterns
+so they could see you.** **Notable characters: Ninja** **Notable
+gameplay mechanics: You would stealth around and parkour and kill
+enemies** **Other details:** Theres absolutely no RPG elements or
+special """"""""abilities"""""""". Just straight jump around in the
+shadows and assassinate people. Extremely straight forward."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

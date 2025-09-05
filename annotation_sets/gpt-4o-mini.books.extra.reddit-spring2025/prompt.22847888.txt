@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's/ YA Sci-fi. Kids, alternate dimensions,
+cliffhanger ending. Spoilers.. I read this book around 5-6 years ago,
+about a group of kids who discover a machine of some sort that allows
+travel to an alternate dimension or world. This is linked in some way
+to their parents, and the ending depicts them in another world
+(possibly stranded) where they find out their parents are considered
+criminals (I think on a wanted poster?) It was one of a series and I
+read it in a (possibly hardcover?) copy with a light blue/turquoise
+cover. I think there was a bunch of additional stuff (like bookmarks
+etc.) with it and I do think something about the author struck me,
+though I cannot for the life of me remember what it was!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

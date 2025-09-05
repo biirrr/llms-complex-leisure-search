@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True story of Outdoor Adventures. Young man hiked through
+Greenland (companion left him), canoed Northwest Passage, kayaked
+Western Chile toward Cape Horn. Disagreements with girlfriend. Read &
+published around 1993. [s]. The author, a youngish man, took on
+several adventures such as hiking through Greenland, canoeing along
+the Northwest passage, and kayaking down Western Chile toward Cape
+Horn. The man he hiked with in Greenland abandoned him. He had
+disagreements with his girlfriend on the goals of the other trips. I
+read it when it was published in about 1993."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

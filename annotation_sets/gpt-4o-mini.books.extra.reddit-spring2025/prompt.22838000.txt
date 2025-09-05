@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery fiction. It’s about a detective who returns
+home to take her fathers place who recently died (maybe suicide)
+either way she was investigating it and maybe her childhood friends
+death too?. In this book each chapter is in one of the characters pov.
+A woman’s dad dies so she returns to her hometown to take his place.
+She reconnects with the town bad boy who she used to love. He was
+driving and hit a young girl then brings her home and calls the
+detective. The detective is snooping around trying to solve an old
+case, I believe the death or her best friend. She gets really close
+and she’s digging in a field in the rain when she’s murdered. The book
+the switches to the pov to the girl that was hit by the car and is her
+hoping to find what happened to the detective. I think there’s a few
+other things I remember but I read so many mystery books I might be
+getting it confused and this is what I know for sure. I read about 2
+years ago Please help me find"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

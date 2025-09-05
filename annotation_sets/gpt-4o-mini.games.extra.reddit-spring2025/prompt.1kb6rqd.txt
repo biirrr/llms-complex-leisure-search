@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IPAD MINI][2010-2018] A mobile game about taking care of
+animals. Can you please help me find an old game? I can remember a
+tiny bit of the original gameplay and mini games. It was all one app
+played on an old iPad mini, it was somewhere between 2010 to 2018 when
+I played it. It was a 2d game and the main gameplay consisted of
+hatching or buying cute animals that you need to provide for. I
+remember two of the old mini games, one being set at night with a
+sheep tied to a ballon floating up, you had to collect clouds and
+dodge bombs, the second mini game was set in the desert, you had to
+balance an egg with a cute face on a wooden spoon as you got closer to
+a race finish line, I'm not too sure if it's since been taken off the
+app store but I remember it being a comfort game. I'd be forever
+grateful to anyone who might find it!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

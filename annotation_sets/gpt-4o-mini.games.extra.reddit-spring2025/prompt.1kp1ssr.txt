@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000s] [PC] point and click adventure game stuff. This
+might be a niche one, even chatgpt couldnt help = So its a game
+where the main character is a man who starts off on a small boat with
+his wife, it crashes and they land on an island that looks to be
+abandoned. The wife gets kidnapped and the man has to go around the
+island solving usual point and click adventure game stuff, finding
+different items in a screen etc. Throughout the game you find these
+little stone idol/statue things that you put into a door at the
+entrance to a cave. When you get into the cave you find a room with of
+robed cultists wit your wife inside, you run away from them and
+escape. It had quite a dark theme and setting, it scared me as a
+little 10 year old boy, but I cant remember too much about it, it was
+3d style graphics but no actual moving images if you get me? Sorry for
+the long description but thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

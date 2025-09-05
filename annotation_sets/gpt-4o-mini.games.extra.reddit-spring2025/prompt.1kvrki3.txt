@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s?] A childhood game similar to Prince of Persia:
+The Sands of Time, but without running on walls. Platform(s): PC, but
+maybe consoles also Genre: Action-Adventure Estimated year of release:
+2000S? Graphics/art style: It is closest to The Sands of Time, but the
+style is more cartoonish, with bright colors. Notable gameplay
+mechanics: Simple fighting with a sword (without some slasher's
+mechanics and combos), platforming. Enemies are mostly fairy-tale/myth
+creatures: genies, magicians, etc. Other details: 1. Perhaps the main
+character is a prince. He wields a sword and looks like Miguel - the
+hero of the cartoon """"""""The Road to El Dorado"""""""" - or Sinbad
+or something from this type of characters. Maybe, he had white wide
+pants and a blue vest, but this is not certain. 2. In the game, you
+had to collect crystals (or some other) in different locations, among
+which there is definitely a ship and a snowy location. I remember that
+in the snowy location he wore a fur coat with a hood or something
+similar. And in the location with the ship in the platforming segments
+there were flying fish. 3. This game, if I remember correctly, has a
+rather long name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

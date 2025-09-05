@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flashgame][2010's] Undertale-esque flashgame where you
+fought a circus ringleader. I'm looking for an old flash game I saw a
+few years back (I thought it was on Coolmath games but I haven't been
+able to find it yet). It had a retro, pixel-y art style. It was a
+movement/dodge game, kinda like undertale battles. You fought a sort
+of circus ringleader-looking character (Like a mirror with floating
+hands), and you had to move your sprite around to dodge his various
+attacks. The music was pretty neat too, sorta like an undertale boss
+battle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

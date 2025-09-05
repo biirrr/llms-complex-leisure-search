@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] [FLASH GAME] Im Looking for a flash game, where
+you like played as a wizard, it was topdown and you had to fight back
+and dodge projectiles, there were like multiple keys around the map,
+and the game was tough as hell.. Title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

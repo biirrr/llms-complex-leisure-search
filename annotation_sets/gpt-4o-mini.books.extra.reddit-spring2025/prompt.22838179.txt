@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery. Ex police woman tries helping a little boy
+who lost his parents. Spoiler. [s]. Ex police officer, she’s recently
+been dismissed but still wants to help this kid n the guy who’s care
+he’s been left in is someone she went on a date with one time n she
+thinks it’s odd that he was left in this guys care. (SPOILERS ISH just
+in case I don’t wanna say too much) It’s all over the place, explained
+at the end and was absolutely not the ending I thought was gunna
+happen. They live in a house on a hill not really near anything n
+there’s a cave he wants to take him to n keeps going on ab it. You
+find out what she was dismissed for later on in the book n her partner
+who’s still in the force joins in to try to help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

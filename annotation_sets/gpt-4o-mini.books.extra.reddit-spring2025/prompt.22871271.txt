@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Romance. About a ""witch"" who travels into
+the future. [s]. I read this book when I was about 15-16, so it was
+published around 2000. I bought the book from Weis Markets, in their
+book section. I thought it was written by Maggie Shayne and had the
+word Twilight in the title but I cannot seem to find it. What I can
+remember is that a ""witch"" somehow time travels from her time into
+present day (2000). The man in the book works with computers/tech and
+had a partner who took the tech and disappeared. You discovered what
+happened to him in the book. I think there was a HEA for the MFC and
+MMC. If I can think of anything else I will edit and add it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Supernatural, SciFi Alien, Martian novel about a girl
+who's at school and meets a boy. She finds out that she's actually a
+Martian and turns out she's royalty and now is their queen.. I read
+this book earlier this year, but I'm struggling to find it now... The
+story is about a girl who's still in education, and she meets a boy
+who is new to her school. They start to hang out and he reveals that
+he's actually an alien from Mars who was sent here along with his
+family. He then reveals that she's also a Martian too. She later on
+discovers that her parents were the King and Queen on Mars who died,
+and now she's next in succession and is the long-lost Princess who has
+become Queen. I think she was sent to earth to protect her... She has
+to get used to being a Martian, whilst also becoming Queen of a whole
+planet and trying to stay safe away from those people who want to kill
+her whilst also coming to terms with her feelings for the guy she met,
+who turns out to be her bonded/mate (whatever it's called in the
+novel). Any help in finding this book would be great and greatly
+appreciated, thanks :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

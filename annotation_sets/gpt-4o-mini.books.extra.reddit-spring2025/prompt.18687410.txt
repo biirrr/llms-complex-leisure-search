@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Hip, mod Bible story retellings/lessons from 60's-70's. [s].
+Hello! I found this slim book on a table at a church book sale three
+or four years ago, somewhere in the Midwest (I forget where). It was
+obviously from the late 60's or the early 70's. It was a retelling of
+some stories in hip teen lingo of the times--or maybe it was
+explaining the lessons in this way. It was an attempt to make it
+""relevant"" to teenagers of the time. I think the cover was yellow,
+and the book was half as wide as a regular book, but as tall as a
+regular book. So it was a tall rectangle. I would really like to find
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

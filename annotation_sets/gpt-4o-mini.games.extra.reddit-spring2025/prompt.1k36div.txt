@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] A 'Jurassic park'-esque game where you move
+around in a jeep and take pictures of dinosaurs.. A game I used to
+play in early 2010s but the game looked pretty dated. You were in a
+area(inside the park I think) in a jeep among various dinosaurs. You
+had to take their pictures and that's all. It might have been a demo
+game cause that's all you had to do, after taking like 10 pics, the
+game would reset and you'd play the same thing again. It was a 3D game
+with very saturated colours and I remember the large carnivores dinos
+coloured dark brown or black. They'd chase you if you got too close
+and it also had herbivores but their pictures fetched less money. All
+you had to do was roam in the jeep, click a button and it open up your
+camera and take the picture. Thats all. The jeep was in 3rd person cam
+angle. I'll attach a few pics of what it kinda looked like (Looks very
+similar to the attached pic)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

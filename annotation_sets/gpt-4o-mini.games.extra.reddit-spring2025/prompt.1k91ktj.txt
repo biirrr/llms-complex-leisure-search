@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s-2010s] Caveman tribe game with 100 years to
+evolve them. (forgive the shitty doodle lol) There was this flash game
+I remeber playing as a kid were you had a tribe of caveman, and you
+had to try and grow/progress them over 100 years. You could assign
+your guys to different parts of the little map, like getting berrys
+from the bush, hunting, fishing, and doing something in the desert..
+worshiping I think? Then they would get resorces from where they were
+assigned when you moved forward a year. There was a skill tree that
+would improve things, and a screen where you could build certain
+buildings, and progress/evolve your guys in other ways. I think the
+end goal was to build a particular building but I don't recall. There
+were also random events that could happen, like people from
+neighbouring tribes joining yours, or attacking yours, and sometimes
+there would be natural disasters that make you loose guys. Thats all I
+can remeber, other than the fact I found it really hard as a kid haha"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

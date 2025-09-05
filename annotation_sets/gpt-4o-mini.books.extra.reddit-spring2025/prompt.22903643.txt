@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance novel about a woman who is getting married and
+finds out her fiancé is in the mob. Spoilers.. Spoilers ahead! Looking
+for romance novel where a woman is at her wedding and goes to surprise
+her fiancé Sonny only to overhear him talking about committing a
+crime. She hides in a dumpster and hits her head and ends up stumbling
+into a van which just happens to have an fbi agent in it doing
+surveillance on her fiance. I believe the fbi agents name is Jake. She
+ends up pretending that she was mugged and meets with the fbi at a spa
+she is pretending to have rehab at. It turns out her fiancé is trying
+to get something incriminating to him from one of her sisters
+children. Falls in love with FBI agent taking care of her."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

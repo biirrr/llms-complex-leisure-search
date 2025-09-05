@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade novel with Fantasy including transporting to
+another place/ future and a plot about needing to wake Father Time. -
+middle grade novel with fantasy including transporting to another
+place/ future and a plot about needing to wake Father Time -main
+character is an adolescent girl carrying around a gas mask during time
+of London bombings in WWII -she is transported to another place or the
+future and is amazed by the differences there -people wear bright
+colorful tunics and they can order food through machines or utility
+belts -one memorable food was a type of cream pie that had a warm
+caramel center and became a favorite of the main character -she is
+involved in a mission to save the world that involves waking Father
+time who is a sleeping giant in a cave -read probably in the early
+2000s (2000-2005) -my version was a paperback with the main character
+holding hands and flying with a young man in a Peter pan style
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

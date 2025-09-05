@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy book read in 1990s with magical race that switches
+gender. Not a lot to go on I know. I was thinking of a book which I
+read sometime in the 90s. It was a high-fantasy novel with magic, may
+have been part of a series. The protagonist, who I think was a man,
+spent some time at a city or castle or something with magic users who
+may have been wise and there to offer him advice on his quest, or to
+help with it. I seem to recall a large table and a feast and I think
+he just stopped at the castle/city/place on his quest. His friend, who
+he initially thought of as male (I think) switches genders and becomes
+female and says this is something all of them can do. I think the main
+character found this strange. I remember being disappointed by what
+happens to this secondary character, I think they either die, or they
+just disappear. This is definitely not by Ursula LeGuin and is
+definitely not The Left Hand of Darkness. I likely borrowed it from my
+local library from either the teenage section, or from the sci-
+fi/fantasy section. EDIT: I'm wondering if it's possibly a Tanith Lee
+book. My library no longer has any of her books though so I can't
+check and it's so long ago I can't remember all those I've read."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

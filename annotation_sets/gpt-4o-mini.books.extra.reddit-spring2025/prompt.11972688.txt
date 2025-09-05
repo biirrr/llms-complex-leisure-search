@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "book of the history of Chinese emperors from barnes and
+noble [s]. This book was written by a chinese woman (I cannot remember
+if she was american or not).I bought it in 2009 I think. It was non-
+fiction and it had many great illustrations of the emperors of China.
+It included a short biography if each one. And I believe the cover was
+red or orange with a picture of a Ming dynasty emperor if I recall
+correctly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

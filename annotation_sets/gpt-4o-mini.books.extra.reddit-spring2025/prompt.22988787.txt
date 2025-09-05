@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Guy always falling asleep in bathroom stall at work, affair
+with female neighbor. Neighbor is skinny goth dude with pet Guinea
+pig.. Leah, around what year did you read this book? What's the genre
+(which we need to add to the topic header) - e.g., contemporary
+fiction for adults? romance, humor, etc.? I copied book details to the
+topic header. Feel free to edit it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

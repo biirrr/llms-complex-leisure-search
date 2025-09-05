@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-Fiction: 1980s Interior Design. This was likely
+published between 1983 and 1991, a large hardcover, your typical
+coffee table book size. What I liked about it was that its chapters
+were based on style: how to create an Arts & Crafts room, or an
+Edwardian Room, or a Hollywood Regency room, etc. etc. It's not a
+manual on design in general, it's really sort of a style guide on what
+elements combine to make a room feel of that period. Anyone recall
+this? I read it in 1991 and it was clearly recent."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

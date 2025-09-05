@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fictional psychological book. Spoiler.. From what I
+remember about this book: - A group of people are trapped inside of
+some type of maze or labyrinth to be studied. -They must figure out
+what specific actions they are required to perform in order to be
+rewarded with food. -I believe it starts out with small actions and
+gestures, but gradually the requirements grow to be more complex and
+eventually ends up as a long and complicated dance routine just for a
+small portion of food. -There might be lights and noises associated
+with whatever prompts them to move in the required way. -At the end of
+the book, I believe the main character is driving or is a passenger in
+a car, and when he comes up to a street light and it turns red, the
+red light subconsciously triggers a physical response and he begins to
+dance in the car."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

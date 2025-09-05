@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "memoir of an older woman at the Bosque del apache Wildlife
+Refuge [s]. This book was a memoir I read in 2008, 2009 or 2010. It
+was written by an older American woman, a former Quaker. She was a
+volunteer I think working at the Bosque del Apache Wildlife Refuge in
+New Mexico. I truly enjoyed it but I have not been able to find it
+again. I think she was working to protect a certain species of
+endangered bird."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

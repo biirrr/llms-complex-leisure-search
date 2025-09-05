@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2016??] Some sort of indie game where you play as a
+monster and choose your responses to things. It was a 2D story type
+game and I think either remember playing it on a laptop or PC. The art
+style was kinda glowy and warm looking but it took place in this
+little grove of some sorts and you interact with a bunch of other
+inhuman monster looking creatures. It wasnt a scary game, and the
+only thing I remember was having a choice between a mean/ nice
+response (I was pretty young and didnt really understand a lot of
+it). I remember some sort of fuzzy guy and another monster that was
+like dying or something. Just hoping this wasnt some sort of fever
+dream."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

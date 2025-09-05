@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "speculative fiction, meditator encounters future incarnation
+of himself [s]. I read it in late 80s-early 90s, hardcover. A man on a
+spiritual quest finds a power spot in Hawaii and meditates there. The
+book follows his present-day life, interspersed with accounts of his
+mediation experiences. A man appears to him in his meditations, and
+the vision experiences get more and more complex. The man turns out to
+be a future incarnation of himself, living perhaps centuries in the
+future, after sudden rising sea levels have disrupted world trade,
+followed by total destruction of civilization-as-we-know-it. Iron and
+steel have become the most precious metals, because they can no longer
+be made - ore cannot be mined or transported, and technology for
+smelting has been lost, along with other technologies. (too early for
+internet to be mentioned, I think!)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy (YA?) stable boy dragon rider. [s]. Stable boy gets
+dragon egg i believe, and in later books (2&3) he(they) fight this
+other country that is all about magic. I think their final weapon is a
+huge pillar with an eye that has crazy powerful destructive powers. i
+dont remember exactly when i read this, maybe 2004 in the USA(English)
+felt like it had an old feel to it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

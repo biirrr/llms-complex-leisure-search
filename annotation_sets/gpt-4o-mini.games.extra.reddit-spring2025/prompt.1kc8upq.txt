@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000's] A FPS game who look like CS game. Hello, so
+i've been wondering what was those games i was playing when i was
+young in cyber coffee. The game start in a rainy jungle where you have
+to be stealth and i know that in the end of the first mission you have
+to use a blowtorch. The game is a FPS, and got a gameplay who look
+like the CS games. I know it's not that much of an information, but
+it's all that i got \^\^'. Thx you for your awnsers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

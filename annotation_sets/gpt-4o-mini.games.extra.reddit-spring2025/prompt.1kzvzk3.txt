@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][2011?] Alan Wake like game in dark environment. I
+recall starting in a forest and crossing a small bridge(probably).
+After that, you moved through a quiet nighttime city to find your home
+I think. What really stuck with me was a cutscene involving the main
+characters daughter. She was afraid of the dark and monsters, and her
+dad explained that when you're lit up at night, you can't see what's
+around you, but everything can see you. And when you turn off the
+light, you become invisible and can see everything nearby. Does this
+sound familiar to anyone? I'd love to finally track this game down.
+Edit: Solved. GPT o3 with deep research found the game in second try.
+It was Splinter Cell: Conviction and I were only right about scene
+with dauther and dialogue about light and darkness and walking in the
+city but I didn't remember any shooting and fighting, maybe played it
+for only like 5 minutes and quit idk"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

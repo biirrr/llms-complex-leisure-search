@@ -1,0 +1,41 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [around 10+ years ago] Obscure survival horror FPS set
+in nuclear power station. Platform(s): PC Genre: Survival horror,
+first-person shooter Estimated year of release: Dont remember, but I
+reckon its at least 10 years ago. Graphics/art style: Graphics are
+dark, have a gloomy look to them. At the same time, the graphics are
+not the best and there is a PS2-era feel to it. Long story short,
+graphics are not good. Notable characters: A security guard named
+John, and some unknown person from Department of Emergencies Notable
+gameplay mechanics: You can pick up weapons later on in the game to
+fight zombies and other monsters, but emphasis is on stealth and
+getting away. You can hide in lockers. Other details: Okay, bear with
+me. The most details I remember are from the intro cutscene. Hope this
+helps. John is starting work at the nuclear power station. His
+girlfriend calls up and he says Hey babe, you know you shouldnt call
+me at work. As a security officer Im responsible for the safety of
+the power plant. What follows is a good amount of awkward exposition
+that outlines what John does at work. Then after the call ends, John
+plays some music and starts to dance (even somersaulting and briefly
+doing the Gangnam sequence). Then he falls asleep in his chair, only
+to knocked onto his butt by a huge explosion. When he comes to,
+someone from the Department of Emergencies calls him and he answers.
+The unknown caller tells him that there was an explosion and toxic gas
+is leaking out. He also mentions an EMP so no electronic devices are
+working. Then John asks what an EMP is, prompting this response, You
+work at a nuclear power plant and dont know what an EMP is? John
+protests, I am only a security officer, I am not a nuclear
+scientist. Anyway after some talk the call ends and John complains of
+his aching back, Damn, I must have hurt my back in the fall; I cant
+bend down! Then the game starts. Thats all I know. Again, I know
+its a lot to read but I hope it helps."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

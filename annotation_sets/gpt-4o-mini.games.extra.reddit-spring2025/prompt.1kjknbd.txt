@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020] indie or AA FPS, starts with B, looks like
+""""""""Haze"""""""". I'm absolutely lost, it's not an old game, it
+reminded me of the old Playstation game """"""""Haze"""""""", it was
+Indie OR bordering AA. I'm also very sure it starts with a B. I just
+cannot remember or find it, I'm going nuts."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

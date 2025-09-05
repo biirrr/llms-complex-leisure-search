@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Name of book by Jewish writer about growing up in the
+Depression [s]. This writer wrote very funny books about growing up
+desperately poor in New York in the great depression. His mother had
+many children, and many tactics to make ends meet. She was fond of
+washing the floors till they gleamed. I cannot remember author or
+title, just that it was bittersweet. Help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade] [Early 90s] Beat Em Up. There's a game up I played
+only once as a 12 year in an Atlantic City arcade the summer of '92.
+It was a beat em up in the vein of Double Dragon and Final Fight. I
+made it to a subway level where the boss character wielded a long
+chain with a spiked ball at the end. He would spin the chain and it
+would rotate in an ominous fashion and the reach was long. I couldn't
+beat this boss character. I can't remember the title of the game for
+nothin, and for that matter I never seen this game ever again
+anywhere. It's been haunting me for 33 years. Anybody know this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

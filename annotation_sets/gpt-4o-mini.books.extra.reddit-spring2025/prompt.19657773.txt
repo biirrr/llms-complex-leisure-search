@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Coming-of-age? novel. Hallucinating Krakatoa. Protagonist
+goes to pond wi small island, tells stories about how it's Krakatoa
+(or other volcano). Gradually imagines it's real, volcano explodes
+when life is going bad. Read late 1980s-1995.. I read this in the late
+80s or early 90s. About all I can remember of the plot is that the
+protagonist (boy? girl? I'm not sure) goes to this pond with a small
+island in it and tells someone stories about how it's Krakatau (or
+some other volcano), but gradually starts believing the stories,
+including one dark moment when their life is going bad and the volcano
+explodes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

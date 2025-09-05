@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "holocaust survivor and former nazi youth meet after war [s].
+non fiction book about a jewish woman who survived a camp (aushwitz I
+think) and a man who was a member of the hitler youth meet after wwii.
+they went around talking to students about racisim and why its wrong.
+There's a quote in it when the woman was asked about people revising
+history she said ""I refuse to discuss important issues with ignorant
+people."" I read it just a few years ago, but I can't remember the
+title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

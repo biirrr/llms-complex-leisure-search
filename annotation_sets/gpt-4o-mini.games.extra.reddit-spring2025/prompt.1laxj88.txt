@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Mid-2000s] Cartoon Network flash game, maybe from
+Scooby-Doo. I recently remember a flash game I used to play in the CN
+website where you had to investigate a creepy mansion and their
+gardens while collecting objects in a top-down view. I think it was a
+Scooby-Doo game, but I'm not so sure. I never finished said game, so I
+hope you can help me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[W1ndows XP][Early 2000's] An old 2D game that you enter a
+house and annoy the people. Platform(s): Windows XP Estimated year of
+release: Early 2000's Graphics/art style: 2D, maybe 2.5D. A cut
+section of the house is the main gameplay screen. Other details: I'm
+searching for an old 2000's game that you enter a house discreetly
+like a thief and mock/annoy the people in the house without being
+detected. It was a 2D, maybe 2.5D game. It was a fun game but I can't
+remember the title. Any suggestions?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

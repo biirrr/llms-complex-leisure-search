@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][After 2015] These are all very blurry memories, I
+think the game was about solving something, like a murder or a case,
+or finding something out. More in desc.. The game was very artistic
+and unique in its presentation, laid out kinda similarly to a webpage
+from what I remember, where you had multiple screens you could zoom
+and scroll around (I think) with sick transitions from one screen to
+the next. I found this game from a YouTube video essay on it I watched
+like a couple of years ago. I remember being upset that it wasn't on
+Android. Like a year ago, I'd found the game again after randomly
+remembering its name, but now I've forgotten it again lol :/ EDIT: I
+just remembered it probably had a number at the beginning of its
+title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

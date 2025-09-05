@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Woman with bright pink/ red hair wins lottery
+and restores an old theater. Read 2012-2016. [s]. I believe her name
+was Skye and she has a young daughter named Toni. Steamy romance with
+a bartender. Second book in the series is her more strait laced sister
+falling for a veterinarian."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

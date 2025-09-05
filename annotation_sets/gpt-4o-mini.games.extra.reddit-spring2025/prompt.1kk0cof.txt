@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-2005] A game with a guy in jail and a meteorite. I
+remember a video game where in a cinematic (probably in the
+introduction to the game) we see someone is who is locked in a prison,
+we see his fingers coming out of the small window with bars at the top
+of the door. He shakes the door. And then (or before) we see a
+meteorite crossing the sky. I played it on Windows and between 98 and
+2005, so it must date from that period. The overall atmosphere was
+quite dark and I have the impression (but I'm not sure) that the game
+was played from a first-person view. The aesthetic was very pixelated
+(even for that time). There was no SF, but rather
+supernatural/fantastic. The source of this fantastical aspect came
+from the meteorite, I believe. Can anyone see what game I'm talking
+about?!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

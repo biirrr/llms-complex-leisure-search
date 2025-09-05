@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance series. Woman sails over from
+England with her young daughter and becomes an indentured servant on a
+plantation in (South) Carolina. Her husband had been killed in
+England. Read around 2013? Spoilers. [s]. Looking for a book. I read
+it years ago but can’t remember the title or author. Possibly
+published mid 90s-early 2000s. It is about a woman comes over from
+England with her young daughter and becomes an indentured servant but
+eventually marries the man. Takes place in South Carolina. They bring
+over a pregnant slave girl with them helping her escape her owner. She
+gives birth at the end of the book when her master eventually finds
+her. He had been abusive to her. The original woman met another girl
+on the ship over who marries a man with 2 daughters and 1 son."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

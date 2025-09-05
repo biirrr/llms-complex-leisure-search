@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Party planning guide from a 1980s series of how-to books for
+Jr. High-ish girls, pink covers and black-and-white illustrations [s].
+The book has both specific party scenarios and general planning
+advice. Some of the scenarios include a girl who wants to have a
+museum party, a girl who throws a party in the park, a girl who
+transforms her parents' basement for a groovy 1970s party, and more.
+My mom had multiple books from the series, so even the series title
+would be super helpful! Again, these were aimed at girls from age like
+10ish, 11, up through freshman year of HS. The only other things I
+remember from the book are a quiz where you could find your party
+style or something like that, and a quiz about appropriate outfits for
+parties (I specifically remember a gold lamé bikini being mentioned as
+bad for a pool party xD)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

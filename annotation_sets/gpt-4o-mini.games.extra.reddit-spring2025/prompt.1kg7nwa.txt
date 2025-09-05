@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010] a game about saving your little brother.. I
+cant remember the name totally but I remember the premise,theres an
+older brother who finds his little brother annoying,so he goes on a
+website on his laptop (I think it was called something about wishing
+your little brother disappeared) and says the quote there,kinda like
+this magical chant,then suddenly a portal opens and sucks his little
+brother into it,and the older brother has to follow him in to save
+him,and I think in the other world you have this tool that lets you do
+things like releasing vines to grab onto. I think the end battle was
+that the main villain was this aging old wizard that swaps minds with
+your little brother and you have to fight your possessed little
+brother while the wizard (which is the little brothers mind in) tells
+you tips on what to do."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

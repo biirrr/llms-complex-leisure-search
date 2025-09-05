@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "7th grade Historical Fiction memoir set in the countryside.
+The cover was of rolling hills in the countryside with cows. In it, a
+teacher is an artist and paints nudes with a snake. Someone bakes a
+pecan pie or a fruitcake. A girl moves to the town from the city and
+is the new girl in class. She sends herself a fake valentine from her
+crush I think? These details are very vague but maybe someone can help
+me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

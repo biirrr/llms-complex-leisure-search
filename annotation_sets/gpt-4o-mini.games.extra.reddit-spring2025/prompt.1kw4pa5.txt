@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2022?-Now] A game like Stradew Valley that I saw a few
+months ago, the MC we played had ponytail hair.. I just saw the
+trailer a few months ago, and I forget what the title was and my
+memory of the game's content is a bit blurry now. Is farm pixel game
+as I can remember. We play as a male character whose hair is tied up.
+The character is quite well drawn and not flat drawing, has quite a
+distinctive art style, maybe if I am not wrong is little bit twist
+thing... I don't know... Please help me... I can't sleep peacefully="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

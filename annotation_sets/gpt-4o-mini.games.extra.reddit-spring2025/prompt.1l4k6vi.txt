@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][LAST CENTURY]Very colorful, 3D game with a horrible
+setting.. * **SOLVED** It was a game I didn't play directly, so most
+of what I remember is the lore. It was a third-person game where you
+play really weird, soft-spoken, blue-skinned man, and the setting was
+that the world had exploded a while ago and gods were fighting over
+floating isles ownership (no, it's not Project Nomad), while their
+enslaved magicians tried to sever the covenants between their rivals
+and their gods to banish other magicians. There was also a lot of
+warcrimes: you basically arrived in a new place, and immediately
+murdered all the civilians and peasants you met to take their souls
+and place them in deformed, abominable creatures that you ordered
+around, and some of them moaned in pain and begged to die. I remember
+the game being extremely hard because you would always lose souls to
+enemy magicians and run out of creatures. Also one of the gods had
+fingers like the bad guy in Coraline, very long and sharp. And another
+was a earthworm named Jim or something. I think it was a reference to
+an old Megadrive platformer with a traumatizing submarine sequence."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

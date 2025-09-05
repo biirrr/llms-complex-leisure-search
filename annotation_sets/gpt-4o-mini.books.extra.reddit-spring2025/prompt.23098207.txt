@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy novel about a boy who cannot be remembered, and
+goes on a voyage to get a wish granting item.. I only vaguely remember
+the finer details of the plot, since *I read it around 2020-2021* and
+my memory is terrible, but I distinctly remember that the main
+character (or one of them) cannot be remembered by anyone. He
+basically slides completely out of their memory as soon as they stop
+paying attention to him. Around the beginning of the book, after this
+boy is introduced, a girl is transported from her own, modern world to
+the boy's, near a ship run by a wizard, and they both end up on the
+same voyage for the item, on that ship. The girl can remember the boy.
+That's about all I can remember from the first book. The second book
+has them stuck in a place unstuck in time, and they face an enemy that
+is after the same thing as them. After some amount of time, (I'm not
+sure whether its near the end or not) the girl also forgets the boy,
+and leaves him behind somewhere?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

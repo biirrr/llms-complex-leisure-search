@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller/ Mystery read in 2023. Book cover was black
+and neon pink. Set in UK. Title mentioning secrets maybe?! [s]. Three
+women, friends since school but haven’t seen each other in years until
+one texts that she needs them. They meet back in the town where they
+went to school - one still lives there in a house that’s in disrepair
+by a bog or marsh. One now has a baby who she brings with her on the
+train. A body is found in marsh / bog, and the 3 women are trying to
+cover something up about one of their fathers happened while they were
+at school."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

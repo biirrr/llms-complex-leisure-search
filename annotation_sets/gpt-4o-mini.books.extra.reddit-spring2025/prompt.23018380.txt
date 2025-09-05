@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's/ Middle-grade series? Girl learns to play the
+piccolo (flute) in school. Cover: realistic, black girl holding
+piccolo, sparkles around her. Scholastic book fair? Read around early-
+mid 2010's.. So I read this book around the around the early to mid
+2010's and I think I got it at a scholastic book fair but I'm not
+sure. The cover is pretty distict I think; it's in a realistic style,
+there is a black girl who is holding a piccolo, there is photoshopped
+in sparkles surrounding her. I remember there being perhaps two books
+in the series the covers are pretty similar just one background is
+purple and the other orange (I'm not 100% sure though). I cannot
+really remember the plot at all but I'm pretty sure follows the mc
+learning music and doing school stuff. This may just me blending all
+the fantasy books I read as kid, but there is possibilty there is a
+magic element to the story? It would be great to know what this book
+is called, but if not possible that's okay!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

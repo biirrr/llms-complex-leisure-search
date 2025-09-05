@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. A group of girlfriends who keep each other’s
+secrets and secrets from each other. Spoilers.. SPOILERS Three
+girlfriends one is named Robin. They went to college together. One
+girl married her college boyfriend has a daughter with him. He is now
+abusive. Her friends suspect it but she never tells them the truth.
+She is planning her revenge on him. Robin is single and has an affair
+with her other best friends husband (not the abusive one) the other
+friend is married with multiple kids but her eldest kid comes from a
+different man (someone from college who she didn’t consent too)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

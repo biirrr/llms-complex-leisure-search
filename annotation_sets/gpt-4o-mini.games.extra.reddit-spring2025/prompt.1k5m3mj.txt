@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][mid 2000s-ish?] Game with customizable flying vehicles
+and on-foot gameplay where you can transform into many different kinds
+of people/robots. I can only vaguely remember playing the demo of this
+PC game. I want to think it was on a demo disc with several other
+games, but I can't remember. **Platform(s):** PC **Genre**: action-
+adventure? **Estimated year of release:** 2003-2006? **Graphics/art
+style:** Similar to Beyond Good and Evil. Futuristic. **Notable
+gameplay mechanics:** You can customize flying vehicles with different
+pieces of sets. Like the Fly and Gnat. On-foot gameplay, with the
+ability to transform into different people/objects. Transforming is
+considered an illegal activity and police will attack you if they
+witness it or you get caught. You can transform into a police robot, a
+flying sentry eye """"""""Observer"""""""" that you can accuse others
+of illegal activities, a Bishop robot that can fire a laser from his
+ring, a small office stapler robot that can jump high, and many
+others."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

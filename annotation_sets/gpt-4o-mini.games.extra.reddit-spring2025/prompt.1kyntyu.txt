@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Web][90-2000] Puzzle web game.. I remember a web game,
+called something like Third eye, maybe hidden or inner eye, that was a
+puzzle/logic web page, with something to do to advance to the game, or
+the next page. The first level was just click on a rabbit, but the
+later levels was more deep, like inspecting the page to get hints,
+checking the name of images to gain more info, renaming files to zip
+to find hidden files, type the answer yourself in the browser search,
+and the page even tell you when was fine to use google. The game was
+super hard, and there was a forum full with hints, but never the
+answer. I can't find the page, maybe is dead cause Flash is no longer
+supported. Somebody knows? And thanks for the answers."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

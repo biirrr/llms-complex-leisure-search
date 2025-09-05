@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Only] [Around 2000] Can't find a Stealth game with
+spells. Graphics/art style: Voxel, map divided by cubes Notable
+gameplay mechanics: You had different spells you could get from
+statues, some destroyed walls and others made blocks of walls for
+example Other details: The game had two other modes, one where you
+started in the snow next to a crashed plane, and other where you were
+in an asylum with immortal monsters, and a monster that followed you
+everywhere through walls. It also had a halloween mode with a DND
+monster I can't remember, but they were these black unkillable blobs.
+Sorry, I couldn't find the pics Edit: Sliding! It also had sliding as
+a core mechanic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

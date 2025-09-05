@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020+] A Turn Based Strategy Gruella warfare game. I
+think you play in a gruella warfare? and the game came out in the past
+like 3 years or so.. I remember playing it I think last year, but only
+the demo maybe not sure if it was paid or not ( most likely was ). i
+think it may or may not have a separate launcher"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

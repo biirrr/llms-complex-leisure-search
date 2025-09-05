@@ -1,0 +1,42 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction Reference: 1990s? essays about product failures
+turned into success. [s]. I wish I would have saved this book. It was
+a series of essays about products through to be failures turned into
+success. Tells story of new VP at Sony walking around and finding one
+R&D team with great music playing in the lab coming from tiny tape
+deck. They didn't market it because it had no record function. Another
+lab he finds some incredibly light weight earbud/headphone things.
+Engineers said the audiophiles didn't like them. He put the two
+together and the Sony Walkman was born. Story of Goodyear meeting with
+investors in shed heated by wood stove. Tires were so weak they could
+blow out without warning and ""can I kick the tires"" became part of
+American culture. In a fit of anger the new hunk of rubber slapped and
+stuck to the wood stove. When they peeled it off they found it was
+still flexible and much more impervious to damage. He got his money
+and people got vulcanized rubber tires. 3M engineers wanted to make a
+glue so strong it would make Crazy Glue seem like Elmer's School Glue
+by exponentially extending the drying time. Problem was it never
+really got fully dry and bonded to anything. It was a colossal failure
+until someone slapped it on the back of little yellow pieces of paper
+to create Post-It Notes. I put this in reference because that is where
+this site put ""Extraordinary Origins of Everyday Things""
+https://www.goodreads.com/book/show/2... and it is kind of in that
+vein. I was thirty-something when I read this book. Had to be in the
+1990s due to the Post-It thing I remember. Yes, the story doesn't
+quite match this one: https://www.post-it.com/3M/en_US/post... Well it
+does. That one just left out what they were trying to create and said
+""discovered."" Somehow I think the title had ""everyday things"" in
+the name somewhere. So far everything I've searched came up bust.
+Nothing in the TOC provided a swift boot to the head. Hopefully
+someone here read the book and can provide the title. I regret not
+keeping that book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

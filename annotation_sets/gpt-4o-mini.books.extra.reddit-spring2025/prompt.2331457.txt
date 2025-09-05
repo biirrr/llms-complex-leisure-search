@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teenage daughter on run trying to protect dad's
+work/software/computer ??? Maybe witnesses a murder [s]. I read this
+book in ... 2005 maybe ? I remember a teenage girl being home alone. I
+think at one point she was watching a webcam and somebody got murdered
+(idk why, but toothpicks are coming to mind ... potential murder
+weapon I think?) While she was home someone breaks in and she hides
+under a car and they don't find her I remember a pink jacket ?? She
+takes something that belonged to her father that was important (floppy
+disk?) and takes a car and drives off somewhere. I think she pretends
+to be a college student and uses the library to open the file. Also I
+think the book cover was some stereotypical 90s, early 2000's kind of
+cover with a girl in the half shadows or something. I can't remember
+how it ends and I want to find out what book this is. PLS HELP."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

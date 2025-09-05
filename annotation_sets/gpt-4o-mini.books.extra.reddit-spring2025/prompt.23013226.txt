@@ -1,0 +1,45 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller Action series. Late 90s. Teen girl, New York
+City NYC brownstone.. I’m looking for a series of thriller/action
+books about a teen girl that I read in the late 90s. There were at
+least 10 in the series; likely 20. The main character, a teen girl,
+did not have supernatural powers, but she was especially
+strong/fast/smart. She might have been trained or been genetically
+engineered to be this way, similar to the Bianca St. Ives character
+from the 2017 Karen Robards Guardian trilogy (adult fiction). There
+was a lot of action and suspenseful moments in the book: chases on the
+NYC subway, sneaking out of her brownstone, scary bad guys (some were
+low-level criminals in the city, and I think some were government
+agent types). She had an unhappy home life with a mean (but not
+abusive) stepmother or other female guardian. Her dad or father figure
+wasn’t involved much. I think people were after the teen girl as a
+larger part of the series plot, and that she solved smaller mysteries
+in each book, but my memory of the plot is hazy. The paperback covers
+were eye-catching, each with a mostly white background and some
+shiny/hologram aspects. I think the girl’s profile was on the first
+one and then covers after that were more abstract. I think she had
+really long blonde hair. Each book in the series was similarly named,
+maybe with “disappearance” in one of the titles. I read this series
+before the Fingerprints and Roswell series by Melinda Metz, and based
+on that, I think the 1998/1999 timeline of publication/peak popularity
+is correct. I think the series was by Alloy Entertainment, but I
+searched and came to a dead end so I could be wrong. Were Alloy books
+associated with Delia’s catalog back in the day? I want to say there
+was some sort of connection, but it might just be part of the late 90s
+setting in my memory. I think she developed a love interest with a
+really good guy in the first book, and it was a mostly friends thing
+until later in the series. While this series wasn’t as memorable to me
+as the Fingerprints and Roswell series (I reread the latter as an
+adult on my Kindle and it holds up! Plus, there was the TV show.), I
+do recall enjoying the action immensely. Hoping someone can help.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

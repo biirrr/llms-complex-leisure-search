@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-2000] Dark Fantasy, action dungeon crawler.
+Platform(s):PC Genre: Action Dungeon Crawler Estimated year of
+release: 1990-2000 Graphics/art style: Dark fantasy, Top down (very
+simulare to GTA 1 and 2) Notable characters: 3 playable choices Melee
+dwarf with big hammer Fire mage, might have been a lizard humanoid 3rd
+, i cant remember Notable gameplay mechanics: real time combat,
+swarming enemies , light puzzle solving Other details: i think there
+was a level up system , and there were hidden items and power up items
+scattered around the maps i cant remember the name of the game and
+thus i cant find any images whatsoever of the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

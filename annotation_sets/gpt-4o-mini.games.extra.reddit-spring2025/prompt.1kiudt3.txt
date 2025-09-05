@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox360][2005-2010] Objective based team shooter.
+Objective-based team shooter, red vs blue?, had katanas, some
+characters had rocks on their skin and there was a brute type
+character, they had abilities, also I think there was a ninja
+character or something"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

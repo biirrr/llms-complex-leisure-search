@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] What game is this?. It was a Western first-
+person shooter. From what I can remember, it was black and white, and
+I think it was multiplayer. If not, the bots were quite good. Everyone
+had a choice from four different guns and a melee weapon of some sort,
+and everyone had a dynamite stick. The gameplay was quite quick, and
+the maps were quite compact. One last thing I can remember is that
+there was a piano you could interact with, and it would start playing.
+I tried to find it on Google, but with no luck. Servers for the game,
+if it ever had any, are probably down by this time. I just wanted to
+know the name of the game. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

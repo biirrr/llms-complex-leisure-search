@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox360] [2010s] Cool ass game where you fought a demon
+while jumping on cars. I remember seeing my father play this game when
+i was younger, but i truly don't rember the context around it. It was
+3D, third person, i remember only a bit about the protagonist and this
+specific scene. The protagonist was the epitemy of
+""""""""cool"""""""", he was this dude with an anime haircut, long
+black clothes and a Katana. There was a sequence where you were
+jumping on top of cars to chase a monster (who was on top of a truck
+and would throw stuff at you). This monster had a human face and a ton
+of tentacles (which i don't remember if they covered a part of their
+body or all of it). If someone could help me find it i'd be gratefull"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

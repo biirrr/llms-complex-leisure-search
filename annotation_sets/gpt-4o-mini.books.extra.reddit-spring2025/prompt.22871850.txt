@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance book duet. Female main character passes out in
+club the male character owns with his brother. She has a fear of
+leaving the house due to being in the 9/11 attack. He ends up being in
+the 2015 Paris terror attacks later in the book.. Hi. I read the 1st
+book in this duet last year (2023). Female main character is scared to
+leave her house she has a fear of leaving and it turns out later in
+the book it was because she was stuck in a train cart when the 9/11
+attacks took place. At the beginning of the book her sister/stepsister
+talks her into leaving for a club and she takes a pill to call her
+down and ends up passing out in the club which is owned by the male
+character. Male character takes her home to her apartment. Male
+character and his brother own the club, they took it over after their
+father was sent to prison after being investigated by the FBI for I
+think drugs and are cleaning up its act. Later in the book the male
+character flys to Paris for a wedding (I think his friends) and ends
+up being in the club when the 2015 Paris terror attacks took place. He
+and his friends survive but one is badly wounded. The next book is
+about the other brother and the female character is an undercover FBI
+agent that was working the club case when his father was the owner,
+she got close to the male character but disappeared, I didn’t get to
+read that one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

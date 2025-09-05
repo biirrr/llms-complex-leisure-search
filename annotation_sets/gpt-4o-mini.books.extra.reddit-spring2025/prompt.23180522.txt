@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Heroine and Hero do the devil's tango at
+hero's engagement party to heroine's sister. Read around 2016-2019.
+Spoilers.. SPOILERS: Ok, I think I read it 2016-2019. It's about an
+asshole hero who is about to get engaged to heroine's sister. The
+heroine has a crush on him. He finds her in her room and I think they
+do the devils tango and get found out by her sister that freaks out.
+The hero ends the engagement. The family of the heroine disowns her
+and throws her out. Years later I think she struggles for money and
+happens to meet the hero and begin to have an affair with her. He
+treats her like shit, always looking down at her and insult her in
+front of his friends. It's a series of books. I have read the first
+one. It end in cliffhanger where a friend of his have sex with the
+heroine in the kitchen and the hero finds them and throws the heroine
+out. It's contemporary."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

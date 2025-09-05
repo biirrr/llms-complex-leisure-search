@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy - Boy helps neighbor witch find her lost
+cookbook with spells. Tea magically comes out of sink faucet.
+Paperback, read 1988-1996 in US. A boy meets the new neighbor, an
+older lady. She has recently moved in. She tells him she had to move
+from her old house because the neighbors found out she is a witch and
+made her unwelcome. In the move, she lost her cookbook or spell book
+with the recipes for her spells. Once, she made iced tea come out from
+the faucet, useful for a party. A spell goes wrong and the whole
+backyard is filled with mint jelly. The book was lost during the move.
+They go to auctions and garage sales looking for cookbooks. They buy
+many boxes and books without finding her book. Eventually, they find
+it. The older woman is scared of being discovered as a witch. She
+lived for many years in her old town and had many friends. After many
+years, she decided to tell them she is a witch. She hosted a party at
+her home. Instead of being pleased, her former friends run away from
+her home. They told stories about how she was bad and tried to hurt
+them. She had to move away and is starting all over in this new town.
+The boy has a mother and maybe a younger sister. He is not old enough
+to drive. They live close by, next door or down the street. Read this
+in southern USA, somewhere between 1988 and 1995. It was a paperback
+from the public library or elementary school library."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

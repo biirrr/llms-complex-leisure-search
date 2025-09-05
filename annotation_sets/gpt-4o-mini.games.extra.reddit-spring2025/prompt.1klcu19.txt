@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DOS][Early 1990s] Apogee or Apogee-like shareware
+platformer. **Platform(s):** DOS **Genre:** Platformer with shooting
+**Estimated year of release:** Early 1990s **Graphics/art style:**
+Apogee art style **Notable characters:** Player character was a blond
+guy with a gun. I also distinctly remember an enemy that looked like a
+hairball with one leg, and the leg was wearing a high-top sneaker.
+**Notable gameplay mechanics:** Typical jump and shoot platformer.
+**Other details:** Games it is not, but are similar aesthetically: *
+Duke Nukem * Commander Keen series * Cosmo's Cosmic Adventure * Bio
+Menace * Secret Agent * Billy the Kid Returns * Crystal Caves"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

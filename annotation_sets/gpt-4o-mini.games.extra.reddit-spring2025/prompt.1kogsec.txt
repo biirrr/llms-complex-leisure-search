@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [1994 -2004] A game about fighting as an alien against
+other aliens. My boyfriend is looking for his childhood game that was
+on the PlayStation 1, you were playing as an alien fighting other
+aliens, you were in some kind of arena and you would look down upon
+the action, and once you died another alien could be chosen or it
+would automatically choose one for you, there was also a mode where
+the combat would be turn based, in terms of characters, there was one
+that could run really fast and had arms like blades, and one that was
+blue and would cralw over the floor and lay eggs which would spawn
+little baby aliens which would attack the oponent aswel, and perhaps
+maybe a tank with spider legs"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

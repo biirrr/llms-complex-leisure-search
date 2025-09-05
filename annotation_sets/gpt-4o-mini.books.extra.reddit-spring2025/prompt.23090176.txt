@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance that had a ward-guardian
+relationship. This may be a long shot, but I read a book a few years
+back (book itself was likely older than that though) where a young
+lady had a friendship with a slightly older man who became her ward.
+When the guardian/ward relationship was established, the friendship
+soured because she was resistant to the control over her given the new
+role. However, the male guardian still cared for her and tried to get
+back into good terms with her until eventually he succeeded. She even
+came to realize that what she once thought was a friendship was
+actually more romantic feelings. Thanks for the help :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

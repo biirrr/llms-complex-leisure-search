@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance. Heroine is hiding aspects of her
+true nature. There's a shooting event at a house party and the Hero
+encourages to stop holding back and she proves to be a great shot..
+Regency or Victorian, MAYBE going into Edwardian Era. England.
+Probably read in the past 5 or so years, book felt like it was
+probably written in the last 10-15 years. I don't recall why but the
+Heroine is going out of her way to seem ordinary or not to draw
+attention to herself. During a shooting event at a house (house party
+in the country maybe?) the Hero notices that she's deliberately aiming
+off target and challenges her to show off her actual skill, which she
+does. Literally the only scene I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

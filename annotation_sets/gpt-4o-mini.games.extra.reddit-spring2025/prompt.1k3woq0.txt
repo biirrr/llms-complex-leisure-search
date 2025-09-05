@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [circa early 2000s] Fantasy RTS with RPG elements. I
+remember it was a game with a difficult campaign (I think you started
+with an wood elf like faction). Every game you started with a hero.
+This hero could level up but also it could build (I remember in some
+ocassions trying only leveling my hero instead of building my base and
+army). In the campaing and the custome battles, the maps would have
+neutral mobs and thouse qould allow your hero to level up in the
+beggining of the game. I think the look/aesthethics were like Majesty
+2. Please help and excuse my english."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

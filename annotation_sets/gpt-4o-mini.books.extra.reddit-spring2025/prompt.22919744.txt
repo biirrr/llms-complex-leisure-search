@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. ‘One Day’ or maybe ‘Every Day’ in title. 2
+people meet for first time in Louvre, Paris. The lights go out but
+they get along. Then they meet a lot of years later without realising
+it was the other person from all those years ago.. Was recommended
+alongside christmas-holiday books like one day in december by josie
+silver"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

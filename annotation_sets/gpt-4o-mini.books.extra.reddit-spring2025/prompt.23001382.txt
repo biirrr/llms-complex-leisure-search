@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Rom com/ enemies to lovers (audio) book read in the
+last two years.. Okay, so I dont remember the titel or author, but am
+pretty sure that it was a female author. I listened to it in the last
+two years, and it didn't feel like an ''old book''. Main characters
+were mid twenties/early thirties. Male and female lead. They were
+doing a radioshow together (about dating advice) and one of their
+favourite fans (an older woman, who had gotten a lot of romantic
+advice on the show) gifted them a stay at her ''love cabin'' while she
+was out of town - I think she was going on a trip with a new boo. I
+also think its was the hometown of the male lead, but am not sure i
+remember it right. I know that it hasn't been ages since I heard the
+book, but I've been through all of my listening/reading services and
+cannot find it! It was a cute and funny enemies to lovers romance
+book. Hope you guys can help me find it! Thank you for your time!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Traveling couple from 1800 or early 1900 written by the wife
+about her husband their travels. [s]. I think most copies had a zebra
+pattern on the cover and the storyline is either from the 1800 or
+early 1900 and starts with her husband being a teenager going around
+the country photographing familys for money with a old fashion camera
+(like photographer puts a sheet over his head kind of camera :) and he
+meets his wife when he's photographing her and her family. A few years
+later I think they meet again and get married. Then he travels in a
+boat to africa or some other far away country, I think she comes with
+him on this trip but she might join him later on with his other trips
+too. The whole book is written about their life together and all their
+travels. I want to say its called my wonder life or my wonderful
+marriage or something like that maybe, or maybe it's just that it has
+three words in the title im not sure. Its a thick books probably
+between 300-700 pages. I think the book was released in the 60's but
+again I really can't remember that for sure. Thanks for any help you
+can give me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

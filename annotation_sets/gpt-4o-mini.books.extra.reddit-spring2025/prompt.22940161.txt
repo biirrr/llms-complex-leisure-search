@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Fiction: Former classmates who reunite
+for a wedding. Spoilers.. This is so silly, I read it just a few weeks
+ago, and I've already forgotten the title! The story is about a group
+of former classmates who reunite for a wedding. It's two of the
+classmates who are getting married - they were a couple when they were
+in school, then they both married other people, divorced, and found
+each other again. There's some urgency to the wedding because she's
+dying of cancer. His adult daughter doesn't like her at first, and
+they're disappointed that she's not coming to the wedding, but of
+course she turns up just as they're about to walk down the aisle.
+Multiple perspectives - the story is told in both present-day and
+flashbacks, from the POV of each of the classmates. The wedding takes
+place at a hotel which is owned by one of the former classmates. She's
+the widow of a famous poet, and it comes out over the course of the
+story that he was cheating on her. One of the other classmates never
+married, because she has been having an affair with a (married)
+professor all this time; she still teaches at the school they all
+attended. One of them is rich and obnoxious, and married to an ice
+queen who doesn't fit in at the beginning but turns out to be on the
+side of the former classmates by the end. Several of the former
+classmates were on the baseball team together; one of them was good
+enough that he might have played in the major leagues, but he died
+right after graduation. Lots of unpacking of this in the present day
+parts of the story. One of them brings his husband to the wedding;
+lots of unpacking of this as well. And in case there weren't enough
+tropes here, there's also a big snowstorm that keeps them inside
+longer than they expected. Obviously I have a good recollection of the
+story, but the title and author have completely escaped me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

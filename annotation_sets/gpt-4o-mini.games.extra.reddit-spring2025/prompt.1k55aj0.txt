@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [mid 90's] on a Pentium II 486, The game was Egyptian
+based and you explored a pyramid and had to solve puzzles.. I can
+picture the game in my mind. Like looking at a puzzle on the inside of
+a pyramid and trying to solve it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

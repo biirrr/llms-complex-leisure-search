@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance, Regency/ Victorian: Companion
+spies on rake leading to relationship. Read 2015-2020..
+Regency/Victorian era. Read 2015-2020, possibly an older author (?)
+The woman is companion to a family. The man is part of the family
+(son/nephew?). The woman sees the man having sex with a maid in the
+library and is curious/aroused which eventually leads to them having a
+physical relationship. **SPOILERS BELOW** the woman ends up getting
+pregnant (they did not use contraceptives because the man had
+measles(?) as a child and was thought to be barren). She runs away/is
+kicked out of her position. The man searches for her and eventually
+they have a HEA."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

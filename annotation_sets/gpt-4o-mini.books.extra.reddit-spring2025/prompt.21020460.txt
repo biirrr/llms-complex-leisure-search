@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens/Middle School - Time Travel/Scifi - Children get
+taken to the future to act as spies and befriend the evil prime
+minister's daughter. Read 2005-2009.. 2/3 children (1 a girl) get
+taken forward in time to a near future Britain by rebels(??) who are
+trying to overthrow the prime minister (possibly named the president).
+They are sent to school with the prime ministers daughter (Possibly
+named Stella??) and told to get close to her. I mainly remember the
+technology: - All the people in the future have weird green eyes as
+genetic modification of fetuses had been perfected and all parents
+were picking green eyes and now it's stuck. The kids have to wear
+contacts as they have brown eyes. - There are replicators for food
+that will create anything you ask for but the replicator at the school
+will only create healthy options. - There are clones. - There is a
+water slide that runs from the kids hotel room down to the pool. - At
+one point the kids and the prime ministers daughter use holograms to
+make a music video. That is about everything I can remember. I read
+this sometime between 2005 - 2009."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

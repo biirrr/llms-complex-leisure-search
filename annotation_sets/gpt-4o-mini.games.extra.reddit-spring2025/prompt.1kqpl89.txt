@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1995~2005] 3D Space game isometric style like
+Starcraft. Hello! I hope you can help me. I'm looking for a PC game I
+played in my childhood (around 1997-2004). I'll try to be as
+descriptive as possible (warning, my memory may be failing me). It was
+very similar in style to **Starcraft**, with an isometric 3D view,
+where you controlled a scout ship and had to attack enemy bases (like
+control towers). These towers were guarded by enemy ships that had to
+be defeated. I think the objective was to destroy the towers and
+escape through a hatch. There were no people or robots that I
+remember, just ships. The aesthetic was 3D, but in my opinion, quite
+advanced for its time. Dark, jungle-like space environments. You could
+also pick up other weapons or ammunition lying around the field to
+attack enemies. As I recall, it was a **CD** game. My PC was a Compaq,
+with a Pentium II or III. It didn't have many resources, but this game
+handled it very well. As I recall, it was played with **WASD** to move
+and the arrow keys to rotate the ship. I don't know if it could be
+considered an RTS because it was just moving the ship and shooting.
+I'm leaving some reference images of similar games I found. I
+appreciate the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

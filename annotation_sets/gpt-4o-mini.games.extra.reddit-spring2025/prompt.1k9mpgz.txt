@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s] A game about a crazed woman and partner
+(player)[Steam PC] Horror FPS. l've seem this indie game on someone's
+stream and trying to download it but forgot the title. It's a modern
+game made within 5 years but use ps1 like retro graphics, it starts
+with player waking on the bed with next to a woman wearing glasses,
+Same senerio repeats every morning, but she gets crazier each day,
+feeding player with weird food and eventually locks player in the
+basement. The goal of the game is trying to escape or kill her~ which
+game is this?? ( believe it's available on steam as well..)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

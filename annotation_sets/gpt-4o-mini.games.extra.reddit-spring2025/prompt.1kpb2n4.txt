@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1/PS2] [mid 2000s] Driving game with pedestrians and a
+nuclear explosion. **Platform(s):** Definitely PlayStation 1 or
+PlayStation 2 **Genre:** Driving / Action **Estimated year of
+release:** Mid 2000s **Graphics/art style:** Semi-realistic / urban
+**Notable gameplay mechanics:** You drove a car, could run over
+people, and after some seconds there would be a big explosion  the
+screen turned completely white. This happened every time, like a
+built-in timer or game over mechanic. **Other details:** * Might be a
+specific game mode within a bigger game * Could have been part of a
+demo disc or a less-known title * No clear objectives  just driving,
+causing chaos, then boom Ive been trying to remember this game for
+years and any help would be really appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

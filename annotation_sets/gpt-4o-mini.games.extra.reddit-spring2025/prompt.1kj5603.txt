@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2024-2025:uncertain] evil red haird princess. Trying to
+find this game where an princess is trying to conquer her a kingdom. I
+don't remember the proper name. But to I know it a turn base rpg with
+2d character models and sprites it also had demo on steam and
+japanease dub If someone knows the name I would appreciate that
+Solved: The Great Villainess: Strategy of Lilly"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

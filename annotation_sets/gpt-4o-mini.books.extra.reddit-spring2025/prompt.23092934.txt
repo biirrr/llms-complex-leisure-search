@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Fantasy series. Sisters who find portal in
+aunt's attic, leading to fantasy world with unicorns. Read around
+2019-2021. Spoiler.. Read in around 2019-2021, aimed at middle school
+age most likely. A girl and her sister, (maybe named sofia) find a
+magical world in their aunt's attic, climbing through a ladder and
+ending up in a well. The aunt disappeared, they later find her in the
+world. The title had something about unicorns, as it mainly revolves
+around the last unicorn in the world. I think the sisters go to a
+school type place there, and meet characters called cenna and nett,
+and they have like powers with the elements. I'm also pretty sure the
+older sister, Sofia?, turns into a unicorn, and gets hunted. I also
+think it was a trilogy, and the cover had like a unicorn silhouette."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

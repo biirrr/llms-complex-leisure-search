@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS/ANDROID] [Around 2021-2022] A Rhythm game. It had this
+sort of anime type style to it, there was multiple characters to
+choose from via paying with in game currency. From what I remember it
+was a sequel to another game, which wasn't rhythm related. One
+character I remember was a younger girl with a giant rabbit that would
+hit certain rhythm beats for her. I believe there was also a plot
+point where a demon woman would occasionally come and fight you,
+making the song a bit harder each time. This is sadly all I remember
+so please if you know what l'm talking about, inform me!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

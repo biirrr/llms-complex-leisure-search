@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Steam] [Sometime around 2020] A fast pace shooter where you
+are on a time limit to get through a level.. Just so you guys no, most
+of my information probably won't be 100% correct so you need to give
+it some leeway, and also I'm not sure if i formatted the post properly
+but I tried my best. Onto the game, I remember it looked similar to
+doom but the visuals were much more trippy and hard to look at. You
+also had a gun like doom and had to make it throughout levels and try
+to survive. You would also have a head in your left hand, the head
+would have liquid inside of it and when it ran out of it your
+character would die. You could refill some of the liquid by killing
+enemies throughout the level or completing it. This was the best
+description of the game I could give, any responses will help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[itch.io?][mid 2000s?] Japanese gore puzzle game. I remember
+this game, it was like 8 bit theme. You click and you can like change
+rooms. I definitely played it on itch.io You have to save like several
+girls but one of them are like traitors? All of them were kidnapped
+and were placed in different rooms with different puzzle and we have
+to be careful and time it correctly or else one of them would die. I
+remembered this one blonde girl was restrained by ropes in the air and
+you had to pull like a lever? And its possible you could rip one of
+her legs and feed it to the zombie to save the other girl who is
+trapped with zombies. How I remembered the ending was that they manage
+to escape on a helicopter. Its a pretty cute pixel game but with gore
+f Im going insane trying to find it omd! Please help me find it! I
+think it has a japanese(Romanised) title"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

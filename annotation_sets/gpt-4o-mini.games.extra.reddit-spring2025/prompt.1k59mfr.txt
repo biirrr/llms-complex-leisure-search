@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [2000's] Pixel nude street fighting game. It's a
+pixel street fighting game that i used to play in a console(idk what
+it was but i remembered playing mario/spiderman on it) wherein you can
+walk around the street(to save someone kidnapped) and beat people up.
+the interesting thing is the guy has his dick out and there is also a
+way to regain your health and it was either to eat or ask the waiter
+for a smile or sex.there is also a SFW version of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Harmless-looking game with pole-dancing man that
+jumpscares you with loud sound. Hi! I'm trying to remember a strange
+PC thing I experienced as a kid in the early 2010s. It started out
+looking funny I remember a man dancing (maybe on a pole) like a silly
+animation But after clicking or waiting a bit, it would suddenly play
+**extremely loud high-pitched sounds** and flash something disturbing
+on screen (possibly a creepy face). My siblings and I had to force
+shut down the computer whenever it happened. We thought it was a virus
+or a prank game. I know this sounds like one of those joke apps from
+USBs or sketchy websites. Does anyone else remember this? Id love to
+know the name or origin"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

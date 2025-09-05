@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [Unknown] a game that we can build a spaceship.. Im
+trying to identify a rare and obscure RTS game I played on PS2
+(possibly other platforms) before 2013, likely from a pirated/bajakan
+disc. The game features: """""""" Sci-fi theme with large spaceship
+(like a carrier) building/customization system. """""""" You can add
+components like thrusters, anti-gravity devices, weapons, and weights
+to your ship. """""""" Battles happen on a planet surface (not outer
+space), involving enemy bases and other large ships. """""""" The
+gameplay is mostly watching your ships fight in real-time; you dont
+control units directly during battles. """""""" When ships move, the
+view is top-down, but when they approach enemies, the scene switches
+to a more 3D battle perspective. """""""" The graphics style is
+similar to Homeworld: Cataclysm or Nexus: The Jupiter Incident (though
+the latter was never released on PS2). """""""" There are dialogue
+scenes with avatars of characters like a captain, a female officer,
+and possibly aliens. """""""" A unique mechanic: if you put many anti-
+gravity modules, the ship floats high in the air; even when destroyed,
+parts with anti-gravity can keep floating. """""""" The name might
+contain the word Defender, but this could be false memory or part of
+a bootleg title. """""""" The game might have been a prototype,
+cancelled project, or modded version distributed unofficially. Im
+looking for help to identify this game or any leads to similar rare or
+unreleased PS2 sci-fi RTS titles with ship-building and anti-gravity
+mechanics"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

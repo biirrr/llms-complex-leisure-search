@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade/ Kid's book. Teenage girl main character,
+summer time. Read around 2020-2023.. I read this book in around
+2020-2023. I believe that I read this book on a website called Epic!.
+It was a kid's chapter book, maybe middle-grade, about a Jewish(?)
+girl, whose family moves (or visits a relative?) in a new apartment.
+Story takes place in the summertime. She makes a reference to the
+children's book Madeline, stating how Madeline found a crack on the
+ceiling that looked like a rabbit. However, when she looks on the
+ceiling of her new apartment, she finds cracks and mildew stains, but
+no rabbit. She makes a friend: a girl her age, who she invites into
+her apartment. The girl lets her wear her cross necklace. When her
+mother sees the cross necklace on her neck, she gets upset. Her
+apartment building has a pool, and her relative encourages her to go
+swimming. But when she was younger, she almost drowned, and has been
+scared of water ever since. However when her little brother falls into
+the pool and almost drowns she jumps in to save him. The little
+brother is hospitalized, and when the family visits they bring
+electric candles (because the hospital did not allow real candles) and
+pray for him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flashgame][2015-2020ish] Simple side scroller, pixelated
+flash game, with a red color palette. Can't for the life of me
+remember a title but I remember playing this on CoolMathGames back in
+like middle school (Instead of doing work, obviously) but I think it
+had a one-word title. I clearly remember it starts with your character
+facing to the left at someone's grave, then you go to the right and
+the enemies are snakes and bats. I'm fairly sure you had to Mario jump
+on them to take them out. It was on the most played at the time it was
+new, if I remember right."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction by comedic female writer, circa 70's-80's,
+linked to the U.S. sitcom ""Dear John"". [s]. Help! I am looking for a
+book by a comedic female writer, circa 70's , 80's. Thought i never
+watched the show, she was somehow linked to the sitcom, ""Dear John""
+the American version. I think I had two of her books - lent them out
+and never saw them again. She write rants, and one of them is called,
+""Middle aged looney"", where she goes on about ""wearing clothes that
+are too young, I think she mentions Forever 21,and ""scarf
+action""...does this sound familiar to anyone??Thanks a mil! -Tara"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser Game, Flash] [Unknown] A hack and slash Flash game
+with vaguely East Asian aesthetics where you are playing as a samurai
+/ ninja liberating your home region (?) against an invasion.
+Platform(s): PC browser game, Flash Genre: Hack and slash Estimated
+year of release: Unknown, most likely early 2010's Graphics/art style:
+2D graphics, side view, I might misremember, but I feel like the art
+style was kinda similar to Flash games like Siegius and Earth Taken
+Notable characters: If I remember correctly, the main antagonist was
+an elderly man with a stereotypical """"""""old martial artist""""""""
+beard and hairstyle who was a mentor figure / commander to a tall
+general wearing heavy spiky armor. Notable gameplay mechanics: One of
+the unique mechanics I remember is that you were supposed to save
+peasants from big cages, after you did so they would bow to your
+character and run away. You could restore your HP by getting food from
+broken crates, barrels, etc. There were different missions you chose
+between by using a map. One of the locations on the map had friendly
+NPCs that could sell you stuff like different weapons. Other details:
+The game started with a cutscene of invaders preparing for their
+conquest. The first mission begins with our character fighting against
+the invaders in a burning village."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

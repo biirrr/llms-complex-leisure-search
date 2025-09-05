@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2008-2011] 2D platformer with knight in armor,
+magic enemies, and weapon upgrades. I'm trying to remember the name of
+an old mobile game I played around 2010-2011 on a phone with a
+physical keyboard (Nokia or Blackberry). It was a simple 2D platformer
+with pixelated graphics, where you control a knight/warrior in armor.
+Levels: The game had levels like grasslands and snow areas. Movement:
+The character could jump and climb stairs to progress. Enemies:
+Enemies were mainly knights and guards, and some could cast magic
+spells. Combat: You could equip weapons like swords and hammers to
+fight enemies. Graphics: The game had 8-bit style graphics, very
+simple but fun. If anyone knows the name of this game, please let me
+know! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

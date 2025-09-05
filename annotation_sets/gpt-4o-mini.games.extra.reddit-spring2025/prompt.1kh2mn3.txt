@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] a game about rescuing robots. A 3d game with a
+brown desert aesthetic, I remember having to rescue blue, yellow and
+red robots, there was a concert stage where you could transport the
+robots to play music, the car was customizable but it was a buggy,
+blue robot was in an orange cot, and the yellow robot was shaped like
+gumdrop, and a magnet scrapyard that could take the robots of the car,
+also racing against a shadow buggy sometimes I don't remember the
+exact release year but I do remember playing it around 2011 on an old
+computer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][late 90s, early 2000s] Racing game with different
+characters/cars (orange sports car, tow truck) and you could get
+chased by police. You could also play as the police in split screen
+There was a snobby sports car driver A tow truck driver Some Hollywood
+type chick I think? Intro scene has the characters in their vehicles
+getting into some road rage or just a race and flying by a cop on the
+side of the road which started to chase them all I think"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

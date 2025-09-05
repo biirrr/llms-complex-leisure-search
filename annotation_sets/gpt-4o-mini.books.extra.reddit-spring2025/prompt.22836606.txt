@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA SciFi. Desert Wasteland with Quadrants that have
+different 'anomalies' and artifacts. Spoiler.. Its a book where there
+are these people that train to become these explorers in this
+wasteland that is arbitrarily split into different quadrants after
+these alien robots have taken over. Each quadrant has different
+anomalies, like one I remember is a big gravity well that is a pillar
+of light that a city is built around because the gravity is so low
+they can build really high. They have this book with information about
+the anomalies and what quadrants they are in. There are also artifacts
+that get like frozen in time from when the wasteland was created, I
+think one was an abacus, and they have special properties or powers.
+There is also tribe that is super in tune with the wasteland and they
+are DNA themed and have cool rods with multicolored crystals on them
+and they can flip around and do agile things while traversing. (Slight
+Spoiler) The anomalies begin to change and some go between quadrants,
+leaving their book basically useless. The gravity well stops working
+and the whole city falls and breaks, and the robots are looking for
+the main protagonist because she is the ""Zion"" and catch her and
+hold her in some warehouse next to a gas station. I also remember some
+town of metal or airplanes or something with an elevator in it that
+gets attacked by glowing balls of electricity? I don't know why I
+remember so much about the book and plot but cannot remember any
+proper nouns regarding the book. Thank you guys so much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

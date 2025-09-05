@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000s-2010s] [horror?] [console/maybe pc?] a game where u
+play as a boy and kill or ruin the lives of ur family. apologising bc
+i have asked abt this game before but it was a while ago on an account
+i no longer have access to. the 2 sections i remember were u causing
+an icicle to fall and impale the eye of someone who looked to be ur
+families butler and catching a family member cheating on their partner
+and trying to take a picture of them having sex, u would lose and
+restart the section if he saw u. i never had this game myself, i
+watched a jacksepticeye playthrough and i remember he kept getting
+caught by the cheating family member before he figured out what to do
+lmao."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Set in US in mid-1900s about woman who goes camping for
+therapy. [s]. I read this in the 1980s. It was an older hardcover with
+no dust jacket. It’s about a city woman with some kind of illness or
+disability who ends up going to a rural, wooded area of maybe
+Minnesota or Wisconsin. She has never spent any real time outdoors,
+and especially not in the woods. She hires a local man as a guide to
+take her into the woods. I thinks she begins by walking some distance
+each day with him, and he often has to help her. Eventually she
+decides to stay overnight once. Ultimately, she ends up camping alone
+for weeks or longer, and her illness or disability goes away. It’s a
+kind of “journey of discovery” book in which she learns about herself.
+The title might mention a lake or a river. I believe the book dates to
+about the 1940s or 1950s. This is SOLVED. It turned out to be
+nonfiction, “The Healing Woods” by Martha Reben. Thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

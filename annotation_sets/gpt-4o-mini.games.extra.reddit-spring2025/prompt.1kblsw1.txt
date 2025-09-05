@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps1-2][1994-2000?] 2D ps1 game where you parachute on top
+of a moving train as a first mission. I've been trying to find this
+childhood PS1 game. You start off as some type of special ops and the
+first mission you have is parachuting on top of a moving train. The
+second mission you fight some terrorists which can come with moving
+vans. The game is on 2D kinda looks like Megaman. Would appreciate if
+anyone can help find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

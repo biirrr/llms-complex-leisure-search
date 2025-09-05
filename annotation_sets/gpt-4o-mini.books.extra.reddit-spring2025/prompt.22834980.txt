@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. A mother comes back after being in prison to
+reconnect with her daughter that she had to leave. Daughter is living
+with paternal grandparents, that don't want her to reconnect. Read
+2018-2022. [s]. I unfortunately cannot remember many details or
+details are hazy but the mother comes back from prison (she was in for
+what turns out to be an accident / not her fault) for killing her
+then-boyfriend/ fiancee /also the daughter's father to reconnect with
+her daughter. She reconnects first I think with the best friend of her
+daughter's dead father who is an uncle to her daughter. The
+grandparents don't want her to reconnect because they blame her for
+the death of their son. She ends up falling for the best friend, the
+daughter continues to live with her grandparents but builds a good
+relationship with her mother. Read it I think between 2018 - 2022. The
+author is female. Thanks a lot, has been in my mind for some reason in
+the last few days."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] its a first person 3d tile rpg dungeon crawl you
+are a group of prisoners on an abandoned island 5 person front and
+back row chained together multiple different races including Minotaur
+and rat man I believe it had a unique spell casting system and alchemy
+system. The pc and 2000 year are an approximation, I also didnt know
+what to refer to the view thing as but its like might and magic 6
+kind of movement or persona 2 dungeon movement"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1998?] RTS type. I tried to find an old game through
+chatgpt but unfortunately I couldn't So I'll describe as much as I
+remember. I think the game might not have been super popular, it had a
+game style like KKND2. I think I only had a demo of this game, it
+started in the middle(center) of the map in a city with various
+buildings and enemies were placed on the edges. I definitely remember
+3 factions of enemies, on the top right they had a building factory
+type with skull, I associate it with green color. On the bottom right,
+units with access to dinosaurs were red. On the bottom left, I think
+yellow, futuristic units with warriors and saber swords. I think you
+could lose buildings (enemy control them) but I think you could take
+over an enemy building too and have his units. I also don't know how
+to collect resources. I had this game on a pentium 3 computer. It was
+not turn based more like RTS \## Update ## i think some unit looked
+like punk guys and there where some kind of semi cars with guns."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

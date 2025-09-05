@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2017] 2D game about a female fighting creatures.
+In this game you play as a female that uses guns in order to fight
+creatures during night-time. There are multiple stages. You can unlock
+other guns and in one stage you unlock a minigun. I used to play this
+game on a random online site that had millions of games. This is all I
+remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

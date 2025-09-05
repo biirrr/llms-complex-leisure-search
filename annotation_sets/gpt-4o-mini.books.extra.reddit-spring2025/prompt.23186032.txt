@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Mystery series. Villains are after eternal
+youth. Read 2020-2025. Spoilers.. I read this book series within the
+last five years. The author enjoyed using alliteration in their
+titles, which reminded me of Lemony Snicket at the time. However, I’m
+fairly certain the author was a woman. The heroine of the series—
+though it is later revealed the narrator is her male friend— goes to
+school with a girl who keeps giving her used lip gloss out of pity. In
+the first book, the girl meets the first of her two male friends, and
+they try and rescue a talented boy their age who has synesthesia. They
+find out a cult, led by a really old blonde lady, has been using the
+brains of children with synesthesia to give themselves eternal youth.
+The blonde lady is revealed to have led her her kind-of boyfriend to
+run away from a circus when he was creepily very young (she was
+already who knows how old) resulting in him abandoning his identical
+twin brother, who was thought to be murdered in a house fire at the
+beginning of the book, but is revealed to be alive. The twin brothers
+also have synesthesia, and they created a secret code only the two of
+them understood using the ability. The girl falls in love with her
+second male friend and her first male friend is revealed to be the
+narrator. Sorry for making this insanely long! If you read this, thank
+you SO MUCH!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

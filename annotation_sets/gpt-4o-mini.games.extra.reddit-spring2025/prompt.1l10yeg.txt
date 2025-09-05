@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[1990s][WEGO space] Help me find the name of a game!. I have
+been trying to remember a game I played as a kid for literal decades
+now. Its a sort of turn based space game. You have your ships at the
+bottom of the screen, and the turn begins with time moving forward a
+few seconds (just like in Battlestar Galactica: Deadlock, but from
+much earlier). Your ships are nothing more than shapes (triangles and
+rectangles and such). You can choose direction (forward, turn at a
+chosen angle, or boost) and weapons (some shoot straight, some track
+enemies). I remember loving the style, so Id love any more games with
+the same style! Please and thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

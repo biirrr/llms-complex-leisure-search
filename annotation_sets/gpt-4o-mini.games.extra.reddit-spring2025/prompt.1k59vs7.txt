@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/WEB?][2010-2013] a web browser 3d unity game about a
+pink axolotl that tries to get its stolen pieces of cake back by
+another magical axolotl. Controlled by mouse, very cutesy artstyle
+with maze-like levels with collectibles. I remember playing it on a
+GirlsGoGames(dot)com, or maybe any other similar site full of games
+that were popular in the 2010s, I do not remember where i played it
+now. Specifically i remember also that at the end of the each world,
+the axolotl would find its piece of cake and get furious and
+invincible, destroying everything in its path. I played it when I was
+about ten years old, finishing it all in one evening, and thoroughly
+enjoying it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

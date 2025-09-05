@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids/Teens Room Decorating Book; playing card curtain; bold
+colors and hand-drawings. [s]. This book was found in the kids or teen
+section of the library. I checked it out in 2005/06, but can't
+remember if it was in the new section or already in the stacks. This
+was written for kids, with projects they could do themselves. It had a
+very color blocky cover, and the illustrations were all hand drawn and
+colored in a very bright, graphic way. The font may also have all been
+in ""handwriting""; if not the entire book, at least the chapter
+headings and the like were. I distinctly remember the section of
+curtains having a project to make a playing card curtain. There was
+also a project for painting a shower curtain and using it has regular
+room drapes. There were lots of of other projects, split up by type:
+curtains, desk/school accessories, random decor, etc. The closest
+similar cover I can recall would be this edition of The Bell Jar ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

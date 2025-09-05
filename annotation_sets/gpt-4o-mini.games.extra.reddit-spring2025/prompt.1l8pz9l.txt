@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GirlsGoGames] [Unknown] beach romance Flash game with
+costume party ending. Hi! I'm trying to remember the name of an old
+Flash game I used to play on the *GirlsGoGames* website, probably in
+the mid-2000s to early 2010s. It was a dating sim/visual novel where
+you played as a girl spending the summer at a beachside location. You
+could romance multiple male characters by making choices or gaining
+points through dialogue, you also had the option to stay just friends
+with them if I'm not mistaken. At the end of the game, there was a
+**costume party**, and depending on who you had the most points with,
+you could go with them. I specifically remember some of the costume
+options at the end, such as Elizabeth &amp; Mr. Darcy, Salt &amp;
+Pepper shakers, Alice in Wonderland Ive been digging through Flash
+archives and GirlsGoGames clones but havent had any luck so far. If
+anyone remembers this or can help find it, Id be so grateful!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

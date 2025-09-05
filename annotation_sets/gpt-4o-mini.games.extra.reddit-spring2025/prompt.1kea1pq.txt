@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2013-2015ish] Game about a performing arts
+college??. A create your own map/kingdom type game with a story to go
+along with it. Lots of idol game play like waiting for people to do
+tasks or for energy to be restored or buildings to be built. It was
+about these highschool to college age students that all did stuff
+relating to the arts. There were actors, singers, and fashion majors I
+believe. You could add your own custom characters and choose their own
+majors. The gave have you lots of freedom with map designing and npc
+customization though the options were limited. And it had an
+overarching story about you trying to raise your fame levels and get
+different gigs and performance opportunities I think. There was also
+petty drama like relationship issues and people stealing each others
+boyfriends I think. I played the game either on a kindle fire or on
+some random android tablet I had as a kid. I remember the game having
+a 2D art style and it being free with a lot of in app purchases. I
+think i played right before games were littered with ads."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

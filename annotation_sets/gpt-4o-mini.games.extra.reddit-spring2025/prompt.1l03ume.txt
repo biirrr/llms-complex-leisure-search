@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2000s, late 1990s] 2d village building game. Hey
+guys! So Im looking for a pretty old game probably from those
+magazines that were giving out games on CDs. I remember it looking
+similar to Lemmings or terraria. You were building out your village on
+different maps. I remember having to build out and dig underground and
+always water being the problem as it had pretty advanced physics for
+that time. Physics were similar to those in terraria - water spilling
+on the floor and covering up to some height until the levels were
+equal. I know its a long shot but appreciate any help Solved: Clonk"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

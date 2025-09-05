@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Looking for an rpgmaker game with a pretty rain
+effect. **Platform(s): PC ** **Genre: RPG, Turn Based RPG **
+**Estimated year of release: Between 2010 and 2016 I guess**
+**Graphics/art style: 2d sprites ** So I've spent last few days
+looking for an rpgmaker game I wanted to replay only to realize I
+don't know what it's called and it seems to be impossible to find
+because of a name of another game... So back in the day, in like mid
+2010s I believe I remember seeing it for the first time and it was a
+proper rpg game with battles, not just an adventure. And I remember
+being stunned by how beautiful it looked compared to most, I remember
+the battle took place at night but it was still bright and there was a
+really cool looking rain effect and puddles of water on the ground in
+the grass getting hit by said rain. I can't really remember anything
+else because I think at the time it was just a demo and the game
+wasn't fully out but it is NOT the forest of drizzling rain. And
+whenever I try to look for any rpgmaker rain game that's all google
+wants to show me so I'm kind of stuck... Does that hit any bells for
+anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3] [2009-2013?] looking for a game about robots/rovers
+exploring planets. So, as the title suggests, i have been looking for
+a PS3 game that i had as a kid (approx. 12 years ago). I think it was
+a 2d side scroller, and you played as some sort of robot (shaped like
+a rover, with wheels) exploring different planets (and maybe
+collecting items?). The only levels i remember are the tutorial, and
+an ice planet, and i don't think I've progressed far enough to unlock
+new playable characters, if there were any. Also, i do know the game
+was called """"""""rover"""""""" something, idk the full title That's
+literally all i know, sorry if it isn't helpful enough Below I've
+linked my """"""""artistic renditions"""""""" of some of the
+characters from the game: https://imgur.com/a/crappy-robots-ln5aKgQ If
+anyone could find help this game, I'd be so grateful :3"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

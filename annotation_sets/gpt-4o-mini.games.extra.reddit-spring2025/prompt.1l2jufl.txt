@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010-2015] War-related unity(?) game, it has
+""""""""red"""""""" in its title. There was a game I was playing that
+possibly had """"""""red"""""""" in its title. There was a helicopter,
+something like red vs blue teams, you could control the helicopter,
+tank(?) or just walk, if they were available and not occupied. A
+shooter/war type of game. There was first-person and third-person
+camera modes, I think. I think I used to play it on Kongregate? And it
+was built in Unity? Can't find it yet"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

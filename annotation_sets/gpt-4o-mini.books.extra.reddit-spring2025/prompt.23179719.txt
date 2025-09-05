@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's series. Girl and horse. She secretly buys a horse
+online after family (who can't afford the horse) moves to rural town.
+Bullies at camp. Read late 2000's.. Book series I read as a kid in
+late 2000's. I was reminded of it and now cannot remember or find it
+which is driving me nuts. In the first book, the protagonist used to
+ride at a stable in her old city on a borrowed horse, and her parents
+promised to buy her her own horse to help her adjust to a big move to
+a more rural town (for work). When they arrive, due to financial
+hardships they cannot buy the horse. She sneakily finds a horse online
+and organises to buy it over the phone. Her parents find out when the
+owner arrives to drop the horse off and are very mad, they send the
+horse back. She ends up finding an abandoned horse at a dilapidated
+shed which she begins to care for. 90% sure it is a chestnut mare
+called honey (but I may have gaslighted myself after many dead end
+searches). She starts a job in order to look after the horse herself
+as her parents agreed she can keep the horse if she pays for all the
+expenses, and begins going to the local riding school. She befriends
+one girl, but there is a group who are mean to her, one is a red-
+haired girl, and another is a boy with an odd nickname (like rat
+maybe?). Other books in the series include her going to a camp, where
+the red-haired bullies cousin pretends to be her friend but makes her
+time very hard and ostracizes her from the other girls (e.g. frames
+her for stealing another girls bracelet given to her by her sister).
+Another book includes her learning how to do endurace riding, or maybe
+eventing. Theres also an issue where the horses old owner tries to
+take the horse back now that its healthy and is doing well In later
+books the boy that's a bully develops a crush on her. Thankyou to
+anyone with suggestions"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

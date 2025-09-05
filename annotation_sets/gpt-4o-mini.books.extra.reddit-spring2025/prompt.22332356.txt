@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True story of a little girl left in cave in NC mountains
+[s]. Book, based on actual events in the 1800's, about a little girl
+[toddler] that was abandoned in a mountain cave by her Grandmother, to
+die, because her Son-in-law said he couldn't feed the Grandmother or
+child, and one would have to go. So, the grandmother walked the little
+girl far away to the other side of the mountain, and put her in a
+cave, and closed the opening with rocks. It was a long time before she
+was found by searchers, of course she had died long before. I can't
+for the life of me, remember the name of the book, or the names of
+people in it. I ""think"" it was near Maggie Valley, NC but not sure.
+The Grandmother went on to live by herself, into her 90's. Do you know
+the name of the book, Arthur, or names of the people in the book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

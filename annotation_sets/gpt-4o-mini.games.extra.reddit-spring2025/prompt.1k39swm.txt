@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/PS3/360][Early 2008- early 2010s] A game set in a
+fantasy world where you play with a bald man and a woman who uses a
+bow. They are both the main playable characters.. I can't remember if
+it was an RPG or action adventure. I do remember the setting having a
+lot of lush greenery."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

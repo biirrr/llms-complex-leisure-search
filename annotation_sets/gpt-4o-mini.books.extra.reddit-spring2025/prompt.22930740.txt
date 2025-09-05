@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Adult Fantasy/ Horror book about death and a girl being
+killed at an high school/ small college in Asia. Evil spirits, ghosts,
+life and death. Title includes Dream. Cover: purple/ black, girl
+sleeping/ laying dead. Read 2010s.. I remember very little about this
+book but the cover is very clear in my mind. I read this book back in
+the 2010’s, but this was probably written in early 200’s or even
+earlier. I recall that the cover of the book had a girl
+sleeping/laying dead and the book started off with a prologue/intro
+very eerily about death and had a very complex language. The
+characters were mostly young/teenage people and most likely set in an
+Asian setting, most likely China or Japan. Book was about evil spirits
+and ghosts and combined life and death. Book was creepy but had a
+“feminine” touch to it, if that makes sense. The title/book cover had
+the word dream and was purple/black. The book involved a high-
+school/small college. Most likely an elite/boarding school"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

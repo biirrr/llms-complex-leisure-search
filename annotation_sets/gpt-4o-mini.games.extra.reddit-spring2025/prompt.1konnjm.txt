@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s?] A platformer game where you play as a
+green ball. Platform(s): Android, probably IOS too Genre: 2d side-
+scroll platformer Estimated year of release: Probably 2010s, 100% not
+later than 2020 Graphics/art style: Cartoon style, not pixel though
+Notable characters: Main character is a green ball; enemies are: red
+square, yellow triangle, and i'm pretty sure there weremore than that
+Notable gameplay mechanics: Moving platforms; buyable hats for
+yourself; you can shoot projectiles out of yourself that spend energy
+points; you can jump on enemies to defeat them Other details: Square
+enemies """"""""roll"""""""" around; they also release same
+projectiles, as the player, if you defeat them; the game has a spin-
+off angry birds-like 3d game, where you save different colored balls
+from cages; there are secrets like walls, that you can roll through;
+you can collect coins and energy points."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

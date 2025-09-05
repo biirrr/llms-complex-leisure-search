@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android/iOS][2010s] Horror game in abandoned asylum. There
+are different chapters in this game. In each chapter, you play as a
+different character with their own reasons to arrive at the asylum and
+explore what has happened in it. The characters explore different
+areas of the asylum, but the places they find themselves in sometimes
+do overlap with where other characters have been. Throughout the game,
+a kids voice would sometimes guide you on what you need to do/find
+over the asylums intercom. As you explore some of the asylums areas,
+some cutscenes would play where you would see what was occurring in
+these areas. Like, abandoned/derelict rooms suddenly turned into
+light-filled rooms with people still in it for a minute or two. These
+cutscenes show you what was happening where youre standing. The rest
+of the game involves avoiding monsters who are former patients in the
+asylum, and there is a boss at the end of each chapter. Cant remember
+what these bosses were, but I guess one of them was a former
+scientist/psychiatrist who turned into a monster. The ending of the
+game reveals that the different characters we played as, and the kid,
+are fractured personalities of an insane man who was a patient in the
+asylum. These personas were created based on the characters of a TV
+show that the man used to watch during his days as a patient. In the
+ending, he mostly regained his sanity but not his memories. The kid
+persona is still there, guiding this man out of the hospital as its
+collapsing for some reason and briefly explaining that he was a
+patient and thats why hes here. And thats all I could remember
+about this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

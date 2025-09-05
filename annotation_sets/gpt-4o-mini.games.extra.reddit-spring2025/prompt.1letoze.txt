@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2011-2014] 2d web game with hordes of cop robots also
+from each level there is a possibility for club handles to drop. https
+://preview.redd.it/w1e0rbg6br7f1.png?width=1920&amp;format=png&amp;aut
+o=webp&amp;s=899bd7fceb4115a53e5da598fe19dd146a6318bf ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

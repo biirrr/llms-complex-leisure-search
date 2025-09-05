@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][early 2000s] 2D shooter game. I remember playing this
+game on some random website in elementary. I remember it wasnt on the
+main websites like miniclip or cool math games. It was a 2D side
+scrolling shooter game ( I think there might of been like 4-6 sequels
+of it) The premise was that these terrorists took over these places
+and you had to go in and kill them and save the hostages. You started
+out as a soldier grunt with a pistol that only shot one bullet at a
+time ( this was the game where the bullets went slow so you could
+dodge the enemies fire) and after each level you could upgrade to a
+better soldier, I remember one of them looking like Rambo with an AK
+that shot 3 round burst and another I think was the general with a
+Gatling gun that shot 3 bullets outwardly. The style was pretty
+cartoonish kinda like raft wars with a smaller body and a bigger head
+and you could see into buildings like how terraria is formatted as a
+2D game I remember the last level where you had to go into a bunker
+and kill the bad guys and somehow you could buy a helicopter that shot
+rockets because I remember flying it down there to beat the mission (
+it wasnt necessary to beat it but I did it just to do it) This last
+bit Im not to sure about but I think the guns would go off on their
+own after a certain period of time so you just always had to be aiming
+and wait for it to fire but Im not too sure about this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

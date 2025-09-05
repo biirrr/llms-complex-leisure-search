@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2000s-2010s] A game where you controlled a girl on an
+island!. There was this flash game I played on girlsgogames when I was
+a kid, I don't believe the original game was a flash game because the
+controls in settings were set up like a controller, not mouse and
+keyboard. You played as a girl with red/orange hair and you fought
+these blob guys. It was a super smooth and simple cartoon looking
+game. It was a platform game but you swam sometimes and you had an
+electric shield I think. I remember at one point you had to swim to
+get keys and avoid getting shocked. I've been searching for years to
+find it, if anyone had any clue it would mean a lot to me. Someone on
+deviant art drew the exact game, but doesn't know the actual name of
+the game either.
+[https://www.deviantart.com/marineblueflower/art/Island-girl-flash-
+game-memories-890315810](https://www.deviantart.com/marineblueflower/a
+rt/Island-girl-flash-game-memories-890315810)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

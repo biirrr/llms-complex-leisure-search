@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][90s] Side Scroller. Platform(s): Almost 99% sure its
+the SNES Genre: Side Scroller, you moved from left to right. Estimated
+year of release: 1990s Graphics/art style: Realistic graphics, had a
+middle eastern/asian setting. Notable characters: You could play as
+one of three characters, two male and one female, from what I remember
+there was a guy who had a beard and long hair with a giant sword, a
+woman with tanned skin and daggers, she had pants which where either
+pink or purple. Notable gameplay mechanics: You could either swap
+between charaacters, or when one died you took control of one of the
+other two. They also had power ups which you could use, the woman had
+an ability where she would yell and lightning... or like bubbles would
+hit all the enemies on the screen. Other details, I remember a dwarf
+boss and a boss on a magic carpet. The first level happened in a
+market... or some sort of city, the second one was in a cave. Thanks
+would appreciate all the help I can get!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

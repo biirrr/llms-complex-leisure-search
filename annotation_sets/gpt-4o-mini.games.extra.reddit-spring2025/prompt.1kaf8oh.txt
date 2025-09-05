@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile, likely android] [mid 2010's] cute puzzle, maybe
+adventure? style game through the galaxy. Platform: Definitely mobile.
+Most likely android but could have possibly been iOS. Genre: Cutesy,
+cozy type puzzle/strategy Estimated year of release: Early to mid
+2010's (I lean more towards 2012-2015) Graphics/art style: Cartoon, I
+WANT to say definitely 3d, but definitely simple and cheerful. Notable
+characters: You play as an (maybe robot) astronaut searching the
+universe for a loved one.. I know that's vague.. I want to say a pet,
+but it could have been your soulmate. Notable gameplay mechanics:
+Definitely side scroller. You move around each 'planet' (level)
+interacting with the environment to solve a puzzle to move to the next
+planet. Other details: I can remember the levels so vividly! One was
+like a ranch with a UFO abducting a cow, another was a robot style
+casino/Mafia scene, one was a mad scientist lab, one was a simple
+circle planet divided into four sections, each one a different season.
+In that one, I remember you had to kick a ball around to a different
+season, trigger some rain, move a kite or something. I don't know if
+anyone will be able to help me, but if I think of anymore details I'll
+add them. I loved this game so much and would love to find others
+similar to it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

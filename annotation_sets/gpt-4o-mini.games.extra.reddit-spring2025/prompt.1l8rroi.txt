@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-1014] One forgotten game of my childhood. I
+played this game a long time ago on my computer on which was windows
+7. It was just standart HOG (hidden object game) with its usual game
+mechanics like a diary on left corner and propably a magnifying glass
+on the other. First time i played this game was 2015/2016 The game has
+atmosphere of loneliness. Game sets in a abondoned city. Also there
+was a theme of sea or rain but only on a second a plan and without of
+any pirates. Graphics are not cartoonish, but not too realistic The
+main hero was propably a woman and you dont see her face while actual
+gameplay The last thing that i definitely remember about the game was
+that after the start of the actual gameplay, if you look in the diary
+there will be three vials with liquids of different colours. And
+nearly at the end there was a big creature, something like a kraken
+with its big tentacles. Also items that you can find you can use (in
+one section i remember using thermite). And also there was an area
+with obelisk."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

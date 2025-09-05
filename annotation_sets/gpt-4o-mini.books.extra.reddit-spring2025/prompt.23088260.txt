@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy. Hades and Persephone retelling where she goes
+willingly.. I'm trying to find on specific Hades and Persephone
+retelling I first read over a decade ago, where the two of them were
+secretly seeing each other for a while before she went willingly with
+him. I initially thought it was Radiant Darkness , but I'm currently
+in the middle of that one, and while I definitely also read it in that
+same time frame, it's missing a very specific scene that I distinctly
+remember from the book I'm looking for. In the scene, which was very
+early on-- if not the very first scene in the book-- Hades and
+Persephone are having a picnic. The two of them have been seeing each
+other behind Demeter's back for a while at this point, but Hades has
+been pretending to be an irrelevant minor god. He decides to come
+clean with Persephone, who admits to having figured out his true
+identity a while ago. I distinctly remember that while she was walking
+through her reasoning of how she'd tried to narrow down who he
+actually was, and she'd known he couldn't be Dionysus because he
+always left the wineskin in the basket."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

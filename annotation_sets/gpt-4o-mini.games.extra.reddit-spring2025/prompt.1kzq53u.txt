@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1 or PS2][Early 2000s] Game where you control three
+different dinosaurs through various levels, also has a fight against a
+T-Rex in a cave maze. I was really young so I don't remember much of
+the story, but one of the dinosaurs you control is a pterodactyl that
+always flies and can do a dive attack, and the second is, I think, a
+brontosaurus that can collect fruit from tall trees (or it wasn't a
+dinosaur but a monkey that could climb trees, again I really don't
+remember exactly). The third one, I don't know what species of
+dinosaur it was, but you save an egg as the pterodactyl by killing a
+dinosaur attacking it, and you pick it up and it hatches later on,
+then you gather fruit pickups to feed it, which are also health items
+you can use throughout the game. I believe that dinosaur is your most
+effective direct combat character. The game is played in a birds-eye-
+view like Age of Empires. I don't know if the graphics were 3D, or
+low-rez 2D, but I believe the cinematic that takes place after the
+level that takes place in a cave maze with a time limit and a boss at
+the end of it was pre-rendered in low quality 3D."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

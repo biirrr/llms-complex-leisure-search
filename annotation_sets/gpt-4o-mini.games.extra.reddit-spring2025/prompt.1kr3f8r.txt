@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gamecube][2000s] Sample Game With Child Characters In
+House. I remembered playing a sample game on the older consoles
+(Gamecube/Xbox), and it was children in what looks like a
+haunted/abandoned house. I thought it might have been Monster House,
+but I didn't find anything about it being offered as a tester game.
+You could play some of the game, to give you a taste of it --- Am I
+crazy, or does anyone else remember that being available? Even if you
+don't know the game I'm asking about, if you could verify you played a
+sample game (in a full game, in like the menu options or something),
+that would be great."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Microwave Cookbook from the 1980's. Make
+a cake in your own microwave. Hardcover, about 60 pages. Read in
+2009-2010.. Don't know how easy this one will be to track down but
+I've been longing to try more recipes from it and haven't found the
+exact one yet. I randomly found it at my great-grandmother's house
+back in 2009/2010 but it had to have been much older. Hardback, not a
+lot of pages probably only around sixty, cover was a very dark colour
+like red or brown that didn't give off cookbook vibes, I don't even
+think it had a picture on it. What the actual book was, it was a
+cookbook about how to make basically any kind of food using your
+microwave. I think it was split into breakfast lunch dinner possibly
+dessert too. There were pictures in it of different food; the quality
+of them as well as the topic makes me heavily believe this was
+published in the 80's because microwaves were a new invention and
+everyone loved them. What I remember most is the gimmick; you could
+make literally anything you could think of in the microwave following
+the instructions, even a cake! That image has stuck with me to this
+day. I also strongly remember a recipe for scrambled eggs because I
+actually did that one and they tasted like they had been cooked on the
+stove, hence why I want to try more recipes out. If it helps, my
+great-grandmother was living in Mississippi at the time. Here's to
+hoping it can be found!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

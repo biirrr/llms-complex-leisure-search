@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS][early-2010s] Visual novel-style game about a demon
+girl with blue hair. * Platform(s): iOS, uncertain if others * Genre:
+Visual novel * Estimated year of release: Unknown; played early 2010s
+on a 2nd or 3rd gen iPad * Graphics/art style: Anime-esque * Notable
+characters: * A demon girl with blue hair (was on the icon of the
+game) * A village boy with brown hair * Notable gameplay mechanics:
+Clicking through dialogue. \*EDIT: Both characters are visible on-
+screen in every scene, at 3/4-angles. * Other details: Story tidbit I
+remember - the demon girl had been persecuted (in the village?)
+because she'd fallen in love with a woman there. Unknown if any
+promotional material defined the game as LGBTQ+."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

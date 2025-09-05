@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Youth novel about sisters possibly abandoned at a beach
+house and had to collect mussels to eat. Sisters had unique names.
+Read in the later 1980’s/early 1990’s.. I don’t remember a lot of this
+book, but I read it when I was young. The sisters had unique names
+which I will update if I remember (I think of one of them often). I
+remember the mother chose them and they were all named after something
+specific. I don’t remember how the book ended, I just remember them
+rolling up their pants legs and collecting mussels to eat. I also
+don’t remember why they were without their parents, just that they
+were alone."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

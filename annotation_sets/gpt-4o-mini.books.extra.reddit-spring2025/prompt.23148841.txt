@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance novel. Heroine is a clock setter..
+There's a historical romance novel featuring a female leads that sets
+clocks in people's homes. what book is it? Probably written about
+10-15 years ago. Author is well-known. I remember the MC is like a
+Marquess or something and was raising his young nieces (at least i
+think they were his nieces). The kids were obsessed with death and
+would hold funerals for their dolls. The FMC meets the MC when she
+goes to his house to set his clocks. That was her job, she'd got to
+homes and set clocks. The MC was actually quite humorous."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

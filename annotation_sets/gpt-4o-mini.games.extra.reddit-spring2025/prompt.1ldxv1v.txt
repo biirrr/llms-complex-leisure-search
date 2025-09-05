@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2018-2025] Weird scandinavian rpg?. I'm looking for
+this weird I belivie scandinavian RPG game. I believe it was relesed
+somewhere between 2018-2025. Old looking graphics, you had a slingshot
+and there was a lot of spider enemies. There was whistle sound in game
+trailer. It gave kind of uneasy/psychedelic feeling. Not AAA game,
+probably made by few people or small studio."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

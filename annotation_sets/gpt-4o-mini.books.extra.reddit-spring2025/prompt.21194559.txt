@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction gardening book Each page was devoted to one
+plant, and gave description of plant and its subspecies, growing
+zones, soil and water needs, light requirements, growing season. [s].
+I read this book back in middle school, so it was published at least
+prior to 2006. It’s a non-fiction gardening “reference” book, for lack
+of a better term. Hardback, glossy pages, possibly over 1000 pages
+long. The first couple chapters were about basic gardening information
+(soil types, growing zones, light requirements, grafting plants,
+etc.), but the bulk of the book was devoted to in-depth information
+about various gardening plants. Each page was devoted to one plant,
+and gave description of plant and its subspecies, growing zones, soil
+and water needs, light requirements, growing season, and even if the
+plant was poisonous to people or animals. Each plant had at least one
+picture, usually two. However, what was most memorable to me was that
+the plants were organized first by type (tree, flower, shrub,
+groundcover, etc.), and then further sorted by light requirements.
+I’ve tried looking for this book at my college and public libraries,
+but the closest any of them came was “The Complete Garden Flower Book”
+published by the Laurel Glen publishing company, and that was
+definitely not it. Please help! I’ve been looking for this book for
+years, now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

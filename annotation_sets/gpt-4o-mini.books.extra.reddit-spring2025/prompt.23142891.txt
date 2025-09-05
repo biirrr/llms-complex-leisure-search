@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Christian Romance/ Mystery. Man was in wheelchair;
+injured back in motorcycle accident. She is a home health care nurse..
+I currently have a hard copy of this book, but cannot find it. Jacob
+Zook used to be Amish. He hurts his bike in motorcycle accident. The
+FMC found him and is a home health care nurse. She was taking care of
+a elderly lady who i believes dies in an explosion along with her (the
+elder lady's) son. SPOILER sentence: the lady's other son was
+responsible. The older lady and her sons owned a company that made
+little cars (kind of like a matchbox type). I think the FMC's name is
+Rose; MMC calls her Tiger. One of the older lady's sons is named
+Ammon. At least I think it is. I think he is the one that made the car
+blow up. MMC is studying to be a teacher. Female main character also
+is a paramedic. I remember a lot more, but cannot figure out how to do
+the search apparently. The FMC AND MMC are on the cover and I believe
+he is in wheelchair. The FMC had her father and sister die years
+earlier in a drowning. At end the couple is married and it's his
+graduation day."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

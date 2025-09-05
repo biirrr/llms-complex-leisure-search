@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Encyclopedia of female movie stars. [s]. This book was from
+either the '90's or the early 2000's. It was written in an amusing
+style--I found it in my middle school library, so maybe it was for
+kids. It had black and white photos. There were profiles of almost
+every famous actress from the silent era to the present day, plus the
+occasional singer. Demi Moore, Janet Jackson, and Ava Gardner are
+three I remember. I recall being annoyed that Myrna Loy wasn't
+included."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

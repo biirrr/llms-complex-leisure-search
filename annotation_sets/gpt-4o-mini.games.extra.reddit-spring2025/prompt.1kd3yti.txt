@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][late 2000s-2014] You play as a man whose wife and baby
+are killed. I know this is probably super vague. It was either
+PlayStation 2 or PC, but Im leaning towards the former. I remember it
+was most likely an action game or shooter, and in one scene I think
+your wife and infant are presumably killed? Like I remember walking
+through the house, lots of grey colors, and at one point looking at
+the babys crib. There mightve been an underground metro station
+involved later in the game as well. I cant recall if it was first
+person or third person. Played this before 2014 I believe. Any clue?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

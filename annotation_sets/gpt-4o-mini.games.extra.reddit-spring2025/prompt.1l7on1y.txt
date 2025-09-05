@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000's - early 2010's] A typing game based around
+pirates. this subreddit found a chunk of my early childhood games, but
+there's another that i know i played but can barely remember. I only
+remember it being pirate themed, I think with a parrot being your
+biggest helper? I'm not 100% sure either, but I think when you passed
+a typing lesson, you'd go to a new island, like it was a map? i mostly
+just remember the fact it was a pirate game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2018?][on-rail shooter] sci fi FPV shooter. hello,
+info in the title are what I am quite certain to remember about this
+game. certain facts: - on-rail shooter - 3D - sci fi setting - male
+protagonist(s) uncertain things: - protagonists were not one but two,
+and you could select one at each mission starr and maybe they were
+brothers. - weapons were possibly quite """"""""metal"""""""" style
+with guns and chainssaw (gears of war style) and there was an
+""""""""overload"""""""" mode - the ending involves using a 'modified'
+suit or something similar I think the game had a sequel or a
+prequel... well it's not much, but I appreciate any help edit: turns
+out it was not an on-rail shooter but simply a shooter and its name is
+'Bulletstorm'"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

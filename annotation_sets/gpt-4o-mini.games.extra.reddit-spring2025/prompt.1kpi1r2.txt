@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] puzzle game about a woman on a deserted island
+after a ship crash. Platform(s): PC, the operating system was windows
+xp Genre: puzzle, hidden objects Estimated year of release: early
+2010s Graphics/art style: stylized but trying to be rather realistic
+Notable characters: you played as a white woman Notable gameplay
+mechanics: mainly puzzles, that were all different from each other,
+there were hidden objects mini games, block puzzles etc. i remember
+one of the first minigames involved shooting cannons on the ship to
+get rid of obstacles in order to get off of the ship Other details:
+the general plot was that you're a woman on a cruise ship, which
+crashes and starts sinking, you get off the ship, find an island and
+then discorver some mysteries on the island"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

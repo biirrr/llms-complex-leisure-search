@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "History non-fiction, or Myths & Legends. King Arthur: tried
+to show he was Caratacus, a Celtic chieftain (48-51 AD). Many people
+may have been ""Merlin."" Heraldic symbols incl. sword and Lady of the
+Lake. Read late 1980s? [s]. Non-fiction. Attempted to show that King
+Arthur was really the Celtic chieftain Caractacus. Many of the
+characters explained as roles. Some discussion of heraldic stuff, e.g.
+sword presented by lady of the lake is really an image of a hand
+emerging from a cloud with a sword."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

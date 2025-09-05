@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Modern Fiction/ Post Modern novel, late 80's-90's +
+Eccentric family living in an old abandoned church. Read around 1997..
+SOLVED-- Stephen Wright, M31: A Family Romance. The SS collection is
+Going Native. I read this book in about 1997. It was written by a male
+author who I believe to be American or Canadian. An eccentric family
+lives in an abandoned church in the American midwest. Father is
+strange acting as I remember. Son might be involved in UFOs? The
+author also had a collection of short stories that I read at about the
+same time. In the collection, there is a story about a dinner party or
+cocktail party for some upper class/urban professionals. One of the
+men at the party has just returned from living with a primitive tribe
+in South American or the Amazon. It is revealed that he partook in a
+native rite and pierced his genitals much to the shock of his fellow
+party guests."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

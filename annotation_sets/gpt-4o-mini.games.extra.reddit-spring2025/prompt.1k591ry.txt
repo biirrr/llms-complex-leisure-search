@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GBA] [early 2000s] Sokoban-like game. a part of a 100 game
+collection (or close to 100) in one cartridge. """""""" it was
+probably a game from the original gameboy because all of the games in
+it had only two colors (excluding white): blue and pink, and there was
+another color scheme with white, green and yellow I think. """"""""
+the game was about pushing boxes to reach a (white?) flag to win the
+round. """""""" the cartridge might be unofficial. """""""" Most games
+in the collection were repeats of themselves but with different color
+schemes, so they're actually less than a 100 games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

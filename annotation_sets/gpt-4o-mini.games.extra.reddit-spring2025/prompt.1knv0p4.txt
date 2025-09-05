@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015ish] stickman sandbox game. Game is about a
+stickman in a sandbox the room was a black box and you could select
+various objects and weapons, pretty sure it was on web. You also had
+viruses of sorts like bee virus and stuff. I don't remember most of
+the game but you could clone the stickman in the center multiple
+times"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

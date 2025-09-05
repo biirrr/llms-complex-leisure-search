@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sci-fi: Aliens ""rescue"" 100 earthlings including Miss
+America. This short story involves aliens ‘rescuing’ 100 average
+Earthlings, plus Miss America, before Earth fails having depleted its
+natural resources. They ask the earthlings questions about their
+leaders and about how they define beauty. Then they head back to
+Earth. Background: A client asked me to find this sci fi short story
+(maybe an excerpt) that he read maybe 15 years ago in the NY Times or
+Playboy. He said it may have been written by Arthur C. Clarke, but I
+have skimmed all his popular pieces on the Internet. It could be in
+one of his compilation books. I have also searched the NY Times
+online. Or it could be from an unknown author written for the Playboy
+sci-fi story competition. Playboy has a compilation book of sci-fi
+stories, but I don't have access to it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

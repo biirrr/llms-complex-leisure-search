@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1/N64?] [Late 90s-Early 00s] I have an image from my
+childhood I cannot figure out.. Hey all! I have a brief memory of a
+video game from many moons ago that Ive never been able to kick, or
+figure out. All I remember is that it begins on a ship, I believe at
+night. There are enemies on there as you go below deck, and your
+attacks are wild scratches I think. I also want to say that you have
+the ability to transform into a beast, maybe a werewolf? Anyway,
+thats all I can remember. Hope I can find some help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

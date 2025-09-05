@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360] [2012?] Third Person Shooter that involved aliens
+[Something and Prejudice is all I remember]. So I know this one might
+be a hard one and Im sorry but here goes: I remember seeing it on an
+Xbox 360 but it might have been an original Xbox game I dont remember
+It was a third person shooter with grenades that involved human like
+aliens, they werent Ripley aliens though The graphics were very
+similar to Mass Effect. The background was very red and rocky, looking
+like mars. It was somewhat gritty Notable characters I dont really
+have anything, i remember the player character had black hair and was
+white, I think for all of the portion I played there was a red head
+woman with you. There werent a lot of gameplay mechanics that stuck
+with me. I remember towards the end of the first mission you were
+running through an orangish brown sand area and there were explosions
+and the aliens offing people all around until you got to the ship and
+then the mission ended and I didnt play any further than that. Sorry
+for the wall of text, mobile user"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

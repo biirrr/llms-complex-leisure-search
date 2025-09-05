@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Online 3D chat/role playing game?. i have been
+searching for this game for years and cant find it! im starting to
+think i imagined it! When i was younger, in the 2000s, i remember
+playing a 3D MMO for hours on end! Its been years and i can only
+remember small bits here and there: It wasnt web based as far as im
+aware, it was a downloadable program I think the title had verse in
+it, a play on the word universe (i think) there used to be a
+exclusive vip shop behind a waterfall with clothing and furniture
+you could buy apartments on different islands! there was a main street
+with a club and shops, across from the club there was a small park
+with benches? there was other areas, such as a water slide/ waterfall
+that you could go down. A western style town and also an enchanted
+forest esc area i sadly cant remember much as its been probably
+around 13/15 years since i played it!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

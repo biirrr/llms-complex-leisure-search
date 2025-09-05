@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult erotica genre about a set of male twins involved with
+the same woman. Read this book in highschool so must have been
+2006-2009. When the protagonist meets the twins she passes them while
+running in what sounds like Runyon. This is the opening scene. They
+start to talk and she finds out 1 is married and the other is single.
+The single twin is an artist I believe. The married twin is married to
+a beautiful and popular newscaster. Both twins sleep with the woman.
+The married twin is jealous of her and his brother."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

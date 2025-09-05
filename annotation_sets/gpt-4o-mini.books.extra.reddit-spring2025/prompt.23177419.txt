@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book over 1000 pages, had a map in the beginning of the
+book. About a person (male?) who has to travel.. The person has to
+travel to different areas, meeting new people or animals (that can
+talk?). Read between 2019-2020, written well before that but I believe
+after 2000. Cover I believe had red, yellow, and orange colors. That
+is all I can remember at the moment, I’ll update if I remember
+anything else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

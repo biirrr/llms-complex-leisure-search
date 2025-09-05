@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir: a boy’s abusive childhood in the Pacific Northwest.
+[s]. This is a memoir written by a lawyer from Berkeley, CA about his
+abusive childhood. His mom is a single mom who meets a Native American
+man. They have an Egyptian wedding and maybe live in a commune for a
+while, if I remember correctly. The guy turns out to be a violent
+alcoholic who makes them buy land in Washington or Oregon and makes
+them farm. They struggle to make a living. They end up living in a
+tree where the boy struggles to do his homework. I first heard an
+interview of the author on a podcast, which led me to read his book in
+2016/17."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

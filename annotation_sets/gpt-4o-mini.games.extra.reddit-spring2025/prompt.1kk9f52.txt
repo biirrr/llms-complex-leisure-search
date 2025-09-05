@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC STEAM] [2020]Videogame where you try to communicste with
+a massive owl-cat like creature.. The game starts with you stuck in a
+hole shaped structure with an massive creature. It is sleeping(I
+think?). You have to try and communicate what to do to it to escape.
+You work together to fly,jump etc. You have to tell him what to do by
+doing it yourself. The game ends with you flying away with it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

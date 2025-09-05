@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy with Quetzalcoatl, set in modern SW US desert.
+Read mid 1980s-early 1990s.. Hi! I read this book sometime in the mid
+1980s-early 1990s. I think. Certainly well before 2000. It was a
+standard-length paperback, a sort of ""western"" cowboy type of scene
+on the front, very bright blue sky. One of the main characters in the
+lower left, iirc. This was set in roughly modern times, in the desert
+of the US Southwest or maybe Mexico. Very ""urban fantasy"" style.
+Someone somehow woke or summoned Quetzalcoatl. I *think* a necklace or
+pendant was involved, but not sure. This is key - he could speak, and
+was kind of a smart a$$. I don't think he realized who he was at
+first, and grew. Eventually toward the end of the book, his nemesis
+Smoking Mirror was summoned or found him, and they had a fight as huge
+flying dragons."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

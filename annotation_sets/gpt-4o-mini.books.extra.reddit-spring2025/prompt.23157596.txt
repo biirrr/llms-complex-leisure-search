@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy. Brother and sister kidnapped by old
+ladies, sister tries to free brother, hidden door. Spoilers.. I read
+around 2013-2015 (?), but I think the book was older. The writing had
+the feel of Lemony Snicket's and I think the cover had a house on it,
+but I'm not entirely sure. Some of the scenes I remember are —a girl
+and possibly her brother are told in the middle of school that their
+parents died (car crash?) —some old ladies claiming to be their great
+aunts or something like that either half kidnap them or manage to
+adopt them —kids are then basically kidnapped and took to an old house
+and they learn the old ladies are evil —the kids are forced to work as
+maids? —there’s a door hidden behind wallpaper (the girl notices it
+because the wallpaper is upside down or something like that) —boy gets
+taken to the room or something and is locked in a cage and the girl
+has to get in to free him —girl steals one of the keys and makes a
+cast out of melted candy for it (main scene I remember) —I believe the
+candy played a major role outside of the key —I'm not entirely sure
+but I think the evil ladies were magical? like witches? Spent a long
+time trying to remember this book before coming here. I believe this
+is a book, but it is very possible it might have been a movie. I read
+it when I was a kid. I vaguely remember getting it from the section
+with authors who had the lower half of the alphabet in last names, but
+I could be wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

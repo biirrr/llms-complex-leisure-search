@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010s] Weird artsy puzzle game. I remember playing
+this game around 2009-2011. It was a really weird artsy game that had
+a similar playstyle and art as chuchel. I remember it being black and
+white in some parts too. I think it was a puzzle game of some sort. I
+cant find anything about it online.Ive also already looked through
+all of Amanita Designs game and none of those fit the bill."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

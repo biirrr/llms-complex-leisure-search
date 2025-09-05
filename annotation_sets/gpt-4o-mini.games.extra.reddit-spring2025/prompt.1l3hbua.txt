@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2010] Isometric RPG with some kind of robotic or
+silver angel on the game cover. It was at least on PC, I don't even
+exactly remember the gameplay other than it being isometric, could've
+been a diablo-like or turn-based, I have no idea. The art style in my
+memory was gritty kinda like Quake. I remember the world being just a
+black void, the background that is, and that's what the fog of war was
+like and you discovered the world in isometric chunks with your
+character. The game's box art had some kind of metallic angel on it
+and I feel like it still looked more holy than robotic. Don't remember
+much else other than I borrowed it from a friend as a kid and when I
+asked him about it today he's like """"""""yeah I remember that game I
+dunno where it is or what it was called"""""""" and he's not very
+helpful on any details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

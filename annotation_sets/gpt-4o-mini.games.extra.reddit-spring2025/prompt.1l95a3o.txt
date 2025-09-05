@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX/2][Unknown] Sci-Fi Vehicle Combat Arena game. You
+played some kind of ship or just vehicle in an enclosed arena.
+Isometric/top down perspective, notable features include the digital
+wireframe like asthetic to everything, even the floor, a gravity bomb
+that is tethered to your ship, progression is done via a hexagonal
+grid with combat encounters. Name I remember being something that
+sounds japanese. The disc I remember looked unusual, just silver with
+the game's title and a bargain bin-like tag of like SHOOTER GAME or
+something in blue. Might be PS1, but remember playing it on PS2."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

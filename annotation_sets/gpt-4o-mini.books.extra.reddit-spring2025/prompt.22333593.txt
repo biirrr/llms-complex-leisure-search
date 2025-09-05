@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction: guide book on Writing. Likely for fiction
+writing and focuses on structure/ plot. [s]. I came across this book
+in 2019, though it was probably published much earlier than that. It
+was recommended on one of those online lists for ""best books on
+writing"" at the time, so I assume it was a popular one in that
+category, but when I tried searching for the typical recommendations
+now I can't seem to find the same one I read. (It's not Bird by Bird,
+or Save the Cat, etc.) I only got through the first couple of
+chapters, and all I can remember is that the main point was about
+""begin your story in the middle of action to get the reader's
+attention"". It might have even been the name of the first chapter. I
+think the entire book might be focused on the structure and plot
+(instead of prose and style), though I could be wrong. I got the book
+in print and I vaguely remember it had a white-ish cover. Any thoughts
+and guesses are appreciated. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

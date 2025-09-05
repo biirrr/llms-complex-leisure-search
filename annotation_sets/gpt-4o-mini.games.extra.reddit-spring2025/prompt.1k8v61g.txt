@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2014-2018] 3D Cat Creator. Platforms: Android, on
+Google Play Store. Genre: Customization/character creator type game.
+Estimated Year of Release: Around 2014-2018. Graphics/art style: 3D,
+quite realistic graphics and style. Notable characters: You could
+create a custom cat. Notable gameplay mechanics: You could turn the
+camera around to view your cat character at different angles. I'm
+pretty sure there were customization sliders for different parts of
+the cat such as the muzzle, ears, tail, etc. I think the background
+was a simple colour like dark blue (unsure). Other details: I think
+the name of the game had """"""""Cat"""""""" in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

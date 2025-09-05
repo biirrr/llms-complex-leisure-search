@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Top down Excalibur themed game. Hi all, a bit
+of a long shot here& When I was super young I used to play a game on
+my dads laptop, and loved/hated it because I always died on the first
+level. I played that first level for years, always trying to figure
+out what Im doing wrong, but I was too young to really understand. I
+now want to find that game and beat it, but I cant for the life of me
+figure out what game it was. It was somewhat top down POV, with a bit
+of a 3D aspect to it, like an angle of sorts. I THINK it was based
+around the sword of Excalibur in some way, and I played as a knight.
+The first level I was stuck on had me needing to cross a bridge of
+some sort. And thats it, thats all I remember. Other than the fact
+that i loved it. Im 27, so I recon anywhere between like 2003-2009
+would be the years. Theres a chance this could have been PS1 or PS2,
+but Im going to guess PC Any help!!!????"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

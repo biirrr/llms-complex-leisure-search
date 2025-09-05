@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1998-2005] Looking for an old strategy game. Hello
+everyone! I am looking for an old strategy game, probably made between
+1998-2005. I don't think it ever was a huge hit, maybe it even was the
+kind of CD you get in a cereal box, I can't remember. I never saw it
+being referenced on any website ranking strategy games, even the most
+exclusive ones. So here is the template with my answers and more
+details : Platform : PC Genre : Strategy (probably turn-based)
+Estimated year : 1998-2005 to be safe, but I feel it is more between
+2002 and 2005. Graphics / Art style : 2D, old map I think to emulate
+American Civil War or Revolution era. Notable characters : I remember
+a general's name was Sam Houston. That's the only name I remember, but
+it tells me there were generals you could play with (not as) in the
+game. Notable gameplay mechanics : The battles were fought with CARDS,
+tactic cards that varied between flanking, full on assault, use of
+artillery as support, etc. Can't remember precisely what were the
+tactics though. There was arrows on the cards indicating if you wanted
+your troop to flank, frontal assault, etc. I guess the better card
+between the player and the AI determined who won the round. I don't
+believe there were any dice or other methods of battling the AI. Other
+details : There were different maps, but I mostly played on the US
+map. I hope there's enough details to help you help me find this game.
+It was my first PC game I spent countless hours playing, my first
+strategy game ever that made me fall in love with the genre. I crave
+to revisit the game and see how it holds up today, based on my taste.
+If you need more, let me know!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

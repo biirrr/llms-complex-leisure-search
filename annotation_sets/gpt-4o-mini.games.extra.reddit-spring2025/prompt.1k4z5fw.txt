@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020(?)(Unsure)] itch.io browser-based visual novel
+horror game. Hi guys Looking for an itch.io """"""""Play in
+browser"""""""" game. What i remember of the story is that you are a
+child visiting your friend's house for a sleepover and something is
+wrong with that sleepover. Forgot what's wrong though. It's more of a
+visual novel type game but with background pngs and white translucent
+boxes containing choices and dialogue overlayed over the background.
+Image is attached for reference of what im saying. iirc the game has
+around 6 possible endings and a 7th you unlock for getting the other
+6. Been looking for this game for ages and i just dont remember which
+one it is. Would be great if someone could help me find it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

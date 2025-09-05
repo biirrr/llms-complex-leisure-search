@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS] [2000-2014] A friend of mine sang a Pokemon
+soundtrack that we can't remember. Hi, a friend was humming a song
+that we all knew but can't remember exactly in which game or part it
+was in. We are almost sure it was in a 2D game so we thought it was on
+Black &amp; White but we looked in the OST (maybe we missed it) and
+couldn't find it. We also think that this is in the early game or in a
+safe zone like a pokemon center or our house. I even searched in other
+games like Inazuma Eleven but i couldn't find it either similar
+soundtracks. Here's the audio of my friend humming the soundtrack.
+Thanks !
+[https://vocaroo.com/1imXtKr8x6M2](https://vocaroo.com/1imXtKr8x6M2)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

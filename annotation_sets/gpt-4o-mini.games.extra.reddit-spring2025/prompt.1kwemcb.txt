@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX][Unknown Year] Game with an enemy hooded character
+that has a flaming sword. Platform(s): Very likely original xbox
+Genre: Fantasy Estimated year of release: Unknown Graphics/art style:
+Morrowind-esc graphics Notable characters: Hooded man with a burning
+sword who is your enemy, he's the only character I remember and I
+think there were others like him. He had no visible face. Notable
+gameplay mechanics: First person, elders scrolls feeling but I'm not
+sure 100% Other details: I remember distinctly a cutscene where you
+kill the hooded man and he says something before dying on top of some
+kind of sigil/ritual circle? Then the game cuts back to normal. There
+isn't much else I remember other than unfortunately."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2/PS1] [2000-2005] A game on a PlayStation demo disc
+where you were in a graveyard?. Cant remember much of this game other
+than you were in a graveyard or something of that sort at night and it
+wasnt very scary bc I was probably somewhere between 4-8 years old
+playing it and not frightened. I remember there being blue and neon
+greenish colors but cant remember what they were associated with."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

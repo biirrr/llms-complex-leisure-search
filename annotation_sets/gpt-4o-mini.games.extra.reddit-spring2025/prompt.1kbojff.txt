@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC browsergame][early 2000s] Fantasy medieval browser game.
+Platform(s): PC, browser Genre: fantasy, medieval Estimated year of
+release: possibly early 2000s Graphics/art style: 2D, quite pixelated,
+earthy tones Notable characters: big rat-like enemy at low level,
+slightly customizable own character (male or female, hairstyle &amp;
+color) Notable gameplay mechanics: turn-based combat? unsure tho, you
+could kick and hit the enemy even if you had no weapon equipped Other
+details: first quest was something like leaving the city and crossing
+a river to find some herbs; there you could encounter the first
+enemies (big rat-like creatures), the map view was like 2.5D/topview"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

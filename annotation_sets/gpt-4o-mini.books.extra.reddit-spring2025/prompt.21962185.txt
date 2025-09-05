@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction. Visual guide of the North American Indian
+Tribes. Illustrated in style of the Eyewitness guides. Details of
+artifacts and clothing used by each tribe, cultural identity, etc.
+About 300 pages. Read in 1992. [s]. I visited Yellowstone Park in
+1992, and was able to attend the Powwow held on the Crow Indian
+Reservation, and was fascinated with the Indian culture. I bought a
+visual guide of all the tribes of North America in the style of the
+Eyewitness guides, with details of the artifacts and clothing used by
+each tribe, as well as physical features and cultural identity.
+Unfortunately I had to leave that book behind because it was shared
+with someone else who insisted on keeping it. Now I'm looking for it,
+but I can't find it. The Eyewitness editions that I have found on
+American Indians are for children and are barely 70 pages long, and
+the one I am looking for was in large size with about 300 pages. Does
+anyone recognize this book? Do you know if it is still being
+published? Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

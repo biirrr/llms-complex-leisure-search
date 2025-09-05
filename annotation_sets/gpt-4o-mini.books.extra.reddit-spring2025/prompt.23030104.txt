@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Sci-Fi book about teens that discover they are the last
+of their respective races. Read mid 1980s. Spoiler.. I read a book in
+the mid-80s (it may have been older) about a group of teens that found
+out that they were the last of their respective races. I seem to
+recall that were was at least one White, one Black, and one Asian. I
+don’t remember if there were any others. They were living in towns of
+others of their “race” but came to find out that underneath their
+façade they were all a uniform brown color. IIRC, after finding this
+out, they felt like they were living in a zoo. Somehow, they all
+manage to come together and get on a spaceship where they begin to
+find out about the history of Earth. When they try to go to Earth,
+they discover they are already there."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

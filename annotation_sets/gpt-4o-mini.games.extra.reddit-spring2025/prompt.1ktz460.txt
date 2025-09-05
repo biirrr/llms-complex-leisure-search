@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows 3.1?] [Mid-90s] Shareware game where you break
+coloured """"""""glass"""""""" shapes. **Platform(s):** Windows 3.11
+**Genre:** Puzzle **Estimated year of release:** early/mid-1990s?
+**Graphics/art style:** A simple Tetris-like grid with squares in one
+of several basic colours. White background. I think you could change
+the colour theme and make the squares pastel (for example) instead of
+basic blue/red/green. **Notable gameplay mechanics:** The board was a
+grid composed of squares in different colours. Squares that were next
+to each other and had the same colour constituted one shape. You could
+destroy a shape by clicking on it. A glass-breaking sound would play
+and the shape would disappear. The squares above the shape would fall
+down Tetris-style and usually recombine into new shapes, which you
+could click again and so on. The goal was to empty the screen within a
+maximum number of clicks (or maybe just do it in the least number of
+clicks?), so you had to strategize a little to try to create big
+shapes that you could then break in one click. **Other details:** The
+title might have included a word like """"""""break"""""""",
+""""""""smash"""""""", """"""""bust"""""""", etc., although I tried to
+look for games using these words and couldn't find the game. The
+glass-breaking sound was very satisfying. This one would be so
+successful today as a casual game for your phone. I was absurdly
+addicted to it for at least a couple of years but the internet doesn't
+remember it exists! Does anyone else remember it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

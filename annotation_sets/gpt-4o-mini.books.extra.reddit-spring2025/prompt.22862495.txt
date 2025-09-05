@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Sci Fi Dystopian with aliens also future. Young girl is
+raised by a robot in a underground shelter after of what she knows the
+earth was ruined.. It starts with female lead as young girl being
+raised by a robot in a underground shelter after of what she knows the
+earth was ruined but it’s actually being lived in by humans and it’s
+been terraformed by them into pretty much a different world she ends
+up having to leave because some sort of big alien bounty hunter
+monster comes in destroys robot she meets another alien that’s nice
+helps her at first she can’t understand the aliens language(I forgot
+why she was able to speak to them later). Just know later she gets a
+tartagrade as a pet but it’s like the size of a bison or rhino between
+those. Also it’s a series later she gets white hair and
+animal(control/talking)powers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

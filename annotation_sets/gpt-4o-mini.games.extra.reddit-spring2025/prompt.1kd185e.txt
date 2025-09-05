@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015-2017] a game about a cartoonish secret agent. Its
+probably impossible but i remember there is a sequence in the game
+where you as the character is fallling down onto a highway road and
+cars are about to hit you as you start having memories flash before
+your eyes. Notes that could help: 1) i vaguely remember watching it
+through Jacksepticeyes playthrough and its almost at the time he
+played or before he played jazzpunk. 2) i faintly remember that it is
+some type of secret agent game but with very goofy/funny gameplay with
+a tad bit of a serious story and cartoonish graphics and the
+characters are somewhat blocky. If anyone can find out what game this
+is, I will greatly appreciate you :D"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 2000s] A side scrolling 2d game very violent and
+gory. This game is very specific and also very hard to find, mainly
+because its a game in flash and exclusive to PC, released on the 2000
+decade (not certain about the exact year, but i guess its between 2000
+and 2006. I can vaguely remember his main characteristics, but the
+main prota is a bald guy, he can equips weapons like handguns and
+shotguns, its extremely violent, with dismemberments, is a side
+scrolling 2D game. Its similar to Splatter House, bug much more
+violent and gory, and its not a terror game, is more like a serial
+killer game or so. Like other beat'em ups, like Captain Commando or
+Fatal Fury, it has stages. The stages consists on industrial cenarios,
+offices, etc. And no, its not Skull Kid."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

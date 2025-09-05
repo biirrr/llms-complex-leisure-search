@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [maybe 2024] a horror game involving a flashing camera.
+This is a horror game that's mainly dark. they give you a camera and
+you take a picture of something with the flash. it'll show something
+scary or unlock something for you. one specific point in the game i
+remember is when you take an elevator down to a basement. there's
+recordings that are played for you, there's a man narrating murders
+that happened. it kinda sounds like he's reporting from the news. he
+gives you names and ages of the people who were killed gruesomely.
+once the recording is over there's like 4 different spots on the walls
+with burials spots with different names. you have to take a picture of
+the correct one to move on. i'm not sure what it was but in the middle
+of the room you walk into, there's a pillar that you take a picture of
+and it makes a sound that's like a type writer noise. then you go up
+the elevator and you have to do the same thing over again until you
+get out of the basement. please help me find this game=O<üim pretty
+sure ive seen caseoh play this game but i cant find the video"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

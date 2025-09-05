@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Possibly Console][~2000s] Legacy of Kayn game ?. https://pr
+eview.redd.it/nxe3ujdj4uve1.png?width=536&amp;format=png&amp;auto=webp
+&amp;s=5d496be8e0cfb6add59509f1056860b559e8820c I can only remember
+exacty the part of the game that got stuck into my head. I remember
+the enemy / boss is behind a huge glass wall that has a hole near the
+middle... and this enemy is swinging his arm(?) behind this wall...
+and you have to shoot it at the right time .. and the enemy will
+become angry and smashing the wall.. for you to defeat him and get the
+way foward clear... That's it.. that's all i can remember. I might be
+wrong, but im so convinced that the game it self was a legacy of kayn
+game .."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

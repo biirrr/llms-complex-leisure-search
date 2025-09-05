@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2014] roblox-like, play in browser.
+[PC][2013-2015] Online game, roblox-like, 2012-2013 Hi, seeking for an
+online game that was playable on its site directly without installing
+anything. All you could do was : """"""""make an avatar """"""""Find a
+cool map made by someone else """"""""Make friends basically It was
+usually parkour maps that were made. And visually the game was in 3d
+with a polygonal aesthetic, kid friendly. Don't remember anything in
+the gameplay beside jumping and double jumping. Finally, I remember
+the name being long af and having some weird letters like K or W in
+it, it wasn't the name of an object or anything it was just some
+random syllab you know. Thanks for helping me !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

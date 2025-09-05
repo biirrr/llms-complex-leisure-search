@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS][2013-2015?] its a iPad game about early America/
+American revolution. I cant remember the name of an iPad game I used
+to play In elementary school I used to play this iPad game about the
+American revolution/ early American life. There were different games
+you could play, one was shucking corn and grinding it into cornmeal,
+another you were Paul Revere and you were on a horse and had to jump
+over obstacles to tell everyone the British were coming. There was
+also one about throwing tea in the Boston harbor I think. Just a bunch
+of little game modes like that. I dont know if anyone else played
+this ,but If you remember this please comment the name!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

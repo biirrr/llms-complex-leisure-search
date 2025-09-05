@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile also PC?][2010ish] Potentially big fish game about
+missing bf and ghosts, you fight against evil magic.. It was a game I
+played awhile ago and haven't been able to find it since. The premise
+was you were a female gone to some kind of manor to investigate the
+disappearance of your partner and you find him going thru the manor
+and have to go thru a bunch of different challenges to get out only to
+find out your partner was a ghost and like lead you to his body and
+you have to stop the evil magic that killed him. I thought I was on
+this mobile game unsolved so maybe BigFish but I've reinstalled it
+recently and it's not there. Any help appreciated I really enjoyed the
+game :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

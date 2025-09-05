@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2000s-2011] Horror game. It's probably a famous one
+one, it's just that I only played the very beginning of it. It's a
+very typical looking 3d third person horror game. You play as a guy
+walking around inside of a dark building. Modern style, it might have
+been an office building, but I'm not 100% sure. Only thing I remember
+is that at a very early point a dead body falls from the ceiling, and
+is left hanging halfway out and upside down. I was pretty young and
+got scared and stopped playing there lol. Now I want to flex on this
+game with my fully developed calm adult nervous system."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

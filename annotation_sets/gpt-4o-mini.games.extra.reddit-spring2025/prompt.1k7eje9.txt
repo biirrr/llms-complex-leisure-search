@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [2015] a game where you can create platforms by
+drawing on paper. There was a game I remember playing when I was going
+to 1st or 2nd grade on my tablet. In this game you had to draw on a
+paper some platforms and you had to use colors like for example if you
+drawed on a paper with black marker or pencil (in real life by the
+way) it resembled walls with collision, if you drawed with red pencil
+it resembled lava etc. After done making your level on paper you took
+a picture of it and played on your tablet. Also there was some
+playable characters i dont really remember but I remember one single
+char you could play with was the android's mascot character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

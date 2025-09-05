@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020-2023] A 3D mystery game about sneaking onto a
+ship. Platform(s): PC Genre: 3D mystery, mostly stealth and puzzle
+game with some story elements. It was a 3rd person game. Estimated
+year of release: Between 2020-2023 Graphics/art style: It was
+realistic...ish but rather simple. I would compare it to the old
+Sherlock Holmes games (Nemesis or Silver Earing). The setting was
+always pretty bland with rather matt colors, much grey and brown. It
+was rather dark but not creepy. Notable characters: The protagonist
+was a woman, who had to sneak around in this ship. I don't really
+remember what she looked like but everything about her gave me some
+kind of detective vibe. Then there was a male voice that talked to you
+about the story. It was some kind of narrator, but I don't think I
+ever saw the person the voice belonged to. There were also Guards on
+the ship. They were always male but other than that I don't know much
+more. Notable gameplay mechanics: The main mechanic was the shadow
+powers of the protagonist. She could dive into the shadows and move
+around in them. I'm also pretty sure she could fling herself from
+shadow to shadow. When she transformed into this puddle of shadow
+there was an ability to eliminate the guards. There were different
+puzzled around these shadow mechanics. I remember you could get under
+metal bar to reach places you couldn't earlier as a person. I think
+there were also some puzzle were you had to push boxes around to make
+a new ways or create shadows in the right places. Most of it were
+stealth challenges though. Other details: I played this game like 2 or
+3 Years ago. I found it in the """"""""New release"""""""" category on
+Steam so it had to be from around this time. It was free to play and
+pretty short. It took me about 2 1/2 hours if I remember correctly.
+There was a short story introduction where there was something about a
+painting on a ship and I believe the goal was to get the painting. The
+vast majority of gameplay was inside a ship. I remember everything was
+made out of wood. The scenery was overall pretty empty, but there were
+collectibles to find. That is pretty much everything I know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

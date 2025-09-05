@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2000's] Expert level: JRPG with Giant Flying babies
+that eat people.. # SOLVED Platform(s): PS2 or PS3 Genre: Dark fantasy
+Japanese RPG Estimated year of release:2000's Graphics/art style: Dark
+world, Notable characters: Notable gameplay mechanics: **Giant Flying
+babies that eat people!** Other details: Party of heroes on what
+seemed an advanced scene. I saw my japanese playing it years ago, now
+i find it super interesting to be discussed on my channel. I thought
+it was drakengard 2 or something but no, it had a scene with giant
+babies that were flying. it was creepy and cool. I think it was ps2,
+maybe 3 of that i am not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

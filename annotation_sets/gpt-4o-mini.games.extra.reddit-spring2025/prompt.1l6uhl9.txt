@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[STEAM][2020-2023]WHITE HAIR GIRL IN DRESS WITH A RIGGED
+TURNED BASE STRATEGY GAME. Hello People, I hope you can help me. I
+have been looking for this game for months now. **Platform(s): Steam**
+**Genre: Strategy game - Turn-based game - Futuristic - War**
+**Estimated year of release: 2020 - 2023** **Graphics/art style: HD 2D
+Art Style -Japanese Anime** **Notable characters: A girl with long
+white hair and a rifle in a dress, and a young soldier with brown
+hair.** **Notable gameplay mechanics: For what I played so far, she
+seems to be able to go back in time. Weapons are upgradable.** **Other
+details: The introduction video looks like an anime. The chapter
+starts with a young soldier that have to save the girl. But you die,
+and somehow she turns back time, and you restart.** I played the game
+on someone's laptop at an event and do not have their contact. Thank
+you for the help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

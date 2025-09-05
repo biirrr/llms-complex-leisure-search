@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Teenage girl, house fire, painting of girl, in
+red dress, aunt is a famous painter, Vietnam veterans, pottery,
+Vietnamese family immigrant in Australia, Melbourne and Victorian
+countryside. Read around 2005-2012. Spoiler.. Hi - looking for the
+name of this book. I read it around 2005 - 2012 and I believe it is an
+by an Australian author. It follows a young girl who is overweight and
+has blue hair. She is getting in trouble at home after her Vietnamese
+boyfriend dies in a car crash and she is sent to live in the Victoria
+country side with her aunt who is a famous painter (character was
+called Fran I believe). Her uncle was a Vietnam war veteran who had a
+friend called Blue. The girls mum was called Gertrude and she came out
+to visit the girl part way through the book and left a heater on which
+ended up burning the house down. The story also explains the story
+behind a special painting that shows a young girl in a red dress
+floating in a creek surrounded by plants. It turns out this was a
+family member who committed suicide at a young age. The girl gradually
+loses weight and changed her hair colour and realised she has talent
+at making pottery figurines and she volunteers to make some for the
+local church community for Christmas (she makes a nativity scene) and
+right at the very end she goes back to the Vietnamese family who she
+knew (the daughter was her friend and the son was her boyfriend -
+called Minh I believe) and she was worried they would reject her
+because of the car crash, but they were happy to see her again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

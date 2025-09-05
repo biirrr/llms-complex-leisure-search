@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gameboy?] [1900s-Early 2000s] 2d cowboy sorta game. I
+really desperately need to remember this game I forgot, I remember it
+was on gameboy or nintendo ds and there were like multiple stages and
+i remember running from a trex while shooting it and at the end there
+was a big boss battle where you fight a giant robot. There were other
+stages before the trex but I forgot about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

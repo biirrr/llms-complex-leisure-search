@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy novel series about Hades and Persephone. [s]. I’m
+looking for a series, not the godess test-series by aimee carter but
+similar. I can’t remember all that much about the plot but I remember
+there being a scene on a ship(?) in the underworld where the girl
+learns some things? Maybe a battle? Gawd, I hate that I can’t remember
+more. I think the girl is drawn to a graveyard, and the mausoleum is
+the entrance to the underworld? I hope somebody can help me! Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

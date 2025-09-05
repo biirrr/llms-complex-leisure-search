@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [c. 2012] Flash 2D zombie shooter. On miniclip and
+other similar flash game websites in 2012-2013 there was a 2D zombie
+shooter with an art style very similar to happy wheels. Your character
+was in a town and the zombies were fairly quick. The game had an
+inventory function. I can picture if, but cant remember the name at
+all. I had a blast playing it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

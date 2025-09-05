@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2000-2005] Follow-up of the wierd Garbage Maze Game.
+Hey again. I posted a few days ago about this really weird PS2 game I
+vaguely remember watching on a old youtube video when I was younger
+with the blue trash can guy walking around a maze. Well, I actually
+dug up some more stuff related to it. The first photo I attached is
+something I actually found while digging through some of my old stuff
+it was still saved on one of my really old phones. I mustve taken the
+picture of the youtube video years ago. Seeing that again really
+jogged my memory especially about the enemies. I think they were these
+gross looking with 4 legs things that just wandered around, but if
+they spotted you, theyd start chasing you. They didnt move super
+fast or anything, and if you ran far enough or turned a corner, theyd
+usually lose track. Still kinda cool though I also remember a few of
+the level themes now: 1. Alleyway 2. Sewers (foggy and dark) 3.
+Unknown 4. Docks with water around the maze I dont really remember
+level 4, maybe it was level 3 or 4 I dont really know tho. 5. Unknown
+The last image is just a really unfinished layout and the objective of
+the levels I drew based on how I remember one of the levels looking
+but mostly inspired of the first photo. If this reminds anyone of
+anything, let me know. Im really starting to think this was just
+something that was sood around locally maybe or never properly
+finished. PS: If you haven't seen my first post, I'd appreciate if you
+checked that out before this one it gives a bit more context."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

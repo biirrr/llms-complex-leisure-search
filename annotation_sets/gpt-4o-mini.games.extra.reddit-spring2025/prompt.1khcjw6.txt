@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2008-2013?] HORROR GAME. Please help me find the game
+from my childhood. Im trying to find a PC game from my childhood. The
+game likely came out between 2000 and 2013 (but I think it was likely
+from 2008-2013 because the graphic where pretty good not like old
+games). I believe it was a first-person vampire or horror game with
+shooting mechanics. I only remember the opening scenario: The player
+character is a man who starts in a car driving to an unknown
+location(or it starts with the man exiting the car). When the car
+stops, he gets out, and the camera shifts to an old, haunted mansion-
+like building. The character has a gun and begins walking toward the
+building, possibly going through a tutorial. He encounters and shoots
+zombies or vampires along the way. After entering the mansion, a
+cutscene plays: the man calls out to a woman who is also inside the
+buildings entrance hall (yes it was synchronised). Suddenly, a flying
+vampire-like creature swoops down from above and grabs the woman, who
+screams as she is taken away. The cutscene ends, and gameplay resumes.
+The player begins climbing the interior floors ( but, if I remember
+correctly, thy are like the mansion floors where you could still see
+the bottom floor even from higher floors, ) killing vampires or
+monsters with pistol to rescue the kidnapped woman. Eventually, he
+reaches a higher floor and encounters the first bosspossibly a
+gargoyle-like creaturewhich he must defeat using his gun. The game
+had eerie and anxiety-inducing sound design and a dark atmosphere. The
+Animation resembled the later resident evil games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

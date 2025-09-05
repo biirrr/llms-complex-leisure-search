@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2025] Classic Point &amp; Click Adventure set in a
+Zombie Apocalypse. EDIT: SOLVED, the game was Long Gone
+(https://store.steampowered.com/app/1977610/Long\_Gone/) I swear I saw
+a game in the classic LucasArts/Sierra mold of adventure games set in
+a zombie apocalypse in a showcase earlier this year, but now I can't
+find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

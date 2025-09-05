@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID][2010-18] LOOKING FOR GAME NAME. Looking for the
+name of the game where the protagonist is on the logo wearing a blue
+jacket looking up. It's an adventure game where the story ends
+somewhere in scotland. It was free around that time but later on they
+made it a paid app. I played it then but weirdly cannot find it
+anywhere on my history"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

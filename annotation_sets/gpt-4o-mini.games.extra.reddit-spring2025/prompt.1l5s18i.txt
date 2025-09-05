@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2010] [Bullet Hell(?)] Game involves a spaceship
+shooting enemies on a big platform, firing at enemies that appear as
+spinning tops. Its second mission, titled
+""""""""Arachnophobia,"""""""" focuses on shooting a giant robot
+spider.. **Platform(s):** PC **Genre:** Shooter/ Bullet hell ( I might
+be wrong, but it's basically a shooter game) **Estimated year of
+release:** 2000-2010 **Graphics/art style:** 3D, but it's a bit low-
+poly? I don't remember. **Notable characters:** \- A spaceship that we
+can control and shoot bullets at enemies. Can either shoot singular or
+spread bullets. \- Enemies that look like slow-moving spinning tops.
+It can also shoot towards us. \- Second level titled \[Arachnophobia\]
+contains a giant robot spider that you have to defeat via shooting
+generators on its back. **Notable gameplay mechanics:** Players
+control a ship that shoots focused or spread bullets at periodically
+spawning enemies. Players must also manually change the ship's
+direction as it moves across a round platform. I remember starting at
+one side, shooting enemies while moving side to side throughout the
+platform until I reached the end, manually changing the ship's
+direction, and repeating this until all the enemies were defeated,
+ending the round. The enemies, which I remembered resemble slow-moving
+spinning tops, also shoot bullets and can collide with the ship. The
+second round, titled 'Arachnophobia,' has this giant robot spider. It
+can be defeated by shooting some sort of circular generators on its
+back, of which there are either six or eight (as I remembered). If the
+ship collides with an enemy or is shot, it will respawn until its life
+points are depleted. **Other details:** I remember getting this game's
+CD from a PC shop when I was like 5-7 years old. I only reached the
+'Arachnophobia' level until I lost the CD because of severe CD decay.
+I kept on remembering the giant robot spider (not because I'm
+arachnophobic, but I think it was cool back then), and since I'm
+trying to beat all the games that I played throughout my childhood,
+this particular game came into my mind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

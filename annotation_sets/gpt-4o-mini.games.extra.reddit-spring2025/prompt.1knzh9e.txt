@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS or PSP (I think)] [2005/2010] A game with tabletop rpg
+miniature in a medfan universe. Hello! I'm looking for a game I saw
+once or twice on video like """"""""50 hidden gems on this
+console"""""""" so it's pretty vague. I'm looking for this game
+because it made a very interesting choice concerning character design.
+Indeed all the character in the game were designed like tabletop rpg
+miniature. They weren't animated like in other game instead they moved
+like a miniature (doing little jumps and oscillating a bit). There was
+dialogs, turn based combat (but I'm not really sure) and if I remember
+correctly it was on DS or PSP. But it could be on PS1 since the image
+was.. crunchy =p I'm really sorry for the lack of precise informations
+and thanks you very much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

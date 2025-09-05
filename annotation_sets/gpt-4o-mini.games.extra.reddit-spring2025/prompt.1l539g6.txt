@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Flash game, medieval, straight top down.
+Platform(s): PC, Flash game Genre: Action, Tower defense(?) Estimated
+year of release: 2000s Graphics/art style: cartoony Notable
+characters: Playing as a knight or something close Notable gameplay
+mechanics: It was a topdown game where you were in a castle and
+defended it from invaders coming in. I cant remember anything else
+about it Other details:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

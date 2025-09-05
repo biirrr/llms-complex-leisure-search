@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android] [2010-2015] android 2d horror game like Ib and mad
+father, young blond hair girl protag. I remember it so clearly, and
+that the developers also had multiple games like it up. but I can't
+remember the name for anything but I feel like protags name was Emily?
+she was basically stuck in this haunted house and you had to go
+through corridors and solve puzzles. it's probably taken down by now,
+but my kid self just needs to know it again. there was another by them
+too, set in like a mental hospital? it has a young black haired boy on
+it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

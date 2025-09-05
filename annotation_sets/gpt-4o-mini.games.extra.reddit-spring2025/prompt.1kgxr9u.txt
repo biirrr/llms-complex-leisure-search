@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000?] A spy game?. Hello! This game idk the year
+actually its a estimated. The game i think was a spy game but had
+weird things in it. It had floating golfing, pigeons being turned into
+pies, the boss being eaten out of jello and being turned into a croc.
+i drew a picture of what most characters were built like! I remember
+it had good music and was just a silly game. heres more things I can
+remember: pizza horror game in the game a tooth detector i think the
+main character was called agent smth there was a beach a toyko like
+area sushi with nanobugs"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

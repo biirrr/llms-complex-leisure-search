@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][20XX-2016] Robot(?) puzzle/adventure game.. NOT
+MACHINARIUM. It was either puzzle or adventure, perhaps both. It ran
+on old hardware, so it's definitely an older title, did not make any
+noise upon coming out I believe, but I doubt it was an indie either.
+It had 3D graphics and had a fixed camera or top-down view, leaning
+closer to the fixed camera guess. The protagonist MAY have been a
+robot on wheels, I vaguely remember other robots rusted on the ground,
+maybe the lore is something like we're the last robot? I believe there
+were no enemies or friendly characters, but that might be wrong. You
+possibly had to collect coins and/or move around crates to progress?
+Perhaps collect various items, i.e. a lever for a door. The game
+wasn't cartoony, but not entirely realistic either, pretty gritty
+artstyle if I recall correctly. My biggest memory of the game is after
+a bright, maybe autumn-y location, perhaps in a yard, you enter a dark
+building, slightly old, only light emmited from either the player
+character, or a single lamp in the middle of the room. The image is my
+best guess on how that looked. Take everything I said with a spoonful
+of salt, it was a long while ago, and I might get some things entirely
+wrong. https://preview.redd.it/m0oal5qrsw4f1.png?width=800&amp;format=
+png&amp;auto=webp&amp;s=891aced4be22a540f50d6e406a0a3b3bebcbf449"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

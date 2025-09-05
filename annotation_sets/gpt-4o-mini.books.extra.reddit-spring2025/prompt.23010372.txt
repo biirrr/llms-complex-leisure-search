@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy series with Political tones. Story mainly
+follows a male character who starts as unpowered nobody without a
+spirit. He bonds with nomadic tribe to try and stop skirmishes/ war.
+Roman Empire style. Spoilers.. It’s a series of around 5/6 books and
+has a fairly overt Roman Empire style and follows multiple characters.
+However the main character of the series starts out as an unpowered
+nobody, and he bonds with a nomadic tribe to stop the skirmishes/war,
+one of which a girl who becomes his future lover. As the series
+progresses he becomes an archeologist? And starts uncovering some
+secret that might cause? Or end?? A war that’s happening in the
+kingdom. But because he’s away from his mother who is a water spirit
+user he starts to develop his ability to talk with his spirits. Turns
+out his mother was the lover of a previous emperor? And she’s used her
+water spirit to suppress his ability to access the spirits he was born
+with. And through that he learns that he is the rightful heir to the
+kingdom and the series ends with him having a child with his lover. (I
+keep thinking of the name Gaius but I might be imagining that) Other
+major character includes The main characters lover. Who even though
+she’s a nomad and the nomads don’t have the ability to call the
+spirits she gains the ability because of her sleeping with the main
+character. A diplomat?? Lady with a wind spirit?? An Uncle?? of the
+main character general/captain guy with a fire spirit?? Those
+characters end up in a relationship. And it’s a fairly spicy one.
+(Hence why I remember it being an Adult fantasy and not YA)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

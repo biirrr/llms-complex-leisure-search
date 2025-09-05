@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non Fiction book dealing with a group of Death Row
+inmates who were released back into society. Read between 10/15 years
+ago. Not an story of escape... [s]. I think a law was rewritten or a
+declassified leading to them no longer being considered guilty and so
+they were freed and the book looks at what they did with their new
+found freedom, how many lead successful lives, how many re-offended,
+etc... I obviously need to reread it for the shocking amount of detail
+I'm able to give you all but hoping someone out there can help. Many
+thanks in advance, Laura"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

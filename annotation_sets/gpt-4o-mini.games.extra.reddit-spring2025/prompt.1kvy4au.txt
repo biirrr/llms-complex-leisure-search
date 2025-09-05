@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][2000s] World map with boat breaking through ice?.
+Hey all, this might be a longshot as I don't really remember much
+about this game at all. It was a game my dad played on our 360, and
+the main thing I remember was a top down view of a world map and a
+boat the player would control. The boat was a large ship and could
+break through ice. I think it was some kind of RPG as that's what he
+played most, there was definitely more to the game than just
+controlling this boat. He liked a lot of long games (Final Fantasy,
+Elder Scrolls.) I thought at first maybe it was something like FF13,
+but I can't find a boat in those games. He also played gears of war a
+lot, I think it was a mature game? I seriously cant remember anything
+about this game aside from a boat, on a top down world map you could
+travel place to place to, and it would break through ice. Sorry I
+don't have more to go off of, does anyone have any idea?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

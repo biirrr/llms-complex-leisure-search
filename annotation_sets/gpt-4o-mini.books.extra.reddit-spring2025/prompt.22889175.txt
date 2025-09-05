@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy novel where the male protagonist has a magical seed
+that he has to transport to a society protected by a tree that’s
+dying. I read this book probably 8 years ago and it’s definitely older
+than that. I remember that this boy has a seed that’s growing into a
+tree and he goes on this long journey to find the hidden society
+living in a mountain and they have a magical tree. But the tree is
+dying and he’s racing against the clock to get there before that
+happens."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

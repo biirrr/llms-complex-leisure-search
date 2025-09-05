@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/MOBILE] [UNKNOWN] FANTASY MICKEY MOUSE. ***SOLVED*** |
+So like, I have this vague memory, or rather memories, of a Disney
+game that started out in a dark forest and then you went into a tower
+as Mickey Mouse, cause a witch had kidnapped Minnie I believe. And
+like, I think it was 3 bucks in the google play store and now I can't
+find it ANYWHERE. No trace, no youtube, no results. I do have a vague
+memory that It was a platformer, but also had boss fights. Like one of
+them had a candy themed boss I think. Anybody know it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir-couple moves to tropical island atoll. [s]. Non-
+fiction, mostly humorous A young couple decide they want to move to a
+tropical island They start applying for obscure government jobs One of
+them gets hired (the woman I think - the man's job was to write the
+book) They move together to a VERY remote, small island Deal with
+fresh water shortage, local wild dogs, water pollution, culture shock,
+poor housing, the irony of being in the middle of what seems to be
+paradise but so much poverty and pollution Live there for 1-2 years
+before moving back to ""civilization"" Funny scene towards beginning
+of book when the man goes for a swim in the ocean - looks like
+gorgeous, pristine paradise - only to realize that the locals use the
+beach for their community toilet & he's swimming in it Thanks for your
+help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

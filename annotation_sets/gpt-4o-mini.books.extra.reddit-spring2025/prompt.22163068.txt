@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, late 70's early 80's one word title about a
+young boy. [s]. I read this book in 8th grade (1979/80), about a young
+boy with emotional/developmental issue, might have been some kind of
+abuse. The title was the boys name, Tim, Tig, I could be way off, but
+it was short."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

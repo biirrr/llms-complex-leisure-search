@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][Late 90s] Isometric Drifty Racing. This car made me
+think of the game: https://old.reddit.com/r/WeirdWheels/comments/1ki67
+oe/weird_kit_on_this_350z/ Reminds me of a top-down kinda isometric
+arcade racing game from the 90s or early 2000s that I have not been
+able to identify by Googling yet. Dozens of titles that aren't it. It
+had a great sense of speed. Arrows and !!! flashed before corners and
+obstacles. Handling was kinda loose and drifty like it was on a dirt
+road, and big trails of dust came off the car. I recall the cars, or
+maybe just one car kinda having this old school Duesenberg type of
+style. Anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

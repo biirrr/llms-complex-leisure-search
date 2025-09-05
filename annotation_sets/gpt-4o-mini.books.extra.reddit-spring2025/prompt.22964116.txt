@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Mystery series set in England/ UK. Family with
+5ish kids goes on holiday to beach house and gets involved with a
+mystery. Smuggling. Boat. Cricket game. Used copy found around 1990s..
+I believe these were written in the 1950s - I found a single used book
+in the 90s I think. The family has about 5 maybe 6 kids (the author is
+NOT Enid Blyton) and this is their second summer at a beach house with
+a mystery. They have a dog. The kids remind me of the kids in Boxcar
+Children books - except they have both mother and father. One of the
+girls and her father play in a cricket game. I believe the mystery
+deals with smuggling. The family gets a boat and does some boating in
+the sea. I think the series name had the family name in it. I've tried
+Googling, but end up getting Enid Blyton, Hardy Boys, Trixie Beldon
+and Nancy Drew suggested."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

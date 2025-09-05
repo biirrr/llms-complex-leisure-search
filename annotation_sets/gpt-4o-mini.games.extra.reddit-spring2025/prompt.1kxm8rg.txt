@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Maybe][2005-2015] Game with mannequin easter egg. So my
+friend and I recently got to talking about creepy things in games.
+Went from creepypastas to Easter Eggs and I happen to bring up this. I
+remember seeing a video online of scary easter eggs in games and the
+one I remember describing to my friend was this: It was a first person
+shooter(?) that featured a level in some sort of mannequin factory.
+After walking through a hallway, to your right are 3 mannequins and
+the one in the middle slowly moves its head to turn to you. After
+walking away from the 3 mannequins, there is a faint whispered Hey
+that plays and after turning around, the mannequin that had turned his
+head to you is now looking back forward. If any of you know what this
+game is, I am highly appreciative."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

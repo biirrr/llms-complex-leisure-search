@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2024/Unknown] Funny RPG game. Okay, so i was
+looking through the games i own a few weeks back, and one stood out to
+me and i really wanted to play it. However, i have completely
+forgotten the name and where it was. Imagine medieval looking
+surroundings, kind of like skyrim-esque. Battles, bosses, swordfights
+etc was present if i remember correctly. The description said
+something about it being a humorous and funny twist on
+""""""""normal"""""""" RPG's. The screenshots of the game also showed
+multiple funny screenshots. I'm a bit of a game collector, so
+searching for something i don't remember the name of in a library of
+1400 games is going to be impossible :/"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Romance novel with multiple (maybe three)
+parts. One female lead who has psychic dream and another female lead
+who has a search and rescue dog.. Tuesday's Child SOLVED SOLVED SOLVED
+Tuesday's Child and Hide'n Go Seek by Dale Meyer This was a
+romance/mystery novel that I read as a young adult maybe 2016-2020. It
+has multiple parts, I want to say three, but I only remember the plot
+of two parts. Part one: female lead has psychic dreams about people
+getting murdered by a serial killer. She experiences the murders in
+first person, feeling the pain, and wakes up with blood all over her
+bed. She’s very scared/timid, but goes to the police station. They
+don’t believe her at first, and then are suspicious of her because she
+knows about the crime scene. One police officer (male lead) gives her
+a chance since he has previous experience with others people that have
+psychic abilities. He sees first hand what happens to her, her
+documentation about what she remembers, and how it corroborates with
+the crime scene. He ends up working with her to find the killer and
+ends up needing to protect her from the killer. Eventually falling in
+love. Part two: a girl is a disaster first responder with a search and
+rescue dog. She responds to an earth quake and begins encountering
+weird things and dead bodies that don’t match the disaster. There’s a
+male lead and romance for sure, but I can’t remember that part well.
+Ultimately she finds out one of her friends that responds to disasters
+with her is the killer. That’s all I can remember, any help is
+appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

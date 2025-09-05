@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy about a teen who runs from an evil group trying
+to capture him but finds someone to protect him in a train station who
+gives him weapons and his help. The book is one I read in 5th or 4th
+grade in my elementary school library and is probably in some middle
+school library’s too for ages 10-15 probably. The book is about a boy
+I think around 12 who is being chased by an evil group of people
+trying to capture him. The boy finds someone to help him in a train
+station and he helps keep him safe from the bad guys. The cover is red
+on the book and the boy has a sword and maybe armor too with somebody
+standing next to him with dead bodies on the ground. Feel free to ask
+questions and I’ll try to answer them. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE][EARLY 2010s] cant find any traces of this game!.
+Ive given up looking for this game this is my last resort, This game
+was on mobile, it was some sort of 2d puzzle game all I remember is I
+think you play as the pencil and there was an evil rubber and
+paperclip they had angry eyebrows. If you ask questions it may jog me
+memory more. :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

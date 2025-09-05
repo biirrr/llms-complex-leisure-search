@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][indie][itch.io][2018-2021] A game about an old grandma
+with Gameboy-like graphics. I am looking for a small indie title where
+the main character was an old grandma. If I remember correctly the
+game was about either delivering or picking up your grandson from
+school and then things would quickly take an unexpected turn and stop
+making any sense. I think there was some stuff like entering a
+building and ending up in a completely different place than expected.
+Grandma would also spout total nonsense to people she met. There were
+multiple endings. One of them was about """"""""going to the
+arcade"""""""" (as in, arcade video games). I think that the
+implication in the game was that the grandma had dementia and this is
+why she's seeing weird things and does stuff that makes no sense. But
+it was never stated outright and it was left to be ambiguous. The game
+was in 2D and the graphics were a bit reminiscent of early Gameboy
+games, black and white but with some color on the outlines. I think
+that the only color used might have been lime and it's various shades,
+but I could be wrong. I am 100% sure I played this on itch.io."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

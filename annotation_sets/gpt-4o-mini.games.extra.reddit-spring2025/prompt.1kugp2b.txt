@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [unknown] A game about managing girls. This game
+was on the AppStore and you were a manager for girls who wanted to be
+stars. The art style was pretty similar to dream daddy. The starter
+character was a girl with pink hair and she was pale. Youd text the
+girls in order to fill out their photo album. Youd have to upgrade
+their houses and give them spa treatments. A game thats similar is
+Producer: choose your star."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

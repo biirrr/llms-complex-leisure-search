@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1999-2003?] PC 3rd-person horror game I saw a video of.
+I'm trying to remember a game I saw some Youtube playthrough videos
+of, it was a 3rd person horror game with a male protagonist (I think a
+priest, or a priest was a major character? Not sure) set in I think
+the modern day and I think had a visible health bar+some sort of
+magic/energy bar. I recall the player having access to supernatural
+attacks and that the game was considered to be bad or mediocre. It was
+mostly indoors. From what I recall of the graphics, I'd place it
+between 1999 and 2003. I believe it is NOT: Nocturne The Blair Witch
+game trilogy Shade: Wrath of Angels
+Archangel[](https://en.wikipedia.org/wiki/Shade:_Wrath_of_Angels)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

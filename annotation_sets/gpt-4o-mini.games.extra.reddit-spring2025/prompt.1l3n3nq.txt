@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IPAD][LATE 2000s-2010s] educational kids game with a pigeon
+as a mascot. It was an old educational kids game on my iPad probably
+late 2010s but just in case it was made in like 2009 I put 2000s I
+dont remember much of the game except the mascot and helper(?) being
+a pigeon who mightve been wearing something blue, and thered be
+games you can play within the game and there was like this option for
+a stage/show/sont(?) but the only song I remember them playing was
+Yankee Doodle dandy (it was my face) it was like a 2d really flat
+style art"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

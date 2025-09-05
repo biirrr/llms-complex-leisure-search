@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2010s?] FPS zombie game, possibly made in Unity.
+I *hope* this was made in Unity, because my memories are super vague.
+The game started inside a two-story house at night, with dim lighting.
+I think the player already had a gun (probably a shotgun with
+unlimited ammo). You could shoot zombies from the windows depending on
+your viewing angle. The house was in a sort of open lot. There was a
+neighbors house directly ahead, and maybe a couple of houses on the
+sides. A road ran between them, leading to a small gray town. I think
+you could enter some of the other houses too. As you progressed into
+the town, different types of zombies started appearing  I vaguely
+remember fat zombies and crawling zombies, but they probably all
+functioned the same: walk toward the player and attack. **One notable
+thing  zombies were not constantly spawning. They were actually kind
+of rare, with a lot of walking or downtime between encounters.**
+**There were only two weapons (I think), and I remember finding the
+second one after playing for around 30 minutes** The layout and
+architecture of the houses reminded me of the **Citadel** level from
+*Serious Sam: The Second Encounter*. The lighting and atmosphere also
+reminded me of a lesser-known GameJolt title  **3D Zombie Hell 3**.
+Its possible the zombie models were reused from that game too, since
+it felt like a small Unity project. It was likely a simple
+downloadable game, maybe from GameJolt or Itch.io."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

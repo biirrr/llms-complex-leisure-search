@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SUPER NINTENDO (probably] [UNKNOWN] a game about a baby in
+a egg shell who rode a skate. Platform(s): my guess is Super Nintendo
+Genre: platformer Estimated year of release: probs the 80s or 90s, i
+really dont know Graphics/art style: pixel art like mario bros Notable
+characters: the baby in the egg shell Notable gameplay mechanics: you
+rode a skate around a bunch of platforms my friend is getting crazy
+with this one so i need yall's help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Historical Fiction: Scottish/ English/ Irish/
+Welsh setting in older times (Medieval): Young prince with cleft
+palate being cared for by future wife/ maid. Read 1994-2000.. I read
+this book between 1994 and 2000. The cover is of a girl with long wavy
+red/blonde hair hauling an unconscious young boy out of the water on a
+beach. (I think) with a blue background Additional details: The main
+character is a girl who is either a maid to her friend (princess) or
+the princess herself. They are traveling in a group of 3, fleeing bad
+guys who want to kill the young (6 or so) prince one of the girls is
+supposed to marry. The prince has a cleft palate. They are trying to
+make it to a safe haven somewhere specific (possibly with prince's
+family). The girls are around 11, 12. The main character's name is
+something in a similar vein as Bridie, Branwen, etc. The title may be
+4-5 words: ""A tale of a maid"" or something similarly basic Thank you
+for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

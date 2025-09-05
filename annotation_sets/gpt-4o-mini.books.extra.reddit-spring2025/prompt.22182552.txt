@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction New Take on Dream Interpretation with Interview
+Process for Self. Dream interpretation book read during the late 1980s
+or early 1990s. This book indicated that dream symbols are not one
+size fits all (snakes are not always bad symbols and puppies are not
+always warm fuzzy memories)... dream interpretation depends on the
+individual who had the dream. The book took you on an 'interview'
+journey with yourself after you had your dream... ('what does an empty
+room mean to you?' - some people would feel exposed in an empty room,
+others would relish the space... and so, the interpretation would be
+different for different people). Thanking you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

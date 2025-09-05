@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES/SFC][1995-1996] game similar to Super Bomberman. Im
+looking for the title of this old game, some quick description top of
+my head: * Super Famicon game (japanese language) so around 1995-1996
+era * 2D game * gameplay very much similar to Super Bomberman * the
+character design looks like mini/chibi version of a car (kinda like
+characters in Cars of Pixar) * the bomb looks like a rectangular
+battery (unlike in bomberman where the bomb looks like a spherical
+bomb)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

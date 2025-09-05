@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nurse Romance. Probably written 1970-90. Nurse Valerie
+takes up a new job in hot & dry place (probably Western US). She has a
+colleague/roommate called Andrea & meets a rich playboy named Roy.
+Other love interest is male doctor. Spoiler.. I read this in the 90s.
+It looked like an old book. I remember the protagonist Valerie as a
+level-headed girl while her friend Andrea is more impulsive and
+extroverted. They are both nurses. The book cover has an illustration
+of a pretty woman (wearing a vintage nurse uniform with apron and hat)
+with shoulder-length hair standing in the daylight. There is no
+kissing on the book cover...only Valerie in her nurse dress giving a
+cool stare. (view spoiler) [ Andrea is unmarried but pregnant,
+probably by Roy. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

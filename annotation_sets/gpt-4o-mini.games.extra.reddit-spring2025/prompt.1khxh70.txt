@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown maybe sega?][maybe 1980's] all I remember is you
+play as a white dog?. **Resolved** I'm going back to my child hold and
+honestly can't remember what platform this was on or what era. All I
+can recall is it was a side scroller platformer type game, you played
+as a white dog, kind of like an English bull terrier, I remember it
+having a long face. One of the levels was like escaping a dog pound,
+you'd fight other nasty dogs and so on. I also think one of the levels
+was trying to escape the back yard? For the life of me I can remember
+anything else about the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

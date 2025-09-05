@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Natural history book [s]. I need help. I had a book as a
+child, and would desperately like to find it again. It was a natural
+history book. I can't remember the title or author. This is from the
+late 1950s. The book was divided into sections: Insects, birds, fish,
+mammals, reptiles and amphibians, trees, flowers, and minerals. It was
+a large book. It had two entries per page. One entry on the top half,
+the other on the bottom half. Each entry was divided vertically into
+text and illustration, and was checkerboarded--that is, if the top
+entry had illo on the left and text on the right, the bottom entry
+would have text on the left and illo on the right. I loved this book--
+the illustrations were beautiful and evocative-- and miss having it in
+my library. A reward will be given to anyone who can assist. Is there
+a database of books published by year and subject that i can search?
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

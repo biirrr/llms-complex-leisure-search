@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010s] Does anyone know the name of this old PC
+game about a girl visiting an island?. Ive been thinking about it for
+a long time, and I just cant remember the name of this game. Even
+while looking on the internet, asking chatGPT& Help me out ! When I
+was little, I used to play a game on my mothers old computer,
+probably during **2000s-2010s**. Maybe even before. It shouldnt be an
+adult game as I was pretty young when I used to play it (around 7
+years old?) Maybe my memories are a little old and confusing, but if
+Im not wrong, the main character was a girl (or not) with **pink
+hair**. She was accompanied by some kind of bit animal, like a bear.
+Both of them had to unravel a mystery or something like that. Im not
+sure if it was an academic game (for kids to learn like PIPO for
+example). The story unravels in an **island**, and theres this
+passage where you could go into the **volcano**, there were passages
+to walk into. The game mechanics works only with **arrows** if im not
+wrong, the type of My Candy Love to move places. The art style was
+pretty basic, in 2D, i dont remember if it was pixel (not THAT pixel
+but the very old games iykyk). Its not a visual novel either. I dont
+remember much but I know it used to stress me out when I was small.
+Hope you can help me out !!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][Early 2000s] RTS style game with different races of
+goblins. This game keeps coming back to me randomly and I can never
+find it with a Google search. But its a RTS type game where you face
+off against other factions. Each faction is goblin themed with a
+special """"""""boss"""""""" unit for each one. I can remember three
+of them which is a giant green slime that expands as it eats units and
+cam explode, a """"""""robot"""""""" that is just chunks of metal
+joined by electricity and cam turn into a tornado, and a giant goblin
+that swings around a giant club i think but can pick up and eat the
+smaller units for a health boost. I know the moment someone tells me
+it im gonna feel like an idiot"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

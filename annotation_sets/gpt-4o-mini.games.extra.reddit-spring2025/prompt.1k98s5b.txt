@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] point and click something. Genre:
+adventure first person point and click (maybe educational) Details
+that I could remember: game name is probably one word, menu if I
+remember in tower in mountain, I remember encyclopedia with earth
+history like what continents were on earth through all it history with
+audio narrator, maybe there was more idk... I remember also there was
+a jungle? And house in jungle. Style of this game is probably weird
+3d... Honestly cannot remember more, my brain melting while I thinking
+about it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2017?-2024] A FPS game with 4 fingers as a gun. I
+think it was released in the past 5 or maybe 7 years Im not sure? It's
+most likely an indie game where you have- 4 fingers as a gun and
+you're dropped in small little area of land which is like yellow in
+color but the rest of it is just black and you have enemies spawning
+and the objective is to survive waves for as long as possible. one
+enemy that i remember was a flying centipede thing it looked so
+awesome and i wanna play it but i cant remember the name"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2019?] first person horror game where we are being
+chased by a man with a TV instead of a head. # Help me find the
+game=O=O=O=O * We wake up in a completely white room containing only a
+bed. * When we step into the corridor, a person with a television for
+a head is wandering around. * We have to find six or eight cassette
+tapes and escape the building. * There are various rooms filled with
+other TV-headed figures who are harmless and cannot be interacted
+with. * The game is played in first-person view, and the app icon
+features a television. * We can die if a lamp falls in the corridor or
+if were run over by a medical gurney (which sounds like a racing car
+when it moves). * We are pursued by the ghost of a long-haired woman
+in white (the classic woman in white horror archetype). * Each time
+we encounter the aggressive TV-headed stalker, our sanity decreases,
+and we must find pills to restore it. * There is a room with six
+toilets facing each other, where harmless NPCs sit and speak in their
+own language. When we pick up a certain item there, water starts
+gushing from the toilets, and we have to sit on them to prevent the
+room from flooding; afterward, we receive a cassette tape. (Sorry, I'm
+using a translator. I also drew an approximate gameplay in the game)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

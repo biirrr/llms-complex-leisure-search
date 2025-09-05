@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps1 or maybe PC?] [Pre 2011?] Game I played when I was
+little with a jumpscare I never forgot. So Im gonna try this again
+LOL When I was really little, my dads games were mixed in with mine
+so I got bored of Spyro and decided to switch it out for one of my
+dads (dont ask me why. Dumb choice) but I remember I believe it was
+a 3D survival horror game. The main things I remember are as shown in
+the drawings! The biggest part however was that small kitchen, I
+remember once you walked into it, the stove/oven/ maybe cupboard?
+would pop open and something jumps out of it or maybe there was a dead
+body on the floor that revived once it popped open and started
+crawling towards you. The closest enemy I can find that looks like
+what the jumpscare one was is the licker from RE2. Its completely
+possible Im misremembering playing it on ps1. Or even that Im
+mashing games together because I did watch my dad play TONS of horror
+games on his pc a kid. Any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

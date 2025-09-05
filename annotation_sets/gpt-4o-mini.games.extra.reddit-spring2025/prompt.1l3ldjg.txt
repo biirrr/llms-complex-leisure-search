@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES] [1990's] Meltdown inside alien planet [SEGA/SNES].
+Looking for an uncommon SNES or Sega 2D platformer/shooter from the
+early 1990s. You're in a suit going into really slimy and creepy caves
+inside a planet, and you have to find the nuclear bomb before it goes
+off and causes a meltdown. Its a 1 &amp; 2-player co-op. It's a hard
+game, and you get the feeling that you'll never escape because there's
+so many weird creatures. Would love to play this again!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

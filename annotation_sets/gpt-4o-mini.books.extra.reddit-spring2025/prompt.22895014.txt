@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fiction (series) about a guy who ran away from his abusive
+father with a little brother who loves solving puzzles and meets this
+girl at church who later vomits behind and thats where she meets the
+mc. Read 2022.. more details: i read the book in 2022 but it came out
+before then probably Main character is a boy author is a girl Abusive
+father who tries to kidnap the girlfriend of mc in the second book
+after escaping prison Ran away with a younger brother who loves
+solving puzzles whos name might start with and l or e or s they live
+in their truck was published in the late 2000 into the 2010s Met the
+love interest at church; her father is the choir leader and a
+professor Part of a series title is three or four words long cool-tone
+cover"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy Duology about siblings on the run who get taken
+in by a secret clan of Ninja or Assassin. Read around 2005-2012.. This
+is, as far as I'm aware, a duology I read back around 2005-2012, but
+I'm not sure when the books were originally published. Appears to be a
+Young Adult series. All I really recall is that it was about a pair of
+siblings who were hiding/on the run from people and got found and
+taken in by a clan of Assassins or Ninja. After being taken in the
+siblings, a brother and sister, decided to train with the clan to
+become assassins /ninja themselves."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

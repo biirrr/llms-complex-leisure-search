@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2020s] Zombiside? (not the board game Zombicide).
+\[EDIT\] SOLVED, in a record two minutes. Thank you. This was a game
+on Steam. It was a fantasy game about a zombie apocalypse. It was a
+top-down diablo-clone. I know the logo text was in green letters. I
+believe it was spelled Zombiside, but I cannot find it anywhere after
+a serious Googlin'. Any help would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

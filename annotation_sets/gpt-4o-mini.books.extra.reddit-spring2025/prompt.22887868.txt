@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Book, possibly YA: A story about inner city kids
+having a poetry project in school. Each chapter has the POV of each
+child giving a look into their life and what their influences their
+poem. [s]. Read this book when I was in 7th grade in 2011/12 during
+our unit on poetry. I think the book had been out for a while,
+probably 90s or early 2000s maybe. It's a chapter book, not crazy
+short but definitely could be read in one sitting. I do not recall the
+cover art or anything. My teacher loved and met Maya Angelou during
+college, so we learned about her and also read this book. I thought it
+may have been by her, but so far I haven't found any of her books that
+match what I remember. I am pretty sure the main characters were all
+black children in sixth grade. Each had their own personalities and
+hardships that inspired their poems. When they read their poem to the
+class and gave their classmates a different look at them afterward. I
+only vaguely remember the plots of 2 girls from the book. One girl was
+super pretty, had green eyes and light brown hair. I think her name
+was Makayla, I could be mistaken. Her struggle was she was mixed and
+wasn't white enough nor black enough to feel like she fits in. Also,
+because she was pretty I think a lot of the boys harassed her, and the
+girls didn't want to be her friend. The other girl was bullied and
+made fun of her looks bc she was chubby. She tutored a little
+kindergarten boy on his school work. He asked her if she would marry
+him and when she asked why and it was because he thought she was
+beautiful. I've always remembered that scene. Thinking of it recently
+made me think of the book and want to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

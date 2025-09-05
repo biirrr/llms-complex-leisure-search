@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2005]A game about a saucer-like ship filling space
+border/frame on screen with metal like in qix.. **Platform(s): PC**
+**Genre: Puzzle** **Estimated year of release: \~2005-2010**
+**Graphics/art style: Kind of like atomvaders. Background always had
+some kind of space scenery like space stations, planets, etc..**
+**Notable characters: No such character. Player could only control a
+disc like ship and fill up certain space like one does in qix puzzle
+games.** **Notable gameplay mechanics: Same as qix games. A disc-like
+ship will go from one edge to another to fill up space with lower
+surface area. Enemies will be other similar ship that bounce around
+edges to destroy player.** **NOTE: I can barely remember the images,
+so there may be around the description of ship.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

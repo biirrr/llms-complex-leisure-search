@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED - The Midnight Arrow by Zoey Draven - New Adult
+Fantasy Romance. Lead female is a healer - keeps bees, heals a wounded
+soldier what turns out to be a decoy to get to one of her beehives’
+heart. Published after 2010. Spoiler.. She lives in forest keeps bees,
+heals a wounded soldier what turns out to be a decoy to get to one of
+her beehives’ heart. Read in 2025, definitely published after 2010."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

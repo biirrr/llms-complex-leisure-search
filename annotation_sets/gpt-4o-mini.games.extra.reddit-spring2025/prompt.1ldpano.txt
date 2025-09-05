@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] city builder-esk. So I once saw this game on
+youtube about a year/ year and half ish ago and played it for a little
+while before my pc broke down. It's a city builder type with a dark
+and gloomy atmosphere. 3d. I remember it had a lot of castle
+building/upgrading, small buildings used for air purification and wood
+mills. There's also another character accompanying you (female). It's
+a bit rgp esk and have limited building area. This is all i can
+remember. Someone help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

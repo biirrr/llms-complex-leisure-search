@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ARCADE][90s?] A game about SHRINKING GUY AND FIGHTS
+BACTERIA INSIDE THE BODY [Arcade][unknown] Sci-fi 2d side scrolling
+shooter. I'm looking for this game I played this game on an arcade
+machine when i was a kid I think it's an old 2d side-scrolling shooter
+game where a doctor or guy turned small and shoot's bacteria's inside
+the human body, And i think the first level of the game is inside the
+mouth where he shoots bacteria or plaque inside, That's what i only
+remember about that game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

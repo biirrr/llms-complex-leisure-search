@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash Game][mid-2000's] Point and Click game where you do
+actions to prevent accidents, such as move a ladder or a plank or use
+a straw to remove water. As the title states, I'm looking for a very
+old flash game where you had to prevent accidents from happening. It
+was divided into different levels, and the only thing I remember is
+that there was a level with a construction site where you had to click
+on certain things or move things from A to B to prevent accidents from
+happening. I know that it's a very vague explanation but this is all I
+can remember from the flash game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

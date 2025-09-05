@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Lesbian Romance. BDSM club owner shelters younger
+person living in her car: give job maybe as cleaner?. Lesbian bdsm
+club owner/mistress give job to a new girl. She lives from her car.
+The club owner gives her shelter in her home. HEA after a drama in 3rd
+act. It's part 1 of a series. I probably read the book two years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

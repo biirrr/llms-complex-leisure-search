@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction: natural beauty how-to book, includes Trad.
+Chinese Medicine topics, author with Hungarian surname. Author is (I
+think) American or British but from Hungarian background. A general
+advice book - hair, skin, diet etc - but includes less covered topics
+such as voice, posture and walk. Wide-ranging. Author is Traditional
+Chinese Medicine practitioner and book contains a lot of recipes with
+specialized or even obscure ingredients. Includes sections for men.
+Includes occasional anecdotes about historical figure Lola Montez. Am
+guessing published between 2000 - 2010. Remember reading it around
+2010 but memory may be less than accurate."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

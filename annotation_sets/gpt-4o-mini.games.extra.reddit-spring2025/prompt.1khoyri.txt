@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FRIV][2015] a game about conquering the map. Basically it
+has a map like stick war legacy, and when you start each level there
+are many small bases/castles or whatever, and you gotta summon troops
+to walk a path and take over them, you have 3 choices of troops, ice,
+desert, and forest(or just green ig), the main enemies no matter the
+color are these black purple like characters, when you summon the
+infantry, they are spawned 9 troops in a square, horses 6, archers 9
+etc. And i distinctly remember a level where in the begining next to
+ur base there is a yellow-orangish ogre who's guarding a chest full of
+gold. And i'm pretty sure each color had a special ability (can't
+remember what they did)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

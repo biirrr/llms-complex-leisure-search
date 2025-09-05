@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000] It was a top down perspective game about
+scaring people.. I remember the very first level was happening in the
+police station, in this game you used to unlock new ghosts by
+finishing off mini-quests during the mission. In that one you had to
+lure Dirty cop to the room with a Ghost of a Police Officer to unlock
+her. There were many levels, one of the later ones was a Hospital."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Original Gameboy][Early 2000s or older] Help me identify
+this old Game Boy game I played as a kid. Hi everyone, I'm trying to
+remember the name of a Game Boy game I played when I was a kid, and
+it's been stuck in my head for years. Heres what I remember: * It was
+on the **original Game Boy**, and I believe it was in **black and
+white**. * The game had a **top-down view** and **real-time combat**.
+* You played as a **mage** or wizard-type character. * The main attack
+was a **fireball**  it looked like a circle with **curvy or spiked
+edges**. * The game involved **exploration**, not just linear stages.
+* Specific areas I remember: * A **castle or fort** * A **ship** that
+you could go onto, with **enemies on board** * Im not sure if there
+was leveling up or an inventory system, but it didnt feel like turn-
+based combat. If this sounds familiar to anyone, Id really appreciate
+the help figuring out what it was!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

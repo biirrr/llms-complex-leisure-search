@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [unknown] a tower defence game where you control a
+boulder. In this game you pick your character and which boulder to use
+when you get into a fight you start building your defence until your
+ball is ready then you control your ball as it goes into enemy
+territory and ultimately collides with the enemy castle There is also
+a boss of the statue the thinker where to defeat him you have to
+distract him with cancan dancers Also there are a bunch of bizarre
+cutscenes"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

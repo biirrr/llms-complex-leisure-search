@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction. Girl is kidnapped. Caught stealing and man
+tells her he is a cop. [s]. I read a book around 2014-2019. It’s about
+a girl who is persuaded into stealing something and a man catches her
+and tells her he’s a cop/fbi. He then proceeds to take her on a bus
+and they go to a boardwalk by the beach and eventually move into a
+trailer park. The man enrolls her into a school (i think run by nuns).
+The missing little girl’s mother and older sister are continuousally
+looking for her. The older sister’s husband also looks for her. They
+eventually find the missing girl and being her home. And then at the
+end of the book she ends up dying in a car crash with some boy driving
+the car."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

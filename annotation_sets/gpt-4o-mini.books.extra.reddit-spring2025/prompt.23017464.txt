@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2000s Fantasy novel set in Middle East featuring djinns and
+main character called Fatima. I’d guess it was published around
+2000-2010. There was some sort of quest involving the central
+character, who was a woman named (I think) Fatima, who was very feisty
+and brave, and also beautiful. She went into the underworld where she
+met a djinn and possibly they became lovers - but it wasn’t romantasy,
+it was more humorous in tone. There was also some sort of crack force
+of women known as the Luscious Doves, who were warriors but also
+irresistible to their victims. Borrowed from a library in the UK I
+remember it having a blue cover. The author may have had a non-western
+name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

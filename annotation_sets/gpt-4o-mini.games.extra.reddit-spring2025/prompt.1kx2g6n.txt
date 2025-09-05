@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2 or Xbox 360][Late 2000s or early 2010] Arcade style
+game set in a dark train with witcher's symbol. I've been thinking
+about this game for years but idk a lot so i'm sorry beforehand. All I
+remember is that it was set in a dark and grim train at night and each
+""""""""level"""""""" was each wagon of the train. I'm pretty sure you
+had to kill every guy in each wagon to pass to the next one. The only
+other thing I remember was that it started with a menu or text that I
+couldn't read because I didn't know english at the time and that it
+had a symbol very similar to the witcher's but slightly different,
+metal and with glowing red eyes at the upper left corner of the
+screen. Sorry again if this is not enough but open to try to answer
+any question given"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

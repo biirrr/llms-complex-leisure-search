@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Kindle][2010s] Mystery Point and Click Adventure Game
+Mansion. The game was about a detective I believe invited to an
+abandoned mansion to figure out what happened to the owners. Some of
+the scenes/puzzles included two lion statues at the gate of the
+mansion, one of which had the key ro the gate in it's mouth which you
+found from a log book in the guard shack. The mansion had a couple of
+rooms including a dining room with a secret safe behind the painting,
+a living room with a rotary phone, a small library, two bedrooms, a
+secret hidden study with an old school film real, a Da Vinci drawing
+of the man with multiple limbs. Next you progressed to the garden
+which contained a fountain with three lion headed faucets with empty
+medalions above it, of which you found throughout the garden, the
+garden has three statues of women, and one place had an empty
+honeycombed wine storage wall which was a secret entrance to a factory
+like place, in the factory building you have to complete more puzzles
+but the ones I remember the most are moving a sort of golf cart of
+bulldozer or something, replacing a handle on a valve so that you
+prevent the steam from escaping and burning you, and messing with a
+furnace temperature. At the end you come up to three passcode
+protected walls, one was color coded blue, one green, and one red I
+think to find a machine and letter from the mansion owner who
+disappeared. The machine I believe did something like stop people from
+being able to die or turned back time and you're given a choice if you
+push the button or not. I've looked for the game as best I can but I
+cannot foe the life of me find it and I loved it as a kid and would
+want to play it again if possible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

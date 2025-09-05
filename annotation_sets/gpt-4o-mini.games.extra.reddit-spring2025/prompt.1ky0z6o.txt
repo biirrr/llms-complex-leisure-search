@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010s][RPG] Fantasy RPG where an early party member
+gets turned to stone, gameplay in a """"""""dream world"""""""" and
+""""""""real world"""""""". **Platform(s):** Mobile, unsure if it was
+iOS or Android **Genre:** Top down JRPG **Estimated year of release:**
+2010s ish. Definitely no later than 2016. Played it \~10+ years ago,
+but unsure if that was the time of release **Graphics/art style:** 2D,
+Top down, pixel art. Fantasy setting, mostly forests, villages, and
+castles **Notable characters:** Main protagonist is male, he loses his
+sister(?). Girl who turns to stone. Other companions are
+""""""""really strong guy whose main weapon is a big sword""""""""
+(sorry drawing a blank on this guy) **Notable gameplay mechanics:**
+JRPG-style mechanics, where you have a party of 3(?) characters that
+level up through combat. Characters have different weapon types,
+armor, and skills. Characters need to reach a certain level before
+they can use certain weapons and skills. Enemies drop weapons and
+other items when defeated. **Other details:** Game available in
+English, Chinese and Japanese **Game opens in protagonist's dream.**
+Colors in dream world are black and white and protagonist is very
+strong. Most of the gameplay happens in the """"""""real world""""""""
+but sometimes returns back to the """"""""dream world"""""""" when
+protagonist goes to sleep. Protagonist's motivation is that the main
+antagonist stole a family member(?) from him. Protagonist meets up
+with a girl very early on who joins his party. This girl later gets
+turned into stone (I think she was trying to save someone?). There is
+a village in the game that has the chinese pinyin """"""""Ke Lin
+Cun"""""""" In the final boss, whatever weapon the main character is
+using glows"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

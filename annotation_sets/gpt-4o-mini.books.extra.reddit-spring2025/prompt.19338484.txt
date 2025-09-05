@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Manga read around 2000. May have been called “Dark War”.
+Volume 1 had kind of a violet cover with a man in a black turtleneck
+shirt holding a large sword, a scar over his nose staring out of the
+page, in a crouched ready to fight stance. Dystopian.. I’m not sure i
+remember the plot but I think the story was kind of a dark urban
+fantasy fantasy where the main character is a young adult man who I
+was maybe sent from another dimension into this one. He has amnesia
+and this universe is a post apocalyptic dystopia where he and some
+others are on the run from government group or evil empire. A fairy
+from his original world finds him and tells him he needs to come back
+and save that universe, but he says he’s going to stay here and not
+leave his friends. (view spoiler) [Then, his girlfriend gets killed
+and the fairy possess her body, without the guy knowing and
+manipulates him into fighting. (hide spoiler)] Like I said, I read it
+in about 2000. It’s a paperback manga. I think this was volume 1.
+Sound familiar to anyone? Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

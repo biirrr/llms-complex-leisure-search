@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NINTENDO SWITCH/ 3DS] [2018-2019(??)] Platform game.
+Basically i remember this game that was either for Nintendo switch or
+3ds i dont remember , the protagonist was a young boy/girl and there
+was this tall man dressed in white who danced(?) and brought into this
+magical world where you would run around do puzzled and jump and could
+transform into various things with different abilities (i remember
+there was a sheep transformation that made you float) I also remember
+that it was viewed as a bad game(?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

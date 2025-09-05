@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010] game about a club and characters. It was like a
+club with a colorful dance floor and u can go in and make a character
+girl or boy and chat and dance, I think it had different maps it was
+in the mmo section of games games.com I would play all of them, my
+most recent discovery was moonbase a mmo there, and another mmo I
+forgot also u were a knight and u would loot boxes and there was like
+a castle type thing. Prolly hard to find but these were my favorites!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

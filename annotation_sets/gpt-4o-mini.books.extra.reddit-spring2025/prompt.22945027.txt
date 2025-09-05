@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller about a girl that receives a call from a
+mysterious boy that seems confused, her brother is also missing and
+has a scar in his hand.. The book I am looking for starts with a girl
+getting a mysterious call from someone that is very confused and does
+not seem to know where they are. The girl's brother was missing and
+had a scar in his hand. Crimes start to come up that start being
+attributed to the mysterious boy, like a girl being abused, turned out
+that it was her brother that did it. That boy also did not have
+genitals. The girl kept getting calls from the mysterious boy. It was
+based in the winter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

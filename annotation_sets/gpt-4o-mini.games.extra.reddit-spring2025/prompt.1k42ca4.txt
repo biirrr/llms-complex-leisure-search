@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE OR POSSIBLE PC?] [2015-19] fnaf inspired cop game?.
+hi!! i randomly remembered this ONCE again and am trying to finally
+find the name of it!! i remember very vividly a game when i had a big
+fnaf phase that was kind of like fnaf, but jn a police station.
+Basically, you work(?) at a police station j believe, and have a
+canine esq? fully metal animatronic chasing after you. it's mouth kind
+of reminds me of a bear trap, and it had red glowing eyes. i dont
+remember what gameplay was like nor do i remember any storyline, just
+the basics.. any leads are appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

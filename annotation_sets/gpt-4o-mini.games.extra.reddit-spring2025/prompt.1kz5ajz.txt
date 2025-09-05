@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][2010s]Help me find this little girl lost in a
+forest game. It's a flash game, It's about a little girl who follows a
+butterfly into a forest, I think I remember her falling into a hole
+and then ending up in a forest where you have to navigate your way
+through and avoid traps and creepy creatures and the atmosphere is
+really somber and creepy, I can't find it for the life of me and it's
+been years I really wish to find it again, the falling into a hole
+part maybe me misremembering things but I'm certain she got lost in
+this forest"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

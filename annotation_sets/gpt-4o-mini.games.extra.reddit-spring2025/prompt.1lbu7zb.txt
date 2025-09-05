@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] Point and click with yellow-booted, non-
+conformist character. Platform: PC Genre: Point and click (I think)
+Estimated year of release: 90's Graphics/art style: 3D but slightly
+cartoonish Notable characters: main character was a nonconformist (I
+remember that being relevant to the story) with I want to say big
+yellow boots? And he kinda dressed in an outlandish way Notable
+gameplay mechanics: can't remember specifically but I want to say it
+was a point and click style mystery / discovery / puzzle type of game
+I'm looking for an old PC point and click game where you played as a
+character who, I don't know, """"""""stood out"""""""" in a
+totalitarian or very strictly conformist society? Kind of like
+Idiocracy. I (think I) remember the player had big yellow boots and
+dressed strangely. I remember playing that game for hours but can't
+for the life of me remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

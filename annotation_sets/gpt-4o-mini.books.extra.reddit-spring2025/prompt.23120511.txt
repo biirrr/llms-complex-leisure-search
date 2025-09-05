@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Fantasy: book about boy and girl who solve word
+puzzles in alternate dimension associated with some kind of fountain.
+Read around 2012-2014. Spoiler?. I can’t think of the name of this
+book for the life of me. I think I read it back around 2012-2014, and
+the cover had a blue background and black lettering. The plot was
+definitely a puzzle hunt mystery, with each step uncovering a new
+letter (for some reason I specifically recall S, W, O, T, I, F) as
+solved by a boy and a girl (maybe they were cousins?). I feel like
+their names were Peter and Fiona or something kind of like that, and
+some element of the mystery may have involved the girl’s uncle and
+some kind of fountain in a park (I’m pretty sure the letters they
+found helped make sense of a message written in the fountain thing).
+I’m pretty sure this was a series too, as I remember there being more
+people involved in the second book and even a dog they find trapped in
+the puzzle dimension. And the books may have been written by a British
+author? Really not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

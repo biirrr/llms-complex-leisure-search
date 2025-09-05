@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. One of the lines is that the protagonist's
+husband washes used condoms and reuses them. Read 2002-2009. Spoiler.
+[s]. I read the book between 2002 and 2009. It is set in the UK. Main
+points of the book: There are 2 Female protagonist. 1 is definitely a
+lawyer who has had to represent the other female protagonist who I
+think is a journalist out of a sticky situation. The journalist and
+her husband live a very flashy life in the city. She wants a baby and
+they move to a village but once she gives birth, gets bored and leaves
+the husband to raise the baby. I think they name the baby Theo or
+Hugo. The lawyer meets a charismatic man at a wedding and sleeps with
+him. She finds out she is pregnant. Both couples live in the same
+village. The journalist's husband and the lawyer bond over childcare
+and start falling for each other. The journalist's husband serves the
+lawyer pasta where the sauce is baby food. The lawyer also finds out
+that her husband is gay and that she got pregnant because he washes
+the condoms after use as he is very environmentally concious. The
+journalist remarries a hollywood producer. HELP!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

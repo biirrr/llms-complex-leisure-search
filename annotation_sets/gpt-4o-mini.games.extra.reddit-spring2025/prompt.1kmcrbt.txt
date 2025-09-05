@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP][2000s]Game abut warrior with a shield.. I don't
+remember much, but I remember that the setting of the first mission
+was in a deserted open area. The overall tone is gloomy grayish. You
+needed to fight other people. And you got a tutorial during this
+mission where you need to protect yourself with a shield from arrows,
+fallen from sky by pressing both triggers to put the shield up. I
+don't exactly remember was it a gladiator or a type of warrior? But
+but in my head, you played gladiator but I'm not sure about this one.
+PS: | just bought myself a PSP and wanted to replay my childhood game
+again. Thank you in advance for any clues =O=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

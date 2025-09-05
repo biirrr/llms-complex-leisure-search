@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Australian Adult novel about a bridge engineer and a museum
+curator. Published in 2001? [s]. They meet in a small town in
+Australia and are initially in conflict over the potential destruction
+of a heritage bridge. The engineer is called Douglas. I think it was
+published in 2001 and the author is female."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][Unknown]Game about investigating horror stories.
+Platform(s): android. I Don't know if its on other platform Genre:
+horror,point and click,somewhat visual novel Estimated year of
+release: I really dont have an idea Graphics/art style: 3d surrounding
+with 2d anime characters Notable characters: there was a tv with a guy
+in it(i think) at the start of the game telling me about some horror
+story or something Notable gameplay mechanics: it a point and click
+where you go places trying to investigate some horror stories or
+something. You could also pan the camera around to see your
+surroundings. i dont think you walk around though. Other details:
+There was a part where my character went to a park surrounded by a
+building to investigate a horror story.This happened early in the
+game. He met a girl who is also interested in the horror story but
+later on she turns out to be the ghost. This happened after we worked
+together to find more clue about the ghost stories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

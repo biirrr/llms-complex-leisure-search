@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short story. Human astronaut crash lands on an alien planet
+with an automated city, but can't use the facilities as they're geared
+toward an alien race. Short story, read in the 90s, but probably
+older. A human astronaut crash lands on an alien planet and discovers
+an automated city designed as an oasis for space farers. Unfortunately
+the aliens that designed it were so different from humans that the
+facilities are useless to him: the temperatures are hellishly hot, the
+food is inedible, and the music is just an awful noise. The cities
+tries to adapt itself to his physiology, but begins to break down with
+the effort. Just as the astronaut has resigned himself to death, he
+wakes up to find the city seemingly transformed: the food is heavenly,
+the music divine, and the accommodations luxurious. He's so happy that
+he hardly realizes he now has a trunk and a tail (the city turned him
+into an alien)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

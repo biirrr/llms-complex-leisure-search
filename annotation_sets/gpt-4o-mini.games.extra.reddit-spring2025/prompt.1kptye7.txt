@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GirlsGoGames][2000s-2018] 2 Girls 1 evil 1 angel. Ive
+thought about this game a lot. It was some sort of clicker game with
+an angel and devil. They werent in the classic girls go game style and
+were in these almost chibi style. it was split screen and i think you
+clicked whenever the angel looked away and you had to ruin her stuff
+(as the devil) I'm pretty sure I played it on a mac."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

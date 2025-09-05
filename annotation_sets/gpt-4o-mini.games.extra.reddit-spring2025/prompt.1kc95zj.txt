@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010] Realistic flash point and click game.
+**Platform:** Played it on PC on a flash game site called Flonga
+**Genre:** 2D point and click game **Estimated year of release:** 2008
+- 2013 **Graphics/art style:** Whole game consisted of real life
+photos of streets in some walkable city. All pictures were in black
+and white. Many stony walls, turns, hidden entryways and such.
+Felvidek has similar visuals (picture attached). **Notable
+characters:** Hand-drawn mini creatures similar to *kodama*, tree
+spirits from Japanese folklore, as depicted in the Studio Ghibli film
+Princess Mononoke (picture attached). Maybe about 20 different
+versions of them to be found. **Notable gameplay mechanics:** The
+objective was to find as many of / all of the characters hidden in the
+nooks and crannies of the streets in a timed manner. **Other
+details:** If I recall correctly, France has something to do with the
+game. Maybe the game instructions were in french or maybe the street
+photos were taken in a french city. An artsy game. I don't remember it
+having any soundtrack. https://preview.redd.it/vloqqwqid6ye1.jpg?width
+=1200&amp;format=pjpg&amp;auto=webp&amp;s=d76f35592ee0df0b87686431e8d2
+bad29eefc538 https://preview.redd.it/lyfetyqid6ye1.jpg?width=1440&amp;
+format=pjpg&amp;auto=webp&amp;s=a2bee2ad34c44b42660e06043670f437195f7c
+f0"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

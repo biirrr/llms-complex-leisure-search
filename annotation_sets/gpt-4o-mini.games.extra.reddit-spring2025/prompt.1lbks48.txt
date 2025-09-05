@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[online][early 2000s][murder mystery]. Platform(s): PC, free
+internet game, had its own website Genre: murder mystery Estimated
+year of release: early 2000s, 2010 at the latest i think, I played it
+around 16 or so years ago and i think it had already been around
+awhile Graphics/art style: not terrible graphics, maybe similar to the
+older Nancy Drew computer games Notable characters: you were able to
+make yourself the detective and customize your character. Notable
+gameplay mechanics: Other details: There would be multple different
+cases you solve which would increase your detective rating. Each case
+you would inspect the victims house an then there were other
+cities/houses you could go to to interrogate witnesses. You could
+either find keys or break into houses in order to investigate. I
+believe the website also had its own message board that looked kind of
+like a cafe? I'm sorry i can't provide better/more accurate details, I
+played this game when I was like 10 or 11"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Recent Adult Mystery novel by a male author, about a murder
+in a southern state (Alabama, Georgia, or Louisiana?) Not Grisham or
+Garden of Good and Evil. I think I have most of the details in the
+header. My friend recommended this book this past winter (2023/2024)
+and I believe it was a recent publication because she's in at least
+one book club, and is a frequent flyer at the library. I forgot the
+name of the book though, and do did she! The author's name wasn't
+familiar to me, and seemed to be fairy common, like Bob or Dave. I
+guess the main clues are that it was likely a book club read,
+published after 2020, and was very good! If I at least get some titles
+I think we can figure it out. Thanks much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

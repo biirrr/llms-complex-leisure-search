@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s]Game where you kill big blocky monsters. I just
+thought on an old game i used to play when I was a kid. I think it was
+on the old miniclip site with a lot of games but i cant exactly
+remember. The description of the game: The game was made of blocks
+like minecraft but it doesnt have anything in else in common other
+than that. So basically you were a little guy with a gun and a jetpack
+if a remember correctly and then there was a huge monster coming and
+destroying the city (real world citys like Moscow, London) you were
+trying to protect. I think it was some kind of kaiju game like it has
+godzilla, king kong and other monsters. I even think the monsters were
+playable characters. I hope someone can help find the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

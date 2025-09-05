@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s/early 2000s] Underwater-Themed Card Game.
+Platform(s): PC / Windows Genre: Card Game Estimated year of release:
+Not later than 2002 Graphics/art style: Underwater Theme Notable
+characters: From the one picture I've got: Rex &amp; Paul. The player
+is on the bottom and you could choose the name. Notable gameplay
+mechanics: &amp; Other details: I was looking through some old photos
+and found one from 2002 showing a game I used to play when I was like
+4 years old. I've been trying to find it online but havent had any
+luck. Its some kind of underwater-themed card game where you play
+against what I assume are CPU opponents. Im not sure if the whole
+game had an underwater aesthetic or just certain levels. Also, the
+game is in german, so it could possibly be a german-only game. Any
+ideas are appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

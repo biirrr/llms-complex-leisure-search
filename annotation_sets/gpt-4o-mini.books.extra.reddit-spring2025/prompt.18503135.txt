@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult M/M Romance. 19-y/o HS Sr. falls for Neighbor across
+the street. [s]. I cannot remember the author or character names. It
+was one of the better works by an author who had some so-so m/m
+romance or erotica work. I've searched amazon and kobo (I orininally
+read it on Kindle Unlimited). I'm not familiar with any other sources.
+I've searched goodreads and pored through all pages of works I've
+rated. I think the author has pulled their work from amazon, and it
+also doesn't appear I rated it after reading it, so it's not in my
+ratings. Story highlights that I can remember: Kid lives alone with
+mother. Summer Teacher moves in across the street. Has long blond hair
+and surfer persona. Kid and teacher take a trip to the beach and kid
+kisses adult, adult rejects (not gay). Autumn Teacher teaches at a
+prep school, so kid is not at same campus as teacher. Teacher is
+dating a woman. Kid works backstage for school play, makes a friend
+(girl). Teacher brings his date to play performance. At Christmas,
+teacher is in love with kid and hit the sheets for the first time.
+Spring Epilogue or last chapter: HEA has boyfriend (teacher) dropping
+kid off at college, where his (best friend? roommate?) also has an
+older boyfriend. It's a little bit coming-of-age, bit of the gay-for-
+you sub-genre of M/M romance, and just really sweet. I don't hold out
+a lot of hope for this but it's worth a shot."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

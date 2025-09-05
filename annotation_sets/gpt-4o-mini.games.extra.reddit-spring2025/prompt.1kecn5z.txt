@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2023/2024?]ACTION/ADVENTURE - PIXEL INDIE GAME.
+Platform(s): PC Genre: action-adventure? Estimated year of release:
+2023-2024 Graphics/art style: Pixel Notable characters: Young Woman
+with a staff Notable gameplay mechanics: Hi. A few years back (I think
+around 2022-23) I used to watch """"""""Best Indie Games"""""""" where
+they did a round up of upcoming indie games. One of them had this 2D
+pixel action-adventure game where a young woman fought with a
+pole/staff. It had gorgeous animation to it. I remember something that
+was either a cinematic sequence or in game transition where the young
+woman jumped into the abyss and kinda landed on a dragon. I never wish
+listed it and lost track of it and can't remember the name. Does
+anyone know what it could be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

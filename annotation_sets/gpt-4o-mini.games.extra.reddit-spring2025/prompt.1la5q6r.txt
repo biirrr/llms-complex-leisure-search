@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Free Counter-Strike Clone (Not Counter-Strike
+Online). Platform: PC (Not sure if it was a download or played in a
+browser) Genre: FPS Estimated year of release: 2000s. I played it
+between 2006-2007 because I had it on my own laptop. Graphics/art
+style: 3D, Modern Military. I remember a desert town map, probably
+inspired by Counter-Strike's Dust. Notable gameplay mechanics: I want
+to say the game was a straight up Counter-Strike clone because I
+wanted to play the real thing, but I was a kid and couldn't buy CS:
+Source. It was round-based and wasn't an arena shooter. Other details:
+The home page for the game had a banner graphic of a military man in a
+Balaclava and I believe camo face paint glaring at the player with the
+game's title on the left. The game wasn't Counter-Strike Online
+because it was from before 2008. The game might have been Korean or at
+least come from Asia. I think I remember it being hosted on the same
+site as a free to play 3D fighting game and the shooter game Wolf
+Team, but that doesn't necessarily mean it was the same developers.
+(Wolf Team may have come from a different site altogether, but I
+remember playing it around the same time, hence why I brought it up.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

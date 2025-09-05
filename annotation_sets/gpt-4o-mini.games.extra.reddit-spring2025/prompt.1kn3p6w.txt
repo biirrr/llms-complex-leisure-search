@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016-2019] ]'2D game with dark horror puzzles.. I
+remember some things about it such as: the opening which included you
+and a dog with your grandpa on a boat fishing. the dog was chasing a
+fly. then you loose your grandfather and you try to find him. the game
+takes a dark turn after that. than you go into a house. some specific
+things i remember are, you searching for a key in a weird and
+distubing cooked chicken with your hands. then there was a boss which
+was a poo with a mask.(sounds weird im sorry) whn you defeated it you
+flushed the toilet and it dropped the mask. i dont remember what
+character you played in but it was a kid. (need to find the game)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

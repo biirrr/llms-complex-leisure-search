@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir-type about chimps adult author works in park and
+describes about 8 chimps' lives [s]. He writes about working in a
+reservation/park while working towards his degree. The park has
+several ""islands"" separated by water. He is fascinated by the
+complicated lives and families of the chimpanzees. The chapters are
+mainly based on one chimp and he goes into the life stories of
+possibly 8, maybe 6 of them. One thing he feels strongly about is that
+apes have fascinating family structures and a ""culture"" of their
+own, and teaching them English is nonsense (he hates Koko's teacher).
+Fascinating book, I really liked it. Possibly published in early
+2000's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

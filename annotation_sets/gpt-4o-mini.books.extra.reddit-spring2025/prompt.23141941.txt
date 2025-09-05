@@ -1,0 +1,44 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "High School to Adult Romance. Grief, healing, and second
+chances. Spoiler.. I'm looking for a book I read a year or two ago.
+It's part of a series that follows a group of high school friends.
+This particular book focuses on a quiet, reserved girl who, after
+losing her mother, takes care of her younger brothers while her father
+grieves. Her father is an architect. She gets good grades and loves
+reading. The male protagonist is a student at the same high school,
+though they don’t really know each other at first. Their paths cross
+when he becomes her younger brother’s baseball coach. As they start
+talking, he realizes that her family situation is difficult, and he
+begins helping her after school—cooking dinner and looking after her
+brothers. Since her mother’s passing, she has struggled with bulimia,
+which he eventually discovers. Wanting to support her, he does his
+best to help her through it. She has a great sense of humor when she
+drinks, which adds a unique aspect to her character. Midway through
+the book, her father starts to recover emotionally, thanks in part to
+the boy, who confides in his own mother about the situation. She then
+steps in to help the girl and her brothers. Her father regains control
+of his life and, as a gesture of support, writes her a recommendation
+letter for a scholarship with an internship at an architecture firm.
+The girl and boy face challenges when they have to maintain a long-
+distance relationship. There are ups and downs, including a
+miscarriage and infidelity on his part. However, in the end,
+everything works out, and they get married. I’m not sure if this
+helps, but the first book in the series tells the story of a girl who,
+before her prom, goes to a restaurant for dinner. There, she discovers
+her boyfriend cheating on her with her best friend. Heartbroken, she
+leaves with a group from a rival school (the same group of friends
+from the series) and has an unexpectedly fun night. However, later,
+she receives a phone call—there has been a home invasion gone wrong,
+and her entire family has been killed. In the aftermath, she stays
+with the boy she just met and his parents, who help her cope with her
+loss over time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

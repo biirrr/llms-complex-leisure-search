@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] horror game that went viral around 2022 about
+hiding from a monster. \*\*Platform(s):\*\*PC not sure if there were
+any other platforms to play on **Genre:** Horror **Estimated year of
+release:** 2021/2022 **Graphics/art style:** 3d, kind of realistic,
+but not too much effort put into it **Notable characters: a** mouse
+mother which was a cop (the player), mouse daughter and the monters,
+possibly an older mouse brother (i think you called him in the game)
+**Notable gameplay mechanics:** you had to hide from the monster by
+setting up obstacles and distractions (like the dont escape game
+series) **Other details:** the mother mouse was fat, like very
+noticeably fat (i saw videos of other games by the creator and it
+seems that all adults are fat, possibly fetish related), the game may
+have had a secret, the distractions i remember are: locking the door,
+putting some donuts for the monsters to eat, barricading the door, you
+could also hide to have a better chance of survival, the monster had
+about 8 ingame hours to find you (each action taking either one or
+half an hour) at the end if the monster ate the donuts then the mouse
+daughter would be sad about it, the monster had a deformed head with
+teeth at the bottom of it and had a kind of dark brown skin, the title
+may have had neighbour, monster or apartment in its title, the camera
+was in 1st person (from the perspective of the mother) bit when the
+monster comes it switches to his perspective, you may have also called
+the cops but im not sure about it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

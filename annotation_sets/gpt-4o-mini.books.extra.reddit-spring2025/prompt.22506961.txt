@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Autobiography by an American woman lawyer who later
+becomes a reiki master. Spoiler. [s]. She was a lawyer and became a
+partner at her law firm at the young age of 25 which is rare. From a
+very young age, she has always advanced in life due to giving sexual
+favors for getting a leg up including her becoming the youngest
+partner at the law firm she worked in, at the age 25. She is then
+diagnosed with cancer and by chance encounters reiki, makes full
+recovery from the cancer, abandons her legal profession and then
+becomes a reiki master. I read the book in 2010. I really wish to re-
+read this book and I would appreciate any help I can get in
+identifying the title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

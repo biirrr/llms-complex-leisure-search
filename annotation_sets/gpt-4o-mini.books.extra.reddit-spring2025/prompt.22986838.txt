@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Classic fiction. Ladies working in a bookshop in Paris. Male
+author might be French.. Came across this book in a local public
+library's bookstore. All I can remember for certain is that it was by
+a classic author close to a 100 years or more ago. I do not think it
+is a well-known one of his. I'm not certain if the author was French
+or not, but believe he wrote while in Paris and the setting itself is
+also Paris. It seemed a bit cynical and depicted the ladies who worked
+in a bookshop."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

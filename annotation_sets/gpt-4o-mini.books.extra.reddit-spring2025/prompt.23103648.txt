@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Literary Fiction/ Coming of age. Girl with pregnant sister
+saves homeless boy. Written in French, translated into English. Read
+around 1990.. A teenage / young adult girl living at home with her two
+sisters, in a small city in France. They have a neighbor they call
+""Roughly Speaking"" and are in a quiet war with him to have the best
+garden, which is ruined when another neigbor's cows break a secret
+cold frame. The narrator's younger sister (Cecile) loses her retainer
+in the trash, and when she finds it she shoves it back in her mouth
+without cleaning it. The elder sister (Claire) goes on a train trip
+and gets beaten up when she tries to help an old lady, and in hospital
+she confesses she's pregnant. The narrator wanders around town on her
+own, flirting with boys and drinking kir. Cecile finds a homeless boy
+(Gabriel) and tries to save him, but he dies. It's Christmas. There
+are a lot of allusions to Christianity. Book was written in French &
+translated to English. First person narrator. This was a sequel to the
+first book. The first book in the duology / series was from Claire's
+perspective. Read around 1990, although it was published probably in
+the 1970s and set in that timeframe. The cover had a pregnant girl
+standing next to a window looking pensive wearing a very 1970s dress
+or nightgown."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

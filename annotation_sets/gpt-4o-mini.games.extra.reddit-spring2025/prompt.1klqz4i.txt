@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1996-2000] Space command game with increasing scope
+&amp; responsability. Hello! I'm looking for an old game per the
+below. TLDNR: It's a top-down space simulator game where you control
+increasingly large regions of space as you progress in rank. Thank
+you! **Platform(s):** PC **Genre:** Space strategy **Estimated year of
+release:** 1996-2000 **Graphics/art style:** Top down view of solar
+system, star clusters, and galaxy, with ships &amp; fleets moving
+around. Also some views of planet surfaces where buildings are built.
+**Notable characters:** None that I remember **Notable gameplay
+mechanics:** The game played a bit like Master of Orion, but the
+key/interesting mechanic was that you gained ranks and then controlled
+increasingly large portions of space as you did so. Like you started
+out as a lieutenant with one ship and a planet, and then a major with
+a solar system and a few ships, and then a commander with a start
+cluster, and then some large chunk of the galaxy. I think you could
+also build building on the planets you controlled for various
+benefits. **Other details:** n/a"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

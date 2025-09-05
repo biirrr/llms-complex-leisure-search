@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][between 2020-2023] Survival game on a boat sailing the
+sea. Platform(s): PC, maybe others Genre: Survival open-world
+Estimated year of release: Could've been two or three years ago. I'm
+not really sure if it released yet. All I can remember is that it was
+first shown during the pandemic. Graphics/art style: Colorful,
+stylized, it was compared to Zelda Wind Waker at the time iirc.
+Notable characters: I think I remember that the main character was a
+woman, maybe with blond hair? Not sure, my memory is very vague.
+Notable gameplay mechanics: You had to explore the open sea with your
+sailing boat, traveling from island to island, again with Wind Waker
+as its inspiration. Probably involved crafting as well. If my memory
+serves well they advertised it to have some overarching mystery in the
+background, connected to the main characters fate. Other details: The
+title began with """"""""Wind"""""""" too, I think, but all in one
+word and without any subtitles or anything like that. I know it's
+definitely not Raft, Stranded Deep, or any of the usual suspects out
+there. I'm not that much interested in the genre, so I'm not sure if I
+would play it. Right now I'd settle for what became of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

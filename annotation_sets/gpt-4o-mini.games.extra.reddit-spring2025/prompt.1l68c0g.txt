@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES?][before 2k] Western in Doom Style. Genre: Arcade Ego
+Shooter (Doom Style weapon holding) You were only using a 6 shooter
+and the ammo was in the bottom right corner in the form of a barrel.
+When you reload, it spins fast and has the ammo back in it. The Game
+was like an arcade, where you got a scene and enemys where showing up,
+one after another. You move the crossair around and shoot them. After
+everything ist cleared you move on to the next scene. I think there
+were also powerups, like shooting an Dynamite to clear the Screen."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

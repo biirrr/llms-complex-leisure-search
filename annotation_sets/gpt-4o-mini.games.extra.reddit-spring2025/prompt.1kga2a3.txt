@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Amiga?][1990s] Game where you are a man or lady who seems
+to come across village under attack by monsters.. Don't remember the
+premise, just that it was one of those early 3d games where everything
+was like made of shapes. Balls and such. You explored fought monsters,
+combat was a little finnicky. One of those games where you had alot of
+opportunities to get your ass handed to you. There was also some kinda
+werewolf big bad that you encountered alot, also fucking IMPS were a
+pain to deal with. I also remember something about a bone being
+important. Could use help remembering."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

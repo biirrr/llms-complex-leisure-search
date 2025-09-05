@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox?] [2000-2010ish] Car crash game that triggers
+cinematic with chain reaction. When I was a child I've played a game
+on the Xbox (I believe, no clue which one) when we were visiting some
+people my parents knew. In this game or game mode you could select a
+car (I remember there was an F1 car too) and drive into an
+intersection purposely crashing into the npc cars. That would trigger
+an animation of cars crashing into each other. If I remember correctly
+there were auto rickshaws or some other kind of small vehicles for the
+NPCs too. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

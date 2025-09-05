@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Travel autobiography book Japan Australia. [s]. The book is
+about a guy who leaves his job as a salesmen to travel the world. He
+goes first to Australia and New zealand with his girlfriend, After he
+goes solo to Paris (?) where he meets and falls in love with a
+Japanese woman. He also spends some time in Australia. He goes some
+months to Japan to learn the language and be with her and the book
+ends with his stay in Korea. Read this book a lot of years ago, it was
+a fun travel read. Hope you can help me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

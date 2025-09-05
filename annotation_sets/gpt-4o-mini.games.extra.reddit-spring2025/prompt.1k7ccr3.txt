@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 1990's] Brick busting puzzle game. Looked through
+a bunch of posts but couldn't find the one I'm thinking of... the game
+was about brick busting/ popping, and you'd only clear the level once
+you hit the color bricks a certain number of times. Gray bricks were
+not poppable. Certain colors required more bounces than others to pop
+them, and were placed as barriers so you'd have to clear those
+sections to get to other sections. Some bricks were black with white
+skulls that would kill you if you touched them. I remember some levels
+having one color brick suspended between all the skull bricks so you'd
+have to bounce in at just the right angle to clear it, that kind of
+thing. There was also a level building tool in it. Anyone remember
+this one?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy ragtag band with different powers infiltrate
+heavily armed northern citadel to pull “Ocean’s Eleven” style
+extraction of a scientist and his invention; 1 memorable gladiatorial
+scene. Read this book a few months ago! Fantasy world in four
+kingdoms: one based on Africa (almost never visited in the book) one
+based on Asia, one based on Europe, and one based on the Vikings. An
+asian scientist has discovered a chemical that can enhance your
+powers, and he is kidnapped. The leads must break into the northern
+citadel and reach him. —ragtag band of heroes with all different
+powers —one lead is a viking-style warrior who hunts with wolves;
+their enemies are witches —of course another hero is one of these
+witches —memorable scene: toward the beginning, the gang needs to
+break into an island prison to spring someone whose skills they need
+for the heist; the prison features a huge underground roman-style
+arena where the wealthy in town come to bet on the gladiators in the
+ring. The gladiators spin a wheel which chooses the monster/beast they
+will take on. (Tiger, venomous monster, etc.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

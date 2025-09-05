@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash game for PC] [Early 2000s] Grow island- like asian
+game. Around 2005 I used to play a flash game in a website called
+ojogos (very popular in brazil) and i recall a game that was asian,
+since i couldn't understand the characters. It was like an island,
+with a very big tree in the middle. You had to click in certain orders
+to make things evolve in the game (like you would tap the water then
+the sapling to make a tree grow). There were characters that appeared
+the more you played and evolved the island, i think each one had an
+element of sorts. I can't remember much else but the style was really
+cute"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

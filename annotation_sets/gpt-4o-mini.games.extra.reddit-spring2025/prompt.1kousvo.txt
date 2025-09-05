@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "(PS2/GC Era) Young boy in a post apocalyptic world..
+Platform(s): A 3D game around the Gamecube and Playstation era, I
+think. What I played this on is hazy. Genre: Third Person action
+Estimated year of release: ??? Graphics/art style: 3D, quite colorless
+Notable characters: A young child and various autonomation sidekicks,
+Notable gameplay mechanics: I remember combat, but I also remember
+most weapons were mops and regular items. Other details: The one vivid
+memory I have of this game was after the first section the boy's first
+companion, a robot speaker, had to explain to the child who was
+surviving his way through room after room of monsters that they were
+running out of batteries, and the boy lamented how he would be along
+again. Soon enough, however, he would meet other sentient beings. All
+my memories before and after this are hazy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

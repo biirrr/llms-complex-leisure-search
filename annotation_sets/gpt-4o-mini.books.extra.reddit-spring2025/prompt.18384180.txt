@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book on Victorian Asylums [s]. I am trying to
+find this book on Victorian mental health and treatments. I thought I
+had in my library website list, but couldn't find it. I'm fairly sure
+I read it in the past three or four years, and forgive my scattered
+memory. It focused on how declaring someone insane/committing them
+could be used as a way to force issues of property/gain control over
+funds. It possibly opened with a case about a mother trying to have
+her son committed to gain access to his money. (I can't remember if he
+wasn't giving it to her, or if she just disapproved, but I think he
+was generally a cranky/slightly odd person, and a business man. This
+was very early in the book, at least) A lot of it focused on men,
+though some discussion was on women. (For some reason, I thought
+Caroline Norton was brought up, but I think it was another estranged-
+from-her-awful-husband woman novelist, one who wrote in response to
+said awful marriage. Charles Dickens was involved somehow, and I
+really want to remember the details!)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

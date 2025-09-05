@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s - 2001] Game where you send some one on a
+gondola. Genre: Fantasy? Year of Release: I saw it sometime in the
+Late 90s - 2001 Hey guys, I'm trying to find a game where I only saw
+the last cutscene of it. The cutscene seemed like a really detailed 3d
+render for the time which is probably why it stuck in my head. The
+cutscene included you sending someone off on this really small one
+person gondola up to a castle or some type of floating city. I think
+the whole game had been around rescuing this person, but that could be
+incorrect. Game had this more realistic less cartoony art style.
+That's all I'm really aware of. Please Help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

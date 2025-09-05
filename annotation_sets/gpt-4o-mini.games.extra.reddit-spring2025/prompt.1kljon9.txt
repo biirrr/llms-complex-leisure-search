@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [early 2020's?] A cartoon rhythm game where the
+enemies are notes and your character attacks them.. Platform(s):
+Mobile Genre: Rhythm game Estimated year of release: 2020's?
+Graphics/art style: very cartoony and girly and round, hard lines,
+Chibi characters Notable characters: a dark goddess and a light
+goddess? Also some playable characters, a purple girl with a bunny,
+and a red haired rockstar Notable gameplay mechanics: the screen
+slides down and you have to hit the sides of the screen to time your
+character hitting the enemies. Other details: Very pink and pastel,
+some of the enemies were robots or planets, all with little faces.
+__________ I've been trying forever to find this game, it might have
+been removed from the Appstore? I used to play it as a kid and miss
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

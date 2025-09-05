@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Topdown/Isometric Adventure Game with Indiana
+Jones vibes. The game started in the middle of a desert, outside an
+ancient tomb. You set up camp earlier and were able to supply yourself
+(I think) before going in and the first obstacles were a bunch of
+traps. The protag was definitely someone similar to Indiana Jones. I
+think the graphics were close to something like the first Blood Omen.
+I can't remember if the gameplay was more like Fallout or Diablo. I've
+been hunting for this game forever and at this point, I'm not sure if
+it was all a feverdream. But I remember starting the game over several
+times because it was quite difficult."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

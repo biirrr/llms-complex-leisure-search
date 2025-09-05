@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SMARTPHONES][201X-2019] 2 player car fighting game. I've
+been going insane over this, there was this game that I discovered in
+a video from the brazilian channel Coisa de Nerd and I became
+fascinated with. It was a pixel-art mobile game where you control a
+guy piloting a blue car and you need to beat the guy piloting the red
+car by hitting his head with your car or making him hit his head
+somewhere on the map. normally I would call a friend and play the
+local 2 player mode, where the player 1 controlled the blue car and
+player 2 controlled the red car, but there was a lot of other modes to
+play alone, including a mission mode, an endless mode, and I think
+they added a football/soccer mode for the 2016's olympic games. There
+was also a huge gallery of different vehicles and helmets you could
+use on a match, including some more fanciful, like dinossaur cars. At
+the beggining of 2021, I tried to download it again, but I forgot it's
+name, and no matter how much I tried, I never found it, not even at
+the channel that presented me this game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

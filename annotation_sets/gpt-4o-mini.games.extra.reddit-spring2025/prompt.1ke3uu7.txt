@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2009-2015] 2D side scrolling plattformer. I played this
+sort of platformer some time between 2009 - 2015 which had a similar
+playstyle to Mario and had bright graphics like mario and had around
+10 levels some of which were a pyramid level and a lava level at the
+end. You are trying to save your family I think? you have health bars
+and ocmbat is similar ot mario you jump to kill enemies, the pyramid
+level had difficulty because of moving panels and timing your jumps .
+It was a 2D or 3D side scrolling platfromer. Not Captain claw or
+Turtix. I think your kids get stolen. You can find hearts to regen
+your health. It was pretty difficult level 4 onwards. At soem level
+turtles are enemies. Edit: found game Jumpin Jack thakjs a lot"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

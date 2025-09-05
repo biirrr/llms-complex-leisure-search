@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Delinquent teenager is train hopping, when he
+jumps off his leg is run over by the train. Spends next few months on
+crutches. Contemporary. Lives in city or outskirts of city. Read in
+late 1980s/early 1990s. [s]. I read this book in the early 1990s. All
+I can recall is that a delinquent boy is train-hopping and when he
+jumps off, his leg is run over by the train. There's a description of
+his leg flapping open. He's stitched up and spends the next few months
+on crutches and in the end he's ""changed"" (more appreciative,
+grateful etc)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

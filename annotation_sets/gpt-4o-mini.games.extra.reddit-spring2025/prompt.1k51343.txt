@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000] Diablo/Divinity like game. I remember a few
+bits of the game, like you started in a jail cell. You have a quest
+where you're technically V for Vendetta, where you place bombs at the
+bottom of the castle. Quest where you need to find the killer of
+Captain Morales(?). Also, you find Da Vinci in the game where he also
+gives you a guest. I've been looking for this game for a while, but
+can't find it anywhere. Any help would be appreciated! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

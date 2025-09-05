@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late1990s] Shareware Space Dogfighting with only
+missiles. 10 or so games on a free shareware disk, one of them being a
+dog fighting game where you could drag the arrows to decide how fast
+and what direction you would fly next turn. It was turn based, you had
+to get what the enemy would do next turn, had different size warheads
+and turn radius on the missiles and a few different ships"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

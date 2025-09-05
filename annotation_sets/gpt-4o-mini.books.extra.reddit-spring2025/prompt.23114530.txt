@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short Story: Took ~2 hours for me to read, man has
+entity/creature living under his bed that haunted his father and then
+him. He gets arrested for the entity's actions, and it lives under his
+jail bed as well.. This guy is essentially living with this weird
+entity under his bed. Turns out when he was younger his dad was
+arrested for (ahem🔪⚰️) his mom but it was actually this entity. Now
+this guy is older and he had a one night stand and this girl gets 🔪⚰️…
+he ends up going to a hardware store for supplies (that make him look
+100% guilty btw) but they’re to capture and finally destroy this
+entity. Anyway I think he ends up arrested anyway and this thing now
+lives under his jail bed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

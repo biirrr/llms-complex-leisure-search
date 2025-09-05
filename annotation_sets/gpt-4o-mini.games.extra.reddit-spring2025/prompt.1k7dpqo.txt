@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps1][2000] Jrpg where you were a weaponsmith. Platform(s):
+PS1 I think, maybe ps2 Genre: JRPG Estimated year of release: unsure
+Graphics/art style: big character sprites for dialog and battle,
+unsure otherwise Notable characters: unsure Notable gameplay
+mechanics: you make weapons based on who your companion character is
+Other details: My sister rented this game from blockbuster when I was
+young and I remember it being needlessly horny. I THOUGHT it was Wild
+Arms and when Wild Arms got praise I got confused because this seemed
+nothing like it. I looked up Wild arms roms and it is DEFINITELY not
+this game so Im wondering what the hell I was remembering. You play a
+weapon smith (possibly a gunsmith? I dunno). Your mentor teaches you
+that the secret to smithing is a pretty lady by your side and you
+can make new weapons and change combat styles by getting a different
+female companion. I distinctly remember huge sprites for dialog and
+possibly combat kind of like the way GBA/DS fire emblem titles had
+their characters during dialog. We had a ps2 at the time but played a
+lot of ps1 on it and our local blockbuster got all these old and
+scratched psx discs. I THINK its ps1 but its hard to tell because I
+wasnt the one doing the renting of things. I basically want to
+confirm this existed and Im not crazy and made up a game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

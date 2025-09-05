@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Browser] [2010s] [Facebook] Old Facebook pixel rpg
+with mafia/space/medieval versions, cosmetic wings, and open world.
+Hey, Im trying to remember this old Facebook game I used to play
+sometime between 2010 and 2015. It was a 2D pixel-style game, kind of
+like The Escapists. What made it stand out was that there were
+multiple themed versions  one set in a mafia city, one in space, and
+one in a medieval or fantasy setting. They all had the same UI and
+gameplay, just different settings. You could equip cosmetic wings on
+your character, and I think there were roles or jobs you could take.
+It had a toolbar kind of like Minecraft or Roblox, but simpler and
+text-based. It wasnt just missions  it felt open-world, like you
+could walk around and do stuff freely. Pretty sure the name had
+mafia in it or something similar. I dont have access to my old
+Facebook account, so I cant check game history. If anyone remembers
+what this mightve been, Id really appreciate the help. Its been
+stuck in my head for a while. Thanks. EDIT: Game has been found. It
+was GraalOnline. thanks to u/patheticLoserGuy"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

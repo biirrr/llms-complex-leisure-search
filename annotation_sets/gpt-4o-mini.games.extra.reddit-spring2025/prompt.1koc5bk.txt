@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser] [2010s?] Deformed kid beats up trick or treaters
+for their candy. I remember playing this on Newgrounds one halloween.
+2d side-scrolling beat-em-up where you attack kids and collect the
+candy they drop. I don't remember much about the main character, but I
+believe he was pale while and had long arms. It starts with a cutscene
+where the kid's mother won't let him go trick or treating, so he
+breaks out of the house."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

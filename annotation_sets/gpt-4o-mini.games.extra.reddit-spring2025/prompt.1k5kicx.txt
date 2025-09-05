@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [unknown] Space game. Theres an old either PS1 or PS2
+game, you control this little space ship and you could shoot, could
+fly in any direction. As you progressed this moon or planet would
+chase you. It would yell at you Im coming for you or just roar when
+it was ready to end you. This planet or moon had a face as well. You
+could shoot it as it chased you. Please tell me someone remembers this
+game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP?] [2000s~] Cartoony emotions game. The game featured a
+spiky haired martial arts type boy with a big wooden mallet whose
+power(?) was to physically strike people's bad feelings away. They
+appeared as thought bubbles I think? Or some form of floating graphic.
+You could actually hit someone's bad bubble onto someone else if they
+were in range, I recall. The ending took place in &gt;!space I think.
+There was a good end/bad end depending on whether you chose a selfish
+choice or not. I think. !&lt; I distinctly recall some sort of tv
+studio level where the boss was the host, or some sort of celebrity
+and their bad feeling bubble was really big. May be misremembering
+exact details but this was the general premise. I know it was on a
+handheld, at least."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

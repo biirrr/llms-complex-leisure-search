@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True Crime Book Drug Murders. Solving the robbery/murder of
+of drug dealers. At least two people, a man and a woman, were killed.
+Main witness is white woman. [s]. The book is about the solving the
+robbery/murder of of drug dealers. At least two people, a man and a
+woman, were killed. May have been another person as well, I don't
+remember clearly. The book mainly is about the lead detective or
+prosecutor getting the main witness to talk about it. The witness, an
+attractive white woman, was a minor participant in the crime. The
+difficulty is that she lies. A lot. It takes multiple interviews with
+her to finally get her to tell the truth about what happened. Possibly
+disgusting detail: (view spoiler) [The drugs were hidden in a plastic
+bag in the female victim's vagina. The witness was made to pull them
+out after the killings by the shooters. (hide spoiler)] A couple of
+other details: The witness, years earlier, was raped by 2 soldiers.
+She refused to press charges against them because they might get the
+death penalty if convicted. The investigator took the woman to a
+restaurant or club to try and get her in a more relaxed state of mind.
+While there, a local ADA tried to pick her up and had to be warned off
+by the investigator. Book probably came out back in the 80s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

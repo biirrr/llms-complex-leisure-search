@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Christmas Romance. A girl returns home in england from
+the city, and meets a guy called Rory? (Maybe) who is suffering from
+the loss of his previous partner and doesn’t want to date anymore. She
+spends the holidays with him.. Read in 2021-2022. The girl’s family
+was kind of shitty to her i think. There was also a kid (maybe her
+niece or her friend’s daughter).No explicit scenes. There was december
+in the title maybe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

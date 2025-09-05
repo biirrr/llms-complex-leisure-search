@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Prostitute falls in love with a cop they have
+a secret romance so her boss won’t find out he gets shipped out back
+to the military. Read around 2015. [s]. I read this book around 2015.
+The girl falls in love with this cop after he picks her up downtown.
+They start spending lots of time together and he takes her away on a
+romantic weekend to the country. A few weeks go by and he gets called
+back into service. The pimp has gotten over his head with the mafia
+and the mafia take the girl and the pimp out on a boat to the water
+she jumps into the rapids to try and survive then runs away to a small
+town. She eventually finds out she is pregnant and starts working at a
+diner that happens to be owned by the cops dad. A couple weeks go by
+then the owner of the diner gets news his son is dead which is the
+cop. She becomes depressed but turns out he was just missing in action
+and shows back up."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

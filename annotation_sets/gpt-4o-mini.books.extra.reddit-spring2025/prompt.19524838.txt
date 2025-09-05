@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography, British woman goes to Finland to teach
+English - 1960s [s]. This is an amusing tale of a year or so that a
+British woman spent in Finland teaching English to adults in either
+the 60s or late 50s. In it she describes interactions with the locals,
+learning to cross-country ski and coming last in a local competition,
+some sedate dating in the company of another English friend who was
+wearing an incongruous fringed yellow silk shawl. I think the title is
+something like 'On top of the world' and the cover (I think) was a
+semi-cartoonish depiction of a woman tangled in her skis in front of a
+snowy hill. Maybe moose horns figured."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

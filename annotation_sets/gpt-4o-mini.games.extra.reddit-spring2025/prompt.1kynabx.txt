@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox/Playstation][Unknown] constant online crafting
+survival game stylised with soviet propaganda and toys.. I think it
+was on 360 and PS3 era. You played as a doll like girl and could craft
+and build a town/defences to eventually fight giant titan like
+creatures that would progressively move towards your bases. It was
+always online and progression was shared with everyone in the same
+server/lobby. The world was mostly white and everything was
+""""""""toy-like"""""""" with a soviet/propaganda style. you could
+mine big destructible structures for resources to help fortify
+defences. I remember the servers were eventually shut down."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

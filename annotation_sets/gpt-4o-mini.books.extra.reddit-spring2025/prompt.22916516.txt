@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy, where the main character is kidnapped by a guy
+who has shadow powers, and is also a royal twin.. I read this book not
+too long ago, max winter of 2023, but didn't finish it. Basically
+theres two twin sisters and one of them is the heir to the throne
+while the other's sole purpose is to act as a body double for her
+sister to protect her and she is the fmc. Shes kidnapped by a guy who
+wields shadows whos the love interest and he thinks shes her sister. I
+don't remember much of the plot details but i think the fmc had some
+sand related powers? Also the shadow guy is some kind of reincarnation
+of a (evil?) king."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

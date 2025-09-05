@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction about an English girl who gains powers after
+being struck by a falling wind turbine blade. Read 1995-2000.
+Spoiler.. Read somewhere between 1995 - 2000. As an apocalyptic storm
+is bearing down on Britain, the main character (young or teen girl),
+whose family manages a wind farm, is hit on the head by a falling wind
+turbine blade and develops telekinesis/precognition type powers. She
+joins up with her little brother and a group of other kids with
+similar powers and they perform various heroic acts. When the storm
+ends, everything reverts back to normal and she retrieves her pet
+rabbit that escaped and took shelter from the weather at the local
+pub."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

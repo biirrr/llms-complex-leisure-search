@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Popular Philosophy/Psychology book [s]. I need help to find
+a book I read several years ago, but all I have is a memory of the
+cover -- matte black with a large gold number ""7"". I do not recall
+the author's name, and I obviously can't remember the full title,
+because I have searched the Internet, here and Amazon several times
+over the past year, for all the possibilities: 7, Number 7, The Power
+of 7, The Effect of 7, The Number 7 (which is what I thought the title
+was), The Influence of 7, the Essence of 7, etcetera, and get nowhere.
+It is a treatment of the occurrence of the number seven in society
+through history, and the effect of seven on our minds and actions. I
+think the author was a journalist, a woman, and it is written in a
+sort-of light scholarly tone, with some pictures/figures. Does anyone
+recognize this book? Thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

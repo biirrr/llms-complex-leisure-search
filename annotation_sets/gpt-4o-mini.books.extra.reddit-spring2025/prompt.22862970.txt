@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery novel about missing actress trapped in a
+movie. [s]. Paperback book I saw a couple of weeks ago in my local
+bookstore and didn’t buy. Synopsis is : the mysterious disappearance
+of an actress from the 1950s, who is later found to be trapped within
+the film she was making. The movie is re-released every decade with
+new and unexplained scenes. The narrative alternates between the 1950s
+and the present day, as a student investigates the film to uncover the
+truth."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

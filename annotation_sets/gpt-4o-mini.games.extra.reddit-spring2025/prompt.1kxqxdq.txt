@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Switch/PC][~2023] 3rd person fighting cartoon-stylized
+game. Platform(s): Switch or Windows? Genre: Action, fighting, rpg?
+Estimated year of release: 2020s; Saw the ad in 2023 Graphics/art
+style: 3rd person, 3d, stylized anime-style, brighter more saturated
+colors. Sort of reminds me of Hoyoverse games like Zzz Notable
+characters: Player character is a dude with short dark hair, street
+fashion clothes, super baggy pants (maybe capri shorts), sneakers.
+Jumping and running around beating dudes up inside a building,
+possibly a mall. He talked about fighting guys to a beat/rhythm or
+something music related, but I dont think its a rhythm game Notable
+gameplay mechanics: A lot of jumping Other details: Saw the ad/trailer
+on Instagram Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

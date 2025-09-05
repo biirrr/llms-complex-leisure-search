@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Romance about a teen named Stella?? looking for a job
+during the summer before she starts college and her parents are food
+critics/ chefs. I read a book from 2010-2015, YA romance novel, I
+think the main character's name was Stella but can't be sure. She was
+looking for a job in the summer before she starts college and her
+parents were famous? chefs/food critics. I specifically remember the
+business email was mmgood@ something website because in one of the
+chapters the mom? joked that it looked like the email came from a porn
+site. I vaguely remember her parents were very in love but were
+planning on a divorce/their good relationship wasn't what it seemed,
+and Stella had a boyfriend? but fell in love with the new staff at her
+parents' restaurant???"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

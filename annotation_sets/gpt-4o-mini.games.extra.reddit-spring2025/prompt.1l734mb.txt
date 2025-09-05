@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2010s][Window 7]. The game was 3D third person
+game with camera above.First you start with round Pokémon like
+character.There are levels and in game you are in a maze like room
+with obstacle and traps and you have to escape from it.You also have
+to rescue your friend.When the level get higher you got more friendsto
+rescue.It has a world map with different region like islands.It was
+puzzle like game I played it on window 7 2010s but I am not sure what
+the game date actually is."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

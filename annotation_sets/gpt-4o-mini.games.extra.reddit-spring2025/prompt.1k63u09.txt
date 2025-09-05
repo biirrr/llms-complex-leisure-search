@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000's-Early 2010s] Action-Horror game.
+Platform(s): PC Genre: Action Horror, First-person Estimated year of
+release: 2008-2013 Graphics/art style: * Gritty realism, closest I can
+relate it to is Alan Wake 1 and the CODs of that time, general early
+2010s realism graphics with muted colors. * Apocalyptic setting in a
+New York style city with demonic enemies specifically possession in
+general a bit after the game starts. Notable characters: Notable
+gameplay mechanics: * The inventory was accessed by opening the
+character's coat and looking down, with items being in pockets. Items
+that I specifically remember is some kind of alcohol and pistol ammo.
+* You could combine the ammo and alcohol, I don't remember what use
+the normal ammo would have, but the """"""""incendiary ammo""""""""
+was used against enemies with weak points. * You could close your eyes
+and see glowing white things, in the beginning you could see symbols
+as you walked through a corridor for the story (I am not sure of this
+specifically), the enemies would have their weak points (which were
+lines, 3 in number) on their bodies that were visible without closing
+your eyes but would blend into their bodies. * Using the
+""""""""incendiary"""""""" ammo would ignite these lines, I don't
+remember if you had to kill them after all of their weak points or if
+the enemies with the lines were stronger variants. Other details: *
+There was a part where in some sort of public park there was a giant
+sphere that would glow white when you closed your eyes, I remember
+getting stuck at this part. * At the beginning of the game when the
+demonic invasion started I remember a section where the game went into
+third person with a fixed camera and there was an enemy possessed
+female that you had to drag into a fire pit. * There was a driving
+section in a taxi(?) while the city was crumbling around you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

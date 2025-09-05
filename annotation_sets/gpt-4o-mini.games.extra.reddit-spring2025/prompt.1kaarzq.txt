@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Game] [2002-2009] maybe called Spellbound? Created by
+Shirley Barber and was about fairies!. I'm not sure if this should be
+partially or fully lost, but to me it's fully lost! Back in the early
+2000's (somewhere between 2002-2009 I believe), there was a PC game i
+used to own! It was created by Shirley Barber who illustrated all
+those amazing fairy books! I was obsessed with the game, and in
+particular a video that was included, which was a step my step
+tutorial called """"""""how to draw a frog."""""""" My grandfather got
+the game for me, and it holds huge sentimental value to me, however I
+cannot find it anywhere, nor any mention of its existence! From
+memory, the game was called """"""""Spellbound."""""""" I've found
+other PC games similar, one called """"""""fairies, create, paint and
+play"""""""" But it's not the same one unfortunately. If anyone can
+find anything relating to this missing game, or even find it available
+somewhere to buy again, i will be forever grateful to you!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early '90s]Throwing a discus to shatter a fake
+backdrop?. PC point-and-click adventure early to mid-'90s pre-rendered
+Myst-like graphics you are the protagonist/traveler **Notable gameplay
+mechanics:** This is the tip of my joystick part. There is a moment
+where the player comes up to a location that is unpassable. There
+doesn't seem to be anything particularly notable about the location.
+The answer to the puzzle is to take a discus in your inventory and
+throw it at the scene. This causes the setting to shatter, revealing
+it was a fake backdrop. Then the player is able to progress with the
+game. Thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

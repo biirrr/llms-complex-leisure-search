@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Help finding obscure sidescroller game.
+Platform(s): Pc Genre: I remember it as a sidescroller action/shooter,
+somewhat like a slower Contra. Estimated year of release: 1990-2000
+probably Graphics/art style: Maybe a little pixelated, but as far as I
+remember was kinda good for the time it was released. Notable
+characters: Main character was a man that was infected by a
+virus/alien (sentient microorganism). This virus/alien was white with
+big black eyes, with an elongated body and no legs. Notable gameplay
+mechanics: Sidescroller action/shooter, and as the game progresses,
+after each level, you mutate into a monster. You start on the city and
+end up on a military complex. Other details: I remember very well the
+opening scene. It started with a cinematic showing the infection, and
+went inside the body of the protagonist. This virus guy was in the
+blood stream, and grabbed some white blood cells to make a chair, and
+did like a tour on the cells showing how the infection was evolving
+and changing the protagonist, and if I recall it was looking for a
+symbiotic relationship with him. Also remember the cover art,
+featuring this virus with a red background, might have been blood
+vessels or red cells. Games I looked at that didn't match: Heart of
+Darkness, Abuse, Xenophage: Alien BloodSport, Gene Wars, BioMenace,
+MDK"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

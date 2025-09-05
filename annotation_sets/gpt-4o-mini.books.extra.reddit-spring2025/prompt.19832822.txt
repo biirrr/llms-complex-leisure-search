@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book on reading. [s]. There is this book which talks bout
+the author reading around 52 books in a year. He narrates how after
+his marriage and having a child he started getting back to reading and
+picked up classics. May I request people on the forum to help me
+identify this book? And, if there are similar books by other authors
+as well. May thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-unknown] A Game about a murder. Good afternoon.
+I'm requesting your help finding a point-and-click video game I played
+as a kid. I barely remember trying it and not being able to progress,
+which left me wondering how it continued. It was Darkseed-style with
+similar characters, but I'd say perhaps more colorful and pixelated. I
+remember there was a cemetery far from town where the character lived,
+and I would go back and forth between home, the town, and the
+cemetery. In theory, someone had murdered someone, and they were
+looking for the person responsible. I think it started with a kind of
+festival with a girl. You'd go to sleep, and then she'd disappear. The
+police would frame you, and you'd have to prove your innocence. The
+character didn't remember anything. At that time, there were no
+guides, so I was left curious. Later, I changed my PC and never got
+the game back. I don't remember the name, only that it was old (from
+the 80s or 90s) and the details mentioned above. Thanks for reading!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

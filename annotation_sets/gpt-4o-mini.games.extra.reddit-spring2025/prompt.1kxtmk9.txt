@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android] [decision making game] I have been looking for
+this game for 7 years and im hopeless to find it. there was this game
+ive been playing like 7 years ago or sth like that and sometimes when
+I remember it Im desperately trying to find it but nothing comes up.
+So Ill tell you what I remember and maybe someone here will also know
+what im talking about. it was this story decision making game with
+anime looking like characters and the plot was about a girl whos mom
+was super against games but there was this popular game on VR that
+everyone was playing and she secretly also bought it. There were two
+main love interest I think, one was this dude from the real world that
+was I think connected to developing the game and the other one was
+from the VR game, he was better at this game than her so they became
+like teammates in this VR world. the story was constantly jumping
+between real world and VR. If someone has ANY clue what im talking
+about please help because im starting to think I imagined it.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

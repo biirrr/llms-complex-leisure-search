@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1994] Top down racing game. There were a variety of
+cars you could choose - a dragster, an f1 car, a truck, and a one-
+wheeled car rounded at the front and pointed at the back, like an ice
+cream cone, among others. Each car had its own strengths and
+weaknesses - cornering, acceleration on the straightaway, etc. You
+could build your own tracks with I believe ice and sand and grass.
+It's not Stunts, Hot Wheels, or any major game. Think Off Road but
+very polygonal. I have been searching for years to find this game!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

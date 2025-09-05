@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2013-14] Roblox Roleplay Game. As the basic title
+suggests, it was a town roleplay game, the kind where you obviously
+could buy cars, houses, and do everyday things like that. Im not sure
+if was the usual adopt and raise slop, it didnt strike me as one.
+One landmark I clearly remember was a wooden dock near a body of
+water. Right next to it, there was a shop that had kayaks on display
+(it was displayed externally), and maybe fishing rods too, though you
+couldnt actually buy them, they were just for show. Another thing was
+that you could use your mouse to pick up items, which was unique to
+me. I remember picking up miscellaneous things in my house. Im pretty
+sure it was a front-page game, since those were the only types of
+games I usually played back then. Thanks in advance for any help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

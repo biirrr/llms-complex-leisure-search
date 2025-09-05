@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's fiction. Some kind of chaotic field trip, aimed
+at ages 10+ probably. Read 2017-2019.. okay so unfortunately I don't
+remember that much about this book. I read it sometime between
+2017-2019. basically, these kids were going on a field trip. 2
+siblings and a bunch of their friends/classmates. I remember the
+siblings were a boy and a girl of around the same age. their parents
+were chaperones. they were supposed to meet at a statue of a bull (may
+have involved a human statue standing with/riding the bull), and were
+there at one point in the story. one character had a camera and took a
+bunch of photos. things went wrong pretty fast, the group got
+separated. i seem to remember someone (possibly the adults), having
+some kind of bet? the parents were of the 2 siblings I am pretty sure.
+one of the characters may have been called Kyle. at one point there
+was a video game session? i feel like they also had to wear some kind
+of matching clothes (not uniform), and there may have been a rat
+mascot involved. the field trip was to new york. that's all I
+remember. it was a very chaotic book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

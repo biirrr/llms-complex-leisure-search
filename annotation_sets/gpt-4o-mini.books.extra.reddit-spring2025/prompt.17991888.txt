@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Farm mom eats, feeds poisoned food so kids won't starve [s].
+I'm looking for the title of what I THINK was a nonfiction book or
+memoir written by a woman. The opening was very striking - the
+author's mom was eating poisoned (I believe pesticide-treated
+vegetables like peas or beans) to see if they would kill her and when
+they didn't, she fed them to her kids so they wouldn't starve. I can't
+remember the rest of the book at all. I likely read this in late 1990s
+or early 2000s when I lived in Iowa or possibly Arkansas. Much
+appreciated if you know this book!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

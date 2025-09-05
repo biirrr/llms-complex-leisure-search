@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romantic Fiction, LDS. Baseball Player engaged,
+trilogy, early 2000s, pregnancy scam near the end of the book, Latter-
+Day Saint fiction. [s]. I am trying to find a book I read in the early
+2000s. It was a Latter-Day Saint romance story about a professional
+baseball player who gets engaged to a woman who inspired him to join
+the church. But, there is an ex-girlfriend, I think, who fakes a
+pregnancy to try and get a payout. I think this was the second in a
+trilogy. The cover was like a blue-gray, slate gray or so."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

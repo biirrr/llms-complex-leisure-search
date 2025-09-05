@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox360][mid 2010s] cel shaded shooter. im sorry i have so
+little info to go on, but ill try to remember what i can... its a
+shooter from the ps3/4 era (although i cant remember if it was on ps
+consoles) it was cel shaded, with a """"""""hell"""""""" or
+""""""""demonic"""""""" themes, i remember some of the HUD being
+purple and green and it was NOT: bioshock series, the darkness series
+or XIII (since these are the most common search results) hopefully
+someone can help me, ive been looking at lists of games withno luck"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

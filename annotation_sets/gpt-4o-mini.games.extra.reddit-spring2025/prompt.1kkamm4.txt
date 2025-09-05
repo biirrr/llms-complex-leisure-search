@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation Vita] [2010s] LoL type of game in PSVITA. Hello
+detectives. I played this game as a kid on my PSvita, it was really
+long ago, and as my PSvita died, i cant really find this game again to
+play it on an emulator. It was a 2d-3d like with a cam up top, just
+like in LoL It was a LOL like game, maybe free i believe but im not
+sure, that really looked like LOL, tower defense game, lots of heroes,
+i dont remember being minions, but i remember being monsters you could
+kill at mid, i think there was a story mode(?) of some sorts, and i
+also believe it started with the letter A. Did anyone play this/know
+this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

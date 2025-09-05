@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Read in 2019-2022 in book club. The plot is very
+similar o Fourth Wing. The cover is gold and had some round maze like
+symbol. Main character is a girl name starts with V and there is a
+male character whose name starts with X.. SPOILERS AHEAD The main
+character is a girl whose name starts with V I believe it was violet.
+There are these games that they must train for and whoever wins gets
+money and moves up the ranking system they have in the book. The girl
+trains a lot and her dad sends her off. I remember this one part where
+she is practicing and training and the higher level people are
+watching her and are impressed. During the games if you can die and
+get killed while trying o play the games. I believe it was like a
+quadrant structure and there was a center area where they have to
+reach in order to win after going through all of the obstacles. She
+ends up winning and I remember towards the end of the book or far into
+the book there is this boy whose name starts with an X. He is talking
+to violet and is telling her how his dad is sending him off to war.
+The book kind of leaves off at that and left me wondering if there is
+a second book and what happens. The father of the boy X he owns the
+games and is the king I believe. That’s all I can remember of the plot
+it sounds very similar to Fourth Wing but I read some of that and it’s
+not it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Book Series/ Mid-century New England, 2 older women
+(possibly sisters) preparing for harsh winters. [s]. I work in a
+library and a patron is looking for a book series. She says a neighbor
+loaned them to her in the early 80s. There were 3 books, hardcover,
+one with flowers (possible asters) on the cover. She says it was about
+2 older women (possibly sisters) who lived in New England (she thinks
+Connecticut) and it described their day to day life. She doesn't
+remember anything dramatic happening and that the stories mostly told
+of how the women would prepare for winter (gardening, canning,
+preserving) and how they appreciated the rural countryside. She says
+one of the sisters may have died in one of the later books. She also
+says that the title was an incomplete sentence. Any help would be much
+appreciated. Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

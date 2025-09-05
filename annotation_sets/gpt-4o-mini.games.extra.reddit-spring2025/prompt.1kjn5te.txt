@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] 2D Ninja game. As the title says, I remember
+the game being about a ninja (but im also not 100% sure). It was 2d,
+pretty ugly in my opinion. The first level was in some kind of a
+forest and then a factory or something like that. I also remember
+using some nuts to throw in the forest? The game was from a CD from a
+Polish game magazine around 2007 I would say, there is a chance it was
+only a demo."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Browser][2016-18] Red Mustang swerving through Gray
+Crown Vics. It had the mentioned before 5th gen Red Mustang swerving
+between the Gray Crown Vics from an 3D diagonal overhead view, i
+remember the dev who published the game had the name wolf somewhere in
+the title and it was an Poki off and on throughout 2016-2018 (and
+possibly beyond). Same dev had a few police chase and racer games
+using the same camera POV"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romcom with side character 'Art School Rachel'. [s].
+Romcom with side character 'Art School Rachel' who is a career
+influencer who posts realistic images of her unattractive self each
+week to remind people that it is all fake and they all engage with her
+because they find her 'relatable' so she is cynical. She is the main
+female character's hero and friend."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

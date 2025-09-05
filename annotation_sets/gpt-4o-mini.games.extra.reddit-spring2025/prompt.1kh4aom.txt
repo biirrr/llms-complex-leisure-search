@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2003-07] Far Cry-style FPS from early 2000s. I
+remember seeing a first-person shooter on Swedish CDON.COM sometime in
+the early 2000s. It had a tropical rainforest setting, somewhat like
+Far Cry, but it also included urban environments. The trailer showed
+the player using a classic AK-47 and possibly a Uzi or MAC-10. One
+standout scene showed the player placing C4 explosives to open up a
+cave. I dont think the game was ever released, it mightve been
+cancelled. The graphics looked like PS2-era PC games. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

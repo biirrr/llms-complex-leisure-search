@@ -1,0 +1,41 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Cat Culture in nature. [s]. This book was written by a lady
+who's been with cats all her life. The book is about ""cat culture"",
+from the cat's POV. That is, how cats have a culture amongst
+themselves. The book seemed old when I grabbed it in the library. I
+don't think it's any newer than 2005, probably much older. It's about
+nature, it wasn't geared towards kids, but it wasn't explicitly adult
+either. She talks about the difference in personal space and
+communication between city-pet cats and country cats. She talks about
+how tom cats in the country/feral have multiple wives. She calls them
+wives and husband rather then mates, like most nature books do. She
+talks about how multiple queens having one husband can protect their
+kittens from being killed by other toms. She talks about how neutered
+males can have multiple wives. The queens will have kittens from other
+males, but the neutered male will protect the kittens from being
+killed. She also went to Africa at some point. She talks about how
+leopards are the natural predators of humans, as lions are too big and
+family oriented to bother with us usually. She mentions a tribe who
+had more leopard related deaths then lions. But she does compare the
+differences in behavior towards non-man eating lions and man-eating
+lions when it comes to safaris. While in Africa, she walks down a road
+in the savannah and she comes across a leopard. She's scared, but
+she's more worried about her child/ren down the path. They are camping
+in tents, I think. So she pushes onwards. The leopard does the leopard
+equivalent of *ahem* when she keeps walking, which is described as a
+cough. She stops, pressures forward. The leopard coughs even louder,
+indicating: ""Hey, I'm lying down on this road. I'm not gonna move, so
+take a different route."" However, she's still scared for her kids,
+she has to be there with them with a leopard nearby. So she keeps
+walking. The leopard looks at her in surprise, then gets up and walks
+away. Her kid(s) are fine."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

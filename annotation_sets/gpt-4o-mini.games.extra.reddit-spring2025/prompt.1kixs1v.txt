@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[1980-1990] [a Game about a kid] [SNES] adventure RPG. A
+Game about a kid who got teleported to the future because he entered a
+facility with his dog (who looks like a oversized rat) and 4 zones,a
+dessert with wormholes puzzles,A rotten purple swamp,a swamp and a
+jungle, a tribe that called a nerd girl """"""""fire hair"""""""" and
+i remember we could change the AI of the dog,making him more agressive
+or passive Any other details/asks Will be answered"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

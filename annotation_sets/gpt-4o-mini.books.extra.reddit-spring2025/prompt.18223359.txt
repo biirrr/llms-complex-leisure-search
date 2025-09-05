@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "High School Book on Human Rights and Violations [s]. Hi :)
+I've been searching for this book since 2007-2008 in high school. I
+cannot remember the name of it or the author. I remember it had a blue
+cover and plastic on the cover. It wasn't a very long book but the
+content was age appropriate for middle to high schoolers. It had
+several stories: one was about the murder of Steve Biko in South
+Africa (also included a black and white photograph of him), a story
+about a little boy in Uruguay being abducted from the street by police
+while out riding his bike (he was beaten to death I believe), one
+story about a man whose government experimented on him and left him
+practically a vegetable (think it was somewhere like the Soviet Union
+or the Ukraine but not sure), and one story about a woman either in
+the Sudan or an Asian country being illegally detained for
+months/years without a trial. The book posed the question, ""What are
+human rights?"" and answered the question. It also included ways for
+ordinary people to help others become aware of human rights
+violations: it included three I think (wrote them down but cannot find
+them). If anyone can help then I'd be very grateful."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Young woman moves from New York to a coastal
+town after breakup to fix her father's house into a B&B. She is a
+young woman hating her job and she’s been with this boyfriend for
+years, waiting on a proposal. When out to dinner, instead of a
+proposal he gives her earrings/a necklace, she breaks up with him. She
+picks up her car and drives to Maine(I think) where her father had had
+a vacation home. After seeing its disrepair, she decides to stay and
+fix it up to turn it into a B&B and bring tourists to the small town.
+She meets the groundskeeper who has been trying to take care of it.
+They begin as sort of enemies and develop a friendship and more as the
+book goes on. She argues with a neighbor who wants the property and
+has to fight to keep the property at a town meeting. She makes friends
+with one of the store owners in town, when everyone else struggles to
+accept her being there. While all of this goes on, she discovers more
+about her father and her past in the house. (I think)He left after her
+sister went missing as kids during a storm. As they fix up the house,
+they(her and the groundskeeper) discover rooms that have been blocked
+off, including one with a stain glass window and work to clean and
+clear out the rooms of clutter. I think I read/listened to the audio
+book about 10-15 years ago?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

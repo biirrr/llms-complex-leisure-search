@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][unknown] JRPG Tactic with Angel characters.
+**Platform(s): PS1** **Genre: Tactical JRPG** **Estimated year of
+release: ???** **Graphics/art style: 2D Isometric (like Final Fantasy
+Tactics) and Anime style characters.** **Notable characters: At the
+start of the game you can choose from a girl to be your trainer(?).**
+**Notable gameplay mechanics: Tactics and very hard. Your MP/Mana is
+blood and you should fill in the start of the battle how much you want
+to carry to the stage.** **Other details: At the start of the game you
+train your characters on puzzle-like minigames to raise stats until
+the story takes progress. Everyone on the game is an angel. There are
+white wing and black wing angels characters. The main characters turns
+into a black wing angel at the start of the game.** **I don't know if
+there is an english version of it, but I know for sure there is an
+english spinoff version of the game for the GBA.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

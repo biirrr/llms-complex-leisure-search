@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1995+] 2D kid game. everyone, Im trying to remember an
+old 2D side-scrolling platformer for PC (definitely PC, not console).
+It must have been released after 1995 <¨ The game had a cartoonish,
+colorful art style. But please note: these are childhood memories, so
+the details might not be 100% accurate. Heres what I remember:
+"""""""" One level took place on top of an old western-style train,
+moving through a desert. The level started on the last wagon, on that
+small platform at the back (like in western movies). Sometimes a
+tumbleweed would roll by. You had to run along the roofs of the cars
+and not fall off the train. """""""" Another level is area with a
+dirt/brown background, occasional platforms, and water underneath. I
+remember there was a part where you could try to jump down almost into
+the water to get something (but it was a really risky jump). """"""""
+There was also a long downhill run, where youd pick up speed going
+down a hill, and at the bottom, you entered a maze-like level that was
+quite tricky. It was definitely 2D side-scrolling (left to right),
+with smooth, colorful graphics  or at least thats how I remember it.
+Any ideas? Thanks so much for your help! =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

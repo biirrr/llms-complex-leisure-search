@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Past/ Present/ Future 3 story Anthology about humans with
+spiral/ helix staircase on the cover. Hi! I'm going crazy trying to
+find this book. Back in 2015-2016 I read a book which composed of
+three parts, all linking to each other in an almost cyclical manner.
+They could be read in any order, and had a blue cover with a helical
+staircase on the cover. The first part was set in the prehistoric
+past, with a focus on cave paintings of hands with missing fingers.
+Another was set in the future, maybe some sort of long-haul space ship
+carrying humanity to a different planet? I don’t remember exactly. The
+third part is completely gone in my mind. I think it also received
+some sort of teen/ YA book award in the UK. It was probably first
+printed in the the 2000s-10s. I believe the author was a woman. It was
+*not* Fire Dancer by Victor Kelleher. I’ve tried a few times and
+cannot find it. Any help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

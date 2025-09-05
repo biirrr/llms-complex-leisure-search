@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2020s?]Horror game with a ballerina. I saw a clip of
+this game on tiktok and have been trying to find it ever since. It was
+first person and the player was surrounded by mannequins in ballerina
+poses. A spotlight would come on and illuminate one of them, which
+would turn into a ballerina in a red dress with bandages on her face
+that would begin dancing towards the player while intense music
+played. The objective seemed to be to both keep far enough away from
+the mannequins and also not move while she was dancing. It was
+definitely a modern game as the graphics were semi-realistic. Thanks
+for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

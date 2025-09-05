@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "(Murder Mystery Radio show (“They” + Crying Baby). This is
+not about a book but I’ve been searching for so long I wanted to give
+it a shot here. When I was younger I found this tape - it wasn’t a
+home recording of a radio show it was an actual tape produced by a
+radio broadcast company I’m guessing or something like this. It was an
+old radio show recording complete with voice actors and sound effects
+like the sound of running, a baby crying and gun shots. It was
+obviously a murder mystery and the intro had this loud organ music.
+The story was about a detective (I think he was a detective) and his
+right hand man; they went to the home of these three sisters one of
+whom was named Charity or Chastity or something like that but everyone
+called her cherry. I don’t remember the names of the other sisters but
+I think they were also virtue names like Faith or Grace… Anyway so
+these two men came to their home to solve a mystery – they were
+hearing a baby cry in the night and there had been a murder (at least
+I think there had been a murder before they got there but there was
+for sure one while they were there…). The youngest sister Cherry was
+kind of crazy she cried and fainted and kept talking about “they”.
+“They” were coming and “They” were angry and would kill again… no one
+know who “They” was. In the end it turned out that it was cherry all
+along who had been doing these things even making the crying baby
+noises. She had been locked in her room as a child for hours and hours
+at a time and the mother goose characters on the wall paper in her
+room had taken on a life of their own. These characters where the
+“They” she had been talking about and in her head they were the ones
+committing the murders and crying in the night but it was actually
+Cherry (or Charity or Chastity or whatever) who had been doing it all
+along…"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

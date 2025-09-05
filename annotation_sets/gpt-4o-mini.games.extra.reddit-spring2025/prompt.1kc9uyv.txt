@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][pre-2010] Father of """"""""Eufloria"""""""" and
+""""""""Oil Rush"""""""" genre. Hi I was looking for the game that
+inspired these two titles and maybe even created this RTS sub-genre.
+I'm pretty sure it exists because I saw it mentioned in a video about
+pre-2010 games, I think it was a game featured on sites like
+Kongregate or Newgrounds. For those unfamiliar with the two games
+mentioned, the common mechanics are: \-RTS \-Base that spawns
+continuous units \-The units continuously orbit around the base, they
+never stop. \-Units can only move from one base to another, continuing
+to orbit. Combat also occurs with units orbiting the base. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

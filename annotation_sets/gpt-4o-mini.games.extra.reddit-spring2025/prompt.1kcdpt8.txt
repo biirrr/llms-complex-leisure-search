@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020-2023] Save Earth from inside a space station?.
+Platform(s): PC and maybe PS5/Series S Genre: first person shooter
+&amp; maybe puzzle? Estimated year of release: 2020-2023/maybe never
+released? Graphics/art style: Sci-fi / sort of like Portal 2 but in
+space Notable characters: Female protagonist voice heard over radio.
+Notable gameplay mechanics: Solve puzzles or defeat enemies to save
+earth Other details: I saw a trailer 3-4 years ago for a game where
+you are trying to save Earth and/or change Earth's fate via actions
+you take on a space station. In the trailer there were glimpses of
+Earth being either saved or doomed depending on player action. There
+was lost of audio banter over what sounded like a NASA comm/radio
+discussing the actions of the player and what the effects were on
+Earth."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

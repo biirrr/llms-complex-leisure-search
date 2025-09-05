@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps5/xbox/pc] [2020-2024] it was this game i seen in a
+youtube video a while ago. i dont know much about the game but its a
+solo story based game and theres this part of the game where you have
+to kill this animal i wanna say it was a deer but i could be wrong i
+feel like i remember you have to break its antler and start stabbing
+it or something (it wasnt like hunter esc) the set and setting seemed
+like some enchanted forest thing im pretty sure you payed as a girl
+or maybe a boy with long hair"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

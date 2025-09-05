@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2016+] [PC] Id be impressed if anyone can find this, 2D
+Pixel Art surreal horror game involving a group of friends exploring a
+subway and a dream-like other world (it doesnt explain a lot at the
+start at least), called something like dread tracks or dead halls or
+something. Markiplier played it forever ago but after scanning his
+scary games playlist up and down like 4 times I dont see it anymore,
+so either its removed or not in that playlist. The game is very very
+surreal, like youre playing through a nightmare on shrooms. It flips
+between controlling one person out of a group of friends exploring a
+derelict abandoned subway, and controlling one of the characters alone
+exploring this bizarre other world (I think its supposed to be
+purgatory or hell or something and something went wrong when exploring
+the subway). There are puzzles and also danger, I remember him
+planting bear traps and leading a monster into it at one point, and at
+another point he met this butler guy, who began crying for mercy
+before mutating into some fucked up dog monster. Later he was doing a
+word puzzle and all of a sudden it became spooky before telling him to
+run, and then the dog monster appeared and he had to do the puzzle
+while being attacked. I vividly remember when youre exploring the
+other world it plays a train horn effect, like 2 brief (around a third
+of a second) hoots one after the other of different tones, adding to
+the surreal atmosphere. It very clearly just doesnt want you to know
+whats real or not."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

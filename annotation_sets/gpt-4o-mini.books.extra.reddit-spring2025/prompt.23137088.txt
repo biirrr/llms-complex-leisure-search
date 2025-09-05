@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance, England. Late teens heroine
+Julianna? She's twice widowed and then marries hero, happens in about
+a year. Read before 2011.. I read this pre-2011 and remember the plot
+fairly well. I think it had a one word title. Spoilers - she was about
+17-19, classic orphan raised by disinterested aunt/uncle. 1st marriage
+local older widower, he dies on wedding night from heart attack but
+she panics and flees because she hit him with a bed warmer. Goes to
+London and is picked up by madam offering 'work', darkish hero enters
+at brothal, he is looking for young woman who can pass as quality to
+marry relative. I can't remember specific relationship. He needs him
+married with heir but no decent woman will marry him. That is 2nd
+marriage and he dies soon after. She is pregnant by then with hero's
+baby. Hero realizes he loves her and after some drama re previous
+marriages and aunt/uncle they marry. All happens in less then 1year,
+time period late Georgian to regency England."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

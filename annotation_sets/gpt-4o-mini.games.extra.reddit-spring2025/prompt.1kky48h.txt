@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360][2010s] GTA like game with cat costume dude. Back
+in like 2011 ish, a friend brought his Xbox to a sleepover and we were
+playing this street racing game, and in it there was a dude marked on
+the map who was in like a cat mascot suit, with the big head, and he
+would try to kill you. I was asking co-workers and none of them know
+what I'm talking about"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

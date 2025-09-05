@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Short Story collection. 1980s. American. All
+stories theme is teddy bears. Definitely NOT kids book.. Borrowed from
+library. Book had several stories but all included teddy bears
+prominently in them. One of the stories involved the Royal family with
+Diana trying to protect Sarah Ferguson from her fate. Written long
+before Diana had died, obviously. I believe most of the stories were
+mystery or thriller type but a couple bordered on horror."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Horror Game] [Pre-2010] about Girl in Red in a
+Haunted Hotel. Hi everyone, Im trying to find an old mobile horror
+game I played before 2010, possibly even earlier. I played it on a
+feature phone (button phone), but it might have been a port from
+somewhere else. I think the game was called something like """"""""The
+Girl in Red"""""""" or something similar. # Heres what I remember:
+The story goes like this: You play as a female journalist (or
+reporter) who travels with her friend to a remote town to write a
+story. You both stay at a hotel located outside the city. One night,
+you arrive at the hotel and find it empty. You take the elevator, but
+the doors wont close. At the end of the hallway, you see a female
+silhouette slowly walking towards you. Eventually, you reach your
+floor. The protagonist takes a shower and goes to bed. She wakes up
+feeling pressure on her chest and sees her friend lying beside her
+with a terrified expression. When she turns her head, she sees a ghost
+or monster. You decide to leave the hotel, but when you open the door
+just a little, theres a large eye staring at you through the gap. I
+dont remember what happens after that. It might not have been a full
+game, more like a visual novel or interactive story. It scared me a
+lot when I was a kid. I got it as part of one of those 1000 in 1
+games packs for Java phones. If anyone remembers this game or knows
+the name, Id really appreciate your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

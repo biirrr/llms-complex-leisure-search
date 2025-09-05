@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Win95][~1997]Point and click Childrens game with an evil
+witch that turned things upside-down. I remember you started out in
+your house, and there was a music box(?) you could interact with which
+started playing """"""""Für Elise"""""""". The next area you got to
+was a carnival/faire, and there was a clairvoyant woman who read you
+fortune, and a minigame where you threw darts at balloons. The next
+area was a lighthouse by the sea, which you could enter the basement
+of and there was a minigame there as well. In the finale, there was an
+evil witch flying around on a broom, turning various item upside-down,
+and you had to fight back by turning them back the right way. I played
+this game in Norway, so it might be from some Scandinavian/nordic
+developer. Any help is appreciated. This game is like a fever-dream
+for me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

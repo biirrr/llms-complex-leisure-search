@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][2017]BOTW Link, Top-down Zelda clone. Platform(s):
+Played on Android. I think it was also released on Xbox, and possibly
+on other consoles as well. Genre: Action RPG, Puzzle Estimated Year of
+Release: 2017, based on the main characters design. I also remember
+playing it in 2017. Graphics/Art Style: 3D, cartoonish, possibly
+chibi. Notable Characters: The main character seemed clearly inspired
+by Link, especially his Breath of the Wild design, which was quite
+popular at the time. His clothes were almost identical to Links. I
+don't recall many other notable characters, just some generic enemies.
+Notable Gameplay Mechanics: Top-down camera view. The gameplay
+appeared to be inspired by classic Zelda top-down games like A Link to
+the Past, where you use a sword to fight enemies and explore dungeons
+to solve puzzles. Other Details: Its compatible with Bluetooth
+controllers on Android, which reinforces that it was likely released
+on consoles as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

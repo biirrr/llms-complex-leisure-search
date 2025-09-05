@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "dramedy about city couple moving to the woods/country [s]. I
+read this book in hardback sometime between 2007 and the present. It
+is a very funny read about a couple who moves from the city to a cabin
+in or near the woods. I could be wrong, but I feel like the couple was
+a gay couple, one was a writer, from NYC. The title is something like,
+""In the Woods No One Can Hear You Scream,"" however when I google
+that or anything similar all I get are actual horror stories. This is
+very funny with episodes involving a racoon getting into their stuff
+and other hilarious scenes where they deal with the change from city
+to country. It might even be based upon true events."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

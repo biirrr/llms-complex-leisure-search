@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Biography of a 20th Century Female Adventurer. I read a book
+review of the biography (autobiography?) of a woman (American?) who
+lived in the early to mid 20th century, was not famous, but led a full
+life exploring and traveling. The review sounded great, unfortunately
+I did not write it down and now have no recollection of the details.
+Sorry for the vagueness."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

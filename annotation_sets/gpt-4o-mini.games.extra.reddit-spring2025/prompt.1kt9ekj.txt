@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [2010s] Bullet hell game. This game i originally
+played on the nintendo switch. The game is a pixel art bullet hell
+game, where you play as a girl in a blue dress and a scarf, her face
+has her eyes only showing majority of the time. The game starts off
+with you waking up in a cave where your entire family is killed. I
+dont know specifics but there is this white spirit looking thing that
+talks to you and tries to guild you about what is happening. The
+gameplay outside of fighting bosses is doing puzzles to obtain new
+guns, as well as stories by other characters. Some specifics in
+gameplay is that dashing gives you i-frames. You can unlock an
+awakening power from this black snake thing that during battle will
+make you temporarily invincible with a damage boost during that time.
+Some other specifics is that the final boss in the story is a face
+that (dont quote me on this because i am not sure ) is named momo. i
+do not know if it is cross platform because i only played it on a
+switch around 4 years ago. I am pretty sure is came out in 2019-2021
+(around one of these times)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

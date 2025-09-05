@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Sociology book about religion’s war on teen sexuality, prob.
+2006. [s]. I believe the author was a woman, the cover was yellow and
+black. I read it in 2005 or 2006, in paperback, and I think it was
+relatively new at the time, I’m pretty sure I picked it up off one of
+the center display tables at Barnes & Noble, probably in NYC. The
+title was an idiom or play on a common phrase, like “Suffer The
+Children,” or something like that. I think the title may have had the
+word “Moral” in it, but I could be wrong. She discussed lots of
+specific cases of how churches vilified sexuality, resulting in young
+adults growing up with unhealthy views of sex and sexuality,
+unfulfilling sex lives, self-hatred, etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

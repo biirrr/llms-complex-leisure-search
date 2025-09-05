@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS?][200X] Horror tv show game. Im trying to find old
+games I played when I was young, and there is one I remember, but I
+cant find the title online. You are going through a haunted house,
+but its a sort of tv game show. There are cutscenes with a host in a
+tv studio, an audience, and there is a flying camera following you.
+The protagonist is male, but there is a female character too. I think
+she was a demon. I think you can transform into one of the others, but
+Im not sure. I think it was for PlayStation, not sure if 1 or 2. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

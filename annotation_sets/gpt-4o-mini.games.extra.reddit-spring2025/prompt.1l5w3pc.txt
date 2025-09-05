@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox] [unknown] a game about car combat. Ive been looking
+for a game i played a lot on the original xbox as a kid but i cant
+find it anymore It was a game with car combat where the point was to
+kill the other cars in the level. It was a 3rd person camera style
+game. There was no freeroam it was exclusively driving &amp; shooting.
+There were no car mounted guns the gun combat was strictly your
+passenger hangout of the window to shoot. Some more details i am 100%
+certain of: It was a realistic style graphics game for its time One
+of the guns was a shotgun The driver was a black male. One of the
+levels featured a multiple floor parking garage with cars to kill om
+each floor It featured boss cars which were basically just cars with
+more health who did more damage. Ive asked ChatGPT &amp; Meta Ai. Both
+always list me the following: Carmageddon, twisted metal, midtown
+madness, driver, roadkill &amp; mashed. If someone here could help me
+or maybe if someone has questions for information i didnt list id be
+forever grateful if you know the answer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

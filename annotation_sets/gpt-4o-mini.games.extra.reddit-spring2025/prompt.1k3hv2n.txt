@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Console] [2010s] First person ?zombie? shooter with an
+interesting mechanic. Platform(s): I played on Xbox 360 Genre: Shooter
+Estimated year of release: 2010s Graphics/art style: That era of
+greyed out """"""""gritty"""""""" shooters. First person Notable
+characters: No clue Notable gameplay mechanics: This is the one. There
+were NPCs that weren't necessarily hostile, they were survivors like
+you. If you pointed your gun at them, they would usually give up, and
+surrender...unless you stuck around, and they would realize you had no
+bullets. Other details: I'm like 80% certain its a zombie game. But it
+could also just be a sort of survival game? I have honestly 0 memory
+of what the gameplay was besides going into what looked like a bombed
+out building and holding some poor woman at gunpoint so she wouldn't
+bother me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

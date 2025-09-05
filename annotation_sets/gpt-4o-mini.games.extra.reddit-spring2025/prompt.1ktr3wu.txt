@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][idk , before 2015 for sure] a rgp game where you can a
+a party of 4. Platform(s): PC, maybe other Genre: rpg Estimated year
+of release: 2000-2010 ? (before 2015) Graphics/art style: top view
+Notable characters: \- a dog that can join your party Notable gameplay
+mechanics: \- a party made of four people \- you can manage your party
+Other details: \- the only moment i really remembers is me playing
+this game with a dog in my party while a city (maybe the main one) is
+being attacked \- my dad wich played this game too think it's
+neverwinter night 2 but when i don't see anyone playing with a dog in
+their party and the gui seems different to the one i remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

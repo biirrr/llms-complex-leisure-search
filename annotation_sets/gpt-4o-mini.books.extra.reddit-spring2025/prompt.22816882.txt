@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy, Alternative History, Mediterranean. Meteor hits
+cruise ship and older gentleman wakes up in new world in a younger
+body. Tiger like creature. Telepathy. Read late 1980s/early 1990s.
+[s]. I read this late 80s-early 90s. It starts with an older gentleman
+and younger woman on a cruise. A meteor hits the ship and the older
+guy wakes up in a new world in a younger body(the host had died). He
+has a bond with a tiger like creature. The council of the city uses a
+gem to enchance telepathic abilities to control local animals to do
+jobs in the city. He finds the women but her host didn't die so shes
+in control. the book starts off with him visiting a recorder which
+stores all the memories of everyone who visits into a communal
+knowledge."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

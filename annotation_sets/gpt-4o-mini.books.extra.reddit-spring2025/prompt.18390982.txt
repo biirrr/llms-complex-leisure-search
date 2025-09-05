@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Girl returns to her hometown. While moving back, she's
+tackled to the ground by the town's cop. Cop is trying to solve why
+girls from the same orphanage are being murdered. [Spoilers ahead...]
+[s]. Okay so I read this book about a girl who returns to her hometown
+and moves back in her teenage home. While she is moving in she is
+tackled to the ground by the towns cop who happens to be the guy who
+took her virginity many years before at prom I believe? Anyways the
+cop is trying to solve a mystery as to why girls from the same
+orphanage are being murdered. Turns out the girl who just moved into
+her old teenage home was a part of the little girl orphanage and she
+remembers what happens only after she lays in the same bed she used to
+sleep in as a child. The girl and the cop fall in love and the girl
+ends up being kidnapped by the killer who was the guy who worked at
+the orphanage and used to molest the girls there."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

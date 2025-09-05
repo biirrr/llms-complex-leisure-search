@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen/ YA Fantasy novel, epigraphical/ document based. Set in
+a fantasy kingdom called Montagna, follows a young princess and a red-
+headed prophetess. Read in about 2014.. The book closely followed a
+young princess and a young red headed peasant woman who had the power
+to see the future. The young princess also had magical abilities; the
+main one she pulled off was one where she would leave her physical
+body asleep and project her consciousness into a cat's. The whole
+story was told in letters, diary entries, maps, and memos. Cover was
+blue with a woman in a dress on it I think? Lots of Italian words used
+in the text; there was a circus performer character called il gatto
+felice? There was a lot of plot dedicated to a young queen who was
+being tricked into abdicating."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

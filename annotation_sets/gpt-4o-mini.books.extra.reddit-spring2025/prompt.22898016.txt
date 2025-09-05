@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens/ Young Teen book read between 2009 and 2015 -
+young girl and single mother. mum has memory problems. Spoiler..
+eventual reveal that she (the mum) is being drugged everyday by a
+mysterious man she meets on a park bench to make sure that she forgets
+whatever it is that she knows (frustratingly - this is one of the
+things I can’t remember!). The daughter and her mum fight a lot
+beforehand but once the daughter manages to get her mums memories back
+they are much closer together. There definitely was a wider plot to
+this book, but all I can remember is this. I think the man she meets
+in the park gives her a doughnut every day, and that’s what makes her
+forget."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

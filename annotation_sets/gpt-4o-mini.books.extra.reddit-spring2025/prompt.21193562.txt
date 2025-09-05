@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Girl walks in forest giving everything she owns away, short
+story, fairy tale type. Not sure if this is a book or poem or even
+video, but basically, a girl (90% sure its a female) walks around in a
+forest, when she comes across someone who is hungry, so she gives her
+food away, then someone cold, so she gives her coat away, this
+continues with blind people giving her eyes away, and even more until
+there is basically nothing left of her, I remember someone approaching
+her at the end and asking her why she does this. Please help, came
+across this within a couple of years ago"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

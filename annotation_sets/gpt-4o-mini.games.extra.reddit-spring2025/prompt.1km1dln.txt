@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS/Facebook/Flash?] [2010s] Help me to find a Pokémon-
+adjacent monster tamer game. Help me find a pokemon-adjacent game I
+played when I was younger; 2010s When I was younger, I played an
+online game (which was either on Facebook or an IOS app; Im not
+entirely sure) but i distinctly remember that there were different
+islands/worlds you could travel to; and that the starter island was
+very Japanese-inspired. The starters seemed similar to Yokai/spirits;
+and i distinctly remember the starter I chose being a white air-type
+wolf with minimal patterns; simple swirly things It was not monster
+galaxy, miscrits or mino monsters, but a different game that Im
+itching to play again lol. Also: Im pretty sure the sprites were
+animated; and not pixelated; it was a 2D game. You could move around,
+and your party member could follow you around (similar to HGSS) I
+think it might have been an online game as well&? I vaguely remember
+seeing other trainers moving around."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

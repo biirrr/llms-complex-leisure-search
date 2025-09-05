@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser/Flash][2010/2015] Galaga style shooter with blue
+guy. * **Platform(s):** Browser (Flash game, played on Kongregate and
+similar sites) **Genre:** Top-down vertical shooter / action shooter
+**Estimated year of release:** early 2010s **Graphics/art style:**
+Cartoonish, colorful. **Notable characters:** Player controls a single
+blue-suited hero (similar in style to Mega Man) **Notable gameplay
+mechanics:** * Vertical shooter with the boss confined to the top
+third of the screen * Player dodges projectiles and shoots upward from
+the bottom two-thirds * Upgradeable stats or weapons for the player
+character * Multiple bosses, including a memorable cactus-themed boss
+and a large mech boss * Short single-player campaign with multiple
+boss fights **Other details:** * The overall vibe is similar to Galaga
+but with a grounded character on foot rather than a spaceship * The
+game isnt side-scrolling; its a vertical arena-style shooter"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

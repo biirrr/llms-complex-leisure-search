@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s- Early 2000s] Point and click game where youre
+a girl, theres these weird robots.. i remember when i was younger i
+used to be obsessed with this one game, i cant think of the name but
+its an old point and click, i vividly remember the intro was there was
+a city area with a big building and the girl gets a note. and it has
+those old computer graphics/models like in fallout 1-2"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy about a green, frog-like, artifact with a serious
+agenda within which the young salvage diver that found it becomes
+enmeshed. Read around 1974.. Since I started reading this book back
+when I was in grade-school, having checked it out at the school
+library, I haven't a clue as to when this was published. I'm assuming
+it was YA because although I was exceptionally precocious, and read
+far above my age level, I was also crushing on Laura Ingalls Wilder at
+the time, who, in the TV series, would have been a few years older
+than me (circa 1974). But anyhow...as far as I can at all remember,
+the story in question starts out with an earthquake off of the
+California coast (probably) which dislodges a green stone artifact in
+the form of an amphibious alien species, and which is then found, and
+retrieved, by a young man who helps out in his father's business (as a
+salvage diver, probably). Thing is though, the green stone artifact is
+not made of stone. Not hardly. In fact, it is very much alive! And it
+is awakening. And it has plans."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

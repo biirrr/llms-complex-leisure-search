@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [mid 2000s] Diablo Like. A group of former Blizzard
+employees broke of and began development of their own iteration of a
+Diablo style game. Had a more cartoon look to it, sort of like a
+quirky less serious WoW style. Isometric view. Hack n slash looter. I
+remember playing as a fire wizard gnome. I feel like there werent
+many classes or races available. Was on the Beta test and I dont
+believe it made it beyond that, but could be wrong. Edit: solved!!!!
+It was Mythos!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

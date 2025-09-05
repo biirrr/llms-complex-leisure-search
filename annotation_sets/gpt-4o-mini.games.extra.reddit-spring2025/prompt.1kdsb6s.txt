@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GBA][unknown] 3D sci-fi game where you pilot a spaceship in
+1st person. I remember it like the back of my hand, the intro showed a
+larger spaceship carrying some ancient looking rellic, and once the
+game started you were in a dining room hub of the spaceship. I
+remember playing this as a kid and enjoying it, but for the life of me
+can't remember what it's called or what the cart looks like."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

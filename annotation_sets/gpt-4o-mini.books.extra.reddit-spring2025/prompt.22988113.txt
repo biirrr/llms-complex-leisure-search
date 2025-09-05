@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi novel: Protagonist trapped in virtual reality,
+starts in mental institution. Published in 1990s/2000s?. I'm trying to
+remember the name of a science fiction novel I read, likely written in
+the 1990s or 2000s. The story starts with a male protagonist in a
+mental institution, but it's later revealed that he's actually trapped
+in a virtual reality world created by his company. The antagonist, one
+of his coworkers, has trapped him there as part of a scheme to take
+over the company and use the VR technology to simulate market
+behavior. In the VR world, time moves faster than in the real
+world—what feels like years inside is only days or weeks outside. The
+virtual environment is incomplete, and the protagonist begins to
+realize something is wrong when he digs a hole and finds nothing
+underneath it, just a blank space where the system hasn’t filled in
+the details. The VR system connects people through a dream-like state,
+with participants lying in beds to access it. There’s also a scene set
+in a virtual version of Japan. The protagonist was married at one
+point, which is mentioned as part of his backstory. The book is set in
+a near-future Earth, with no mystical or supernatural elements—just
+advanced technology. Does this ring a bell for anyone? Any help would
+be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

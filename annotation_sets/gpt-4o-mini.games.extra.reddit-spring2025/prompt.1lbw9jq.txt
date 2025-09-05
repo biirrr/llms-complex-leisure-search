@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[TOMT][Flash Game][Early 2010s] 2D shooter with weapon
+upgrades. I'm trying to find an old **Flash shooter game** I played
+online, probably early 2010s. # What I remember: * It was a **2D side-
+scrolling shooter**, visually similar to the *Thing-Thing* series
+(basic humanoid characters, not too cartoony). * The **first weapon**
+was a **poison pistol**. * Weapons **leveled up as you used them**.
+When a weapon upgraded, there was a **short animation** and it got a
+**new accessory or attachment**. * One of the guns, when **fully
+upgraded**, would **shoot random objects/items** instead of bullets. *
+There were **multiple planets/levels** to play through, and one of
+them was definitely a **gladiator planet** * The game was playable in-
+browser on a Flash site It had a cool variety of weapons and each
+planet felt different. I think it had a kind of campaign/progression
+across planets. Does anyone remember this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

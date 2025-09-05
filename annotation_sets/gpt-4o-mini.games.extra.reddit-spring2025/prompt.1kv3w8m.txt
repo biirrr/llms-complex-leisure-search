@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] Minesweeper game where you play as a miner
+navigating through a cave. I remember playing this on windows 8. You
+start on the left side of a map, and dig dirt to make it to the right
+side glowing exit. When you dig the dirt red numbers would appear just
+like minesweeper, and if you hit a trap you lost a life. (I think you
+had about 3 lives to make it to the end) I think you could also
+collect treasure in the levels to then buy items that help you on your
+next level from I think a mummy? That's about all I remember thanks in
+advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

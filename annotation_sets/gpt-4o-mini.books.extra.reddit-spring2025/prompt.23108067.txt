@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction about girl named Harper looking for information
+on her father. Friends with girl who lives nearby (maybe in a motel?)
+and I believe they grew up together. Read around 2010-2015. Spoilers..
+First read around 2010-2015 but the book itself could have been a
+little older, checked out from my local library (I live in the US).
+I’ve searched the library’s catalogue and done extensive online
+searching with no luck! The cover might be blue, but I could be
+misremembering. Plot: A girl named Harper (her mom named her after
+Harper Lee) was raised by a single mother somewhere around the East
+Coast who will only tell her that her dad died in the war (pretty sure
+it was the Vietnam War, but that detail is iffy). She starts trying to
+learn more about her dad. She is also friends with a girl (I’m pretty
+sure they were in middle school) and her brother who live nearby,
+possibly in a motel, and I remember a specific scene in the book of
+the two girls attending a dance class together when they were little.
+SPOILERS: Harper finds her birth certificate hidden in her mom’s
+things and I’m pretty sure her birth name wasn’t Harper. Near the end
+of the book, Harper and her girl friend go on a school field trip to
+Washington DC and Harper tries to find her dad’s name on a war
+memorial but can’t find it. Her dad is actually alive and her mother
+was trying to hide her from him. I think the book ends with Harper
+disappearing to either search for or go live with her dad and the
+friend doesn’t see her again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

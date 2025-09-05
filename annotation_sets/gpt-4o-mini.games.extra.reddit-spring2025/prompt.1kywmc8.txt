@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/CONSOLE] [Unknown] Obescure (Japanese?) metroidvania
+where you climb a tower with a one-shot, one-bullet gun.. I don't
+remember everything, but I remember watching a video on a game that's
+very obscure where the player character climbs a tower and tries to
+reach the top, and the endings depend on how the player character
+utilizes the weapon given to them. I believe it's a gun that shoots
+only a single beam of light, gifted to the player by an NPC. I
+remember that the gun kills anything in one hit, but it's the only
+weapon that can kill the """"""""final boss"""""""" at the end of the
+game. I believe it's a metroidvania that was potentially released on
+console / Wii, but I don't fully remember the details or the date. I
+also remember there were multiple NPCs you could interact with, and I
+believe you were supposed to climb the tower various times, either on
+one playthrough or multiple. I also specifically remember an area
+where you could talk with the NPCs and a spot where you could plant
+items before the tower part. Sorry if it's a bit vague, I've been
+trying to find this game for the past day, but had no luck. Please let
+me know if you know of it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

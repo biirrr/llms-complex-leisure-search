@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s][Fighting game] Game with relationship/dialogue-
+based battles?. Platform: PC for sure. Not sure about others. I'm
+looking for a game that I haven''t played, but I've watched content
+about it. It's a game that's very colourful, it's 3D, and its main
+gimmick is that its battles do not involve physical fights. The
+battles are relationship/dialogue based and you """"""""hit""""""""
+your opponent with emotions/words lol also the battles are turn based.
+Your """"""""moves"""""""" when you """"""""hit"""""""" your enemy are
+even stylized to look like regular fighting game moves. Sorry for the
+little information, I don't remember much about it myself. But I
+remember being curious about the gameplay. I'd like to try it now.
+Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

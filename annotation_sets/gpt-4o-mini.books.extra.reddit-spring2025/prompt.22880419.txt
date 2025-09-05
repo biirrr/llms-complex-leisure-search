@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult contemporary fiction, drama. Teenage drifter travels
+in trains, has mental issues, plans to shoot a senator? American male
+author. [s]. Hello all, I have a vague recolection of a novel from an
+American male author, about a teenager that is a drifter, travels in
+trains , it is a contemporary novel, he has mental issues and is
+planning or imagine a plot to shot a senator? Think? It is set in
+Midwest , and the think that I remembered vividly that he is obsessed
+with the song Today, from Smashing pumpkins. Some of the details are
+probably not completely correct, but I really forgot the title and
+most of the plot, thanks for your help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

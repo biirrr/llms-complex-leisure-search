@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020s] That one survival game that everyone disliked..
+A few years ago, a survival game released. The creator had said a lot
+of things about how they didnt want to do things normally associated
+with survival games. Still, the game exhibited a lot of those traits.
+A lot of people were angry because of this, especially since there had
+been a lot of hype for the game beforehand. This game was a common
+talking point around the time of its release. I just dont remember
+what its called. I believe multiplayer was a part of it. I never
+actually saw the game, only discussions about it. I think it was made
+by just one person, but Im not sure. It mightve been some kind of
+zombie MMO. In that case, it was those traits that were present. Its
+not a famous game like No Mans Sky or We Happy Few. I havent read
+anything about this game aside from the controversy, while these games
+are very famous for their actual content and their good parts."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

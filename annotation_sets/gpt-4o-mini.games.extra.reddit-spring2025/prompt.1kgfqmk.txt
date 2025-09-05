@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018] Walking sim about a girl looking for (or chasing
+after) her little brother.. **Platform(s):** PC **Genre:** Walking Sim
+**Estimated year of release:** 2015-2018 **Graphics/art style:** 3D
+**Notable characters:** The only characters are the little girl you
+play as, and her brother **Notable gameplay mechanics:** Flashbacks,
+1st person POV, some """"""""dream like"""""""" things happen (like
+doors that open on their own etc) **Other details:** It's a pretty
+short game, maybe 2 hours long? You play as a girl probably around 12
+trying to find her brother who is around 7 years old. He wears a cape,
+and there's something about a superhero? I remember a tree house that
+has a bunch of his things in it, and there was something about paint?
+And I think at one point you look for him in a train car? That might
+be where the game starts? or ends? It's all very stylized, almost like
+a book, with lots of bright colors. **SPOILER ALERT** &gt;!Fairly sure
+the brother is actually dead, and you're kind of playing through her
+grief!&lt;"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

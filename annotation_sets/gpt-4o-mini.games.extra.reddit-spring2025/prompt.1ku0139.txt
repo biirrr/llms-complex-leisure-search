@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/BROWSER] [2000s-2010s] Web game with a side character
+thats always freezing cold. This game did not have a realistic
+artstyle, definitely more cartoony. It had morbid humor, and im pretty
+sure it was a third person point and click adventure, kind of like
+Kindergarten or Henry Stickmin. The characters were children, perhaps
+classmates? The most specific thing I recall about this game is a side
+character that had a running gag of being perpetually freezing cold.
+Near the end of the storyline, he ends up burning in flames
+unendingly. It was moderately popular as I had seen let's plays of it
+many years ago. Thank you for giving it a shot with suggesting what
+this game might be! I am aware I am not giving much to work with."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

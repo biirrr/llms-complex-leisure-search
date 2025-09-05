@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows PC][2010-2013] A robot based fighting game, mostly
+singleplayer, it was on a (cd) disk of green colour. **Platform(s):**
+Windows **Genre:** Robots Fighting **Estimated year of release:**
+2010-2013 **Graphics/art style:** General typical mecha style with
+random sci-fi panels and Third Person Shooter **Notable characters:**
+Bigger than life, robot which you select can have 2 guns (mini
+gattling guns or lasers), ammo boxes spawn around the map **Notable
+gameplay mechanics:** At times some robots spawn from the sky and you
+have fight them with the guns and lasers you have **Other details:**
+Disk based game. The launching of the game features a person in yellow
+raincoat taking shelter in a lighthouse during a storm. Something
+about a lighthouse production. also some """"""""303"""""""" like
+named company name was also shown before the actual game started."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

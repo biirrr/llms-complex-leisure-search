@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non fiction - mystery - 2020. This book was nominated for or
+won an award. Mystery about the intricacies of family life.
+Alzheimer's disease. [s]. Hi, I am hoping someone can help with a book
+I really would like to read but have forgotten the title and author.
+It's new, 2020 and is non-fiction. It is about a woman going through
+her mother's (who has Alzheimers) belongings, in order to give her
+things she recognizes to add comfort to her in the care centre, and
+discovers a photo of her mother in a European (?) street. She
+recognizes the background as something her grandmother (who has
+passed) had painted. She asks her uncle why her grandmother did not
+include her mother in the painting and the mystery deepens. She goes
+on a search for the answer to this question and brings up long buried
+family secrets"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book about FDR. Cover shows him as a child. [s]. This book
+was in my school library, more then 30 years ago and was about FDR and
+his life growing up. I do not remember if it goes all the way to his
+becoming president. Cover is him as a boy. book starts with covering
+his early years as a kid. Tried to find but so many books on FDR! I
+have no idea which one it is but hopefully I've given enough
+information and someone can recognize it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

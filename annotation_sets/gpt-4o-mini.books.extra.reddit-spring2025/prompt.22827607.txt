@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction / possibly Mystery - told from POV of teenage
+girl, book is about a mysterious or possibly mean new middle aged
+female Teacher. Narrator is teen girl who befriends a male classmate
+as they find out more about their teacher. Read ~2007.. Read this book
+around 2007, I remember it having a black cover and a long title. It
+was a witty humoured book with detailed descriptions of characters and
+settings. The narrator befriends a male classmate and at one point it
+is described in great detail how ugly the narrator thinks the
+classmate is. The plot centers around a new middle aged female teacher
+and how this teacher affects the narrator’s life. There may have been
+some element of mystery / suspense to uncovering something about the
+teacher. I believe the teacher was an English teacher and there was
+something about a poem written by the narrator for the English class
+featured as part of the plot. I can’t remember anything else about
+this book unfortunately!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

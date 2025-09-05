@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy. A queen or princess is in a war against “bad” or
+“evil” king? There is a young, overweight mage sent from an island of
+mages. Eventually he loses weight and develops/ utilizes “dragon
+scale? armor.” [s]. A queen or princess is in a war against “bad” or
+“evil” king? She puts together a team to help her. There is a young,
+overweight mage sent from an island of mages. He is not held in high
+regard by those on the island. Eventually he loses weight and
+develops/utilizes “dragon scale? armor.” He returns to the island in a
+position of power. There is a “knight” who is in love with a “lady in
+waiting” to the queen/princess. This lady came from a working class
+background, but her father developed a way to shave a tiny bit of gold
+off of coins and she is very wealthy now. The blushing knight who
+loves makes a comment about her at one point regarding “how can one
+woman make so many parts shake/move at one time as she walks?” It
+seems like there is an older man who is on the team. It seems like
+there is a male “hero” on the team, not the knight, who has a
+love/hate/love relationship with the queen/princess. The team has 5+
+members. They must deafest the enemy for “good to prevail.”"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

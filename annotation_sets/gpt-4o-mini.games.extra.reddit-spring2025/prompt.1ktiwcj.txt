@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-2000] Gritty top-down robot builder/battler. I've
+been on the hunt for this one for years, but only have a handful of
+fairly specific details to go off. I'm pretty sure I got it off one of
+those old demo disks, if that helps narrow it down. The general
+gameplay was that you could design robots by combining different
+weapons/tops (ones I remember: homing missile, chain gun, and
+'eraser', a sort of laser pulse that went through walls), propulsion
+(legs, tracks, spider legs, etc) and various boosters (range enhancer,
+speed enhancer, etc.). Your chosen designs would then spawn out of a
+set of glowing rings, and march across the map towards the enemy base,
+which, depending on the level, would either be spawning it's own
+robots or defended by traps and puzzles, like fans that would blow
+your robots off walkways in to acid pools. The whole thing had a very
+grey/green colour palette, from what I remember. I recall the robot
+models being quite detailed, and the view being locked to isometric,
+but I wouldn't put money on either of those elements. Does that sound
+at all familiar to anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

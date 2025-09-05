@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [I dont remember the year] strategy-ish. help me
+find this game this is what I think the thumbnail of the game looks
+like I dont know that much but it was a mobile game with pixel
+graphics and the gameplay was you had monsters and you would choose
+what monsters to put in a dungeon and then you would roll a hero slot
+machine to see what type of heroes you have to fend off against also
+there is a king monster that is a green ball basically and he has a
+crown He is the thumbnail of the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

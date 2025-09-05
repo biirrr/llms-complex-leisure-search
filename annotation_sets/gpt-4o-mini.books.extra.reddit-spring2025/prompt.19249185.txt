@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's book. Girl learns about composting. Read around
+2010-2012.. I read this book sometime from 2010 to 2012 and I think it
+had come out recently when i read it. I don't remember much except
+that the MC was a girl, that it was her aunt or grandmother who taught
+her how to compost,and that the aunt/grandmother brought a compost bin
+to the MC's school cafeteria where when the kids finished eating they
+would put some of there leftovers in the compost bin for the worms.
+Also, there was a bird and I think that it was an owl. I do not really
+remember the cover except that I think it had a yellow or orange
+border and it featured an illustration of the MC, I think holding an
+owl. I remember really liking the book since I read it three times in
+two days."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile (maybe PC)] [2010's] Pixelated Platformer. It was a
+pixelated platformer game that was very speedrunned (i think), kinda
+similar to """"""""I wanna be the guy"""""""" or the newer
+""""""""Level devil"""""""" (it's not these), it MAYBE had
+""""""""Adventure"""""""" in it's name or it was the 2nd game in the
+series (... Adventure 2) with it's trolls, rolling balls,
+appearing/disappearing walls, moving platforms etcetera. There was 2
+gamemodes, one where you had many, but limited lives, and one where
+you had only 1 life. There was a water section where you had limited
+air and had to get back to the surface to get air, and there was where
+you were in a submarine-type of machine, it dropped bombs that broke
+breakable walls, but had to avoid because it could kill you too. At
+the end of the game it was a slowly rising lava section where you had
+to get a space rocket ready to escape it, and you had to wait for the
+lava to ignite the rocket's wick (the thing that's on dinamites's top,
+yk?) to launch the rocket, and you had to dodge the end credits with
+the rocket too. That's all i know, PLEASE help me find this, i can't
+find it anywhere =O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids/ YA Fantasy series. 4(?) Princesses from all around
+have special jewels/ gems that give them powers. One of them had
+animal powers & there was a leopard on her book cover. First book in
+series had red cover. Read 2014-2017.. read in mid 2010s (2014-17) in
+the first book they all meet each other and discover that they all
+have these powers and their families are all together at one of the
+castles"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

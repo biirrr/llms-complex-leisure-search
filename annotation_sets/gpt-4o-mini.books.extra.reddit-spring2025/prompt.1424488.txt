@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Romeo and Juliet re-telling - enough ideas now, thanks. I
+just started Romeo and Juliet for english at school. I knew the basic
+gist of the story before hand, but I had no idea how much I would
+actually get into it! So, I'm looking for Romeo and Juliet books. But
+I actually want books with the main characters as Romeo and Juliet. I
+tried to get myself to read a book about Romeo and the girl he fell in
+love with before he met Juliet, but I surprised myself, cause I just
+couldn't read it. I don't like thinking that Romeo was ever in love
+with someone else, and I guess likewise with Juliet. Anyways, thanks
+in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

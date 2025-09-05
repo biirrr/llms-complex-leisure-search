@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Young Adult Historical Fiction. Set in Prohibition Era,
+Sisters Pansy & Petunia, a dog, a man, the dog gets into trouble by
+stealing eggs, finds someone's moonshine still.. I read this about
+1970 or so. This was set in the mountains during the Prohibition era.
+There was an old dog with the sisters Petunia and Pansy. This is the
+dog that in one chapter was stealing eggs from the hen house so Pansy
+or Petunia put an egg in there that had been stuffed with red pepper.
+However, the dog went up the mountain and found the old moonshine corn
+mash and came back down a little sloshed. The dog found the pepper
+loaded egg, walked through the pen where the bull was, the egg
+balanced in his lips. He dropped the egg when the bull snorted, left
+the pen, then the bull ran forward, sniffed the egg, and bit it.
+Fireworks ensued. Additionally, there was a man involved in the story
+along with revenuers. Finally, there may have been one or two more
+book in this series."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

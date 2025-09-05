@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC or Amiga][90's]Space game about colonising a star
+system. Humanity has escaped its own starsystem (I think). In the new
+system they start to explore. The planets are named after Greek gods (
+Ares, Hera, Prometheus, etc ). The planets must be explored for
+resources. On the planets we can build power stations, habitats,
+mines, etc. A bit into the game an asteroid, which really is a living
+entity, wakes up and heads for the sun (or Sol). Can't remember
+details but we lose if it gets to the sun before we've done something.
+Graphics is ok, with the planet stuff drawn as squares. Can't remember
+the music. I would, for nostalgic reasons like to know the name, and
+if it is available somewhere. Best regards"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

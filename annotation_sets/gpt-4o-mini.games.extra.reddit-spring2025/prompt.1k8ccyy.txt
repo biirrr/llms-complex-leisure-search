@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s] Cooking game. Platform(s): Mobile devices
+Genre: Cooking Estimated year of release: 2010-2015? Graphics/art
+style: Cartoony- but not the 3d cartoony type, flat yk? Notable
+characters: 1. Different assistants/ sous chefs you could hire with
+specific strenghts (I specifically remember this one character, the
+cheapest one whose speciality was frying and his line was
+""""""""Fried foods is goooood foods"""""""") 2. The health inspector
+guy when he came you had to quickly wash the green nasty dishes, get
+rid of rats 3. The newspaper guy whom you had to trip and by catching
+the flying newspapers you could earn coins. Notable gameplay
+mechanics: 1. You started of in a drive thru then when you earned
+more, you could buy bigger better places 2. The cutting tomato
+mechanism was rlly annoying, you had to cut the tomatoes right when
+two demarcation rings on it were the closest to each other or else the
+slices would come out thick and you would get a less score. I used to
+be obsessed with this game and no other cooking game could ever or has
+ever scratched that itch so please helpez-moi !!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

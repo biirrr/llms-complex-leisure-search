@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Flash game running on browser] [Late 2010s] Forgotten
+Cartoon Network Game Please Help!. A sports multiplayer game on the
+old cartoon network site that had tournaments and some kind of olympic
+games that involved other characters from different cartoons on each
+section, even having some kind of colosseum and the characters were
+simple white blocky (if i remember correctly) and it had some kind of
+social hangout style of UI similar to club penguin and it was some
+kind of annual event."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

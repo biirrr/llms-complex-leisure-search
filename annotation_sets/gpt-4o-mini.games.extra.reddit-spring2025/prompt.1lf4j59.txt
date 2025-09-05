@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2023-2025] character customization of a game i saw on
+a stream. It might have had similar graphics or art style to stellar
+blade or the first descendants and I remember that the background was
+black and had a white fade on the bottom. The customization itself was
+on the left and the UI might have been transparent. Ive tried looking
+for it in my search history because i remember searching the name of
+the game but just cant seem to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

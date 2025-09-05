@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA or possibly Middle Grade Fantasy book about two kids who
+can go into other books. So i read this book about ten years ago,
+maybe even before, and i believe it was older than that. It was either
+YA or middle grade, it was just a plain blue hardback but its possible
+it had a dust cover. The story was about a boy and a girl, possibly
+friends? Possibly siblings. They were somehow able to travel in other
+books and be a part of the story and im pretty sure their involvement
+actually changed the story on page so they would have to go back and
+fix it. I believe they went into books like little women and alice in
+wonderland, and a magazine about a volcano? I believe the girl was
+traveling into books first. And for some reason i specifically
+remember a scene with them eating spaghetti with who i believe was
+their aunt and uncle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

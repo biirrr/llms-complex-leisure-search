@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller read in 2017-18. Veteran goes to a private
+university that comes under attack and he fights back.. I read a book
+back in 2017-18 that I picked up from a resale bookshop then must’ve
+donated it. I have a vague memory of it being centered around a main
+character who was a veteran attending a university, I believe it was a
+private school. Then the school comes under attack, possibly
+terrorists or mercenaries, and the main character defenses himself and
+the school/classmates. Any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

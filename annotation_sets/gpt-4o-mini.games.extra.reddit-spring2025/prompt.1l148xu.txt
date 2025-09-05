@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020] game where you had to go through a facility and
+sneak past or fight dormant enemies before opening large blast doors
+that had enemies inside. Platform(s):PC Genre: Like extraction horror
+I think? Estimated year of release: 2020-ish Graphics/art style:
+realistic art style with a bit of a muted color palate I believe
+Notable characters: no notable characters that I can remember Notable
+gameplay mechanics: the game had a lot of ammo management I think, it
+had a spear melee and it was squads of I think four but you could
+improve your firepower with automated turrets I think. I also think
+you had to defend a blast door from enemies or from enemies that came
+out of the aforementioned door. Other details: there where zombies but
+they where dormant unless provoked, you dropped in on either an
+elevator or drill and you MIGHT have been convicts or something? You
+where also in some type of underground facility."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

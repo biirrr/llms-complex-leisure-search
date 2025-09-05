@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2004] 1800s lone samurai in Japan. First game I ever
+played. So ill set it out as I remember it. If I had to guess, it was
+around 2004-2005. It was towards the beginning of the game. Youre a
+lone samurai in some small village. You visit a local Inn where theres
+a woman you talk to. A gang of no good people show up and you can
+either fight them or side with them. Me being 4 or 5 at the time
+accidentally sided with them, which made the female Inn-keeper scared
+of me. Seemed like a non-linear open world game. The Inn-keeper
+couldve been a restaurant. Definitely a PS2 game. It aint much to go
+off of, but the memory of that night means a lot. It was the only time
+I ever played video games with my parents, and being the first time
+exposed to video games, it blew my mind. On a side note, I tend to
+have a really good memory in stupid details, but this one seems odd. I
+remember them telling me they got it at Barnes and Noble. Did they
+ever sell PS2s and video games?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

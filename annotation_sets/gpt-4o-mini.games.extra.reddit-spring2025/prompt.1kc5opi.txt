@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][AT LEAST MORE THAN 8 YEARS AGO I THINK] Browser 3D
+voxel single-player game about a small man with a jetpack and a gun
+fighting kaijus on a city, the player can play as either the man or
+the kaiju. I remember playing it years ago on an internet browser, the
+title is probably something similar to """"""""human vs
+monster"""""""" or something around the lines of that, maybe
+""""""""human"""""""" was """"""""man"""""""", maybe the
+""""""""VS"""""""" was an """"""""X"""""""", maybe the
+""""""""monster"""""""" was """"""""giant"""""""" or something. The
+player could hire boats and planes and ETC to help fight the kaiju
+before the round started, and the kaiju could unlock new abilities
+maybe, the city could either be daytime or nighttime, the music was a
+banger, there was a king kong one, a godzilla one, and maybe more, the
+player had limited fuel on the jetpack but it recharge over time, and
+they shot at the kaiju from afar as it's objective is to destroy the
+city, it was a colorful game with simple voxel graphics, MAYBE the
+game was made in Unity. Main menu had the man closer to the camera and
+the kaiju in the background, both moving."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

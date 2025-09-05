@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown, maybe pc][late 90s] help identifying videogame
+art. I got this painting from a charity shop in the north of England a
+few years ago, when I came to put it into a new frame I discovered the
+writing in the back Original artists sketch for computer game
+background, 1998. Adrien Hirst. This was completely sealed in the
+frame it came in so I very much doubt the writing was something added
+by anyone in the shop. As stated in the writing it is an original,
+its hand painted, not a print. From the style Id say it was possibly
+from a point and click adventure, cant say for certain though. Ive
+never been able to figure out what its from so any help would be much
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

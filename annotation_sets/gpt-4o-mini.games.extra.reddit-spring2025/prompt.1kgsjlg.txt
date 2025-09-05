@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s] A generic 100 game compilation CD. Hey guys,
+Im looking for a bit of an oddball. Not a game specifically, but a
+compilation of games. I dont remember the games included
+specifically, but I seem to remember a lot of clones and maybe even
+some straight rips of existing games for other systems. I remember a
+lot of generic fighting games and doom style games. What I do
+remember very specifically is that it was for WIN95/98, and the CD
+itself was just silver with the the words 100 games printed on it,
+along with some other information. It stands out in my memory because
+most other CD-ROM games I had at the time had graphics and logos on
+the discs. I remember I brought up a visual interface to pick games
+from, that was a grey reactangle with square tiles with icons for each
+of the games included on the disc. Thanks for helping, please ask any
+additional questions if you need to, Im dying to find this disc!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

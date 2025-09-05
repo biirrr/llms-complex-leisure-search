@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2014ish] Romance VN on College Campus House. I
+remembered recently a game I had played years ago that I cant find to
+save my life. It was an older dating sim type vn where you could play
+as either a punk rock guy with the classic spiky hair and skull
+t-shirt with spiked bracelets or a preppy college girl with glasses
+and orange hair (in a braid?). I remember it took place on a college
+campus and there were like 5 or 6 romance options, and the story
+progressed around preparing your band for a show while juggling
+college I believe. Ive been racking brain trying to remember more,
+but the most I can remember is it was like a co-ed house that all the
+characters resided in."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Older movie monsters book [s]. Back in the '80s a friend of
+mine had an interesting book that dealt with movie monsters and
+chronicled all of the places that each one had show up (from
+literature to Saturday morning cartoons). It was a hardbound book,
+fairly thick, and did not have a dust jacket . It was gray and the
+front had a black sketch of the Phantom of the Opera. I believe it had
+been published sometime in the late '70s. Sound familiar to anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

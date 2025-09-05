@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2011] Canadian Math Website. My friends and I were
+talking about old games we played as kids and I'm trying to remember/
+find this website from the early 2010s. Every level was a different
+topic (i.e division level, multiplication level, etc). I vividly
+remember the money level because that's how I learned how to count
+change. The URL was short and I think it was underwater themed but I'm
+not confident. PLEASE tell me I'm not the only one the remembers this"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

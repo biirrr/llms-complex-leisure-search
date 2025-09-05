@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [before mid 2000's] First person point and click puzzle
+game. **Platform(s)**: p **Genre**: first person point and click
+**Estimated year of release**: sometime before the mid 2000's
+**Graphics/art style**: steampunk, fairly realistic **Notable
+characters**: the main character was a dude, there might have been a
+family involved, and a scientist, who was in the beginning of the game
+**Notable gameplay mechanics**: walk around using golden arrows, look
+at things and solve puzzles.\*\* **Other details:** I played this on a
+friends pc a few years back, she recommended it to me on the basis of
+it being educational or something. From what i remember, the game was
+much longer than i had the patience to get to, an i really didn't get
+very far. I was also under the impression while playing it, that it
+was an older game. The gameplay actually started (as far as i can
+remember) in a very steampunk like room, the largest room in the game,
+with a machine in the center of the room that the main character had
+to fix as the objective. Once you left the room, there were a bunch of
+greenhouses with tons of plants, some plants were hanging, some were
+pots, ect. There was a puzzle that had to do with the placement of the
+plants that I was never able to figure out. The movement was really
+janky and it took a while for the main character to walk from one room
+to another. Based off the graphics alone i would say it was a mid
+2000's game, but based off the controls it may have been earlier than
+that. There were other places you could go, but i don't remember any
+one specifically other than the main room and the greenhouses. The UI
+was golden or brass colored, and you would use it to access inventory,
+and walk around using arrows to mark which direction to turn. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

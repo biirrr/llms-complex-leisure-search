@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s-2010s] [was available on Facebook] night club
+game/dj party. I honestly don't know if it was real or something I
+made up in my head as a mid, but I vividly remember that aound late
+2000s/early 2010s, there was this game that was available on Facebook,
+in which we could create our own night club, in a model similar to
+house building games, but not like The Sims, it was 2D, a bit more
+like Habbo Hotel. We could play songs there and visit other people's
+clubs. I think there were NPCs present, but I'm not quite sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

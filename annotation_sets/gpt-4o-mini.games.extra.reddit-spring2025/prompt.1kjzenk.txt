@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, possibly Xbox 360/PS3][early 2010s]First-person stealth
+game demo. This is a very blurry memory, but basically, it was a
+first-person game (but not a shooter - don't remember having a gun or
+even a HUD) with realistic artstyle (looked like an average 2010s
+Unreal Engine 3 game). I remember only 2 scenes somewhat clearly - how
+the demo starts (main character gets out of the car, breaks the mirror
+on it and takes a piece of said mirror with him) and how the demo ends
+(main character lies down next to the wooden door and uses a mirror to
+look under the door). Curious thing about the demo is that it is
+always played in first-person - even cutscenes like breaking the
+mirror are in first-person. Now, there are some details that might be
+inaccurate or flat-out wrong, so take the following with a grain of
+salt. When the player gets out of the car, scenery looks very inspired
+by European architecture, with a small river going right through the
+street and small walkable bridges across it. And when you finish the
+demo, it shows you as if it is less of a cut-down game, but rather a
+distinct entry, with a different atmosphere altogether and the game
+advertised being more military-themed, as if the devs wanted to show
+the gameplay specifically, but not the story. I have absolutely no
+idea what game that might be. It doesn't feel like anything that I've
+ever played before or after said demo"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

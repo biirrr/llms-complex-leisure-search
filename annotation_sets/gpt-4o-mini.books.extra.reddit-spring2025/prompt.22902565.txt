@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Collection of Fairytales with Weird Illustrations 1998. I
+received this book from a teacher when I was in 5th grade. I was a
+large book about the length of a text book and thick. The paper inside
+was thicker non-gloss paper that you would usually find in older
+books. Each story was illustrated but I believe by different artists.
+Some of the artwork was very creepy where some witches were as pale
+and glowing as ghosts. The artwork reminds me of the 60's- 80's art
+style. Stories included were the Brave little tailor ( he had
+spectacles in his pictures), a story about a glass mountain, a story
+about a little girl and boy ( the boy is turned into a fawn by a
+cursed stream, the girl gets married to the king, but her evil step
+mother and stepsister who only has one eye suffacate her to death in a
+hot room and place the sister in her place, but she comes back), there
+is also a story about a brother and sister running from a witch in the
+woods the witch is flying on her broom and the little girl throws down
+a hankerchief and it turns into water and in the end the witch dies in
+a torns. I'm sorry for carrying on, I cant remember the date of the
+book or when it was printed and I have been looking for 20 years. I
+only remember a few of the stories, but if you were to see the
+illustrations you would remember. Any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

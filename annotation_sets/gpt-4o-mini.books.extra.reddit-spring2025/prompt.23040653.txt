@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Middle School Historical Fiction. A boy is hired to go
+work undercover working for William Shakespeare and steal one of his
+plays. Read 2018-2019. Spoilers ahead.. I read this when I was in
+elementary school and remember really enjoying it. It takes place
+around the late 1500s to early 1600s, and the main character is a poor
+teen boy who I think was an orphan. Needing money, he accepts and
+offer from a wealthier man to go undercover working backstage at one
+of William Shakespeare's shows, and steal one of the plays that
+Shakespeare was writing to that the wealthy man could plagiarize it
+and pretend it was his own. Predictably the kid ends up realizing why
+what he's doing is wrong, and starts really enjoying working in the
+theatre. He refuses to steal the play and if I remember correctly he
+starts full-time working for Shakespeare so he isn't lacking money
+anymore. I know the details are kind of vague since I read it so long
+ego, but hopefully it's enough since this book was a pretty big part
+of my childhood and I'd really like to find it again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

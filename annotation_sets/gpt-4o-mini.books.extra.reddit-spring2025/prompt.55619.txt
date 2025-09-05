@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Famous photographs"" book without images. [s]. Book has NO
+photographs, just blank white pages with a caption at the bottom of
+each ""photo"" describing the famous picture (i.e. Marilyn Monroe in a
+white dress standing over a subway grate in New York City or sailor
+kisses nurse in city street to celebrate victory over Japan). They
+were all pictures that almost everyone knows. I bought this book about
+five years ago at a design bookstore in Berkeley and regret giving it
+to my friend without writing down the name because it is IMPOSSIBLE to
+find - googling ""famous photographs without images"" does no good!
+Anyone happen to have it on their shelf and can tell me what it's
+called or who edited it so I can find it again?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

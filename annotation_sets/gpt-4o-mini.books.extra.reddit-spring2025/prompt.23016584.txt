@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Robin Hood version where Robin goes to the shooting contest
+and gives his name as ""Nibor Dooh"". I read this book countless times
+when I was in grade school (so early 1990s). I cannot remember the
+title, but I feel like it said something about the Merry Men or the
+Outlaws of Sherwood. It was my favorite version of Robin Hood, and I
+haven't found one I like better. I most likely found it in the MG or
+YA section of the library. The only specific thing I remember is that
+when Robin Hood and Little John go to the shooting tournament, they
+give their names as ""Nibor Dooh"" and ""Elttil Nhoj"" and say they
+are ""from the Orient."" And they are sniggering about it the whole
+time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

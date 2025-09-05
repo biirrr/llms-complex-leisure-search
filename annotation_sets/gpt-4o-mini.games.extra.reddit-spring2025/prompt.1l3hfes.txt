@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DOS][80'-90'] Point and click adventure starting in
+underwater prison. Hi, looking for a game that: \- Main character is a
+human \- Starts in a prison cell, prison is underwater. Character must
+escape the room as the first task. \- After escaping the prison,
+characters pulls the plug out of sea bottom and is sucked underground
+\- Underground the environment changes to lava-filled rooms \- Rather
+light dialogues with jokes and funny animations iirc. \- Was running
+on 486 ro 386 \- VGA graphics"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

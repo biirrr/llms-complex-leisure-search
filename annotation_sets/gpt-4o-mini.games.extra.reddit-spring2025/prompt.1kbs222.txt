@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc OR/and Xbox][2018-?] Satire game where your a Revived
+pirate as a skeleton. Platforms: pc and possibly xbox (prob just had
+controller support) Genre:Story, satire Graphics/art style: cartoonish
+3d, indie. Notable characters: the skeleton(you), some ship crew you
+fight by slapping because you pushed the swords off ship, and some guy
+you fight eventually at the end of the game. Notable mechanics: at one
+point you hide and move in a barrel and got to stand still whenever
+some pirates look at you and also balance on a barrel, and quick time
+events. Other details: you spawn inside some cave chained up as a
+skeleton, you burn a stick using the sunlight to attract the attention
+of one of them before knocking him out or something. After fighting
+some more pirates and a lot of lore passing by the goal is to find
+treasure or something? All i remember is basically you find a map i
+believe and use it to go somewhere. All help would be appreciated:)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

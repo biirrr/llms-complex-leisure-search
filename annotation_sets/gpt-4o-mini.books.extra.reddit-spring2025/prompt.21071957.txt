@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "travel writer: midcentury, series of books on places in
+England. I'm trying to remember the author of a series of travel books
+with similar titles. He was an advocate for going to places within
+England. Each book celebrated a specific English town. He was also a
+BBC writer, for some well-known radio program at the time. Timeframe
+is midcentury, or maybe postwar or interwar. He had a complicated
+family life: left his wife, started a second family, wife wouldn't
+give him a divorce, and he couldn't force the issue because that would
+cause scandal and then BBC would fire him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

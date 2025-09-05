@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1970’s YA fiction possibly Scholastic book. Black girl moves
+from possibly the U.S. South to the South West. She’s a dancer. She
+doesn’t like her new home until she realizes it’s less segregated..
+YAL 1970’s maybe Scholastic novel. I believe the POV is first person
+and there’s sort of a reveal in the end. She is a dancer (I remember a
+Ballerina but might be another form of artistic endeavor). She moves
+from her hometown in possibly the South. I think she danced there and
+was sorry to leave because she’ll have to start over again at another
+dance studio. She moves to the South West. I recall Mesa, AZ but
+possibly another SW city. She hates it. Finds it dry and barren.
+Eventually, she looks into dancing there and realizes that there is no
+segregation. They don’t have a “black” dance troupe and they seem
+surprised that she thought they did. So, with new eyes, she comes to
+like the idea of living there. That’s how I remember it anyway.
+Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

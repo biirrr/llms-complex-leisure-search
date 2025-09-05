@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005(?)] Fantasy RPG quite similar to Elder Scrolls.
+**Platform(s):** PC **Genre:** Fantasy RPG **Estimated year of
+release:** 2005? **Graphics/art style:** Realistic, gloomy **Notable
+characters:** Create your own character **Notable gameplay
+mechanics:** RPG, first-person view **Other details:** I remember my
+parents bought me this game for the PC that was quite similar to Elder
+Scrolls (but worse lol). It came in this thick case with a huge
+instruction manual, and the cover had a wizard/bearded figure with
+glowing eyes (I think). I did not get very far in the game because it
+was quite difficult, but I do remember being in a sewer system under a
+castle and fighting lots of giant rats (again, similar to Elder
+Scrolls)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

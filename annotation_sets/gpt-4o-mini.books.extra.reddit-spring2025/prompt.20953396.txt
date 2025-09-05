@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Psychology book talked about how one can be be brought up
+socially isolated and it forms a personality type and other “types” in
+the book. Had checklists. [s]. Hello. There was a book I was given
+around 2015 but lost...The book is to do with personality and had
+checklists. It wasn’t a Myers Briggs themed book but talked about how
+one can be be brought up socially isolated and it forms a personality
+type and other “types” in the book. It was my psych’s form of therapy.
+I just can’t remember the book! It was red and white and I believe
+written by a Dr/Psych."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

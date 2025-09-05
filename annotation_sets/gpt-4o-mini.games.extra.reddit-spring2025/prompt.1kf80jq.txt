@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[I played it on PC][The game can be 90s-2000s] Looking for a
+2D platformer with a troll-like character (Windows XP era. Hey
+everyone, Im trying to remember the name of a 2D platformer I played
+about 1718 years ago on my Windows XP PC. I remember a lot of
+details, but not enough to pinpoint it! Heres what I remember:
+"""""""" Main Character: A troll-like creature, hunched over with a
+prominent hump (higher than the head). The troll was bald and kind of
+grey/greenish-grey. """""""" Gameplay: The gameplay was similar to
+Super Mario Bros., but the character would hit the platforms from
+below to defeat enemies (I think maybe by jumping on them or
+stomping). It had levels that were platform-based with different
+height shelves you could jump on. """""""" Multiplayer: You could
+play solo or with 2 players. """""""" Environments: The game had
+different backgrounds, with later levels featuring environments like
+underwater and lava-based themes. """""""" Style: The game had
+colorful, pixelated, arcade-style graphics typical of the late 90s
+and early 2000s games. It was very simplistic in design, like older
+platformers. """""""" Platform: It was a PC game that I played during
+the Windows XP era (but might be older than that). I cant recall if
+there were any major bosses, but the gameplay was focused on
+overcoming the enemies and progressing through the levels. Does anyone
+recognize this game? Id love to know the title! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

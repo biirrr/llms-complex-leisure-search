@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][probably zombie survival][most likely before
+2013]Looking for name of the game I played on dad's laptop as a
+child.. Hello, so I have this memory of playing some sort of game
+involving zombies. All I remember was one image stuck in my head where
+you are on an open grass field and see pillars from afar and behind
+them and moving towards you are hordes of zombies who look sort of
+brownish color, they remind me of World War Z zombies. Most likely the
+character you we're playing in first person view had a weapon as well.
+That's all. I hope it's a real game and not some random scene from a
+movie, which I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

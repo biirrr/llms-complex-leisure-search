@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2008-2013] Old arctic horror FPS. Platform(s): Windows
+PC Genre: First person action shooter with small puzzle elements for
+progression Estimated year of release: 2010 Graphics/art style: From
+my memory it's quite similar in quality and Style to [Singularity](htt
+ps://youtu.be/rNz0Rwk905k?si=xs8YaQfsIuZnp1FI&amp;t=1282), but instead
+of the red tint, everything is blue; icy and frozen over. The game is
+super cold, except for the few spots where you're supposed to warm
+your character up. Notable characters: Silent protagonist shooter,
+enemies are introduced slowly and paced throughout the game as you
+progress. One notable one I recall is a dive suit monster that dual
+wields machine guns. Notable gameplay mechanics: Part of the mechanics
+as you progress through levels is replaying how people died from their
+frozen corpses. Usually this shows you a small puzzle that allows you
+to progress trough the environment or bits of story. Warmth is used as
+a mechanic. You continuously seek sources of heat to warm yourself up
+again. You also uncover memories of frozen corpses. Other details: I'm
+looking for an FPS game that plays in a frozen setting. For the
+majority of it on a big tanker or ships that are stranded. There is a
+small amount of enemy variety that you fight, monsters that survived
+the frost or fallout (?). Possibly mutated humans. There are also a
+few horror-esque sections. I played this on PC, around the time of
+Singularity. But it's possible I played either of them years after
+release. This was likely played on a GTX 275 (2008), or Dual 8800M
+(2006)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

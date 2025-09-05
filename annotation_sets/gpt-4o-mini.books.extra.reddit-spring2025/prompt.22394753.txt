@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's novel about a girl named Tabitha and her family..
+This was a short, hardcover novel for older children. I probably read
+it when I was 8-10 years or so, in the early-mid 90s. The book seemed
+vintage, maybe from the 60s. The protagonist of the novel was a girl
+named Tabitha, or Tabby for short. She had two younger siblings, a
+brother named Felix and a sister named Catherine, or Kitty. (the cat
+themed names are what is most memorable). Their parents were also part
+of the story, but I can't really remember any of the plot. I think it
+was an American book - it kind of gives me a the Betsy-Tacy vibe, but
+I can't be sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

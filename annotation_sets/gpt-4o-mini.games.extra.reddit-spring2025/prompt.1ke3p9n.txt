@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000] ball match game that drops together. Not sure
+where else to ask... I've been looking for a pc game that was on
+windows in the early 2000s, could've been from the 90s. Came on a CD
+with mahjong and other games. The game is similar to the online Bricks
+Breaking on primary games.com. You destroy all the bricks by clicking
+them in groups of the same color. When you match they drop down and
+together until they're all gone. What I remember specifically is that
+you could make it look like different things and not just plain
+colored blocks. Mainly remember them looking like squares with pool
+balls inside to match. I believe it came on a cd with other games but
+not completely sure. Played around 2002-2007 on a dell desktop with
+windows."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

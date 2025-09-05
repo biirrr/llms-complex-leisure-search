@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction, US Colonial days (Puritan?). Young
+woman meets and befriends Indians, torn between her religious
+community or living with Indian community. Title might include name of
+flower like Primrose.. possibly puritan times, young woman, teenage is
+torn between her religious community or living with the natives, maybe
+falls in love with an indian. the title is something like primrose or
+some kind of flower in it, perhaps. not a sappy book. read with my 5th
+grade girls/students and they loved it. the girl had to choose in the
+end."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

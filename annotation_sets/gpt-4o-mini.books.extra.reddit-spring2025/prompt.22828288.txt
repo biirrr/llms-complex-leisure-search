@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy series with fae with powers. The protagonist was
+accused of killing a child when she was little. Now she enters a
+competition where the brother of the boy she murdered is. He hates
+her. [s]. SOLVED Hello, i am searching a fantasy book series about a
+girl who was accused of killing a boy when she was a child. Now she
+will enter in a competition because she want to be free. In that
+competition she will meet a boy who hates her because the child she
+killed was his brother. Besides, the girl has shadow magic (i think)
+and she hides but when the boy is betrayed she reveal her power to
+protect him. I know that is a serie and it is complete."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s books about futuristic world, main character
+teleports, curly auburn hair on cover, purple text. Hi all! Looking
+for a series of children’s books I read around 2003 or 2004 when I was
+in third or fourth grade. The main character lives in some sort of
+futuristic fantasy world, and in one of the books she and her family
+teleport through a teleportation station, which kind of seemed like an
+airport or train station. In that same book I believe there was
+another girl who had telekinetic powers. I believe characters in this
+world (or at least girls) developed magic powers when they reached a
+certain age. I believe the main character’s powers could have related
+to something like flowers, butterflies, or crystals. These were the
+sort of things that would show up around her on the covers. On the
+covers she had beautiful curly auburn hair, wore dresses, and likely
+some kind of flower crown. The covers were overwhelmingly beautiful to
+me as a child. Think about an elementary girl’s dream aesthetic. All
+of the books were also printed with unique purple text on white paper.
+She probably had a pretty flowery name, although I can’t guarantee
+that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

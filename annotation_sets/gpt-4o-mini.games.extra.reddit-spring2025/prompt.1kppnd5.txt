@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2010s]First person puzzle game with a real-life
+recorded video as a hidden easter egg. So I saw this game in a video
+about top 10 hidden easter eggs or something similar a while back, all
+I remember is that it was a first person puzzle game. I remember the
+sky was visible and I think the sun or sunlight had something to do
+with the puzzles or at least the one to unlock the easter egg. I
+remember the actual easter egg took you to a hidden room or long
+hallway and then it ended with a video at least a couple minutes long
+of just real life footage. I know this isn't much to go off of but
+would anyone have an idea as to what game this may be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

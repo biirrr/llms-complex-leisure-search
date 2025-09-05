@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Girl finding bees in her grandma's closet.
+Spoiler.. A girl moves out to the desert with her brother and grandpa
+for the summer and they are in a drought. Her grandpa is old but loves
+to carve/widdle on his front porch. The girl hears a buzzing in the
+room she is staying in which is her grandma's room and she opens the
+closet to find a bee. eventually, she ends up finding out more about
+her grandma who passed away and uses bees to end the drought. I read
+this in 2022"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/00s] Top Down Pixel Survival/Adventure Game.
+Solved: The Adventures of Bouapha: Spooky Castle This was a game that
+had a regular male character moving through hallways from a top down
+view. It had various monsters like a mummy and or skeletons. There
+were also zombies. There might have been a few more monsters. It had
+colored keys (Red, Green, Blue) that would unlock doors that had other
+keys and monsters. These monsters would non stop follow you and the
+only way you could kill them was with a red hammer (if I'm remembering
+correctly) every hit would light the whole creature red. I don't
+remember what the object actually was but simply survive every new
+area. There wasn't necessarily levels. Because after 3 lives (I think)
+the game would just end. You can easily be overwhelmed by the amount
+of monsters Key points: Red, Green, Blue keys Multiple types of
+monsters Red Hammer I really hope l'm remembering this game right. It
+seems close to chips but I assure you that it is not"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

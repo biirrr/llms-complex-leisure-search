@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] Anime game ?. Ive been trying to find the
+name of this game everywhere but Ive come up with nothing&The only
+details I have are from 10+ years ago. Theres the option to select
+several different characters and embark on different story arcs. I
+only remember 1 of them. A blue haired anime girl who is dressed like
+a sailor. She gets on a ship that crashes and she wakes up on an
+island with amnesia. I think the story from there is helping to get
+her memory back. I dont remember the gameplay past that = Any ideas
+are greatly appreciated >y"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

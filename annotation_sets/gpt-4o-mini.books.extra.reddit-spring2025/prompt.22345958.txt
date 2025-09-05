@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Coast Guard rescue, Adult Nonfiction, modern. Spoilers. [s].
+About 20 years ago, The Washington Post published a long excerpt of a
+new nonfiction book about a Coast Guard rescue. I think it was off the
+coast of Alaska. It was not history, it was in modern times. The
+excerpt was so harrowing I could barely breathe. There's a huge storm,
+of course. They are using a helicopter. They lower a cage, and the
+stranded get in the cage one at a time and the cage is winched up. At
+one point, the pilot has got the joystick pulled all the way back to
+try to gain altitude and not be swamped, yet the altimeter keeps
+reading the same low altitude -- because the huge wave is rising at
+the same speed as the helicopter! They have raised a cage with one man
+in it. They are trying to swing the cage into the helicopter yet for
+some reason it doesn't swing in. Then they see the reason: another
+desperate man is clinging to the bottom of the cage, on the outside. I
+have searched ""books about coast guard rescues"" and found
+""Deadliest Sea"" which was a good book but not the one. And it's not
+""The Perfect Storm."""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

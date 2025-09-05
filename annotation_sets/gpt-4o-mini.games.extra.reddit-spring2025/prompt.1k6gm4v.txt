@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3/xbox360] [2010~] an Action game I cant remember. Im
+looking for a 3rd person action/adventure game where you can play a
+girl with a bow or a guy with a sword (I think they were on the box
+art) And the only thing I can remember is that during the game you can
+drink in a fountain which gives you a lot of power but in the story
+they tell you that power is corrupting you And during the ending, the
+other character betrays you because of that corruption I dont think
+that is a very popular game but i never finished it without drinking
+at the fountain and if it change the ending"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

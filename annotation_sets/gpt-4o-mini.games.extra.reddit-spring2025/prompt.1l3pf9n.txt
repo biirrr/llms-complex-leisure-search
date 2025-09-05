@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s~] Indie stealth immersive sim with
+""""""""realistic"""""""" gun play. I'm sorry for the lack of more
+info but I remember watching a youtube video talking about an indie
+immersive sim/stealth game with really detailed gun gameplay where you
+have to toggle the safety, the gun jams, etc. The levels mostly take
+place in high rise offices and construction sites. The enemies in the
+game have a lot of robots and turrets."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

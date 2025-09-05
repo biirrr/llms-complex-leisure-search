@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Atari ST][Lates 80s to early 90s]SciFi side scrolling
+shooter playing in ship and robot. From what I recall of the game, you
+are flying around in a space ship similar to how you do in defender.
+Periodically you will come across hatches / landing pads on the ground
+which you can land your ship onto. Once landed you got a short
+animation of the pilot of the ship, who looked like a robot, going
+down a lift, want to say he was holding his fist up about chest level.
+Once you got to the bottom of the elevator you took control of the
+pilot to explore a facility / bunker, however he wasn't limited to the
+ground, he could fly around the screen. IIRC each room was the size of
+the screen and you could move between the rooms via doors in walls,
+floors &amp; ceilings."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

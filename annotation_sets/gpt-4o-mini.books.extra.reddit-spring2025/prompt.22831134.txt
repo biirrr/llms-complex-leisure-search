@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance where the hero thinks he doesn’t have emotions
+so he begins dating a young woman that recently graduated college.
+Heroine might be a bartender, hero is a billionaire. Hello, I am
+looking for a book where the hero thought he had no “emotions” so he
+would create hypothesis on getting others to make him feel something.
+Read around 2017-202 Spoilers He had a childhood friend that fell in
+love with him but he didn’t feel the same. She left and came back with
+a boyfriend but he wanted to see if she could be manipulated into
+liking him again. He used her emotions and she walked in on him with
+some other girl so she ends up sleeping with his dad but loses the
+baby. Fast forward to them being adults and now he is intrigued by the
+heroine that recently graduated. His childhood friend and him now have
+a “game” of playing with other people’s emotions and the heroine is
+the target of the game. The heroine has a record of having “stalker
+tendencies” by her ex boyfriend and her brother (I think) didn’t
+believe her when she said it was a coincidence. Hero takes women to
+specific penthouse room and hadn’t let other women into his home. The
+hero’s name was something like Hudson or Harrison. The heroines name
+started with an A and the hero’s dads name was Jack I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

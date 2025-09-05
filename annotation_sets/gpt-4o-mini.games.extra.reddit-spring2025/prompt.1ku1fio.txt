@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS/iPad] [Early 2010s] Open-world-type game where you kill
+beetle-like creatures. I used to play this game as a kid around 2011
+where you have a character in the center. The game is from bird's eye
+view and it's open-world kind of. There are occasionally swarms of
+beetles that come and try to kill you that you have to try killing.
+The art-style is 3d-ish. It looks somewhat like my illustration but 3d
+and more detailed. Would really appreciate it if this is identified."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

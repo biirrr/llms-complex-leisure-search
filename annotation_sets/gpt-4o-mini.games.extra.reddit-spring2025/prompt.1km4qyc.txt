@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows 95 or 98][&lt;2000] Top down sci-fi spaceship
+shooter.. I'm looking for a game from my childhood, played on our
+first family computer, running either Windows 95 or 98. It think it
+was a fairly slow moving shmup style game, flying through various
+alien worlds vertically. I can't remember the shape of the original
+ship, but I think I remember that when upgraded, it added a circular
+portion to the front of it (see picture). There was an asteroid level
+fairly early on, and your early weapons couldn't destroy them. I
+remember once getting something called a """"""""screw laser""""""""
+or """"""""slow screw laser"""""""" or something like that where your
+weapon was upgraded to that, and it fired slowly and could destroy the
+asteroids. Apart from that I can't remember the name or if I had to
+insert a floppy disc in order to play it or anything. I think the ship
+was a red colour, but could be wrong. I've looked through several
+screenshots of shmup games of that time period and none ring a bell.
+It isn't Tyrian or Raptor: call of the shadows. (It was definitely a
+sci-fi flying through space theme). I'm ALMOST certain it was vertical
+only."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

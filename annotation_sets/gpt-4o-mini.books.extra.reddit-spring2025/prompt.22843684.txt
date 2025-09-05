@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Horror, about kids trapped in a mansion. Book two has
+something about parents. Read around 2015-2016. Spoilers.. I read it
+around 2015/2016 not sure about the publication date. I think the
+cover was a creepy forest with maybe a girl running. There was about
+4/5 kids each somehow getting a message to attend a new place. One was
+a girl who lived in an orphanage wanting some space, another was a
+sleepwalker, I think there was a boy escaping something not too sure
+about the rest of the kids. A seires of things happened once they got
+to the place, they were trapped in couldn't get out, other inhabitants
+all wearing masks, one was a kid who when his mask was lifted it was
+found that he'd been forced to drink oil, another was a girl who was
+forced to burn all her dolls and always carried them everywhere. The
+new kids who just came to the place were supposed to replace the kids
+already there. I'm not sure what else happened in the story, it's been
+on my mind for roughly 8 years I do remeber the phrase in the book, ""
+you can run but you can't hide"""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

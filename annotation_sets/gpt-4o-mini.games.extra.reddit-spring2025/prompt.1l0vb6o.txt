@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016-ish] Indirect control, horror, strategy game
+through a low graphics console.. It's a PC game, from a few years ago.
+You control a squad of marines or mechs, that explore derelict
+(alien?) spaceships. The main gist of it was that the only graphics
+the game had was a bunch of separate console windows and what looked
+like a cabin of some control station. And you issued orders to the
+squad through these console windows, and they did the fighting
+themselves."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

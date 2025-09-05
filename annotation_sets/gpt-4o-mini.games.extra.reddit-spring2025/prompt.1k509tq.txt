@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [circa 80s/90s?] pixelated, click and explore,
+medieval.. (PC) (Circa late 80s-90s?)Pixelated, click and explore,
+gather clues type medieval/fantasy game. Oh god, apologies in advance
+for the vagueness but this has been slowly driving me to insanity for
+over 20 years. During the mid 90s I used to play a PC (I think) game.
+Im assuming it was Windows because I cant remember ever typing
+anything in to start a game& ever. Who knows though. The game was
+pixelated and click and explore. I remember you had to walk around
+what looked like a village and gather clues. From memory you were
+trying to let the gate keeper let you into the castle but he would
+rudely tell you to go away if you had nothing of interest from the
+clues. One of the clues I collected was a red (?) shiny ring that
+caught the gatekeepers eye and he questioned you about it but it still
+wasnt enough. You had to go back and gather more items. There was a
+pawn looking shop with a gypsy looking shopkeeper and you could
+exchange items from her. There was a crystal ball in the shop that you
+could click on but the text would always come up with something along
+the lines of it feels like cheating/it feels wrong to try and look
+into the future. You played in first person view and the only other
+things I can remember are: -You walked outside and along a path to get
+to the castle -there was a tavern looking place and a shady looking
+guy with a gem for an eye appeared to be spying on you. ChatGPT
+suggested the following games but, unfortunately, none are it:
+Shadowgate The Crystal Skull Riven Gabriel Knight Myst The 7th Guest
+Castles Please, help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

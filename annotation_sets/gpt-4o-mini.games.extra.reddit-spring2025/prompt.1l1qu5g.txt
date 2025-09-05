@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE][AROUND 2010] Circles where you infect other circles
+with tentacles. Platform(s): Mobile game Genre: Estimated year of
+release: 2010 Graphics/art style: It was just black circles black,
+red, white(maybe) or green on a black background if I remember right.
+Notable gameplay mechanics: You had to send out tentacles to infect
+the circles with your own colour. The bigger the circle the stronger
+it was and the harder it was to infect. There was another colour that
+was also trying to infect everything that you had to fight against to
+infect the circles. You could lose by being infected by the other
+colours. Other details:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

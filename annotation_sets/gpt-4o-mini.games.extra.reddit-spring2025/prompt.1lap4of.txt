@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2010-s] A steampunk airship multiplayer battles.
+Idk, most relevant info is in the title. The gameplay was like in Sea
+of Thieves - the crew was running around the aerostat from turrets to
+helm to fixing modules, but it was not an exploration game, X vs X
+battle sessions."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

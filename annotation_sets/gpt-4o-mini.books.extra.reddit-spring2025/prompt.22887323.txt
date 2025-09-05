@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Neighbors to lovers. Male lead is Jagger King
+Scott? he's her childhood boyfriend's big brother. Couple meets when
+he drops soil on her door step.. In this book the main Male character
+name is Jagger King Scott. i think . he and Main FC meets when he drop
+soil on her door step. And he is her childhood boyfriend's big brother
+and he's friends with her boss."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

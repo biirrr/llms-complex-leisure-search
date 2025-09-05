@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[flash][2012-2015] flash game were you loose your limbs.
+alright, the game i am looking for is a flash game around the tile
+year, i remember in the game that your character was like some bean
+guy or close, like a sack full of rice, he had a top hat, and to
+progress you had to loose your limbs, it has a kinda of hand drawn
+style"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

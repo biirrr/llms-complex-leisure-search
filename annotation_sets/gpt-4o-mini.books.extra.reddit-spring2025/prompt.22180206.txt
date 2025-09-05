@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Thriller/ Mystery. Old college friends reunite to help get
+old friend out of a murder. Read 2019-2021.. There is two books, one
+of them is about a group of old college friends who end up being a
+part of a legal case to get an old friend off for murder. But they
+were all in on it. The author of the book wrote another book that is
+about the students actual time in college. One of them is written as
+the character of the other book. I read it between 2019-2021. The
+characters were college age to young adult"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

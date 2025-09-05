@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2007-2012] Help finding an old Java game from a
+Nokia N73. Hello, I need to find a game l used to play on my dad's
+phone (Nokia N73) looooong ago. It reminds me a little bit of Sims. It
+was pixelated and you could choose from a few preset characters (they
+had the same base character just different palette and M&amp;F
+options). You could eat, shower, use the toilet, walk around and I
+think """"""""talk"""""""" to the other NPCs. The POV was very similar
+to the Sims POV. So key elements: """""""" Pixel-ish style """"""""
+Sims-like gameplay """""""" Limited character options """""""" 3rd POV
+(static) - similar to Sims"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Isometric pirate ship game. My apologies in
+advance as I realise this is fairly vague, but its been driving me
+crazy trying to remember what this game was called! When I was really
+young in the early 2000s, I distinctly remember playing an Isometric
+or maybe top down game where you controlled a pirate ship. Spacebar
+fired cannonballs from both sides of the ship, there were gates you
+had to open and forts to destroy and I might remember an octopus enemy
+appearing at some point? I believe you steered the ship with arrow
+keys. This was in the early 2000s on an old Windows tower PC. Wasnt
+an online game, wouldve been CD-ROM, floppy or pre-installed. Any
+help at all would be appreciated as this has been driving me nuts!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

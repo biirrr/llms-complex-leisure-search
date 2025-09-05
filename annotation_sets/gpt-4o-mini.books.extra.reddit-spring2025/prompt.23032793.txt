@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2010's or older? YA Fantasy trilogy that takes place in a
+medieval type setting with a female main character that can summon fae
+creatures.. 2010's or older? YA fantasy trilogy that takes place in a
+medieval type setting with a female main character that can summon fae
+creatures. I read it around 2014 but it was not new when I read it. It
+starts with a girl being sold off to pay off her father's gambling
+debt. The young man who wins her ends up taking her to a resistance in
+the mountains against an evil king. She's able to see talk to in
+summon fairy creatures to aid which is very illegal in the society. A
+really big portion of the is concentrated on travel. One really
+specific detail I remember about it is that she summons a large stone
+creature through a children's rhyme it's called a stani mon or
+something like that"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

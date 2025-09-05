@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Paperback read between 2016-2019 with
+stories of people living how they wanted despite society viewing them
+as ""stupid"". Includes examples of Japanese soldier Hiroo Onoda, and
+a guy who died climbing Mt. Everest. [s]. Non fiction read between
+2016-2019 with stories of people living how they wanted despite
+society viewing them as ""stupid"". Includes examples of Japanese
+soldier Hiroo Onoda, who kept fighting even after the war ended, and a
+guy who died climbing mt.Everest. because to him living the way he
+wanted (risk taking = excitement) was more important than personal
+safety. There were more stories but I never got the chance to read
+them. I think it was meant to be a self-help book about not caring
+what society says and ignore discouragement. (like ""the subtle art of
+not giving a f*ck"") The Greek version had an orange cover, paperback,
+and was sold in some supermarkets too as a popular, easy-read. SOLVED:
+It WAS ""The subtle art of not giving a f*ck"" even though I
+originally checked it and thought it was wrong...!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

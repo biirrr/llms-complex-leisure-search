@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction possibly author Ben Bova alien society
+in ocean like lobsters. Trying to remember the title and author. Read
+last year or the year before. Scientists are in an alien ocean
+possibly in our own solar system like moon of Jupiter or Saturn maybe.
+Encounter aliens like large lobsters living a society on floor of
+ocean. Any help appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

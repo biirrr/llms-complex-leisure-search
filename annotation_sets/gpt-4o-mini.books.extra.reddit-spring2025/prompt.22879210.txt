@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Romance book that used to be in the Chapters game app.
+Spoilers.. A girl moves into an apartment. She has had a boyfriend for
+a while and her friends don’t like him and she’s thinking she should
+dump him. She meets an attractive neighbor who happens to be a popular
+‘playboy’ and they hook up (its her first time). Her friends are
+obsessed with this guy but she doesn’t tell them she is now seeing
+him. They secretly date/hook up for a while because she doesn’t want
+to tell anyone before she breaks up with her terrible boyfriend. She
+doesn’t have family support because her mom is insanely horrible to
+her and her dad is a coward. She goes on a family trip or work trip or
+something with her two friends and finds out that her boyfriend is
+hooking up with her sister and dumps him. Main guy is there with his
+friends and when this girls now ex boyfriend abuses her he comes to
+her aid and her friends find out they’ve been dating the whole time.
+Everything is now out in the open, they fall in love even more. He
+tells her his high society family has promised him to a stranger since
+birth and he doesn’t know how to get out of it. He plans to stay with
+her anyways but they have to be smart about it. She finds out her mom
+isn’t really her mom through a newfound brother which is why she never
+loved her and her brother brings her home to (Italy?) to meet her real
+mom. She is also promised to someone in marriage. They find out
+eventually that they’re each promised to each other but don’t want to
+go along with family’s wishes so they go away together in secret….. I
+know the entire plot haha but I have no clue about the author, any of
+the character names or the title of the story and I don’t believe it’s
+on the chapters app anymore. If anyone can help i want to try and find
+the actual book and read it!! Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

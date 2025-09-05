@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][around 2005]RTS base building isometric 3D/topdown.
+Hello, I'm looking for an old PC game played around 2005 from a demo
+CD, I'll be as precise as I can remember it : - futuristic style ,
+about war between humans for valuable resources introduced by an old
+CGI video like starcraft - starting game with only a builder unit (
+looking like a long truck/van that can make other buildings - it IS
+NOT Command &amp; Conquer and Red Alert series ,as close are the
+features - construction animation looks like molding chrome metal into
+building shape, becoming more detailed until finished - 2 main
+ressources I remember Blue crystal fields and Crude oil patches on
+ground/water - Blue crystals grow and glow on fields and are collected
+by a very lookalike combine harvester vehicle - Crude oil needs a
+specific building on it to collect , and an offshore oil rig for the
+water ones - there's infantry ,ground and water vehicle (not very much
+variety as I remember it) - one of the strongest ground vehicle was
+Disintegrator : a tank track unit with a turret which can one-shot and
+slow reload Thx for helping :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

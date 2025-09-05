@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2000-2013] Web game where you control a mario
+mushroom with your mouse and doge stuff. Back around 2010, not sure
+exactly when I remember a web game where there was various mario music
+that played and you had to dodge stuff with your mouse controlling a
+mushroom. I also remembered there being a zelda version of the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

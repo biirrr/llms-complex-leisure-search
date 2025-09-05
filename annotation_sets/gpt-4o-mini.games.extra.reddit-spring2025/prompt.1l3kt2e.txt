@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console][2010-2015]Yu-Gi-Oh! based game with a quadratic
+field on which you could move. Platform(s): PS1/PS2 or Nintendo
+Console but not handheld Genre: Yu-Gi-Oh Game Estimated year of
+release: I played it between 2010 and 2015 but it is likely way older
+Graphics: PS1 /PS2 era graphics In the game you had to fight against
+notable characters from the anime Kaiba, Pegasus, etc and you played
+it on a big board with square tiles. each tile had different terrain
+which had gameplay influence. I do not remember much as I was very
+young and only played it a few times but I hope someone knows which
+game I mean."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

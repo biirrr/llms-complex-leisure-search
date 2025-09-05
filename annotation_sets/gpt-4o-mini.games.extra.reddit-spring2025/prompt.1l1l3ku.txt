@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2003-2004] 3D Tomb Raider-ish norse mythology action
+adventure game """"""""Asgard"""""""". Hey, for a long time i have
+been looking in vain for a specific game that i played on PC around
+late 2003 to mid 2004. It was a 3D action adventure where you play in
+a norse mythology medival fantasy setting as a blonde muscular dude i
+think. It was mostly in 3rd person, but you could also switch to 1st
+person for shooting a bow. Graphics and also gameplay reminded me of
+Tomb Raider at that time, with lots of jumping/climbing, avoiding
+traps in dungeons and also puzzles. I specifically remember one puzzle
+early game where you had to recreate a short melody by knocking on
+three skulls. It was on a CD (that was included in a PC Magazine i
+think) my friend gave me, it was definitely lower budget and pretty
+decent. I could not finish it, as i was stuck late game due to a bug i
+think. The strange part is, i actually remember its name
+""""""""Asgard"""""""" and i´m very sure about that, but i can´t find
+ANY trace of this game whatsoever. Maybe it was released under
+different names internationally?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

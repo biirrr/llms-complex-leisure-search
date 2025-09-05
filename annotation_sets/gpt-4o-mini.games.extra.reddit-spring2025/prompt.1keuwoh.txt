@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2017] Short horror game where you play as an insect
+bartender. As I said, this was a short horror (though creepy would be
+more suitable) game for PC. The graphics were in pixel art with very
+sarurated colours. It played very much like a visual novel as you
+couldnt really interact directly with the game and you followed this
+bartender who was an anthropomorphic fly. Other details I remember is
+that the bar in which you served was basically in the middle of
+nowhere and you could hand one of the clients a gun with which he
+would shoot himself with in front of you. There was also a focus on
+the fact that you can understand if youre in a dream by looking at
+your hands. I remember seeing this game in one of those channels which
+play short horror games. Thanks in advance for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

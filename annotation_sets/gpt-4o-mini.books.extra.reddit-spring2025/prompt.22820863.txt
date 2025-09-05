@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Drunk marriage. Work romance.
+[s]. Hi, I'm looking for a book I read a few years ago. It's about a
+couple who gets married while drunk. I think she's celebrating a new
+job. Like in most romance books go with this trope- she want's an
+anulment. Then she finds out that the H is her boss. I remember that
+they were gathered in a room and he went on stage to introduce
+himself- maybe he just bought the firm or something. I remember that
+his ring (that the h bought for him) is so cheap that colors his
+finger green. And it's something she noticed and was emberessed when
+she saw him for the first time after their night together. I don't
+remember exactly where they worked but I remember that she was
+painting some stage decorations. Someone wanted to hurt her and I also
+remember that some line was cut and something almost fell on her while
+she was on the stage painting. I also remember that she was pregnant-
+but I don't know if it was a result of that first night or if that
+happend after they started a relationship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

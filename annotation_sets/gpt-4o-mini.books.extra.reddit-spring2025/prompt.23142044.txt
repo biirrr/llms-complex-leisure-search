@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Teen book. Main characters plays AFL (Australian Football
+League) or footy. Invites girl over for spaghetti dinner.
+Illustrations. Teacher read in classroom 2003.. Hey Everyone I’m
+trying to find a book a teacher read to the classroom around the 2002
+I was 16 years old or older. was kind of similar to Specky Magee books
+but with illustrations. The main character plays AFL or footy then
+invites a girl over for dinner then accidentally put spice in the
+Spagetti and the girl gives him a kiss on the cheek for trying, Does
+anyone know it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

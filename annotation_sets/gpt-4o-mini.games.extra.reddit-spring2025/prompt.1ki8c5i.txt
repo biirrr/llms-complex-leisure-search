@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] Touhou 2D puzzle-platformer fangame. The game
+seems to be based on the same idea as Lost Vikings, but featuring only
+two characters, Patchouli and Alice. Alice had access to dolls that
+are basically moving timed bombs (think Bombchu from Zelda), jumps
+higher and can move around (tho not jump) with Patchouli on her head.
+Patchouli obviously couldn't do all that, but had access to some kind
+of magic (can't remember exactly, sorry). I still have music ripped
+from the game, and IDv3 tags have """"""""VaLSe"""""""" as a composer
+and year as 2005. I find this very odd, considering I played this game
+around 2018, tho I did find it at some English fan website. It was a
+pretty small 2D side-scrolling game, being around 300-500 megabytes in
+size. It was entirely in Japanese, but simple enough to navigate
+without knowing the language. The game had a simple artstyle with
+nicely drawn chibi characters. UI also had cropped non-chibi portrait
+of a character that you control currently. Thanks in advance to anyone
+who knows. I was obsessed with Touhou Project as a teenager, and this
+is the only game that I couldn't find"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

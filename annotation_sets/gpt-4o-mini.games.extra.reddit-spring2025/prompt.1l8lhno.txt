@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010's] Game where you escape a nudist cult?. The title
+sounds crazy, but I remember watching this playthrough of a game about
+2017 or maybe earlier. The YouTuber who played it was one of the
+popular people at the time, most likely PewDiePie. The game starts
+with you going into a temple-like building, then eventually you run
+into a naked person who's part of a cult. I also remember there's a
+bit where you see a mattress and a note from a prisoner a part of the
+cult? And at the end of the game, I remember you have to choose to
+sacrifice someone to leave? I'm only posting on here to prove to my
+friends I'm not making it up lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

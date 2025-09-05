@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2017-2019] Cat simulator game. Platform: mobile
+only (to my knowledge) Genre: it had 2 main modes; Survival, where you
+break things while avoiding people, and Free Play, where you broke
+things without worrying about people, it was both single and
+multiplayer Graphics / style: lowER poly, but textures were more
+detailed than most low poly Notable gameplay: shattering objects gave
+plain text, small, white text displaying added points. Kind of all
+over, think when you respawned, it was on the roof? Other details:
+single house and backyard House: 2 bedroom, one bathroom, living room,
+and kitchen. Bedroom A I recall better; brown color pallette, with
+white and gold accents, wooden, large, oddly shaped bookshelf,
+patterned carpets and bedsheets, in brown with red and gold accents,
+king bed that was somewhat bouncy small ceiling light. bedroom B was a
+small room, resembled a guest room, largely white large window with
+sliding door that led to a small, mostly white porch Bathroom was pale
+blue, with a shower, sink, trash can, and a shatterable window. Living
+room had a long table with a stack of books and a gold trophy, large
+flat-screen TV on the floor, with 2 LARGE speakers at both sides room
+is also mostly brown. Kitchen was brown, white, and either Grey or
+blue. Large either screen or blue glass door, large sink, white
+fridge, mostly empty yet small room. Backyard was medium, contained a
+red truck, and led to the street. Beyond the street was a few poorly
+textured uninteractable buildings, 2 or 3 trampolines, and a few
+bowling pins I played this somewhere between 2017-2019, but I do not
+recall a release date. Does this thing even exist? l've been looking
+for actual YEARS. (Sorry if the formating is weird! Had to copy paste
+this from an image cause I messed up the title XD)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

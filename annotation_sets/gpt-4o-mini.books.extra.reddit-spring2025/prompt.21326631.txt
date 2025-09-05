@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1980s Adult Paperback - LSD burnout woman steals baby, calls
+him Drummer. Spoilers.. Hello! I read this book in the 90s, and it
+might have been from the 70s-90s. Here is the plot I can remember: The
+MC is a LSD burnout who survived being in some type of political
+cult/compound. She has a bad acid trip, kills her neighbor & decides
+to steal a baby to take to her old cult leader. She calls the baby
+Drummer. The mom of the baby decides to chase her down, and most of
+the book is centered on that. The MC is rejected by her old cult
+leader as he's now just a man living a regular life. Somehow there is
+a confrontation with the mom that ends with the MC falling off a
+cliff."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

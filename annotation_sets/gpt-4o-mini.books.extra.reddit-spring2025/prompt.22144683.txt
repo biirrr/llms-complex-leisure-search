@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Art Nonfiction. Acrylic Painting, very informal, still
+lifes. Female author. Read around 2007-2012. [s]. I read this book
+about 10 or 15 years ago. I am 99% sure the author's a woman. It's
+about acrylic painting, still lifes (I don't think portraits are
+included). The intended audience is adults. I believe the premise of
+the book is that anyone can learn to do this, without any formal
+training. I remember a lot of bright and colorful illustrations, some
+of flowers. I think the book had a hard cover, not soft cover. This is
+about all I can remember about it. Thank you! SOLVED: It is ""Paint
+Happy"" by Cristina Acosta. Moderators, can you please move this to
+the Solved folder? Thank you very much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

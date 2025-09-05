@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][FLASH][2000-2010] Side-scroller Fighter Jet Game with
+boss fights. Platform(s): PC Adobe Flash Genre: Action Estimated year
+of release: I played this game around 2013 but release date must've
+been closer to 2008-2010 (not sure) Graphics/art style: Fairly
+detailed, stylized Notable characters: Boss fights at the end of the
+chapters, one of them resembled an Asteroid which was darkish
+purple(?) colored, the player fighter jet looked fairly modern Notable
+gameplay mechanics: Simple Side-scrolling shoot-em-up where you played
+as a jet figher. When you moved up or down, the jet fighter would tilt
+to the sides(?) Other details: there is not much I can remember other
+than what I've listed. I believe there was a sheet of all
+enemies/bosses accessible somewhere in the menu or between chapters.
+In the first stage you fought against basic military opponents like
+helicopters and enemy planes moving in formations to shoot at you. It
+was a bullet hell kinda(?)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [UNKNOWN] old missing pc game. old PC puzzle game,
+third-person perspective. Character wears a brown hat, icon shows head
+of character .now you play with character on some wooden tiles maybe
+16 maybe 8 depends on the level the goal is to seek the path though
+the tiles to reach a solid square because the tiles is hiding after
+three step on it the trophy you get is a statue like the character
+maybe gold maybe wood the game form 2005 and back maybe 2000 maybe
+1990 you play in space and the tiles are floating on space"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

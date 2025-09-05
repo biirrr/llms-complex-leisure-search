@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Cozy Mystery series. Woman owns gift shop (in Maine?),
+she helps with all the small town activities. [s]. Cozy mystery with
+woman owning a gift/book shop in a small town--I'm thinking Maine,
+maybe. She helps with all the small town activities. It reminds me of
+the Meg Langslow mystery series by Donna Andrews but not the same."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

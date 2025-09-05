@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2018-2025] 2d theif platformer. I remeber you
+would make your own base to defend your treasure from other people but
+you could also rob other people's base I'm unsure if it lived to 2025
+but I was defenttilly alive in 2025"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

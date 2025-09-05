@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fiction about a Disabled Cat who is skilled at hunting
+[s]. I read this book in the 1970s (I can't remember exactly). It is
+about a cat that was injured and left with its front legs virtually
+unusable. The cat was still able to go out and hunt rats and rabbits,
+which it then brought home. That is pretty much all I can remember
+about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

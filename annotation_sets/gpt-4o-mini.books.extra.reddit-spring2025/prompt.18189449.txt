@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "NonFiction Humor Book about Sucky Jobs [s]. About 20 years
+ago; I read a non-fiction book that was a bunch of narratives from
+different people talking about the jobs they do. It was set in
+America. It would’ve been new at the time. It’s not Working (Studs
+Terkel) and it’s not Gig (John Bowe). This collection seemed to
+specifically focus on jobs that really; really suck; and had
+definitely more of a humor vibe to it I remember it having an orange
+cover. Segments I remember: Somebody writing pulp/dirty books. They
+commented that they got paid by the word; and nobody really did any
+editing; so they’d just go overboard on the adjectives. And they had
+to do it on a manual; old school typewriter that didn’t work very
+well. Something about working in an ice cream parlor and how hard it
+was to scoop ice cream. I think they said something about the ice
+creams that had extra ingredients (nuts; bubble gum; cookies) were the
+hardest. Another: Somebody was a customer service rep (MAYBE a
+telemarketer) and she’d file her nails while on calls. Anytime
+somebody started being a jerk ; she’d pantomime slitting her wrists
+with the nail file. It was kinda short in length and paperback."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

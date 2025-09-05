@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction. Robot butler so faithful that he
+maintains the house after the residents die off...and after all
+humanity dies off. [s]. Short story, read in the 90s, though could be
+older. A robot servant is so faithful to his masters that he maintains
+their house after the family dies off, after all of humanity dies off,
+after the other robots build ships and leave for the stars, after dogs
+evolve to become sentient and leave for the stars themselves, after
+the ants take over the world (except for the house the robot
+maintains), after the ants die out...only when the robots return from
+space and ask him to join them in their colonies does he finally
+accept that he can leave."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

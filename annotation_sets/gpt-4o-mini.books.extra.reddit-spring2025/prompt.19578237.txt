@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for a doll and stuffed animal sewing/craft book from
+my childhood. Hardback, red cover, with a wizard doll on the front.
+[s]. This book had some very nice stuffed animal and doll sewing
+patterns. No crochet or knitting at all. Some of the projects included
+three aliens (yellow moogy, four legged snoot, and pink clod), a doll
+in a pink outfit named Sarah, and another monster called Green
+Grunshee. I also think there were hand puppets, cats in wedding
+outfits, and some other sewing projects. I remember it was about
+2010-2011 when I had the book and it seemed to be from the
+1970s-2000s. It was in American English. Please please help if you
+have any leads! I don't know the author or the title at all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

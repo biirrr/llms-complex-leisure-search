@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Dystopian horror game about a man hiding in his
+house.. Hi all, I just remembered a game that I played several years
+ago, maybe in 2015 or 2016 that I can't remember the title of to save
+my life. The general plot beats that I can remember are that this game
+follows an incredibly paranoid man who is hiding in his house from the
+police and visitors in general. People will knock on the door and you
+have the choice to open the door for people or wait until they go
+away. Depending on who you open the door for, you can get robbed,
+beaten up, or otherwise penalized; however, the game incentivizes
+players to open the door because some characters will give you food,
+supplies, etcetera... It's a dystopian game, with a sort of
+""""""""1984"""""""" feel to it, and I believe it takes place during
+winter around Christmas. I remember the opening shot for the game is a
+run down neighborhood covered in snow. I'm positive that the game was
+in English, but I feel as though it might have been developed by
+Portuguese or Italian developers. I don't believe it was finished, or
+it was rather short. I think it was most likely a point and click
+game, but I'm not quite sure. Sorry for lack of details, and thank you
+for reading!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

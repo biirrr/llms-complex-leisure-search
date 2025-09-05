@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2003-2008] A 3D base builder. Platform(s): PC Genre:
+Base Building? Estimated year of release: 2003-2008 Graphics/art
+style: 3D, realistic Notable characters: - Notable gameplay mechanics:
+You were controlling a protagonist, I believe in third person, I
+remember the protagonist being able to fly around the base with I
+believe a jetpack or special suit or something like that, from what I
+remember the """"""""base"""""""" was essentially a huge rock that was
+flying, I don't remember if you were piloting it or its path was
+predetermined, but the game involved building stuff on it to defend it
+during its flight. Other details:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

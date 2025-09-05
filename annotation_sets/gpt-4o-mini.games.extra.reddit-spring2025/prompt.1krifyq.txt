@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][Early 00s] Character with a GIANT purple hat with an
+eye on it. That's sadly most of what we know of this game. We know it
+was an RPG, turn based. The character in question is a younger girl
+with long white hair and a GIANT PURPLE HAT that covers basically her
+entire head that has an eye on it. She wore a dress with vertical
+stripes, purple/whiteish. Fairly sure she was either a fortune teller
+or a diviner of some sort. She was a supporting character, you could
+have her in your party."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

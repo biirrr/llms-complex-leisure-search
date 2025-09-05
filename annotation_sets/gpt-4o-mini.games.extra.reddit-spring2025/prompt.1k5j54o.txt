@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IPAD/PHONE][2022/2023]GAME LIKE ANIMAL JAM BUT MORE MATURE
+AND MYSTICAL. Platform(s): iPad and phone, but might have also been on
+pc, unknown to me Estimated year of release: unknown, but played it in
+like 2022 or 2023 Graphics/art style: pretty much the same as animal
+jam Other details: It was like animal jam, came up when I was trying
+to re download animal jam too. It was similar, but you could customise
+the proportions more, so most ppl did maned wolf (the real life
+animal) looking proportions. It was more mature and mystical if I
+recall. I randomly remember it every so often but can't find it for
+the life of me"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

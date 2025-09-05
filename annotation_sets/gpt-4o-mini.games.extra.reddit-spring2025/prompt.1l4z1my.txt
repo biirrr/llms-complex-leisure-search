@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][2000s] whats the name of the game?. Hi guys, I hope
+someone have an idea about the name of the ps1 game Im thinking of,
+because I have no clue :( I think its 20 years ago I played it. Its
+an action game Top down/3rd person shooter You can choose different
+characters, but there are no effects, powers etc. its just visual as
+I recall it You had guns or hand weapons and should kill enemies in
+waves You could play co-op I remember it as a police/bad guys game, so
+not sci fi, horror etc. Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

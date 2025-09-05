@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Chrome book][2010-2014] game is a side scroller with
+soldiers that have specific classes. so all i really remember is that
+you have a small group of soldiers and they have classes like sniper,
+medic, ect, and that it was a side scroller, sorry my memory sucks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

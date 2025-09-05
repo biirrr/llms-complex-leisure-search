@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Ghost story about a Torc which is haunted by a Roman
+ghost. Read before 2006. Spoiler.. Hi, I wonder if anyone can help
+with identifying this book? I read it at least 20 years ago, and can
+remember the plot, but not the name or the author. It must be obscure
+because I cant find any clues online. ChatGBT seems to understand what
+I’m talking about. It says the book is called “The Torc” but I’m not
+convinced, as there is a book by that name but it is not the correct
+story. It also gives varying results regarding the author. (AI has a
+long way to go before it becomes reliable) Anyway, this story is about
+a female writer who moves to the Suffolk (possibly Norfolk) coast in
+the UK, to get inspiration for her new book. It is winter, so the
+weather is bleak. She walks on the dunes by the sea, and discovers a
+Torc in the sand. She takes it with her and as the story unfolds, she
+begins to experience paranormal activity in the house. It becomes
+apparent that the torc is tied to a story about a Roman soldier who
+was murdered, and a woman’s ghost who begins haunting the writer. The
+writer has visions of the ghost’s story, and starts to uncover the
+truth about the soldier’s murder. When she finally solves the
+soldier’s murder, the haunting stops and the ghosts are at rest. It’s
+a long shot, but does anyone know this book? Can anyone confirm the
+title or author? Thank you, Simon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

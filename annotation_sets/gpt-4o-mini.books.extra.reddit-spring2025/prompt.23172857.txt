@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Magical Realism. Teen volunteers for shelter/farm for
+mythical creatures. SOLVED: Book is The Extincts by Veronica
+Cossanteli Read 2019, seemed like a new release around that time. Plot
+centers a child (forget gender) who starts to help out at a center on
+the outskirts of town run by a reclose. The center is home to many
+mythical/magical creatures, with the major one being a serpent or
+otherwise snake-like animal that can turn people to stone. There is a
+doomsday soothsayer seen roaming throughout the streets that is at one
+point turned to stone. The villain is a politician or mayor who wants
+the creatures for himself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

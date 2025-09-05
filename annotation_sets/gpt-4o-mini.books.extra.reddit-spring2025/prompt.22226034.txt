@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "90s YA fiction about teenage boy who runs away from home,
+ends up living amongst a community of people in the
+forgotten/abandoned tunnels and stations of the London Underground.
+[s]. Read this in the mid-90s (although I guess it could have been
+published in the 80s). It was set in the present day. Teenage boy runs
+away from home, sleeps rough on the streets of London, something ??
+happens and he ends up in the hidden/forgotten/unused/abandoned
+tunnels of the London Underground where he finds a whole community of
+homeless people. No sci-fi, fantasy or supernatural elements, as far
+as I can recall. Can't remember title, author, character names or rest
+of the plot!! But I would dearly love to be able to read it again.
+TIA."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

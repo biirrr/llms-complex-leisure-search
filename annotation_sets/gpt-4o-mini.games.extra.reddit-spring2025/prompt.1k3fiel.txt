@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown Years] Game about summoning and exorcism..
+Couple years ago I was watching some videos about a game and I cannot
+remember for the life of me what it was called. You had an
+asymmetrical team where I think there were 4 survivors and then one
+person was like the monster/demon/summoner sort of thing. The
+survivors were trying to I think stop the other person and stuff and
+the only things I can remember about it is that the one player was
+able to like possess cars to get them away from the other players to
+make them inconvenient or possess other players to make them drop
+their weapons or stuff or they could summon minions to attack them and
+I think they had like one big hero they could use too. If anyone knows
+the name of this I would appreciate it thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

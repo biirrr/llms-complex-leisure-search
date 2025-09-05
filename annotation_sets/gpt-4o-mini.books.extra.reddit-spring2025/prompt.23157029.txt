@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy novel about two boys and one is maybe a prince
+and also invisible and there is a dragon involved. Published before
+2015.. This book would have been published pre 2015 and I got it from
+the library in the young adult fantasy section. It had a dragon and
+some blue and green mist on the cover. There was also a girl who both
+the boys had a crush on who had cigarette burns from a family member.
+I also recall her and the visible boy kinda hook up in this like snow
+storm in order to keep warm. They are in the snow again and the boy
+says no and that they’ll just hold each other close because he knows
+the other boy has a crush on her. I think the invisible boy was going
+to like talk to a dragon or something they were trying to find a way
+to make him visible and when they do he looks identical to the other
+boy. I wish I had more details but this is all I can recall about this
+book and it’s been driving me crazy I can’t remember the title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

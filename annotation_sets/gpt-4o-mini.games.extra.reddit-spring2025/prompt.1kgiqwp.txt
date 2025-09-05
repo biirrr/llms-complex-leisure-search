@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 90s?] Demo Disc? where the menu is a 3D first
+walking simulator in a space ship, you walk up to games to select
+them!. I used to play this all the time in 2004 (*I know for a fact it
+was this year*) I'm pretty sure the demo disc had Doom 2 and Dogz 3. I
+remember the space ship was huge, and I had to memorise the directions
+to each game because you selected them by walking up to them. It was
+kinda eerie selecting games this way. It was so dark and void. Looking
+back I'm not actually sure it was a demo disc. I'm pretty sure you
+could play the full games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

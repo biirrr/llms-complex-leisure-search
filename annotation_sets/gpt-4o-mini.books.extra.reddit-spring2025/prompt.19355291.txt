@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book about writing conventions, literary devices,
+genre, symbol analysis, character archetypes. [s]. I read this book in
+college in 2013 at UC Santa Barbara. The book taught writing
+conventions such as purpose of genre, how to analyze symbols, and
+explained motifs and character archetypes. I also think that the
+author talked about the hero's journey in one of the chapters. In the
+introduction of the book, i specifically remember that the author gave
+an example of how any book character that preys upon the weak and
+helpless and lures their victims with charm and beauty could be seen
+as a vampire archetype."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

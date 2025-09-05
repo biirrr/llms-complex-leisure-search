@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2016-2020] A Game about stickman fights. Hello
+guys, I am desperately searching for a mobile game, that i was playing
+between 2016 - 2020. It is really important to me, I searched the
+whole web for it but could not find a clue. It is a 2D Game, where you
+have different characters, i think you unlock them with progressesing
+in the game, and some of them u must collect a huge amount of money to
+buy them. It is like Stickman or even it is a stickman game. These
+characters has different colors, weapons, moves, and special
+abilities. While u progress in the game, u get artifacts with
+different rarities, each rarity is presented with a different color.
+The last and the strongest character is a blue samurai with a sword,
+his moves are so fast. Two other characters i remember thier colors,
+they were rose and green. The characters have not the exact same style
+of stickman, cuz they have like clothes and thier bodies also
+represent their styles, like the samurai. The icon if the game is like
+an Alain with a black color skin and green borders (strokes) and the
+green colored eyes. Please help me guys, i am desperately looking for
+it.. thank u in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

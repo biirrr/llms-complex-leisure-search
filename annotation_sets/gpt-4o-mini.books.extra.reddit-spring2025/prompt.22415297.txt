@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Group of adult female friends, told in alternating
+perspectives, trying to find themselves in their 20s-30s, urban
+setting, mid 2000s, blue cover. [s]. I purchased this book in
+hardcover sometime between 1998-2004, although I suspect more like
+between 2000-2003. It has a pretty distinctive blue cover and I
+actually have a photo of the spine in a stack of books in an old
+digital photo of my room at the time — I can’t sharpen it enough to
+read the author/title, but you can see the color/design of the spine
+clearly and again I feel it’s pretty distinctive with beige/sage green
+stripes near the bottom end of the spine. Title appears to be written
+in script. If there’s a way to post the photo please let me know. It’s
+about a group of adult female friends trying to find their way in an
+urban setting in their 20s/30s. Romantic misadventures, career
+unfulfillment, etc. Told from alternating perspectives of the friends.
+I want to say it’s set in NYC or Chicago. Opening scene is very
+distinctive in my memory — one of the women is rushing home to throw a
+dinner party for these friends and carrying groceries in a paper bag
+and she drops them. I want to say she plans to roast a chicken for
+this party. (I remember such random weird things.) Another one of the
+friends spends a lot of time languishing in her bed which she is
+hesitant to leave. She loves her bed and her room (and I think
+sometimes has a lover come over) and I feel like she talks about
+loving the “blue light” in her room, like maybe during dusk/the
+l’heure bleu or something like that. (But it has nothing to do with
+Paris.) There’s some theme of blue throughout (at least with this one
+character) and I think that’s why the cover is blue. Definitely a
+female author. General fiction, not super literary but more literary
+than chick lit."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

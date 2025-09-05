@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH] [2010s] A team of specialists tries to upgrade a
+city. I used to love this game, and I'm struggling so hard to find it
+again. I'll try to be as detailed as I can with what I can recall. -
+It's isometric 2D. - There's a team of specialists; I think there's an
+engineer, an architect, and a gardener, but I don't remember the rest.
+Approximately 8 characters. - The characters look like the guys on
+bathroom signs in different colours. They're featureless and
+multicoloured. - Gameplay goes that you'll drag each of the characters
+onto the screen. Depending on the order you drag them in, they play
+off each other in different ways. E.g., if you drag the engineer on
+after the architect, it can put engineering into the building the
+architect built. I believe you can only use each one once. - It's sort
+of solarpunk; you can create green energy and public transport. - If
+you do well enough, you can expand underground. - I played it on
+onemorelevel in the late 2010s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

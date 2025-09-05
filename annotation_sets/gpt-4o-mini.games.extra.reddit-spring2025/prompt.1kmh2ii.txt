@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005 - 2008?] Pixel side scrolling game about raising
+dinosaur from an egg by eating humans on the stage. So there's this
+really obscure pixel game I used to play, it doesn't have title screen
+and you start the game immediately the moment you open the program.
+you start as a giant egg that you tap with attack button until you
+came out from it as a little dinosaur, you grow by eating humans
+around the stage, it was 8-bit ish pixel game with very simple
+graphics"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

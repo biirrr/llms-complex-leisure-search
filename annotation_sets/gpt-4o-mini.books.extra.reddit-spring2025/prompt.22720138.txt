@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Heroine decides to go into
+rehab, gets out and is devastated to find the hero moved on with
+another woman. Read 2014-2023.. Hi! I have read this book within the
+last 10 years. I only remember that the heroine and the hero were in a
+relationship. The heroine is an addict (dont remember what she was
+addicted to), and she decides to go to rehab. I dont know if he agreed
+to wait for her until she got out, but i know that he moved on and the
+heroine was devastated when she found out. I dont remember if it was a
+full-blown relationship or a one night stand. They end up together in
+the end, though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

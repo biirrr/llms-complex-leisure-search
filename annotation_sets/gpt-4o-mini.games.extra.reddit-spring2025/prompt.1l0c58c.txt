@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][unknown] topdown 2d game where you crash from a
+spaceship onto alien world. from what i remember the game starts in a
+spaceship where you are trying to deliver a package to someone.
+eventually you fall down onto the planet. the armor makes your health
+multiply instead of adding defense and i think there was a different
+crafting table for each tier of stuff. the world is random generated
+and there is a map that shows what the terrain looks like once you
+walk on it it. i think there was also quests that would appear far
+away on your map. i played this game maybe 7-8 years ago and i cant
+remember it that well so some of this stuff might not be fully
+accurate thanks for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

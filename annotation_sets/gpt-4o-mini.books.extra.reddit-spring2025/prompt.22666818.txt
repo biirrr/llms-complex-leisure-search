@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult? Fantasy series. Young woman/ teen girl taken out her
+bedroom window by aunt to Magical World? Each ""grade"" in school wore
+different color robe. Celtic-like. Author from Sedona, Arizona? Read
+around 2000-2005. Spoilers.. 1. Fantasy Series (I only read the first
+one but I remember there were more.) 2. I believe the author is from
+Sedona AZ because I remember something about her being a local author
+at the time. 3. I read the book in the early 2000s (2000-2005) 4. I
+feel like the covers were colorful, but I can't be sure now. 5. I
+don't think they were YA since my mother was worried about my reading
+them 6. ze MEAT (spoiler time): So the story is about a young woman or
+teen girl. She is taken out of her bedroom window by her aunt and
+taken to a magical world TM. She is enrolled? into some kind of
+school? I remember that each ""grade"" wore a different color robe
+(white, green...blue?). The thing that made the story unique is that
+the fairy/magical beings in this story could present themselves as
+anything they wanted, but I seem to recall horses being very common.
+Anyways, she is taken to a magical ceremony where the older girls get
+to be claimed(?) by a fairy-thing but then the main character girl
+like...bonds with them all? Or something? And everyone is really mad
+and because that's not supposed to happen and she broke everything. I
+also remember there was some vague romance overtones with some dark-
+haired-boy TM but don't remember much."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

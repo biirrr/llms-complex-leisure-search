@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GameBoy][90s-00s] Medieval fantasy game with multiple
+gameplay styles. Platform(s): Nintendo GameBoy (Color) Genre: Action
+Estimated year of release: Late 90s/Early 00s Graphics/art style:
+Pixelated Notable characters: N/A Notable gameplay mechanics: Each
+level would present a different gameplay style Other details: I recall
+watching my friend play it on his GameBoy Color, when we were but
+children. It began in a village, with a top-down view, a la Final
+Fantasy, and the next level would switch to platforming, and
+subsequently, a side-scrolling shoot-em-up. Unfortunately, that's all
+I can remember right now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

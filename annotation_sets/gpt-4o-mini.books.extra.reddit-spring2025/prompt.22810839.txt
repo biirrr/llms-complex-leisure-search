@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy audiobook. Time or life as currency. Young
+woman gets fired from job, which she needs. Elderly father, younger
+sibling who doesn't have a timer yet. Mandatory time donation to the
+government. Spoiler? [s]. Need help finding a book I started earlier
+this year, 2024. It disappeared from my App Library. Included a list
+of books I already checked at the bottom. The book starts with a young
+woman. She gets fired from her job, which she needs, because time is
+evidently also currency. She goes home to tell her father and sibling.
+Her father is elderly and her younger sibling does not have a timer
+yet. Her mother is passed. Later in the story she goes into the city
+square and sees a male friend she is evidently crushing on. But there
+is some sort of forbidden friendship there. There is some sort of
+mandatory time donation to the government. People die during these
+donations. She goes to a gate and donates almost all her time. It’s
+described as kind of excruciating and she can feel like leaving her.
+Later on a tall dark city guard finds her and gives her some of his
+time. He tells her to lay low and not mention it to anyone. She is
+perplexed why he’d do such a thing. And she gathers he is probably in
+charge of other guards. The story suggests these two will be entangled
+somehow. This is where I left off. I started it as an audiobook and it
+was narrated by a female. Please help! It is *not* any of the
+following: In Time, Alexandra Bracken Everless The Time Keeper The
+Warehouse The Electric Kingdom The Sandcastle Empire Time Bomb"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

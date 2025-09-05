@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - internet browser] [2003-2008] Super basic 2d pet care
+game. **Platform(s):** Internet browser game **Genre:** Pet care
+**Estimated year of release:** 2003-2008 **Graphics/art style:** 2d
+cartoon animals **Notable characters:** na **Notable gameplay
+mechanics:** bathing pets, feeding pets, possibly decorating a home
+but I'm not 100% sure **Other details:** My memory was jogged when
+talking about early internet nostalgia. I have an extremely vague
+memory of playing this game on internet explorer where you could adopt
+pets and there were a few places you could take them within the world.
+It was a fairly stationary game with not a ton to do from what I can
+remember. It probably was for a pretty young demographic. I really
+only remember dogs and cats in the game, and funny sound effects
+maybe. it's not neopets, it's not webkinz, it's not club penguin"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

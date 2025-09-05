@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1/PS2 or the same generation] [Around 2000] Japanese game
+where you're stuck in a video game. I remembered watching a video
+talking about this game quite a while ago, the character's art style
+is pretty cute from what i remembered, similar to Animal Crossing, i
+think the gameplay is chill something like the boku no natsuyatsumi
+games, I remembered that there is a dragon character that you could
+talk to, if I'm not wrong at some point in the story &gt;!it's
+revealed that you're not the protagonist/hero of the game that you're
+stuck in and the hero eventually killed the dragon character!&lt;"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

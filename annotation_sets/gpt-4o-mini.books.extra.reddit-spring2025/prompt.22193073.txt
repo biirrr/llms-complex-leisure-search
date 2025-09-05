@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir. Two sisters raised by their mother end up in
+an orphanage home for a period of time before returning back with
+their mother and move to Alaska. [s]. One sister narrates the story of
+when she and her sister are raised by their mother, I believe in the
+beginning of the book their father lives with them until he passes
+away. The mother tries on her own to raise her daughters but they end
+up in an orphanage for a period of time. The mother returns for them
+and takes them to Alaska where I believe she is in a new relationship.
+I read this book possibly in the early 2000s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

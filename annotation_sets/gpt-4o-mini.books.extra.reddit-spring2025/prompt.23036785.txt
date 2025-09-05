@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction read in Middle school about 2012. Girl moved into
+her father’s abandoned /empty house. Finding a guy living there which
+could have been her half brother no one knew about. There was a river
+surrounding the property she was staying at.. It was a book about a
+girl who took the summer off and went to her dad’s summer house or
+cabin. There was a river and trees surrounding the property and I
+remember there was a scene where either someone on a boat was looking
+at her or she felt like someone was looking at her, from the river,
+while she was inside the house. After a few days of being there she
+found out there was a guy living there and I think it was actually her
+half brother or step brother or something related to her dad that she
+didn’t know about. I think her dad had passed away or something and
+that’s why she went to that house? I don’t remember finishing the book
+or any other details"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

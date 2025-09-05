@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early-2012s] Weird 2D Flash game where you played as a
+""""""""terrorist"""""""" with a parachute and had ragdoll physics..
+Hello everyone, I know the tittle is kind of something. I'm trying to
+find the name of a weird flash game I used to play a lot when I was
+younger. Here is the list of clear things I can recall: \- It was a 2D
+flash game with ragdoll physics and gore, feauting dismemberments. \-
+At the start of every game the player descended from the sky using a
+parachute and landed in a bunch of civilians npc's and then tried to
+kill as many npc's as you could. \- The starting weapong was always a
+bomb attached to your character. \- You could upgrade your character
+buying stuff like a guns, extra explosives, armour and other stuff. \-
+The background was grey/beige with clouds, occacional buildings and a
+weird music. Thanks again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

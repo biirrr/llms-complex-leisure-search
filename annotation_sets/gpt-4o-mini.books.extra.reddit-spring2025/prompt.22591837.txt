@@ -1,0 +1,66 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction Coffee-table Book analyzing the Depiction of
+Prohibition Gangsters in Comics. Read late 2000s/early 2010s. [s].
+Sometime in the late 2000s/early 2010s, I visited my local library in
+the metro-Atlanta area and stumbled upon a hardback coffee table book
+with a vibrant color scheme (yellow, I think) and a cover featuring a
+comic book style illustration of a prohibition-era gangster or two.
+The comic book art style was reminiscent of the original Superman and
+Batman comics in the 1930s with somewhat faded primary colors and
+angular looking people. I was intrigued and so opened it to find that
+the book was a compendium about how the mob and gangsters, both real
+and imagined, were depicted in comics in the early 20th century, often
+emphasizing how the comics glamorized and sensationalized the gangster
+lifestyle. I can't recall the year, but the glossy finish on the dust
+cover suggests that that printing of the book at least was fairly
+recent. The text was mostly straightforward and factual, reporting
+what happened in the realm of gangster comics over the years with some
+commentary from the author examining related trends and how real life
+events affected the creation and reception of gangster comics
+(apparently the Valentine's Day Massacre hurt the popularity of these
+types of comics at the time). Each page had a few images depicting
+comic panels, covers, or occasionally photos of real people that were
+interspersed amidst the text; the text generally took up most of the
+page. Fedoras, trench coats, Tommy guns, etc. were ubiquitous in these
+images. The image layout seemed to vary with each page (so images did
+not always occupy the same spot from page to page). Some things I
+remember being discussed in the book include comics depicting the
+careers of real life gangsters like Al ""Scarface"" Capone, Lucky
+Luciano, Babyface Nelson, etc. There was also talk about how the
+Comics Code Authority (and maybe the Hayes code?) altered the gangster
+genre in comics. Crass language (including terms like ""broads"") was
+removed, and even the gangster vernacular was toned down (there was an
+image showing two of the same comic panel side by side, one with the
+original slang-ridden vernacular dialogue and the other in a more
+standard English with cleaner language). Mention and use of alcohol,
+tobacco, and other drugs as well as gambling, graphic violence, and
+sensuality were all limited or omitted to comply with the Code. The
+glamorization of the violent lifestyle and the sometimes shocking
+imagery used to draw in readers was also discussed; the book seemed
+intended for adult readers, and as a kid I was a bit disturbed or just
+confused by some of this. One image in particular that sticks out in
+my memory as pretty frightening at the time was a comic book cover
+showing a stern, condescending looking blonde woman's face in the
+foreground giving a lengthy testimony in a word bubble, saying
+something like ""Ya wanna know? Fine, I'll tell ya everything...I'll
+tell ya about the Isle of the Dead!"" and beneath her in the
+background was a fedora wearing gangster being attacked by a zombie of
+some sort amidst a moonlit tropical setting (I think the text
+mentioned that this strange connection of gangster comics to
+supernatural horror was related to fears of drug use or ""reefer
+madness"" somehow). I was more interested in looking at the comic-book
+images of gangsters at the time and so didn't think much of the
+analysis, but now I'd like to go back and re-read it if I can.
+Unfortunately the library where I found it has since changed
+locations, and I haven't been able to locate the book at its successor
+or any of the other connected libraries."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

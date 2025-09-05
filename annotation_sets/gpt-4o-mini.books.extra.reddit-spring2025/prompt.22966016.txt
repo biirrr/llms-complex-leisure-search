@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Reverse Harem where the main female character is a
+missing person. Spoiler.. Unfortunately, I don't remember much on
+terms of timeline, but there is a group of guys that have all been
+scarred by loss of missing persons cases and decided to become the
+ones that never give up on a missing person's case. One member of the
+group is from a coastal (?) town and the girl he liked went missing.
+The group gets a new lead on this case and it turned out the girl had
+been offered a ride home from the local cop/sheriff who took her and
+kept her in a room buried under the front porch of the house he shared
+with his mother. Bad things proceeded and, when the girl/woman is
+about to give up, the group of guys rescue her and work to help her
+heal. I want to say it's part of a series and I lost the title while
+waiting on the next book, but I can't guarantee it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

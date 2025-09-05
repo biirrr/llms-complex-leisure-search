@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction eighties rock star released this year. [s]. I
+heard about this book advertised in uk on radio 2 either spring or
+early summer this year. It's by an eighties rock star but not memoirs
+I don't think, more philosophies on life. Could be American or uk rock
+star? I remember thinking it would make a great gift for someone I
+know but I didn't write down any details! Silly me! Please help solve
+what book it might be."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

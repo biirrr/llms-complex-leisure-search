@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/EARLY 00s] Ball bouncing up and down, only
+left/right control, you destroy boxes by hitting them, maybe the
+enemies were spiders. Platform(s): PC/DOS? Genre: Puzzle/Platformer
+Estimated year of release: 90s/EARLY 00s Graphics/art style: 2D
+Notable characters: The player controls a ball that is constantly
+bouncing up and down. I think that the obstacles/enemies in the game
+were spiders that needed to be avoided or destroyed with the ball.
+Notable gameplay mechanics: The ball constantly bounces against the
+top/bottom walls of the level. The only possibility to control the
+ball is to influence its left/right movement with the left and right
+arrow keys. I think you could destroy boxes by hitting them with the
+ball. Other details: Maybe the name of the game contained the word
+Skulltulla or Arachnoid or some other spider related word. The game
+contained many levels."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

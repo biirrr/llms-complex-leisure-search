@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids’ chapter book, main character named Kitty, set during
+WW2 in the US. Hi! I’m looking for a book I enjoyed as a kid where the
+main character is named Kitty, and her name is in the title of the
+book. It’s set in the US during WW2, and some details I remember from
+the story is Kitty and her friends went door-to-door to sell pencils
+and I think they also collected old magazines for a recycling drive.
+Thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

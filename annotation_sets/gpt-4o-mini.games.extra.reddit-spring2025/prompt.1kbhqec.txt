@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[3ds][unknown] RPG. I think it was turn based, but not sure
+if it was 3ds or normal DS but the things i remember the most are some
+plot points, at the beginning of the game the protagonist (who is
+orfan and was raised in a little village) who is followed by his
+friends one boy and one girl if remember correctly, which go inside a
+ruins and when they comeback afterward the scenery changes from a
+plains to a forest (or the other way around i really can't recall)
+second thing i remember is a fight in a fortres-bridge connecting 2
+regions/empires, one is dessert like and the other more european you
+were helping the dessert empire for something in return. also remember
+a fight in the city of the European like empire against an
+officer/general/commander while there was some kind of speech from the
+emperor or something like that, you first go to the west where is the
+European empire then go back south where is the forest/plains where
+the game beggins and then go to the east towards the dessert empire.
+one las thing i remember is there was this point where you wanted to
+recruit the princess of the dessert empire but she didn't wanted to
+because she loved her mother or something like thata and then her
+mother treats her harshly so she wants to scape, and then the dessert
+empire starts disliking you, or at least the emperor I know those are
+a bit of random pieces but wanted to know if anyone has any idea of
+which game it might be, thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

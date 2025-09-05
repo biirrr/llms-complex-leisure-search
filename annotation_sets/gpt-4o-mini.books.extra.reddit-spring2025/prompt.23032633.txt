@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short Story involving kids on another planet (within our
+solar system). Read in grade 7, circa 2008.. As part of the ''hazing''
+for another Goodreads group, I have been asked to a) list everything
+I've ever been academically assigned to read and b) reread it all,
+roughly chronologically according to year of assignment. Finding my
+memory failing, I turn to you, my trusted team of book detectives.
+Grade: 7 Genre: Sci-fi short story Plot: The story is set on another
+planet, definitely one within our solar system. On said planet, the
+sun shines for only one day every (decade?). This day is a HUGE deal
+for the kids because, for just one day, they are able to play outside
+in the sun like Earth kids do. In our story, Sunshine Day is
+approaching and a class of kids is getting excited about what they'll
+do in the sun. There is a new girl in school who is an immigrant, if
+you will, from Earth. As her classmates excitedly explain their plans,
+the immigrant tells them she grew up seeing the sun daily. The others
+ostracize her because they believe she is lying; a world with daily
+sunshine, to their knowledge, does not exist. Assignment: I remember
+being assigned to write a letter of empathy to the ostracized girl,
+telling her I understood how she felt."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

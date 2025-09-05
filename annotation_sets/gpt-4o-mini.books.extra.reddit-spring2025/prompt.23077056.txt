@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction. Old Biographical stories of (English?)
+woman's time living on Scottish isle. Possibly with a background in
+animal care/medicine? Read early-mid 1990s.. Been trying to track down
+this one for a while. Read sometime in the early to mid 90s.
+Recommended to me as being similar to James Herriot and Gerald
+Durrell's works. Young single woman (20-30?) moves to live on Scottish
+isle. Documents her time settling into life there and understanding
+the residents, as they speak a lot of Scots Gaelic. Unsure of time
+period. Could be anywhere from 1900s to 1950s? Believe it was non-
+fiction biography, but may have been fiction, or even fiction based on
+true life events? The possible animal angle. One thing I definitely
+remember is the main character taking care of an injured pigeon. An
+islander misunderstands her when she brings it up in conversation as
+the word pigeon sounds like the Scots Gaelic for a beer belly? He then
+refers to the bird as a dove after clearing up the confusion."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

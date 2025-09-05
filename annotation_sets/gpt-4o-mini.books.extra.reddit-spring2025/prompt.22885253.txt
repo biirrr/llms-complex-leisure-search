@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young adult Sci-Fi read late 2000s anti-aging/dying? Memory
+problems occur [s]. Ironically enough I really only remember that this
+book is about two women in a nursing home that undergo suspicious
+clinical trials and are now young again or no longer dying. They have
+to keep several journals throughout their “new life” as the brain only
+has so much space and they’re make new memories. The people who did
+this become the enemy and they’re hiding from them. I remember a car
+crash happening at some point maybe later in the series if it is a
+series? When one women is trying to run away. But I’m pretty sure by
+that point they were hiding off grid for a bit? I read this at my
+middle schools library late 2000s no idea publishing, author, or cover
+art. Hope I didn’t leave anything out please help me and ask any
+clarifying questions"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

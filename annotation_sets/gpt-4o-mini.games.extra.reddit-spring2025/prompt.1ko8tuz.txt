@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][flash game][~2010] a game with a cannibalistic cook.
+Hello Reddit, For years now, l've been desperately looking for a
+little horror game that I played during my childhood. I was very young
+and remember very little information. It's impossible to find the name
+of this game but it was probably a flash game where you played a
+little girl, with black hair, who wandered around a house with several
+rooms. This house was gloomy and terrifying-looking, the little girl's
+goal was to flee an evil, murderous cook who had undoubtedly kidnapped
+her (probably to eat her). The little girl who we played in the third
+person and who had her blanket with her, it seems to me, had to hide
+behind furniture or curtains I think to escape. I remember that the
+game was more or less in 2D, and that if the cook fell on us, there
+was a screen of death with a shrill cry from the little girl. I played
+this game around 2010, it had a big impact on me since 15 years later,
+I still think about it... I was able to generate an image thanks to
+chatgpt with the vague memories I had left. I hope to find even just
+an image of this game which, after long hours of searching on my part,
+remains nowhere to be found."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

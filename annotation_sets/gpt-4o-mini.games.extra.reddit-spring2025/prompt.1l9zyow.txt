@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile] [2012-2015] game about a man in a rain. I remember
+it was a small play market game about man who needed to avoid
+raindrops I think game was made by a asian developers I sadly can't
+remeber a country of origin, either graphics or musical ambient was
+8-bit style Just a small game about avoiding raindrops"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Paul Newman Quotes on Gay Rights-Where Does It Come From?.
+Anyway know a citation or source for this Paul Newman quote? ""I'm a
+supporter of gay rights. And not a closet supporter either. From the
+time I was a kid, I have never been able to understand attacks upon
+the gay community. There are so many qualities that make up a human
+being... by the time I get through with all the things that I really
+admire about people, what they do with their private parts is probably
+so low on the list that it is irrelevant."" — Paul Newman"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

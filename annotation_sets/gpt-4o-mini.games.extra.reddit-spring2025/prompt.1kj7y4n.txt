@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2009-2013] Educational Ancient Egyptian Citybuilder?.
+Ok in high school (~2009-2013) my history teacher had us play this
+game in class that was surprisingly fun. Like the title says it was an
+ancient Egyptian city builder where the ultimate goal was to finish
+building a pyramid. Every once in a while the game would pause and
+quiz you on ancient Egypt. That part was less fun obviously lol but
+the rest of it was great, dunno that l'd want to play it again but
+l've been dying to know what it was for years. Unlike most city
+builders this one had a definitive ending which was when you completed
+the pyramid, but I think I remember there being tons of hours of
+gameplay prior to that. I wish I had pictures or screenshots but this
+was on the school's computers so alas. I know this is pretty vague but
+any help is appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

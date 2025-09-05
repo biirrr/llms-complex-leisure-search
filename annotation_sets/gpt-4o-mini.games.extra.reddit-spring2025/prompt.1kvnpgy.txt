@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [98?] Home alone style horror trap game. Platform(s):
+PS1? Genre: Horror Survival Estimated year of release: Not sure
+Graphics/art style: 3D but old PS1 era blocky Notable characters: Main
+character is a girl I think. There are bosses that are psychopaths?
+But I think real humanoid antagonists Notable gameplay mechanics: I
+think you would buy and set traps and the goal was to kite the bad
+guys into the traps you had set. I'm pretty sure it was grid like map
+editor how you would set the traps. Other details: it was almost like
+you were escaping from a dungeon or a mansion or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

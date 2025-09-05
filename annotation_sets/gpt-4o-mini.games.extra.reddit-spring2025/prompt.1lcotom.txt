@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2014] Dark fantasy Action-RPG with crystal monster
+trapping, fog mechanic, and bald inquisitor protagonist. **Post
+body:** I'm looking for an old 3rd-person action-RPG (not isometric).
+Key features: * *Bald male protagonist (possibly an inquisitor in the
+story, but not in the title).* * *Magic system involving trapping
+monsters in crystals (different crystal sizes for different
+creatures).* * *A fog-covered zone that kills you if you 'know' its
+danger (must go in unaware).* * *Staff weapon available.* * *Dark
+fantasy setting, similar to Risen/Gothic visually.* * *Released before
+2014 on PC.* *Any ideas?*"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

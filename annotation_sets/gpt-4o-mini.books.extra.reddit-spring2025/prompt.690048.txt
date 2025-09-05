@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "it is a fantasy book I think?? Oh, Word Girl cartoon [s]. I
+can't remember the name of this book or book series.. I can only
+remember a small portion. Does anyone know what it is? Here is what I
+remember: There is a kid and one day he realizes he can create food,
+he discovers this when bologna/pastrami starts shooting out of his
+hands.. There is a scene where he covers the bathroom at school in
+meat and cheese and bread slices. He later learns this is a thing in
+his family and that generations have always made up new food
+dishes/recipes... Thats all I can remember. Is this a real book? Did I
+just dream it up?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

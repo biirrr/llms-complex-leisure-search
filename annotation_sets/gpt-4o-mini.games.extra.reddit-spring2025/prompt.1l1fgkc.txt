@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][Unsure] Sidescrolling Platformer. I've been on the
+lookout to remember the names of a lot of NES era games I used to play
+at a friend, but I'm stumped on this one in particular. It was a
+fairly simple 2d pixel art sidescroller where your character could
+punch or jump. If he was crouching he'd do a low kick and if he jumped
+he would reuse the animations bassed on your direction inputs. Models
+were fairly big, I think the game only ever had room for an upper and
+lower area at the same time. The first boss was a big statue with
+extending limbs. Its only weak spot was the face which required you to
+use the side platforms to reach it. Beating it caused the ground to be
+destroyed and for you to fall into the next level. There was an ice
+level with sliding floor followed by a lava level. The lava level was
+an autoscroller that had you climbing up while the lava rose. And
+that's about all I can remember about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

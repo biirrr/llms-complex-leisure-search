@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1980’s YA novel. Jewish girl from secular family becomes
+kosher.. Looking for a book I read in the 80’s that is about a Jewish
+teen or tween whose family is not religious but she decides to become
+more observant. She chooses to become kosher and tells her family
+she’s a vegetarian but has a salami hidden in her closet. She starts
+putting perfume on her clothing because it starts smelling like
+salami. I think her grandfather may have played an important role as
+well in her decision - he may have also given her the salami?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

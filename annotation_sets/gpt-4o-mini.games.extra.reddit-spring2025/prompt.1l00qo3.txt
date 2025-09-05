@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000+] Little Stone Like Robot in Forest Maze. Hack n'
+Slash. Platform(s): I played it at PC Genre: 3D, Robots, Action-
+Adventure, Hack n' Slash, Puzzle Estimated year of release: I played
+it around 2018-2019, but I think it's older games. Just quite heavy
+for i3 Graphics/art style: 3D Notable characters: Little robot, arm
+can be huge, had a sword I think. Stone like robot Notable gameplay
+mechanics: So it's like a forest maze where we should solve the maze
+to get a blue energy/orb to upgrade the body part. I forgot the enemy,
+I think some kind of monster in the forest. Other details:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

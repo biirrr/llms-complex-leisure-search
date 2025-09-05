@@ -1,0 +1,110 @@
+Here is a JSON object containing a ranked list of 20 best guesses for the book the user is looking for:
+
+
+{
+  "suggestions": [
+    {
+      "answer": "The Other Woman by Sandra Brown",
+      "explanation": "This novel features themes of identity and betrayal, revolving around a woman who carries a deep secret, reflecting a similar tension around inheritance and family connections.",
+      "confidence": 0.75
+    },
+    {
+      "answer": "The Last Time I Saw You by Elizabeth Berg",
+      "explanation": "This book has complex family dynamics and ambiguous relationships, and endings that leave readers questioning identity, which aligns with the user’s description.",
+      "confidence": 0.70
+    },
+    {
+      "answer": "The Heiress by Susan Wiggs",
+      "explanation": "Involves themes of inheritance and familial deception. A young woman's identity is questioned, and the ending evokes ambiguity.",
+      "confidence": 0.68
+    },
+    {
+      "answer": "The Girl on the Train by Paula Hawkins",
+      "explanation": "Features a mysterious identity and an unreliable narrator. The climax also includes themes of mental instability and ambiguity.",
+      "confidence": 0.65
+    },
+    {
+      "answer": "The Inheritance by Louisa May Alcott",
+      "explanation": "Involves themes of family secrets and identity; while more classic, it relates to the themes in the user's request.",
+      "confidence": 0.63
+    },
+    {
+      "answer": "The Swans of Fifth Avenue by Melanie Benjamin",
+      "explanation": "Involves deception and complex identity within a wealthy family. The ending might provoke similar thoughtful questions as mentioned.",
+      "confidence": 0.60
+    },
+    {
+      "answer": "Gone Girl by Gillian Flynn",
+      "explanation": "Contains deep psychological elements around identity and deceit, with ambiguous motivations leading to dramatic conclusions.",
+      "confidence": 0.55
+    },
+    {
+      "answer": "Family Album by Penelope Lively",
+      "explanation": "Explores family identity and past secrets, with an ambiguous sense of resolution that echoes thematic elements from the user's description.",
+      "confidence": 0.52
+    },
+    {
+      "answer": "The Other Woman by Daniel Silva",
+      "explanation": "This novel combines detective work with familial ties, and features themes of deception which might be akin to the storyline described.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "Before the Fall by Noah Hawley",
+      "explanation": "This novel involves hidden identities and complicated relationships, leading towards a suspenseful and open ending.",
+      "confidence": 0.48
+    },
+    {
+      "answer": "Shutter Island by Dennis Lehane",
+      "explanation": "Offers themes of identity crisis and ambiguity, with an ending that leaves readers contemplating the truth.",
+      "confidence": 0.47
+    },
+    {
+      "answer": "The Wife Between Us by Greer Hendricks & Sarah Pekkanen",
+      "explanation": "This psychological thriller includes themes of deception in relationships and a twisting identity narrative with substantial ambiguity.",
+      "confidence": 0.45
+    },
+    {
+      "answer": "A Reliable Wife by Robert Goolrick",
+      "explanation": "Involves complex issues of trust and identity, as a woman’s true intentions come into question, leading to dramatic developments.",
+      "confidence": 0.43
+    },
+    {
+      "answer": "The Weight of Silence by Heather Gudenkauf",
+      "explanation": "Involves themes of family secrets and the consequences of hidden identities; it blends mystery with emotional depth.",
+      "confidence": 0.42
+    },
+    {
+      "answer": "The Perfect Nanny by Leila Slimani",
+      "explanation": "Examines themes of trust and deception within familial settings, and how misunderstandings can lead to tragic outcomes.",
+      "confidence": 0.40
+    },
+    {
+      "answer": "The Girl with a Clock for a Heart by Peter Abrahams",
+      "explanation": "Features themes of obsession and identity, leading to ambiguous conclusions while intertwining mystery elements.",
+      "confidence": 0.38
+    },
+    {
+      "answer": "The Little Friend by Donna Tartt",
+      "explanation": "This novel captures Southern family secrets involving ambiguous characters and crises that involve questions about true identities.",
+      "confidence": 0.35
+    },
+    {
+      "answer": "The Secret Keeper by Kate Morton",
+      "explanation": "Involves family secrets unraveling over time, with themes of identity and mistaken assumptions playing a crucial role.",
+      "confidence": 0.33
+    },
+    {
+      "answer": "The Truth About Forever by Sarah Dessen",
+      "explanation": "Deals with themes of misunderstood identities and ambiguous relationships, mirroring the user's concerns regarding true identity.",
+      "confidence": 0.30
+    },
+    {
+      "answer": "The Lying Game by Ruth Ware",
+      "explanation": "Features friendship and deception with an ending cloaked in ambiguity, which could resonate with the themes the user described.",
+      "confidence": 0.28
+    }
+  ]
+}
+
+
+Note that the confidence scores are subjective and based on the relevance of the themes and storylines to the user's description. The suggestions range from the most likely candidates to those that might tangentially fit the description provided.

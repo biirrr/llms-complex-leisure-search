@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2000's, Children's picture/ chapter book. Spelunking. [s]. I
+am pretty sure this is a children's fiction chapter book, but I am
+unsure. I do remember pictures in it. It's about this group of people
+who are spelunking or hiking. A girl manages to slip and twists her
+ankle on rocks/a cave. She is then alone and has to wait for help. I
+think I remember illustrations of people in yellow hard hats. The more
+I think about it, I'm unsure if this an actual book or possibly a
+cartoon I watched but it doesn't hurt to post! Any help would be
+appreciated. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

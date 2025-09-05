@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy/ Adventure: Boy enters a Mirror Maze at a
+Carnival, ends up in a Grey World, meets unnamed girl who he later
+names Alice. Read around 2007-2009.. I’m trying to remember the title
+of a book I read (around 2007-2009, but it could be older). It was a
+fantasy/adventure novel and here’s what I remember: Plot: A boy visits
+a carnival and ends up in a mirror maze. Somehow, he ends up in a
+strange, grey world after walking through a mirror in the maze. In
+this world, he meets a mysterious, unnamed girl which he later names
+Alice. I remember that once he calls her Alice, she says that she
+likes it because its icey. Format/Medium: I read this as a physical
+(paper) book in high school for my English class (years 7-9 in NSW). I
+know this isn't a lot but I'm hoping someone else read this book for
+school and could point me in the right direction."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

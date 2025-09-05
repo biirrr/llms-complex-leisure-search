@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [Unknown] Some Sort of Dropper Game from Childhood. 1.
+**Platform(s):** 100% a browser game - i think I had originally found
+it on google 2. **Genre:** A dropper type game 3. **Estimated year of
+release:** Genuinely I'm not sure- but I last played it at least 10 or
+so years ago 4. **Graphics/art style:** It was more simplistic in
+design (pretty sure it was 2D), but I remember brighter colours 5.
+**Notable characters:** A mannequin type character that gets dropped
+(I can't remember what colour- but they were one completely solid
+colour - no features) 6. **Notable gameplay mechanics:** The character
+drops from the sky, you click where on the screen you want to drop
+them with your mouse (and they go kind of rag doll), you can wiggle if
+you get stuck on obstacles (obstacles are just various sized circles).
+7. **Other details:** I don't remember how you would wiggle the
+character; it could've been with keys or clickable things on the
+screen (though I'm leaning towards it being keys). I also am pretty
+sure that the goal of the game was to get as far down as you could -
+though I'm not sure if there was a point's system. I've tried finding
+it and have a list of game it is not (Falling dummy, Body Drop 3D,
+Wigglemeister, Dropper 2D, Clumsy Fred, Disco Drop, Greed coin,
+Mannequin Downhill, Drop Dead, Mega Fall Ragdoll Simulator, and
+Physics Ragdoll 2D)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

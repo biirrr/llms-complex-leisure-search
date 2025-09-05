@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Multi-platform][2017][Boss rush arena style game]. I
+remember reading about this game in a post about video game music.
+It's a series of boss battles where the protagonist attempts to escape
+a prison on another planet. If I remember correctly, it opens with a
+mysterious figure encouraging the protagonist to break out and
+possibly giving them some kind of power or weapon. As the game
+progresses, it is slowly revealed that the protagonist is a dangerous
+criminal who was imprisoned by some kind of law enforcement and the
+bosses you slay throughout are actually noble heroes. I know it became
+pretty mildly popular, it's on PC and PlayStation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

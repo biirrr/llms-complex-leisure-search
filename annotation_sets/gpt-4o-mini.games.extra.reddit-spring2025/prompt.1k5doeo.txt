@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[flash?][post 2010 for sure] a tower defense strategy game ,
+need help to find it. Platform(s): i am not sure , i think it was on
+[poki.com](http://poki.com/) Genre: tower defense / strategy Estimated
+year of release: idk Graphics/art style: isometric like camera ,
+pixilized 3d graphics Notable characters: there was 3 main
+""""""""castes"""""""" you can play as ( green : human kingdom , red :
+demon like , blue , elf like ) Notable gameplay mechanics: at first
+you start with the green kingdom and you fight against a
+""""""""black"""""""" kingdom that corrupts the land , there are 4
+types of troopes ( at least for the green kingdom ) : infantary ,
+cavarly , archers and catapults . you send your troops to capture the
+other outposts and castles and you win defentivly when you capture the
+main castle of the enemy i remember also that there was a special
+tower that when you captured you unlock the special ability of that
+kingdom : the green one had a gladiator titan the red one had meteors
+the blue one had a blue fire storm also there was some kind of a
+resource system : each outpost produces moeny so you can recruit
+troops Other details: i may be misaken but i think the game was made
+by armor games , but i searched their site and i cant seem to find it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

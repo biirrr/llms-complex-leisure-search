@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "New Adult Romance, Love Triangle. Poor girl turned model
+after she met hero. Hero is involved in the modeling scene. the third
+guy is rich and cares for the heroine. Love Triangle of a
+poor/depressed girl turned model when she met the hero, I remember she
+modeled for a photoshop inspired by like a dark theme and there was
+this other girl who was modeling for a sort of ‘’healthy’’ Barbie
+theme and she was upset about it. The main hero is involved in the
+model/photography scene and the third guy is rich and cares for the
+heroine I remember I read it maybe around 5 to ten years ago. Hero had
+a motorcycle ( but I’m not sure)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

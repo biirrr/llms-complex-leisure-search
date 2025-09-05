@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [unknown] Old Sci Fi FPS. So, it's this older game
+where the first missions starts with you breaching into this abandoned
+space station. I think the MC and his team was some sort of space
+police force. You end up fighting several enemies, and then end up
+having to flee the ship. However, the MC ends up ditching his team and
+pulling the ship away before the station detonated, ditching his still
+alive squad members. Later on, you have to go to a another ship taken
+over by cultist, where you fight their ships with your own before
+trying to retake the station. I remember some of the guns, mostly the
+classic assault rifles and shotguns and pistols. But one of them was
+this alien pistol you got from this ape like alien, it was a three
+round basically grenade launcher. I also recall that the generades
+were unique too, flat like disks that you threw at people. Another
+thing was that there was this, I think alien like electrical monster?
+And crab like spiders in this mineshaft that was taken over? I recall
+the game being hard to play, but I was really young at the time. If
+anyone needs specifics, feel free to ask."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

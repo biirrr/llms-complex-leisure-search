@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX][1995-2005] FPS where you seamlessly travel between
+'levels' in a ship with no loading screen. Platform(s): xbox Genre:
+FPS Estimated year of release: 1995-2005 Graphics/art style: not
+gritty, but not cartoony. meant to be realistic for its time, i
+remember a lot of yellow colours. Notable characters: n/a Notable
+gameplay mechanics: general first person shooter, but I remember it
+was really cool for the time as you'd finish a level by walking onto
+your ship, click a button ( i think ) and your ship takes off and goes
+to the new planet/level without a loading screen, you just walk around
+on your 'really small' ship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

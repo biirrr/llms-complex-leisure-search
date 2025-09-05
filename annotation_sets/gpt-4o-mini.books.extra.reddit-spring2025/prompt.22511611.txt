@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Shifter Romance. Shy human woman wants a
+child, goes to a bar for a one night stand. She's targeted for being
+pregnant with a shifter baby. Read around 2015-2017.. A human woman
+wants a baby so badly, but is shy. She gets the nerve to have a one
+night stand. Goes to a bar, finds a guy, tells hims she’s on birth
+control, and they spend the night together. The guy is a shifter-I
+can’t remember what kind, but I thought panther for some reason. He
+knows she’s his mate, but she leaves before he can tell her anything.
+She goes home and tries to forget about the guy. Finally takes a
+pregnancy test, finds out she’s pregnant, only to be attacked in her
+own home. I think it’s a rival pack that attacks her bc the guy she
+hooks up with is important in his pack. Her baby daddy rescues her in
+time and whisks her away to his pack, where she learns about shifters
+I don’t remember much more than this. I read it around 2015-2017."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

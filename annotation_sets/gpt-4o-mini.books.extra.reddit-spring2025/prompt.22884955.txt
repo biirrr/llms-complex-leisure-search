@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Juvenile Fiction. A girl is told her Aunt who died in a fire
+was a perfect child. Read in 1970's. Spoiler. [s]. I read this in the
+middle 70's; I believe it was new then, although the setting was sort
+of ""older"". The main character is a preteen girl, possibly named
+Rose. Her aunt Rose was, as she is constantly told, beautiful, smart,
+kind and perfectly behaved. This aunt died, family history goes, in a
+fire in their apartment building (maybe in NYC?), after the girl
+awoke, alerted everyone to the smoke, and then died because she went
+back into the building to rescue a dog (or something similar). The
+younger girl, the niece, has grown up fascinated by but also hating
+her dead aunt, because she is expected to be ""just like her"" as she
+was named for her. It comes out at the end of the book that ""Aunt
+Rose"" was NOT perfect - she was a nasty girl who teased her younger
+siblings and cousins viciously, and they all hated her. In fact, it
+was the main character's mother who set off the fire alarm and saved
+everyone, but she claimed at the time it was Rose because she was
+afraid of getting in trouble for setting off the alarm. Rose died
+because, after getting out, she went back after a cigar box full of
+stolen ""treasures"". I remember the cover as being yellow with a
+square picture of a girl looking at either a photograph or a locket
+showing the Aunt's picture."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

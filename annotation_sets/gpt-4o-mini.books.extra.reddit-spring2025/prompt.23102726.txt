@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy book about a haunted house with ghost
+kids trying to stop an evil adult ghost from harming others. Read
+around 2004-2008. Spoiler.. I think I read this between 2004-2008. The
+book was about a haunted house. An evil woman ghost lived there and I
+believe she kept killing the childern that live in the house. I think
+in total there were four victims - two boys, two girls, one teenager
+and one young kid of each gender. A new family moved in and the ghost
+childern are trying to stop the current child of the family from
+meeting the same fate. I remember there was this brutal scene of the
+adult ghost grabbing the ghost children and suctioning their life
+force. The reason why she kept needing to kill the childern was to
+keep living by stealing their life forces. I also recall the childern
+using wind drafts to move around faster! Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

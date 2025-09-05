@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS?][2010+?] Can only remember the one level. Platform(s):
+Ive always mainly played PlayStation consoles, but I also have
+Nintendo ones. Def not Xbox or PC. Pretty sure this was not a handheld
+Genre: action Adventure platformer rpg? Probably rated E Estimated
+year of release: I really want to say its no more than 10 years old,
+but Im not positive Graphics/art style: somewhat toonish. I was kinda
+thinking it might be a Dragon Quest game? Notable characters: if Im
+remembering correctly, one of the mobs was a skinny dragon dressed as
+a wizard, and its staff was a drop item Notable gameplay mechanics:
+3rd person? Puzzles, fighting fantasy monsters Other details: So now
+that part where I actually list off what I can remember. There was a
+snowy biome area, it had a frozen lake with a dragon frozen in it. I
+was worried it was gonna break out &amp; Id have to fight it. I think
+the monsters were somehow used to solve puzzles &amp;/or to navigate.
+In this frozen area is a medieval tower, pretty sure it was a library.
+In this frozen tower library, you had to make your way up by rotating
+the different floors around the central column. This is where I fought
+those skinny dragon wizards. I think this library had the occasional
+intractable book on a shelf. Im racking my brain, but this is all I
+got. Its pretty clear &amp; extremely familiar, but for the life of
+me I cant place it or find it on google"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2010s] kid Ben 10 flash game with puzzles. Sadly
+only thing i remember about this flash game is that there was an
+underground/cave lab level with a grid of tiles on the floor. When you
+step on a tile it lights up pink. You had to light up the tiles
+according to a pattern we discover previously in the game to get
+through laser barrier(not sure if it was a door or a barrier). The
+caravan, grandpa were seen in the game. We could move kid ben with
+arrow keys i think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

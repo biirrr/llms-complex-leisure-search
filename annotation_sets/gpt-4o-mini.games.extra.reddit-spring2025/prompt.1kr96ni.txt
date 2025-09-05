@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] first-person shooter with classes where
+you would have to capture the enemy base.. **Platform:** PC **Genre:**
+First person shooter **Estimated year of release:** I'm guessing
+between 2002 and 2010 **Graphics/art style:** It was a 3D FPS. Blue
+menu from which you choose the your class and spawn point **Notable
+characters:** You could choose different classes, one of them would
+get a rocket launcher and one is sniper with a big sniper rifle and
+high caliber bullets. **Notable gameplay mechanics:** it is set in a
+bit futuristic time between Russia and USA/Europe, you go and take
+over enemy capture points, there is 2 or 3 points in every map, if you
+die you can choose a different spawn point and class if you want.
+Don't know if it was multiplayer but i used to play it alone (didn't
+have internet connection) and i think there was some sort of single
+player campaign. **Other details:** One side had a light color army
+clothes, tanks and light vehicles while the other (look like Russians)
+the tanks were darker color probably dark green. One map you need to
+fight up a green mountain and another map you go into a city with one
+of the capture points look like a square surrounded by anti tank
+barriers, and you can go into some buildings even go up to the roof i
+think. I think the name is something similar to gears of war (not the
+famous game), gear war."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

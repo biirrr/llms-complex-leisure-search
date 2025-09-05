@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[UNKNOWN] [2003-2007] Game About Reversing Time. I don't
+know much about this game but I am 100 percent certain that in those
+Nintendo Power magazine. I remember the article talking about the
+game. Mainly showing this emo depressed girl. The girl dies but you
+can reverse time to save her. In terms of platform, it's either
+GameCube or possibly the Nintendo DS. I assume it's the latter because
+I recall there being a tap screen function. I would appreciate it if
+someone leads me in the right direction because I been looking up old
+game art to get inspired."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

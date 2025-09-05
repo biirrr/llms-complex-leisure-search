@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Not sure][Probably from 2012-2018] A game about beating
+cute monsters, collecting levels, with character classes to choose
+from, similar to Lumia SAGA. The icon of the game is A monster
+resembling a red tomato. Fat and cute. I'm looking for a game from my
+childhood memories. As far as I can remember, I thought it should be
+played on PC. It's a game about leveling up and attacking monsters.
+There are career classes to choose from. The game will be in a cute
+format similar to Lumia SAGA. The only highlight I'm sure of is The
+game icon is A monster shaped like a red tomato, chubby and cute. The
+game will allow the characters to attack monsters in the forest. The
+monsters live in groups in each area and there are only cute monsters.
+The game is probably already closed. It's a memory game. that I think
+about while working Then became extremely distraught. And I think I
+wouldn't be able to sleep if I didn't know the name of the game. My
+memory is very fuzzy. But I hope to see it again. Thank you to
+everyone who helped. Please name the game you have in mind. I'll
+definitely check every game. Thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

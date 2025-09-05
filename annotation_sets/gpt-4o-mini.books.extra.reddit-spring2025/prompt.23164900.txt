@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Woman hopelessly in love with man still in
+love with dead wife/ girlfriend. He is cruel to her. She miscarries
+his baby. Depression. Spoiler.. This is part of a series. The male
+lead is still pining after his dead wife but regularly sleeps with the
+female lead. He is pretty mean to her. She is desperately in love with
+him and takes his cruelty. She has a miscarriage after he verbally
+railed on her when she revealed the pregnancy. I recall him telling
+her that she could never mean as much to him as his dead wife did. He
+even called her by his wife's name in bed. Yep, he was a complete
+A-hole to her. I remember a particular scene when he showed up at her
+place and took her sledding. She had become reclusive and depressed
+after the miscarriage. He was beginning to redeem himself and wanted
+to help her. It was the first time since she lost the baby that she
+enjoyed herself. The dead wife's name was Anna/Anne. She died
+horrifically during, or as a result of, an abduction that occurred in
+an earlier book. I think there was also some level of SA involved. The
+female lead was a school counselor. She was helping out a kid who
+lived with an abusive father. She confronted the guy, and he punched
+or slapped her. The male lead was NOT PLEASED! Finally, the female
+almost died from blood poisoning that was a result of the miscarriage.
+She flatlined and saw Anna. Thanks for Any Help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

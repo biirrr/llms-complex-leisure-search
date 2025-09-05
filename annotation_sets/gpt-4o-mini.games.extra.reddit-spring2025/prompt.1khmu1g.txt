@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Sega saturn/dreamcast i think] [around 1999] japanese
+horror game. There was a video on this japanese video game where you
+had an intro about some lab then you played someone in the subway
+accompagnied by some girl. There was this companion mechanic where
+someone was able to follow you. It was in the underground of the city
+and there was this mix of fps parts where you navigated a labyrinth
+followed by a monster who would evolve at each encounter. Then if you
+reached some zones it would be a point and click where you could talk
+to npcs. There was this underground cult and at some point you would
+reach them and their leader would throw you in some alternative
+dimension with beings comparable to gods and stuff, and everyone was
+data. There was a video essay on it which was i think a couple hours
+long."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

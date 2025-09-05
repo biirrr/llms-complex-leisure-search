@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [1998] [Sport] What snooker game is this?. Hello, i'm
+searching for a game. I even found a video of it i think. [https://www
+.youtube.com/watch?v=Bi1gIkBHOqc&amp;list=PLAfCA5sWkrafjy1od\_vfCd7K\_
+87j7j-Db&amp;index=10](https://www.youtube.com/watch?v=Bi1gIkBHOqc&amp
+;list=PLAfCA5sWkrafjy1od_vfCd7K_87j7j-Db&amp;index=10) The name of the
+game this guys has in the description brings up nothing. Very simple
+Pool/Snooker/Billiard game. Set on a green table, in a dark black
+void, with smooth jazz playing at all times. The graphics were not too
+simple. The game was fully localized in English. Possibly has a demo
+disc, as i remember only being able to play one or few stages. There
+was no story, no artwork, no dialogue. Just a plain table game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Vectrex] [1982-84] Game similar to Asteroids where you
+protect something. I recently went to a videogame museum of sorts
+where they had two Vectrex units, each with a different game, but I'm
+unable to find one of them. The game looked and played fairly similar
+to Asteroids in which you control a ship with a rotatory movement.
+However instead of having to shoot at asteroids you have to protect a
+series of triangles (I don't know what they were supposed to
+represent) in the center of the display, ships will come from the
+sides and try to steal the triangles and you have to shoot at them to
+prevent them taking the triangles off-screen, if you run out of
+triangles you lose. That's all I know about the game, obviously being
+on the Vectrex the graphics are composed by vectorial lines. The date
+of 1982-84 it's because from my investigation every official Vectrex
+release happened on that timeframe, however I wasn't able to find it
+and I'm beginning to worry it may have been an unofficial release done
+at a later date but perhaps I've just missed the game. One thing I
+have to say is that the unit running this game had an overlay over the
+display with the name """"""""Web Warp"""""""" however I've searched
+that title and apparently it's a very different game with a
+perspective more similar to Tempest. The image attached is the unit in
+question that was running this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

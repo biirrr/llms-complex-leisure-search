@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1997-2002] Browser Game. Dark Fantasy. This was a PC
+browser game that I used to play when I was maybe 10-12. Which would
+place it in the years I listed. It was a Dark Fantasy/Vampire game. I
+believe the name was Shadowhunter or something similar. Could be wrong
+here. It had a point and click style of combat. Click on ability,
+click on attack. Etc. Still images for combat. EG. If you were
+attacked by a vampire it just showed a picture of a fanged vampire.
+You could play as different class of creatures. Vampire and Shadow
+were the ones I can recall off the top of my head. It was a browser
+game that was actually a website that made two browser games, the
+other one was something like Bloodlines that was much more
+graphically/mechanically advanced."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

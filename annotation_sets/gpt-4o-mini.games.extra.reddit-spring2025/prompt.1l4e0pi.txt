@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Around 2017-18?] JRPG flash game with an action bar
+that determined turns. The image shown is the game i'm looking for, I
+just can't remember the name. I think this game has a sequel too if
+that helps. The full JRPG party included 2 guys and 2 girls if i
+remember right (The dragon prince protagonist, a blonde mage that used
+guns i think, a 3rd party member i cant remember, and a demon). The
+bar on the left determined whose turn it was and certain moves/skills
+affected the speed of how fast you went up the bar or how far down you
+start at the bar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

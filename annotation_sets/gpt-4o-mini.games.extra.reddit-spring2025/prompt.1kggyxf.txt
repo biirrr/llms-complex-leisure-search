@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2000s] 2D Game where you travel down a cave on a
+strange planet collecting plants. Platform(s): PC Genre: 2D
+sidescroller-like, but horizontal Estimated year of release: 2006
+Graphics/art style: detailed and colourful 2D art, different color
+palettes and graphics for different stages Notable characters: I think
+you played as a female character and from time to time met your female
+colleague after you completed a stage Notable gameplay mechanics: I
+think you had to collect information on plants or other lifeforms in
+an ever descending cave to progress Other details: I must have played
+this game in the early 2000s. I think you were a female scientist on a
+strange planet, descending into a cave. It had something to do with
+the alien plant life in this cave. Every so often you came to an
+opening, where your explorer colleague waited for you. The plant life
+and the mood and color palette changed when you got deeper. Im sure I
+played it on a PC but not if it was Windows or web-based."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

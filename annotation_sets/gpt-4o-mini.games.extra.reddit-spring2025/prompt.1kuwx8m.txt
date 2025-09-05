@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2010's][PC] 3D Platformer first-person action game. a game
+where all the levels are white, the enemies and player are all black,
+you have a sword, sleeping darts, buzz saws, and more weapons, its
+kind of a stealth game, you can wall run, its only on computer, and
+its made with unity, its first person and 3d and all enemies look the
+same. there's a level that's a big house and another level that's sort
+of a small city and you have to kill all the enemies to clear the
+level"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

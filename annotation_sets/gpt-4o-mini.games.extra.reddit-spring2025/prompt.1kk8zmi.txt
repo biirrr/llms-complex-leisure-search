@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2015?] I could very well be making this up, but I
+think its real. I very well could have dreamed up this game and if I
+did that is very concerning but it involves like managing little blobs
+of like flesh or something? Its like you can lead them around and
+theres a thing they come from. And theres also a bigger mass of
+flesh for some reason. Any idea what this could be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

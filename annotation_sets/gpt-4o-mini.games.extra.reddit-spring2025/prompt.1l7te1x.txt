@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000s] A cartoonish vehicular combat (?) game. I
+remember playing this one game years ago which i cant quite remember
+the name of, however, I do know some details about it. Here's what I
+remember - I sort of remember the company called Rage being associated
+with it, they were either the devs or the publishers, i cant recall -
+It was in 3d person perspective but a very distant cam view, almost
+top down 3rd person - The objective was to deliver packages within a
+time limit, as you navigate a busy road and avoid the other cars in
+traffic, bumping into them would cause your vehicle to take damage and
+break down. - Before you start you could choose between
+""""""""Good"""""""" and """"""""Evil"""""""". If you chose good, you
+deliver boxes. If you chose evil, you'd be throwing fireballs that
+dealt damage. - There's three levels of vehicles you could drive. Lv 1
+was a micro, Lv 2 was a lowrider and Lv 3 was a monster truck. - As
+you navigate the traffic, you could pick up some parts. If you manage
+to pick up all the parts, your vehicle transforms into a tank, and you
+could just run over all of the traffic. I tried using GPT to find it
+but couldn't. Please work your magic, folks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2020's] Romance Visual novel with animal
+characters [Mobile??]. So, this was a romance visual novel taking
+place in a high school I believe. The objective was to romance one of
+the animal characters. I think there was a test mechanic in one of the
+classes, and you could choose to cheat or not. You could choose who to
+sit next to in classes. And I remember a few of the charactors. There
+was this wolf boy who was kind of emo and wrote poems and stuff. There
+was a snake girl, who was a nerd but really into music. And a goat
+girl who was top of the class and everyone envied her. That's all I
+remember and I'd love to find it to replay it!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

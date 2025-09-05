@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc games] [00s-2010s] one typing game, perhaps bbc? And
+another educational game.. The game was a huge platform thing I think.
+You would select which key stage you were in and would then pick an
+educational game. In my head it was either languages or maths. I
+remember there being cartoon people. There was a blonde girl with
+pigtails. There was also a character with braces. I remember one of
+the mini games being based in a bedroom that had bunk beds? Does
+anyone have any ideas? (Edited as Id accidentally broken group rules
+but asking about two games! So sorry!)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

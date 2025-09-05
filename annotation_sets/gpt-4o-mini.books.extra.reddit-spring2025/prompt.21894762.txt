@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Diary written by 12 year old African American girl living in
+New York in the early 90s [s]. I read this when I was in middle school
+in 1993 and I chose it to take home from the school library. She lives
+in New York and writes about her days and what it is like living in
+New York. I believe the cover was a shade of pink and the girl who
+wrote it was on the cover. Not sure if this is a SPOILER but she gets
+her period in one if her entries."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

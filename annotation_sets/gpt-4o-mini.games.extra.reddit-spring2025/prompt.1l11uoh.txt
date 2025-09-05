@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows physical release] [late 90s early 2000s] Breakout
+clone with 3d graphics and featuring a bunch of powerups. had a sort
+of industrial art style but I think it also had a bunch of various
+levels. I had the game as a physical disc but I got rid of it long
+ago, I was able to use it on two very old computers back when I had
+it. If I had to guess it was windows 7 and maybe windows xp on the
+older computer? But it could've been newer or older than that because
+it's been awhile since I've seen it. I think it also had a space
+travel theme with like each group of levels being a planet?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

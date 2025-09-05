@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid 2000's] A Compilation of Minigames. Hey I'm looking
+for a game I had on a CD that I played as a kid, it was like multiple
+games in one all featuring the same looking characters and artstyle,
+the games I remember are as follows: 1. One of those games where you
+tilt the board to get a ball to go from point A to point B without
+falling off 2. A racing game that was somewhat mario kart-ish 3. A
+game where you're shooting down UFO's or something of that sort I
+remember the characters looking quite odd but not much else about
+their actual appearance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

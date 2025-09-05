@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Epic Adventure fiction maybe Fantasy? Adult Female mc
+orphan? Trained as prostitute/ spy/assassin. Set in ancient china or
+similar. Friends with emperor's (Son of Heaven?) sister? [s]. I read
+this book/s i think 4 to 10 years ago. It was quite epic. The mc was
+trained in all sorts of things to help be spy & assassin. I
+specifically remember something she used to jam in cracks to help
+climb walls. To the public she was prostitute, a highly trained and
+highly sort after one. Grew up as orphan or similar where they were
+all trained to help with the assassin & spy thing. I think she got
+into the Emperor's palace and became friends with his sister. I dont
+specifically remember much magic except MAYBE something to do with
+music or sound. It would be odd if there was no magic though, because
+thats pretty much all i read (Fantasy/SciFi) I dearly want to read
+this again. I hope someone can help. TIA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

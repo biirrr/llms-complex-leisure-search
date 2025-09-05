@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox] [2018-22-ish] floating island exploration game.
+**Genre:** adventure/exploration/turn-based **Release:** 2018-2022
+(might be earlier) **Art style:** Stylized/ breath of the wild-esque
+(blocky colours and the like) **Characters:** play as man or a woman,
+(I think they're in a relationship, or develop into one). man has
+brown/dark hair while the woman has blonde(?) hair **Gameplay:** I
+think it has turn-based elements to it, where you have to fight old
+robots who are looking for/hunting you down as you are a fugitive I
+think? also exploring other floating islands on the planet for parts
+and lore, to repair your ship which you have crashed. (you can also
+enter your ship to talk to either person and sleep/shower/do
+activities in) another aspect to it are these jet boots? basically
+lets you dash around the island collecting things and letting you fly
+occasionally(?) also there is a kind of corruption which you have to
+get rid of to purify the island/cleanse the island likely to get to
+something important"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

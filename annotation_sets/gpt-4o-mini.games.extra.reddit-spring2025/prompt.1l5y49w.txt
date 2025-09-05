@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360] [2007-2010] Snowboarding game. I have searched
+for a little to find a game I played as a young kid but have come here
+after not finding answers. I dont remember much of the game but I'll
+lay out what i do Firstly, obviously its a snowboarding game. I
+remember a heavy emphasis on bright colors like pink or yellow. I do
+remember it had many things to customize like the boards and the
+player character. I dont remember the song specifically but there was
+an older song my mother recognized during the opening of the game so
+may from 1970-80. I apologize i cant provide any more information"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

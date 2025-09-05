@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][unknown] ladybug girl. Trying to find this mobile
+game for ages, you play with this little ladybug/nerd girl flying on
+machines with the first one being a cardboard box with rockets on it,
+here a ilustration of her, the game had some cute sprite work to
+follow, from what i remebered the game got discontinued long ago and
+ever since that, i been seeking some repository of old games or apks
+to end up not finding it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

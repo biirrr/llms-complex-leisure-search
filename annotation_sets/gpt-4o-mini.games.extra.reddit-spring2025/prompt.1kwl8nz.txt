@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] Point and click game about exploring an
+island after crash landing and eventually going back in time?. I
+remember the game being called time machine but google searches arent
+showing anything relevant so that might not be the actual name. It was
+a 3d point and click game. It started out with you playing as a female
+reporter? crash landing on an island while flying in a helicopter. The
+initial goal was to try to find help to get off the island but over
+the course of the game you explore and discover more and more strange
+things about the island. At some point I think you discover some
+village of tribe people living in tree houses? They might have also
+been giants. Eventually I think you find some different hidden
+civilization , maybe through teleporting there? I didnt speak english
+at the time so I had my mom help me while playing the game, she
+printed out a big walkthrough sheet and I remember one of the puzzles
+being about matching the name/info on some tombstones."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

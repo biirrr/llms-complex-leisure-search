@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][Early 2000's-2010's] Dice based RPG. I know this
+is an early android game from the early era of smart phones. What I
+remember is the green/blue dice were your party and the red dice were
+enemies. You would battle in these stages using the grid. Each side of
+the dice could have different abilities such as attacks and defense
+denoted by the symbol on the die face. This is the only screenshot I
+have of the game and I don't remember much more than that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

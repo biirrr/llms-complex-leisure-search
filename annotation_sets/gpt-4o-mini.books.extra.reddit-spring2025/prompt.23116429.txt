@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance. Read on kindle unlimited before
+2019. Female lead locked up to paint portrait of man's deceased wife.
+Man also has albino son locked up. Male lead is son's companion.
+Spoiler.. I thought I'd read this in the last 3 years, but I can't
+find it in my KU list, which goes back to 2019. I think this book is
+part of batch of linked standalones, but not sure. MFC is commissioned
+to paint a portrait of a peer of the realm wife (Don't remember his
+rank). When she arrives to consult, she finds out that the wife has
+actually been dead for sometime, and the man (crazy man) locks her in
+a room until she can get the portrait complete. MMC is either poor or
+not a first son, but has nowhere to go, so he plays unpaid companion
+to the albino son of the crazy man. He discovers the girl while
+putting out rat traps due to the sounds he has heard her making. He
+frees her to come to the rooms he and the son use (servants stairs or
+secret passages) The albino son isn't allowed to leave the house
+because he is a ""disgrace"" to his father. He is weaker, but not a
+true invalid. He also makes figurines from wood. (Spoilers) they all
+get free at the end when the portrait reveal angers the crazy man and
+a house fire results. That's most of what I remember. Other minor
+memory : MFC borrows a green dress that belonged to the wife for the
+painting. I don't recall MFC's life circumstances that lead to her not
+being missed during her imprisonment. Nor do I recall any of the
+character's names right now. Thanks for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

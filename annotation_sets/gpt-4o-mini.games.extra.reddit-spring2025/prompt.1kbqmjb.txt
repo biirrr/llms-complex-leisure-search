@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo DS][2006-2008] Vet or animal clinic game. I had a
+DS game about being a vet and opening a vet clinic. Unfortunately it
+was stolen (along with all of my other games and DS) and now I'm
+trying to track down a replacement. It was about a girl coming back to
+her grandma's ranch or home and being their vet. I think her name
+started with an """"""""M"""""""" like Morgan or something but I
+hadn't played it for a while so I'm not 100% sure. You had dogs, cats,
+rabbits to diagnose (probably other animals too but I didn't unlock
+them) and they were on a table with all the tools. Eventually it gets
+from diagnose with 1 tool to 3 tools. I don't know if washing the
+animals clean was a part of it too, I might be remembering Nintendogs
+for that. All the games that pop up when I look aren't the right
+graphics or the story isn't there. I think it wasn't a popular game or
+I'm not recognizing it since it's been awhile. Please help me find the
+name, it's driving me nuts."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

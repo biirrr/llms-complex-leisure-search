@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult SciFi. Small group of humans abducted by advanced race
+that put them in a simulation to solve alien genetic problem. Read
+2003-2010. Spoilers.. I read a novel between 2003 & 2010 which was
+probably at least ten years old at that point. It was most likely
+published in the USA and was in English Spoilers abound below... It
+was about a small group of humans who were captured by an advanced
+race that put them in a simulation. The simulation looked good - but
+all the machines in it were non-functional. The group trekked through
+the simulation for some time. The advanced race was from the past, and
+they were time-travelling into their future several tens or hundreds
+of thousands of years at a time - and they were looking for a newly
+developed civilization or intelligence that could solve a problem that
+had developed with their genetic code. The advanced race was also
+utterly amoral in every possible sense and were fully intending to
+wipe out every civilization they found which was not advanced enough
+to solve their problem. There was at least a man & a woman in the
+party - I think there may have been 2 or 3 others. The woman may have
+been the daughter of a planetary leader - whose country was wiped out
+by the callous placement of a beacon in their territory from a
+galactic federation. This last plot point might be from another story
+but I think it is from this one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

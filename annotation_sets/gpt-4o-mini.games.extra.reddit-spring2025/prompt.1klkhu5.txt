@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010 Maybe] Game where you used math to defeat
+monsters. I don't remember much about this game as I was quite young
+and I don't have a good memory from back then but the game was old,
+played on a computer, i think it was around 2010 or older not entirely
+sure, the art style was rather dungeon explorer esc, you used math to
+defeat monsters that you would find standing still in a dungeon
+hallway. That's all i really remember about it, i do remember that i
+played ALOT of it when i could. if anyone can help find this thank you
+so much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

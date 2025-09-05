@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2013] Need help finding an old game.. It was a top
+down game where you had to swipe to connect these slime pieces
+together on a picnic setting. I think eventually as the end credits
+they take over the world but I can't fully remember. Whenever you
+connected 2 or more slimes only 1 face would stay I believe"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

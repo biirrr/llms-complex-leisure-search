@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][FLASH][2006-2012 A top-down shooter with alive
+vegetables. Platform(s): PC Genre: top-down shooter Estimated year of
+release: 2006-2012 Graphics/art style: cartoon Notable characters: guy
+in blue suit and blaster, alive vegetables Notable gameplay mechanics:
+top-down shooter, clear the room, boss fights Guy in blue suit kills
+alive vegetables with laser blaster. You must clear the rooms out of
+vegetables, and in the end - fight with BIG BOSS The room-arena was
+usually square and green, or gray. Also, if you die, game over screen
+shows fat character on mountain of food"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

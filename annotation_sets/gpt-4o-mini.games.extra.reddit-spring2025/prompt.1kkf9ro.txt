@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020's?] FPS robot game. I saw a video on RedNote of
+this game where there is this anime styled girl in a box in the corner
+yelling for you to """"""""kill all the robots"""""""". Then you drop
+down into a room and just start blasting and kicking them through
+doors. Pretty sure you chug a soda as a buff too. It was really
+colorful and vibrant with a retro style. The style was similar to
+classic Doom. I've tried searching for it on Steam, and google. Looked
+back through my RN liked videos. I just can't seem to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

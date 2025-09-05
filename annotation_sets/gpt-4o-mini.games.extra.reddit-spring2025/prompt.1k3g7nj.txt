@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS] [2000s-2010s] Match 3 game with golden light/liquid?.
+i used to play this game on my dads ipad, and its driving me crazy
+that i cant remember it! i want to say it had a similar aesthetic to
+temple run, but was a match 3 game where i think the goal was to make
+a match on every part of the board. when you had made a match on a
+certain square, its color changed to golden, but tiles would still
+appear there. i unfortunately dont remember much about the actual
+progression, just levels themselves!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

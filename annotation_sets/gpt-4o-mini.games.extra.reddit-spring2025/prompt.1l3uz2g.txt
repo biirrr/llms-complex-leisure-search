@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [&lt;2019] Pink horse hitting game. theres this game i
+reaaaally wanna find from my childhood, i thought it was called
+""""""""patina hunter"""""""" but i cant seem to find it when i search
+it up, maybe thats not the name then so its like, you're by default
+given a pink horse doll, and you hit it (with, at first, hand ig?) and
+then candies fall from it, which is currency, and you use that to buy
+other hitting materials like guitar/baseball bat and stuff, and once
+you destroy the doll, you'll be given another doll to hit"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

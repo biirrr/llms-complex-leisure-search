@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2011-2013] platformer angel collecting cats game?.
+Platform(s): PC Genre: Platformer Estimated year of release: 2010?
+Graphics/art style:very simple pixel art, white background black
+borders nothing colored in but the cats which were changing rainbow
+and spinning. The picture i attached basically looks just like it.
+Notable characters: angel you play as and rainbow cat heads spinning,
+no dialoge as far as I remember Notable gameplay mechanics: you jump
+and fly as the angel through the level and collect the cats . It has
+platforming challenges. I think you could fly. Other details: it had
+really unique music that was very loud. I believe i downloaded it from
+a site like gamejolt or itch.io. searching it up on Google returns no
+results. I remember seeing videos of this game on the internet and
+that's how I learned about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

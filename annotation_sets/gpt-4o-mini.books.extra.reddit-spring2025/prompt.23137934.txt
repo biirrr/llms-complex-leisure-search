@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction - Mother of a Middle Eastern girl is murdered and
+dropped on her daughter's doorstep with note pinned to her. Read
+around 2018.. I read this around 7 years ago when I was in 5th grade.
+I had always thought this was a scene from “The Breadwinner” series,
+but recently I came to realize that this never happened in those
+books. This scene stuck in my mind because I was traumatized by it as
+a young kid reading it. This is what I can recall: A girl and her mom
+live in a country in the middle east and the Taliban have a lot of
+power and are very feared. The girl and her mom are working to start a
+school. The mom gets invited to this meeting with some authoritative
+people about the school, but it turns out to be a trap. The mom is
+murdered (it never said how, just that she was killed) and dumped on
+the doorstep of her home. Her daughter opens the door to find her dead
+mother lying there, with a threatening note pinned to her shirt. The
+daughter must flee her home and go in a journey to a safe place."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery/ Romance. Guy is a football (soccer) player
+and also a woodworker, he lives in isolated barn/ house. Girl has just
+recently moved back home amidst death of her grandmother? Read around
+2016-2017.. Seemed like a newish book when I read it about 3 or 4
+years ago, I remember small details like the guy's football team goes
+to a bar that looks like a warehouse, and he has some connection to
+the girl's grandmother. He also lives in an isolated barn/house where
+he does his woodworking."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

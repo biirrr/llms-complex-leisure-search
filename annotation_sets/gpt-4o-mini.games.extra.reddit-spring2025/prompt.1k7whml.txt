@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2000][RTS] Fantasy game similar to AoE, Cossacks.
+Hi! Lately this game I played during my chilhood has just come back
+into my mind and I just cannot remember what was its name and where to
+find it. So, going to the point: it was an RTS game (more or less
+released in the same period as Cossacks 2 i think, and Imperivm V I
+could guess) set in a very heavily-based fantasy world. I do not
+remember much tbh, there where like some white (or black) towers
+scattered around the map with red crystals, I think there was a
+""""""""hero"""""""" system and one of them was some sort of magic
+knight with white/red armor... the architecture of the buildings was
+very fantasy/mystique, not medieval fantasy (I dont even know how to
+describe it) There where a couple of factions I think, one white
+themed and the other one more darkish themed. Sorry, my memories about
+it are very vague and I can hardly describe it. Thanks in advanced!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

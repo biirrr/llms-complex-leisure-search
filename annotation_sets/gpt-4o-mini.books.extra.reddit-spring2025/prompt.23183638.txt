@@ -1,0 +1,39 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction - Two elderly brothers live
+together, one is blind; other brother hoards newspapers, has orange
+peels all over house because believes vitamin C will cure blindness.
+Read 1980s. Spoilers.. Hey, all! So I'm trying to help my aunt find a
+book she read back in high school. This would've been in the '80s,
+although she doesn't know for sure when it was published. She read it
+in the US, so it may have been published there. Here's what I know of
+the plot: There are two brothers, both of them older men (I think
+maybe elderly), who live together. One of the brothers is blind, so
+the other brother helps take care of him. The seeing brother believes
+that the blind brother's sight can be healed or restored, and keeps
+giving him oranges to eat because he thinks the Vitamin C will cure
+his sight. Because of that, they have orange peels lying around the
+house everywhere. The seeing brother also hoards newspapers and has
+stacks of them all over the house. He wants his blind brother to be
+able to read them all himself and catch up on all the news he missed,
+when he can see again. SPOILERS AHEAD: At some point, the seeing
+brother has a heart attack and dies. Because the blind brother doesn't
+have any one to take care of him, he also eventually dies alone in the
+house. Apparently, some people end up finding the bodies and are
+trying to sort out what happened and why there are newspapers and
+orange peels everywhere, and they believe the brothers were hoarders.
+I don't know if this happens at the end of the book, or if that's how
+the book began and the rest was them figuring out what had happened.
+My aunt said she thought it had a sort of moral to the story of not
+judging things by what you see, when you don't know the whole story. I
+think that's everything. Any help would be appreciated. I'll send any
+suggestions to my aunt. Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/maybe early 2000s] Puzzle game situated in an
+African tribe. Platform(s): PC Genre: Puzzle, """"""""tabletop""""""""
+Estimated year of release: 90s, but maybe early 2000s (unlikely
+though) Graphics/art style: Semi-realistic (I think). The setting was
+very tribal and rustic, with parts of the UI made of carved stones
+etc. The background during gameplay was of an African Savannah.
+Notable characters: the only character I remember is the guy that
+plays the game with you. He was always sitting on the ground in front
+of you. I think he sometimes reacted to your moves. Notable gameplay
+mechanics: I don't really remember how the gameplay loop went, but you
+had a stone or wooden board covering the bottom part of the screen. On
+that board there were one or two rows of indentations where you had
+some rocks in them. I think you had to move those rocks around these
+holes, but I don't remember the rules of the game. Other details: I'm
+not sure but maybe this game was made by Sierra. I had this games on a
+CD-ROM back then alongside some other Sierra games. But since I had
+games made by other companies, I may be misremembering."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

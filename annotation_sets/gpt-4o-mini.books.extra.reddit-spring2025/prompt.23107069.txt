@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction. Kid abandoned by mom in New York City hotel
+room, wanders the city hungry and homeless. Read early 2000s.
+Spoiler.. I read this book in the early 2000s in elementary school,
+but it was probably published at least a decade earlier. Kid was
+living in a hotel room with his pregnant mom, and she ends up missing
+one day so the kid is panicking. Big scene about hotel staff pounding
+on the door and eventually the kid runs out of food or decides to just
+leave - talks to a homeless man on a park bench and is maybe being
+followed by someone? Not sure on the following but definitely a sense
+of panic and urgency as he goes along his solo journey. I remember the
+cover being sort of beige and impressionist - fuzzy, just like this
+memory lol. <<<<< (view spoiler) [>>>>>>I don't remember how but kid
+is reunited with his mom and the end and meets his new sibling. Mom
+disappeared because she was having the baby. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

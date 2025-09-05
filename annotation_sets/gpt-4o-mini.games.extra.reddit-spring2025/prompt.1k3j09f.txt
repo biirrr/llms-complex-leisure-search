@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile/Android] [2017/2022?] 2D game/virtual pet? Where do
+you have to take care of a depression person. Platform(s): Mobile
+Genre: Virtual pet i think Estimated year of release: 2017 i thing
+Graphics/art style: Depressing and gray, it was 2d Notable characters:
+The main character you have to take care of has a head bag with a
+drawn face Notable gameplay mechanics: You could put the character to
+work, sleep, bathe it, play on the PC and other things. You could make
+walking between rooms. When you got out of your room you were in an
+ugly and rotten hall and you could touch the neighbor's door but
+nobody answered and take out the garbage I think Other details: When
+you uninstalled it and you would install it again the character told
+you how long you were without it and things like that, asked you very
+existential things and so. When his happiness ended or is very
+depressed, when you enter the game the character is not anymore and
+you lose or something because I don't remember how to return the
+character lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

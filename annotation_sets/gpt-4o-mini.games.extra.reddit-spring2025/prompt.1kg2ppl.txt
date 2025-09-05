@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] 2d sidescroller with 3 playable characters who
+each see the same story from a different perspective. Platform(s): PC
+Genre: 2d sidescroller action Estimated year of release: At least
+2020, could be a lot older though, I just played it around that time
+Graphics/art style: 2d pixel style. It was a pretty bright and nice
+looking world. Some stages where outdoors some indoor. It had a
+futuristic setting. Notable characters: The first character you play
+is a woman who is a melee fighter. The second one you unlock is a
+female robot who has a rocket launcher or something like that. The
+last one is a dude, I think, that shoots stuff or something? I don't
+know anymore. At first you can only play the melee woman. After her
+story you unlock the robot and after that you unlock the dude I think.
+Notable gameplay mechanics: The game is very linear and short. Every
+characters story takes around 2 hours, I think. You basically just
+walk from left to right and there wasn't much verticallity. You move
+via WASD and all the attacking is done via mouse. The melee woman
+jumps straight to the enemy when you left click and further left
+clicks attack the enemy and right click activates a shield around her.
+You could mark enemies with right click with the robot and after that
+all the marked enemies get shot by rockets. The combat felt very
+satisfying and fast. Other details: The stages vary slightly for each
+character. Some stages stay the same but some bosses are different for
+each character. For example the playable robot woman is a boss for the
+melee woman, I think. So, each character has a slightly different
+perspective on the events in the game. The bosses are very creatively
+designed. One of the bosses is an orchestra or a band of some sorts,
+if I remember correctly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

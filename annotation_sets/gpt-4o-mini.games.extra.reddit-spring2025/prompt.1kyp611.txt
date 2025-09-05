@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3 (+older?)][1990s??] pixel fighting game where one
+fighter was a brunette in a metal bikini. Platform(s): played on ps3,
+available on others?? Genre: 2d fighting game
+(""""""""fighting"""""""" as in you battled enemies across various
+levels) Estimated year of release: could NOT tell you. maybe 1990s???
+Graphics/art style: pixel, not of high detail Notable characters:
+brunette fighter (wielded a metal sword?) in a gold and silver? metal
+bikini. Notable gameplay mechanics: you killed enemies and progressed
+onwards. Other details: i want to say one of the levels had a
+brownish-tanish floor to it. i remember very little about the game's
+background, as i straight up didn't know it (and still don't)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

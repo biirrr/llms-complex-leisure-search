@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] A fantasy game where you shape your powers to be
+good and evil with your actions. Hello everyone, I'm trying to find a
+game which I assume was released around 2012-2015. Your protagonist
+was a man who was the child of(?) a powerful person and his powers
+were beginning to emerge but his actions would shape his powers
+towards good or evil. It was in 3rd person and was a story based game,
+didn't have online options. I feel like the word """"""""Son""""""""
+was in the title but I can't be sure. Would be very happy if you
+remember the game, thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

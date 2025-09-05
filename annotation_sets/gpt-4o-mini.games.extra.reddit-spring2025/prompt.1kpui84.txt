@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][UNKNOWN] A game about saving a blond haired girl from a
+cult.. Platform(s): PC Genre: Horror Estimated year of release: I'm
+unsure when. Graphics/art style: Pixel Notable characters: Red haired
+dude wearing a leather jacket, The grim reaper, blond haired girl
+(She's apparently a goddess but doesn't know), A cult that wants to
+sacrifice the blond haired girl to summon a demon they worship.
+Notable game play mechanics: It's mainly point and click, also first
+person, but it is animated, when working with death/the grim reaper
+you need to kill undead enemies and summon him with a special coin so
+he can put them to rest once more, the second game (The one I'm
+describing) the main character you play as sacrifices his life to fend
+off the enemies (Which leads to him becoming a skeleton to continue
+fighting thanks to death giving him a little more time until the blond
+haired girl does something that stops the demon) while fighting with
+the grim reaper so the blond haired girl can defeat the demon. Other
+details: Besides the second game there is one more afterwards, the
+first one is kinda meh but you accidentally kill the blond haired girl
+when trying to find her in a cave because she goes insane from what
+she sees, but she comes back. Not much other then the fact that I
+swear that Manlybadasshero played it, but I cannot for the life of me
+remember the name of the game or find the videos he made about it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

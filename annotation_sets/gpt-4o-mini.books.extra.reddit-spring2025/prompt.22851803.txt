@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller about a Serial killer of women (brands
+numbers) and a female detective protagonist who is trying to find him.
+Amish woman. Snowed in. Read in 2014-2015. [s]. read the book around
+8–9 years ago. borrowed from a friend. about a female detective (i
+think) in search of a serial killer, who only kills women, and brands
+numbers on them in the sequence he kills them. Roman numerals I , II
+and so on and so forth. there is a final showdown with the serial
+killer and the protagonist in a remote cabin where she almost becomes
+his next victim. the town is small and snowed in. Vague detail : one
+of the murdered women is an Amish woman who left the community (hence
+why it took some time to find her, since no one reported her missing)
+and another one a pregnant woman (it is possible that it was the Amish
+woman who was pregnant). Please help me find this book, i have
+searched for it years on end, with no avail."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

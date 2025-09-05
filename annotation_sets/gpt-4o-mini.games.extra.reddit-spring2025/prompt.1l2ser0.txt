@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Adobe Flash Player old game][2000s] A game about a
+parrot. a game last time i remember playing was when i was six years
+old and that game was about a parrot trying to steal stuff from its
+owner in the same room, the only word i can remember from the name of
+it was """"""""polly"""""""" (im not pretty sure about that too) im
+trying to find anything about the game but sadly i cant"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

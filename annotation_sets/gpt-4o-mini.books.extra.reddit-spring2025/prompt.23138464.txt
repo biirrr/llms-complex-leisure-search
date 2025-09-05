@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery (I think book). Girl lives in secluded Mormon
+like colony. Read 2017-2019.. Read this book around 2017-2019, it was
+a book where the people on the outside of this colony were called
+""outsiders"", the main character (who I will call ""X"") is in
+therapy afterleaving this colony, the colony had a barn which catches
+fire. The main guy had several wives including one called ""Honey""
+who was a 12-year-old girl. Everybody considers each other their
+brothers and sisters."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

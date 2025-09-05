@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] 2D platformer with a yellow oval character, blue
+background, spikes and lava, and level editor. I'm looking for a 2D
+platformer game on PC, probably released between 2004 and 2011. The
+main character is a yellow, oval or round-shaped figure with eyes that
+doesn't change form. The game is in pixel art style, with a light blue
+background and gray blocks. There are obstacles like spikes and lava.
+There were multiple levels, and it was possible to create your own
+levels. The game was relatively unknown."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [UNKNOWN] Mystery game I cant remember. It's pixel
+art, and it takes place in a Gothic-style mansion. You're invited to a
+party with other people you don't know. A few minutes after arriving
+at the house, you go up some stairs and see the murdered host couple
+in a room. Shortly after, when you enter the house's bathroom escaping
+from the others guests who think youre guilty, you travel back in
+time while youre washing you hands and see that another person has
+died instead of the couple. So you travel back in time and see several
+people die without knowing what's happening. I seem to remember the
+mansion's floor being made of black and white square tiles =O<û"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

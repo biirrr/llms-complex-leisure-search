@@ -1,0 +1,39 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS?/Android?][Forgotten Shark survival game] Please help
+me find this game using my description. I remember playing it last
+around 2016 so it was probably out before that year. But the game was
+a side scrolling game, similar to hungry shark with all the shark
+hunting themes but you could only go right and the atmosphere was a
+lot darker. The Main obstacle was an endless amount of black
+minefields that were chained to the sea floor, which you could see and
+touch if you went below the water enough, although there couldve been
+more types of hurdles but I forgot. You controlled this big grey shark
+through really black muddy water, maybe even just blackness for water.
+And similarly the sky was this grey cloudy and gloomy atmosphere,
+potentially because it was night. The rest of the background aside
+from the sky were distant warships and lights, probably meaning there
+were buildings far back and indicating that the game was taking place
+in a harbour. The art itself was pretty realistic and not cartoony,
+the shark wasnt a sprite nor was anything pixels, instead the mine
+and shark were 3d rendered and animated nice while the background art
+was flat. I also vaguely remember there being alot of metal being
+involved in the ui, like the bolts and yellow markings type of metal
+which only further added to the really grey atmosphere of the game.
+Ive forgotten if there was any ultimate goal like progressing through
+levels or whatever, but I vaguely believe that it was a record score
+game like flappy bird. Other than all that. Yeah everything is just
+vague to me, I played this basically half of my life ago so there
+might be a lot of wrong information or straight up made up stuff and
+ALOT of missing stuff. Please, if you also have a vague idea of the
+game maybe leave a reply or super specific question that might
+potentially jog my memory a bit"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

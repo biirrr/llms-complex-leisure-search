@@ -1,0 +1,41 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci Fi, Romance, Short Story. Life on Space Ship - Day
+Shift & Night Shift (Romance). I read this story in 6th grade and I'm
+almost 25 now so it was about 15 years ago. It was a short sci-fi
+story in a collection of short stories. The story is about some people
+traveling to a distant place (like a planet or something) in space in
+a giant space ship. The ship is run by the people on it. There are two
+shifts on the ship. A night shift and a day shift, so to speak. The
+night shift and the day shift people never interact because they are
+pretty much awake during different times of the day. Actually, I think
+it was against ship rules to talk to each other. The night shift and
+the day shift people share the same rooms because when the night shift
+person was working, the day shift person was sleeping and vice versa,
+but there was never any trace that the other person used the same room
+because the ship's cleaning system made sure of it. The story was
+about a guy that becomes interested in the other person that uses his
+room when he is awake and working. I think he somehow figures out it's
+a woman. They somehow start leaving each other little hints in the
+room that the ship's cleaning service can't find. One way, I remember
+was when the woman leaves a note for him in the sink's faucet. She
+stuck it up the faucet hole and it was pushed out when he turned on
+the water. The notes says the name of a book and when he goes look for
+the book in the ship's library he finds other clues etc. They started
+to feel like they wanted to meet each other but they couldn't. In the
+end, he switches from the night shift to the day shift because one day
+the ship managers were asking for a volunteer to switch to the day
+shift because they were short on workers for something and the guy
+volunteers even if it meant pretty much leaving behind his night shift
+life behind and never seeing those people again. It's was kind of
+eerie but so interesting! I would love to read it again, so if anyone
+knows the name please tell me!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

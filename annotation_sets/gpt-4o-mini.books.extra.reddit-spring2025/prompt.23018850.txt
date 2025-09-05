@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Early 2000s Children’s book about a mother and daughter’s
+love.. There was a book that I used to read with my mom as a child
+that was about a mom and her daughter and how even though they were
+different they still loved each other. It may have been written in the
+80s or 90s but I read it in the early 2000s which was my childhood. It
+had beautiful illustrations and the characters were black. From what I
+remember it was a pretty easy read. It almost reminds me of the little
+books you read at school when you are first learning how to read. At
+some point in the book they talk about their favorite colors and the
+mom liked all types and the daughter says “I like pink and that’s
+all”. I think at some point they ride bikes or skate together. The
+daughter ends up falling and hurting her chin and the mom tells her to
+try again. The last detail I remember is that at one point they talk
+about how the mom likes to wake up early and the daughter sleeps late.
+And then the daughter says “but she tempts me with pancakes and I take
+the bait”. I really hope someone can help me find it. This year will
+be the 5th anniversary of my mom’s passing and I’d really like to find
+it so I can purchase a copy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction, Mystery. Young girl has bad eyesight, almost
+blind. I specifically remember the word myopia being used to describe
+her condition. Lives with her 2 grandfathers in an old fire station. I
+believe they have a wiener dog. Read 2010-2015.. I read this from
+2010-2015. I’m trying to remember more details, I know there was a boy
+involved in helping the mystery. The grandfathers’ fire station is
+overwhelmed with junk., they’re some type of hoarders."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

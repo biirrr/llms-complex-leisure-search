@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade fiction. Boarding School, young girl is trying
+to adapt, 1970s or earlier. I recall in the late 70s maybe early 80s
+reading a book about a girl going to boarding school. Unfortunately I
+don't know the title or author and can't recall the plot. I also can't
+recall the main character's name. I believe I got the book through one
+of the school book clubs. I believe it was a early chapter book for
+either 3/4/5 grade readers. Small tidbits I recall: --The girl was
+about pre-teen age. --Her parents may have been recently or in process
+of divorcing. --She did not want to go and had a bit of a time
+adapting. --There was a description early in the book about pine
+needles everywhere. --There was one scene in the book, it was the last
+day before Christmas vacation and four of the older girls in the
+school were dressed in white, carrying candles, wandering the halls of
+the dorm gently singing Christmas Carols to wake everyone up (instead
+of the typical bell/alarm). --I *think* there was part of the story
+that the head mistress had to go away and the assistant who was super
+nice replaced her. --I also remember a moment when the main character
+woke up and her furnace was on which was not typical and she
+appreciated waking up to a warm room instead of a cold one. I've done
+quite a bit of internet searching. I know for sure it is NOT:
+""They'll Never Make a Movie Starring Me"". Does anyone recall this
+book? Grateful for any new information such as title/author/main
+character. Thank you! Kristine"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

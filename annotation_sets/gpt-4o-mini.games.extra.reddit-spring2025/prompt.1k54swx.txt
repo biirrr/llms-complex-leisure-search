@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] A flash arena fighter RPG. Going on a little
+trip down memory lane when it comes to flash games. The game was a
+turn based RPG where you fought enemies in an area. You could also go
+into the wilderness to get some exp but it was tough. One boss I
+struggled with was a girl which magically manipulated two huge metalic
+golems. You had to take them down before being able to attack her."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

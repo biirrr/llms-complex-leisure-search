@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000's] Digimon browser game. Platform(s): It was a
+browser based Digimon game. Genre: RPG with roaming and transition
+into turned based battles i believe. Estimated year of release: I
+remember playing it during the peak of OSRS at the library as a kind
+probably around 2005's or so. Graphics/art style:It was a roaming game
+with HUD I think on the bottom. I remember transitioning into battles
+in a Different background. I also believe the first dungeon or start
+of the game has a sewer level. Notable characters: Digimon characters
+Notable gameplay mechanics: I can't fully remember sadly. Other
+details: Free to play browser game I played along with OSRS during its
+peak at the library. Sadly mostly just remember Digimon and a sewer
+level early on. Not sure if it was like a 4kids or CN website flash
+game they had or something like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

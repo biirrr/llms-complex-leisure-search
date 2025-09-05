@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash/Browser][2000-2010s] a dark and gruesome 2D game
+where you can control a giant mecha robot. Artstyle/graphics:
+characters had a sort of chibi-like anatomy, I think. The entire game
+had very """"""""muddy"""""""" stylistics. I remember that the sky in
+the game was always cloudy and looked sort of realistic. The game was
+also very gory. Gameplay: from what I remember you are initially
+spawned in a sort of a """"""""hub"""""""" location which was a giant
+tree house with territories near it, although they were mostly devoid
+of any activity . You could also teleport to a big city full of
+people. You also had weapons that you could use, landmines that looked
+similar to those in Garry's mode were definitely one of them. Sadly, I
+don't remember what was the goal of the game, nor anything more about
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

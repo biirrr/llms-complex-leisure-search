@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror book. Town of cultists? Read many years ago.
+Ends with... Spoiler. [s]. There is a book I read many years ago. I
+dont remember many details, but i remember that it was about a town of
+cultists, maybe. At the end, most of the people of the town mutate
+together into a blob of flesh with many mouths, and it sings a sort of
+psychic song that draws animals in to eat."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

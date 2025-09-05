@@ -1,0 +1,50 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2008] Prehistoric village manager/life sim game.
+**Platform(s):** I played it on PC, unsure if it exsisted on other
+platforms **Genre:** RPG/simulation **Estimated year of release:** I
+played the game around 2008-ish, but different versions exsisted, but
+I'd say early to mid 2000's Graphics/art style: Cartoony, but still
+3D-rendered because the characters could turn around, but you as a
+player alwas had that overhead view that you could pan around, but not
+torn around. If I remember correctly it was a bit pixelated similar to
+like 32-bit/16-bit **Notable characters:** \- **Notable gameplay
+mechanics:** Your village had a beach-section, a stone section and som
+forest-ish section. If you wanted a character to fish you had to grab
+their character and drag them to the ocean and hopefully they were in
+the mood to fish, otherwise they'd just walk away and do something
+else. Same thing with like building a new house, you had to drag a
+character to the build-spot and hope that they were in the mood. I do
+believe you started out with like 3 maybe 4 villagers. You could click
+on a character and get up info about their name, age, parents (at
+least if they were born in the village, unsure if that info was
+available on the starting characters), their knowledge about different
+tasks (like foraging, building, fishing, healing etc.) If one of the
+women got pregnant she stayed in her house until the baby was born,
+and then carried the baby around until it was old enough to walk
+around on its own. Unsure if the women could do any easier tasks or if
+they got rendered completely useless while garrying around their
+child, but it was something you had to take into account that you
+would be a villager short if you got someone pregnant that they
+weren't very useful for quite some time. Children could only do easier
+tasks like collecting berries or shells, and got more and more useful
+as they aged up. Villagers could die of old age or diseases. I also
+remember that the game """"""""played itself"""""""" while you were
+away. I think it had access to your computers time and date because I
+always forgot to play the game for a couple weeks and when I came back
+I had to start over because everyone had died. **Other details:** I do
+believe I first found the game on Zynga, back in the days when they
+had thousands of PC-games that you could try for an hour each before
+you had to buy it/have Zynga premium. After my hour expired I googled
+the game and found it on another website which is where I also found
+the different versions (basically the same game, just in different
+locations."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

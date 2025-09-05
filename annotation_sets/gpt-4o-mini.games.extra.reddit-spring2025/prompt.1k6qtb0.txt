@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Old shooter with vehicles and inventory
+management.. I was young, so I'm not sure when this game would have
+released, but I played it around 2010. The graphics were a lot like
+the first halo. I remember you were on a planet, not Earth, and you
+were human. I believe you were fighting other humans. There were
+driveable vehicles, and I think mechs too. There was an inventory
+system where you could loot weapons and magazines with ammo from
+enemies. The planet you were on was very jungle-like, I remember huge
+trees with long branches and dangling vines, a river, rain, and very
+grassy. Your character wore a suit, again similar to Halo MC. I don't
+remember any characters, but there were friendly NPCs for sure. The
+game had multiplayer, but I think only PVP, no coop, even vs ai that I
+can recall. The PVP had vehicles as well. I remember there was one gun
+I LOVED in that game. It was an AR that fired slower and sounded
+BEEFY. It could drop enemies a lot faster that other weapons. The
+level I remember has you starting on a road in a jungle of the planet,
+and you are attacking a base. The game is fairly linear, but there are
+several options on how to approach the base. The base was across a
+river, you could to through the river, or over the bridge. You could
+try and be sneaky, or go in guns blazing. I think the game was on a
+DVD, and came in a green box? Like one of the big boxes, not a small
+hard plastic case, but one of the book sized plastic cases with a
+manual booklet behind the cover. If I remember more details I'll post
+em here. Games it is not: Alien Vs Predator Halo Gunman Chronicles"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

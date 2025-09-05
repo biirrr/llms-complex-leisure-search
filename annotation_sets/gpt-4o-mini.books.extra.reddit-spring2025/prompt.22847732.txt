@@ -1,0 +1,58 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Older Adult Romance. Think it was published in the 1990s,
+about a retired soldier going into the jungle to rescue a woman who
+was being held hostage by a drug lord. Spoilers. [s]. I can not
+remember the title of this book for the life of me and it's killing
+me. It was a double romance novel, both stories tied together. The
+first one was about a retired Vietnam solider, who became a man for
+hire, he was hired by a wealthy man to bring his daughter back from
+the jungle, where she was being held hostage in some drug lords
+plantation in the jungle. Turns out the woman already halfway had a
+plan to get out of there, and they ended up stuck in the jungle for
+several days. At one point a massive python drops on her shoulders and
+he kills it, she freaks out over all the blood. Cause she'd been held
+hostage as a child before, they bond. Hide out in a cave behind a
+waterfall I think for a few days. They make it out of the jungle but
+the drug lord finds them in some little village, she hot wires a car
+after watching him do it once, bad guy dies and they make it out and
+home safe. He then leaves her ""For her own good"" She doesn't like
+that, and ends up doing other halfway dangerous stuff, he finds her on
+another job months later and they stay together after that. I think
+the woman was in her early thirties? I don't fully remember. Next
+story was about the other man's sorta boss? He was on a boat in the
+ocean, boat gets shot up, so does he. Ends up washed up on the shore
+passed out, where a woman finds him, drags him back to her house, with
+a stray dog she found. Nurses him back to health, they start bonding.
+Oh there was a vet in the story too, she helped take care of the gut
+shot wounds and the stray dog. She didn't have a massive role in the
+book. The bad guys who blew up his boat the first time, find him. He
+called the guy from the first story to come help, first guys now wife
+comes too. They all end up bunkering down in the house and having a
+shootout. Bad guys die, all is good. The man who was nursed back to
+health, leaves the woman, again with the for her own good, he isn't a
+good man. You know the whole shabang. She gets depressed, first man's
+now wife calls the other man and cusses him out and implies that his
+love interest is pregnant. She isn't but he shows back up at the house
+and they stay together after that. The book ends with the two men
+sitting on a front porch of the first guys house. Kids are running
+around the yard and one of the wives is pregnant and they all are
+talking and that's it. Happy ending all around. The cover was a ocean
+sunset, I think. I remember shades of orange and soft yellows. It is a
+older romance novel. Got it from my grandma but we can't remember the
+title or author. It was thicker too. Please if you can remember the
+name tell me, I have been trying to find my copy or a new book for
+years now. It haunts me and drives me up the wall not being able to
+remember the title. My sister thinks these characters were side
+characters from a different series that people loved so the author
+wrote stories about them to tie it all together. But we can't remember
+the author or the series she thinks they are originally from."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

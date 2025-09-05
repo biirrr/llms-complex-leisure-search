@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "WWII era cookbook featured on NPR a while a go. [s]. I had
+something jog my memory about a book I heard about probably 5ish?
+years ago on NPR, possibly on Splendid Table, possibly not. It was a
+review (and possible republishing) of a WWII era cookbook. The title
+involved the term ""Mr. Fox"" (I think). Because of the rationing and
+how hard it was to get ingredients, it was like ""Mr. Fox"" was
+stealing them. The cookbook included stuff about how to, for example,
+bake a cake with the fat collected after cooking bacon because lard
+wasnt available and how to mask the taste to make it palatable. I know
+it is a long shot, but does anyone know the name of this cookbook?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

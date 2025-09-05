@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000's] A Winnie-the-Pooh game with winter
+background. Platform(s): PC Genre: Puzzle? (Collection of several
+mini-games) Estimated year of release: Late 1990s - Early 2000s
+Graphics/art style: 2D Drawing. Similar to the style of Winnie-the-
+Pooh animation. Notable characters: Winnie-the-Pooh Notable gameplay
+mechanics: It is a collection of mini-games. I remember playing tic-
+tac-toe, and guiding Pooh to go through a sort of maze. Other details:
+The background of the game is winter. The tic-tac-toe I mentioned was
+drawn on a field of snow. Another mini-game I remember is guiding Pooh
+through obstacles with right tools. You need a shovel to dig out a
+snowdrift that's blocking the way, and balloon to fly over an icy
+surface. The game has 2D, hand-drawn art style, so it crosses out
+""""""""Party Time with Winnie the Pooh""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

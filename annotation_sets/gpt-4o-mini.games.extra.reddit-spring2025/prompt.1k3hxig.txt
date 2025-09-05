@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [AROUND 2010s] a 2d defense game where black things
+attack your little village and you draw rocks to bash them with it.
+-It has an average artstyle -the traps you have are catapults (that
+either fling back the enemy or crush them under the spoon), drawable
+rocks or bridge cutting -the game over screen has a still image of a
+burning village and the good creatures relocating from it -the evil
+creatures varied in size, they could either walk or fly. They were all
+circular though -in the menu while looking at the weapons description,
+it plays a black and white video of it in function"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA book read in 1980s. TW: Child abuse. Young teen girl
+lives with Mom, her uncle comes to stay with them.. I am looking for
+the name of a book I read in the mid to late 80s. The main character
+is a girl in her early teens who lives with her Mom, and her uncle
+comes to stay with them. The uncle seems like the fun uncle, but he is
+grooming her/preying on her. The main character tells the Mom what
+happens. I can't remember if the police get involved or not. Thanks in
+advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

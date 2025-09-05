@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid to late 2010's] Horror game that's tied to your
+heart rate. I remember a few youtubers playing this at the time it had
+it's demo out then never heard anything about it again afterwards, the
+idea of the game is that you were a special kind of therapist that
+would go into peoples minds to help solve their trauma. The game
+utilized a heart monitor thing that connected to your computer, and
+different things would happen depending on your heart rate. I remember
+one area in particular was a kitchen and if your heart rate was
+elevated, the room would flood with milk, killing your character and
+by extension having you start the room over. Does anyone know what I'm
+talking about?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

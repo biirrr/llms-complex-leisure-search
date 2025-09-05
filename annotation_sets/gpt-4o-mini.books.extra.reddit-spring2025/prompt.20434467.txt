@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Collection of stories from one women, couple buys crazy
+house. [s]. I listened to this as a book on tape when I was in grade
+school, the 2000's. My family got the book on tape from a library book
+sale where they sell old or overstocked book/ other items. I think it
+was published in the 80's or 70's. I remember it was kinda a
+collection of stories from the authors point of view. they were a
+female, wife and mother and the stories where about things in her
+life. one story I remember was about her and her husband buying this
+crazy strange house. It had a fountain and a count yard and a large
+clock with a chime in it and it was an old house but very very
+strange."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

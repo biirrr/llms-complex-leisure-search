@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Sci-fi RPG game with the first level on a
+spaceship that crashes, with the rest of the game on a friendly alien
+planet. I believe I had a demo from PC Zone in the 90s. You played a
+scientist / astronaut type main character, you could add other people
+to your party. The first level you were on a spaceship (which felt
+like Alien or 2001), there were lots of other characters to interact
+with including the ships computer in human form. At the end of the
+first level the ship crashes on an alien planet. There was a distinct
+'alien' soundtrack once you crashed on the planet. You woke up in I
+think an alien hospital, the aliens were in general friendly. I think
+there was fairly basic turn based combat with hostiles. There was
+substantial world building - it felt like the aliens had their own
+culture. I feel like the plot may have been similar to Avatar - the
+peaceful aliens were the 'good guys'. The name might have been the
+alien planet's name? But this is just a guess."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

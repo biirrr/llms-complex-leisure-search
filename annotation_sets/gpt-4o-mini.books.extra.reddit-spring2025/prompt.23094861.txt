@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book where animals melt, kept in slurpy
+cup and stored in freezer. Children's Picture Book about seasons and
+animals; in the summer it is so hot that the animals melt and get
+slurped into a cup to be stored in the freezer. Elephants are
+definitely in the book along with other large animals. Book is from
+approximately 10 years ago."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

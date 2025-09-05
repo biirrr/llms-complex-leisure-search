@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2010s] Stick figure crime/RPG game where you could
+skateboard and buy a fake ID. Hey everyone, hoping someone here can
+help me figure this out. Back in the early 2010s, I played a Flash
+game that featured stick figure characters. Im pretty sure you could
+skateboard in it, and I distinctly remember that at some point, you
+had to buy a fake ID. It had kind of a crime or RPG vibe  maybe a mix
+of missions, upgrading stats or gear, possibly some open-world-ish
+freedom. The style was very much classic Flash game  probably found
+it on sites like StickPage, Newgrounds, or AddictingGames. Anyone
+remember what this was called?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

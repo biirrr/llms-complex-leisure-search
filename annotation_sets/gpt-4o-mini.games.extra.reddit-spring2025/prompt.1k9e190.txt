@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000+]Tempest Clone. **Platform(s):** On Windows.
+Unsure if it was on Mac or Linux. **Genre:** Shoot 'em Up. **Estimated
+year of release:** Sometime after 2000, I think I saw it running on
+Windows XP if that narrows it down. **Graphics/art style:**
+Essentially Tempest 2000, but more """"""""modernized."""""""" The sky
+wasn't just black with colored dots, there were various colors with
+swirls and what not. **Notable characters:** Yellow Claw on one end,
+various basic enemies coming up from the other end. Avoid their
+attacks, don't touch them. **Notable gameplay mechanics:** Mostly all
+the same things Tempest 2000 had. Shoot enemies coming up from tube,
+superzap enemies coming up from one side, collect dots to get more
+points. **Other details:** It's NOT Typhoon 2001. I know about it, and
+it's not that one. I do know that the music was nowhere near as good
+as T2K though, it was mostly just bleeps and bloops and short loops.
+The font was kind of... odd too. Best way I can describe it would just
+be like if you tried to make each letter/number with as few lines as
+possible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

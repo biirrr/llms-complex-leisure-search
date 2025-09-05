@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2010s]2d pixel game about escaping prison.. Okay,
+so I only have small inklings about this game. I remember I watched a
+lot of YouTubers play it as a kid, so it must have been decently
+popular. The basic premise of the game was that you had to escape the
+prison (I guess so anyway, it was definitely set in a prison). It was
+2d/pixel (not really sure how to explain it) and sort of a puzzle
+game. Help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction for kids from the mid-90s about mysticism [s]. I
+checked this book out of the elementary school library between 1990
+and 1995 and was obsessed with it. It was hardback with a deep purple
+cover. There were black and white illustrations inside. It covered
+many topics about mysticism. The zodiac, astrology, how to read your
+tea leaves, and how to know if you were in the presence of a ghost.
+I'd love to find it again. Sorry this is so vague."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

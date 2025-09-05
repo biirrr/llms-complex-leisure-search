@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] pixel art game about stopping a virus in space.
+Hi everyone, I'm looking for a pixel art game set in space where you
+try to stop a revolutionary group from releasing a virus (Medusa
+virus?). It is set in 6 scenarios where you play turns giving
+characters you control orders. For example the first scenario is you
+play as an undercover infiltrator helping the revolutionaries obtain
+the virus from a lab. You have to balance your turn between hacking
+the system, managing the hostages and keeping the police at bay. At
+the end of the level your character is captured and it leads to
+another scenario. There was also an expansion made of this game where
+you climb a mountain in order to travel back in time to change the
+past, again with managing different characters each turn. Its the same
+pixel artstule as the previous game. I hope this is concrete enough"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unreleased] [2000s/early 2010s] interactive, short game
+where you help out an alien girl hide from the government, while
+developing a dynamic relationship with her.. I remember hearing about
+an unreleased game, that I'm pretty had a demo or proof of concept,
+years ago. It was supposed to be a simple yet revolutionary game, this
+being for it's extremely implemention of deep dialogue trees and even
+AI to make this alien girl feel alive and respond to your choices
+accordingly. Sadly it wasn't made for reason like lack of technology
+and the producer not thinking it would sell well. I also remember this
+demo being short and taking place in a diner away from major
+civilization, possibly in Texas."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

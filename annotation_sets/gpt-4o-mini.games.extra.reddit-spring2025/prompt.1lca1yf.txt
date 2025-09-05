@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX] [Late 2010s] Lamb Protagonist. not Cult of the Lamb
+but similar art style. Fixed perspective 2d adventure game, part of
+the menu is a storybook. In the opening Lamb is at a grave. Lamb
+protagonist with a squirrel go into woods and find a lab then hide in
+dumpster. A guy in a hazmat suit drags out a body and throws it in the
+dumpster on top of them. has some foul language One of the endings the
+town is covered in snow. One part has you kicking a watermelon that
+says """"""""don't kick"""""""" if you kick it it explodes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Movie help! American goes to China, learns Wushu. Update,
+the movie was good. I could only find it on VHS so it was a little
+grainy and the sound was a little off, but over all I am so glad
+everyone found it for me! Still haven't read the book, but it's on my
+(ever growing) to-read pile!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

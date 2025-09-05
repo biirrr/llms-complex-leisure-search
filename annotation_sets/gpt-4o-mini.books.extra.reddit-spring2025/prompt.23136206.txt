@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Australian book about two brothers that go to an all-boys
+school and play football (I'm pretty sure) and they get into trouble a
+lot from pranks. Read 2019-2021.. The one book I have been looking
+everywhere and searching everywhere for is an Australian book about
+two brothers that go to an all-boys school and play football (I'm
+pretty sure) and they get into trouble a lot from pranks 1. I have no
+idea what you would call the genre (could be YA?). I never finished
+the book because I had just picked it up in the library while passing
+through but read like 5-6 chapters and had gotten that much from the
+plot, two brothers (this might not help but they might not be brothers
+but just good friends that I thought they could be brothers) who I
+think are Muslim, Arabic or Indian go to a school in Australia and
+attend an all-boys school, they get into trouble frequently, I'm
+pretty sure they play football or rugby for the school's team but a
+rival school ends up framing them for a prank at their school leaving
+some benched, not sure if they get benched or just detention. 2. I'm
+pretty sure I read this long ago, like before or after covid so like
+2019-2020-2021. Bonus- A detail I remember about the book is the cover
+was like a bright orange/ that weird blush coral pink-salmon. It had
+the title and author in teal or white, which I don't remember
+otherwise I would be looking😅 but it included silhouette/non detailed
+alike illustrations of four or so characters and the guernsey they
+were wearing for their team were teal and white."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

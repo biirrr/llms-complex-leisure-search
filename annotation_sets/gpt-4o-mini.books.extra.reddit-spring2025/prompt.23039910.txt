@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical Fiction I think? About a man who dreams of the
+perfect woman and then meets her in real life.. I think it was called
+“The Apothecary.” I read it in high school, so somewhere between
+2014-2016. It was about a man who lived in a cabin in the woods and
+one night he dreamed of the perfect woman. He was selling flowers in
+town the next day and he met THE woman. He starts to try to get to
+know her, they start to connect, at some point she realizes she’s
+fascinated by how accurately he can imitate bird calls (it’s like he’s
+speaking to them) and then she gets sick. He helps her get better, and
+on the last page of the book, she finds him in the woods and he cries
+and yells “My dream girl!!” and they embrace. I remember it being such
+a sweet book and I cannot find it for the life of me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

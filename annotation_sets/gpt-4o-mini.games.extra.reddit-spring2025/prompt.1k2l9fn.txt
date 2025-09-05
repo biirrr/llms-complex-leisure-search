@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] MMO third person space shooter/stragegy.
+Platform(s): PC, online Genre: MMO strategy/third-person shooter?
+Estimated year of release: very early 2000s, I think, maybe late 90s?
+Graphics/art style: basic, wide angle view like a Starcraft but even
+more basic, except you control one character Notable characters: n/a
+Notable gameplay mechanics: Other details: I htink it was free,
+downloadable. Space themed. It was set in a low-gravity (I think?)
+type space-station setting maybe? Two teams, I believe. It was almost
+like capture the flag? You could play different types of roles, like a
+sniper or more of a rifleman--or there were different types of weapons
+you could choose or pick up. Lots of laser type weapons. Oh, some of
+the ammunition/lasers could bounce off walls?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

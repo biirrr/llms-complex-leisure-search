@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020-2024] Side-scrolling war game. I'm looking for a
+game where you are a survivor of a war that takes place in a city. You
+have a group of survivors to manage and send on expeditions to search
+for supplies, weapons, and more. I don't remember much more
+information about it, but if anyone has an idea I would really
+appreciate it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

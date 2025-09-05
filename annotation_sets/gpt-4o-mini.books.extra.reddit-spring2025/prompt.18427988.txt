@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "One artist's fantasy portraits of Asian women. [s]. This is
+a big coffee-table type book, hardcover when I saw it. It was a
+collection of one Asian-American woman artist's portraits of beautiful
+Asian women. The paintings had a fantasy feel to them. The women
+mainly stared pensively into the distance. They were wearing
+traditional Chinese or Japanese clothing. I remember one had a dove."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

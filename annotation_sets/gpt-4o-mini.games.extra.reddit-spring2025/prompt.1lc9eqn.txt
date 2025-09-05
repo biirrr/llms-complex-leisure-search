@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2017] Train Game. I am looking for a puzzle(ish) game
+about trains where you redirect trains to make them go to stations
+that has the same color. Some trains are really long or some have
+multiple colors as, for perspective it is birds eye view and it might
+be flash because I played it on a game site. (eg: Armor Games) The
+trains become white once the vagons pass their station and the trains
+look like modern ones. P.S : Please excuse my poor english."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

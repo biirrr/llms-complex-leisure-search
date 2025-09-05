@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Help me identify a book by its cover photo /s. Hi I really
+hope someone can help me with this. I remember the book cover well but
+nothing else about it, except that I found it while searching for a
+haruki murakami book so it might be similar in its sensibilities. I
+remember really wanting to read the book after stumbling onto it but
+forgot to jot down relevant information. The hardcover book cover is a
+black and white photo of a blonde/brunette woman wearing sunglasses
+looking directly at the reader. The photo is a little bit like a
+classic hepburn pose especially with the sunglasses. I'm guessing it
+must been a novel or maybe even nonfiction novel about a socialite or
+something Hope I get lucky that someone recognizes it. I know i would
+be able to identify the book by its cover too but haven't been able to
+find the cover image either."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

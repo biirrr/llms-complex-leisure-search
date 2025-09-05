@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery about a girl trying to win an inheritance. Read
+around 2017-2020.. The book is about a girl trying to finish a
+scavenger hunt-style game to win an inheritance. It's a competition
+between multiple people/families. I only remember a couple of the
+challenges: -they have to mine a diamond from a real diamond mine. The
+group that wins is disqualified for pretending to find a perfectly
+polished diamond -they need to find a certain antique that was at the
+dead man's house, and take a picture with it. earlier in the book, she
+had taken a picture of the antique and she shows up in the reflection,
+and wins the game I read it sometime around 2017-2020"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

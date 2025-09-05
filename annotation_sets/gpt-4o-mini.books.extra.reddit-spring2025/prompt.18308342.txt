@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Short story: guy goes on a road trip, has a near death
+experience early on. Read for grade 6 class. Spoiler ahead.. More or
+less that is all i remember from it, a guy goes for a road trip and
+has a near death experience on the first day or so. he continues on
+with his trip, calling his mother to let her know he arrived fine only
+to find out he actually died days earlier in an accident. I read it
+for English class 6th grade (2007) Thank you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

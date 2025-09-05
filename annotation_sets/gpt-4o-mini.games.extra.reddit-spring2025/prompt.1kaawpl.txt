@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] A flash game that x-rays iconic animated
+characters.. **Platform(s):** PC **Genre:** Mystery? I don't know tbh
+**Estimated year of release:** 2010s **Graphics/art style:**
+Cartoonish, Dark atmosphere **Notable characters:** Betty Boop, and
+other 80s-90s cartoons. **Notable gameplay mechanics:** A point and
+click game, you x-ray the characters and help them? I vividly remember
+playing this game on a flash website (it was probably Y8games) where
+you have to pick a character to """"""""help"""""""" in some way, and
+you have to use an x-ray and surgically? remove items ranging from
+infections, animals, to inanimate objects embedded inside them. There
+was a wide range of characters to choose from, but the notable ones
+that I used to pick every time were Betty Boop, and others such a
+Jessica Rabbit and Shaggy Rogers. Also, the characters weren't altered
+to a similar art style but were maintained from their respective shows
+and stories. It was such a weird game, and I always remember it from
+time to time, but I can't find it anywhere and it's driving me nuts.
+Does anybody know what this game is?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

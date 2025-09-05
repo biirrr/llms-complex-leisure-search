@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA(?) Murder Mystery novel about a girl who can see people’s
+deaths above after being hit with a car. I read it around 2019.
+Spoiler.. So I’ve been looking for this book for years after I read it
+a bunch in 8th grade but I somehow never remembered the name. I
+remember the basic plot and one name. Spoilers below for the plot. So
+basically this girl(the main character) lives in the small town that’s
+really like backwards. It’s set in modern times but this town still
+lives like it’s in the 50’s or something like that. I believe she
+knows someone that gets attacked or hit by a car(or maybe killed?) but
+then she is hit by a car but lives. After waking up in the hospital
+she realizes that she can see how people die when she looks at them.
+She gets close with this guy named Nate who was either a guy from her
+school or an old childhood friend that she’d drifted apart from(not
+too sure) but they grow closer as they try to figure out who is
+attacking/killing people until they become a couple towards the end of
+the book. I remember that at some point Nate confronts who they
+believe the murderer to be but she sees when she looks at Nate that
+the murderer will kill Nate with a knife so she tries to intervene.
+Towards the end I think the murderer kidnaps her because he’s obsessed
+with her but is eventually caught when Nate comes to save her. The
+main characters were high school students and I read it in middle
+school so it’s almost definitely a YA book. The name I remembered
+above is Nate which I’m pretty sure was short for Nathaniel for this
+character(the name could be inaccurate tho so the plot is more
+important)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

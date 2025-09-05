@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[90s-00s] [PC] A game with a young girl on a ship/in a dark
+town, most likely with 'Town' in its name. Platform(s): PC, most
+likely Genre: quest, possibly horror (but maybe not) Estimated year of
+release: 1990-2000s Graphics/art style: 3d, described as beautiful
+Notable characters: the MC is a little girl, maybe 10-12 y.o. Other
+details: Hi! Searching for a game my mother played in the early 2000s.
+She remembers one quest from that game, where the MC entered a ship
+and searched around inside it, then went back outside. My mother
+describes the graphics as beautiful, the atmosphere as dark and gloomy
+with gloomy music (she says it reminds her Silent Hill). There's most
+likely the word """"""""Town"""""""" in the name - she says it's
+something like """"""""Cursed Town"""""""", """"""""Forgotten
+Town"""""""", """"""""Town Z"""""""", something like that. Any ideas
+would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [Late 2000s] A physics-based uzzle game.. It's very
+similar to Crazy Machines (the game in the screenshot), however I
+remember that the objects being shown were larger, being set in Egypt
+and one of the items specifically being a Crystal Ball of sorts that
+could bounce higher every time. I remember playing it on my black DS
+Lite around 2010-2011, but I never remembered the game's name as the
+only way I had to play it back then was through a flashcard."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

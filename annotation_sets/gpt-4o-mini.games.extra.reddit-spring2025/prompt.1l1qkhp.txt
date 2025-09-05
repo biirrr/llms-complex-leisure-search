@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Win][2000-ish] Game to learning programming that takes
+place in Space (Mars???). **Platform**: Windows **Genre**: Video game
+for learning how to program **Estimated Year of release**: Early 2000
+to 2010 **Graphic/art style**: Good graphics for the time - clean
+textures. Mostly in """"""""orange tones"""""""" if you see what I
+mean **Notable characters**: You **Notable gameplay mechanics**: On a
+planet (Mars) with bunch of droids and machinery, battery chargers,
+... **Other details**: I remember this game where you'd learn to
+program. I believe it was on Mars - the main character (you) had a
+full suit - you'd use some scripting (can't even rememerber the
+language) to automate machines to move around, pick up empty battery,
+bring them to the charger, bring them back out and install in various
+transports: cranes, moving bulldozers, flying things. I do remember
+that you could reuse some scripts (functions) you made in previous
+assignments. Sorry - it's pretty vague.... I don't think this was a
+free game. Thanks for your help!!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

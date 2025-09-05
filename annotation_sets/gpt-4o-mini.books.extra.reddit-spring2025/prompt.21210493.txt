@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "United States History; cover title was one of the
+essays/chapters where it surmised that America did not truly become
+the United States until after the Civil War. [s]. The book I am
+looking for is a collection of essays written by a UK (or European)
+Tutor who was teaching/instructing an American Student. The cover
+title was one of the essays/chapters where it surmised that America
+did not truly become the United States until after the Civil War. The
+author believed that war united the States under the central
+government. I lost the book in a move and would love to add it back to
+my collection. The book came out around 2000 give or take a couple of
+years. Thank you for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

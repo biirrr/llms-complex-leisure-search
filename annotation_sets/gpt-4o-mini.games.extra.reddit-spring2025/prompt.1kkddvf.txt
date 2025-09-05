@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [early 2000s] 3rd person shooter. It was a 3rd person
+shooter where you played as like swat or special forces rescuing
+civilians from a terrorist attack. I believe it had cover mechanics.
+But two of the main things I remember about it were that it had a lock
+picking system similar to oblivion. And a mission where you were
+playing a civilian listening to the rescuers on how to escape. In that
+mission you had to put out fires with a fire extinguisher and I
+believe the only way to fight back against the bad guys was only with
+pepper spray or a taser."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

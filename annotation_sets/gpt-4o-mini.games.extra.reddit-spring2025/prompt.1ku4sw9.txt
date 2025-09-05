@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade] [possibly 80s to 90s] [fighting game]. All I
+remember is that it's a fantasy theme with like knights and goblins
+and such but it isn't a beat'em up or hack'n'slash it's a legit
+fighting game like street fighter. I remember one character in
+particular and it was a tank piloted by dwarves. Yes that isn't a
+typo. To my memory it was either an arcade title or on ps2 the
+character models looked like those plastic toys you'd see in like the
+80s probably scanned into the game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

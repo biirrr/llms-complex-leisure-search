@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2008] Best em up Stage-game. A small indie 2D game in
+the style of Dragon Ball with multiple stages and enemy waves.
+Released around 2008 or earlier. A classic beat 'em up. The enemies
+were black demons with red eyes. There was definitely a wizard in a
+blue robe with brown hair and a samurai who could throw shurikens. The
+wizard could create a shield and shoot blue energy discs as attacks.
+There was also a character with a long sword and various attacks. At
+least one level started on a castle wall, and you would then work your
+way into the interior of the castle. There was also a PvP mode. There
+were more than two playable characters. The game was for PC and may
+have been playable via a website. It had a health bar and a magicka
+bar. The characters were pixelated, short, and chubby, without visible
+necks. Any idea which Game that could be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

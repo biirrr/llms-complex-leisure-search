@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery: Man inherits aunt's? cottage in a village.
+She was eccentric, and the cottage's colors are whacky. He starts
+solving mysteries, and sets up a library in part of the local manor
+house and the local goth girl becomes the librarian.. The first
+mystery had something to do with his aunt's death, i think. His best
+friend from London sends books for the library and eventually
+discovers the charm of village life. The local inn has surprisingly
+plush rooms."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

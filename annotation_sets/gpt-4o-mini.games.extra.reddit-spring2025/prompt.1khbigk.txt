@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2010s] Stickman platformer game series. I
+remember playing them a few years ago, probably 2016-2019, but the
+games, at least the first one, was older than that. I'm pretty sure
+the title had an x in it and it was on browser but I've completely
+forgotten the name of the series. All of the sounds also sounded as if
+they were made by the developer just making random noises with their
+mouth if thats any help. You would access each level by this stage
+where you would jump on a block and it would count down until you then
+started the level. This has been bugging me for a few weeks and I've
+finally given up on trying to remember the name myself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

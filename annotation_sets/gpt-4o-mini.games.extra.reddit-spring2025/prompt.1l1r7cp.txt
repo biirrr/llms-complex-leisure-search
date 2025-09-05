@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000]Game about police. Hello fellow gamers. I'm
+looking for a game I've played as a little boy in PC club. It was a
+game, where you played as a police. The game had as far as I remember
+three modes. One was chases with a car. Second was running with your
+character, something like Max Payne(I remember in the first mission
+you were in a building that was in flames). Last mode was only
+shooting.You didnt control any character, you just aimed and shoot the
+bad guys. I think there was some sort of """"""""intro"""""""" to this
+mission, where a bullet flew through a playing card I think. Anyone
+got idea? > The graphics was something like the first Max Payne game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

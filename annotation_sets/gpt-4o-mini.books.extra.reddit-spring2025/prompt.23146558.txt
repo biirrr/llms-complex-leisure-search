@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA contemporary drama(?): Teenage girls at a boarding
+school, multiple POVs. Multiple POVs. Probably 3 different girls, all
+of whom are students at a boarding school. No supernatural elements.
+Very 2000s/2010s YA feel to the book. One of the main characters I
+believe is Indian and she has a white stepmom that she doesn't really
+like. The stepmom wears a sari in one scene (I think just for a parent
+meet & greet or something at the boarding school). In one scene, one
+of the main characters is with a boy who's smoking and she takes the
+cigarette when he offers it to her, even though she doesn't know how
+to smoke. She puts the wrong end in her mouth. I would have read it
+probably between 2010 and 2016."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

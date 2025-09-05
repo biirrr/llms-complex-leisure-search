@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[flash 2D game] [under 2015] similar to terraria. when i was
+young, i used to play a game on a brazilian site called ojogos.com.br
+it was a 2D game about a boy in a gray world, and at each level you
+found a color in pots, with particles flying around I CAN'T REMEMBER
+THE NAME AND I NEVER FOUND IT"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

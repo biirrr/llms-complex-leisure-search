@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-2001 probably] Looking for one of my first games
+ever. Hi, I'm looking for one of my first games ever. It was 2D
+Platformer, no scrolling side view, with digging, ladders and water
+tanks. Probably no jumping, and when the character dug in the ground,
+he did so by swinging his arms forward. My first PC was around
+2000-2001 with Win 95, so I think the game was released 1995-2001.
+Character was looking something like this and is wearing green
+backpack. Please help. I think I've searched whole MobyGames, and
+still can't find it. https://preview.redd.it/pjpa9pfjn94f1.jpg?width=2
+47&amp;format=pjpg&amp;auto=webp&amp;s=767744de1fb4962c5e20a385e3f2667
+f667aaaf8"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

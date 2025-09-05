@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical Autobiography/ Memoir of a Count who becomes a
+Ship's Carpenter. About his years at sea, before steamships took over
+(late 1800's to early 1900's). Published around 1900-1930's. [s]. This
+book is the memoirs of a man's life at sea, during the age of sail, as
+a ship's carpenter. He is a count, and an artist, but joins the
+merchant marines with a friend. The book is about his adventures on
+different ships, some good, some bad, and some horrific. At one point,
+he is trapped in an Asian country during a cholera epidemic, and
+watches the ship's crew die. He (obviously) survives. The advent of
+steamships ends his career as a carpenter, and he retires."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

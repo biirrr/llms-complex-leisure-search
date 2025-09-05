@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. The Rockstar who has a Doctor ‘girlfriend’ he
+visits occasionally. Read around 2012-2013.. I read this about 12
+years ago. It’s about a rockstar who get together with this lady when
+he’s near the city where she lives. She thought she was one of many he
+has all over the country, like a girl at every city. Whereas he had
+really fallen for her. He failed to let her know this though. Until he
+did, and there lies the story. I can’t for the life of me remember the
+title. Please help me out. Thank you.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

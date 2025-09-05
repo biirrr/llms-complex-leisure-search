@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][UNKNOWN] What is this FPS game?. I only have a photo
+of this, google searcher doesn't show me anything, does this really
+exists or is only a fanmade/animation? https://preview.redd.it/v4j4g4e
+98tye1.png?width=539&amp;format=png&amp;auto=webp&amp;s=9de30dcc0bd945
+63bd52859fa5d7e07effa7e00f"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

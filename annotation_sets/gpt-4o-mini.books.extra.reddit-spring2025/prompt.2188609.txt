@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Solved- Outer Limits Episode: Dome over a town - not by
+Stephen King. I'm not sure if this was a book, short story or episode
+of a twilight zone type show. What I remember is that a small town (or
+part of one) is covered by a dome. The people inside don't know what
+is happening, and I believe that outside the dome, the whole domed
+section is gone, leaving a large hole. (view spoiler) [I think that
+the whole section had been taken by aliens. A boy and a girl I think
+got out of the dome and into a control section of the space ship.
+(hide spoiler)] I don't remember how it ended or much else about it. I
+think the main characters were a young boy and girl 11 or 12 years
+old. I'm thinking that the time frame that I read this might have been
+late 1980's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

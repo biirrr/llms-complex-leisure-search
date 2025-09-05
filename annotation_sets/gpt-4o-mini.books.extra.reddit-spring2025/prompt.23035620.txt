@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Tween Christian Mystery. Cowgirl story with hidden
+identity. Read late 1990’s early 2000.. I read this book as a tween
+myself. Here is what I remember. Book had a brown western style cover
+with a picture of a ?cowgirl and/or horse on it. (Maybe face hidden by
+a hat). I think maybe the title had something to do with cowboy’s. Was
+from a Christian book store. Storyline - a bit foggy, but starts with
+a girl on a bus travelling somewhere. Maybe away from something to a
+?job? Where she wants to keep her initial identity a secret. Maybe
+under a name like Sam that could be ambiguous on an application. I
+feel like she went to work as a cowboy somewhere. Could also have
+included a mystery about a phantom horse. Thanks for your help if
+something rings a bell!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

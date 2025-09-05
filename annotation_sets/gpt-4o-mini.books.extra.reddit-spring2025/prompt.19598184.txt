@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "MetaPhysics Dowsing Pendulum book by husband and wife last
+name Llewellyn. [s]. I'm in search of a book that I read that was
+printed in the 50s from England but the Authors were from the
+Theosophical time period so it so it could have been written earlier.
+it is about dowsing but mostly talks about pendulums and written by a
+husband and wife team with the last name of Llewellyn The most
+interesting aspect was they experimented with different lengths of
+cord and found the pendulum rotate at certain lengths for certain
+things like Silver was 40"" as was death."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

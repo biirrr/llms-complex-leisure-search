@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA SciFi duology, trilogy, or series -- set in normal world,
+SF elements introduced slowly in first book -- female lead with some
+kind of power or something that makes her different -- 2005 - 2015. I
+am trying to help my daughter find a book she read in ninth grade, so
+late 2014 or early 2015. She says it was fairly new at the time, but
+at least two books in the series were already out, so probably before
+2015. First book reads like realistic fiction and then at some point
+the girl discovers something about herself - like she can turn back
+time or has a magic twin are examples but not actually it. Then in the
+second book she finds others like herself. The book series titles were
+connected in some way - followed a pattern like sharing a a prefix
+(un- or dis-?) or root word (time or clock?) or suffix (-less?).
+Covers are a black background and show a caucasian girl with brown
+hair. She is the only picture on the cover. Text is white. Books are
+relatively short - 200-300 pages. Books were found in a (typical to
+conservative) high school library. We already know it is NOT: The
+Lynburn Legacy (titles Unspoken, Untold, Unmade) Unwanted (sequel
+Hunted) Unwind Dystology Clockwise Series (Clockwise, Clockwiser, Like
+Clockwork, Counter Clockwise) my daughter says these covers are
+closest to what she remembers Thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

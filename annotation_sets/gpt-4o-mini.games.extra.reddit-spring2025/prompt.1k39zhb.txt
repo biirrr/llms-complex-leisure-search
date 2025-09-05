@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android phone][2021-2023?] Iskekai like game. I want to
+play this video game I played years ago but I can't remember. The
+first cutscene is a man and a woman texting each other and running
+while on every screen in the city messages keep popping up, like
+""""""""can't catch me"""""""" or """"""""meet me somewhere"""""""".
+On the news it shows people stepping into a portal. They both seem to
+be in a rush and are running and are on FaceTime call. The cutscene
+stops when the character stops in front of some kind of screen which
+works as a portal. You choose the female or male, then customize. Once
+you head in the portal I forgot what happens next. But when you are in
+the new world you get a friend, that friend is some kind of floating
+NPC with a camera on his tail. All the characters are voice acted,
+including yours. You have to fight, and there is a scene where you
+meet some kind of warrior goddess and go viral for that? I also
+remember several characters, like one that looks like is inspired by
+blue jay. The land owner dude, he is some kind of cat or wolf furry
+with I believe white hair. And there are many more characters. 3d
+world."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

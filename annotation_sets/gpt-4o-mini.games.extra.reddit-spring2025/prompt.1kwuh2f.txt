@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc maybe some consoles] [early 2000s] A game about driving
+on a dirt bike, in a jungle, in a side scroller style, trying to avoid
+pits covered in leaves, some pits would take you to alternate levels,
+I think there was dinosaurs involved.. Pretty much the title. I used
+to play this all the time as a kid on my parents pc. It was on a disk
+I believe but it couldve been a flash game. Been thinking about this
+for MONTHS and its killing me. Its kind of a cartoony art style but
+still on the realistic side. Any help would be amazing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

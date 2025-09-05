@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s]Green blob sidescroller. I very vaguely remember
+a sidescroller from my 90s childhood. I think I played it between 1998
+and 2001. I think you played as some kind of green blob (??). The main
+character (the blob) was friends with some kid who was sick and stuck
+in bed (never seen outside the opening sequence), and you had to go
+adventuring in an effort to save him. Maybe find medicine to cure him.
+Or something. The only other thing I remember is that if you failed or
+decided to quit, a voice (presumable the blob?) would randomly say
+(probably to the kid, his friend): """"""""I'm sorry, really""""""""
+or """"""""I don't like you anymore"""""""" in a really regretful
+voice. Because, you know, you chose to fail/abandon him. Platform(s):
+PC Genre: Sidescroller Estimated year of release: Mid/late 90s, no
+later than 2001 Graphics/art style: Cartoony Notable characters: Green
+blob (main character), sick boy (his friend) Notable gameplay
+mechanics: Zero recollection, basic sidescroller fare I'd imagine
+Other details: There's a good chance it came from a demo disc included
+with PC Gameplay, a Belgian gaming magazine I was reading in the early
+2000s. It may have had many such games included. I also recall playing
+Arcade America from such a disc, so games could easily be much older
+than the magazine release itself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

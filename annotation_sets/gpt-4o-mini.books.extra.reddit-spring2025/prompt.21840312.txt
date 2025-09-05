@@ -1,0 +1,42 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Comedic Memoir. Author is an implied gay
+man, probably Canadian or American. Read in 2015. Spoilers ahead. [s].
+Looking for a comedic memoir about an implied gay man. Read the book
+back in 2015 at a library in Alberta, Canada. The book was about
+medium length, probably 150-250 pages long with a white cover. The
+book already seemed a little old at the time I borrowed it so it might
+be about 10 years+ right now. The author of the book was likely either
+Canadian or American, I am leaning towards Canadian from what I can
+remember. The memoir featured one particular anecdote that I remember
+really clearly (SPOILER WARNING BELOW): The authors younger self
+(probably 8-12 years old) is sitting on the steps of his house
+watching a couple construction workers. The kid focuses mainly on one
+who is operating a tractor and seems to hold some degree of awe or
+amazement at the worker. He apparently watches the construction
+workers for a couple days before the one that he seems most in awe of
+starts making kind gestures to the kid. Playing with and interacting
+with him in a friendly way. The construction worker at one point lets
+the kid look at and play around in the tractor before realizing the
+kid is a young boy instead of a young girl like he had assumed (likely
+due to the kids long hair). After that the construction worker stops
+interacting with the child and the kid is left friendless again. From
+what I remember it was implied the authors younger self had some mild
+""celebrity"" worship or a mini crush on the worker. The worker was
+aware of and humored the crush until realizing the 'little girl' was
+actually a 'little boy' at which point he stopped humoring the kids
+crush. I also believe that later on the author himself or the authors
+partner are implied to be working as jewelers. One of them makes the
+other and himself an engagement ring. The fact that they're implied to
+be married makes me believe the author is probably a Canadian but it
+could be married religiously or something without any of the legal
+rights. END SPOILERS thanks for the help :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

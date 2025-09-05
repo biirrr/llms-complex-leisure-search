@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book set in Morbihan, an American author married to a French
+artist [s]. Hi there ! I work in a library and I am desperately
+looking for a book a man asked me recently... He does not know the
+title or the author (of course) and has only read the first chapter.
+Here is his summary : An American author move to France, in Morbihan,
+with her husband who is an artist. He decided to buy half an abandoned
+hamlet and she does not like it. She will later encounter a woman
+named Jeanne. He also knows that the book must have been from the end
+of the twentieth century or beginning of twenty first century because
+the price was converted in francs. This is so vague and I am
+desperately looking for it to help this very nice man... I hope to
+hear from you, thank you so much"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

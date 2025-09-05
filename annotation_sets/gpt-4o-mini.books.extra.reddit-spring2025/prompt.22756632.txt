@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction, Future Earth. A man is bred to stop
+an alien invasion. Spoiler. [s]. Read this book (paperback) in 1980s
+or early 90s. In the future, there is an alien invasion heading
+towards Earth. Some humans have mutated into different subspecies. To
+combat the incoming invasion, a breeding program is developed to
+create a 'super' man bred from various human sub species. The man is
+born/created, he has a metal plate/mesh put in his skull to limit his
+abilities until he leaves earth. He is sent off earth to stop the
+aliens. /// Spoiler Alert? //// He goes thru hyperspace (which has
+more than one level) and finds the alien home world. He finds out that
+the aliens attacking are under control of a third group and he stops
+them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2019-2024][Pointandclick][Edutainmenthorror]. Platform
+(s): Steam and Itch.io Genre: Psychological? Horror Estimated year of
+release: 2020-2024 Graphics/art style: 90s style edutainment game with
+janky graphics Notable characters: Main guy, who is bald, a ballerina,
+a princess girl and a notepad. Notable gameplay mechanics: point and
+click, minigames Other details: I keep asking chat gpt to find me this
+game but it can't find it but it's probably kinda obvious. I watched a
+YouTube let's play ages ago maybe like 7-8 months ago and it's a 90s
+style edutainment horror game- I remember thinking the story was kinda
+crappy but l liked the art style and it had a cool intro scene when
+the game was booted up. The protagonist is a guy- he's bald- and he
+has a wife and goes around the town in a point and click style
+adventure game with minigames helping the residents and there's like a
+dark secret or something. I think his names in the title and there's a
+dark twist in which the game follows the classic creepypasta/arg style
+of deterioration from innocent to gradually the game breaking and
+glitching and becoming scary ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

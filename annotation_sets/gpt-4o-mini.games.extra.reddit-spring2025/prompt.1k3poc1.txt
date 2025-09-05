@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010 onwards] Pixel Art style Black and White Samurai
+Indie Game. **Platform(s):** PC game from [Itch.io](http://itch.io/)
+**Genre:** Endless Hack and slash? **Estimated year of release:** 2010
+onwards most likely **Graphics/art style:** Pixel art style game with
+white Background with Isometric view where the characters where black
+humanoids, there was a tv glitch type vibe to it. **Notable gameplay
+mechanics:** It was a pure mouse game (though maybe you could use
+keyboard unlikely though) where you would slash down endless waves of
+black shadow humanoids that would die in one slash but you too would
+die in one slash **Other details:** I may be misremembering but I
+think the name of the game was something along the lines of
+""""""""void"""""""" or """"""""null"""""""" or something and the Icon
+of the game when installed was like a square with SMPTE color bars
+style icon"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

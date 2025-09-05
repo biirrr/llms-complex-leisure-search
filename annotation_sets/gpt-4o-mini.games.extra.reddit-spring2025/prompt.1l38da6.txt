@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][After 2022] A horror game where the player is
+supporting a team investigating a hole in a wall.. The game may have
+been a demo on Steam, possibly during a Next Fest, or it may have been
+on something like itch.io. I'm pretty sure wherever it was, it was
+free. The game is first person and begins by the player entering a set
+of rooms, possibly by walking out of an elevator. The first room is
+normal looking and there isnt really anything to do there, but one of
+the rooms is full of bulky scientific equipment; computers, scanners,
+etc and has a large dark hole in the opposite wall from the door. This
+is where the gameplay happens. The premise is that a team of
+operatives have gone down the hole to investigate it and the player
+has to provide support; monitoring their vitals, performing scans for
+them, etc. I think each team member also had a camera feed the player
+could view. The story is told via radio messages between the team
+members and to the player. I think at one point, mist started coming
+out of the hole to try spook the player."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

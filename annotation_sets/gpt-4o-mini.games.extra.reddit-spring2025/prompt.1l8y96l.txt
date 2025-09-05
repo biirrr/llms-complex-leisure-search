@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[WIN9x/DOS][&lt;2001]A Wireframe 3d/1st person hover-bike
+racing game.. **Platform(s):** Windows 9x and/or DOS **Genre:** Racing
+**Estimated year of release:** 1990-200 **Graphics/art style:** Very
+digital almost wire-frame like apperance to all models and the UI.
+**Notable gameplay mechanics:** You race bikes around a track, there
+was a boost mechanic and some form of combat im pretty sure. It's
+**NOT** """"""""Cyberbykes: Shadow Racer VR"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

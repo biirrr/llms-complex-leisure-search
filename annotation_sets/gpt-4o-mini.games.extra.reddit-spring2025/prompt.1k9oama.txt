@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES?][2000] Blue and pink bird, you control the blue one
+and the pink mirrors your movement. I honestly don't remember the name
+or the year, but the levels were you trying to control the blue and
+pink birds (I think they were birds) and trying to get them to the
+end. You had to touch the gate at the same time for the level to
+finish. There were spiders and spider webs you could destroy with what
+I think was a little pesticide can or something. Touching the webs
+trapped the bird, so you would control the other to come break the
+web. I think it was called love birds but nothing comes up when I
+search for it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

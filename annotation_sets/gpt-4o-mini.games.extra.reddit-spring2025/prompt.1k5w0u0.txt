@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020ish] Spaceship sidescrolling 2D shooter where you
+launch from Pluto with a mega bomb aiming to blow up Earth and the
+bomb dressed as a rockstar. There was this 2D sidescrolling spaceship
+shooter PC game where you start the game and a mad scientist living on
+Pluto hates Earth (I think because Earth declared it not a planet) and
+so he launches a spaceship from Pluto with a mega bomb on it and you
+have to travel the solar system shooting enemies in the way to get to
+Earth to blow up the bomb that is dressed up as a rock star. Also you
+hold a rock concert with the bomb as the star of the show on each
+planet when you get there and then choose to blow up or not. Each
+planet has its own boss and you can choose to detonate the bomb on an
+earlier planet to get a new ship to fly with. The bomb could get skins
+to give random buffs to your ship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

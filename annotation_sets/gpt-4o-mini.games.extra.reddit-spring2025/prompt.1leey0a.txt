@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-2010] japanese FPS made by single dev.
+**Platform/s:** i'm 95% sure PC **Genre:** first person shooter
+**Estimated year of release:** 1995-2010, japan? most probably Asia
+**Graphics/art style:** retro, low poly blurry pixelated textures ,
+i'd say Silent Hill 4 or Half-Life 1-esque graphics **Notable
+characters:** i only met the main character who was a girl (female
+protagonist) **Notable gameplay mechanics:** i didn't get to play much
+of it but it was a shooter for sure! **Other details:** cyberpunk,
+futuristic aesthetics, the game starts with you being taken into some
+kind of facility but the round, well lit elevator breaks. you then had
+to crawl through the cracks to get into a small hallway with lights
+and tube-like dead ends. the most useless and notable thing i remember
+about this game was because it was made by a single developer in her
+own basement and she had been working on the game for years and that's
+how i found it. i said i'm not sure about the platform bc i played a
+cracked version of it, but i didn't have to install any emulators to
+run it so as i said 95% sure. i'd really love to know what game could
+it be because i remember people saying it has very interesting
+narration and story"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

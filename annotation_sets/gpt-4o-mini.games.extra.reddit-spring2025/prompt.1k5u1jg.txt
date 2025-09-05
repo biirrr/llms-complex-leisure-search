@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Flash] [Early 2000s-2010] Old Spongebob flash game.
+**Platform(s):** PC flash game **Genre:** Spongebob Squarepants top
+down puzzle game **Estimated year of release:** some time in the 2000s
+**Graphics/art style:** pixelated frame by frame 2d **Notable
+characters:** spongebob **Notable gameplay mechanics:** One mechanic i
+remember was having to push around a block piece and maybe try to get
+it into a certain slot. You had to avoid the enemies in the level or
+it resets. There was a mechanic that had to do with ice in some way or
+an ice block that you had to move. I think you also had to maybe
+collect all the spatulas to complete the level. **Other details:** It
+was a very basic level by level puzzle game. People were also able to
+make their own levels that you were able to play. A level I only
+remember vividly was a flying dutchman theme. Basically the entire
+premise was just a puzzle like. I don't believe every level had to do
+with pushing a block but I believe it mainly was just having to maybe
+get to the other side of the level without dying(?)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

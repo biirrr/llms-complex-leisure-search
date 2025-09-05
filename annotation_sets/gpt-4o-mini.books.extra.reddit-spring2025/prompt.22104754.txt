@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Vegetarian/ vegan cookbook, low carb. SOLVED: I found it:
+This is it https://www.goodreads.com/book/show/8... I used to own a
+copy of this book, and I'm pretty sure I bought it between 2009 and
+2013. It was a paperback but a large-ish one. The words plant-based
+may be in the title. It's a low carb cookbook, possibly for diabetics,
+and is either vegetarian or vegan. I think the cover is white with
+pictures of food on it. One thing I can say is that at the time of
+publication, keto was not a thing, so the word keto isn't in the
+title. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

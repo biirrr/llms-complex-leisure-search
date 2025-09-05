@@ -1,0 +1,14 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][2005] You play as a caveman and you can use magic,
+there's some platforming. I used to play it a lot when I was a
+teenager. I'd love to know the name and look up some footage of it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

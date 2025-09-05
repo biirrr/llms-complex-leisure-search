@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile/Facebook game][2008-2014] Sort of Boom Beach. Hello
+people, I've been reminiscing of my boom beach era, and the world map
+with fog of war to explore seems to remind me of another game in this
+style, with these elements : - Map in Fog of war to explore - PVE
+enemy bases along the way to attack - I believe it was in a
+survival/modern military setup I might be hallucinating and mixing
+games of my youth, but the map to explore is the clearest aspect of my
+memory"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

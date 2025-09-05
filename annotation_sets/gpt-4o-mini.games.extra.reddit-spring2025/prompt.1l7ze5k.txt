@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [probably 00's] car racing game, 1st person, no
+storyline. Genre: car racing, no side missions or anything, just pick
+a car, where you'll race and go Estimated year of release: played it
+long time ago, when I was still a kid, so either 00's or very early
+10's Graphics/art style: a bit similar style to the photo, better
+graphics and 1st person tho (or at least I always played like that).
+In the corner could see how many laps left, which place you in and
+map. There were different places you could pick from to race in like
+desert, snow, city ect..in one of them the sun was shining in the
+window a lot so it was difficult to see the road Notable characters:
+no characters Notable gameplay mechanics: the most basic gameplay"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

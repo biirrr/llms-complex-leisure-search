@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][pre-1994] Ninja game where you could run on a rope
+and fall if you stop. Platform: unknown, maybe DOS, ZX Spectrum, Atari
+Genre: platformer Estimated year of release: 1990-1994 Art style:
+pretty basic art Details: Hello community, I hope for you help here.
+This game I only played a couple of times, and I was a very little kid
+back then. Basically, all I can remember about it, it was about
+ninjas. The overall atmosphere was pretty dark and grim. Playable
+character could run on a rope, and if you jump or stop, youd fall. I
+think some part of the game included big mass of water, like ocean. I
+think, the main character could be blue, and its possible that there
+were red enemies, but its not 100% clear. Possible platforms are DOS,
+ZX Spectrum, maybe Atari. Im pretty sure it wasnt NES, and its
+definitely not Ninja Garden. Thanks so much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

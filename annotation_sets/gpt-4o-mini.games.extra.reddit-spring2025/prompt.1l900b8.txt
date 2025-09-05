@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[TI-99] [1980s?] Text Based Life Simulator. My buddy had a
+ti-99 that we played in the 80s and 90s when we were kids. I'm pretty
+sure there was a cartridge that we had to insert to play this text
+based RPG life simulator type of game, so I'm pretty sure it wasn't
+some DOS game. You'd make life choices and advance in age. I don't
+remember if there were any graphics. I'm wondering if anyone remembers
+the title or something akin to it for the ti-99? It wasn't one of the
+adventure games. My pal never wanted to play it because he thought it
+was boring. Any leads would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

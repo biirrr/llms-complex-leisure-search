@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Teen YA Adventure. Guy was naked in a forest/ bush. Mentions
+""silent but deadly."" Read around 2003 or later.. Hey everyone I’m
+trying to find a book that the guy was naked in a forest or bush there
+was a line in the book Silent but deadly. It might of been a series
+they made a tv show cartoon sort of Anyone know this I remember the
+teacher reading to the class around 2003 or later"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

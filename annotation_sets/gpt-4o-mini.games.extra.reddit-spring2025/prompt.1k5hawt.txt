@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Starts on a fortune teller tent. Old school
+fame for PC. Don't know genre of gameplay details because I've never
+passed from the creation screen. Game started in the tent of a fortune
+teller with a tarot deck. Upon selecting things the fortune-teller
+said something regarding your choice. At some point during the
+creation it was revealed that you have a twin brother and the fortune-
+teller said something like """"""""ah! There is... Another"""""""". No
+idea which game was this and I'd like to know which. Thanks all"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Game about a village selecting kids for a
+monster to eat. hello! i don't really know a lot about games, but i
+watched gameplay of this one game growing up and cannot find it again
+for the life of me Platform (s): 90% sure it was PC Genre:
+action/adventure type game Estimated year of release: must have been
+maybe mid 2010s since that's when i watched a lot of youtube as a kid
+Graphics/art style: from what i remember, it was on the more realistic
+side. Notable characters: the main character was a younger girl, you
+played as her throughout the game Notable gameplay mechanics: from
+what i remember you played as the girl and you were trying to run
+away, there were some cutscenes and various obstacles would pop up
+along your journey and as the story progressed. Other details: okay
+this where i know more. it was about a village that would choose a
+couple of children to sacrifice to this monster that would show up to
+the village every once in a while. the main character was one of them,
+and the monster ended up choosing her to eat. i think it was meant to
+be an honor to be chosen? but she didn't want to so she ran away and
+that's where the story began. i think MAYBE markiplier played this and
+that's where i saw it. i remember a scene where there were a bunch of
+kids standing on platforms in front of a body of water and that's
+where the monster would come from to eat them. thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

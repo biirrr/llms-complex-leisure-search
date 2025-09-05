@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Gun-game with Knack style evolving.
+**Platform:** PC **Genre:** first or third person shooter **EYoR:**
+Somewhere in the twenty tens probably **Graphics/art style:** 3d
+blocky neon colors Please help me find this game. I watched a ton of
+videos of it on youtube years ago but I forgot the name and can't find
+it anywhere. I'm not sure but I think it was a first person
+multiplayer shooter where you play as 'robots'/'relics'/cube things.
+After every kill you could gain their cubes and keep growing yourself
+until you became a giant with an instakill laser attack. It's pretty
+similar to Knack but if it was a shooter. Please help me coz I
+searched everywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

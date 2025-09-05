@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SuperNES] [Year Unknown] Game About Wizards herding little
+people. There is a game I used to play with my uncle alot when I was
+little. It was on the SuperNES and can be played with two players. The
+levels features a wizard placing a limited amount of blocks and set
+them to guide these little people to their destination. It's a game
+over if you run out of time, or if you let too many of the little
+people die. You can work with another player, or play in the other
+game modes. One of my personal favorite was the vs where you had to
+kill the other wizard. When you hit them, they make an low pitch
+""""""""OW"""""""" sound and upon death, they turn into a skeleton and
+fall apart. Whenever you complete a level, the Wizards will be waving
+their hands while fireworks go off in the background. I remember the
+game vividly but the name escapes me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2/XBOX360?] [2010-2014 maybe] Looking for a game with a
+small elf-like character or something like this.. **Platform(s):**
+PlayStation 2 or Xbox 360, can't remember. **Genre:** Puzzle-
+platformer, side-scrolling adventure. **Estimated year of release:**
+Sometime between 2010-2014. **Graphics/art style:** Cartoony 3D
+graphics with a dark, forest-themed environment. Side-scrolling camera
+perspective. **Notable characters:** A small, elf-like protagonist
+with pointed ears and a slightly dark/brownish color. The character is
+alone throughout the game. **Notable gameplay mechanics:** Puzzle-
+solving with platforming elements. Black goo/slime on the ground
+causes damage and emits black particles when stepped on. **Other
+details:** The game has a somber or slightly eerie tone, possibly set
+in a forest at night or dusk. No other characters were involved. The
+protagonist's design reminded me of a movie where kids shrink and
+become ant-sized, and a game adaptation of that film."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

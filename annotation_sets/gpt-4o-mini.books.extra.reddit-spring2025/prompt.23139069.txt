@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical, Native American Romance with character
+named or nicknamed Blue Beads. Read around late 1980s/early 1990s..
+Unfortunately, I do not remember much about the story line. I believe
+the FMC is named Blue Beads. The MMC may have a rivalry with another
+character. I believe the MMC/FMC have a son. And at some point she has
+a daughter, but does not know if the child is her husband's or the
+other character who assaults her. I think there may be a part where
+there is another couple set in future and it's implied that it's
+actually the main couple in future; not sure about this part. I have
+tried googling every author I could think of and searched for romance
+books with a character named Blue Beads, but no luck. I think the FMC
+may have been wearing a yellow dress or Native American garment on
+cover. I believe that when looking at the cover the FMC is on the left
+side and the MMC is on the right side. There may have been some blue
+or water on the cover. I would like to find the book so I could finish
+reading it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

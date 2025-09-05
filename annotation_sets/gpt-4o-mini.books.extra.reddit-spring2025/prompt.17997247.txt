@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "I'm looking for a Harry Potter Fanfiction I read. So what I
+remember is: a girl(a made up character by the author), attends
+Hogwarts during Harry's time but ends up time travelling to the
+Marauders era. She is accidentally sent there by Lupin, I think.
+Anyway, she ends up becoming great friends with them. ...SPOILER
+ALERT.... She falls in love with Lupin and at the end returns to her
+correct time, and realises Lupin is the boy she fell in love with in
+the past. I don't really remember what happened but Lupin ends up
+dying to save her. Iread this in 2011 or so on
+harrypotterfanfiction.net, but since they changed up the website I'm
+not sure how to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

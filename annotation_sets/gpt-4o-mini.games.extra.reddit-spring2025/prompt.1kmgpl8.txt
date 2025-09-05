@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPhone][2010's] Black and white detective game set in a
+small town. Platform(s): apple store Genre: narrative mystery/ puzzle
+(?) Estimated year of release: sometime in the 2010s Graphics/art
+style: black and white, eerie and stylized Notable characters: the
+detective, a motel owner?, a fisherman?, small town folk Notable
+gameplay mechanics: I thinkkkk there were puzzles throughout Other
+details: The setting is a small town, maybe the midwest or some part
+of Canada? Something with that vibe. I remember feeling a little
+spooked as I was playing it. Would love some leads! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

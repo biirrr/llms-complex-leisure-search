@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][Late 1990s-Early 2000s] A robot fighting game.
+Platform(s): Gameboy Genre: Action, Robot, Fighting Estimated year of
+release: Around 2000 Graphics/art style: It was quite pixelated but
+the camera view was reminiscent of a smash bros game Notable
+characters: A white robot that looked like a rubik's cube and a black
+robot that had wires for an arm Notable gameplay mechanics: From what
+I remember it looked like a smash bros game but you just destroyed
+robots rather than knocking them out. Other details: I played this on
+my ds when i was like 3 but it was a cartridge that stuck into the
+bottom of it and i remember having a action figure of the black robot
+but there has been nothing that i can find on this game. Help would be
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s] Celebrity type game where you go up a tier
+list.. I've been thinking of a game I played as a child on my old
+kindle fire but now when I look it up it's like the game never
+existed. It was a celebrity type game, you started kinda poor and meet
+a manager who books you jobs. Your first actual job is at a coffee
+shop. You collect money and hearts throughout the game. I remember
+something about an """"""""A-list, as you gain popularity you go up
+in the tier list. It had the art style kind of like movie star planet.
+Please help me find it I feel like I'm going crazy"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s / Early 2000s] 3D game where you move boxes
+into a truck while ghosts try to stop you. * It was a 3D game with
+**low-poly, cartoonish graphics** and **bright colors**. * You started
+in a **big mansion** (possibly the first level) and had to **move
+boxes into a moving truck**. * Some boxes were marked **fragile** and
+would **break if dropped or mishandled**. * While doing that, **ghosts
+would appear to scare or interfere with you**. * The game was **in
+English** and ran on **Windows**, though I dont recall the exact
+version * It didnt have cutscenes or dialogue that I remember, just
+**sound effects** (like boxes rattling or ghost sounds). * I likely
+got it from a **magazine CD**  possibly a shareware or demo disc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

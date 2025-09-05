@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy, Erotica Romance, 2 in 1 book. 2 sisters
+transported to different fantasy lands, meet significant other.
+Medieval world with dragon. Older sister (popular author) to
+spaceship, mind control device. Read around 2018-2020. Spoiler. [s].
+The book is a two parter and in the front pages of the book was
+something about it originally being an E-Book and actually published
+physically. 2 sisters are transported into the worlds of the book that
+the older sister writes as she is a popular author and they find their
+Significant Other in those worlds. One of them is sent to a medieval
+world where there's a dragon that sounds exactly like Sean Connery and
+there's a smeggs scene that involves a boat/ship rocking. And I
+remember some mentions of a advisor to the male lead telling him to be
+nicer to the female lead since her older sister did write nice
+husbands for ML's sisters to have. The older sister is sent to a
+futuristic cyber spaceship and is held captive by an alien or human
+male and at one point has a mind control device on her head so she
+can't run away from the guy. She also starts to get really bad
+migraines that have something to do with her younger sister finding
+her? The end of the book has the younger sister becoming a witch with
+powers and teleporting into the ship with her man and reuniting with
+her older sister. The younger sister also rides into the spaceship on
+Sean Connery sounding dragon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

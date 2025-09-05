@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][80s or 90s] Travel game with questions, 2 players.
+Hello. When I was little, from 1985 to 1994, I played a video game on
+PC with Ms/Dos on a friend's PC. In this game we were in two to play,
+one against the other, and we traveled the world to find an object. To
+travel between countries, you had to answer questions exactly, or you
+stayed blocked for one turn. Sometimes, even if you answered
+correctly, a thunder could keep the airplane down, so again blocked
+for one turn. It was a very good game. Low quality graphics, a map of
+the world with countries to choose. Once you chose where to start, you
+moved with planes only. There were no graphics, just text. But I loved
+this game, and I'm trying to search what it was by 30 years. I tested
+Carmen San Diego but I don't think it's the same. Thank you so much
+for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

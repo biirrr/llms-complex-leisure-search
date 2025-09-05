@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2013] Anime boyfriend chat simulator. It was an
+anime style game where you meet these guys in a group chat that you're
+accidentally added to and then you move to private dms, I think. There
+are about 5 different guys. It's in the style of iPhone text chat.
+It's a romance game. Sorry this isn't much to go on but not that much
+happened. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

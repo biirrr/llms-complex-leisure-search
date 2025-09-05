@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Science Fiction. “Regular, normal, boring” high school
+guy turns invisible.. I read this book 2008-2010 but it was a book
+that my elderly neighbor gifted me so I don’t know how old the book
+is. The book itself is about a guy in highschool (I think) who says
+his life is boring and regular, life is grey, has nothing to look
+forward to, and then the book is how he wakes up and goes about his
+day and how through his day he realizes he is invisible. And he tries
+to find a way to tell his friend that he’s invisible without scaring
+him. And I remember scenes where the invisible guy looks in the living
+room to see if his parents are still looking for him, because they’re
+like “where is he”. And a lot of the book is set in the library and I
+remember reading where the guy is describing the statue at the library
+and says that it’s a lion. And when he enters rooms he tries to be as
+silent as possible because well people can still hear him he’s just
+invisible. And his friend and him kinda like investigate how he turned
+invisible and they come to the conclusion that the invisible guy
+consumed something and like a side effect..? made him invisible. And
+i’m not sure BUT i THINK he goes back to being visible at the end.
+Please help me find this bookkk :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

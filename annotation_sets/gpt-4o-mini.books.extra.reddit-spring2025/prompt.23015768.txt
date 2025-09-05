@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance: Widows friend bets her to hit on a guy in bar
+for a pair of shoes. Guy turns out to be a rockstar.. MC lost husband
+and son when a drunk teenage girl driver crashed into them. MC takes a
+million dollar settlement because the driver was the daughter of a
+public figure (politician I think) and the trial kept dragging her
+story through the media. She no longer has to work but does work as a
+family photographer to stay busy. One night her best friend finally
+convinces her it is time to go out so they head to a bar that they use
+to go to a lot. Her friend sees some guys by the bar and bets her a
+pair of shoes that she wont hit on the guy. MC goes up to them and
+tells them about the bet to get the shoes. Eventually when the friend
+comes over the friend recognizes the guy as a famous rockstar. They
+talk for a bit and he invites them to his concert. MC and rockstar hit
+it off and he asks her to be the band photographer for the tour. She
+agrees."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

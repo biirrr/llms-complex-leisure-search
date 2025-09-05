@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][Unknown] Disney princes esq game?. I remember having a
+disney game for my ds when I was little. I think it had multiple
+different mini games in it that pertained to different Disney
+princesses? There was one for Tiana where you make food &amp; dance
+with her romantic interest. And I remember there being one for
+rapunzel where you drew/colored pictures and had that scene where she
+is on the boat with Flynn doing the lantern thing. I know it wasnt a
+story type game, it was just mini games from what I remember? Maybe
+they were separate games but I dont think they were, I wasnt allowed
+to have more than like 4 games at once lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

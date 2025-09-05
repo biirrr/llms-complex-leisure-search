@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Computer][Late 90s] Software telling you how to use a Dell
+Windows 98, explained by a guy in an office. **Platform(s):** Windows
+98, Dell series **Genre:** Edutainment **Estimated year of release:**
+Late 90s. **Graphics/art style:** Hard to say. **Notable characters:**
+An office worker guy. **Notable gameplay mechanics:** Amidst each
+lesson, he says """"""""Now it's your turn to try."""""""", where you
+play a little game. **Other details:** One lesson starts with the guy
+saying """"""""Email is a great way..."""""""", and sometimes he
+guides you through the desktop to look for something involving the
+lesson."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

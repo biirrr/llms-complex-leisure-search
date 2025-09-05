@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ARCADE][1996] Street racing arcade game my Dad wouldn't let
+me play as a kid. When I was just a 6-8 years old boy, there was this
+roller skating rink me &amp; my family would go to. Since I kind of
+sucked at roller skating compared to my sister, I would often be done
+earlier and beg my Dad for some quarters to play a few rounds on the
+arcade machines while I waited. One of the games there was an old-
+school racing game with a steering wheel. It had kind of a 1950s feel
+with rock music tracks, and several courses to choose from. Unlike
+other arcade racing games, the theme was more street racing, and as
+such you had to not only win the race but also avoid things like
+construction signs &amp; other cars on the road that could slow you
+down if you hit them. I remember one time my sister was watching me
+play, giggling """"""""The trick is not to run into the other
+cars!"""""""" I remember the hardest track was set in a forest, and it
+was hard because the road was very narrow with a lot of tough curves.
+I can't remember if I ever got to the end of that level before time
+ran out, LOL. But after a little while, presumably after my Dad
+watched me play one time, I was suddenly forbidden from playing that
+game again on future visits to the roller skating rink. Obviously I
+was mad at the time, and even now I really can't recall why I wasn't
+allowed to play it as a kid, it seemed perfectly okay to me from what
+I remember. I mean, the crashing into cars and other stuff was
+obviously supposed to be silly... Unfortunately, I forget the name of
+the game which is why I'm posting it on here. So...anyone care to help
+me out here?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

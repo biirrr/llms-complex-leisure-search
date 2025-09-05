@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GBA/DS][2000s?] Overhead racing game. I know I played this
+game on a handheld console, but I cant remember if it was on the GBA
+or the DS. In the story mode, there was this large man smoking a cigar
+that acted as your coach for the racing tournament. Kinda similar to
+the guy in the first photo, but with a smile and sunglasses (I think).
+One of the race tracks looked similar to the 2nd picture from a game
+called Super Speed Machines, and similar to the 3rd picture from a
+game called Top Gear: Downforce. iirc, you had the option to drive a
+jeep/buggy vehicle. There were obstacles on the track, like snakes (I
+think) and water or oil spills. You could also shoot missiles at other
+vehicles. Thats all I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

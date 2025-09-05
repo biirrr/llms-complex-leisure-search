@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography about a couple who bike around the world. [s].
+I think I read this book in the mid 90's. One of the bikers died
+shortly after their around the world biking adventure. I cannot recall
+the author or title, but thoroughly enjoyed reading it, and would like
+to recommend the book"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

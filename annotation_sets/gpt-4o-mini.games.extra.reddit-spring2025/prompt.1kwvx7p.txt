@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990s-2004?]About a horror game in a mansion, one
+cutscene is a clown doll suddnely moves, holding the knife and starts
+to approach a defenseless character, but player seems not able to do
+anything. Should be a 3D game. The game seems to be mixed with 2D and
+3D, but mostly 3D. That cutscene is all I can remember. But I do
+recall a black car parking outside of the mansion's gate. Found it,
+Alone in the Dark 2 !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance/ Mystery - takes place at a lake house and the
+main character ends up drowning. the book starts with two friends
+going to a family lake house for the summer, and the main characters
+boyfriend will also be there Throughout the book you learn the best
+friend and boyfriend want to be together but obviously can't because
+of the main character Later when the boyfriend tries to break up with
+the girlfriend, she thinks he's actually going to propose. Somehow I
+think she falls off the boat and drowns. The book ends with the best
+friend and boyfriend ending up together anyways, even after the main
+character died. I read this sometime in 2021/2022, it was from the
+library and unfortunately I can't look back that far into my
+previously checked out books."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

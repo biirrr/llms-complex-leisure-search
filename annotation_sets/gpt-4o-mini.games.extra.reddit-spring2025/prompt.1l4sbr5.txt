@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s-early 2000s] Tactical RPG where your party is
+made out of customisable monsters. For the last 20 years, I have been
+on the on and off search for the games I played as a kid. Majority of
+these games where from those old Demo discs. One of the games that
+constantly eludes me is this demo of a RPG/dungeon crawler/roguelike
+game (I dont know how to describe it better). You were given control
+of a party made out of (I think) 8 characters. They were either orcs
+or some kind of humanoid monsters. Reason I remember this game is
+because the party was customisable. You could switch how they look,
+make them bigger, change their color, give them helmets and choose
+between melee or range. Melee characters would wield axes and swords,
+maybe even spears and clubs, while range characters were stuck with
+only bows, I think. Levels I played were set in dark caves or
+dungeons. I dont remember any enemies, except one. They were these
+lawn gnomes armed with pickaxes and every time you would encounter
+them it was game over. I could never beat them, they would just shred
+my army like it was nothing. Maybe they were just programmed that way
+for a demo. Gameplay was like in Battle Brothers. Characters were
+sprites. When moving it was just an image of a first monster in the
+party. I dont think there was many animations except maybe attack
+animation, where range characters would shoot with a bow and melee
+characters would approach the enemy and either stab or slash them. Any
+ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

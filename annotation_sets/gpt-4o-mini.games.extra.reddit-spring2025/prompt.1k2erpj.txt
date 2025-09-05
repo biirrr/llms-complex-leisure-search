@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1995]Place red or blue squares on a grid, press start,
+watch them move/interact. Platform(s): PC Genre: Simulator? Estimated
+year of release: 1995 Graphics/art style: Basic 2D, just dots on a
+grid Notable characters: there were no characters, nothing happened
+unless you put dots on the grid, no dots existed to start Notable
+gameplay mechanics: The entire """"""""game"""""""" was placing red or
+blue dots on a large grid. Based upon the configuration of the dots
+your creations would move, or stay in place and move into different
+patters, or do nothing all dependent on how you first made them. When
+you pressed play they would start to move based upon their design. If
+a red configuration """"""""hit"""""""" a blue configuration or vice
+versa they would explode or otherwise cancel each other out. Other
+details: It was during the same era as Rodent's Revenge and Free Skii.
+Cannot find it on any of the Microsoft Entertainment Pack games. Thank
+you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

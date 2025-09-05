@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Realistic Fiction - Girl younger sister who live in a
+trailer in the forest isolated from society with neglectful mother.
+The police comes and the girls get put with a nice adoptive family who
+already has a daughter. Daughter feels threatened by arrival of new
+girls. The main girl (from the forest) is above her academic level
+when she returns to society despite being secluded for so long. The
+girl meets a boy who she likes and as she tries to keep her background
+a secret while adapting to society, she discovers the boy knows her
+past. He know her past because their mothers used to be friends before
+she was taken off to the forest (where she was also sexually abused by
+friends her mother would bring). Additionally, the cover of the book
+was black and white, and had half of the girl's face on it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

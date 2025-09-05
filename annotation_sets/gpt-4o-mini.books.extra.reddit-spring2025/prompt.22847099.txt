@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "solved? Middle Grade/ YA Romance Fantasy. Girl moves to old
+manor house & finds love letters seemingly from the past from a boy to
+his sweetheart in an old letterbox. She writes back & continues to
+receive responses. Read around 2000-2015. my mom told me she read this
+book many years ago (this is all she remembers of the plot, loosely
+'love letters from the past'. teen/young adult book in which: a girl
+goes to live in an old grand manor type of house, where she finds a
+letterbox with a love letter in it which seems really old. however,
+reading the letter, she feels as if it could be addressed to herself
+and writes back. she receives another response from the boy and so on,
+but he is still writing to his sweetheart and his letters and him
+still seem to belong to the past (and are maybe somehow travelling
+through time?) i would really love to read it - I have exhausted all
+other sites but am unable to find anything. mom also says it was an
+'unknown type of book'"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

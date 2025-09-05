@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [EARLY 2000s] Puzzle Game That Results in Buildings.
+Platform(s): PC Genre: Puzzle Estimated year of release: Early 2000s?
+Graphics/art style: Slightly pixelated cartoony style with blocky
+features Notable characters: There were tiny people who would
+gradually move along the bottom of the screen and interact on the
+side, I don't remember if they were ejyptians or cave man people?
+Notable gameplay mechanics: If I remember correctly, it was a puzzle
+game of some sort, possibly a match 3 style like bejewled or
+something. However, I do remember as you progressed through the
+puzzles of the level (it was level based), there would be these little
+people who would walk along the bottom of the screen carrying square
+sandy stone/brick building blocks. They would reach the side of the
+screen and then the building blocks were gradually used to build a
+structure or a building. Other details: I really want to figure out
+what this game was because I remember playing it as a kid on my Great
+Grandma's computer and it was my favorite game to play that she had.
+It was one of the games that was downloaded to her computer among
+others such as Bejeweled, Chuzzle, and Zuma. Please help! I really
+miss her and I feel like playing this game will bring some sweet
+nostalgia and memories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

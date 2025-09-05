@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[not sure if facebook, poki, friv] [2010-2017] a 2d game
+about a red dragon in space attacking space/flying pirate ships. when
+i was playing on my dad's laptop, on i'm not sure if it was on friv,
+facebook, poki or any flash browser games, there was a game about a
+red dragon that was in a pitch black sky or space with stars, the
+controls either followed your WASD or mouse cursor wherever you went,
+the dragon was moving like a [slither.io](http://slither.io) worm had
+like different types of attacks from what i remember it was like
+energy balls, flaming balls..... and there was some flying pirate
+ships that constantly attack you and you had to attack them back, not
+sure if the game was about on levels, endless waves and that's all i
+remember.. also this image i recreated should be more easier to
+understand what i explained!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

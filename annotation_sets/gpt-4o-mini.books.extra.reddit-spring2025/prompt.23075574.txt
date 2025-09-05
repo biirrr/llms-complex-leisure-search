@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance book where guy has strict eating schedule from
+past trauma.. The boy was sent away to his aunt's when he was young
+and she would forget to get food. When he ran out of food in the house
+he used to snack on mints or chew gum?? This led him to have a strict
+eating schedule and he ate (maybe) the same meal every day and would
+panic if he didn't eat. His aunts's boyfriend got him into this
+illegal kid fighting rink where he would win meals if he won when he
+was younger Later on in the book he spends a day with the FMC and
+realizes he hasn't eaten all day and starts to panic. They go to a
+restaurant and when he smells food he begins to panic I believe it's a
+romance book and part of me thinks it might have been somewhat dark
+but l'm not sure. I recently read this within the past year but can't
+for the life of me remember the title"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

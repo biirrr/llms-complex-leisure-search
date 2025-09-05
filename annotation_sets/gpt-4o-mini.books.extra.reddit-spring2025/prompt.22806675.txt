@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction written in the style of blog post by a gay guy
+relating his hookups. Read around 2017.. I read that book around 2017,
+it had around 200 pages or so... I think the cover had a shirtless guy
+with a pale blue background. The style of writing is similar to logs
+on a blog, craigslists ads or chat rooms...I think it's set it the
+early/mid 2000's. At one point in the story I think the character
+changes his name/identity and some parts of the plot are creepy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

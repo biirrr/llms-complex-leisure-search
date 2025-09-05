@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][~2017] Endless runner with Cyclops. Platform:
+Android Genre:Endless Runner with Combat element. Year:Remember
+Playing in 2017 Art style:3d cartoonish art style Characters:I don't
+remember who you play as but i remember the enemys as purple cyclops
+with yellow eye Gameplay: its very similar to subways surfer but with
+combat. When running to an cyclops you can swipe downward to
+roll/attack resulting to the cyclops getting eliminated. I also
+remember thers wall climbing, jumping the swiping to a wall allow you
+to jump of the wall. Don't exactly remember if theres double jumping.
+There is also areain the game where is it full of gold and lava.
+Title: don't exactly remember it but i remember it's a 4 letter
+acronym and it start with B if my memory serve me correct"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

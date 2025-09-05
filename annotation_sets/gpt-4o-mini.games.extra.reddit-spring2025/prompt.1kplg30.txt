@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3/Steam][2010s] Airy 2D about bouncing light balls, Found
+a while ago but lost again. Platform(s): Played on PS3, I later
+searched online and found it on Steam (but wasn't logged in, didn't
+bookmark) Genre: 2D freeform/open vertical platformer Estimated year
+of release: Early 2010s Graphics/art style: Single colour gradient
+backgrounds (I am colourblind but understood it was shifting colours
+too) with white tendrils and many floating/spinning white dots. I
+included a rough imitation Notable characters: none, you just played a
+white dot jumping around Notable game mechanics: You had to collect
+other white dots. You bounce off of the tendrils. If you fell below
+the current screen, you die. So only moving upwards/diagonally. Other
+details: When I found it on steam, the studio was called something
+along the lines of """"""""Steampunk (x)"""""""". And the title of the
+game is ~2-3 words. Thank you ! °""""""""Ï o ° ¤"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

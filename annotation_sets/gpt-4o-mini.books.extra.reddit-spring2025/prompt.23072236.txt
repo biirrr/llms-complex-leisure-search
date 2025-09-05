@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Drama/ Mystery story told from ghost POV. I was reading a
+story that was advertising one of those apps like meganovel or dreame.
+It was about a girl, teenager, named Emily. Her mother was a firensic
+pathologust and her father wasca detective. She had an okder brother
+who was no longer living at home. She had been missing from home and
+her parents had adopted another gurl named Sofia. When Emily was
+returned to her birth parents she was ignored by them and they doted
+on Sofia. The story is told, at keast what i had read, from Emily's
+ghost POV since she was murderedbabd her parents are investigating and
+do not realize that the Jane Doe they found is their biological
+daughter. They think that Emily has run off pouting, being jealous of
+her adopted sister. I did not finish the story and i do not remember
+the name nor the app it was on. Does anyone recognize this story and
+know the name please? I read this story a few days ago in March 2025."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1994-2002] game within a game where you program a
+marching band to perform a half time show.. This was an educational
+piece of software that had several mini games/ mini programs within
+it. One of them allowed you to program a half time performance for a
+marching band. You would place different band members on the
+(American) football field and then tell them where to March and when.
+Once you had given all the commands you pressed play and they
+performed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

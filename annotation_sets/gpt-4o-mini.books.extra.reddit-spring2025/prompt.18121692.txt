@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiographical, African-American/Black Woman, Coming of
+Age [s]. I cannot remember the title, author, or ISBN of a book I read
+10-12 years ago when I was in middle school. I believe it was an
+autobiographical book. I do remember that it was about an African-
+American/Black woman and her life growing up. It may have taken place
+in the '60s-80s, and may have been published in the '90s. It is
+somewhat of a coming of age story, as it chronicles a bit of her
+childhood (how she experimented with smoking cigarettes) and her
+college life. I believe she went on to be a motivational speaker, as
+she was at a podium on the cover of the book (if my memory serves me
+correctly). The cover is a green color (aside from the photo of her on
+the front). She is a light-skinned woman. Other details: she mentioned
+that she was friends with a Caucasian woman in college and they ended
+up being married to the same man, who was also Caucasian, but at
+different times. Her name may be Charlene, Charlotte, Cheryl or
+something like that. Please help. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

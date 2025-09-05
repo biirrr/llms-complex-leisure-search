@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] flash game about stealing cars. It was
+basically like you were this bald guy or something and the whole
+premise of the game is you were angry and jumped from car to car and
+sometimes even to motorcycles because you were so angry and had so
+much road rage. I cant put my finger on it but I remember playing it
+when I was younger. Any help would be appreciated. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][1980s1990s] side scrolling platformer endless vertical
+jumping. Hi everyone! Trying to find the name of a NES side scrolling
+platformer game. You start at the bottom level and enemies are coming
+at you and you can jump endlessly vertically thru trees. I dont
+remember any fall damage. You can just keep jumping vertically to
+avoid enemies. You defeat enemies by using a blade that appears like
+you are chopping pieces of your hand and it hurls towards the enemies
+(may be due to the sprite image limitation on the movement of the
+blade going in a downward motion and the chopped hand could be an
+small energy blast coming from the blade). Its not Legend of Kage and
+its not Flying Dragon the Secret scroll. I do remember it being some
+type of Ninja or samurai type character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

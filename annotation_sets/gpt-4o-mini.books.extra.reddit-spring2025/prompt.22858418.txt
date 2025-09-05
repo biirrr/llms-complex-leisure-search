@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Romance. Woman who died needs to help a guy
+find a girlfriend so she can go to heaven. Set in UK 2000s.. After she
+died this women is back to world of living because she has assignment
+to help one to find a girlfriend because that the way she go to
+heaven.She came's back to same town where she used live, she lives in
+house with two people who are also have similar assignment' s. She
+also got a job as web designer and she is spying her friends and
+fiance but they can't recognize her.This book is set in UK in the
+2000s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s+?]Penguin flying game?. Alright gang, so I was
+watching this video about flash games and they went through a bunch of
+old ones I was nostalgiac for, and as they did, I hoped they would
+talk about this one game whose name I just couldn't remember. Because
+if they DID talk about it, I'd be able to know the name and play it
+again because it was a lot of fun! Basically you were in like, the
+arctic trying to help a penguin fly. So you would launch the penguin
+and earn money, and you'd invest the money into upgrades to make the
+penguin fly farther. I think it might have had sequels, but I could be
+wrong. Does anyone know what game this is, I cant even remember the
+websites I played it on"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

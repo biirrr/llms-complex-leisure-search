@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE][2014]? Looking for a weird fantasy/elemental mobile
+game where everyone is dogs.. I can never forget this dumb game I
+played as a kid, and I come to these subreddits every few years to
+double check but so far no luck. It mightve had dog somewhere in
+the title but I think the narrator or first character ur introduced to
+is like an old wise dog that reminds me of master shifu from kungfu
+panda. It takes place maybe in the mountains with a small village
+enclosed by a vertical log fence. You could interact with some
+townsfolk, one being like a Labrador construction dude or something.
+When you left the fortress, you would fight elemental creatures
+although the map was relatively small. The art style was cartoonish,
+but with somewhat 3D colouring, I think you got to choose your gender
+but not much else. I also vaguely remember the opening or sign in
+screen having a background of a grey mountain up close. The only parts
+of the map I can remember aside from the fortress is a forest path,
+one way leading to an ocean, and another leading to a stone area where
+youd battle elemental beings? I only distinctly remember there being
+electricity and water creatures. OH AND the dogs wore clothing.
+Definitely a game for kids, I mustve been somewhere between 7-10 when
+I found it. But thats all I can remember, if anyone has any ideas let
+me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

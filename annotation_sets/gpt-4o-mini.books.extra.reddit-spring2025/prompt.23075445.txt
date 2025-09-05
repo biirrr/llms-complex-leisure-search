@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Horror - Tale in a “scary story” anthology where a father
+deliberately gouges his eye out on the corner of a table in honor of
+(or as penance for?) his dead son.. I read this around 2001-2006. It
+was not a novel, but a collection of stories like “Scary Stories to
+Tell in the Dark.” In the only story I remember from the collection,
+the young son had died (somehow having to do with one of his eyes
+gouged out) and now the father is driven by guilt or perhaps being
+haunted by his son’s ghost. The story maybe takes place on Halloween
+or maybe has something to do with pumpkin carving. I believe the last
+line of the story is something like “So I turn my head towards the
+corner of the table and angle it just right.” I really appreciate any
+help—this story has haunted me for decades."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

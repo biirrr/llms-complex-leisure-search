@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Follows woman who runs away in wedding dress
+by hopping on a plane and ends up in a bar and the bar owner takes her
+in and romance ensues. Read around 2015-2020. [s]. I read this
+book/book series about 2015-2020 (sorry can't be more specific). The
+comtempoary adult romance book follows a woman who runs away in her
+wedding dress by hopping onto a small plane (i think set in america
+and she goes north) she ends up in a bar in this town where the plane
+dropped her off. The bar owner helps her out & gives her job and a
+place to stay and romance stuff happens. I don't remember much abotuth
+the female lead but the male lead is the bar owner. He's taking over
+the bar from his father who has passed away and there is something in
+the will that requires him and his brothers to return to town and help
+run the bar for a year(?). I think there is a military brother, twins
+who make music, a tech brother at uni/college and the book continues
+in a series that follows the other brothers where they find love."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

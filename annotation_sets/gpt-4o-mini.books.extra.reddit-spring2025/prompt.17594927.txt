@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography of a British Embassy Employees Wife [s]. I
+read a book about 8 to 10 years ago that was a cross between an
+autobiography and a travel book. I would have found it through looking
+for travel books at the time. It was written by a woman who had been a
+writer (maybe for womens magazines) in the UK. She married a man who
+had a job for the embassy and followed him all over the world. At one
+point they were some place in the Caribbean and the husband breaks
+both legs jumping out of a window. They also lived in Africa somewhere
+and I think the book ends with them in one of the stans. Their kids go
+to boarding school back in the UK and sometimes get in trouble. I
+can't recall anything about the cover or when it might have been
+written. Thanks for any help in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

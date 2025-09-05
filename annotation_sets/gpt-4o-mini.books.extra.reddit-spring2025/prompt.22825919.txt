@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "General Fiction. Florida teen is sent to boarding school in
+upstate New York; the camp involved horses. [s]. I read this book in
+2014/2015 and I believe it was published around that time as well
+since I remember getting it off the new release table at the library.
+I remember the main character was a teen girl from Florida who get
+sent away to a boarding school/horse camp as punishment for something.
+I think it took place in the 1950's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2005-2010 Nonfiction Graphic Novel How To book. [s]. Found
+this book in Barnes and Nobel. It was by two authors who showed you
+how to make and publish a graphic novel. The whole book's layout was a
+comic with the authors showing up or commenting on the pages as you
+read. The book was in full color with most of the tools needed to make
+a graphic novel actually drawn out and not referenced with a
+photograph. I believe the book also covered how to make web comics as
+well. That's about all I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

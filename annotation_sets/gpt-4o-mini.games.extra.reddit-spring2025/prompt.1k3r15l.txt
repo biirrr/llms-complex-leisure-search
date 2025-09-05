@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [late 2000s] 2d pixel games where you make choices
+and become different characters. Hey guys, so I've been looking a
+while for this game. It's a super simple game if I recall correctly.
+It's a 2d pixel game. You make choices and change characters depending
+on those choices. You do that essentially until your character
+""""""""dies"""""""" and then it shows you a summary of everything you
+became during that life. The background of the game is basically
+always black and the only real """"""""gameplay"""""""" is you choices
+you make to determine what your character becomes next. A couple
+things you could become were a prodigy (I don't remember if it
+specifically says what kind of prodigy) and even the messiah. There
+were lots of different people/characters you could turn your person
+into if you knew the correct path to follow. It was a very simple
+pixel game but i remember it would entertain my little kid brain for
+hours unlocking all these cool pixel characters. Anyways, I cant
+remember the name and would appreciate anything that leads me
+rediscovering that gem of a mobile game. Oh also it isn't bitlife,
+this was way before bitlife."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

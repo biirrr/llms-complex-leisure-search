@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[plug n play] [2005-2010] bike plug n play that you could
+sit on. It was white with green accents. An AV cable plug n play from
+around 2005-2010, but i played it as a kid in 2013 when i got it from
+a thrift store, so exact release dates are unknown. It took game
+cartridges similar to the N64, I personally had 2 games, a toy story
+game that i think was a platformer? And a game about a bus. The art
+style of the bus one was like a cheap mid 2000s flash game, flat,
+overly cartoony art, I'm not sure about the toy story one though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

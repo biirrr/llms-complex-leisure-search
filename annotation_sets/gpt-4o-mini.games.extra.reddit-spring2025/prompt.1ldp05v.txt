@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [Late 2000s-early 2010s] Text based survival game.
+Platform: Mobile, but I played specifically on an apple iPad Genre:
+Survival Estimated year of release: I played it around 2012 Graphics:
+A mix of text-based with a GUI and ASCII art Notable characters: You
+were unnamed and your goal was to survive Notable gameplay mechanics:
+You could """"""""explore"""""""" and the game goes from mostly text-
+based to ASCII art and different symbols dictated certain encounters
+and objects Other details: The game isn't entirely text-based, there
+was a small UI that you tapped and allowed you to collect firewood and
+mine for things. When you tapped to do this there was a timer bar that
+has to fill in order for you to be able to do something else. I'm
+pretty sure you also had items and enemy encounters. A random tiktok
+with some ascii art randomly reminded me of this game and I really
+enjoyed it. Any help would be appreciated. Thanks guys"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

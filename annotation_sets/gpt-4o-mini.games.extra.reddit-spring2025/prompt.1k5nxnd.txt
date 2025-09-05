@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360] [2010-2015] Silly multiplayer team based combat
+capture the point game. I used to play this game with my brother
+around 2010-2015. it was 3D and you were on a team and you had to
+capture towers or something which would mark your teams spawn point. I
+believe it had magical elements to it aswell. And I think you won by
+capturing the opponents castle or something. One map was in a desert
+and had a quicksand whirlpool, one was in a cave/volcano I think, and
+another was in a forest. The game didn't take itself to seriously and
+I think the characters had big heads. There were two main modes, one
+of them was called Skirmish which was the offline version where you
+played against bots. IIRC they made a second game that was a dungeon
+crawlimg game like Diablo"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

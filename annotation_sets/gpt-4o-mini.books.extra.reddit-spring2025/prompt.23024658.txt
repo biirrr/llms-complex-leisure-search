@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Group of girls go on school? trip, stay at
+activity centre type place, set in UK? Eating disorder, severe eczema,
+etc. Their mini bus drives past a car accident. Cover: white. Read
+around 2005-2006. Spoiler.. Hi guys, been desperate to find this book
+since I read it as a teenager, here is what I know: I think it was set
+in the UK and written either in the late 90s or early 2000s, I
+borrowed it from the school library in around 2005/06. Follows a group
+of teenage girls who go on either a school (I think) trip where they
+stay in an activity centre type place. In the first chapter their mini
+bus drives past a car accident and the character sees a woman with
+half her face missing or burnt off and can't stop thinking about it,
+though it is unconnected to the rest of the story. I think this
+character who witnesses it is called Hen and she has an eating
+disorder. Each of the girls on the trip has personal problems. Another
+girl has severe eczema and it is either this girl or another one who
+is a bit of a bully and ends up falling or being pushed off the roof
+at the end of the book. Also a girl has sex with a guy in a sandpit
+and it is uncomfortable to read as he is quite forceful and sexually
+violent I think. The book had a white cover but I cannot for the life
+of me think of it's title and it is doing my head in. I will be so
+grateful if someone can help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

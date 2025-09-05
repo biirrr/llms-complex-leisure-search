@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "British police series. Looking for a British police series.
+Main detective is a man but he has a male and female as his two
+assistants. One book has them trapped on an island in an older home
+where vacationing (recovering) people are staying and one was killed.
+Another has them back at home and the two assistants are often off
+individually investigated different leads to solve the crime-typically
+each faces great peril before the climax. One of the books had her
+driving a long way to interview a man the reader know is the killer
+and it was so suspenseful as she is driving and the main detective is
+putting all the pieces together and the reader is hoping he figures it
+out before she gets to his house-he doesn’t but it all works out
+thankfully. Loved these books-read maybe 10-15 years ago?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

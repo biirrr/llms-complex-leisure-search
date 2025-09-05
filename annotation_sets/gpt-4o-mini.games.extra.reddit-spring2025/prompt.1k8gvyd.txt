@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NINTENDO WILL][2000] About taking care of something furry?.
+If I remember correctly this game starts off in a factory and theres
+an egg of whatever color and its moving on something in this so
+called factory until you get it. I think you have to crack open the
+egg using the Will remote. It could have been on any other platform
+but the one I played it on was the Wii one so the controls were iffy.
+Then a furry little creature would pop out. I remember the fur being
+very stringy in a way? Like those ps1 or ps3 games, yknow? Anyway,
+you could bathe the creature and entertain it? I remember only bathing
+it but Im pretty sure you could entertain it if I recall correctly. I
+believe my creatures fur was purple and I think you could have
+multiple or something like that. Thats mostly all I could remember.
+If anyone could help me please do because I remember this game being
+so much fun. Also the creature made noises if that helps and the
+graphics were very old Wii style. Like an old 2000s game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

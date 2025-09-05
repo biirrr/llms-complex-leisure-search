@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Crime Detective/ Supernatural Thriller set in future
+Australia. Every person has their own ghost that is always present but
+can't be seen by others. Read around 2016-2018. [s]. This is a
+crime/supernatural thriller. A detective/supernatural book where one
+of the plot points is that every person has their own ghost that is
+always present and can be seen by no one else. Specifically, it is
+some other dead person, not themself. I believe the author is
+Australian and the story is set there, as well. I read the book around
+2016-2018."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

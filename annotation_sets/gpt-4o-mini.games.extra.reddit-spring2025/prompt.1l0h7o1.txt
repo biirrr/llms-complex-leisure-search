@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH][2010s] game where you battle with a stack of
+characters. its been a while that that i'm trying to find the name of
+this game where you stack a bunch of squareish characters on a little
+grid and battle with them like a tank formations of sorts, the game
+had a fantasy aesthetic with mages and barbarians, your organized and
+upgraded your team and went against other teams of enemy npcs"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

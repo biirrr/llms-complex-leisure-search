@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller/ Suspense: Search for a serial killer in a
+small town. Spoiler included. Help me remember the title of a novel.
+It is about a woman who goes to a new town to investigate a series of
+missing people. She may have been a detective or maybe an author? She
+stays in a cabin. But there was something weird about it when she
+arrived. She befriends a local bartender who helps her. Spoiler: she
+discovers the killer has been living in an abandoned place through the
+woods near her cabin, his chilhood home. She finds the bodies of those
+he has killed preserved and set up in various scenes in the house. I
+read this book sometime between 2021-2023."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

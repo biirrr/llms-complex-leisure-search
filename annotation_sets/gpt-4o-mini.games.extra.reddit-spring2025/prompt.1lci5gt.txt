@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2016-19] Card/deck building, turn based.
+Platform(s): Mobile, I played it on android, not sure if its
+available for iOS Genre: Card/deck choice based Estimated year of
+release: Not sure, but I played it around 2017-19 Graphics/art style:
+Dark fantasy, seemed like hand drawn Notable characters: First boss
+card was something like a tree, one of the bosses was a Wendigo
+Notable gameplay mechanics: On every turn you can choose to take or
+to give a card You travel through a path of cards to reach bosses
+Cards come in color-coded types: """""""" Green = Food """"""""
+Yellow/Gold = Money """""""" Silver/White = Chalice- (beneficial,
+which I think were referred to as hero cards) """""""" Red = Greed
+cards (negative effects) Running out of food ends your run Having too
+much money triggers a greed debuff, causing a guaranteed penalty or
+restart Cards could be traded (e.g., 2 food + 3 money to proceed) On
+death or failure, the run starts over Bosses """""""" You fight
+bosses, and defeating them adds them to your deck """""""" You can
+choose a starting boss card to gain a buff at the beginning Other
+details: The icon I think was an eye"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

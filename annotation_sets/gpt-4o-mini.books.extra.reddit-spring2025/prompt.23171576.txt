@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Children Fantasy series. Girl (Petra?) can see Ghosts.
+Ghost turns the sun to blue which has the power to improve people's
+brains. Jump into a hole that takes 3 months to fall through.. Looking
+for a book series I read years ago — fantasy/paranormal about a girl
+who can see ghosts! I remember the main character had a name like
+Petra (or something similar). She could see ghosts. It was a fantasy
+series (multiple books). As I remember in first book ghost turned the
+sun to blue. The blue sun has a power to improve peoples brain. But if
+you stayed too much. You would die from brain bleeding. Also as I
+remember there was a dog stayed a bit too much in the sun and achieved
+telepath powers so main charachter could talk with dog via to
+telepathy In another book (maybe the second or third), the main
+character had to jump into a hole that would take around three months
+to fall through. To survive, they cast a spell that shrank their food,
+and she had to remember to eat according to its real size. At the
+bottom of the hole, there was a butterfly with portals on its wings.
+Any help identifying this series would be amazing! Thank you for your
+help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

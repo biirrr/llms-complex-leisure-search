@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young Kids chapter book about a boy and a girl who have this
+magic rock that grants wishes. I read this book when I was like 10-11
+(roughly 2005-2006) the book is about. Young boy and a young girl who
+become friends and they find this magic rock that grants them wishes.
+I really only remember the ending. The boy and the girl are at a lake
+(possibly a summer camp setting?) the girl walks away and the boy
+whispers his final wish into the rock which is that he wants him and
+the girl to be together forever, then throws the rock into the lake.
+The cover of the book (if I’m remembering correctly) has the girls
+hands open, holding the rock with the boys face looking shocked. I’ve
+been searching for this book for years! Please help! Thanks in
+advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s/2000s] horse racing sim. The Kentucky derby today
+has sparked my memories of playing a simple horse racing game on my
+family desktop growing up in the early 2000s. I believe the game was
+called Winston downs and it was a part of a big games pack of simple
+basic games for your PC. I cannot find anything about this game and
+have looked a bit myself. It had basic 8 or 16 bit graphics and there
+are odds for all the horses and you place a bet and have them race
+across the screen slowly. You could also buy horses and bred them if
+you got enough money to afford one. I never successfully had my own
+horse win the big one as a kid. I was wondering if anyone has heard of
+or knows something about it Id love to find a copy to download and
+use my big adult brain to finally win the big one."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

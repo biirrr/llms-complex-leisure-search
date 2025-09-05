@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, windows][2015 foward i believe] Rock Crawling, Off Road
+Sim. Here's a pic of the game, hope it's of any help
+[https://imgur.com/a/D7XKCdY](https://imgur.com/a/D7XKCdY)
+**Platform(s): PC, windows I believe** **Genre: Off Road Racing, Rock
+Crawling (Don't know the exactly genre)** **Estimated year of release:
+Sorry, no idea, but dont seen too old, maybe 2015 foward**
+**Graphics/art style: 3D Realistc** **Notable gameplay mechanics: Off
+Road Driving Simulation**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

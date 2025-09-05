@@ -1,0 +1,43 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir about a young girl wandering the countryside during a
+war, loses her brother to a gunshot while sleeping in a foxhole; the
+novel has a forward where the author states she only wrote what she
+could specifically remember [s]. Hi, I believe read this book in 2004
+at the latest. It's a non-fiction novel or memoir (possibly YA, but
+probably not) written by a woman who, as a young girl (around ages
+8-12), lived through a war in her home country. I am embarrassed to
+say I'm not 100% sure which country or which war. I believe it took
+place in Vietnam during the war in the 1960s/1970s, but may have been
+another country in Asia such as Cambodia. Or perhaps she moved between
+countries at some point. I clearly remember: there is a forward in the
+book where the author talks about how she is certain about every
+detail she wrote. She specifically says she only wrote what she could
+remember and didn't change or fluff any details, and that if she
+couldn't remember something well enough, she left it out completely. I
+remember being surprised by how much detail she was able to recall so
+clearly. I also remember for sure: at some point, in the first half of
+the story, the girl is with her brother. They may have been separated
+and reunited before this. I believe he is a few years older than her.
+They are very close. They sleep/hide in a foxhole during the night,
+and when she wakes up, her brother has died from a stray gunshot wound
+to his head. She may have been living with a blind, elderly man or
+woman near the beginning of the story. Or perhaps she was rescued in
+some way by an elderly person. I think this person later dies, and
+then the girl is on her own for a time afterward. (This may be when
+she reunites with her brother, but it could be the opposite... perhaps
+her brother dies first, and then she meets up with the elderly
+person). The book cover might have a lot of the color red, or maybe a
+striking/focal object in red? The girl's coat or something? I remember
+being struck by just how much this child went through. She
+escaped/avoided death multiple times. I have the sense that she
+covered a great distance. I wish I could remember more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

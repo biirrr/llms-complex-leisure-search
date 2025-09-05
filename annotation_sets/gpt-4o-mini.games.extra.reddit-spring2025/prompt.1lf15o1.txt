@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][2022/23] Zombie tycoon game. In my sophomore year
+of high school, my friends and I would play this browser zombie tycoon
+game. It was a top-down 2D game, where the visuals were basic with
+simplistic vector shapes and solid colors. I don't think the
+characters had any limbs, just heads on bodies, but I'm not exactly
+sure. You would traverse through different levels, and earn money to
+spawn zombies to kill all the humans in the level. There were little
+houses and walls that the humans could use to hide. You would buy
+upgrades to make your zombies more powerful, have more health, run
+faster, etc. We played it all the time on our school-assigned
+Chromebooks, because it was one of the only games we could find that
+was unblocked. But now I don't remember the name or the URL. I'd love
+to play it again, since I remember it being pretty fun. Thanks if
+you're able to help me out!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

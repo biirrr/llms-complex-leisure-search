@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [&lt;2018] game about mixing elements in a beaker
+on a Bunsen burner. Platform(s): Mobile Genre: sandbox Estimated year
+of release: before 2018 Graphics/art style: 2 dimensional Notable
+characters: no characters Notable gameplay mechanics: you got to
+combine elements and watch reactions between them Other details: there
+was a bunsen burner you could use aswell that would take up a majority
+of the screen, and i remember that magnesium would glow but i cant
+remember why. also it was free and almost completely black"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

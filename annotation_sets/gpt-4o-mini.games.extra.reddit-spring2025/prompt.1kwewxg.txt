@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [3-5 years ago] game about a black square that
+moves automatically for you. I played this game quite a bit of time
+ago, some of the mechanics were that you automatically moved, and the
+only thing you could control was jumping, which was just by simply
+tapping the screen. there arent many things i remember, one of them
+was a sawblade but thats all i can really remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

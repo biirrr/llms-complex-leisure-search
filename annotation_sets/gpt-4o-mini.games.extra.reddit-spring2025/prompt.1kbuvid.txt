@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[GameFudge?][2010-12] Weirdly violent puzzle game. Help! I
+havent been able to find this game since I played it in middle school
+and high school, which would have been roughly 2010-2012. The premise
+was that you are (or are with?) a group of small forest critters, and
+your land is getting clear cut for a development. If you make it
+across the river, or something along those lines, you make it to
+freedom! So, the game is a series of small but increasingly violent
+and complex puzzle games in which you sometimes have to sacrifice a
+few animals in order to use their bodies to get others to safety.
+Think: stopping a saw blade with a squirrel so the rest of the team
+can run past. The goal is to finish the game with as many survivors as
+possible. It was honestly pretty dark for a middle schooler to be
+playing, but it was classed as a puzzle game and therefore made it
+through the relatively poor school firewalls. This was an online game
+I played when I was done with my work, probably on Game Fudge or
+something similar. Has anyone ever played this??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

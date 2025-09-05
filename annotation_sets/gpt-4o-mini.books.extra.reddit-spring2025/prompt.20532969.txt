@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult WW2 Non Fiction. Boy/ young man kep in WW2 prisoner
+camps (Poland?), becomes friends with a guard to try and stay alive.
+POW life in different Stalags. Title similar to ""The Long Way/ Walk
+Home."" Read in 1980s. [s]. Good evening I have been searching for a
+book for many years that I read as a child in the 80s. The book was
+about a boy/young man who is kept in prisoner camps, I believe in
+Poland during WW2 and becomes friends with a guard over a few years to
+try and stay alive. Towards the end it documents him going on very
+long walks being escorted by the German troops ,nearly dying of the
+cold and starvation before the Germans ultimately surrender. Most of
+the book is about POW life in different Stalags. I thought the book
+was called ""the long way home"" or "" the long walk home"" but have
+not been able to find it. Any help is appreciated"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

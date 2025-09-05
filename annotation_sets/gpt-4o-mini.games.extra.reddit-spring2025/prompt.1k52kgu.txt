@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2015-2020] dark-ish game where you play as a dog
+in a house with other dogs. Platform: Mobile Genre: Hard to say, it
+was kinda dark? Year: Really not sure, probably somewhere between
+2015-2020 The game was made with pixelart, and I believe you played as
+a golden dog? There were a good few different dogs, and there was a
+feed mechanic as well. I think there was an angry black dog too. I
+remember one of the dogs was poisoned/murdered by another dog. There
+was a big conflict, I can't remember why. There may have also been a
+level up mechanic related to food? Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

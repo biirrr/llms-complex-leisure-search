@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC FLASH GAME][MID-2010s] Time Travel to Save a Plane from
+Crashing. Platform(s): PC Flash Game Genre: Point&amp;Click Estimated
+year of release: mid-2010s Graphics/art style: 2D style If I remember
+correctly the story was very short, it was about some scientist who
+lost his family in a plane crash or something like that, he then
+decided to build a time machine and the player must make sure to save
+the plane. If you fail you come back at the beginning of the game. It
+was a basic Point&amp;Click game with 2D graphics, and a greenish
+color tone I think. The name of the game was like """"""""Déjà
+Vu"""""""" or something similar, however the title might be different
+as I played it on french flash websites."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

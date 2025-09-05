@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2010-2020?] [PC] Abu Dhabi sandstorm rescue mission action
+game with acid?. I played this game at my mates house a couple of
+months ago can't remember the name. It was like with these 3 dudes who
+go to look for survivors in Abu Dhabi which got hit by a sandstorm and
+people have gone like batshit and they like shoot stuff from planes
+and shit. There was like one big scene my friend showed of like the
+dudes covering the place in acid to kill all the bad dudes and then
+find out that there where like survivors who where found who got
+burned by the acid to and the main character kinda loses his shit.
+Does anybody know what game I'm talking about?? (Such a bad
+explanation lmao)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

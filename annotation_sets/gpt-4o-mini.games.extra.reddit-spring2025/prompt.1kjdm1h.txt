@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010S(?)] Psychological Horror First Person Shooter
+where you have to not kill yourself. Platform(s): PC (almost
+certainly) Genre: FPS with psychological horror elements Notable
+gameplay mechanics: The use of the full keyboard to not kill yourself,
+audio logs and notes left that would imply a larger conspiracy. Hey
+folks, I listened to a Waypoint Radio episode ages ago where one of
+the hosts described this indie FPS game that received a sequel and I'm
+having a terrible time trying to find it. I distinctly remember the
+first game having a possibly quick time event mechanic where upon
+reading new notes and listening to audio logs, you had to stop your
+character from killing themself with the pistol you also used to kill
+enemies. You had to use a good number of keys on the keyboard to put
+the gun down, put the safety on, release the magazine, etc. The sequel
+was a lot less dire than the first game, the notes described something
+as The Kill Shot and that you Had To Go For The Kill Shot. As far as I
+can tell, the structure of the game remained the same, it just left
+all the minor key horror behind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

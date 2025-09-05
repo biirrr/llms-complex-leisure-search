@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Pre 2017] Simple Top-Down SpaceShip Shooting and
+Exploring. (The image above is a drawing from memory so it may not be
+totally accurate) Platform(s): Windows PC Genre: Top-Down Space
+Exploration and Shooting Estimated year of release: 1990's
+Graphics/art style: Simple Lines Notable characters: Small Ship
+Notable gameplay mechanics: You could talk to aliens described through
+text and you could become allies with them if you chose the correct
+dialogue options. You could customize your ship's specs and even get
+smaller ships flying beside you on your team. Other details: the
+controls felt really floaty like the ship really was floating in
+space. Momentum took a while to die down so I would often accidentally
+land on planets. I think it had a multiplayer option that I never got
+to use?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

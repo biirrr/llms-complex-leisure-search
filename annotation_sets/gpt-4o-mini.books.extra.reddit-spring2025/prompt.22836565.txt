@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Young woman wins lottery, also suffering
+illness, the name of the book i THOUGHT was Lilly or Lilah.. i read
+this book about 6 years ago. it was probably around 500+ pages. the
+book was about a young women, i remember her winning the lottery,
+taking a trip, i remember her having an illness and that i THOUGHT the
+title was Lily or Lilah but I cannot find this book."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

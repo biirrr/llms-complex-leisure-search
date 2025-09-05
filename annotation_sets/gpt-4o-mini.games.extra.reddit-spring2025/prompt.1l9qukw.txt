@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][UNKNOWN] ONLY A CUTSCENE. I only remember one thing
+about this game, which is the cutscene. The protagonist of the story
+wakes up with his pajamas on backwards. From what I remember, the
+graphics were kind of colorful and LOOKED like they had anime lines. I
+tried really hard to remember the details to make this post, but
+that's basically what I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[puzzle?] [Mobile game]Game we want to download but don't
+remember the name of. We did this quick sketch of what we kinda
+remember the icon looked like but we don't know. The game has a
+storyline that we can't remember, but we know you would manipulate the
+screen to connect the pathways so the character can walk through the
+door to the next level. Does anyone else remember it or the name?
+Thank you in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

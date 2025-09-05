@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac][90s]1st person game where animals turned to stone. I
+think this post will be a bit frustrating because my mind is terrible
+at remembering details. I hope I'm not breaking any rules by being
+vague. **Platform(s):**Macintosh (idk the version but I remember my
+uncle had one of those iMac with a clear blue plastic monitors, they
+had a lot of different colors) **Genre:** idk, maybe some kind of
+adventure (not point and click) with some mistery involved.
+**Estimated year of release:** 90s, towards the end of it
+**Graphics/art style:** I remember trees and that the statues (that
+were animals) had a sand-like color, I do remember them being yellow
+for that. **Notable characters:** **Notable gameplay mechanics:** I
+remember it was first person and that something turned animals into
+statues, I think you were kinda hovering the ground when moving but it
+was not Magic Carpet. **Other details:**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

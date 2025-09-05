@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] Game set in medieval times where main
+character is some sort of vampire/creature with abilities. To be
+honest, it's kind of hard to explain this game. I only saw its trailer
+on the IGN official YouTube channel a few months. It's kind of set in
+the medieval times. What I remember from the trailer is some guards
+going into a house to kill the family living there only for some
+vampires/creatures to come in and kill them. The leader of the guards
+start running away only for one of the creatures to reach him and kill
+him. I'm so sorry if it's vague. I've been going through the trailers
+playlist on the IGN channel but I couldn't find this game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MS-DOS/AMIGA 500] [LATE 80S/EARLY 90S] A ROLE PLAYING
+GAME OF A MAN POSSIBLY NAMED JULIAN??. I think it was in 2D and there
+was a guy (i think his name was julian?) walking around on green land
+going to different taverns and bartering for weapons or gold & and
+sometimes groups of enemies dressed in black or groups of skeletons
+with swords would come after him as he was traveling the land and
+there would be this distinct music that would play when that happened
+& there was also another part with a golden swan that took him to
+another part of the land ... PLEASE HELP MEEEEEE IVE BEEN TRYING TO
+REMEMBER THIS GAME FOR LIKE 15 YEARS NOW >z"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

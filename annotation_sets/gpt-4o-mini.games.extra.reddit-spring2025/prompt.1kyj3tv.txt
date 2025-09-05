@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Windows 95/98][1995-2002] Game where you were a green
+dot and used the arrow keys to move around, solve puzzles, and collect
+Christmas presents.. I remember playing this alongside Ski Free and
+Chips challenge. It was Christmas themed, and you used the arrow keys
+to move through mazes/obstacles to collect presents. I have searched
+so many old forums and used ChatGPT to no avail. At this point I think
+this might just have been a figment of my imagination."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

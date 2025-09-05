@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 2000's] Free mystery chapter-based point and click
+game online. **Platform(s):** Online game **Genre:**
+Adventure/mystery/point-and-click game **Estimated year of release:**
+Late 2000s, early 2010s **Graphics/art style:** Not cartoonish but
+digital. I think that some elements were also real pictures. **Notable
+characters:** None. **Notable gameplay mechanics:** The game was
+divided into different chapters, or cases, I think around 11 or 13.
+Each chapter contained different maps where you could click on
+different parts to gather clues needed to solve the case. Every time
+you found a clue, you got an image and a small description of the
+clue. **Other details:** In the first chapter, you went into some sort
+of agency. I also remember that one of the chapters involved an
+excavation/archaeological site and a motel close to it. I remember one
+of the clues in that chapter was a man looking through binoculars or a
+camera. I think the game was related to a children's or teen mystery
+show. The name of the game (and, by extension, the show) was something
+along the lines of """"""""11 Mysteries"""""""" or """"""""13
+Cases"""""""" or something like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

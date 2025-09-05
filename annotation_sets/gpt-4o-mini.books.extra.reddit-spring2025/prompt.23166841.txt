@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Tween Fantasy book about car accident and an “in between”
+kind of afterlife. I read this book around ten years ago. It was a
+slightly dark children’s/ya book involving a girl who dies when her
+family gets into a car accident. Something about her particular way of
+death results in her not being able to pass on to the real afterlife,
+so she is stuck in an in between life in a “parallel” reality with
+other kids throughout time who have died similarly to her. I remember
+there were people who would flock together and form kinda gangs to
+stay safe together. Also the ground was squishy like quicksand since
+this dimension was only kinda there. The only places with solid ground
+were places where a ton of people had died or something. I just
+remember the main character walking around with essentially snow shoes
+on so she would not be sucked to through the dimension."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

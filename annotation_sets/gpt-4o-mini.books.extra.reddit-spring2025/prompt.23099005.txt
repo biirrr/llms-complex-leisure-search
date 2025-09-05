@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Existential Weird book; May have Inspired Thomas
+Ligotti. Book can be found on many fans of weird and/or existential
+book lists. Haven't read it but I know for certain it came from the
+40's-80's. Cover: its a faceless man. Publisher: Snuggly, Wakefield,
+or New York Posts Title: Ronpo/Rompo/Tonpo Apartment Style: Ezra
+Pound, Dino Buzztari, Zeno's Conscience. Synopsis: Its about an
+Italian/Polish immigrant or man in an apartment. May be stream of
+conscious writing; know for certain its translated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

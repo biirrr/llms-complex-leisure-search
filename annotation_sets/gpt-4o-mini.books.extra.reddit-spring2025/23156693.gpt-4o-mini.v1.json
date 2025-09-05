@@ -1,0 +1,105 @@
+Here's a JSON object containing a ranked list of suggestions based on the user's request:
+
+
+{
+  "suggestions": [
+    {
+      "answer": "The Salt Roads by Nalo Hopkinson",
+      "explanation": "This book involves themes of salt and its impact on civilization, though it might not be strictly YA. It explores various characters, including strong female protagonists, and ties to the realm of mythology.",
+      "confidence": 0.60
+    },
+    {
+      "answer": "The Forgotten Beasts of Eld by Patricia A. McKillip",
+      "explanation": "A fantasy novel featuring a female protagonist with magical ties. While not specifically about salt, it has elements of lost kingdoms and mystical themes popular in YA fantasy during the 90s.",
+      "confidence": 0.55
+    },
+    {
+      "answer": "The Blue Sword by Robin McKinley",
+      "explanation": "Features a female protagonist in a fantasy setting with kingdom themes, and the book cover fits the blue description. Although it doesn't focus on salt, it fits the timeframe and genre.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "The Secret of Platform 13 by Eva Ibbotson",
+      "explanation": "A fantasy book with elements of kingdoms and magic that may appeal to younger audiences, published in the early 90s, although not specifically about salt.",
+      "confidence": 0.45
+    },
+    {
+      "answer": "The Crystal Cave by Mary Stewart",
+      "explanation": "Focuses on Arthurian legends, with strong female characters. While not specifically about salt kingdoms, it fits the fantasy genre and time period.",
+      "confidence": 0.40
+    },
+    {
+      "answer": "A Wrinkle in Time by Madeleine L'Engle",
+      "explanation": "A fantasy work often read by older children, involving travel through time and space, although it doesn't feature a kingdom taken over by salt or a castle, it matches the timeframe.",
+      "confidence": 0.35
+    },
+    {
+      "answer": "The Mists of Avalon by Marion Zimmer Bradley",
+      "explanation": "Explores female protagonists within a fantasy realm, specifically about Arthurian legend, fitting within that time frame and potentially relevant to the user's description, though not focused on salt.",
+      "confidence": 0.30
+    },
+    {
+      "answer": "Sharon Shinn's 'The Safe-Keepers Secret'",
+      "explanation": "A fantasy story with a female protagonist and kingdom themes, published during the late 90s. Although it doesn't specifically focus on salt, it has the right tone.",
+      "confidence": 0.25
+    },
+    {
+      "answer": "The House with the Clock in Its Walls by John Bellairs",
+      "explanation": "While not strictly YA or focused on a kingdom of salt, it has a fantastical storyline and could match the time period in which the user read it.",
+      "confidence": 0.20
+    },
+    {
+      "answer": "Daughter of the Lioness (Tamora Pierce)",
+      "explanation": "Features a strong female protagonist and magical elements. While not directly connected to salt, it has themes of kingdoms and adventure.",
+      "confidence": 0.20
+    },
+    {
+      "answer": "The Witch of Blackbird Pond by Elizabeth George Speare",
+      "explanation": "Focuses on a young female protagonist navigating her place in society, though it may not match the user's specifics on kingdoms or salt.",
+      "confidence": 0.18
+    },
+    {
+      "answer": "The Last Unicorn by Peter S. Beagle",
+      "explanation": "A fantasy classic featuring strong themes and elements of magic. While more whimsical and not focused on salt or kingdoms, it resonates in tone.",
+      "confidence": 0.15
+    },
+    {
+      "answer": "The Earthsea Trilogy by Ursula K. Le Guin",
+      "explanation": "Involves kingdom building and powerful characters, although it does not directly reference salt. Its esteemed position in fantasy pairs well with the timeframe.",
+      "confidence": 0.15
+    },
+    {
+      "answer": "The Goose Girl by Shannon Hale",
+      "explanation": "This book involves a princess and political intrigue in the kingdom setting, published in the early 2000s, closer than the user's timeframe.",
+      "confidence": 0.10
+    },
+    {
+      "answer": "Dealing with Dragons by Patricia C. Wrede",
+      "explanation": "Involves dragons and has a strong female protagonist in a fantasy setting, but does not relate directly to salt or buried cities.",
+      "confidence": 0.10
+    },
+    {
+      "answer": "The Chronicles of Prydain by Lloyd Alexander",
+      "explanation": "Another classic fantasy series that fits the time period and often features young protagonists in kingdom quests.",
+      "confidence": 0.10
+    },
+    {
+      "answer": "The Enchantress of Fire and Icy Blades by M.F. Schaffer",
+      "explanation": "Focused on magic and kingdoms, it fits in the fantasy realm but comes after the requested time. It may correlate with salt themes through magical elements.",
+      "confidence": 0.05
+    },
+    {
+      "answer": "The Hereafter by Anna Carey",
+      "explanation": "More contemporary and focused on themes of loss and discovery, it fits YA fantasy but does not match the salt or kingdom specifics.",
+      "confidence": 0.05
+    },
+    {
+      "answer": "Ella Enchanted by Gail Carson Levine",
+      "explanation": "Although it's a retelling of Cinderella, it features strong female characters and the fantasy theme, but not linked to salt as requested.",
+      "confidence": 0.05
+    }
+  ]
+}
+
+
+This list is organized based on how closely each book aligns with the user's provided details regarding genre, themes, and possible time frames. The confidence scores reflect the likelihood of each suggestion being correct based on the given request.

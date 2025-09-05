@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000's][PS2] Childhood racing game I recognized on a
+Marketplace picture. Hello! How is it going? I was looking for
+steering wheels to buy around Facebook Marketplace, when I found this:
+https://preview.redd.it/50qaubh68y5f1.png?width=960&amp;format=png&amp
+;auto=webp&amp;s=9ab119e5dd03b2d12dc9a594c90837302fcbdf8b I know, it
+just looks like another Gran Turismo clone for the PS2, but I know
+I've played this game before. I've even asked for it here previously.
+I recognized it instantly from my childhood, I know it's not Enthusia
+or ToCA but definitely something around that. The image speaks for
+itself, honestly. If anyone knows what it is, I'd appreciate it.
+Thanks e"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

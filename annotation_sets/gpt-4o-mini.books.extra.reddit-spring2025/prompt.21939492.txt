@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult nonfiction. Narrator is the father of a child with
+special needs or a serious illness, and the child ends up getting a
+lot better. Spoilers ahead. Read 2005ish-2012ish. [s]. SPOILER - The
+big twist is that even though this is nonfiction - mostly - the
+narrator is lying. His son didn't really get better; it was more of
+his fantasy that that happened. If I remember correctly, the first
+chunk of the book is true, then (without the narrator saying so) the
+next bit is made up, then the narrator confesses it was all a lie, and
+the last part is actually true."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

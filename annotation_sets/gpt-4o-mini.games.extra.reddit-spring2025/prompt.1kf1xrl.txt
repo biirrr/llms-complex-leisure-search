@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2013-2015] 2D web game with one word as the game name.
+Platform(s): PC, on chrome Genre: I'd say it's open world game with a
+lot of different worlds and each world has it's own storyline
+Estimated year of release: No idea, I played the game at around
+2013-2015 not sure if it is still up Graphics/art style: simple 2d,
+not pixelated, completely flat, pretty colourful Notable characters:
+stickman-like, all characters are with big round face and round eyes
+Notable gameplay mechanics: One of the worlds is about player
+controlling a character to save a sinking submarine, going deeper
+deeper into the sinking submarine, collecting bubbles to refresh his
+lung capacity, if everything was cleared at last it shows everybody
+saved and were escorted back safely and was awarded a medal(?not very
+sure about this part). Other details: Game website was straight up
+\*game name\*.com There were other worlds with self built air craft
+race and another one that swings in the city fighting the final boss
+on a machine i think(these 2 were the only other 2 worlds I have
+memory of, may be off by a lot) the game name may be a very long word
+starting with C (very skeptical about this one) Thank you all very
+much for helping, this has been bugging me for today whole day."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

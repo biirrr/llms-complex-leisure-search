@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[xbox or playstation] [2018(I think)] hyper realistic. Its
+a game that takes place in hong-Kong I think. You play as a guy. You
+start off the game with a chase scene, where you go through a bunch of
+houses. And theres two distinct missions that I remember, there was
+one where you fight in a restaurant or bar, and theres a giant fish
+tank, you throw one of the bad guys into the tank glass, causing it to
+shatter. Then there was another where you were in a factory of sort
+and you almost get stuck in it while its burning down."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

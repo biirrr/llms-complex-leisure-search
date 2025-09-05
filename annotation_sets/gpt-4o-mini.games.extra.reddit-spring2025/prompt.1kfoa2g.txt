@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation/Playstation 2 or Sega Mega Drive] [1990's or
+2000's?] Breakout style game. There was this game that my cousin had -
+I think it was a Playstation/Playstation 2 game or possibly a Sega
+Mega Drive game - and I just cannot for the life of me remember what
+it was. It was a Breakout style game and I think the artstyle was
+anime style or cartoony at least. I think the main character was this
+cat or it could have been another animal. Whenever you cleared a
+level, I think this character would pop up on the screen with text
+that said """"""""I did it!"""""""" I think there were cutscenes in
+between levels and one of the bosses was this animal (possibly a cat)
+that was washing dishes?? I know it sounds weird, but that's how I
+remember it. Any help??"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

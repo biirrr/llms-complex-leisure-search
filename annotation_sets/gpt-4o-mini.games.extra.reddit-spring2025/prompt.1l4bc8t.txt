@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Game] [2000's] World War II RTS (maybe). Hi All, First
+time posting here, not sure if y'all can help. I'm fairly sure it was
+called World at War, on PC, but I can remember seeing the disk with
+it's red writing. I think the gameplay was RTS-like. I remember being
+able to fire missiles from a sub, but I might be conflating it with
+the Iron Giant. I dunno, the 2000's were a bit of a blur. Any help
+would be appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

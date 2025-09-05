@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [20??] A boomer shooter where you run through a burning
+apartment building to kill the person you hate the most.
+**Platform(s): PC** **Genre: Boomer Shooter** **Estimated year of
+release: somewhere in the 201o** **Graphics/art style: Low poly,
+possibly gross-out too?** **Notable characters: A dog** **Notable
+gameplay mechanics: A constantly spreading fire, limiting the amount
+of time you can spend on a level** **Other details: N/A** Hi reddit,
+I'm looking for a boomer shooter I saw discussed on a youtube video. I
+don't remember what channel the video was on, or even what it was
+called, but I know a few things: * The game has you tell a dog who you
+want to kill at the beginning, only for said dog to reveal themself as
+said person at the end of the game * the game is definitely from
+either the 2010s or 2020s * You have to run from a constantly
+spreading fire while shooting cultists(?) (not 100% sure if they are
+cultists or not) in either a apartment complex or a hotel Thats all I
+remember, hope you guys can help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

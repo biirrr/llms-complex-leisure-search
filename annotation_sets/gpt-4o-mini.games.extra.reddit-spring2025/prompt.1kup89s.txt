@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [90's] A platformer game where you control a
+bird/chicken. I used to play on my childhood, and remember very little
+details, but I'll try my best! The game was a platformer, and you
+control a bird/chicken that comes out of a ball textured like gum. I
+remember in some cutscenes, this bird eats some beans in a can... Hope
+someone knows what game I'm talking about, if I remember something
+else I'll add it. Solved: Skullmonkeys"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

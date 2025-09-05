@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [Mid 2010's] Looking for clicker game about slaying
+monsters. The game starts with a character that has brown hair that
+faces forward and its kinda spiked and you start off holding a sword,
+you face monsters and you click to use the sword and kill the
+monsters, you can upgrade your characters health, attack power, and
+also get minons that help you, when you kill the monsters i think they
+would drop the coins and im not sure if it was automatically collected
+or if you had to click on them to collect them but your only weapon is
+that sword (and technically the minions too) it has a 2D art style,
+its not a well known game anymore and ive been trying to find it,
+please help me. This game has been on the tip of my joystick for a
+while and I want to find this game so bad again"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

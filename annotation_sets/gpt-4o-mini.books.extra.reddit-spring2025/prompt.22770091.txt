@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Science Fiction. Near Future? An AI/Robot takes over the
+world. Heroine kept somewhere?. This is probably a long shot since I
+don't remember much. The main character is a girl, I think late teens?
+I read this around 2017ish. The book was probably written after 2005
+or 2010. The AI/robot destroyed/got rid of all weapons except for
+melee armaments because (paraphrasing) if humans want to kill, it'll
+let them do it up close and personal so they can feel the blood. I
+don't really remember much else. The girl may have been kept somewhere
+against her will? The place she was is probably closer to an orphanage
+than a prison. I don't think the AI was physically present for most of
+the story. Also, I think the AI may have been more of a dictator-type
+governmental figure than an overlord/human-enslaver. There may have
+been clones involved somehow. Can't remember if there was a sequel or
+not. I think the author was a woman but not 100% certain."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

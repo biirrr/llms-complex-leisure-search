@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2013] A 3D game where you took care of an alien
+that I used to play on my school computer.. Hi!! I need help finding a
+game I played on my schools PC around the year 20122013 (Could be
+older). The game worked like a flash game, but I remember its models
+looked similar to those of a Windows petmaybe even worse. It was
+interactive: there were lots of objects on the screen, and you could
+click on almost everything in the scenes. I remember a little airplane
+flying around the room, a basketball court, and the main character in
+a baby stroller, inside a car. **Plot:** The protagonist was a green
+creature, an alien that came from another planet, and the player had
+to take care of it and guide it to the next level. I feel like it was
+an educational game because you could fail in several scenarios. If
+you clicked on the wrong thing, a screen would appear with a photo of
+the little alien holding hands with a human, implying that it had been
+kidnapped. That image stuck with me the most. I have no idea what
+language it was in, because Im pretty sure the game was silentno
+dialogue, just scenes. I dont have much hope that anyone will find
+it; I think it was a random game someone installed at my school for no
+particular reason, and Ill always be left wondering how it ended. But
+if some crazy person manages to find it, Id be super grateful. I
+remember that game, the math mummy one, and Super Tux were my
+favorites in computer class. Sorry for the crappy drawing XD"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

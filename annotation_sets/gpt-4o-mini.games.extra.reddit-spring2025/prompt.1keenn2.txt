@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[macOS][late80s-early90s]little mac shareware game where you
+hunt rabbits or something &amp; theme from beverly hills cop plays.
+Hey, I've been seeking this one for years: a shareware or freeware
+game (I can't remember if it had a premium version but it may have. I
+was on the free one.) that ran in a window. It was in color. You'd
+click on little things that looked like rabbits to shoot them with a
+gun. There may have been blood? I can't remember if they were
+literally rabbits or just little cute rabbitlike creatures. The
+background was kind of dark, like a grassy field, but a dim almost
+black shade of green and the rabbits were different pastel colors.
+There were different weapons you could get that would fire at your
+cursor spot. I don't remember how you'd progress to new weapons
+though. I only remember the shotgun, and an automatic gun,
+specifically. Very memorably, the main riff from the [theme of Beverly
+Hills Cop ](https://www.youtube.com/watch?v=V4kWpi2HnPU)played...or
+something that sounds a lot like it. Really, any one of these details
+might be wrong, cuz I barely remember it, but that should generally
+describe it. I THINK there may have been additional weapons to unlock
+to justify a paid version, but also maybe that wasn't a thing at all.
+It was a fun little arcadey thing and stood out for what it was. Been
+hunting for years! It was on my Mac SE around 1996 but I had games on
+there dating back to the mid 80s, so, sometime after macs got color."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

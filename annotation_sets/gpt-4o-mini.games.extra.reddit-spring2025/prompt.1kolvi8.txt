@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2000-2010ish] a point and click puzzle with two names
+in the tittle one was Remus or Remulis. Things I definitely I remember
+-My brother playing the game daily on a site like
+""""""""Addictinggames"""""""" -I remember it had crude humor. -I
+remember the art style perfectly. So if I see it I'll know. -I
+remember there was a scene where where you end up in a huge bird nest.
+-I remember there was a sidekick character. -It definitely was a
+puzzle game Things I'm unsure of -When the game actually came out. My
+2000-2010 is a very rough estimate based on how small I was at the
+time. -I think the sidekick was a monkey but I'm not sure. -I am like
+99% sure it's point and click but it could be text based."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

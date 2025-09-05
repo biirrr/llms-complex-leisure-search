@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "child psychiatrist bonds with troubled child [s]. I may have
+read a condensed version ... a female children's psychiatrist bonds
+with s withdrawn child others assume us ""broken"" and refers to her
+as Weds or Thurs child per the poem. the child may have been in foster
+care. the doc went to another assignment - I recall either a sequel or
+part 2. Ring any bells?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Double sided Thriller/ Mystery novel. About a woman's
+murder,one of the POV may be from the murdered woman. you need to read
+both sides to get the complete story. the title works together from
+both sides. cover may black & white. saw in 2024. [s]. Added info: -
+book can be started from either side depening on POV and then the
+black pages tell ou when to flip - saw this either on TT or insta but
+never saved/liked video so can't find title - google was no luck
+either"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

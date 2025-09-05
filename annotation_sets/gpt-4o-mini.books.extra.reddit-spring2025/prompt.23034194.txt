@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction, called something like 'The Crush', teen girl's
+fave singer staying in hotel near her and she gets to hang out with
+him. Apologies if this has spoilers (or is really badly
+misremembered!) YA. A girl (and possibly her friend) are really
+excited when their favourite singer (or it may be a boy band) is
+coming to town. Main girl has a huge crush on the singer as I think
+she either stays in the same hotel as him or just loiters around the
+hotel until she gets to meet him. She ends up hanging out with him and
+it's a dream come true but I think he turns out to be not quite what
+she expected and a bit of a creep. I'm sure the title is The Crush or
+has the word crush in it but I can't find it anywhere. I read it in
+approx 2003-2005 at secondary school. Hope someone can help please!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

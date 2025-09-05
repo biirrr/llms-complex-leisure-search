@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Science Fiction. Guy on Spaceship bonds with Alien. [s].
+Two or three years ago I read this book for high school book club, and
+it was about this guy who wakes up with amnesia in space and the whole
+book goes between current time and him having flashbacks to before
+they got sent off. He finds this other ship and they connect and there
+was an alien that reminded me of a crab made out of rocks. I don't
+remember the cover as I read it hardcover without the dust jacket. It
+was relatively new at the time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

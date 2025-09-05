@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[360][2008 - 2010] A game about scifi and space travel.
+Genre: MMO/Sci-fi Estimated year of release: 2008 - 2010 Graphics/art
+style: western/anime (I think) Notable characters: Unknown it has been
+stuck in my head for years but nothing specific. Notable gameplay
+mechanics: MMO style, in a space station, character creation, Third
+Person shooter. Other details: This one I don't have tonnes of info on
+sadly, you could create a character and you were then online with
+others in a giant space station, it had clothing stores, weapon stores
+and I """"""""think"""""""" ship upgrades and you could do what I
+assume were raids with others."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

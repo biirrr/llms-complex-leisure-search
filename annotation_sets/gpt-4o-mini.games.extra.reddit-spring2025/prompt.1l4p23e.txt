@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000/10] First person strategy. Ok, sounds weird, but
+that time period had a lot of weird games. Sci-fi strategy, into video
+shows main character being made cyborg and put in some weird chair.
+From what little I've played, the view was not topdown, but instead
+360 turn including up and down, from fixed point. It was possible to
+teleport between some buildings present on map, they acted sort of
+like """"""""control points"""""""", impossible to destroy or create
+anything other than units. And it was possible to possess your own
+troops, Dungeon Keeper style."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

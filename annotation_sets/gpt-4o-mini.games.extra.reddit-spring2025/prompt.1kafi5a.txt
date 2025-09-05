@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][2010] RoboArena. Hey everyone, Im trying to find
+an old browser game I played about 1015 years ago, possibly on
+websites like Spielaffe or similar Flash game portals. Heres what I
+remember: """""""" It was a 2D side-view arena fighting game with a
+comic/cartoon art style. """""""" You controlled a robot and fought
+one-on-one against other robots. """""""" After each battle, you could
+upgrade your robot (e.g., buy better legs for more agility, new arms
+for stronger attacks, etc.). """""""" One memorable boss or enemy had
+a floating eye as its main feature. If you defeated it, you could
+equip the floating eye yourself. """""""" The upgrades were very
+visible  your robot actually changed appearance with the new parts.
+"""""""" The game got progressively harder with stronger enemy robots.
+Other notes: """""""" It wasnt a multiplayer game like Robot Rage,
+it was more of a single-player progression. """""""" I remember it
+being colorful but not extremely detailed  more like simple, clean
+cartoon graphics. Ive tried looking for names like Robo Arena,
+RoboFight, or Robot Arena, but havent found the exact match yet.
+Does anyone recognize this game? Id love to replay it or at least see
+some screenshots! I know I havent just dreamed this since my brother
+remembers as well :D"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

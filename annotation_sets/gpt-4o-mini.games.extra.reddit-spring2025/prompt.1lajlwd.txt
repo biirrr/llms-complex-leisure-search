@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows][2017] a game about wolves?. It was an adventure
+game with pretty good 3D graphics (not pixelated), but you couldnt
+move the camera freely  it had fixed or pre-set camera angles. I
+remember it had some short cutscenes, but most of the gameplay was
+about exploring, combining items, and solving puzzles. At the
+beginning of the game, you arrive in a village where youre supposed
+to heal a mans daughter. Later on, the man locks you inside and turns
+into a wolf. You manage to escape, and then theres a long part of the
+game that seems mostly unrelated to wolves or the family  it almost
+feels like a completely different story. Later you return to the
+village, and the girl is gone from her bed and all thats left of her
+is a piece of white wolf fur. You use it to craft a small wolf
+figurine, which you then burn. One specific moment I remember clearly
+is when the father, in his wolf form, tries to attack you, but just
+before he does, the daughter (also in wolf form) jumps on him and
+saves you. That moment happens somewhere between her disappearance
+from the bed and the scene where you burn the figurine. I also clearly
+remember a forest scene: theres a whip hanging from a tree, a dark
+cave on the left, an abandoned trailer or caravan on the right, and
+next to the caravan there is a fire with a cauldron. You mix some
+ingredients in the cauldron, dip the whip in to make it sticky, then
+put it in the sand to make it rough, and finally use it to cut through
+some iron prison bars. It might have even been a Czech game, but Im
+not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

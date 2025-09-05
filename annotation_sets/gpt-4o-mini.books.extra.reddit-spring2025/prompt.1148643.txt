@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Biography of a mother waking up [s]. I remember a hardback
+biography coming out between 2002 and 2007 from the perspective of a
+child about a mother that put down her sci-fi novel and started fixing
+her life. She got in better shape, went back to school, divorced her
+husband when he fought her about the changes, and showed her
+child/children that it could be done. I want to say 'My Mother Waking
+Up' is either in the title or the cover description. What is the
+title?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

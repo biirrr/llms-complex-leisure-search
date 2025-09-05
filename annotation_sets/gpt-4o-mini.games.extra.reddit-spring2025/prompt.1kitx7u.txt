@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Recent] hill running and flying momentum game. i saw
+this game on tiktok where you have this character that runs fast on
+hills where u have to hold down on some controls to gain momentum then
+release at the end of the hill to fly, also u have to collect some
+glowy things all over the map. Kinda like Alto's adventure but the
+camera is behind the character. I'd appreciate some help :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

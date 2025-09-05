@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2016-2019?] A pixel-art game set in a post-
+apocalyptic setting where you have premonitions.. I remember watching
+a video on it sometime around the date I posted. Every night you have
+a dream of a terrible event occurring and during the day you have to
+find resources to survive that event. I think the ending was like
+going to the moon and finding like a colony of people on there? I also
+believe these same people made a similar game but its a zombie
+apocalypse."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

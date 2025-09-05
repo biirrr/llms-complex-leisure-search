@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2000's] Educational game featuring a flying/
+talking trapper keeper. Hi, I have been on a bit of a nostalgia trip
+after I moved away from my childhood home and I have been trying to
+remember an old PC educational game from the 2000's. it is along the
+same vein as the jumpstart PC games, the version I had was only a demo
+disk so it didn't have the whole game. It featured a group of kids,
+mystery kids/ magic school bus style that had a flying/ talking
+trapper keeper character to help them along there way. they where in
+the Himalayas and one of the games was you were given a bunch of
+fences of different lengths to make an enclosure for a farmer and his
+yaks. I remember that game cause it was the only one on the disk I was
+good at. thanks for any leads you can give."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

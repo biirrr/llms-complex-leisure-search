@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Mystery/ Thriller. 2 sisters try to figure out their
+mom’s disappearance. One sister is an influencer. Return to island.
+Cover: green, two girls running in opposite directions.. Cover was
+green and had two girls running in opposite directions. Dead mother
+was famous actress and father was a writer? Girls go back to the
+island they were raised and try to figure out why their mom
+disappeared. There’s a creepy guy in the woods and an uncle in the
+tech industry. One sister is an influencer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

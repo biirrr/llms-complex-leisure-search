@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Humorous book of short stories/letters. Most likely
+published within the last 10 years. One of the stories involves a man
+going to a hotel with tiny furniture. [s]. Hi! I'm a librarian who
+received an unusual request to find a book for a customer. She said it
+was a popular book when she read it, which was sometime within the
+last 10 years. She remembers it being by one author, but contained
+separate, unrelated short stories, all written in letter format. The
+stories were HILARIOUS (she kept emphasizing this point) and she
+thinks the cover was yellow or green. She also only remembers one of
+the stories/letters, and it was about a man checking into a hotel,
+only to find out all of the furniture was miniature. I've exhausted
+all of my resources and can't come up with anything! She used to read
+this book to her husband who was sick at the time, and is really
+wanting to find a copy again. Thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

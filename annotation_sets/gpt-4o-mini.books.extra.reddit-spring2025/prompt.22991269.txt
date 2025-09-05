@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kid's Fantasy book. Ghost girl buried in Hotel walls. Read
+in 1990's.. I posted to Reddit with no luck, so trying here! I *know*
+I read this in the 90's, and I think it was an anthology, but I've
+checked all the David Cohen and Nancy Roberts books with no leads, so
+I have nothing to go on other than really faulty memory. There's a
+girl visiting a hotel with her parents, and she befriends another
+little girl who's staying there. There's a scene with the two girls
+playing tag and running into the dining room, only for the main girl
+to be told no one entered before her/there's no other kids staying.
+There's also a scene where she wakes in the middle of the night (maybe
+multiple times) and the ghost girl in standing at the foot of the bed
+watching her. They finally find the ghost girl's remains buried in the
+room's walls, with a note pinned to her by her mother, explaining she
+died of an illness and the mother panicked and entombed her. If anyone
+has any leads, it'd be much appreciated. This story has--no joke--
+HAUNTED me for at least twenty years!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

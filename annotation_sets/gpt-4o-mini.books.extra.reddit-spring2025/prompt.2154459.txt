@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction - Chicago man jailed for years without being
+charged with a crime [s]. If anyone could help me find the title of
+this book, I would be overwhelmingly, incredibly, eternally grateful!!
+I checked it out of a local library, but cannot find it again. It was
+published sometime between 2009-2012. Think was a female author, but
+can't remember for certain. Nonfiction. True story about a young
+African American man from Chicago, who was falsely accused of
+participating in the robbery and murder (victim was beaten to death)
+of a man in his inner city neighborhood. He was held in a Chicago city
+jail for 3 years without ever being charged with a crime. He was freed
+when a female attorney visiting a client at the jail heard his story,
+and agreed to take on his case for free. The crime happened during the
+late 1990's, I believe. I was telling a relative about this book, and
+so, so want to give him the title. I've tried searching Google,
+Amazon, local library catalog, everything, but cannot find it. It's
+driving me nuts!!! Please, please help!! Thanks in advance!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

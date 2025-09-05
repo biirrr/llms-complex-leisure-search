@@ -1,0 +1,43 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS] [2007-2010] [Sci-Fi Shooter] PLEASE help me find this
+old Sci-Fi video game!. Hey there! It's been around 17 years. Back in
+about 2007-2010 I purchased my own Laptop as a kid after raising money
+for 2 years selling papers and what not. The first thing I did was
+browsing the internet, and I found this Free to Play Sci-Fi TPS
+looking MMORPG/Open World game that was Third person, and after years
+of searching for nostalgic reasons I cannot seem to find it. I've been
+all over the internet, and the only pure and available memory I have
+of the game is this description: You start off the game as some Sci-Fi
+Soldier with an Assault Rifle, and you end up in this almost Sci-Fi
+""""""""Star Wars"""""""" looking City in the middle of a huge desert
+zone, almost like the Sahara. The City is designed like a circle,
+almost like Coruscant from SWTOR. The game gives you quests like an
+MMORPG, and you roam around this huge desert looking zone while also
+carrying a jetpack. The zone also showed signs of abandoned modern day
+things, like old cars, huge old abandoned power rails at the edge of
+the zone towards the sea, as if the time was set in future modern age.
+I remember leveling up while running around questing, also seeing
+other real players if I remember correctly. It game standard kill and
+collect quests, and it was some sort of starting zone for a specific
+class or faction. When you used your jetpack, I also remember it
+needed recharging and you couldn't always use it. I remember flying at
+the top of these huge and visually stunning power rails at the edge of
+the map, trying to get to the top. The desert zone was open, with big
+rocks, and certain areas you could downwards into pits. You killed
+enemies longrange with your rifle as this class, but it was built like
+an MMORPG with stats and gear. I remember quitting at around level 10,
+and I never found the game or picked it up after that because I could
+never remember what it was. I am so certain this game existed, and I
+would love to just know what the name is, no matter if it's still
+supported or not. If any of the things I say in my description sparks
+a memory, please let me know!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

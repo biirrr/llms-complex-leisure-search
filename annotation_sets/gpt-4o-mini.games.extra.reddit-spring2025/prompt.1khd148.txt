@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID][2010-2020?] Some dragon clicker game. Imma try to
+give y'all as many details as I can Platform(s):android/chromebooks
+(anything that runs Google) Genre: idle game/clicker Estimated year of
+release:uh.. maybe 2014?? Graphics/art style: pixellated, 2D kinda
+game Notable characters: they're all dragons but the first one you get
+is a lil green guy :( Notable gameplay mechanics: you'd tap for points
+you'd use to upgrade your dragons and you could also send them on
+little quests to fight things Other details:genuinely can't remember
+anything else. Also I'm sorry if I didn't follow this correctly I like
+hardly ever use reddit &lt;/3"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 90']What was this game. Hello I search for a
+little 2D PC game from early 90' where you played an asian monk which
+standed on the center of a solar system. Planets and fruits where
+revolving around you and from time to time one of theses satellites
+rushed toward you and you had to move your arms toward the incoming
+items to stop them. The game came on a cd entitled if I remenber well
+""""""""300 demos and shareware"""""""" and was provided with the
+guide """"""""windows 98 for dummies"""""""" in France. The CD had
+among others demo of DROD, captain Claw and Jack Jazzrabbit on it The
+title may have been something like """"""""kung-fu"""""""" or simply
+""""""""kung""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

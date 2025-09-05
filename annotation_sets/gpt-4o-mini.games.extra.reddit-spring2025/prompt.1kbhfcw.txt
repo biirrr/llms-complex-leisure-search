@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] Game where you play as giant movie monsters.
+Platform(s): PC Genre: Not sure if there's a word for it Estimated
+year of release: Early 2000s at latest Graphics/art style: 3D models,
+likely fairly polygonal Notable characters: A giant woman and a giant
+brain; there were others I can't remember Notable gameplay mechanics:
+It was pretty similar to Godzilla Generations or Godzilla for PS4; you
+played as the monsters destroying a city in free-roam. Other details:
+Every monster had a black-and-white movie trailer or commercial
+reminiscent of monster movies from the 1940s-50s describing them and
+their story; the only thing I can remember from them is that the giant
+brain used to be a human man, and there's a moment in the trailer
+where someone asks his lover """"""""How can you still love him, he's
+a giant brain!"""""""" The brain talked and was an egomaniac, but I
+think the giantess could only roar."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

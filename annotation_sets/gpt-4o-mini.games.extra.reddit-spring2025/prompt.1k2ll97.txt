@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000] An RTS Robot game. **Platform(s): PC** **Genre:
+RTS** **Estimated year of release: early to mid 2000** **Graphics/art
+style: not sure about it** **Notable characters: You start with a
+""""""""hero"""""""" like robot that is your main character**
+**Notable gameplay mechanics: You could build land and air
+""""""""robots"""""""" I believe there were no """"""""human""""""""
+units.** any dead unit or building could be """"""""scraped""""""""
+**to get resources** **Other details:** I remember a key mechanic of
+the game was that any dead unit or building could be
+""""""""scraped"""""""" with your main robot/character. Your main
+robot could also fight but I believe if it died then you lost. You
+also could build harvesters to gain resources, simmilar to C&amp;C"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

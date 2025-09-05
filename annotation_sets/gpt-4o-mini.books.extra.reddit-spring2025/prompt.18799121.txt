@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True"" Ghost story collection [s]. So, I think I have like
+75% of the info. Just need the remaining 25%! I read this late 80's
+but it was already a little older at that time, so looking at publish
+date of 60's-70's. The title is something like
+Strange/weird/bizarre/unusual and ""but true""...Teen/adult reading
+level. It's a collection of ""true"" ghost stories. The very first one
+is about a sailor who has the figurehead of his ship carved to loook
+like his bride-to-be. Everyone tells him it's bad luck, but he does it
+anyway. He goes off to travel, and during a storm, a rope gets wrapped
+around the figurehead's neck. He comes home and finds out his fiancée
+is dead, she accidentally hung herself while trying on her veil. The
+cover looks almost exactly like this (little pictures and story
+previews), but the title is wrong. I tried looking at this author's
+other books, but the titles/covers aren't right. Mine has a pink
+background with a brown trim."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

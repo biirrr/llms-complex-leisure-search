@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [3D? Fighting] [90's] demo from a PC Gamer disk in
+which you fight with lightsabers. https://i.redd.it/i62cjtwwu97f1.gif
+The only details that I remember is that it was a fighting game with
+some kind of 3d graphics and the lightsabers and that it was on a PC
+gamer disk"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

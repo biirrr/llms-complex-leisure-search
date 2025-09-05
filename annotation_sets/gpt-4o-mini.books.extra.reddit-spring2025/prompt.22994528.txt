@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mystery book for Kids that mentioned cocaine. Read in
+1990s.. As a child in the 1990s, I read a mystery novel where the main
+character is looking for a missing teenager. The scene that sticks in
+my mind is the main character finding a rolled up dollar bill under
+the floorboards, and a friend of the missing teenager saying something
+about him having ""girl problems/girl trouble."" It's later revealed
+that ""girl problems/girl trouble"" is slang for cocaine. I assume the
+book was written between 1970-1990. I'm not sure if the main character
+was a young girl or boy. I can't even remember if the missing teenager
+is an older brother or just a random teen. The cover was probably the
+stereotypical silhouette of a house and a kid with a flashlight."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

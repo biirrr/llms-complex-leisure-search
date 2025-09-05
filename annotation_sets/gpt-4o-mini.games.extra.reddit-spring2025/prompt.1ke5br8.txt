@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000's- early 2010's] MMO on GirlsGoGames.. I
+used to play this mmo (shown in picture) on GirlsGoGames and it's
+parent website. Of which the parent website also hosted the same low
+poly mmos like bird mmo and mermaid mmo. But this one was more like a
+chatroom mmo. You can decorate your avatar and room. And there were
+public servers you can access."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

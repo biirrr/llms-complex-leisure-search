@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Drama/ Thriller. Two best friends—one a children's
+book author who secretly becomes a customer to support her friend's
+Etsy business, leading to a revelation about infidelity.. I’m looking
+for this book where two best friends turn up on each other and the
+other creates a narrative that her husbands best friend is cheating on
+her. It’s about treason and friendship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

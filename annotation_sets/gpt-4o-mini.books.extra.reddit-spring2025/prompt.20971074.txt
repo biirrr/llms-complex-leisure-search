@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction - critical eval of sci-fi films - illustrated.
+[s]. In the mid-70's in the USA, I found this book on a clearance
+table. It was a hardback, coffee-table sized book called (if I
+remember correctly) ""Science Fiction Movies"" or ""Science Fiction
+Films"". It was printed on gloss stock and had numerous color as well
+as B&W photos to accompany the text. The content was a comprehensive,
+critical, chronological review of science fiction and fantasy films up
+to the publication date of the book, which must have been after 1971
+since I recall seeing ""A Clockwork Orange"" pictures in it. I don't
+recall anything later than that, so year of first publication may have
+been 1972 or 1973. The book seemed balanced between US and European
+film, so I suspect it may have been of British origin. I recall a
+specific photo in the book that disturbed me as a 10 year old: From
+""A Clockwork Orange"" https://www.alamy.com/adrienne-corri-... It
+MIGHT be this book, but I can't find any info about the content:
+""Focus on the Science Fiction Film""
+https://www.goodreads.com/book/show/3... It's definitely NOT the
+following books: https://www.goodreads.com/book/show/1...
+https://www.goodreads.com/book/show/1...
+https://www.goodreads.com/book/show/2... So, if anyone knows for
+certain the book, I would be very grateful as I have been wanting to
+read it again. I got rid of it by the end of the 80's."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

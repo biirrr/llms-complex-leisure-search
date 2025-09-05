@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [2023-2024?] Farm game with 90s anime artstyle. I
+briefly saw a game back in 2023 or 2024 that was going to release, and
+could not find again the name, was an harvest moon/stardew valley
+style game, but what got my attention was that the artstyle was 90s
+shoujo anime style, like sailor moon, this is the only detail I really
+remember besides being just another harvest moon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

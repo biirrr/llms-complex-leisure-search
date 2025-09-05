@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult KU Romance 2020-22-ish. FMC stays w/bff @dads house
+during COVID quarantine so she’s not alone, ends up in relationship
+w/the dad while bff dates ex stepbrother. I remember the house being
+fairly large, dad/age gap lover possibly being a CEO or some other
+business-type job, and the FMC and her bff are college besties. FMC is
+either estranged from her family or has no other family and they let
+her quarantine with them so she’s not alone. The dating the ex step
+brother is part of another book in the set. It’s not a terribly long
+story. I believe either the FMC or her BFF is nicknamed either Rabbit
+or Bunny."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

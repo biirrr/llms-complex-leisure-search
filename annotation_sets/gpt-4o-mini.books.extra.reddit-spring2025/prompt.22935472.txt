@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contempory Romance: Rich/poor, secret baby, she scams
+her work address to get into posh school?. Ebook At least 5+ years old
+MFC is from the wrong side of the tracks. Uses her work (petrol
+station) address to qualify to get into private school on scholarship.
+MMC leaves for college and didn’t know she was pregnant. Possibly just
+a end of year party hook up before he goes? He returns as adult, and
+story is about then. MMC’s mother figures out the baby’s his, but
+doesn’t tell anyone (even the MFC). Hires MFC to clean house and
+arranges a scholarship for the smart granddaughter to go private
+primary school. She remains a snobby bitch to MFC. The MFC’s car
+breaks down and she walks the kid through the woods to a rich cabin
+for the phone. Don’t think it works, but there’s a storm, and someone
+tries to kill them by burning the cabin down. Thanks for looking 😊"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

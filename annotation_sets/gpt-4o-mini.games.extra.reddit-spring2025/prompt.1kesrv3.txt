@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SEGA Megadrive / Genesis][1990s-early 2000s] Beat 'em up
+with a particular mini boss / boss.. Hi, I've been looking for this
+game for ages, but i understand it ain't easy to get this right. I
+remember it was a beat'em up kinda game (Streets of Rage, TMNT, Alien
+Storm, etc), with that type of art style, and it had a particular boss
+(or mini boss). IIRC it looked like a giant astronaut that first
+appeared destroying sky scrappers in the background while you faced
+enemy waves, and then it disappeared and showed again really close to
+you (really similar to this
+[https://youtu.be/GwM4vzyfmOI](https://youtu.be/GwM4vzyfmOI) 5:35, but
+this isn't the game, lol). Sorry for my broken english, I hope someone
+can help me get this one out of my brain for once."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

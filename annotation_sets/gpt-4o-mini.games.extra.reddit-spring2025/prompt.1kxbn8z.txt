@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000's?] [PC] Banana Collecting Game. Hey so I just
+recently thought of a game I had seen on a show called Player Select,
+a show that aired on Disney XD I believe. It's a simple 3D low poly
+game where you collect bananas and find Santa's sleigh in order to go
+to the moon, I believe it has to do with something like the end of the
+world or whatever. One of the areas where you find bananas is a black
+supermarket with yellow text at the top saying it's a store or
+something similar, it's full of mannequins that do a thing but I can't
+remember what. Please help, also if it's useful the game was being
+played by someone named Parker Plays I believe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2010 Maybe?] Racing game that you built your own
+track in the sky. I remember it being called My Racer, or something
+like that. You got to drive a generic F1 style car that you unlocked
+car parts for, to turn it into a generic Super car model. You could
+only play the game mode that unlocked parts every 6, 12 or 24 hours.
+You could play pre made tracks or build your own and the setting was
+always in the sky. I remember building a really long downwards ramp
+and then adding a jump at the end followed by lots of tunnels to drive
+on the top of them. There was also a game mode where you could shoot
+other players with ether a rocket launcher or a machine gun which I
+believe did have a online multiplayer but I was always split screen.
+Its the kind of game I would probably get bored of after 20 minutes
+now but back then, I feel like I played for hours."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

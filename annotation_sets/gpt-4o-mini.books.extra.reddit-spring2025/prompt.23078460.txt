@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Science Fiction novels- 1st book in a series about an
+artificial dimension with an infinite horizon and albino aliens that
+look like ancient Chinese. Hi, I wish I can remember the name of this
+sci-fi series of novels. I think there are 3 books in total and the
+author is probably American or British. It's either from the late
+1990s or early 2000s, so too far back for me to remember. In the far
+future, humanity is capable of travelling to other dimensions and an
+artificial dimension has been discovered. This particular universe is
+infinite horizontally but has a limit vertically. The aliens that
+created this world had made first contact with Imperial China, so they
+created their own human species - tall albinos who otherwise appear
+Chinese and the culture and technology is of that time. The focus
+character of the 1st novel is a space explorer who seeks revenge on
+this dimension. It's because there's also a telepathic centauroid
+species who blinded his daughter. However he's unaware that her
+blinding is voluntary, an unfortunate but accepted side-effect of
+their bestowing telepathy on her. All help for this novel/series would
+be much appreciated, thank you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

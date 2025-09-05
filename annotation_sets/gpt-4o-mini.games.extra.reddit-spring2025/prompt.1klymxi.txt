@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000's] A game about a humanoid creature digging
+a tunnel through cheese. I'm being serious.. Platform(s): PC Genre:
+Side view camera, gameplay similar to Digging Jim Estimated year of
+release: I'd say early 2000s Graphics/art style: A 2d game with a very
+stylized and cartoonish/silly art direction. Very colorful. Notable
+characters: You play as a humanoid creature (not sure what he was
+supposed to be, maybe a bug?? he definitely had pinkish skin). If I
+remember correctly, he was a father, possibly in a white tank top,
+trying to get back to his family. I vividly remember him banging on
+the screen and shattering it if the player stayed idle for too long.
+Notable gameplay mechanics: Like I said, gameplay resembling Digging
+Jim. You complete a level by finding a way to dig a tunnel to the
+finish line and avoid falling rocks. Other details: I'm about 80% sure
+that what he was digging through was cheese. It's not a 100%, because
+I played this game at a very young age and might've falsely
+interpreted the yellow blocks, probably as well as some other details,
+so please take everything here with a grain of salt. Not sure if it
+was at the end of a level or the game, but there was a photocard of
+him reuniting with his family. I've been thinking about this game for
+years and I genuinely cannot find it anywhere, so I'm slowly starting
+to make peace with the fact that younger me made it up. This is my
+last hope"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

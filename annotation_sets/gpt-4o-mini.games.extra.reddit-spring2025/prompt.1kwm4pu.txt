@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [late 90's early 2000's] Isometric RPG futuristic
+setting, blue hair lady protagonist and robot companion?. hey all. i
+vaguely remember playing a demo of this game when i was younger and i
+have not been able to find it no matter how hard i search. it was an
+isometric RPG much like the early fallout games. i think the
+protagonist had blue or purple hair? there was a robot companion with
+you... i think it was in a post apocalyptic world too.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

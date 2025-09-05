@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Psychology/Counselling Non-fiction. Short stories/cases from
+a councillor in London one case involves a client who talks to him on
+the phone and ends the conversation by saying the house in France he
+has been talking about doesn't exist. [s]. I read this book in 2019
+and I believe it had been published recently in at least the 2010's.
+It's generally about his client base and their issues. Each chapter is
+sort of a short story about each client and the lessons we can learn
+about them. In one their is a young girl who is struggling to get
+along/communicate with her family and a colleague of his mentions at
+then end how often as child patients get better their family/parents
+often end up looking worse, or acting more stressed as they get
+better. He also talks about realising when talking a young boy earlier
+in his career that he couldn't make everyone 'better/cured' as they
+have learning differences extra."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

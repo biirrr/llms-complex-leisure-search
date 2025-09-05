@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Romance. Highwaymen? She gets blisters from
+wearing his boots. Title includes Kiss? Main character is under 18.
+Cover: blonde girl in red dress. Read around 2014-2016.. Hi! I’ve just
+remembered this book and i’ve tried everything, even chatgpt, to try
+and find the title but can’t!!! Unfortunately I can’t remember a whole
+lot but this is what i do remember: i’m pretty sure the cover showed
+the back of a blonde girl in a red dress it was related to highwaymen?
+and i think there was something to do with kiss in the title I
+remember a scene where she has to wear his boots and she gets blisters
+from it but doesn’t tell him so when they finally stop in a barn for
+the night he realises and wraps her wounds for her I think the main
+character is under 18 I did read this book around 2014-2016 and I
+think it was part of a series where each book was a standalone with
+its own main character in different historical periods? Obviously i
+know this isn’t a lot to go on but if anyone has a clue that would be
+great thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

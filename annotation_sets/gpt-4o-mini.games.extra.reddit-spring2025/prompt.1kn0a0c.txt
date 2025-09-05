@@ -1,0 +1,40 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Adobe Flash][~2008-2013] Artillery-style flash game with
+two stickmen gods/titans duking it out Worms-style. Platform(s): Adobe
+Flash Genre: Artillery, Stick Figure Estimated year of release:
+~2008-2013 Graphics/art style: A simplistic, cartoonish, 2D art-style
+that used bright colors. Maps were themed around ancient ruins,
+usually Greek or Roman. Notable characters: The player character and
+enemy, both represented as gods. One with a Spartan helmet and the
+other with, I believe, a plumed helmet. They each had access to
+various stick warriors/tributes that they used against each other,
+each with a distinct design for their role; a suicide bomber flailing
+about with dynamite strapped to his chest, a paratrooper with a bright
+blue parachute, a miner with a mining hat and pickaxe, a buff figure
+wearing a horned, cartoon Viking helmet, etc. Notable gameplay
+mechanics: As per the genre, the two players engage in artillery
+combat, during which they have the option to reposition and launch
+their respective warriors/sacrifices at each other. Each sacrifice had
+a unique purpose, from a simple suicide bomber being a basic bomb, to
+the paratrooper that, after a brief moment of being thrown, would
+parachute downwards and rain bullets at anything below, to even the
+strongman that would push the enemy out of cover or off the map.
+Sacrifices had separate costs, with special ones with fancier
+abilities being more expensive. Each consecutive victory by the player
+character led to a different map and unlocked more sacrifices, while
+also increasing the amount of """"""""currency"""""""" one had to use
+each one, per round. Other details: Unlike most stick figure games,
+this one had he notable difference of including big googly eyes for
+all the characters. Each sacrifice would either be killed by the
+enemy's units, or would kill themselves after their timer or task ran
+out, each with unique animation."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

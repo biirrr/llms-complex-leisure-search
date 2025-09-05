@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction about a woman whose husband died and a man
+turns up at the doorstep saying he knew her husband and that he is
+still alive. I remember the book, the cover was like a quilt almost.
+The book is about a woman who is in grief about her husband passing
+away. A man (his brother?, himself?) turns up at her door and says he
+knew her husband and he is still alive. He takes her across Europe
+stopping at stops and she has these flashbacks of her husband and
+their trips. She met him in a tour where he was the guide, they went
+to places and he would tell vivid stories. He used to be a tour guide.
+A parallel story runs about a young woman and her father and a war.
+The man dies, and is reincarnated. The next story is him with a monk
+and about chickens. The next is about being a soldier. The twist is
+that he was the person all along and the stories he told her was of
+himself in his previous lives. Near the end a man comes and brings her
+to him. Her husband tells her the truth and she says she wants to be
+like him forever. Minor things I remember: he made the best eggs. They
+were described as buttery and like a cloud. I think the secret was
+that he used cream or something and baked it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

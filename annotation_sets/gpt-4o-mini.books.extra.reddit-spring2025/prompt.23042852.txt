@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy novel. Four sisters, fairies, portal into
+fairy world. Read around 2015-2016.. I’m trying to find a
+children’s/middle grade novel. I believe that I read it around
+2015/16, and it was most likely released no earlier than 2000. It was
+the first in a 10+ book series. It was about these four sisters (or
+maybe they were friends?) and they found a magic portal in one of
+their bedrooms that took them to a fairy world. I think the characters
+were around 10 years old and I remember that one of them was named
+Katie."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

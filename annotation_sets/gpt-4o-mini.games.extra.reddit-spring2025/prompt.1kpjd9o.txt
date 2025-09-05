@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] 2D side scroller 3rd person shooter where you
+play as a robot. Platform(s): PC Genre: 3rd person, side scroller
+shooter, Sci-fi Estimated year of release: 2010s Graphics/art style:
+Stylized pixel art, color filters can be applied to game aesthetic.
+Notable characters: A boxy, rusty robot character with big eyes and
+small arms and legs. Notable gameplay mechanics: Fast paced combat,
+guns, dodge rolling, and waves of monster enemies like mutant animals
+possibly. Other details: The game might have been free to play or a
+beta test at the time. Color palette of the game was on the slightly
+darker side, had rust themes, and overgrown urban areas. Maybe post
+apocalyptic is the aesthetic? Not a browser game because I remember
+having to download and launch an application and it looked much better
+than Flash games of that time. I played this around 2012-2015 on an
+old laptop so the graphic requirement was quite low. Graphics look
+kind of like stylized pixel art, and you could apply color filters to
+the game aesthetic. The robot characters look somewhat like boxy cans
+with prominent eyes and small arms and legs and looked like makeshift
+robots, with some rusting. The character can dodge roll, cling to
+walls, and explode into bits when it dies. Combat is fast paced and
+took place in small, single area levels with waves of enemies. The
+enemies were mutated creatures or something along those lines. I
+remember fighting a large mutant pig of some kind. I don't remember
+exactly how to """"""""win"""""""" but I do think it was based around
+how long you could survive."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

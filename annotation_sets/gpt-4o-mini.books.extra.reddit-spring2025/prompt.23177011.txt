@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult College Romance: Girl finds boyfriend cheating, other
+guy hides her, sister writes story. Read 2021-2023.. Hi! I hope
+someone here can help me find this book I've been looking for forever.
+I read it between 2021 and 2023. It’s a college romance / new adult
+novel in English. What I remember from the plot: - The main character
+goes to her boyfriend’s apartment and finds him cheating on her. She
+runs away, and her boyfriend chases her. - Another guy (the real love
+interest) helps her hide in his sister’s apartment. He takes care of
+her. He’s always been secretly in love with her. - The sister writes
+about them in the college newspaper, but the protagonist doesn’t
+realize it’s their own story. Eventually she finds out the truth —
+that her ex only dated her to get back at the real love interest out
+of envy or revenge. I’d really appreciate any help identifying this
+book. Thank you so much in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

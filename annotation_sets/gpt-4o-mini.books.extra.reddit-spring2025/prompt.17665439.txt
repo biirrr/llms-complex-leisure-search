@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "College Art History Book-Letters Between Artists [s]. A
+friend asked me if I could find this book from her college art history
+class in the 90s - I told her I knew just the people to ask! ""The
+book was a bunch of letters artists wrote to each other, I think I
+remember Van Gogh and Cezanne in there. Anyway, there was a quote
+about liking 'things that are impossible, I feel them like a thorn
+stuck in my side' I can't find the book or quote anywhere"" This
+mystery quote makes me think of Frida Kahlo for some reason... but I
+have no idea if this is anywhere near the mark"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

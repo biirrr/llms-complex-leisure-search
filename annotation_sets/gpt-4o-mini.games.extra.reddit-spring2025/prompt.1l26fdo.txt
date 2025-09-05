@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, BROWSER][2000's] Typical racing game, maybe associated
+with NASCAR and candy brands (Oreo, Chips Ahoy, Nutter Butter, etc).
+Pretty self explanatory. I remember you could pick the drivers (who
+were real) and they had a brand associated with them. You could drive
+around in a typical NASCAR track and maybe an open world bit. Had 3D
+graphics from what I remember. It may have been on a website for a
+major company that owned these brands. Please Help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

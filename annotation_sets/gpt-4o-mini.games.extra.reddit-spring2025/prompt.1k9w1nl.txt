@@ -1,0 +1,73 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2013] A action rpg game for computer. **Platform:**
+Computer **Genre:** RPG, Action Rpg, Adventure. **Estimated year of
+release:** Around 2011. (Might've released much earlier, but this is
+around the time that I played for the first time.) **Graphics/art
+style:** 2D. Topdown, Pixel art (probably), had a
+""""""""anime"""""""" aesthetic to the characters, the quality of the
+graphics was much """"""""higher"""""""" then games like Chrono
+Trigger, Secret of Mana, or even Sword Craft 2, and it wasn't a JRPG,
+at least not one of those series, from the graphics alone I know that
+it must've been developed years after those came out. **Notable
+characters:** Main character was a Girl, at least I played as a girl,
+I don't remember if you could choose your gender. I think that, in the
+prologue you talked to a black cat, after crashing a boat somewhere
+you didn't know about. The first gameplay area was a green forest,
+very basic, and I remember very well that the first enemy you fight in
+the game are bunny like creatures, that your character makes a remark
+about how they would make for cute pets, if only their teeth weren't
+so sharp. The first boss (That I can remember) was a dragon or hydra
+of sorts, that you fought against inside a cave/dungeon after fighting
+lots of skeletons and bats. The game also had a system of
+""""""""ultimates"""""""" that I am 100% sure that after you kill this
+boss, you gained another option for this Supreme ability, and I think
+that the first one was some king of a thunderstorm, with another being
+something that made you very fast, stopping time or something like
+that, might've been just a shield, because the effect was that you
+didn't take damage during it. Later in the game, you arrive at a town
+or village of some sorts, and there's a area where you can find a
+beastman, (kinda like the """"""""Lionfolk"""""""" from d&amp;d) and
+after talking to him, you will get the option to fight him, which I
+believe was because he had an amulet with him, that belonged to you,
+or just that you needed that amulet. There was also another boss in
+that village, that resided inside of a church or cathedral, that had
+an attack that hit the entire screen, and was undodgable or something,
+essentially communicating to the player, that you needed to get some
+item or spell, in order to defeat him, which I never did. But I
+believe you needed the amulet from the beastman, which I also never
+got. **Notable gameplay mechanics:** The game reminds me of games like
+The Minish Cap or a Link to the past in terms of maneuverability. In
+the sense that it wasn't a Rpg maker game for sure, you didn't move in
+a grid like pattern, (you didn't move one """"""""space"""""""" at a
+time), you had much more freedom of movement, something akin to an
+action rpg, where fights are in real time instead of turn based.
+During boss fights, you had to be constantly dodging attacks using
+WASD, and trying to hit them with whatever weapon you were using (I
+don't remember what it was but I think you had options, or you attack
+by just punching or casting spells). **Other details:** From what I
+can remember, the prologue starts with your character on a boat,
+talking to herself. And the Icon for the game in my computer was a
+""""""""Sun"""""""" image, with some symbol or writing inside of it. I
+think I got this game from those """"""""10000 games"""""""" CD's, in
+the download section, it had 3 games that I can remember, a very old
+version of Battle For Wesnoth, A game called """"""""Fanta
+Scape"""""""" that I could never find again, and this one, that I
+don't remember the name of. If I had to say, the most similar game to
+this one would have to be Secret of Mana, just because of the way you
+move, and attack in that game, but the graphics aren't the same, this
+game clearly came out much later then Secret of Mana. When your
+character spoke in that game, the game also used dialogue boxes that
+showed her facial expressions, and also those of whom she was talking
+to, kinda like Sword Craft 2, for an example. If anyone has any more
+suggestions for more information that maybe I could give, please tell
+me so."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

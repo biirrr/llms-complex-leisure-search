@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction, romance. Protagonist is former child star who
+agrees to star in reboot of her teen (90210-like) show. The cast is
+shipwrecked on their way to the filming location. Love interest is
+named Hayes.. The protagonist is a former child star but now lives an
+unglamorous life as a landlord and is strapped for cash. She is
+nervous to go on the show because of former relationships, incl Hayes
+and also former best friend who is maybe named Liz? The main cast is
+traveling to the island where they will film when there is a storm and
+they end up on a small island with a creepy mansion, which they figure
+out was owned by a famous porn director. They find creepy cameras and
+the situation gets dire."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

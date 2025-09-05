@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC game][around 2005/2009, should be] help find, please. I
+remember reading review of this in a gaming magazine, around 17-20
+years ago. It was RPG set in the afterlife, according to the review it
+was possible to choose who to help, angels, demons or neutral ghosts.
+And they promised potential control of your own troops. Reviewers
+complained about clunky camera control and wery non intuitive UI.
+Basically, it was (according to the review) something between
+""""""""banner lords"""""""" and """"""""sacred"""""""" set in the
+afterlife, and it was made around 2005-2007 or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

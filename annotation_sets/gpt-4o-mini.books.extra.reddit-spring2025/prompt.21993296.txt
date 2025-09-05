@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1960s - 1970s First Aid/Health reference guide for Parents-
+lots of color lithographs. [s]. I remember being fascinated by a book
+in the family bookshelves. It was the type put out by Parents Magazine
+Press (see A Children's Guide to Knowledge for similar style). It had
+illustrations of things like recognizing rashes like poison ivy,
+childhood illnesses, how to treat a snakebite, etc. I'd love to have a
+copy for my shelves. Any help would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

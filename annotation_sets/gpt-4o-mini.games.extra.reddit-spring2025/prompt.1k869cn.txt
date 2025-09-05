@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [UNKNOWN] Trying to find an old game that I had played
+in my childhood - 3D FPS. Im trying to find an old 3D first-person
+shooter game I played years ago. The gameplay was very unique because
+you couldnt move your character at all - you were fixed in one spot
+(like a soldier defending a position or outpost). All you could do was
+look around using the mouse and shoot incoming enemies. There was no
+walking, running, or any other movement. It felt like a turret defense
+or shooting gallery style game but in full 3D FPS perspective. Im
+pretty sure it was set in a war or military environment (maybe WW1 or
+WW2, but Im not 100% sure), and the enemies kept coming in waves. The
+controls were very simple - just mouse to aim and shoot. Does this
+description ring a bell for anyone? Any ideas what game this might be?
+Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

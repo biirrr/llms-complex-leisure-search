@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS One][2000-2005] I am trying to find a PS1 shooter game
+for more than 10 years&. Platform(s): PS One (2000) Genre: Realistic
+Shooter/Action (I do not remember if it was FPS or TPS) Estimated year
+of release: 2000-2005 Graphics/art style: I remember the whole game
+being indoors. The most similar one I could find was Delta Force:
+Urban Warfare (2002) Notable characters: Only one character Notable
+gameplay mechanics: Realistic shooting, able to climb a ladder, able
+to jump, includes a level where you have to stop a huge fan to crouch
+through the wall Other details: no aliens or monsters, there is fall
+damage, as I said the game was mostly indoors and with a pistol as far
+as I remember. Please help me&"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

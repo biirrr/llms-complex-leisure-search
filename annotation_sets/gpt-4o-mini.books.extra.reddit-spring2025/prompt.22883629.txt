@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA 1980s Mystery. Girl accused of killing babies. Spoiler..
+I'm searching for a YA book from the late 80's. The perspective is
+from the best friend of the accused who is thought to have killed her
+baby brother and two other infants. It ends up being a kidnapping ring
+with the children being chosen because they're from faiths that bury
+their dead without embalming them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

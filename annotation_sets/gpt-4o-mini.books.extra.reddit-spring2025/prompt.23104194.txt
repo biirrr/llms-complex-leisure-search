@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1990s-2000s Children's Pokemon Book Pikachu on Cover. In the
+late 1990s/early 2000s, my local library had a Pokémon book with a
+yellow cover and Pikachu on it. It was the older, chubbier Pikachu,
+and he was jumping up in the air. I don't remember much about it,
+except that it probably had trading card game designs in it and maybe
+tips about the GB games or scenes from the anime. I remember checking
+it out alongside the Pokémon Trainer's Survival Guide , and I've
+gotten the two completely mixed up in my head. I seem to think that it
+was just called ""Pokémon"", but you can imagine how much help that is
+in a Google search -_-"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

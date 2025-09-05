@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][I can't remember the year] This shooter game with
+monsters in a mansion rescuing your kidnapped wife. So people of this
+sub please help me find this game i used to play in my laptop when I
+was young it was a horror game where the protagonist goes into some
+sort of mansion filled with monsters because his wife got kidnapped by
+a big bat monster and he fights the monsters with gun I'm trying to
+remember its name for so long but I can't please help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

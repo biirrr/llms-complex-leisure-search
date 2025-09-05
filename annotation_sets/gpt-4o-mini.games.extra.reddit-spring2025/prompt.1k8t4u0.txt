@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][recent] WarioWare inspired game but with pigeons or
+something like that. I can be awfully off about it. I remember seeing
+a dude play a game that (as I remember) looked like a WarioWare,
+minigame style game but with some goofy characters like pigeons. As I
+remember, it's one of those multiplayer games where lots of people
+play together anf compete over who wins. The background was a solid
+color (probably yellow) and it had a little podium at the end showing
+the winners. I'd be thankful if anyone can find it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

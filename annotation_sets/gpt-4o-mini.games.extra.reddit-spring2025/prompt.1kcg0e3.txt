@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/2000s] i swear this game exists. # Platform(s): PC
+Genre: fantasy? Estimated year of release: 90s - 00s?? Graphics/art
+style: 2d, extremely simplistic Notable gameplay mechanics: possibly
+turn-based. i think you moved tile to tile, and if you landed on a
+tile with something (like a wyvern or other """"""""monster""""""""),
+youd fight it in some way https://preview.redd.it/014lc1m6s7ye1.png?w
+idth=639&amp;format=png&amp;auto=webp&amp;s=1b3c18b540d7177669d78d3f66
+9f01e91c2ad9b8 Other details: it had grey hexagon tiles arranged into
+a larger hexagonal map. you moved through these tiles and encountered
+things like wyverns, which i remember looking like a simplified purple
+skyrim logo. there were other things like warlocks and maybe witches
+too. its been **insanely** hard to track down so far, ive looked
+through many websites, asked chatgpt, everything. I also seem to
+remember it being named something like Wyvern or Wyverns and warlocks,
+but who knows. i looked those up and they are entirely different
+games. i know its not a lot to go on but any suggestions would be much
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

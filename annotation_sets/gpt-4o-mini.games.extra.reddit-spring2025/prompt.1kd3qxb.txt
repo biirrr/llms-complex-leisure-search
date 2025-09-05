@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [roughly 2015] A game where you have to escape
+hell/death by stealing colors from demons. I never played it and only
+saw a Youtube video about this one, you die in the beginning and
+you´re in the underworld where you have to defeat demons to escape it.
+You can only defeat them by stealing colors from them and its a finite
+ressource if i recall correctly, you have to draw symbols with it to
+fight, a bit like okami. Sorry i dont have more to go by, would be
+nice to find it again, I always wanted to play it and never remembered
+the title\^\^"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

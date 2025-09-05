@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015+] What game is this?. Platform(s): PC Genre:
+futuristic/ post apocalyptic 2d ship builder/fighter Estimated year of
+release: 2015+ maybe , recent game Graphics/art style: 2d high res
+pixle game Notable characters: We play as rebels or empire trying to
+get to the capital city Notable gameplay mechanics: you have to travel
+to cities on a desert map where you fight the rebels ships with yours
+and then you can refuel, buy more ships or upgrades Other details:
+Game reminds me of dunes from the characters/ world setting"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Math book written by a Korean or WWII p.o.w. [s]. My brother
+in law read this book when he was in Vietnam in the mid 1960s. The
+author had been a p.o.w. in the Korean war or WWII. While in the
+p.o.w. camp he thought up different ways to solve math problems. The
+math problems could be real simple or a little bit harder. I hope I
+have this right. Has anyone heard of this book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

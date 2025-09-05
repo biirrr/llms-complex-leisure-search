@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2018] [help find this game]. I remember a game wich it
+was like a tribe with some little guys that had masks with shapes such
+as squares, triangles, circles and they had diferent abilitys
+depending of the shape i cant remember what year was but if i can say
+a year it could be 2018 or less Edit: More stuff that i remember of
+the game: It was 2D, also the masks that have shape and not with shape
+(mb), the tribe was like little stickmans or something similar, And
+according to me, the tribe we have will always have a kind of totem,
+and I think with that you could modify the shapes that the masks had.
+(ty for showing interest in this game, or helping searching it, i was
+trying to search this but i cant find it ;( )"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

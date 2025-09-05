@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] First person shooter on an Alien Planet with
+maths puzzles. You arrive on an alien planet in a spaceship and have
+to shoot aliens. There where checkpoints within the game that when you
+got to you had to solve mathematical puzzles. The better you did, the
+better the items you received. You also escaped the planet on a
+surfboard or something similar. Definitely was on PC and had a
+graphical level similar to the older Tomb Raider games"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

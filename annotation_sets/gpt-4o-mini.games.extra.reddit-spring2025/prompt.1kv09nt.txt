@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console/PC][Upcoming]Sci-fi 2D platformer. Platform: If I
+had to guess I'd say it was for current gen consoles and/or PC. Genre:
+2D (?) Platformer, scifi Estimated year of release : late 2025 or 2026
+I think Graphics artstyle : it was stylised a bit but I don't know how
+to describe it. Notable characters: playable character was an adult
+human male. Notable gameplay mechanics: the whole gimmick was the
+character could manipulate physics/gravity to move around. Could
+either be with a weapon or tool of some kind or powers. The
+environnement looked futuristic and mechanical. Other details: I saw
+the trailer in a YouTube video that featured several trailers of
+upcoming video games of various genres. Thought I had written the name
+down but apparently not. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

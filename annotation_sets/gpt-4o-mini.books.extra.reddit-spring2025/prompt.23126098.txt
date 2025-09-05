@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1990s Adult Dark Fantasy trilogy with Sorcerer Stuck in
+Ice?. Hello, I am looking for a dark fantasy trilogy by a male author
+most likely written in the 90s or early 00s. I remember reading parts
+of the 2nd book in the early 10s and it had a woman with a white dress
+on the cover. Fantasy world similar to The Black Company Series by
+Glen Cook. Other things: - The story takes place in a completely
+fictional world, with a medieval vibe—no modern tech or connections to
+Earth. - There were Viking-like raiders (might have just been called
+raiders). - There was a sorcerer or wizard imprisoned in a cold, icy
+place, possibly a castle of ice. His imprisonment was important to the
+larger plot. - Somehow related to him is a mysterious woman (possibly
+a goddess or an enchantress) who could make people fall in love with
+her. She ends up being sold to a king and is frustrated because her
+wet nurse bears a child for the king in her place. - There was a
+village raid scene where all of the women were kidnapped, including
+one of the protagonists (named Katna?). Her friend returns from a hunt
+to find the village destroyed and an old crone who gives him a sword
+which ties into the backstory. -The book had multiple POVs and changed
+perspectives pretty often, not leaving us with one character for very
+long."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

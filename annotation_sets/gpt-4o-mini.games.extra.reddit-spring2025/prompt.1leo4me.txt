@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s - 2010s?] Game featuring pink girl and blue boy,
+WASD controls. Platform(s): PC, browser game, Flash (?) Genre: Puzzle
+Estimated year of release: Early 2000s - 2010s(?) Graphics/art style:
+Simple flat colors, dark backgrounds, save for the lighting Notable
+characters: Blue colored boy, pink colored girl Notable gameplay
+mechanics: Synced movement (movement tied to both characters
+simultaneously) Other details: There was this really old puzzle game
+on either Newgrounds or Mofunzone. I'm assuming it was in Flash since
+it was made in that era where Flash was all the rage, but basically it
+was a simple love story; there was a boy and a girl, colored blue and
+pink respectively and the stages in the game were all black, only
+barely illuminated by street lights. The characters both moved at the
+same time and you had to push boxes and avoid obstacles like spikes in
+order to have them meet each other to complete the stage. If anyone
+can remember the name of this game, then please comment, I'd love to
+play it again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

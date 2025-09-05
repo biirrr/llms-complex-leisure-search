@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown] roguelike Isaac inspired game where you're a
+girl that uses chalk as a weapon in a school environment. I have a
+very faint memory of seeing a youtube video (don't remember the
+youtuber) around 6 to 7 years ago where they showcased an Isaac-
+inspired roguelike, with a very de-saturated color palette and
+possible school bullying themes? I remember something like that in an
+ending. I remember the character was using chalk as a projectile,
+blackboard erasers to create chalk dust clouds (that I think were a
+replacement for bombs, or maybe an item?) I also remember a ghost you
+had to follow through rooms into the secret room, though again, due to
+the nature of a game inspired by Isaac that might've also been an item
+that altered game mechanics. I've tried looking for this game a few
+times over the course of years, but I don't remember the name or even
+the specific video where I saw it, and though it didn't seem that high
+quality, the curiosity has been building up lately. Does anyone
+remember anything like this?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

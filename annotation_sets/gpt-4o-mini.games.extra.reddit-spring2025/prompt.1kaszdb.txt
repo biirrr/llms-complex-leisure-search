@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] A 2D building demolition game.. The game was
+pretty simple, but with some complexity, because part of it was a
+management game - simulated competitors, cost of explosives, cleaning
+payments. The gameplay and visuals are similar to Demolition City
+series, but it's not them - 2D, side view on a buildings. The
+buildings aka levels aka missions are varying from small wooden shacks
+to steel and concrete skyscrapers or radio towers, and made from
+little square tiles. The player can put on these tiles dots,
+representing HE charges, change the type of explosive (tnt, rdx, and
+others), size of charge, fuze time and direction of explosion.
+Explosions cause a cloud of particles, representing flying debris,
+that damage adjacent tiles on contact (which cause collateral damage
+that is deducted from total income for the jobs)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

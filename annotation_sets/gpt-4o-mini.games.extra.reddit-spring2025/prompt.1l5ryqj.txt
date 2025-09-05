@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [2015-2018ish] My Little Pony survival minecraft
+ripoff game. Okay so I was pretty young when I played this, but I've
+been trying to find this game for a while. My memory is fuzzy so bear
+with me. It was set in a minecraft equestria and I'm PRETTY sure you
+played as Twilight Sparkle. The daytime was pretty normal, you could
+roam around and look at all the structures and ponies. I'm pretty sure
+you could fly too. But once night approached, a bunch of like evil
+ponies attacked you. I think I was under some kind of Nightmare Moon
+plot, but I didn't stick around too long during the night because it
+scared me =. It was on the app store and I found it looking for
+minecraft ripoffs. I don't recall much else about it but if anyone has
+any info please lmk =="
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

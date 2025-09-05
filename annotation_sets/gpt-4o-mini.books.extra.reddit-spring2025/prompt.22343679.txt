@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction: French Philosophy Novel Involving Pillars,
+Published in 1940's. I read the first few pages on a pdf in November
+of 2021 during class. The title was either the french word for
+pillars, or a specific type of architecture. If I remember right, it
+may have been unfinished. It begins describing said architecture and
+is essentially a long tangent about everything the author is noticing
+while writing. It was written and/or published in the 1940's. no
+matter what keywords I search or lists of difficult or long novels I
+read, I can't find it again. Help!! edit: I expanded my keyword list
+and found it! I had to search ""unfinished french philosophy novels
+1940s architecture"" the book is 'Arcades Project'.
+https://en.wikipedia.org/wiki/Arcades..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

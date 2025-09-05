@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction about dog behavior. [s]. The book chronicles the
+research by a woman who studied dog behavior in urban settings. I
+believe it was written in the 1990s, or early 1980s. The book I had
+was paperback and it had a maroon cover. I believe the author was
+British (not 100% sure). It was full of interesting dog behavior, one
+story I can remember described how dogs do not cross streets at
+intersections - too dangerous. Instead they go up the street a ways,
+cross over more safely, then return to the intersection to go along
+their way. I lost the book and would love to know the title or author
+so I can get it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens Fantasy about moving to the ""perfect town,""
+instead, they think everything is perfectly burying their trauma and
+forgetting big parts of their memories. Green cover, Green might be in
+the title.. THINK GREEN GUYS THINK GREEN This family moves to some
+town that is supposedly perfect. They have everything they want, their
+house is great, everyone is kind. but it's perfect because everyone
+blocks out bad memories.. Key things I remember are them having rose
+bushes at their new house, and towards the end of the book they get
+ruined/torn up; family trauma comes out at the end that has been
+hidden/buried; the main character, the families daughter, cooked a
+lot, and she like channeled memories through her baking. The cooking
+was a huge part of this story, it was an important metaphor and big
+plot device. The girl also song chorus, I remember a vague scene
+involving the school choir. At the end, they like find everyone's
+forgotten memories hidden in like a basement somewhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

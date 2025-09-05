@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy/ Romance. An immortal mermaid/ siren gives up her
+powers and memories to be human and be with the guy she loves.. I read
+it between 2017-2020. The ocean serves as a ""mother figure"" or
+guardian for the mermaids/sirens. The MC knows 2 other mermaids/sirens
+and they don't age. They can leave the water and have legs if they
+want. They live around the world as time goes by, I specifically
+remember they lived in Paris at one point. The MC meets a man and
+falls in love with him. The ocean is hesitant to let her go but
+decides to turn her into a human. Since her memory was also taken, she
+doesn't remember him at first but they fall in love and get married.
+Her 2 friends stay mermaid/siren but they leave her a wedding gift
+even though her memory was wiped."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

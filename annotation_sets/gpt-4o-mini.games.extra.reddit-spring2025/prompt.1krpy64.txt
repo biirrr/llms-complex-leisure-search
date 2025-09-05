@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC - Steam][2017-2022] 2D horror game in an isometric
+style. Similar to RPGmaker games.. Found: Cat in the Box TW:
+decapitation mentioned PLATFORM: PC, found it on Steam originally, not
+in my wishlist ot history. GENRE: Horror YEAR OF RELEASE: sometime
+between 2017 and 2021/2022 GRAPHICS: a high quality rpgmaker style
+game in isometric view. Has highly detailed 2D cutscenes. Similar look
+to the game Evil Tonight NOTABLE CHARACTERS: A young blonde woman,
+either a youtuber or a reporter going into a haunted mansion for
+footage. GAMEPLAY: From what I remember, there is no combat. Lots of
+possible deaths for the main character. I may be remembering this
+wrong, but I think that it is a puzzle-focused game, but I'm not 100%
+sure. Similar to Witch's House. OTHER DETAILS: I remember that the
+steam page had images of the main character standing outside of the
+mansion -- or the mansion gates -- saying that it would be a good
+place for footage. One of them was with a box of some sort, and
+another was with her severed head inside of the box, or on top of a
+platter. Aside from this, there's not much else I can remember. I can
+try to scrounge up some more memories in the morning, but I'm not sure
+if anything else will really be forthcoming. Though, and this is
+probably due to memories getting mixed, I remember something about
+Mario being involved? But again, probably just memories getting mixed
+up. Thank you for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

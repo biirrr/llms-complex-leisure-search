@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps3] [2010s] 3rd person action adventure post apocalyptic
+shooter. This game was for the ps3 and released sometime in the 2010s.
+I remember the main character being black and having some power
+involving blue energy. It's im a mad max esk world and you fight
+bandits. It's a 3rd person shooter and you can use your blue power to
+call in a jet or a mech to control. That is all I can remember thank
+you for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

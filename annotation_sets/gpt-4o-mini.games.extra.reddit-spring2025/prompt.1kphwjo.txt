@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps1/2] [single player, story based game] [2000s]. My
+memory is very sketchy so apologies for the poor description but I
+used to watch my big brother play an obscure game when I was a kid,
+The character you play as is a human hybrid with potentially a bug of
+some kind, its played in 3rd person. Part of the game was played in
+caves I think and part in the jungle. It involved killing attacking
+creatures throughout while progressing but I dont remember any big
+boss fights. The only other thing I remember is that the overall vibe
+is quite somber and off putting. It was a weird game. If anyone knows
+I would love to find it. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

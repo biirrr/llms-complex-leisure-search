@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adventure, fiction. Teen Boy/ teen builds an Airplane with
+his friend, hides it in old shed, and they try to fly it. Starts with
+the boy in a skateboard park, he just moved into town?. What I can
+remember is that it starts with this boy going to a skateboard park
+coz I think he just moved into town I believe he's a teen anyways he
+meets some ppl there that are friendly but also a bully who has a
+really pretty sister that he likes. Him and his friend start to build
+an airplane hidden in an old shad and their 1st test flight crashes
+into a tree but they keep working on it and when its done they roll it
+on to the road which has a really long hill and they zoom down the
+hill and almost crash but they take off and they fly over the
+skateboard park and drop some kind of animal poop on to the bully. Oh,
+and btw the bully is very protactive of his sister and idk when this
+next part happones but the main charicter gos on a walk with the bully
+sister and they sit on a bridge and almost kiss but then the bully
+comes and takes here away yelling sat here and saying they have to go
+and that this kid is dumb and she should not be with him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP][2010-2015] Game Where You Fought Inside Patients to
+Heal Them. Hi, I remember playing a game around 10-15 years ago, when
+I was a child, I played if in my uncle's PSP It was an action game,
+the main character was male and it fought literally inside patient
+bodies to heal them, killing whatever virus, bacteria and stuff was
+inside them causing illness to the patient, he literally used a blade
+to kill these things, he would be made really small to go inside the
+patient bodies, I think the game was japanese, I'm not totally sure
+right now, the graphics were pretty good for a game from that time, I
+also remember that each level was a different patient you had to heal
+The game was 3D, the graphics were more on these realistic anime
+style, like, a midterm between anime and more realistic"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

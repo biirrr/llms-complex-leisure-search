@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Red haired woman and Palliative Care Nurse
+guy who live together and eat baked good together.. The book is about
+a red haired woman and a curly haired (pretty sure) palliative care
+nurse guy that live together and fall in love. The girl bakes
+sometimes and they share what she bakes. One day, her obsessive ex
+comes back and proposes forcefully to her on a livestream. Nurse guy
+sees it, gets mad, but eventually figures out he misunderstood and
+comes back to the girl's balcony and they make up. I read this book
+around 2016-2018 I think. Please help me find it bro"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

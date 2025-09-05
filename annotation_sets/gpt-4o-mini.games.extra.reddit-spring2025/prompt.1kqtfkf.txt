@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][1993-1997?] RPG with a spike wall battle.
+**Platform(s):SNES** **Genre:Turn based RPG** **Estimated year of
+release: Sometime in the early to mid 90's** **Graphics/art style: top
+down or isometric RPG** **Notable characters:** **Notable gameplay
+mechanics: The only thing I can remember from this game is going into
+a palace maybe and after speaking with a king you are dropped down
+through a trap door to face a turn based battle with a spiked wall
+that gets closer and closer through the battle. If you don't destroy
+it before then end of the battle you are squished and it's game over.
+I played it around the time of learning to read and didn't understand
+turn based RPGs and don't think i ever got past this part. I've been
+searching high and low for this game with no luck.** **Other details:
+This might not be at the beginning of the game. It may have been
+rented from blockbuster or borrowed from a friend. I never actually
+owned it so i'm not sure.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64][Unsure]RPG with a giant hand in the sky. SOLVED:
+Grandia 2 I recall I played this game as a kid and enjoyed it enough
+to play it to completion. It also featured a chasm that ran the length
+of the planet that was said to be a result of a fight between two
+deities that is still ongoing. There was a scene in which a ship used
+some internal mechanism to temporarily gain flight for the purpose of
+crossing the chasm. And--spoiler alert--at the end of the game it is
+revealed that one of the deities has been dead for a long time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

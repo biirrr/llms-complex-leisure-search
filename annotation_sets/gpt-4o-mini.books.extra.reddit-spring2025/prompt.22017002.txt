@@ -1,0 +1,98 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction: Politics in 1700s - Adam Smith(?) and
+enclosure. [s]. SOLVED: _The Invention of Capitalism: Classical
+Political Economy and the Secret History of Primitive Accumulation_ by
+Michael Perelman ---- I've been working on thousands of book titles
+and synopses over the last couple of weeks, and I read one - which I
+meant to put on my acquire list - and now I can't find it. It
+described Adam Smith(?) or other authors of the same time frame who
+wrote on ideas of capitalism - but the book was about how they not
+only theorized, but made political moves to put their theory into
+action - and was a discussion about how capitalism didn't just happen
+but was a political movement by powerful people, who wrote some
+propaganda to make it look nice. I've ruled out (updated to include
+suggestions (thanks guys!) below): The Last Man Who Knew EverythingThe
+English Rebel1381A Brief History of DoomOrphans of EmpirePoverty is
+not Natural No ContestThe Archaeology of Improvement in
+BritainRepublicanism and Liberalism in America and the German States,
+1750-1850An Economic History of the English Poor Law, 1750-1850An
+Empire of Air and Water: Uncolonizable Space in the British
+ImaginationA History of Adoption in England and WalesDomestic Service
+and Gender, 1660-1750For All the Tea in ChinaTitans of HistoryWritten
+in HistoryThe Future of Class in HistoryComplexity and the History of
+Economic ThoughtCapitalism, Socialism and DemocracyPolitical Economy
+and the Rise of Capitalism: A ReinterpretationCapital and IdeologyThe
+Great Transformation: The Political and Economic Origins of Our
+TimeCapitalism as a Moral System: Adam Smith's Critique of the Free
+Market EconomyThe Big Three in Economics: Adam Smith, Karl Marx, and
+John Maynard KeynesThe Origins of Capitalism as a Social System. The
+Prevalence of an Aleatory EncounterOn The Reproduction Of Capitalism:
+Ideology And Ideological State ApparatusesThe 1549 Rebellions and the
+Making of Early Modern EnglandAgricultural Revolution in England: The
+Transformation of the Agrarian Economy 1500-1850The Sinews of Power:
+War, Money and the English State 1688-1783Caliban and the Witch:
+Women, the Body and Primitive AccumulationThe Many-Headed Hydra: The
+Hidden History of the Revolutionary AtlanticNed Ludd & Queen Mab:
+Machine-Breaking, Romanticism, and the Several Commons of 1811-12Re-
+enchanting the World: Feminism and the Politics of the CommonsRed
+Round Globe Hot Burning: A Tale at the Crossroads of Commons and
+Closure, of Love and Terror, of Race and Class, and of Kate and Ned
+DespardThe Magna Carta ManifestoThe Other Adam Smith: Popular
+Contention, Commercial Society, and the Birth of Necro-EconomicsThe
+infidel and the professor : David Hume, Adam Smith, and the friendship
+that shaped modern thoughtSelf-interest before Adam Smith: a genealogy
+of economic scienceBritons: Forging the Nation, 1707-1837Stop, Thief!
+The Commons, Enclosures, and ResistanceThe New Enclosure: The
+Appropriation of Public Land in Neoliberal BritainThe Afterlife of
+Enclosure: British Realism, Character, and the CommonsGlorious
+Revolution in 1688: The First Modern RevolutionPre-Classical Economic
+Thought: From the Greeks to the Scottish EnlightenmentThe Cambridge
+Companion to the Scottish EnlightenmentRoutledge History of
+Philosophy, Volume 5: British Philosophy and the Age of
+EnlightenmentRadical Enlightenment: Philosophy and the Making of
+Modernity 1650-1750Enlightenment Contested: Philosophy, Modernity, and
+the Emancipation of Man 1670-1752Democratic Enlightenment: Philosophy,
+Revolution, and Human Rights, 1750-1790The Enlightenment that Failed.
+Ideas, Revolution, and Democratic Defeat, 1748-1830The Enlightenment
+and the Intellectual Foundations of Modern CultureBetween
+Enlightenment and RomanticismRomanticism and Colonialism: Writing and
+Empire, 1780-1830Natures in Translation: Romanticism and Colonial
+Natural HistoryRomanticism, Hellenism, and the Philosophy of NatureThe
+Terror of Natural Right: Republicanism, the Cult of Nature, and the
+French RevolutionA Revolution of the Mind: Radical Enlightenment and
+the Intellectual Origins of Modern DemocracyEconomic origins of
+dictatorship and democracyThe Roads to Modernity: The British, French,
+and American EnlightenmentsThe idea of poverty: England in the early
+industrial ageThe Expanding Blaze: How the American Revolution Ignited
+the World, 1775-1848Empires and Entrepots: The Dutch, the Spanish
+Monarchy and the Jews, 1585-1713The Coming of the Terror in the French
+RevolutionEnlightenment and Reform in Eighteenth-Century EuropeThe
+Rise of the Nation-State in Europe: Absolutism, Enlightenment and
+Revolution, 1603-1815Enlightened Absolutism: Reform and Reformers in
+Later Eighteenth-Century EuropeThe Crisis of the European Mind:
+1680-1715European Jewry in the Age of Mercantilism, 1550-1750The
+Ascent of Money - Financial History of the WorldConflicts of Empires:
+Spain, the Low Countries and the Struggle for World Supremacy,
+1585-1713Locke, Shaftesbury, and Hutcheson: Contesting Diversity in
+the Enlightenment and BeyondThe Radical Enlightenment by
+JacobFormations of the Secular: Christianity, Islam, ModernityEssays
+on Hume, Smith and the S.E.The Moral Culture of the S.E.The S.E. and
+the French RevolutionThe Enlightenment and the BookCrowded with
+GeniusAdam Ferguson in the S.E.Social theory of the S.E.The Idea of
+Commercial Society in the S.E.Montesquieu: The Spirit of the Laws
+Possible match: _The Enlightenment: A Very Short Introduction_ ""...he
+also explores how its supporters exploited new ways of communicating
+their ideas to a wider public, creating a new 'public sphere' for
+critical discussion of the moral, economic and political issues facing
+their societies."" But that's not quite as vehement as what I
+recall... it's something close, though."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

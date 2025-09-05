@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Cookbook. Old novelty children's birthday cake book. [s]. Im
+looking for a book I had as a child. It was an old novelty children's
+birthday cake recipe book. Some of the extracts I remember are a
+Battenberg snakes and ladders cake with curly wurly ladders. A blue
+and red train with a trailer containing jelly beans, the wheels
+possibly Jammie dodgers. A large pink castle with rapunzel's hair
+coming out of a window, pink ice cream cones as the turrets and pink
+wafers as decoration. I also think there were barbies in a pool and a
+pirate ship or treasure chest made of chocolate fingers. I'm not too
+sure what the front cover looks like but It possibly had the train on
+it. It's not the woman's weekly book. Thanks for any help Edit: My mum
+found the book. The cover was completely different than I remembered
+It and I can't believe I didn't remember the ballet shoe cakes because
+I was obsessed with ballerinas. The book is called 30-minute kid's
+cakes. Decorate cakes in 30 minutes or less by Sara Lewis."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "LGBT memoir he had a relationship with an older man, and had
+a very difficult time telling his parents about it [s]. This is a book
+I read in 2010. It was written by a man who was born in the 1950's or
+60's I believe. It was written by someone who was from New England,
+though I cannot remember which part. It was published in the mid
+1980's I think. It is his memoir of coming out as a gay man. I think
+one of his parents may have been Jewish. I believe he went to a
+boarding school as well, some point in the story. Also I remember that
+he had a relationship with an older man, and had a very difficult time
+telling his parents about it. I have had trouble finding it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

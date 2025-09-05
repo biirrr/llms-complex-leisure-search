@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/PS?][unknown] This doom like game I stuck in my mind.
+Platform(s): Youtube &amp; something else Genre: Sci-fi FPS Estimated
+year of release: Unknow Graphics/art style: distinctive and influentia
+Notable characters: I think the main player is some sort of strawberry
+or tomato or apple Notable gameplay mechanics: Its a FPS game thats
+for sure Other details: The main game is about the main player
+entiring a Bar and the strange thing is everyone is like a vegetble
+the bar tender is a lemon and there's alot of onions and like I not
+hear why this happen but all of the onions transform into demons and
+attack the player after the player done killing them the bar tender
+transform into a demon for a boss fight thats all I know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

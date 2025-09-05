@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book about a teacher who is having a bad
+hair day. I read this book to second grade students between 2005 and
+2014. In it, a school teacher is having a terrible hair day, and her
+students try to help. At one point they speak to the school principal.
+This part always made me laugh because the principal is bald and says
+that HIS head is perfect, and perfect heads don't need hair to cover
+them up. I did check out ""Bad Hair Day"" by John Phillips, but it
+isn't that one. I feel like this book may have come from a Scholastic
+book order."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

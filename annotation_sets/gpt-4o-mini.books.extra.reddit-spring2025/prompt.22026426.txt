@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Romance where MC is an Empath. Hi I’m Kari
+and I’m new! Just joined the group just now to find this ya romance
+book I read around 2015-2016 about a girl that has empathic abilities.
+I only read the first few chapters but I remember a scene where she
+was performing at a concert as a singer/guitarist and was influencing
+the audience’s emotions so they would feel what she was projecting. A
+guy (who I believe was her love interest) is a vampire as well but
+that was the only thing I can remember about him. I know it’s not much
+to go on but I can’t get this story out of my head! Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

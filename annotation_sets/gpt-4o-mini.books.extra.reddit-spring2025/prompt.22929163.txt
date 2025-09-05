@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "New Adult(?) book about girl who dresses as boy to go to
+boarding school, falls in love with roommate? And goes to his beach
+house at some point. He has a sibling who died who he may be helped?.
+I think I read this around 2015 but it’s completely possible it is
+older. I also remember him getting beaten by the schoolmaster at some
+point."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

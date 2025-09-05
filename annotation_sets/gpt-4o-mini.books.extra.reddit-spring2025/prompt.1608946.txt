@@ -1,0 +1,44 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Self-help book about sexual abuse [s]. Today I remember
+another book I read when I was a kid. This was one that I was not
+supposed to read, my mom had bought it for my older sister (she was
+starting to go to a lot of parties and my mother was really scared of
+something bad happening to her: I suspect this book was a way of
+scaring her/making her know the dangers of the world). But I took it
+and read it anyway when no one was seeing. Anyway, the book was
+written by a woman, and I think she was some kind of
+psychiatrist/psychologist (don't know what's the appropiate word in
+English here) who specialized on treating girls that had been sexually
+abused. I remember the book shocked me a lot because of the events
+described. Btw I was 10 or 11, so this must have been around 1999 or
+2000. If I recall correctly, the book was divided on chapters and each
+chapter covered the experience of a girl, the techniques used by the
+woman to try to heal them, and reflections from the author about the
+case, society, etc. I remember two cases: one, the most shocking of
+them all, was about a girl who went to party and when she was coming
+home alone on the street, 4 boys picked her up forcefully and raped
+her in their car and left her on the street (one of the boys was
+pretty shocked about what his friends where doing and refused to rape
+her but didn't stop them either. The guys were saying that she wanted
+it because she was dressed like a slut). When she came back home she
+hid the fact from her family first, but later she told them. By the
+end of the therapy one of the things the author made her do was to
+write a pretend letter to her rapists in whichthe girl decided to
+""forgive"" the guys (of course they never knew who they were) in
+order to let go of the burden and be able to go on with her life. The
+other story I remember was about a young blond girl that went to the
+house of a friend and when she was alone with her father he touched
+her. It was quite the fearmongering book. I don't remember much else
+right now, but it may come to me later. The book was most probably
+from USA. I read the Spanish edition, but all the names were in
+English."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

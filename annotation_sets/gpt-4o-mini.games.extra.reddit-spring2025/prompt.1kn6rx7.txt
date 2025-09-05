@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[spelletjes] [2010] RPG game on Dutch website. Hello all, I
+have been driving myself insane for weeks and have had countless of
+conversations with ChatGPT (what an odd sentence) to try and find a
+game I used to play when I was 9 - 12. l was living in Holland at the
+time, and if I remember correctly I used to play it on a Dutch gaming
+website. Might have been Spelletjes.nl but unsure as this was roughly
+16 years ago. It was an RPG game, they had all different games under
+the same name so eg Red: Bla, Red: BlaBla but they were all the same
+game just different missions. You were either a male or female, you
+couldn't choose it was just based on the mission. There were missions
+in white, snowy conditions and there were missions in jungle-like
+places. For some reason I think the name includes a C, and I keep
+thinking it has """"""""Woolfe"""""""" in it too but I can't find
+anything like that. It was all humans, nothing fictional or any
+creatures I don't think. I can't even remember the objective of the
+game but it's driving me insane not knowing!!! I looked on WayBack
+Machine and still can't find it. Any help would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

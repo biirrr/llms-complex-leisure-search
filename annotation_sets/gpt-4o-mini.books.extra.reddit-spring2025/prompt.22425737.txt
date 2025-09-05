@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical NonFiction, read in 1987. Vietnam War.
+Mainly focused on one American soldier. Secondary character named
+Stryker/ Striker. Mass market paperback. [s]. I think this one is
+going to be a little difficult to solve as I have very little memory
+of anything substantial. I am positive I read it in 1987. It was a
+paperback novel centered on the Vietnam War from the perspective of a
+United States military man (I think a Marine, but possibly a soldier).
+The book was likely written to capitalize on the popularity of films
+like Platoon and Full Metal Jacket. The main character might have been
+named Johnny or Jonny (though this might just be stuck in my mind as
+the ""generic young soldier"" name). The story arc might have involved
+him sort of losing innocence, coming of age, etc. though I am not at
+all clear on that. The only item I remember distinctly is that there
+was a character named Stryker or Striker (not sure of spelling, but I
+think of this book every time I see anything about the Marvel villain
+with that name) who was portrayed to have questionable morality- maybe
+not quite an antagonist, but possibly a kind of bad actor or at least
+very aggressive. I am pretty sure the cover of the book showed the
+main character- possibly walking in a heavily forested area with a gun
+in his hands (I think?). When I try to picture it, he may have had a
+helmet on and may have had light brown/dark blond hair- realistic
+looking drawing. The novel itself was likely about 150- 200 or so
+pages long I think. Thanks for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

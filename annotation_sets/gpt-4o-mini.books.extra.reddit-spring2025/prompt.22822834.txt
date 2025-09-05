@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror? Guy lives in noble family except he's the only
+one of his family left. Finds out this guy has been killing the family
+off and has been secretly living in the house the whole time. Read
+around 2022. [s]. mc lives in a big mansion but hes pretty lonely
+because he has like no family left and none of his family members
+managed to live past 25 i think and he finds out that this guy has
+been living in his house the whole time secretly killing off the
+family as revenge for his dad who was murdered by someone in the mc’s
+family. also im pretty sure that guy had been living off of some sort
+of elixir of life. i think the mc and the vengeful guy started
+fighting and the mc died"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

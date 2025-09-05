@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP][~2015] game with a windmill and a big evil plant that
+attacked. Ok, hello. I cannot for the life of me find this game, and
+sadly I don't remember too much. It's a PSP game I played probably 8
+years ago if not Ionger. l've checked out the daxter games, ratchet
+and clank, crash bandicoot, those are definitely not it. The main
+things I've got in my head were, some kind of windmill with a huge
+plant next to it, this is like the key memory. then, there was some
+sort of pier platform, and i think you could get on a boat aswell, the
+camera perspective was quite far away as i remember. I remember
+playing the ratatouille game a lot and spiderman friend or foe and i
+live in austria, if that's of any help. Feel free to ask more
+questions, i'll try my best to answer more but that's about all can
+think of right now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

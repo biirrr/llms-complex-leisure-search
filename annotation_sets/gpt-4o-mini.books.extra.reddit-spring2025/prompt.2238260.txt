@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Only have a quote [s]. I only have a picture of one page and
+can't find what book this is. ""God is a God of justice. I don't know
+how long it will take, but God has promised He'll make the wrong
+right. He'll restore what the enemy has stolen. It doesn't matter how
+badly someone has hurt you. It doesn't matter how wrong they were. If
+you'll let go, God will settle your accounts. God will pay you back.""
+That's the quote. This is on page 151. Either the book or chapter name
+is ""Traveling Light"" There also seem to be a character named Les.
+The quote also seems to take place during a service of some kind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

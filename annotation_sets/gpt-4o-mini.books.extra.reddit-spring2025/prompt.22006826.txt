@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True Crime: 4 teenagers who kill one of their families. [s].
+I read this book in my teens or early twenties - so it's at least 20
+years old - this would be been 1992-2002ish. It's one of the first
+true crime books I've ever read. Anyway, the details I can remember
+are limited, but here they are: 4 teenagers - 2 boys, 2 girls They
+killed one of the girls family Setting was small town There was a
+gothic or vampire element - I think there may have been some drinking
+of blood involved The girl whose family was murdered - I seem to
+remember the author sharing some of her thoughts after they ran away -
+and that she was already having doubts There may have been domestic
+violence in one of the boys families One of the boys killed one of her
+parents, but I think I remember that she killed her little brother I
+think I remember them hiding in a car (???) for a while - like in a
+field? That part may not be accurate. The book told mostly her story,
+but also of all 4 kids and was very timeline driven."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

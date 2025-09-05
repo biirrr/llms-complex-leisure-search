@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction that took place during the Depression.
+Young girl & family work for peach canners. Girl finds a hidden room
+full of books. Hides & reads often. Read late 1970s/early 1980s.. I
+read this book in the late 70s/early 80s, and I don't know why it has
+stuck with me. I have tried googling, have tried AI, have tried quite
+a few ways to figure it out with no luck. About the story: Fiction.
+The period is during the depression, the girl's family moves to a new
+location, the whole family works for a peach canner. I remember that
+school children make fun of the girl for wearing 5 and dime clothing.
+The girl finds an entrance into what appears to be an abandoned
+building (I think?) and finds a room full of books and so she often
+disappears and hides in the room to read. I also remember the son of
+the cannery owners is a bully who picks on the girl but the girl's
+parents excuse his behavior because the depression also made his
+family poor."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

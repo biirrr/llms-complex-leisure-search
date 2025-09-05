@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[COIN-OP][1995] Defender type shoot em up conquering
+planets. Mid 90s coin-op with space marines and Godzillas Hi. Am
+trying to get the name of an arcade coin-op that I only ever saw in
+one arcade (and I went to lots!,) You'd fly and shoot across the
+screen horizontally like the old Defender coin-op, but you also had
+space marines that you could drop off on to the planet to assist your
+battle against Godzilla type monsters - and once the planet was
+conquered you'd pick up the surviving marines and go to the next
+planet. You had a mother ship to power up on (weapons and marines for
+extra credits) and choose another planet to conquer (each planet had a
+particular Godzilla and own geographic characteristics) The game ended
+when you'd conquered all the planets You could also put in extra coins
+for extra resources Graphics were really well rendered in a comic book
+style Anyone else remember this game?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

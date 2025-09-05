@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction, read a couple years ago a book about sisters,
+sexual abuse, self harm, foster care. Spoilers.. i'm not sure how to
+avoid spoilers while also being specific? So there are definitely
+spoilers here: 2 sisters, i think both teens but the younger may be
+11? currently living in foster care after fleeing when the mom's
+""boyfriend"" tried to sexually abuse younger sister. Mom had
+abandoned them. Eventually revealed that ""boyfriend"" had been
+abusing older sister - she tried to kill herself by cutting open her
+arm with a large kitchen knife. i think the title was something about
+""say something"" or ""speak out loud"" but i have searched various
+titles like that and i can't find it. i think i read it in 2021 or
+2022? It's definitely YA, i read it before my daughter and decided it
+was too mature for her at that time but it was good and she's older
+now (obviously) so i'd love to find it..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

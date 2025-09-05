@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [Unknown] Game where you play as land UFO? Can
+""""""""kidnap"""""""" enemies. I remember playing this game on NES
+before. You play as this strange UFO-looking tank (hence the land UFO)
+with 2 attack options: 1. Some kind of wave/sonar that will pull your
+enemies into the tank. I think it's the kidnapping move. 2. A simple
+rocket launcher, I think? The objective is to reach a specific point
+at the stage without dying. The enemies vary from foot soldiers,
+tanks, helicopter, some kind of mechanical chariots, and a flying UFO.
+During the gameplay, you can summon allies yourself, which is pretty
+much the palate swap of all of your enemies minus the flying UFO. That
+being said, just like us can kidnap our enemies, the flying UFO can
+also kidnap our allies. Anyone remember this game? Thanks beforehand!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

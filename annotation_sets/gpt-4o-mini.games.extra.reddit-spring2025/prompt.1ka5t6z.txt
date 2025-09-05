@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2013-2018] A space game with a astronaut that
+fights monsters/robots. All I remember about that game was that is was
+top down Most certain it was pixelated I dont know if you had guns
+but Im most certain that you had to leave Molotovs or C4s or mines
+to kill the monsters They were in levels and I think they were all
+bosses becoming harder every time and you could fight them again but
+with challenges like killing them with only one Molotov I remember you
+could upgrade yourself and buy new weapons to put on the floor and
+kill them, but that was the only way to kill them, something theyd
+step on and activate and explode"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early to Mid 2000s] Looking for an old Point and Click
+game. The game that Im trying to find is an old point and click style
+game I got sometime in elementary at a scholastic book fair. It was
+about a girl whod been turned into a vampire and while the vampire
+was gone she was trying to escape. The end goal was to solve all the
+problems presented to escape out of the mansion and I think off and
+island? To get to the nearest civilization. Im pretty sure there was
+or was supposed to be a sequel but I never played it. I distinctly
+remember a puzzle that included a gargoyle with a bird issue and she
+was a bit too busty for a kids game. I lost my cd case of all my old
+games and its been driving me mad not being able to find it so I
+figured Id ask."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

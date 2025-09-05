@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Alien Romance. Survivalist woman is leading a tour
+group on her mountain, they're kidnapped by aliens and saved by other
+aliens. [s]. A survivalist woman takes a group on a tour on her
+mountain. They are kidnapped by aliens and forced to work in a mine.
+The group helps to disguse her and another woman as men and takes
+their shift in the mines when they are to sick or exhausted. Another
+species rescue them and the other slaves. The commander and female
+main character are matched (can't remember if they are fated mates).
+The commander takes her away from the group. She finds out another
+species are being helped before the humans and she takes it up with
+the comander. The commander explains that the other speices have ben
+held captive longer and therefor is in more need of help now. One of
+the group is a hairdresser and uses the lenght their hair have grown
+to find out how long they have ben held and the humans have ben held
+as slaves the longest. Hope someone can help me find this book :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

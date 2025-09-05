@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Video game. [TOMT] [Video Game] 90s video game.
+There is a video game from the 90s that was 2d (the same point of view
+as super mario bros). You controled a guy that went through different
+levels and killed alien like monster and had power ups. There was a
+level where you were upside down and the gravity was toward the
+ceiling. Most levels were in caves and it was not linear in the sense
+you would need to go back and forth and explore various parts of each
+stage. I think that you chose the stage you would want to play in
+similar to the stages themselves environment (looked like the player
+was a space explorer and that took place on a planet) The pace of the
+video game was rather slow, not (much slower than metal slug for
+example) The game was on windows pc. The graphics were really very
+simple. I think there were doors you needed to open. The doors (i am
+not quite sure about this) looked like panels with electronics. The
+place where you (again in 2d) went around to pick stage was night."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

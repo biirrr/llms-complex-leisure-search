@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3] [???] what is this puzzle game?. ive played it when i
+was young and i dont remember almost anything about it, but the story
+is in a city with no one except the protagonist, a child that could
+make portals with white lines , and a monster. and there was also some
+symbols of spirals made out of white lines (that im pretty sure was in
+the monster's design). The music of the game was also VERY calm. also
+the POV of the game was third person"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

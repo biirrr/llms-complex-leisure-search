@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2005]1st person Myst-like puzzle game.
+Platform(s): PC Genre: Puzzle/Exploration Estimated year of release:
+2000-2005 Graphics/art style: Myst-like, 3d pre-rendered backgrounds
+Notable characters: Disembodied narrator voice, possibly British
+accented? Notable gameplay mechanics: Other details: Two notable
+point-and-click areas I remember; one was a swimming pool with some
+books in it and you had to click on at least one, maybe more; the
+other involved a minecart track-switching puzzle where you had to send
+a certain cart down the right track by clicking on a lever to change
+the track (and possibly another lever to release the cart)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

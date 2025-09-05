@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2008] Star Wars fan project """"""""simple""""""""
+space combat game. Platform(s): PC Genre: Space combat Estimated year
+of release: 2008 Graphics/art style: White models with no or
+black&amp;white textures Notable characters: Empire's Star Destroyer,
+TIE Fighters Notable gameplay mechanics: Basically space combat
+against TIE Fighters and such, probably endless mode Other details:
+Most likely a fan project, I'm sure it was not a licensed official
+game. I think your own ship didn't have a model/you couldn't see it,
+but the enemy was definitely the Empire - I can recall the Star
+Destroyer model, the TIE Fighters, etc. Everything had white textures.
+Flight model was very simple. Basically you flew around and could
+shoot down TIE Fighters and maybe, just maybe, you could also destroy
+the Star Destroyers and eventually new ones would come around, it
+might have had an endless mode. I've been searching for this game for
+years on occasion when it runs through my mind, but I can't find it,
+there is a good chance it's all gone by now, but still, I figured I'd
+try and find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

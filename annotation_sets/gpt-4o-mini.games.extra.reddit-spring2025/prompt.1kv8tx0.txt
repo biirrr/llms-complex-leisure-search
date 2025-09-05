@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2006] Concord game? 2d jump clicker? MMORPG?. So there
+was a website, something like free online multiplayer games . com. I
+found it on there, way back then. It's kinda like Eudemons Online, but
+no """"""""pets"""""""". You'd press CTRL and then you would jump
+around. I thought the name was Concord, but maybe it was spelled
+Conquord? Think it had more to the title, but can't remember. I wanna
+say there were classes, ranged and melee in the least."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

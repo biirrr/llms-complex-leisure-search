@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Small town, light enemies to lovers where the
+girl meets an old friend in the city and she asks for her help in
+applying for a home renovation tv show and meets the friends childhood
+friend who is a twin. Small town adult romance book where the girl
+meets an old friend in the city and she asks for her help in applying
+for a home renovation tv show and meets the friends childhood friend
+who is a twin. She is an interior designer I believe and the friend is
+an influencer. It’s apart of a series where the influencer ends up
+with the other twin. The twins own alot of family business in the
+small town and one twin is grumpy and that is who the interior
+designer ends up with. I believe I read it last year 2024 on kindle
+unlimited."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s-2020s] Game like House Builder or House Flipper.
+Platforms: PC Genre: House building / house improvement Estimated year
+of release: Late 2010s to early 2020s Graphics/art style: Mainly
+realistic (I don't think it was stylized much) Notable gameplay
+mechanics: First person view. Other details: You could build house
+brick by brick. You used mortar. You started in a small town, with
+your first house being ruin of a small house. You needed money to buy
+material and tools. You could do jobs in town (I think it just skipped
+time? You could pick and sell used cans?) You have your own house,
+where you slept over night. I think it was an actual map, you could
+run around the town? (Maybe it was just destination travel, i.e. your
+house, your project, shop, post? and a few more location in the city?)
+You had a small (red?) hand truck, that you use to transfer the
+material. EDIT: You may order a material (like bricks) via a phone
+(phone booth?) and they delivered it next day on the site in a lorry.
+You have to manualy unload it. I've looked on House Builder and
+Builder Simulator and they are close, but not it. Not House Flipper
+either."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

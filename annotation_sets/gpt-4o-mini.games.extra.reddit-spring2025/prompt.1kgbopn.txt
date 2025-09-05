@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown date] Game where you fall down a huge building.
+**Platform(s):** PC **Genre:** First Person, Horror??? **Estimated
+year of release:** 2020-2025 **Graphics/art style:** Low poly, low
+res, very PS1-ish **Notable characters:** I don't know, but from what
+i could see, we are inside a mecha, kind of like a Prawn Suit from
+Subnautica **Notable gameplay mechanics:** You only fall down a huge
+(alien?) building, there was no enemies as far as i could see, just
+you fall and can stand in giant pipes or buildings"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

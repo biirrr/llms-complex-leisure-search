@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book about a woman’s experiences with famous
+people [s]. I read this book at some point in the last five or seven
+years. I picked it up off one of the front tables in an (American)
+bookstore so I believe it had just been released shortly before I read
+it. I think the cover was a headshot of a woman facing the camera,
+possibly with her making a silly expression or something. The book was
+in this memoir sort of format about the various experiences this woman
+had had with famous people, mostly actors (I’m not completely sure but
+most likely they were all American actors). I don’t think she was a
+reporter of any kind, she just happened to have a lot of experiences
+with famous actors, but I could be wrong. There were about 10 chapters
+and their titles all followed the format of “[Famous person] does/is
+[something]”, and most of the titles looked like they were revealing
+some kind of secret or characteristic about the famous person. One
+example I can remember is a chapter titled “[Famous male actor] thinks
+I’m crazy” and the chapter told an anecdote where the author went to a
+movie premiere or something where that actor was signing things and
+the author got so excited about meeting him that they acted really
+strangely or creepily, possibly even threw up on him? I believe (but
+am not completely certain) that there was also a chapter in it where
+the author really wanted to ask a certain actress about a certain
+topic or question. Finally she got the chance to interview the actress
+and when the author got there, she noted that the actress was dressed
+very casually and kept ending her sentences with “mmkay”. Finally near
+the end of the interview the author got to ask her the question she
+had wanted to know. Any help finding this book is appreciated, thank
+you in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

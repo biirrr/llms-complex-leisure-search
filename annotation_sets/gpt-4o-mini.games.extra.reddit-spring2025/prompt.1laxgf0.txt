@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/PS4/Switch] [2020-2024] What's this Hidden Object Game?.
+There was this videogame i watched before a few months ago. it's like
+hidden cats (Hidden object game) but the objects are more (like
+there's a stage where you need to find all kinds of dogs- some long
+bodied and you can see its tail) then the stage after that, you need
+to find a round pudding, and there's a part where you need to click on
+a place to go down, where there are cooks, and when you solve the
+puzzle, the cook and the other people in the underground kitchen
+become raccoons. in the same stage there's also a well where you can
+click on it to go down and iirc you see a turtle."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

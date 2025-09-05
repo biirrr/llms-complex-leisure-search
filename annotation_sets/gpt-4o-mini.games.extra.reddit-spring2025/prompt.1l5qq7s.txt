@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC i believe][unknown] 2d split screen puzzle game.
+Platform(s):I'm pretty sure it was played on a PC though I may be
+mistaken Genre:it was a puzzle based story game Estimated year of
+release: It was released sometime in between 2010 and 2020
+Graphics/art style: it's artstyle was 2d though I'm not sure about
+graphics Notable characters: it followed a boy and a girl but I can't
+remember there names Notable gameplay mechanics: it was point and
+click,and you could move between which character you're playing Other
+details: *had two stories happening on the screen at the same time
+splitting it in half *one of the stories is about a girl getting put
+in a cake dress to be fed to a bird creature but she doesn't want to
+be eaten and ends up escaping *The story with the girl is set in what
+seems to be the past and the other story seems to be set in the
+future"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

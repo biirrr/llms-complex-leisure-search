@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance book about mother that leaves baby with the
+father and then later returns. Read around 2019-2021. Spoilers.. I
+probably read this book between 2019-2021 but it was likely published
+somewhere between 2011-2016. The book starts out with a young girl
+who’s mother is an undocumented immigrant who had crossed the border
+from Mexico to the United States and found work on a farm (I’m almost
+certain it was a strawberry farm) and this work caused her back
+problems. The young girl befriended the twin sons of the owner of the
+farm, they were rich and popular meanwhile at school she was picked on
+because she had I think bedbugs or lice on her clothes. Her mother was
+somewhat cruel to her and said that she had the eyes of the devil
+because during her journey across the border her husband had been
+killed and she had been sexually asssulted resulting in the child.
+When the sons of the farm owner graduate high school they throw a
+party and during this party the girl sleeps with one of them and soon
+after one of the boys dies (I can’t remember how) and she then
+discovers she’s pregnant. The boy that she had slept with marries her
+and I think they have a daughter, shortly after she leaves town (I
+can’t remember why again but I think she may have been depressed).
+Then the book focuses on when she returns to town and she is trying to
+gain her husbands trust again and spend time with her daughter and
+build a better relationship with her mother. If anybody can help me
+find this book I would be incredibly grateful, I’ve looked through my
+kindle history but I just can’t seem to find the right book and it’s
+driving me insane. Many thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

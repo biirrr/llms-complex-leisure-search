@@ -1,0 +1,42 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's/ Middle Grade novel about boy and girl living
+with mother on island when they stumble upon Viking burial ship on
+their farm. Published late 1980s or 1990s? Spoiler.. This book was a
+favorite of mine as a child, but I cannot for the LIFE of me, remember
+it!! It was a very sweet novel, the children lived on an island with
+their mother. I do not believe their father was ever mentioned, but
+there was a town across the waters (or maybe on the island but far
+away). It felt like it was written in the 80s, but it could have been
+sooner than that. Specific details that stuck out to me: -There was a
+nest of storks living in the chimney of the house. The family loved
+them very dearly. -When the brother and sister go to town for a
+festival, they come home with a box of kitten (possibly ducklings) and
+must take care of them. This is VERY vivid in my memory. They took a
+ship out to town and had to sail back. -Shadowy figures outside in the
+night made the children very scared. -By the end of the novel, it is
+revealed that the family (who are quite poor) have been living on a
+property with a buried Viking burial ship. This ship belonged to a
+Viking Queen (or king? But it felt very feminine for some reason) They
+get rich because of this. -There was a specific man who was connected
+to the family, but not the father. He might have been searching for
+the Viking ship, and snuck around the yard in the night searching,
+thus scaring the kids inside. -The boy was the older sibling; the girl
+was much younger and very sweet. -there is a specific conversation
+wherein the mother talks about a possible Viking practice where the
+father would take his newborn child and leave them outside to die if
+the child wasn't capable of living past birth or something??? Very
+weird, I don't know why I remember that so specifically. -set in an
+unspecified time, but there were working lights and running water in
+most places. However, the family was quite poor and lived like it was
+much closer to the 1800s or mid 1900s. Reminded my brother and I of
+Boxcar children or Magic Treehouse..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

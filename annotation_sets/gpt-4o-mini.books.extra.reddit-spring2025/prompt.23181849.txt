@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult M/M Romance Fantasy. Fairy tale retelling? Published
+2025.. Edit: I found it! I was sort of right as to the cover. It's a
+Peter Pan retelling as I thought.
+--------------------------------------------------------- I just had
+this on my screen and I accidentally closed the tab and it's not in my
+history nor in My Books, nor anywhere I can find it. The kindle
+edition was published between Jan and April 2025. The audiobook was
+published sometime this year, probably a couple of months later. I
+thought it was a peter pan retelling but the two that I found are not
+it. It's definitely a retelling of something. It is a purple cover I
+think (but I have a serious problem remembering colors so maybe
+blue?). It has one man seated on the right facing left and in front of
+him a boyish man in an arc leaning down to touch him. The arc has his
+feet higher than his torso. He's floating in the middle to left of the
+cover horizontally and they're in the bottom half of the cover
+vertically. Sorry, that's all I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

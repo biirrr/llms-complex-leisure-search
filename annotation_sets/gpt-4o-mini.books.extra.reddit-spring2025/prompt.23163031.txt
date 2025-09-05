@@ -1,0 +1,69 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED Adult Modern Romance featuring a Homeless Military
+Veteran with PTSD and a recently Widowed Woman who takes a Chance on
+him after finding him Eat out of Her Garbage Bin. I read this book a
+couple years ago, but I think it had been out for a little while and
+was not new at the time of my reading. This books has two points of
+view, one from the hero (a homeless veteran who has been suffering
+flashbacks and ptsd episodes seemingly at random) and the other from
+the heroine (a woman who was widowed due to her husband driving during
+a winter storm or maybe just bad weather in general, she now has a
+phobia of driving in bad weather). The hero has been homeless and we
+are shown that he has been sleeping in a pool or tool shed of some
+kind, until he gets caught or maybe fears he will be caught, during
+the night then he goes scavenging during the day for food. He narrates
+what the best neighborhoods to dumpsters dive in are like and finds a
+house where someone lives who throws out lots of food (and food that
+hasn't even expired). This turns out to be the heroine's house. Winter
+is coming and things are getting more and more dire on the streets for
+our hero. Our heroine's perspective is one in which she struggles with
+loneliness in a big house that her husband wanted and he never let her
+decorate. Throughout the novel we learn that her husband wasn't
+someone who really loved her, but maybe liked the idea of a trophy
+wife. We also learn that the husband was more her mother's pick than
+her own, and the mother is a domineering, critical woman who has
+helped our heroine to develop an unhealthy relationship with food and
+with her own self image in general. The heroine works with children in
+some capacity and she loves books (I think she may work as a childrens
+librarian or in some other educational role, but I am sure she loves
+books!). Our heroine's perspective shows us her spotting the hero and
+eventually she gives him pizza and or other left overs. I think she
+maybe called him ""pizza dude"" or something before knowing his name.
+Over a period of time she begins to worry more and more about the hero
+being outside in the winter and the heroine's nosy neighbor starts
+calling the cops on the homeless man. Eventually the cops are called
+and the heroine lies to the cops (who know her because her father is a
+big wig in the police force) and says the hero is an old friend of
+hers who is actually staying with her. This lie forces the hero to go
+inside the house and eventually the heroine invites the hero to stay
+in her garage to keep out of the weather. There are more conflicts
+with the neighbors (it turns out the neighbor-husband is cheating on
+the neighbor-wife) and the neigbor continues to cause issues for the
+hero. The hero does not like being in debt to the heroine so he offers
+to do work to pay for his lodging. He is very handy and begins fixing
+bathrooms and eventually does a massive renovation of a room that the
+heroine always wanted to display books and things in but her husband
+wouldn't allow it. During this time the hero is also looking for jobs
+outside the house and gets some odd jobs around the neighborhood
+helping an elderly neighbor. However, his ptsd is still an issue and
+as the novel unfolds it seems like flashing lights trigger flashbacks
+to his time at war. The heroine pushes for him to get some kind of
+therapy and they grow closer and closer. During this time, the heroine
+is growing in self confidence and the hero is supporting her dreams
+and reinforcing that she is smart and capable. Eventually they are
+dating and the heroine introduces the hero to her parents. The mother
+is not impressed and is very negative, the father had already done a
+background sesrch, but is more open to the hero and heroine's
+relationship. I cannot remember how it concluded, but it was a fairly
+happy ending with our hero and heroine resolving to keep working on
+the house, themselves, and their relationship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

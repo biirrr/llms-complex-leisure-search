@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "writing guide for teens [s]. I read a writing guide a few
+years ago that was really good, but I can't remember the title. I
+remember the cover was blue, the writer was a teen novelist from New
+Zealand and it had tips and a few prompts including ""beautiful people
+ugly noses."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

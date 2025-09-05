@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Flash game where you play as a flying character
+with upgradeable weapons and minions that fought unique bosses..
+Platform(s): PC Genre: bullet hell/shooter (2D) Estimated year of
+release: before 2018 but after 2010 Graphics/art style: Animeish, a
+lot like Megaman 8. Notable characters: A few of the bosses were a
+meteor based robot, and a Valkyrie who had flying toasters and brain
+minions, and the main character (idk what he/she looked like) had
+these minions that looked like meeblings. Notable gameplay mechanics:
+Mainly boss fights with breaks to upgrade your character in between.
+You dodged the boss and its minions attacks while attacking back with
+guns and maybe melee weapons. Other details: The entire game took
+place in the sky/space, and you never touched the ground. The boss
+fights always had waves of minions before the fight took place, but it
+was the same level."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [2010s] Niche mobile game thats just a list of
+enemies you tap to kill. Platforms: Android, not sure about other
+mobile platforms Graphics/Artstyle: The game was mostly dark, and
+consisted of a list of enemies whose portraits were squares and always
+filled, making the enemies look blocky, but it was not pixelated. i
+have lost and re-found this game on google play, but by now it's so
+old and abandoned that it's probably not on play store anymore. the
+game is very simple: you choose your class (**some classes i can
+remember are novice and dragoon, not a lot of games have these so this
+might be an identifiable detail.**) then, you'd be instantly inside a
+dungeon where you'd be greeted with **a long list of enemies, which
+were also buttons, and if you pressed them, you would eliminate the
+enemy at the cost of some of your HP**, if i recall correctly, the
+game would tell you how much damage each enemy would do, and if you
+killed enough enemies, you would level up and your HP would go back to
+full, so you had to strategize which enemies you'd kill and when.
+**the objective of the game was to kill the skeleton king at the end
+of the dungeon**, and you would lose if there are no enemies that you
+can kill, so you wouldn't exactly die, you'd just leave the dungeon
+and save your score or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

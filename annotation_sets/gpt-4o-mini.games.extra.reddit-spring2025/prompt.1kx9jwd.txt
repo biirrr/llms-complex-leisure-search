@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS Ipad] [2010+] Top down twinstick Mech shooter.. It was
+a game I used to play on my original Ipad.the only thing I remember is
+that your ship crashed and you go inside to retrieve something. The
+game was a top down twin stick shooter and had roguelike elements. Im
+pretty sure there were 2 games in the series. Above is a recreation of
+what I remember the menu looking like, as for the second picture is
+what the character would look like during gameplay. Third is a
+recreation of the inventory in which you could equip 4 weapons aswell
+as combine for example (2 Light miniguns) to get (1 medium minigun)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

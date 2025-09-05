@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller/ Mystery, possible spoilers. about girl getting
+kidnapped. Okay so I read this book back in high school maybe 8 years
+ago. The title has been bothering for years and google hasn’t helped
+in finding the book. From what I remember a young girl is driving for
+a book signing or publishing her book event (i’m not even sure this is
+correct lol) she gets in a car accident she’s sitting there for a
+while with no help and someone pulls up to help her. she is excited
+there’s help. a young girl and what I believe was her mom come up and
+kidnap her. they keep her in the basement and come down to feed her
+that’s about it. that’s all i remember unfortunately if anyone can
+help please do. thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

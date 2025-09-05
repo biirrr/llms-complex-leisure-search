@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Children's Fantasy book read in school. Has something to
+do with immortality and a frog/ toad.. I can't remember anything else
+about this book other than it had to do with immortality and I think
+there was a frog somewhere in it. I read it in elementary school many
+years ago. I think there was an immortal boy who might have come from
+a family of immortal people. Him/maybe his family took a potion or
+something to become so. He meets a girl and she wants to take the
+potion too. I feel like I remember them sitting under a tree and
+talking about it. Can't remember where a frog/toad came in but I feel
+like it was in the book somehow. I'm pretty sure the story was about
+the girl rather than the boy, but not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

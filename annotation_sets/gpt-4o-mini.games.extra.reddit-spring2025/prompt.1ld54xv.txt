@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] its a game i played when i was 10 rly long ago
+like 2009-2010 maybe. So the game was like a sandbox type of thing it
+was really dark color wise and you could just build ur own enviorment
+it was 2D pixel style as terraria is, but u had a selection of things
+u can place and i rememebr u could build a house etc there was options
+to place a wizard and a bunch of other random things, it had christmas
+decorations asw i think i remember you could place a santa clause too.
+I dunno its really old ive never been able to find it since, it was
+also really dark color scheme it had like grey blocks as a border and
+the screen in the middle and on the side is where u would drag and
+drop stuff in the screen to build, idk thats legit all i remember a
+really simple old game"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

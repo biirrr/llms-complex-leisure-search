@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Romance where King is vulnerable around whoever touches
+him. Read around 2018-2023.. There is a king who wears concealing
+clothing because if anybody touches his bare skin, he will forever be
+vulnerable when that person is around. Eventually falls in love with a
+girl I believe and eventually allows her to touch him. I don't
+remember why she was in the palace to begin with. I could be
+remembering this wrong, but I think his father or some other relative
+before he became king may have died because of their vulnerability
+once they've been touched by bare skin. I read it 2018-2023 probably.
+Sorry I don't have more details!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

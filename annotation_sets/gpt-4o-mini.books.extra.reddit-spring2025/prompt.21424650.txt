@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Past lives hypnotism. [s]. I once read a book about past
+lives it was written by a professor who worked in a college at once
+point and conducted hypnotism on students who would remember aspects
+of their past lives. I’m pretty sure the professor past away too in
+the last few years because I remember doing a little bit of research
+on her. I only remember two instances in the book because I did not
+read that much of it. One she conducted hypnotism on a student and
+they remembered their life as a bug. It went on to talk about how we
+start our lives as the very beginning of life as some aspect of the
+world that keeps it going or something along those lines. Then she
+conducted hypnotism on another student who remembered their past life
+as a pregnant prostitute who was beaten to death by their husband.
+They had to sell their body because that was the only way to make
+money during that time. Sorry for the gory description that is the
+only two things that I can remember from it. It was a pretty thick
+book but I just did not read that much of it. I do not remember the
+authors name. All I know is that she had written quite a few of them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

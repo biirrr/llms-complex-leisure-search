@@ -1,0 +1,40 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for a short story about getting a driver's license,
+probable spoilers included. Not a book, but hopefully someone might
+still be able to give me some direction. I remember reading this short
+story in a high school English class, so it would have been the early
+'00s that I read it. The story was about a kid who was driving, I
+believe s/he (I don't remember the gender of the main character, or
+honestly even if it was told in first or third person though I
+*believe* it was third) was taking the test to get a license. S/he
+ends up in a car accident and kills folks that were in the other car.
+I do remember specifically that the driver that caused the accident
+noticed that the other car had a sleeping child in it before the
+accident happened. Fortunately for the driver (view spoiler) [""it was
+all a dream"" - basically, the people who administer the drivers test
+had a hallucination part of the test where anyone attempting to get
+their driver's license went through this experience of causing a fatal
+accident. The kid, realizing it hadn't really happened, tried to
+proceed with getting his/her license, at which point the licensing
+folks stopped him/her (and, if I remember correctly, took him/her away
+to a jail or a hospital or something) because anyone who could
+experience causing a fatal accident like that and then be emotionally
+okay with having a license handed to them clearly had major issues and
+shouldn't be allowed to have a driver's license (hide spoiler)] . It
+was a sort of a Catch-22 situation, I guess. Any ideas? I feel like
+it's probably a really obvious story, one easy to figure out (again,
+we read it in English class, the same year we read ""A Modest
+Proposal"" and ""The Lady or the Tiger?"" which are relatively common,
+and I'm pretty sure it was in our textbook as those two were and not
+just a print-out so it was probably widely read), but I have done a
+bit of Googling to no avail."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

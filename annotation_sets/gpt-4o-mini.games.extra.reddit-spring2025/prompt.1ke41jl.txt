@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps1game] [1999-2001][Game trailer from demo CD bought with
+magazine]. Platform(s):ps1 Genre: I can't be sure Estimated year of
+release:1999-2002 Graphics/art style:3Dish Notable characters: no idea
+Notable gameplay mechanics: Other details:This is a childhood memory:
+I remember the trailer featuring a family having a picnic in an
+island, 3D video graphics...a child playing along runs toward the
+beach, during a sunset coloured sky, orange I think. The child enters
+the water, there's a sense of upcoming danger...a shark or two start
+swiming toward the child...the trailer alternated then between the
+sharks getting closer and a spark coming from Space travelling to
+earth toward that beach and rescuing the child. I actually remembered
+the light coming from Space as I typed this text"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

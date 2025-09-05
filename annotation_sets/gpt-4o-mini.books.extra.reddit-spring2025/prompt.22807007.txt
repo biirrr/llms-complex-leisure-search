@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult MC Romance series. They are former military. The old
+ladies of the club open a bar named Tarzan and Janes. Read on Kindle
+unlimited between 2022 and 2023. The MC is all former military.. It
+was a great series and would love to read it again. I remember that
+the MC needs more members so they go get a former platoon friend out
+of a mental hospital. When they get there to get him, they hear him
+and look to see him running naked and I think singing away from the
+hospital staff. All of the old ladies of the MC love the guy. He
+builds a treehouse in the back that he only lets them into. He
+sometime protrols it naked with a gun. He also helps the old ladies
+open a bar called Tarzan and Janes, that he and the old ladies take
+pictures for. I think the first one in the series, the guy is called
+Viper or Reaper. Not 100% on that. Also I think that the guy who
+suggests the one from the hospital is called Blade or Blaze. Also the
+guy from the hospital cooks for the club and is very particular about
+his kitchen and pantry. He has a prank war with the woman who comes
+and cleans the clubhouse. She messes with his pantry and he decorates
+her van with dildos. Please help me find this series again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

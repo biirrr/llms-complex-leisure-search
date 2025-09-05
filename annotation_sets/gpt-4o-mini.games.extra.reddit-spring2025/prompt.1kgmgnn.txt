@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2000's / Early 2010's] Pirate Point and Click. I'm
+trying to remember this point and click game I played eons ago. I
+remember it being on Big Fish Games? I don't remember much, you had to
+search for stuff and that was a good bulk of the gameplay. I remember
+the final puzzle though, you were playing cards with this skeleton
+pirate guy but you could never win. You had to do some trick and them
+poison his glass to beat the game. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Horror Ghost, Short Story in anthology. Kids at summer
+camp are told to stay away from a nearby abandoned mine. About
+campfire, they learn of ghosts of dead miners who are trapped in the
+mine. Read in 1990s. Spoilers ahead.. SPOILERS AHEAD! This is a ghost
+story about a mine full of the ghosts of dead miners. They have been
+gradually luring kids from a summer camp to the mine and then swapping
+places leaving the kids stuck in the mine while the ghosts of the
+miners take over the children. There is a kid at the camp who
+befriends two other kids and tells them about this really cool mine.
+The kids finally go to the mine and it is there that they hear the
+story and realize that the kid who told them about the mine is one of
+the miners and that they needed two more people to get the last two
+out. I read this book in the 90s. Any help is greatly appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

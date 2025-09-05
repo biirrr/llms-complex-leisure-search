@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2021] A social app like discord with emojis and 2D
+servers.. As the title says, this post is about a social app I used
+when I was younger, maybe 34 years ago. The game consisted of
+""""""""servers"""""""" that people created, kind of like Discord.
+Clicking on these servers took you to a 2D dotted map or grid-like
+journal map where hosts decorated with emojis and squares . Using a
+duck emoji, for example, made a duck sound; a = made a bell sound.
+Many emojis had different sounds or effects. You joined a server as a
+circle =5, which could be a profile picture, an emoji, or whatever you
+wanted. You swiped to move the circle within the server (room) and
+could talk to others nearby (proximity chat). I don't remember if I
+played it on Android or iPhone, but I'm pretty sure it was iOS. If
+anyone could find the name of this app, I'd be grateful because I had
+tons of friends on there. There were also coins that increased your
+popularity; the more you had, the more you could do."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle school chapter book. I can’t think of this book
+title. I remember reading it in middle school. It’s a chapter book. It
+has wood on the cover and I think a house or trees. I think it has
+Harper or pixie or hollow in the title. I believe it was about cousins
+visiting this small town that their grandparents lived in. I don’t
+remember much more about it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

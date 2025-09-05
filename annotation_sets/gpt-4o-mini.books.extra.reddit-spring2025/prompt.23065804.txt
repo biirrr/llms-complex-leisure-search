@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Children's novel. Runaway to a cave and makes clay
+sculptures. Spoiler.. I'm looking to figure out the name/author of a
+childrens/YA novel about a girl with lots of siblings who live in a
+cramped space. She runs away and finds a cave to live in by a river.
+She survives off berries and stuff, I think. And she finds some clay
+and starts making art out of clay. *SPOILER* When she is eventually
+brought back, her teacher encourages her interest in sculpting. I read
+the book around 2000 maybe? Maybe a little after?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

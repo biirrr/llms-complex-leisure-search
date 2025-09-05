@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2013-2015?] A browser-based wolf roleplay game with
+pixel art and really grindy gameplay. **Platform:** PC, browser-based
+**Genre:** Turn-based RPG. Probably online **Graphics/art style:**
+Top-down pixel art **Notable gameplay mechanics:** You played as a
+wolf in a forest and fought prey in turn-based combat. I vaguely
+remember the text for how much EXP you earned was on the side of the
+screen, which makes me think it was an online game, but I don't
+remember seeing anyone else in the game. (It's entirely possible the
+game was basically dead by the time I started playing) **Other
+details:** One of the main things I remember was how much of a SLOG it
+was. Prey only gave you 1-2 EXP each and the turn-based combat was
+slow. Hell, I think moving in general was also turn-based. I'm not
+even sure if the website it was on is still up, but I'm still really
+curious if anyone knows the name of this thing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

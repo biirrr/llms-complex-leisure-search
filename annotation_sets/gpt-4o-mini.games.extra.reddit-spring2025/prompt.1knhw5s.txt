@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2015-2023] 2D Indie game about a brutal man in the cool
+mask. Hello everyone! Recently I remembered a game I played about 3
+years ago. It's a not very popular 2D indie game that was sold on
+itch.io and had a demo version. This game has a side view and is a
+shooter, somewhat reminiscent of the old My Friend Pedro. You control
+a large tough guy, dressed either in a raincoat or in armor, I don't
+remember exactly. He also had a brutal mask, perhaps it was shaped
+like a skull. In fact, the character somehow reminded me of Bane from
+DC. The game's visual style is gloomy, with gray tones dominating. The
+game's essence is in clearing multi-story buildings. There are several
+of them on the level, and you get to each one by passing through
+courtyards. The protagonist can pick up weapons on the level, and in
+addition to firearms, there are also many melee weapons. In addition,
+the character can grab enemies, throw them, slam them on the floor, or
+dismember them. The game has a lot of blood and a rich system of
+violence and dismemberment. The body physics remind me of the one in
+Barotrauma. I remember for sure that the game also had a sandbox mode,
+which acted as a testing ground where you could test weapons on live
+dummies. The author of the game often posted footage of the game on
+TikTok or YouTube Shorts, which is how I learned about the game. Now I
+can't look into itch.io because my old account was lost, so I came
+here. I hope you can help, guys.=C"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

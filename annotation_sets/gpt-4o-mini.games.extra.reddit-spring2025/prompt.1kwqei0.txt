@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][2000s?] Game about white blank world and inky MC.
+Platform(s): Maybe PC or an Xbox? Not too sure Genre: Adventure
+Estimated year of release: Mid 2000s? Graphics/art style: Cartoonish
+Notable characters: The main character uses attacks (or something) to
+put black paint/ink all over a white canvas world Notable gameplay
+mechanics: The entire world is white/blank Other details: I watched a
+playthrough from Stampylongnose, and there's one part in which the
+main character needs to get to a certain area of the map, but because
+the entire world is blank, you literally cannot get through (because
+you can't see anything) without putting black ink everywhere. And then
+after you're done, you see what you did"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

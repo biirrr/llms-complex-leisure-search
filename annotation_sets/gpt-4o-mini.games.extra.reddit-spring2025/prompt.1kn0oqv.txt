@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Y8][2010] 2D game of a medieval floating castle [PC] 2D
+medieval. Hello everyone. Around 2012 I used to play a 2D game of a
+medieval floating castle that you upgrade the castle as you progress
+the stages and the enemies were waves of flying enemy machines and
+sometimes boss castle that are bigger than you. But now can't find it
+on Y8 or any other website."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

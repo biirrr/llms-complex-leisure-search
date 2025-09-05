@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SOLVED!: The Covenent Movie - Is There a Book? [x]. When the
+movie The Covenent came out I remember someone telling me it was based
+on the first book of a series. I haven't been able to find anything
+similar. Just curious if anyone knows more. The movie is about the
+sons of Ipswitch. They all have ""magical"" powers, and are a bit like
+male witches. Any ideas on the book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

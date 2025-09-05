@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Dear America book about a pioneer girl. This book was, I
+believe, part of the dear America series. It was centered around a
+girl whose family was traveling as pioneers. I am not sure whether her
+father was alive, but I at least know he was not present near the end
+of the story when a man shows up at the cabin her family is living in
+and threatens her family, I believe he has been following them, but I
+can’t recall for sure. The girl pretends to have to go to the bathroom
+and then gets a gun out of the wagon, I think? I think the girl saved
+her family in some way, maybe by locking the man in the cellar? I’m
+sorry this is so vague."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

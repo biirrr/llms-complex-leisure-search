@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Historical Fiction novel set in 1940s Quebec. Read in
+early 1990s. Spoilers.. Plot: - Two Boys. One is from a Protestant
+Family and one is from a Catholic Family - The students from the two
+Faith groups would have snowball fights, and the two boys who were
+friends felt out of place. - They were fans of a Radio Show called The
+Shadow, where they would quote the Protagonist from the show. - There
+was a mystery in their own neighbourhood they had to solve. - In the
+end, the criminal, who was mean to Jewish people, threw trash
+containing a clue down the garbage chute. - The neighbourhood
+celebrated, and at that Point the Catholics and Protestants werent
+fighting. Book Info: Read it in the early 1990s and it was published
+around then. Think it was from Scholastic. It was a paperback."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

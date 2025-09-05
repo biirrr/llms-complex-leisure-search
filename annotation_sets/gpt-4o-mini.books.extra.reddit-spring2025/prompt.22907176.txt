@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Two best girl friends form a punk rock band.
+They meet a very famous punk/ rock band, and want to open for the
+bank. Read around 2017. Spoilers.. Not Kill the Boy Band I read this
+book around 2017, and it had a very abstract cover, like colorful
+clouds or something. It was about two alternative girls who met and
+made a punk rock band with I believe two other guys. At one point the
+girls meet the members of a very famous punk/rock band, and the friend
+of the main character gets SA'd by them. They then plot to get so
+famous they open for the famous band, and then plan to kill them, and
+they do at the end. I remember a few scenes: one where the main
+character vomits on a heckling audience member during the show, and
+another where they kill a random guy in the park who had done
+something to the best friend, what I can't remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

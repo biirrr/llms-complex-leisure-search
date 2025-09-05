@@ -1,0 +1,50 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac][1995] Early pre-rendered 3D adventure/puzzle game with
+abstract/surreal imagery. **Platform(s):** Played on Mac, may have
+been available on other platforms **Genre:** First-person
+puzzle/adventure game **Estimated year of release:** Early-to-mid 90s
+**Graphics/art style:** Early pre-rendered 3D, lots of
+surreal/abstract imagery **Notable characters:** None that I can
+recall **Notable gameplay mechanics:** First-person point-and-click, a
+la Myst **Other details:** Some kind of puzzle/adventure game where
+you wandered around various pre-rendered 3D areas in first person
+finding items to help solve puzzles to move on to different areas. I
+never got very far into it as I was maybe 8 or 9 at the time (which
+would put it around 1994, 1995), but there are two scenes I can recall
+semi-clearly. The first was a train that might have been kind of art-
+deco themed that once the puzzle for it was completed, would allow the
+player to teleport/travel to another area. There may have been water
+involved in the puzzle. I think this was the first area's major
+puzzle, with the goal being to move on to the next area. The second
+was a (round?) table with a puzzle box on it and some circus or magic-
+like signage (light bulbs around the edges, maybe a big arrow?) or
+maybe something like a striped circus tent. I think there might also
+have been a sign standing on the ground near the table (like you'd see
+outside of a cafe or store advertising it). The memory has strong
+""""""""circus"""""""" vibes. The box may have been locked, requiring
+some kind of key or puzzle mechanic to open. When looking towards the
+table/box, turning to the left would lead to some sort of colorful or
+oddly-shaped opening/room. Other things I sort of remember (but which
+may just be fabrications of my memory) were drastic changes in the
+imagery from area to area. One might be extremely colorful, another
+more """"""""earthen"""""""", others somewhat industrial. Almost like
+the developers were just throwing in whatever they felt looked cool or
+interesting. I can not recall there being any characters or voiceovers
+or even any """"""""this is what you're trying to do"""""""" text,
+with the game just plopping you down in this abstract, surreal world
+and letting you explore. There's an extremely vague memory of a
+railway porter maybe related to the train scene, but I can't be sure
+that's even related. I am almost certain the game was released on CD-
+ROM. Every couple years this game pops into my head and I spend a
+couple hours poking around the internet trying to figure out what it
+was, without any success. Maybe you guys can shed some light on this!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

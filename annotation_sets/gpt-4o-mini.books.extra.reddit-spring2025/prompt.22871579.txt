@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "A Book Called Little Girls. [s]. I'm trying to find the
+author of the book called ""Little Girls"" in the linked photo. The
+picture was taken in March 2017 or earlier. There's a good chance it's
+an art book or photography book, but it might not be. It looks to be a
+hardcover, with a hot pink spine and a yellow ribbon bookmark.
+https://imgur.com/a/KBwNNNS"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

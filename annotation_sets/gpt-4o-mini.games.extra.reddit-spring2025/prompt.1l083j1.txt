@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Anyone know a game with a dinosaur or an
+alligator that starts in a beach area?. Trying to find this game I
+played on a computer when I was younger, I remember having a lot of
+fun with it. I keep thinking """"""""Yoshi?"""""""" but it was a pc
+game. It's graphics were simple, maybe cartoony, like Crash Bandicoot.
+I've been searching for it for a while. Anyone know what I'm waffling
+about? EDIT: SOLVED! It's Croc 2!!! thank you
+u/[Sparkiritezii](https://www.reddit.com/user/Sparkiritezii/)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Portal Fantasy. Title something like Shataka or Ashtura.
+Cover picture has floating islands. Main character is a girl w/ red
+hair who survived element trials in the woods and finds stones or gems
+that get her into a magic world through a cave.. I read this book in
+early middle school and it was probably written in the 90s or early
+2000s (a series, I think). I remember a lot of small details about the
+book, but nothing that gives me results on any search engine. I am
+almost positive the title is just the one word that is the name of the
+magical portal land and it definitely sounds something like shatakura
+(however helpful that is). The main character is a girl who I'm pretty
+sure has red hair and her guy best friend is heavily involved. In the
+beginning she's in the woods behind her house with her best friend who
+has a boring name and somehow or other she gets covered in a pile of
+rocks and is going to die unless she can get out. Somehow she does
+escape and there's this gem or stone she earns from having survived
+the rocks. There are more elemental-related trials that she survives
+(almost drowning in water) and discovers more stones. Eventually she
+discovers this cave I believe and she needs the stones to get into
+this magical world. This series also involves trolls (?) that try to
+get her and at one point they capture her friends or are her friends
+in disguise? This is all I remember, but I NEED to know what this book
+is, please help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

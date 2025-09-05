@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Prince is tasked with bringing a rare fruit back
+to his kingdom in an icebox. Read 2008-2011.. Read this between
+2008-2011, in a junior high library, so the book was for teens. The
+story was about a prince who was sent to retrieve a magical fruit for
+his kingdom. I think the fruit was a peach, or a nectarine? It
+specifically had to be transported in a chest of ice. It was in a
+similar style to Lloyd Alexander's The Iron Ring, and it was in a
+vaguely Middle Eastern setting. I'm pretty sure the main plot of the
+book was the difficulties the prince went through to bring back the
+fruit, but it may have just been a sideplot that I happened to
+remember clearly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

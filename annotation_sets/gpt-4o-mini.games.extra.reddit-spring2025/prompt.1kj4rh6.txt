@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020-2025] Pixel art indie game from video. https://pre
+view.redd.it/oe4yu38rrwze1.png?width=1443&amp;format=png&amp;auto=webp
+&amp;s=5d569823fe427fca6595541b42870823467ad067 There is the url to
+video of a game i cant find. First time saw it in 2022 and couldn't
+find, maybe you can help me. /vk.com/video-98171527\_456242692"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

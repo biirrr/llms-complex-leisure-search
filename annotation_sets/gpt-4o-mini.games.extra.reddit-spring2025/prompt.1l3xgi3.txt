@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2023] 3D base-building game with orange villagers and
+night monster attacks. --- Looking for a 3D, colorful base-building
+survival game (around 2023) with these features: Stylized, non-
+realistic graphics, similar in vibe to Godus or Clash of Clans but
+fully 3D. The player manages a village with orange-colored
+villagers/workers (miners, builders, soldiers). You build and expand
+your base: tents, houses, resource gathering (wood, stone). There is a
+clear day-night cycle; every night, black monsters attack your village
+and try to destroy it. You have to assign roles to villagers and
+strategically place soldiers to defend the base. single-player, with a
+focus on survival and base defense. Gameplay involves resource
+management, crafting, and real-time unit control. I dont remember the
+exact name. If anyone knows a game matching this description, please
+help. **I seen that on youtube** ---"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

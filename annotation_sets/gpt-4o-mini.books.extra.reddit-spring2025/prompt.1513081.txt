@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Christian Youth Magazine from 90s. I am looking for the name
+of a Christian youth magazine that was published in the 90s (mid- to
+late). I seem to recall that alphabetically it was at the end of the
+magazine display at the library, and I feel like the title might have
+started with a Y. Youth/Young something. It was geared toward teens
+and had articles about social issues like depression, suicide, etc. I
+feel like the magazine title may have been an acronym as well (I don't
+know, something like YC for Young Christians or whatever). I've
+attempted an internet search but I'm only coming up with modern titles
+and I have a feeling this particular magazine folded. In particular
+I'm looking for the issue with the article on teen depression, and I
+recall there being images of a teenage boy staring out a window and
+another where he's sitting with his head in his hands against a brick
+wall. I doubt anyone will remember this particular article but if
+anyone knows the name of the magazine that would be awesome!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

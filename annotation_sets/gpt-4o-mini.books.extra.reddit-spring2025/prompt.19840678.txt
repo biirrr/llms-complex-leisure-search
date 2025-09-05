@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "2018–2019 Book with Hedgehog on Cover? [s]. I know nothing
+about the plot. I saw the cover on Twitter and thought it looked
+interesting, but now I can’t find it anywhere. I think it had a bright
+pink background and it definitely has a hedgehog on the cover. It was
+published either this year (2019) or last year (2018). I believe it is
+by a black female author and I believe it was a collection of stories.
+I believe it had a one word title. Sorry I don’t have more to go on, I
+tried searching for it via authors I follow on Twitter, similar books
+to authors I’ve read, etc. with no luck."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

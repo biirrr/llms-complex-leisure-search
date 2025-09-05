@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy about a war for control of a flying city. Read
+around 2005-2010.. Hi I'm trying to remember this book I believe it
+was the first of a two parter. In it the hero a guy meets with an
+exiled sorceress from the flying city. I believe she was usurped by
+her sorceress sister and tries to fight to take it back. I remember
+she eventually allies with lizardfolk (sexy times in this book) and
+together they take back the city but the lizards betray her and free
+some kinda demon from inside the city and start to attack. I had this
+book something like 15 20 years ago I think. I want to see if it was
+actually good lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

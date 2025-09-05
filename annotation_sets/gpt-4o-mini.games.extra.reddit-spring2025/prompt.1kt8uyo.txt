@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES][90s] Time Travel Beat em up game.. I saw this when I
+was fairly young in the mid 2000s, so I can't guarantee that it was
+the SNES and not the NES. My brain remembers the graphics and music
+being pretty high quality, but as far as I know we only had an NES.
+It's possible I'm remembering the game looking better than it was, but
+with all the details I remembering, I don't think this was an 8-bit
+game. The game was a side scroller where each level was themed after a
+certain era. Level 1 or 2 was medieval themed and had you fighting
+colorful knights with a green dragon as the boss at the end. Level 2
+or 3 was western themed and had you fighting off cowboys with guns,
+with the boss being a big cowboy wearing white and using a two handed
+gun (i think it was supposed to be a machine gun, could've been a
+rifle). I also remember there being a hubworld in a big metal are, a
+spaceship maybe, where you jumped on platforms to select your level.
+The soundtrack also had a high pitch to it, almost like the kind you'd
+hear from musical pipes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

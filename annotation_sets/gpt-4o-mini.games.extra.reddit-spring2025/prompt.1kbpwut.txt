@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox] [Post 2020] Might've been on gamepass but I can't
+remember.. It was a pixelated top down game but the character you
+played as looked like the red cape guy on the 33 immortals cover. You
+had a rapier, and road on raft platforms to get places. Please help
+it's driving me crazy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

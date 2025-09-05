@@ -1,0 +1,15 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] It's a side scrolling beat 'em up about 3
+robots.. One is a kind of greyish blue, the other is red and the third
+is yellow/orange and really big. It's about climbing up a tower an you
+need to get into an elevator at the end of each floor."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

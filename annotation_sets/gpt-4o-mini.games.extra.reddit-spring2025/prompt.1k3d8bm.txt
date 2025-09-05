@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012]Pixely Black and White Game like Slender, pursued
+by black figures with flashlights around a snowy lake at night. I
+played a unity game about 12 or 13 years ago that: -Booted directly
+into the game (no menu screen) -Took place in a low detail forest at
+night around a frozen lake, it was snowing. -The map had elevation to
+it, low poly hills, and the colour palette of the game was almost
+entirely black and white with some greys. Maybe some yellows for the
+flashlight cones. -Game starts off with you alone in the environment,
+after either picking up a collectable or visiting one of several
+landmarks black silhouetted sprites appear casting cones of light. -if
+you got too close to the sprites they would b-line towards you, with
+the screen getting noisy and staticy before you could make out
+anything other than their silhouette. I was never able to finish the
+game and don't know if it even was finished."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

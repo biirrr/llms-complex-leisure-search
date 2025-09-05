@@ -1,0 +1,45 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Amstrad or Amiga, I think][1980s or early 1990s] Text based
+adventure game hunting for treasure with an image for each scene. I
+remember playing this game in primary school but have never figured
+out the title. You start on one island and need to first figure out
+how to get to the other island. Im sure there are multiple ways it
+can be achieved, but one I remember for sure is gathering a parachute
+and other parts in order to make a hang glider to glide over. On the
+other island, one of the scenes is of a waterfall with a barely
+visible cave behind it. Inside is an idol which, when grabbed,
+unsurprisingly triggers a giant rolling boulder that you have to
+escape - part of which involves jumping over a huge pit that you
+unavoidably drop the idol down. But the real treasure is buried
+somewhere on the island and you need to find clues about how to find
+it and then dig it up. And Im pretty sure the shovel is found early
+on the first island, so hopefully you found it. The early steps are
+stuck in my head, 30+ years on: north, north, east, north, swim, dive&
+that might be where you get the shovel. Anyway, hoping someone can
+figure it out! Its definitely the same era as Hugos House of Horrors
+and Grannys Garden but isnt either of them.  Edit: As much as I
+hate using ChatGPT, I asked it and one of the suggestions was [Very
+Big Cave Adventure](https://www.mobygames.com/game/33225/the-very-big-
+cave-adventure/). Im not sure that thats it, but the game I have in
+mind looks very similar, and some screenshots seem to show a volcano,
+which is ringing a bell for me. I felt like there wasnt a time
+pressure, but the idea that maybe there was a rumbling volcano
+happening feels right. So this has led me to [Colossal Cave
+Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) aka
+Adventure aka ADVENT. Im now tumbling down the fascinating rabbit
+hole of adventure game history, which includes source code being
+printed in magazines in the 1980s and starting to think that maybe it
+was someones simplified version of that. Will keep researching though
+and see what I can find.  Edit 2: I scrolled through this list of
+Adventure Games for the Amiga and it jumped out at me. [Jara-Tava:
+Isle of Fire](https://www.lemonamiga.com/games/details.php?id=3026)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

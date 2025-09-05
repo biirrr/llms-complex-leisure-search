@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Crime. Ex-FBI / law enforcement solving cold cases.
+[s]. Hi everyone. I'm hoping someone will be able to help me with
+recollecting a book I read about ten years ago. I believe it was about
+ex-FBI / law enforcement personnel that created a group that would
+investigate cold cases in their spare time (I think the name of the
+group began with a V). If I remember correctly, it was written with
+three different perspectives (one of which I think had some sort of
+'psychic' ability). I'm also pretty sure one of the cases they talk
+about is the Boy in the Box. Many thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

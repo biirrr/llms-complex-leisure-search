@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2005]Forgotten FPS. Hi there everyone. Ive been
+looking for an old fps game but couldnt find anything. Even AI
+couldnt help me so i hope you guys might help me with it. Its an old
+fps from early 2000 era , possibly 2004 or 2005 or somewhere around
+these years. It had modern settings (similar to something like old
+delta force games. It wasnt futuristic) and had two main characters.
+The first one was probably an American ranger with shaved hair and
+shaved face and had sunglasses. He had an assault rifle as his main
+weapon. The other character was some sort of spy or secret agent and
+had black outfit. His face was kind of similar to freeman from half
+life. He had a pump action shotgun as his main weapon. There was also
+a female character with short blond hair if im not mistaken whom later
+dies. The main antagonist (again if Im not wrong) had long blond hair.
+I think there were two different campaigns. One for each main
+character. There were two levels that occurred in some sort of
+castle/fortress. One level happened in some sort of middle eastern
+city where you play as the ranger( hard to remember that if it was
+really a middle eastern city or because of the graphics it looked that
+way . I was just a child when i was playing it) . One level was in
+some sort of warehouse where these two characters fight alongside. And
+in one of those castle levels if im not wrong , it reveals that the
+spy is our enemy and we fight him as the ranger in some sort of
+library but he escapes our encounter. The castle level if IM not wrong
+was the ninth level of the game. Also 90 percent of the time , you
+play and progress solo without any teammates. The spy is your teammate
+for most of the time . Also the game had a short title. Hope I gave
+the right information you needed to know what game it is ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

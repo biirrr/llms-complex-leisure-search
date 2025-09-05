@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2008]moster hunting puzzle game. Platform(s):mobile
+Genre:puzzle Estimated year of release: 2008? Give or take a few years
+Graphics/art style: I really cant remember, I want to say pixel art,
+but feel like the animations and edges of objects were too smooth
+Notable characters: there was a pair of monster hunters, each level
+would start with an overlay one of them on the left with a text box,
+and then it would switch to the other on right. Im explaining this
+poorly but like how the dialogue works in danganrompa There was also a
+big bad, probably Dracula, but if not Im still pretty sure he was a
+vampire Notable gameplay mechanics: it was a puzzle game where there
+would be monsters and obstacles placed on the board, you had different
+color flames (or potions maybe) that you would drag around the screen.
+When you dropped it itd send out a ring thatd expand to the edges of
+the screen. Before dropping it would show the light path it could
+take, so if there was a wall, everything behind it was still in
+shadow. The The different color flames, corresponded to the color of
+monsters, so green fire would kill green monsters. I think it was bad
+if you used the wrong color flames, but dont remember the penalty,
+some monsters would have shields(a colored ring surrounding him) the
+shield could be a different color or the same one, the colors were red
+blue green I believe"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

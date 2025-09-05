@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2010's (maybe)] Point and Click Horror game. I
+don't remember the name, but you play as a little kid. at the start,
+you and another kid come across one of those """"""""free
+candy"""""""" white vans and go in and get kidnapped. your character
+wakes up alone and you have to escape the basement then house of the
+kidnapper and find your friend. I'm pretty sure it was point and
+click. you eventually find your friend dead in a walk-in meat freezer.
+P sure you can escape with a semi-happy ending. I remember watching a
+YouTube playthrough, but not playing it myself. I just can't think of
+the name for the life of me"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

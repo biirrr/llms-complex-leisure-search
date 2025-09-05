@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990's?] Flying shooter game on the Turtle. Old(around
+1995-1997) PC game(maybe first 3D) where you(kids boy and girl) flying
+on the back of big turtle(maybe dragonfly) and shooting something.
+Gameplay very similar to """"""""Hellbender"""""""" 1996. Solved:
+*Mortimer and the Riddles of the Medallion* 1996 [https://en.wikipedia
+.org/wiki/Mortimer\_and\_the\_Riddles\_of\_the\_Medallion](https://en.
+wikipedia.org/wiki/Mortimer_and_the_Riddles_of_the_Medallion)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

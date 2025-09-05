@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction based in Australia about a farm girl blackmailed
+to join her mother in the city - Avalon?. I'm looking for a book that
+I read years ago - maybe 2012-2018ish. It was about a high school girl
+who lived on a farm in the Australian outback with her father and
+brothers. Spoilers ahead! Her mother (divorced) essentially
+blackmailed her to move to the city to live with her and go to school
+there. The next door neighbour is in her year at school and they have
+a hate to love relationship - he's a polished kid set to be a pro
+surfer, with perfectionist parents. She gets up to a load of hijinks
+throughout the story: she steals a digger in the middle of the night
+and does something to his jeep. She has brought her horse with her (or
+maybe one of her brothers brings it up) and rides it about town. On a
+school field trip she sees a cow in distress giving birth in a field
+and she stops the bus and goes help with the calfing. She makes
+friends with the grumpy old man whos farm this is on then starts
+working on his farm. On her farm back in the country they have a
+massive bull thats super grumpy but loves her and lets her ride him.
+He gets brought to the old mans farm in the city and I'm sure she
+rides the bull in town to annoy her mother or something. I swear the
+book was called Avalon, but I've gone through all my book purchase
+histories and googled till I'm blue in the face and I can't find it
+anywhere. Please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][2008-2014] Gladiator game real time. Hello I am
+looking for his game for like past 3 years, I couldn't find it its a
+gladiator game 2D game like mario it had some platform elements it was
+not a flat arena weapons were sword, shield and bow i dont remember if
+it had other types of weapon it could it was level based you could buy
+armor and weapons real time combat no turn based it was mostly not 1v1
+it had many enemies Sometimes it had teams thanks for your help ."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

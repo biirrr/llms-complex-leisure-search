@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][80s-90] Old school rpg starting off in castle
+dungeon. Genre: Pretty sure its an RPG. Top down pixel style and
+everything. Year: 80s or 90s. Hard to say for sure, but it definitely
+comes from this time period. Graphics: 8 or 16 bit. Platform: I really
+wish I could help narrow it down. Couldve been the NES, SNES, or
+Genesis. Those are the only 8 or 16 bit consoles I grew up around.
+Cant imagine it being from another console. The only thing I really
+remember about this game is how it starts off. It might not be the
+very beginning, but it must happen early on. With a scene of the main
+character being betrayed and thrown in a castle dungeon, yelling at
+the king or someone Youll regret this! Ill be free someday, I swear
+it! Or something to that effect as the little 8/16 bit sprite is led
+to the dungeon and is then almost immediately sprung by someone. I
+know its not much, but it has been at the back of my mind for years.
+Any help to narrow down what it could be would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

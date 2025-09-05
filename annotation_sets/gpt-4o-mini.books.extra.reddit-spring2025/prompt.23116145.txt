@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Old anthology of British literature that included Lamb’s
+Dissertation on Roast Pig and Robert Burns To a Louse. My mom has
+passed away, and my dad has accidentally donated this book. Her copy
+was from at least the 1950s. It might have been even older. I’d really
+like to find the information for this anthology and hope to purchase
+it somewhere. It was a very thick book. I really loved it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

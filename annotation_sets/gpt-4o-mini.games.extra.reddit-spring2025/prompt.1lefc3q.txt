@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s] Japanese freeware spaceship dodging
+bullets. Platform(s): PC Windows XP Genre: Space bullet dodging?
+Estimated year of release: 2003 Graphics/art style: Basic pixels
+Notable characters: Only a spaceship Notable gameplay mechanics: Dodge
+yellow bullets for as long as possible. Other details: The entire game
+was you were a little spaceship, and you had to dodge yellow bullets
+flying around the screen. The longer you last, the higher your score.
+You couldn't shoot. I drew a picture of the gameplay on my phone. Very
+tiny game, possibly under 1MB. Im pretty sure it was Japanese.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

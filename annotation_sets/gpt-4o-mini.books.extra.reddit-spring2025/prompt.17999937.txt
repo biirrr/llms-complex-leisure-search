@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "office supply crafts [s]. I found this book at Starbucks
+around 1999-2000. It's a small hardcover book about fun crafts to make
+out of office supplies & other fun, creative things to do while at
+work (& not working). Things like drawing ants using white-out. It
+suggests using a toothpick to draw the legs. It also has instructions
+for making origami shirts out of a dollar bill. When you are done,
+you'll ""have freshly laundered shirts."" It also has things to
+ponder, such as, ""If wool shrinks in the wash, why don't sheep shrink
+in the rain?"" with instructions on how to draw a wooly sheep, & a
+sheep after shearing. I don't remember the title or author, but I
+think the cover was at least partially white, with a drawing of bright
+yellow chick or series of chicks, & maybe a few other things as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2015] It was a free computer game on the internet
+where you managed a 2D hotel. Help me find this game. I used to play
+it on the computer like on them free game websites, i cant remember
+the website it was on. The game was a hotel room management game, it
+was in 2D and you would have guests coming in and staying in your
+rooms down long hallways. A specific feature i remember is that if you
+demolished a room with a guest inside, a little ghost would appear and
+you would get a shocked message from one of your employees. You could
+get more floors and make it taller. Like i said it was 2D so it was
+viewed from the side with a elevator on the far left of the building
+and rooms along the right. Sorry i dont have more details"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

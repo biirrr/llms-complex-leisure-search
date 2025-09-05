@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Little Red Riding Hood teams up with Jack (from
+jack and the beanstock) to save kidnapped/ tortured fantasy
+characters. Read 2015-2019. Spoilers. [s]. My partner and I have been
+desperately searching for a book they read in highschool (2015-2019).
+From what they remember, the book cover was black with a bleeding
+heart. They're also pretty certain they got it in a Scholastic
+bookfair. Spoilers Ahead!: (view spoiler) [ The book itself is about
+little red riding hood, who teams up with jack (from jack and the
+beanstalk) to save her grandmother? There's also elements of
+embroidery (the grandmother stabs someone in the hand) and torture,
+where red riding hood has to save the other, captured fairytale
+members (Rapunzel and Hansel + Gretel are the ones that they
+remember). If anyone has any clue what the title to this book is
+please let me know!! (hide spoiler)] The book is NOT Winter, The
+Sisters Grimm, or Land Of Stories."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

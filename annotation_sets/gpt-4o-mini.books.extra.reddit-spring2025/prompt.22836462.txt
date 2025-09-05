@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction. Book Cover that had the side profile of a
+woman eating a handburger? [s]. There is a book cover I saw while
+scrolling of a woman in green? eatting a burger. The tile said
+something about good girl and the author might have been Meg or Megan?
+The page refreshed and i can't find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

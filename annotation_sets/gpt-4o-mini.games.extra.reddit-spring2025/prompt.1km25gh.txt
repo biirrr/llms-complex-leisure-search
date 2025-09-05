@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox one][unknown] pixel side scroller stealth samurai
+assassin. I played this game when I was in high school while it was on
+game pass, roughly around 2017-2019ish but I don't know when it came
+out. It's in a similar style to neon abyss and hotline miami. The only
+thing I remember about the game play, i think, is you got your
+missions from a man in a suit in his office, you got a paper every day
+describing your kills, and there was a mission where you had to sneak
+into a prison to kill someone, and you had to use the shadows of the
+foreground scenery to stay hidden from guards and spotlights, and the
+character you played only ever had a katana, and only woar a kimono or
+robe. I think every mission started with him putting a tape in a tape
+player, and that would be the song for the mission. If anyone knows
+what this is I'd like to know, it's been driving me nuts for a week."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

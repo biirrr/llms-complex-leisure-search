@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Doom/quake/wolfenstein style game set in a
+haunted mansion. Platform(s): PC Genre: FPS - Doom/Boomer Shooter
+style Estimated year of release: The 90s(? Graphics/art style:
+Pixelart, the animations were really smooth. The game was colorful, it
+wasn't gritty like the games I mentioned. Notable characters: Crazy
+scientist, ghost lady, classic horror monsters. The game started with
+you with a gun and a crazy scientist in front of you who you'd have to
+kill to win (I'm not sure about this one, but it's what I remember my
+cousin telling me) He'd run away and you'd have to find him. The game
+was set in a haunted mansion, by haunted I mean that the enemies were
+classic horror monsters, mummies, vampires, were wolves, there was
+this ghost lady I remember that looked like the mom from the Crazy
+Addams. I also remember that you could go outside... I think the
+mummies were outside, that's all I remember. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

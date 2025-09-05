@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] An indie horror / mystery game taking place in
+an abandoned world. I really don't remember much about this game
+visually except for the time it had nice lighting, most of it was
+pretty grey though. You woke up in some abandoned building that was
+completely run down and overgrown. You had to walk through that
+building and solve puzzles while the protagonist talked about his past
+iirc. What I remember the most is the ending: the protagonist sees
+himself in the mirror for the first time in forever and sees that he
+is completely covered in fungus or some other growth. I think it was a
+rather short game and the title was just one word"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

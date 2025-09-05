@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2020-2025] [Horror] Game where you're hiding in your
+home and are given instructions to eliminate possible infected
+people.. Last year in winter I remember watching a game where you're
+in your home and are prompted by some kind of government channel to
+defend yourself from people hiding as citizens to invade/spread across
+the country. The art style was VHS/low animation when you're walking
+around, and you'd answer the door frequently to people who want to
+find solace in all the chaos and you decide if they're real or an
+enemy through conversation and basically body searches. I remember
+each day you survive there is different criteria to make it harder to
+detect the enemies. The themes would be paranoia, comments of society
+and morality, horror."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

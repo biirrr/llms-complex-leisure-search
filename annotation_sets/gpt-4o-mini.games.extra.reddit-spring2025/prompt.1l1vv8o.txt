@@ -1,0 +1,64 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000-2010S] a fantasy game that was so good!. Hey
+everyone, Ive been trying relentlessly to find a game I used to play
+on PC when I was a kid, and I just cant remember the name  despite
+hours of searching. Im French and currently 21, I have played it
+between the ages of 8 and 13, which would place it somewhere released
+between 2008 and 2015. The graphics I remember are also consistent
+with games from that era. Heres everything I can recall about it: #
+=Å Release &amp; Platform * Played on **PC via CD-ROM** * Not part of
+any famous franchise # >í Gameplay Structure * **NOT a real-time
+strategy (RTS)** * **NOT a fully turn-based tactical RPG** * Overworld
+gameplay was **turn-structured**: * You **move your hero**, then you
+see **CPU heroes move** * You play as a **faction leader or hero** *
+Each faction has **its own starting zone** with a **city hall
+(capital)** in the center * You can **build or upgrade structures** in
+your capital to **recruit or unlock units.** You see visually the
+buildings you made, like for instance a Basilik that unlocked new
+religious knights to recruit. An important point is that the buildings
+were not build on the map, like an AoE would, but i believe you could
+see them in the 3D view of tour capital once you clicked on it. # =ú
+Map &amp; Visual Design * Large overworld map, **top-down or
+isometric**, similar to AoE in visuals only * Map starts **fogged**,
+reveals as you explore * The world is made of **themed biomes**, each
+matching a faction: * Example: The **""""""""Hell"""""""" faction**
+starts in a biome with lava, dark landscapes * The
+**""""""""Knight/human"""""""" faction** starts in a medieval, grassy
+zone * As you travel far enough from your starting zone, the
+**environment shifts** to another biome  you understand you're
+nearing enemy territory #  Factions &amp; Units * Multiple
+**factions**, including: * One **Hell-themed faction** with a **winged
+demon hero** * One **knight/human faction**, with a basic unit called
+écuyer (squire), which could be **upgraded** * You fight against
+**CPU heroes**, each controlling a faction * The **goal is, I think,
+to vanquish all others** # >ñ Other Key Features * **Strictly single-
+player** (no multiplayer) as I remember * Possibly
+**dark/gloomy/serious tone** (not cartoonish) * Might have had **a
+Hell-themed box cover** * Heroes were more like **faction leaders**,
+not RPG characters Any help would be so much appreciated! **UPDATE
+(more accurate details):** I realized I may have misremembered or
+miscommunicated a few things, so heres a clearer update that might
+help narrow it down: * The game is **not like Age of Empires** at all.
+You didnt control armies directly. The **camera was aerial/top-
+down**, somewhat like AoE, but it was **much more zoomed in**,
+centered around the **hero you controlled**. * I honestly **cant
+remember the combat system**, which I know is probably the key part. I
+dont *think* it was turn-based, but Im not completely sure  memory
+is fuzzy. * The **graphics were fairly modern and clean**, definitely
+**not pixelated or old-school**, so Im confident the game came out
+**after 2008**. * I have a vague memory of finding **structures like
+taverns or stables** on the map, where you could possibly **hire or
+acquire units**  but Im not 100% sure how that worked. I really want
+to find this game  I have so many great memories playing it as a kid,
+but theyre also so vague. Thanks again to anyone helping, I truly
+appreciate it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

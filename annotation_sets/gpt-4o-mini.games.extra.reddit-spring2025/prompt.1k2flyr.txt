@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2019-2021] A weird vibe-y game with not a lot of a
+plot.. So I remembered a game I played and it was weird. It was first-
+person and it was more of a puzzle game. It has weird and old vibe.
+There was a level you climb a tower(?) with flowers. At the end of the
+game, there is a dark pathway and in the end of the way there chess
+piece(?) and talks about something the game ends, BUT I vividly
+remember there was Joel G in the credits. It would be cool to find."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] office horror game. It was probably closer to
+2005-2010 So its a first person game, youre alone in an office at
+night and its kinda scary ,you can pickup some items like a coffee mug
+with coffee in it, and theres a part where some blinds raise in an
+office room to startle the player. I believe pewdiepie might have
+played it? I remember when i was a kid my sisters friend played it
+and made jokes about gravity defying coffee and i think about it
+every now and then. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

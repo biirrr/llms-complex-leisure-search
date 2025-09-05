@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE GAME] [2010's] Tapping mobile app game.. A mobile
+game (I think you can also play on PC) I used to play when I was in
+school, sometime around mid 2010's. I really want to play it again but
+it's hard to describe but was very popular at the time. It was very
+simple gameplay. Gameplay: A big circle in the middle of the screen
+that is constantly spinning. You tap and a long stick with a circle at
+the end will stab into the big circle (think they were numbered eg, 1
+for first time you do it, 2 for second time you do it, etc) its
+basically a timing game where you just have to fill in the gaps and
+keep tapping. if one of the sticks doesnt go in a gap, its game over.
+The circle will spin faster as the levels go on and the more sticks
+that go into the big circle. Visually, just think of a very basic
+drawing of a sun, like a big circle with lines coming out of it all
+around it. Super basic concept. Design: Beige colours, i think the
+smaller circles at the end of the line are orange or yellow. Very
+simple design, like minimalistic with not much going on. Name of game:
+I only remeber the name being extremely short, like 2 or 3 letters in
+the name. Possibly starts with the letter A? But im not 100% sure. I
+know its not an obscure game and was very popular at the time, but I
+genuinely have just forgotten the name, it'll probably be super
+obvious once I find out. I have tried googling to find it so its hard
+to find it. Thank you!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

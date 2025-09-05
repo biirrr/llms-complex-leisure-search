@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Book (published 80s? read 2010s) involving a
+cathedral, a canon, a blind girl, scientific inventions and perhaps
+secret passageways. I read this book in around 2016 but it was a lot
+older- published somewhere between the 70s and 90s I think. I remember
+there was a blind child perhaps named Emily. I think her optic nerve
+had been burned mysteriously, perhaps in relation to some kind of
+scientific experiment. There was also a cathedral instrumental to the
+plot, a canon and scenes taking place in the crypt or tunnels under
+the cathedral. I might be getting two books mixed up but I'm fairly
+sure there was something about a unicorn."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

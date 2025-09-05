@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1993-2000] Fire Rescue Game Where You Jackhammer
+Through Layers of Floors. Platform: PC Year: 1995-2000 Graphics: 2D,
+retro PC graphics So I could have sworn this was one of the Tonka
+games, possibly Tonka search and resuce. After looking thru a bunch of
+longplays I could not find these parts I remember. First is your in a
+building and you have to break thru the floor with a jackhammer. You
+break individual squares and each tile breaks apart in stages, like
+you break the floor, then another piece beneath it until you can see
+the floor below. It's a first person view. 2nd part is you control a
+dolphin or something and your side scrolling and swimming thru some
+river."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

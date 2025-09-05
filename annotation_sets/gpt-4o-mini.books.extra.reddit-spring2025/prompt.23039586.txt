@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Wattpad. Adult Paranormal Romance on Werewolves. Female lead
+has golden blood who is rejected by her mate. Spoiler.. I vaguely
+remember the details. So, I'll try to give as many details as
+possible. The story revolves around werewolves. The male lead rejects
+the female lead when he comes to visit her pack. Right after the
+rejection, she goes into heat. The male lead still isn't ready to
+accept her. They go on a trip/mission together. This trip brings them
+sort of close. There's a major point about the female lead - she has
+golden blood as the moon goddess blesses her. There are also griffins
+in the book. In the end, there is a war between the griffins and the
+werewolves. I read the book on Wattpad around 2019, I think."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

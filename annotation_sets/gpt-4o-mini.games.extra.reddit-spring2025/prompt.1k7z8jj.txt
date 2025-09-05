@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown system][90s - early 00s] Weird Japanese shoot-em-up
+with leg-stomping enemy. I'm losing my mind over this. I vividly
+remember seeing some gameplay of this side-scrolling, presumably
+Japanese shoot-em-up with tons of bizarre enemies (nonsensical and
+messed up demons). I specifically remember one enemy that's a giant
+woman's skirt and legs sticking out of the wall and stomping down on
+the player. I've been able to find the Cho Aniki series, but after
+looking through longplay videos of seemingly every game, I just can't
+find the level with the giant woman's legs. Is it possible that I'm
+thinking of a game from a different, but very similar series? Did I
+dream this? Help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

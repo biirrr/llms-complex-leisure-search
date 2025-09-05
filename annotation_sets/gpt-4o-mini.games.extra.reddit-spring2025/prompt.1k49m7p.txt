@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Amiga] [90s] collection of activities/mini games for kids.
+Colourful creatures?. I'm trying to find this old niche game. It was
+meant for kids and was a collection of different activities. There was
+a central theme for all those activities I think. You'd always
+interact with the same looking colourful creatures. One of them was
+that you had to build a monster creature from different parts that you
+could attach and at the end the creature would be judged if it's scary
+or not. Another activity allowed you to pick and choose different
+instruments and depending on your choices you'd get a different
+sounding tune at the end played by some creatures. I can only remember
+bits and pieces. - It was very colourful - you'd control it with a
+mouse - main menu was an image where you had to find and choose mini
+games by musing over them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

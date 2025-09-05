@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[online][unknown] A game where you were a dragon. I remember
+I played it in some page online a couple of years ago. I'm positive it
+was pixel art. It had 3 chapters in which the dragon grew, the first
+one was in a nighttime forest (in which you were captured and put in a
+cage, iirc), the second was in like a castle (in which you got access
+to 3 potions which gave you an element). The elements were
+grass/healing, fire and water. It was a 2d platformer and in the last
+chapter you were pretty much free to do whatever you liked, you could
+kill/revive people, you could stomp on them (?), you could burn trees
+down, and I remember you got to one or maybe multiple cities and if
+you kept advancing you got to a cave full of treasures where I'm
+pretty sure the game ended. Also in the last chapter there was a hero
+that tried to kill you (?). There were different endings depending on
+what you did and what element you had, like pacifist, destructive and
+such. It was pretty quick from what I remember, def didn't take more
+than 3 hours."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

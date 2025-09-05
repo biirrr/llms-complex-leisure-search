@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction, funny. Vicar/ priest & widowed Irish Catholic
+mum in Sydney, Australia. They travel to UK & Europe on pilgrimage.
+His father had been pharmacist? or mum worked in pharmacy? Cover:
+brown suitcase? Gentle, sweet. Read 2008-2010. [s]. Right so
+read/bought this in Sydney some time between 2008 and 2010. I bought a
+lot of ex library books so it could have been one. It definitely
+started in Sydney - a vicar/priest and his Irish catholic mum. I think
+his father had been a pharmacist in the Sydney CBD or his mum worked
+in a pharmacy. Brown suitcase features, could have been on the cover.
+Could have been a reference to being a £10 pom and coming over with
+just a suitcase. I think the priest son and widowed mother went to
+Europe together on a kind of pilgrimage. I recall it being gentle and
+sweet and hilarious and I clearly lent it someone and never got it
+back. I'd love to find it and reread it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[WII][Unkown]Game about robot boy. Platform: I personally
+played it on WII Genre: I assume it's an adventure/action type of game
+but I don't remember too much of the actual gameplay sadly Estimated
+year of release: most likely 2008-2014 Graphics/art style: It was
+definitely in a 3D cartoon style but it was well polished and I
+remember a lot of it being quite dark (possibly set at night [rain]?
+And definitely in a city) Notable characters: A giant robot (mascot)
+that is a little boy. White, dark brown/black hair, freckles, wearing
+an early style fast food outfit (most likely burger, think in-and-out)
+white triangle hat, white apron. He would be normal with a smile and
+then attack with red laser eyes and chased you around. It was a whole
+cutscene when it happened. Notable gameplay mechanics: The main thing
+I remember was getting chased by this freaky boy robot in the city and
+dashing around rooftops and the roads. Character you controlled was
+3rd person and usually you were looking at their back (and I think at
+some point you were able to control the robot and destroy the city)
+Other details: genuinely all I remember I'm sorry it's so vague I hope
+someone remembers this. I think the name of the game had something to
+do with the boy's name/the restaurants name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

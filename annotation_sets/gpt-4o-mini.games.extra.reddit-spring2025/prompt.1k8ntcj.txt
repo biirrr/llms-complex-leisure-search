@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [BETWEEN 2000 2010] isometric fps. Details I remember
+starting outside with a gun and there was some birds would atacke me
+if i stayed for a while then i went to a place looked like a temple
+and there was an enemies had a bull head and i dont remember having a
+health par"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

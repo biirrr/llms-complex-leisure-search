@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Mystery that takes place at airport, read as a kid between
+2001-2005. [s]. Not sure if it's a ""kids book"" but I read it as a
+kid sometime between 2001 and 2005. It takes place at an airport.
+There was definitely a light blue duffle bag that an old lady was
+carrying. In the bag was a crossword puzzle with a code/message in it.
+The mystery might have accidentally fallen on the main character. The
+main character is probably a kid flying alone (age 10-13). I think the
+blue bag got switched. The bad guys accidentally grabbed the old
+lady's bag? I want to say that the main character might have been
+kidnapped inside the airport by the bad guys. There also might have
+been a message/code on a gum wrapper? I'm also remembering there might
+have been cash inside one of the blue bags? Of course it's solved in
+the end, I loved this book and as a kid I would have liked a resolved
+happy ending. I have been wondering about this for years now!! Hope
+someone can help! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

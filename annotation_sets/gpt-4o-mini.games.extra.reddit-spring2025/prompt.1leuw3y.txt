@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[WEB][Unknown] Weird puzzle horror game. Platform(s): Web
+Genre: Horror, Mystery, Puzzle with a time limit, Lovecraftian-ish (i
+think) Estimated year of release: Honestly no idea, but i played it
+definitely after 2004 cuz thats when i was born lol Graphics/art
+style: Could be realistic? Or at least something that looked like
+western comics. 99% it was 2D Notable characters: Male characters,
+detectives? Probably two. Notable gameplay mechanics: You had to
+something, probably puzzles, in time or the dark goop consumed
+everything lol. I could never beat it because i was a little kid when
+i played it. The image is roughly how the layout of the game looked, i
+remember nothing of the puzzles. It could be point n click. Other
+details: I think it's important to mention that I am polish and it
+could be on the polish web game sites, i have no idea which one it was
+though or in what language the game was. This weird memory with this
+game was bugging me for years and i'm not 100% sure if my brain didn't
+made it up, but i thought posting about it was worth the try,"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

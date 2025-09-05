@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA contempory fiction - 12 year olds wake up on their
+birthday with shapes on their forehead. Read around 2016-2018..
+SPOILERS I read this book around 2016-2018, checked it out from the
+local library and my account has since closed so I can't look it up on
+there. A 12-year-old girl wakes up the morning of her 12 birthday with
+other 12-year-olds, also the morning of their birthdays, and sees that
+they all have a circle on their forehead. (a plain, smooth, outline of
+a circle) They are in a plain, square room and cannot seem to find a
+way out. Eventually all the kids manage to escape the room and start
+wandering around the building where they are being held. I want to say
+that they thought all the hallways were going uphill, but I could be
+wrong. This group eventually runs into another group of kids- also
+there on their birthday. The MC sees that this group also has the
+circle, but it's textured (I think it had little points all over it)
+The two groups join up to try to escape where they are being held and
+find a square room that is filled with rainforest. They meet up with
+two more groups of kids, also with the circles of different types. The
+details are a bit fuzzy to me at this point, but I think there were
+""creatures"" in the rainforest room, and all the kids figure out they
+are in a spaceship of some type. Thank you for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

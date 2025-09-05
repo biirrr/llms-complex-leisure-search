@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010s] Escape-the-room puzzle game where each room
+has a different story. i played this on an ipad somewhen in the 2010s.
+it was basically just those typical escape room puzzle games, but each
+room in the game would have a different story, and each time you
+successfully escaped, you would be put back into the same room but
+with more puzzles. rinse and repeat until the story ends and you move
+on to the next room/story. I remember one story in particular where
+the player's wife locks him in a room in their house and tells him not
+to leave. The reason why is revealed in the end to be that the wife is
+terribly ill (cancer if i remember correctly) and that she didn't want
+the player to know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990] edutainment kids game set on a farm.
+Platform(s): PC Genre: Edutainment Estimated year of release: Late
+1990's or early 2000's, most likely Graphics/art style: Somewhat
+cartoony with soft character designs, like something out of a
+pixelated story book. The game takes place on a farm. Notable
+characters: A little girl (I don't remember her name) wearing a
+T-shirt and overalls living on the farm where the game takes place.
+She lives here with a handful of talking farm animals and a non-
+talking pet cat. The girl serves as the game's host as the player
+seems to play as themself in the first person. Notable gameplay
+mechanics: It mainly resembles those interactive story book games
+where you click on anything to see what happens, though there are a
+few mini games like feeding the animals specific vegetables they
+request. Plus a minigame where characters sing """"""""If you're happy
+and you know it"""""""" and the player presses the space bar to get
+the character to do what they're supposed to do. Other details: There
+are some singing segments the characters partake in, including them
+singing some nursery rhymes like Old McDonald. The game also kinda has
+a story as it's centered around the little girl trying to find her pet
+cat and searching the farm for them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

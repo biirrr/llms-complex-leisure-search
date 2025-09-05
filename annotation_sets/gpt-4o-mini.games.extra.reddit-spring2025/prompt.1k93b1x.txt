@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[BROWSER][2010-2014] Emotional story about people - told as
+a minimalistic puzzle platformer with cubes of different colour
+representing each character. Visually and style-wise very close to
+Thomas was alone, but no it isn't that one. So 2D, very minimalistic,
+platformer, with the only colours being the cubes themselves. Rest was
+black and white. I think it was split up into 3-4 browser games total,
+all free to play, each focusing on the story of one cube. Each cube
+had a mechanic of their own, a gimmick, that was used in the story
+telling. I don't remember too much about the big picture story wise,
+but I remember vividly a couple scenes in the last one, that made me
+sob. There was a black cube, who went faster and faster to the right,
+and once he got home and found his pink cube in bed with another cube,
+he got drunk and there was a scene where the player has to drunk drive
+with him, avoiding obstacles going faster and faster. In the end, he
+ends up &gt;!driving over!&lt; a child cube, who happens to be the kid
+of another cube earlier in the story. I think that was the very end of
+the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

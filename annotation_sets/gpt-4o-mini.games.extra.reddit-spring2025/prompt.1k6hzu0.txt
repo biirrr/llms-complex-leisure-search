@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PlayStation.. or Xbox][Early 2000s] People use small robots
+for battles and save the world.. Ok, I don't remember much of this
+game but it was at least after 1998, and my brother doesn't remember
+it at all so it's likely early 2000s. I remember the premise was
+really dumb (kids/teenagers or something using mini robots to save the
+world from an evil mini robot?) you would have third person robot
+battles, and the boss battle was in an old run down amusement park or
+something. Tried to find it a few times in recent years but googling
+anything robot related returns way too much noise. Appreciate any
+help. Would like to see this again and confirm the plot was as bad as
+I recall and if the gameplay was as cool as I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

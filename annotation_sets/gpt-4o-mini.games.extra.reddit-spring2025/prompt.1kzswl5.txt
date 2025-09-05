@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2014-2015] FNAF Inspired Minecraft Fangame.
+Basically it goes like this: you're stuck in a cave, and you need to
+dig out a path behind you, you also need to keep your torch aflame,
+and you also need to shoo away any mobs trying to kill you (No,
+seriously, that's ACTUALLY how you keep the threat away, you shoo them
+away like they're a damn house cat XD) If you manage to dig out, you
+beat the game (there could be more levels to it, but idk) Can't
+remember what it's called, someone help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

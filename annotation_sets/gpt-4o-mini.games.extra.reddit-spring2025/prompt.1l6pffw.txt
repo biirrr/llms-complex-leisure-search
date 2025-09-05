@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][~2010]A Gen 7 large-map multiplayer shooter. So this
+is a longshot, by virtue of how little I remember this game, but Ill
+take a crack at it regardless. This is a game I played as a kid with
+my friend on his PS3. It was a multiplayer shooter game, 3rd person if
+memory serves. It didnt have a story mode, just team competitive
+multiplayer on a huge map. It was a little bit like PlanetSide, in
+that vehicles really set the pace of combat. The map was too large to
+quickly get around on foot, so most players would hop in trucks or
+aircraft to get around. The only specific details I can remember is
+playing on a jungle island map with big concrete bases, and a lot of
+my time playing being spent in little VTOL fighters. I also remember
+it having war in the name. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

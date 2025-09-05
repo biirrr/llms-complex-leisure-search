@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Trying to find a true crime/ abuse story, girl kidnapped and
+kept in dog cage [s]. I saw a book in kindle store looking for true
+crime books and I haven't had been able to find it. The book was the
+story behind the film ""Lucy's Law"". It involved a girl who was
+kidnapped and kept in a dog cage."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

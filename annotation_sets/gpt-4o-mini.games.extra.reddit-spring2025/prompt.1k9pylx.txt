@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2012-2016] Mix between left4dead and minecraft.
+**Platform(s):** PC **Genre:** FPS, survival **Estimated year of
+release:** Between 2012-2016 **Graphics/art style:** Blocky game that
+reminded me a lot of minecraft (with different textures) and It was
+more realistic that minecraft. The animations were different from
+minecraft, they looked like they actually belonged to an actual fps
+game like the reloading animation and stuff (if that makes sense)
+**Notable characters:** All I can remember were the zombies that came
+in hordes **Notable gameplay mechanics:** Basically you had to survive
+zombie hordes by using different guns (I guess) and the map was a
+small city. I'm not sure but I think there was multiplayer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

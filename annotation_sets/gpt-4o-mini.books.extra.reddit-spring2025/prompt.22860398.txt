@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fiction. Teen pregnancy of twins, murder of a baby, dual pov
+from sisters. [s]. Okay, I can't remember when I read this book, I
+think around 2011-2014. The book is about a ""golden child"" who gives
+birth to twins at home, during a storm, her parents aren't home, but
+her sister is. She is accused of murdering the one twin. I know at one
+point she is living in a halfway home and works in a bookstore that
+(unknown to her) the other twin's (boy) adopted mom owns. I vividly
+remember at the halfway home someone putting a babydoll in a bucket. I
+also remember her helping the little boy get glitter of himself using
+tape. TIA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

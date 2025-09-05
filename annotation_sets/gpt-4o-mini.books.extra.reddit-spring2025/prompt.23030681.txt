@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Norway, mental illness, betrayal, rural
+town, winter, cheating. Read around 2020-2022.. book written by a
+norweigan writer named something like jo, bought it around 2020-2022.
+It is about a guy with a brother who comes visiting from some
+caribbean island im guessing barbados ( ? ) with a new redhead fiance
+or wife not sure. father was horrible and mistreated the younger one
+especially much ( brother coming from the islands ). They live/come
+from a rural town in northern norway and mc works in a gas station.
+EDIT: The book is called kungariket in swedish which I guess would
+translate to kingdom (?) the book has a red im guessing cadillac on
+the cover!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

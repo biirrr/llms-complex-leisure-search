@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[computer][unknown] game with lampposts. there was a game I
+watched a gameplay of, back in I think 2021-2022. here's what I
+remember 1. it either had a recurring lampshade motif (there was a
+stage with a singular lamppost) OR it had lampposts for checkpoints 2.
+it was similar to games like the stanley parable and superliminal. the
+general aesthetic was all about liminal spaces and such, and it had an
+almost.. melancholic? atmosphere to it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

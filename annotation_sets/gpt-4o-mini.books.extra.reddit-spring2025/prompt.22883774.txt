@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy series about Unicorns fighting... something. Read
+around 2005-2010. [s]. Trying to remember a book I read as a kid; had
+to at least 15 years ago, maybe 2005-2010. I remember almost zero
+details of it, except that there were three books (I only read the
+third). It had a similar vibe to warrior cats. I think the main
+character was a black unicorn and the leader of the herd? Or at least
+the chosen one. He had special blood that protected him against [evil
+force I don't remember]. At one point he used his horn to cut his leg
+to share his blood with the non-special unicorns. I also remember he
+had a son, and there was a female unicorn who I assume was his wife.
+And towards the end there was a battle with some evil monster?? If you
+have any idea what I'm on about, please let me know, it's driving me
+nuts."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

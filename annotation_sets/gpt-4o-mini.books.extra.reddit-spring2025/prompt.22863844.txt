@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fiction. Married couple wife is seriously ill and
+husband is a eulogy writer. He starts looking into her more against
+her wishes and finds out there is a lot he doesn't know about her
+past. [s]. I started reading a book in January 2024, bought in
+December 2023 but left it on a plane. Female lead was ill and told
+husband not to write a eulogy on her and husband started doing it in
+secret at night to help him cope with emotional stress of his wifes
+illness. As he started to look into her he realised a lot of what he
+knew about his wife's past was not true."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

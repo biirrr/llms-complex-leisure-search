@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance. Athlete Amnesia thinks he's
+married to his high school Sweetheart. [s]. Hello :)! I am looking for
+a contemporary Romance that I read in end 2023. It's probably a little
+bit older than that and set in present times. The MC is a football
+player (not 100% sure though) that gets amnesia after a head injury.
+He subsequently thinks he's married to his high school sweetheart whom
+he hadn't seen in 10 years. The FMC (the said girl) thought the MC
+would propose at the end of high school, but due to pressure from his
+father, he ends up breaking up with so that she won't hold him back.
+The parents of the MC call the FMC and she agrees to play pretend for
+a while. The MC thinks his ""wife"" is mad at him and he tries to win
+her back. That's more or less what I remember. Thank you all in
+advance :)!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

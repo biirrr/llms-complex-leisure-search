@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][2010-20] A game where you deflect things. I played
+this on xbox, but I don't know if it is on other platforms. You start
+in a dessert with a town as some sort of robot creature, they you
+enter a dungeon. It had a similar camera angle to Hades and it was a
+roguelike too. I think there was a room where you used the deflecting
+mechanic to play Atari breakout.0"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

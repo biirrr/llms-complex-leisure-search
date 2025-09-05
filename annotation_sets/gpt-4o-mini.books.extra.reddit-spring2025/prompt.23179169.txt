@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's chapter book, before 1980. Family of children
+make potato pancakes in the middle of night, can't afford to waste
+food, pretend it's a dream.. A family of children get up in the middle
+of the night and make potato pancakes. They can't afford to waste food
+and are afraid their little brother will find out and tell the mother.
+So they stage an act to make it seem like the little brother was
+dreaming and told him the cakes were ""paradise cakes""(I think)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

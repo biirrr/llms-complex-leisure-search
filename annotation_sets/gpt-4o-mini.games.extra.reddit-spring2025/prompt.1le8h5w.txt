@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1995-2000] 2D Top Down/Isometric Game with Mining Drill
+Vehicle Unit. I feel like it probably a strategy game because that's I
+mostly what I played, but I am not sure. I am pretty confident that it
+was a game that was NOT 100% mining/digging focused. The art for this
+mining drill vehicle looked roughly like this:
+[https://ar.inspiredpencil.com/pictures-2023/mining-drill-
+vehicle](https://ar.inspiredpencil.com/pictures-2023/mining-drill-
+vehicle) I remember that you could upgrade the drill vehicle and I am
+pretty sure the color changed from blue to red to black. I think I
+remember being able to go to an underground layer, and upgrading
+allowed you to harvest different resources. The closest thing that I
+could find was the Drill unit from Age of Wonders, but that doesn't
+tick the box for upgrading and the color changing. Thanks in advance
+even if we can't figure it out. I know I'm kind of sparse on key
+details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

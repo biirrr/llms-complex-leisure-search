@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid to late 90s] An adventure game about an orphan girl
+in a Charles Dickens like setting. **Platform(s):** PC **Genre:**
+Adventure, but I don't think it was point and click. I vaguely
+remember using the keyboard to move **Estimated year of release:**
+Sometime in the mid to late 90s. I was born in 1990 and I played it on
+my brothers computer, and just barely remember it. **Graphics/art
+style:** 3D, but early 3D kinda like myst **Notable characters:** A
+little girl. I think she was an orphan. I remember a bell in her
+inventory that if you clicked, it rang **Notable gameplay mechanics:**
+Regular adventure game mechanics. Like a point and click, but I think
+controlled by keyboards. But puzzle solving with inventory items,
+talking to other characters. **Other details:** I have always tried to
+find this game, and often came up with nothing. My brother doesn't
+remember it. I think he did some beta testing for games back then, so
+this might have been something that ended up not even released. It is
+all so hazy. The setting though made me think of Oliver Twist. The
+whole thing felt very Dickens, and drab. I believe it was also voice
+acted."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

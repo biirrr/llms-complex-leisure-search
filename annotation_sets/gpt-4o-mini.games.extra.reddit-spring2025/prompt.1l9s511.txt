@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox][2022-2023][unknown]. Solved: AI: The Somnium Files
+series Hey, so there was this anime style detective game I played
+where the main character I think had white hair and a prosthetic eye
+that would pop out and turn into a AI that would stand and help find
+out clues to find out who this killer was. I know in the game the way
+it was going towards the end was you would talk to someone choose a
+certain dialogue option and you would go on that dialogue train into a
+certain point it would cut and stop from that dialogue tree in order
+to do it you had to go talk to another person or the same person. They
+continue a different dialogue tree to get information to continue said
+dialogue tree I know its a bit vague, but I know the style of this
+was like pictures with pins on them like connecting the red lines to
+each picture. I know thats how that hood was style and I know there
+was a sort of internal aspect, peeing into peoples minds and going
+through like a certain mind based off that person which also helped
+find out the clues that some people couldnt unlock. Can yall please
+help me find this game? Ive been thinking about it for a week now and
+I cant seem to put my tongue on it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

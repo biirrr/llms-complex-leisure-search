@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA or Adult Scifi book about Time travel where boy meets 2
+versions of the same scientist and daughter. Read 1995-2002. Spoiler.
+[s]. Here's what I remember: The main character is a boy who meets a
+scientist and his ""cool"" daughter. They recruit him into going back
+in time with them to do something. I THINK they used a car as the
+method of travel, because I remember them having to build up part of
+the road in the future to offset some erosion, so their car wouldn't
+appear in mid air or in the ground while moving times. The daughter is
+VERY flirty with him and uses the boy's attraction to her to
+manipulate him into doing what she needs him to do. After he returns
+to his own time, another version of that same scientist and daughter
+show up to ask him to help them put the events in time back in the
+correct place. This version of the girl is much more shy. I believe
+she is wearing glasses and has a pony tail while the ""flirty""
+version of the girl had contacts and had her hair down. He is really
+torn about helping, because he really liked the first version of the
+girl better, but eventually realizes she is morally wrong and ends up
+helping the shy version of the girl and ends up with her in the end of
+the book. The Shy girl was definitely a vegetarian while there is a
+very specific scene where the ""flirty"" version is eating a
+hamburger. I read this between the years of 1995 to 2002."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

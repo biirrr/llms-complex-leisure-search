@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Read 2023. Officer Cort of the US Marshals
+Protection Service is assigned to protect a family of 3, his
+""Principals"" (man, woman and daughter). They are being hunted by an
+""Extractor” (Frank?). [s]. Thriller - Read 2023 - Officer Cort of the
+US Marshals Protection Service is assigned to protect a family of 3,
+his ""Principals"" (man, woman and daughter). They are being hunted by
+an ""Extractor"", an evil super-villain type who extracts information
+from targets by torture (sandpaper and alcohol to the feet). I think
+this villain was named Frank. The book uses great jargon and lingo
+from the Protection Services agency, like Cort insisting he is not an
+""agent"", and his ""Principals"" are the people he protects, and an
+""Extractor"" differs from an ""Assassin"" by the nature of their
+task. The Extractor nearly always finds them, including when the girl
+is shipped off to stay at a remote friend's house because she goes
+next door and uses the neighbor's computer to post on Social Media. As
+I recall, the climax occurs in a prison where the Princpals are under
+protective custody. It was an awesome book and I want to read it
+again, and others from the same author/series! Thanks Matt"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

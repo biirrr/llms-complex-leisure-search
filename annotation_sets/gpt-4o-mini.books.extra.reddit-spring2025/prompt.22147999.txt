@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Graphic Novel/ illustrated Memoir about infidelity/
+breakdown of marriage. Red cover. [s]. Short illustrated memoir/true
+story about a woman who writes about her husband's affair and the
+breakdown of their marriage/relationship. The subject matter is
+serious but the author writes in a humorous/light tone. The husband
+often goes out to ""run"" and ""train for races"" when he's really
+meeting with his mistress. Hardback, red cover. Read in the last 10
+years. Maybe around 2015ish. I believe the couple lived in New York,
+no children. Thank you!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

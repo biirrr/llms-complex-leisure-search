@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005-2010] Web Browser Top-down Strategy Arena Tank
+Game. **Platform(s):** PC (90% sure i played on Armor Games website
+approximately during the time frame in title) **Genre:** Top-down
+Strategy Arena Tank Game **Estimated year of release:** Not 100% sure
+**Graphics/art style:** Very simplistic. I remember the arena being
+very basic. The tanks were designed a little more complex but nowhere
+near the graphics of even its own time. **Notable characters:** *None*
+**Notable gameplay mechanics:** The mechanics of the game was to
+customize your tank team to best suite the level you were going to try
+to beat. You had to allocate your resources between having a tank with
+a good Core/Hull/Weapon so that you had the best team available to
+fight the enemy while still being under the weight limit. If you had a
+good Core on one tank you wouldn't be able to have a second tank
+because of limited resources. but if you had 2 weaker cores, you
+couldn't outfit your tanks with the best Hull/Weapon. **Other
+details:** I know that the only interactive gameplay is during the
+tank customization page, the actual fighting of the tanks is automatic
+from both teams, you simply build your tanks and watch them fight. I
+remember one of the best weapons for the tanks being some sort of
+energy based weapon. like a plasma cannon that kind of looks like the
+one on bottom tank in the image I added."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

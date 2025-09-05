@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Heraldry Book, Old, Landscape format, Tincture Chart [s]. Hi
+everyone, I've got an obscure one here. I have a scan of a page from a
+heraldry book that I checked out of the library years ago for a
+report. But unfortunately I didn't write down a citation for it, so I
+have no clue what the book is. I know it was a relatively old book....
+probably pre-1950? It was in landscape format and maybe had a
+maroon/red cloth-bound hardback cover. Not sure if the title was only
+on the spine or also on the cover, nor if that was gold gilt (although
+it probably was). There are maybe around 100 pages in it--the scan I
+have is of the ""Paradigm of the Tinctures"" chart on page 92, which I
+remember was either the last page, or at least towards the very end of
+the book. The note below the chart starts out with ""Heraldry was
+studied and followed with great enthusiasm during the dark ages of
+superstition"" and mentions that this chart is reproduced from the
+Encyclopedia Londinensis . Thanks for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

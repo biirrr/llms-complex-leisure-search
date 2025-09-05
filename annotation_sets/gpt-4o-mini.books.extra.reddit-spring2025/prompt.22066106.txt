@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA coming of age story about a teenage foster child who gets
+taken in on a farm by a single woman who has done this several times
+with older foster children. [s]. I read this book in high school,
+found it at a flea market and no longer own it. I don’t remember the
+title or the author. All I remember is a very undisciplined foster
+girl, maybe between 13-15 gets taken in on a horse farm by a middle
+aged single woman. The girl doesn’t want to be there, she doesn’t want
+to be anywhere but by herself. The woman has a bunch of sentimental
+items and figurines that she only has one rule that the girl can’t
+touch them. I believe in anger the girl breaks them. I also remember
+the girl pretending to be sick, maybe to get out of chores? This is
+all I remember but really wish to find this book again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

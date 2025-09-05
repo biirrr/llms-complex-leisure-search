@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000] underwater exploration game. Hello Everyone I
+tried to remember the name of a game i played as a Kid on the family's
+computer It was a underwater exploration game you start in a pool to
+learn the basics and then the game sets you on a boat (with fuel
+management) to select some diverse locations where you can dive and
+have to take pictures, find treasures, fish et can get attacked by
+sharks and other sea fauna It was in FPS view You could sell what you
+find and the money made with the pictures (i'm not sure) to upgrade
+the boat I remember that the Loch Ness was in there and you could
+encounter green ghosts that swam to you if you were too close and
+Nessy was in a very dark underwater cavern, it was super creepy and i
+don't think this game was meant for me at this time Any ideas ? thanks
+!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Mobile] [1990s-2010s?] [Text based] Text based
+trading/ship game where you can trade stuff?. I can only remember a
+bit of this game but I remember the game has green text I think? You
+can buy different ships, upgrade them as well? Then as you travel
+through the different areas(I think the first area you are in is Hong
+Kong?) different prices of products which you can then sell to other
+places for a profit. It's on mobile as well as on pc since I played it
+before on mobile. It's not Sid Meier's Pirates I was thinking of that
+but it's text based"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

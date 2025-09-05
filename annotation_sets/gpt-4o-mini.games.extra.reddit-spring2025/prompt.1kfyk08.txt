@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown][Unknown] Saw this game in the background of a
+tiktok and can't figure out what game it is, does anyone know?. Since
+you can't post videos, ill describe it. Seems to be some third person
+game where you fight with your fists but you have elemental powers
+cause the guy punches the ground and rock spikes come up around him.
+He then punches one of the zombie like enemies until a prompt appears
+above its head so he can kill him. You seem to be wearing some kind of
+brown jacket abd blue jeans."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

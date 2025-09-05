@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy, sword and the stone retelling but with a female
+protagonist,. This was a book with a female main character who became
+a squire in a castle and ended up meeting Arthur and the wizard Merlin
+before he was King Arthur. I can't remember much but I believe she was
+hiding her gender and became friends with Arthur who ended up finding
+out her secret. The very end of the book (the part i remember the
+best) is the sword being pulled out of the stone by Arthur and him not
+believing he deserved it because it was ""loose"" and they end up
+finding out the main character had been curious and had used
+butter/oil to make the sword loose for her to take it out the night
+before, but she had been unable to put the sword BACK into the stone,
+and had put a different sword in the rock instead. Does anyone
+recognize this book?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

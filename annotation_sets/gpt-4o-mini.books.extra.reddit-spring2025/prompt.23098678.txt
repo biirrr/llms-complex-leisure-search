@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction about twin girls in a not quite dystopian near
+future. I think I listened to the audio book just prior to 2020 and it
+seemed like it had been written fairly recently. I *think* there were
+at least two books in a series but I don't remember. I'm not 100% sure
+the girls are twins, but like 90% sure. The girls get separated and
+much of the story is about them trying to reunite. The chapters
+alternate from the focus of one girl to the other - but not first
+person I think - just the chapters are about one girl at a time. The
+story takes place in the near not quite dystopian future in a place
+like the USA - they have cars. The twin girls are teenagers and I
+think their parents died. The people in power (I'm not sure it's a
+government) recommend euthanasia for at least one of the girls but she
+refused. One of the supporting characters is boy whose father is high
+up in the ruling class. He kind of alternates between an enemy and an
+ally. At one point in the story one of the girls is captured, held
+prisoner with other teenagers, and forced to learn fighting in some
+kind of resistance or military group. One detail I remember is one of
+the twins is in a car accident with the boy she likes - they hit a
+deer or moose or something and the antlers come through the windshield
+and pin the boy to the seat and they have to use the car's jack to
+push the deer off of him. Another detail is one of the twins and
+another character are going through books and DVDs from the past
+trying to research. They find a Forrest Gump DVD, although the name is
+not mentioned. They describe it as a documentary about a man who
+fights in a war, plays ping pong, and runs across the country. Or
+something like that. That's all I've got for now. :) I want to find it
+and read/listen to it again. :) Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

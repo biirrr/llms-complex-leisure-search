@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2018]Gimmicky Indie game where you controlled a guy's
+every movement. **Platform(s):** PC, though it might've been ported to
+consoles? **Genre:** Comedy, side scroller, point-and-click
+**Estimated year of release:** 2018 **Graphics/art style:** Cartoony,
+with a 2D, sort of hand drawn aesthetic. **Notable characters:** The
+protagonist is a man, who had either blonde or red hair. I think his
+name might've been Sam? **Notable gameplay mechanics:** The entire
+gimmick was that you control Sam's every movement, for instance, in
+the beginning you have to click and drag his limbs to help him walk. I
+think it's explained that he has a curse which causes this? **Other
+details:** The game begins with a bait-and-switch intro, which
+initially introduces Sam as a soldier fighting in WWII, but then cuts
+to modern day, where the game is set. It was popular amongst Let's
+Players, and I feel like it was specifically made for Let's Plays."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

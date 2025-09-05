@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction book titled ""Asylum"" from journalist who goes
+undercover in a mental institution, published around 1950s-1960s. [s].
+Hi everyone! Considering I have the title, you'd think a simple Google
+search would help, but nope! I am really mostly trying to figure out
+what the author's name is at this point. I can't seem to find
+anything. Unfortunately, just searching ""Asylum"" in Goodreads brings
+up way too many results, and I will just go ahead and rule out the
+William B. Seabrook one that pops up in the results. I know it's not
+that one. I read this book some time between 2007-2009 for a college
+psychology class, but it takes place around the 1950s-1960s. I'm so
+sure it is called ""Asylum"", although there may have been a sentence
+following a colon after it. The book was written by a journalist who
+went undercover, and admitted himself into a mental institution, and
+reported his findings there. I cannot remember any specific scenes
+that occurred within the book. I remember it being written in a very
+dry, journalistic style. It was maybe something between 300-400 pages.
+I'm pretty sure the cover was a black-and-white photo of a man holding
+a cigarette with his hands on his forehead. It was sort of like he was
+face-palming with a cigarette between his fingers. Although this may
+have been the cover for only one edition of the book. Thanks in
+advance for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

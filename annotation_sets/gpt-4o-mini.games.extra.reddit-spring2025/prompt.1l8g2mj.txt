@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Laptop/pc] [2010-2017] hidden objects puzzle game with a
+magic apprentice as the main character. I remember playing it in the
+early 2010s. You would find pieces of objects, put the back together,
+and use them to solve puzzles. The main character was a witch
+apprentice and her teacher was ab old man with a white beard. Her
+teacher was taken by an evil sorcerer (?) And she had to go through
+various different places/countries to gain enough power. I remember
+starting off in a library and she later went to China, Egypt, and some
+sort of place under the sea. If you need more details lmk but please
+help me find this game=O=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

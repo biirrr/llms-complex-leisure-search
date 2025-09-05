@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2010] game about shooting aliens and defending your
+base. As I said in the title, I'm pretty sure the game was only on pc,
+but I played it years ago so I might be mistaken. I'm not sure what
+genre it was, but youd go from left, where your base is, to the right,
+where the enemy base is. The game might have released around 2010, but
+I might be mistaken since I dont remember much about the game. The
+style was pretty dark, featuring a pretty dark colour scheme, which I
+remember consisting mostly of grey, a dark blue and black, excluding
+the enemies, bases, and yourself. It was also pretty sci fi like, with
+you being on an alien planet and your base looking like an average sci
+fi base building. In terms of characters, I remember there being one
+human at least, which was the player, a robot dog, which I dont
+remember if it was an ally or an enemy. I also remember there being a
+sort of flying alien brain thing as an enemy. I dont remember much
+about gameplay mechanics, other than youd simply go from left to right
+in what I remember being a straight line with nothing between you and
+the enemy base other than enemies, and you had a gun that you would
+shoot at them to defeat them. I dont remember there being many other
+details, but im pretty sure there werent any sort of upgrades in the
+game, other than the robot dog, who i think you just get as an ally
+that fights for you at some point. (it might have been an enemy, I
+just dont remember.) I thinkt there was another human at some point as
+well, but i dont remember if he helped you from the start, got taken
+control of by the enemies or anything about him. Im also pretty sure
+that you play as a girl in the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPad] [mid/late 2010s] educational game for children with
+minigames. So, when i was younger, I used to play this game with my
+little brother but I don't remember the name. Basically, there are
+customizable characters and you can choose the color, nose, mouth,
+eyes and maybe accessories of the characters. I remember that they
+were similar to blobs so they weren't humanoid. In the game there was
+only one free area and it had a yellow color scheme. There you could
+go to an area in which you could change your character and there were
+also minigames that could play. You had to play these minigames all in
+a row and at the end, there was a sort of wheel of fortune that gave
+you accessories or other things. The games were mostly number based
+and i remember a game that gave you a number and you had to put that
+number of characters in a bus. Another game was a game in which you
+had to make potions. I don't remember the other areas very well but
+there was a haunted area and a water/ice themed area but you had to
+pay to get them. The areas weren't many, so maybe these three and
+another one. It had a cartoony art style and it was in 2D. I don't
+remember anything else but I hope to find the name of this."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

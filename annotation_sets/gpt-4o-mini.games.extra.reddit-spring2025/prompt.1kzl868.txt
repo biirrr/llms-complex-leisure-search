@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile Game] [2020-2022ish] zen puzzle game. I remember
+playing this game on my kindle fire that was like a slider zen puzzle
+where you unlocked images to tell a story each level. I think it
+started with a z or something? It was like a meditation app sort of.
+The puzzles were pretty simple with geometric shapes that stuck
+together depending on the colour of line on one end. The main guy was
+like a blue blob I think and I remember him carrying a balloon. There
+was also a little fire guy he met along the way. It was pretty short,
+maybe two hours to play? And most of the pictures were set in a
+desert. I remember an odd motif with doors/archways at one point? I
+haven't played it since about 2022 and looking through the appstores I
+can't find it. Not even a trace on google no matter how manny key
+words I use. I remember the icon being something like the blue guy
+standing in the desert staring off. Hoping someone else remembers this
+game or is able to find it as I've been itching to play it again
+recently"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

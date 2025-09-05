@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Macintosh computer][1990s] point and click. 1st level is a
+flying pirate ship. Hi! So, I was trying to recall this game I used to
+play in a late 90s Macintosh computer. It was a point and click game
+I'm which you used tools scattered throughout the environment to
+advance levels. The protagonist was a guy with wacky black hair. Very
+(very) low res graphics. The first level was on a flying ship (like a
+pirate ship, not Sci fi), you used elements like a golf club, a piece
+of toast, a coin and an umbrella. You beat the level by attaching the
+umbrella to a barrel and parachuting down to earth. This triggered a
+cutscene where the umbrella folded inside out and your character
+plummeted down to the ground willie coyote style. Second level was on
+the ground where you had to navigate through a bunch of orc like
+creatures. You'd sprinkle toast crumba on the collar of one to make
+him scratch and steal his club. That's all I remember. And I think I
+recall one of the logos said KLONDIKE. But not 100% sure. Pleeease
+help me find it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

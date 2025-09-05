@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2005?-2010] 2D platformer, with gem/jewel collecting,
+game added to various magazines as a demo. I dont remember too many
+details. 2d platformer. Main character was a wizard (or you were
+killing other wizards?), and you were collecting colorfull gems. First
+level was green forest like place with dark background. You could find
+demo of this game added to various gaming magazines(polish
+ones(Cybermycha, Cd-Action, etc). In terms of graphic style, it was
+very vibrant, but it wasnt pixel-art( for reference see
+""""""""Claw"""""""", it was something in that style. There was an
+ambient fantasy music playing in background i think. Edit: there was
+characteristic """"""""ding"""""""" effect when collecting jewels"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

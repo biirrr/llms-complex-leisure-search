@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2002-2006] side-scrolling sci-fi shooter. Platform: *
+PC Genre: * sci-fi * action * horror Estimated year of release: *
+2002-2006 (played it around 2007-2008) Graphics/art style: * clean,
+drawn, flesh-like * the sky in the background was red-ish, the whole
+color palette of the game was quite red Notable characters: * sci-fi
+soldiers in doom guy-like armor Notable gameplay mechanics: * You had
+to shoot aliens/demons, they dropped money which looked like dollar
+symbols i think * You could buy weapons from the cash * You moved from
+left to right in a side-scrolling fashion * It didn't really have any
+platforming * The flamethrower was most likely one of the weapons
+Other details: * I think 2 people could play it on one computer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

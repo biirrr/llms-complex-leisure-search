@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] a combat plane game. Platform(s): PC Genre:
+Kinda like platformer, but kinda side-scroller/scrolling shooter?
+Estimated year of release: Not sure, played it in early to mid 2010s
+Graphics/art style: Cartoony Notable characters: Not sure, but I
+remember being attacked by birds in combat planes (not jets btw, more
+like old pusher plane style stuff) Notable gameplay mechanics: you
+picked up upgrades, so your bullets would spread, or shoot double, or
+more rapidly and so on. Also, you played this game with your mouse
+mostly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010] Cavewoman trapped in an iceberg?. I was thinking
+about a flash game I use to play in the late 2000s early 2010s on
+girlsgames.com. It was about a scientist that discovered a cavewoman
+trapped in an iceberg, fell in love and basically trained her to be a
+modern woman. The game consisted on mini screens in which you first
+have to take the woman out by drawing her silhouette on the glacier
+without going out of the line, and that mini game was followed by
+others in which you taught her how to eat, how to speak, etc."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

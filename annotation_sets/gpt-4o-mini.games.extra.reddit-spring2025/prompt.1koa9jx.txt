@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010-2019] Futuristic top-down arpg/twinstick shooter.
+Platform(s): I think it was a pc exclusive game, but my memory is
+basically non-existent outside of a few specific details. It was
+definitely on steam at one point. Genre: Diablo-esque ARPG/Twinstick
+shooter (pretty sure it was the latter, though it may have had melee
+combat as well Estimated year of release: 2017-18 was the year i
+encountered the game, may have released a couple years earlier.
+Graphics/art style: Standart 8th Gen 3d, futuristic aesthetic, don't
+remember much of anything here. Notable characters: The player
+character is a blue-silver mech, pretty sure it's a silent
+protagonist. A major villain was a giant armadillo-ish alien, with an
+outer shell made of jagged brown rocks and a mace-like tail. One of
+the last bosses of the game, and borderline the main villain. You
+fight him in a nest full of his species' young, who he spawns as
+minions. At the end of the game, your commander/operator reveals
+himself as the real main villain. His fight takes place in an icy
+arena, the boss himself looks like a mechanized version of The Monitor
+from Anthem. (i know nobody remembers Anthem but it's the closest
+analogy i got). That's everything i remember, thanks in advance for
+any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

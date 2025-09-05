@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015?]HORROR GAME. I once watched CoryXKenshin play it.
+It's a game where you play as a child and you have to fend off little
+goblin things. As the nights pass you have to start protecting your
+family members as well. I remember two mechanics, one where you had to
+stoke a fireplace so the fire could stay hot and keep the garage door
+shut (both from later nights). Any help?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

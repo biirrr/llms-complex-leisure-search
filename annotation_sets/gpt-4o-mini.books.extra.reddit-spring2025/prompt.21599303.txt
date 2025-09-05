@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction about 4 women Europeans in the historic middle
+east including Isabella Burton. [s]. normal sized slim paperback, read
+in 2006, could have been 10-20 years old already, a non-fiction
+collection of stories of FOUR (definitely) woman travellers in the
+Orient. One was Isabella Burton, one lived with bedoin and in a harem.
+There is a description of arab culture from one of them as being able
+to ""just be"" and not be doing all the time. I think all the women
+were from the roughly victorian period. Colour image on the cover.
+THANK YOU"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

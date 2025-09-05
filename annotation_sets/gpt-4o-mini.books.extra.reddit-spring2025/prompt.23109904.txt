@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Thriller. Friends fake death. Read more than 10 years
+ago. Spoiler.. All I can remember is it's about two friends. Friend A
+and friend B. They decide to fake As death to get insurance money or
+something..? The way they do it is they inject A with like a
+tranquilizer that will put him to sleep for a few days but it will
+appear as though he has died. There's a funeral and everything. Friend
+Bs job was to put an oxygen tank in the coffin so when A wakes up he
+will be able to breathe until B goes to dig him up in a few days. Well
+it turns out that when A wakes up in the coffin and turns on the
+oxygen it's not oxygen, it's some type of laughing gas or something
+and he eventually dies. Friend B takes all the money for himself."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

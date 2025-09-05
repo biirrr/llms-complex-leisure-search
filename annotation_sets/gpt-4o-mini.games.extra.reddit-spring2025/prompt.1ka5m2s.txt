@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015 ONWARDS] FPS endless shooter. It starts by
+putting u in a dark big open area, and them bug like creatures start
+spawning. It's ps2 graphics and very basic, and dark colour pallet. I
+believe it was made by one person, and I saw a youtube video on it
+once and never found it again Anyone know? If u need more info just
+ask"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

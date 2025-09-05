@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][YearUnknown] Looking for an old offline mobile 2D
+side-scrolling RPG with exactly 3 playable characters. Hi everyone!
+Im trying to find an old mobile game I played probably in the early
+2000s or early 2010s. Heres what I remember: """""""" Its a 2D side-
+scrolling RPG with linear gameplay  think like Super Mario style
+progression (move left or right, clear all enemies in sections to
+proceed). """""""" You have exactly 3 playable characters: 1. A human
+man 2. A human woman 3. A blonde female elf who wears green and wields
+dual swords or daggers and a bow. She has about 3 upgradeable skills,
+possibly elemental powers. """""""" You choose one character per stage
+and cant switch characters mid-stage, but possibly can switch between
+stages. Other characters might assist you during gameplay. """"""""
+The elfs weapons are upgraded directly (sword and bow), while the
+human characters have to loot weapons and gear from enemies. """"""""
+Enemies include slimes (some elemental, like lightning types) and
+goblins. """""""" The game has a clean side-view camera and a cute,
+anime-inspired art style, all in English. """""""" The stages are
+often set in forest environments and divided into sections where you
+must clear all enemies to progress, with bosses appearing at the end
+of stages. """""""" The game is offline and was only for mobile (no
+online multiplayer). """""""" No pixelated graphics or 3D, strictly
+smooth 2D art. Ive searched extensively but cant find a match. If
+anyone has an idea what this game might be, please let me know! Even
+partial info or similar games would help. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

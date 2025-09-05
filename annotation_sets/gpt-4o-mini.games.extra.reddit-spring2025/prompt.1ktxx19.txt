@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX 360] [2006ish] Grid-based, turn-based Strategy with
+Maid and Pizza-Faced Robots. Genre: Turn-based strategy Estimated year
+of release: 2006 Graphics/art style: Realistic, much like Resonance
+of Fate. Notable characters: A robot with a pizza for a head and a
+maid with a Gatling gun. Notable gameplay mechanics: As above, this
+was a grid-based game where you had to fight robots. I never got very
+far into it, but I think the grids were only about 3x6, maybe 9? There
+were robots who battled, though I think previously they all had
+domestic functions, like the Pizza-faced one was previously the mascot
+of a pizza delivery company (but it could breathe fire to cook pizzas)
+and the maid was a domestic servant with the gun being for security. I
+think you could collect the robots a bit like Pokemon, but there was
+certainly a compendium where you could view each entry and read about
+their back story. They had all had their previously benign functions
+co-opted for weaponry, but they may have gone haywire? I think there
+may have also been a robot who gave out balloons (so perhaps it was
+set in a theme park), who had incredibly strong hands and could bash
+their opponents. Other details: It wasn't especially good and I never
+got very far into it. I loved the design of the robots, but it wasn't
+enough to keep my interest. I seem to remember the city it takes place
+in having lots of red brick work? I also believe the game may have
+been Japanese in origin. Any suggestions would be gratefully received,
+and I'm sorry I can't remember any more details!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

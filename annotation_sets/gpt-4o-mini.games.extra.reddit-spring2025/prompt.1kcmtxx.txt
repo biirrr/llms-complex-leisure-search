@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown] [2009-2012?] Help me find an old game I played as
+a kid? Steampunk game with an airship and live action cutscenes.. Ive
+been thinking about this a lot, when I was younger in our class we
+played a game on the board from the computer. This was between
+2008-2012. I remember it was about a girl, and an airship. She was
+probably young? 12-18 age wise with steampunk clothes and long dark
+hair in a French braid. It did have her as a live action character,
+and involved travel. I know this is a little vague but its been
+bothering me for years. It was first person so the characters were
+talking directly to you. It reminds me of Firefly? But I dont think
+theres any games like that for that show. It was aimed at kids and
+had options where you could choose what to do. It may have been an
+educational game. It was played on a computer or PC and projected onto
+a whiteboard for us. It could have been a DVD disk game or an online
+one. Maybe had something to do with her grandfather? The girl was a
+waistcoat? It is NOT any of the following- Clockwork Tales Broken age
+Professor Layton Dream chronicals"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

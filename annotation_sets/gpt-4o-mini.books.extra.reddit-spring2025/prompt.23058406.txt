@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Family Drama - Grandfather attempts to reunite his
+children in his final days before he dies of cancer. Spoiler.. Spoiler
+A terminally ill grandfather seeks to re-engage with children he has
+lost touch with and moves near his son. The son works at a bookstore,
+befriends the owner and eventually inherits the store. A daughter
+married a religious zealot who moved her away and keeps her isolated
+at home. Without any contact with the grandfather the daughter sends
+her very young daughter on a bus to the grandfather. The granddaughter
+has no idea what city her mom is living. The grandfather and son are
+not prepared to raise her and plan to take her to a relative who
+agrees to take her on. On the road trip there the granddaughter pours
+coke in the gas tank trying to disable the car and delay the move. It
+takes a few days to get the car repaired and the 3 stay in an inn run
+by a widower who is planning to sell the place. The son gets involved
+with the cook at the inn and they have a one night stand. The
+grandfather eventually finds where the daughter is living and
+confronts her husband. The family is reunited. The cook from the inn
+shows up at the bookstore wanting to continue the relationship. I read
+this book in 2024. It came from a Little Library so I do not know how
+old it is. I believe it is set in a large NE city."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

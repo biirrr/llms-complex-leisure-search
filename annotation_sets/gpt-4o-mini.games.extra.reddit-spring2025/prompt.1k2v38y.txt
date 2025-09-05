@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2023?] a adventure game about cats on a island.
+This really niche game has been stuck in my head please help!! It's
+this silly little mobile game where there are 2 cats that get washed
+up on a beach and they try and set up a living there. There is like
+hella lore on this island and about the original cats that they have
+to find and they eventually get a pet dragon?? Sadly that is all I
+remember. Thank you!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

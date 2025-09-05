@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ONLINE] [2000's] Micro organisms fleeing their planet.
+**SOLVED: MICROLIFE** Hi everyone, bored at work scrolling TT and a
+video reminded me of a game I used to play online as a kid. I remember
+everything except the name. The aim was to create and grow micro
+organisms to build a spaceship and escape the planet they're on. They
+start our pink, grow up to be orange, you can send them to training to
+defend against invaders. When they get sick, they turn grey, you can
+send them to the hospital area to get better. Every now and then, lava
+flows from the top to the bottom of the screen (this can kill your
+organisms and the invaders so sometimes it's helpful, sometimes not so
+much). Only adults can build the spaceship but you need a certain
+amount of adults and young ON the ship to complete the game and
+finally, they eat green blobs of whatever it is they eat. I'm hoping
+that's enough, it was a pretty basic game, TIA!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

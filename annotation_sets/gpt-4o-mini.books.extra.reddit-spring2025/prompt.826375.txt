@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "a dad's memoir about his daughter's cat [s]. I read this
+book sometime in the early 1980s. It was checked out from the adult
+section of the library. It's non-fiction, written by a man about his
+daughter, who is nick-named Twink, and her cat. I seem to remember
+that the girl, who is a toddler at the book's opening and a teenager
+at its close, had a special bond with her pet, who is the main focus
+of the book. Thanks in advance for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [2000-2005] [PIXEL ART] 2D Side scroll PS1 game
+included in a 999 in one (pirated?) disc.. Hello, I've been looking
+for this game since i was around 5 or more I used to have a PS1 disc
+which included i think it was 999 games in which you must enter a
+number in a black interface with white pixelated letters, then
+pressing Start making the game begin. Back then i never memorized the
+numbers so i used to ask my mom which number was for a the games i
+liked the most, one of them being a bomberman game. One day i decided
+to input random numbers in hope i could find something more
+interesting to play, after typing a number i no longer remember i got
+this game on my screen, it was about a snowy looking creature and a
+human (which was the player), i never passed after literally the first
+level because i didn't understand a thing of it, but i sill remember
+some of the game. i drew everything i could remember. IMAGE 1
+CHARACTERS, There was only 2 characters, a human which was the player
+and the snowy creature which moved by bouncing around like a ball,
+that create was always following the player. IMAGE 2 &amp; 3
+MECHANICS. By pressing a button you could feed the creature with a
+white stuff, which made it transform into many objects, the ones i
+remember the most are a blowtorch and a stair. IMAGE 4 SCENERY. The
+scenery was some kind of snowy village, it was night time, the left
+part of the level was blocked by an elevated chunk of terrain, a good
+portion of the level was a flat area with a bunch of street lamps, but
+unfortunately i can't remember the right area. I tried looking for it
+years ago but had no luck, that's basically all i remember about the
+game. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

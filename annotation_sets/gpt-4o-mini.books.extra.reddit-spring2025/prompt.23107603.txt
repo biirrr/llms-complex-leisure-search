@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Science Fiction. Young man can chose his fate and wakes
+up in a clone lab. Spoiler.. Young man can move his mind into his
+parallel worlds Selves that meet his needs and chose his fate like
+getting away from bad guys or find food. But wakes up in a clone lab
+and is completely alone on an empty Earth. He lives in a Grocery store
+with expired canned foods that have little nutritional value but gives
+food to a wild pack of dogs after surviving their attacks, and makes
+them friendlier toward him, He finds a girl that is a clone as well
+and wakes her for company and finds out that his Adult self in this
+universe invented a Traveling Gate to other worlds to save his planets
+people and a truck driver appears and thinks he is a runaway and
+reports him to the Authorities that start perusing him and the girl to
+parallel worlds. That is as far as I made it in the book. I want to
+finish it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

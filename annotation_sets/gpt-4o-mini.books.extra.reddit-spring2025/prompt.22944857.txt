@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "(I think British) Children's Fantasy novel about Drowned
+Kingdom similar to Atlantis. Possibly the [Monsters of] Lyonesse
+series by Sam Llewellyn , starting with The Well Between the Worlds
+(published 2009)? ""The land of Lyonesse is sinking, and the sea
+batters its walls; it has become a place of poison and danger, and its
+people live in an uneasy truce with the monsters that inhabit its
+bottomless Wells. Idris Limpet is an ordinary boy, until the day he is
+rescued from a terrible death and finds himself thrown into an
+astonishing new adventure. Can it be that it is his destiny to save
+Lyonesse? As Idris begins to discover his true self, he learns he must
+rely on his wits, his courage, and his friends in the face of an
+overwhelming darkness that threatens to swallow up everything he
+loves. This epic tale leads readers on an extraordinary journey into a
+world of magic and monsters - a journey fraught with peril at every
+turn. Can one boy and girl stand in the way of a colossal evil with
+its roots sunk deep in ages of wickedness?"" Jack Vance also wrote a
+Lyonesse series, starting with Suldrun's Garden (1983). Craig
+Weatherhill wrote the Lyonesse stone trilogy starting with The
+Lyonesse Stone: A Novel of West Cornwall (1991). And Peter Tremayne 's
+Lan-Kern series , starting with The Fires of Lan-Kern (1980) seems to
+be somewhat based upon the same legend. There are others!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

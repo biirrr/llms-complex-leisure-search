@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/STEAM] [2025] Recently saw ads for a horror farming game
+with someone called Farmer Terry?. Hey everyone, Ive been getting
+YouTube and maybe Steam ads today for a farming game with horror
+elements. I dont remember the name, but I think it involved a
+character named Farmer Terry or something similar. From what I
+recall: - It looked like a farming sim at first  maybe building up a
+farm, planting, etc. - But then it had some kind of horror twist?
+Creepy atmosphere or events. - The name Farmer Terry stuck with me,
+but I might be misremembering that part. - Ads only started showing up
+today (June 10, 2025), so I assume its a newer or upcoming release. -
+I cant find the ads again, and Im not sure how to trigger them
+again. Does anyone know what game this might be? Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Historical Fiction, Mystery, early 1900s. Teen girl works as
+maid in house, mother (also maid) passed. Main family's son returns
+from war in wheelchair, father has dementia? Family secrets. Cover:
+dark blue. Title incl. House? Read ~2014. Spoiler.. Trying to remember
+this book title for a while now. Read it in like 2014 and then again
+in like 2018. Its about a teen girl who works in a house as the maid
+her whole life. Her mum used to be the maid but passes away. There's
+the son of the house who returns from war without the use of his
+legs(i think). He bascially comes back in a wheelchair. Hes like a big
+brother to her. His dad has demensia or something and keeps mistaking
+her for her mother. the book is about her finding out secrets about
+the house and she basically finds out that she is the man of the
+house's illegitimate child and the son is actually horrible. the book
+ends with him trying to kill her for the inheritance. I think the
+son's name was Simon (might just be my imagination). Also i think you
+find out the 'Simon' kills her mother. the book was dark blue and i
+think the title had house in it. I remember enjoying the book and
+wanted to find it so i can look into the author. Didnt seem super old
+when i first read it. Maybe came out in early 2010s/ late 2000s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

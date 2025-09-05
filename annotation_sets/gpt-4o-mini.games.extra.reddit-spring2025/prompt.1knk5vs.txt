@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][19905-2005?] Game about space ship and giant ants.
+Platform(s): pc Genre: Estimated year of release: 1995-2005
+Graphics/art style: low poly Notable characters: giant ants Notable
+gameplay mechanics: the spaceship was in the middle of the screen, and
+it was the planet at the bottom of the screen (which we were flying
+over at low altitude) that, as it rotated, gave the impression that
+the ship was moving. The latter could be oriented in any direction,
+via the mouse or keyboard, I don't remember. I don't remember if it
+was a simple demo or a full game, but the mission was to fly over the
+planet and kill giant ants that were eating the humans present. They
+were displayed on the mini-map, and sometimes nests were formed
+containing a large number of them. The planet was small because you
+went around it very quickly. Other details: small planet, low poly
+style"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

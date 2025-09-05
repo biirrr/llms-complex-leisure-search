@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSP][2000s-early 2010s?] a game about a demon?. There was
+this very obscure psp title I played on my dads handheld as a kid.
+The player character was humanoid, but looked like pure muscle tissue
+and tendons and I was navigating a sort of facility as them. I dont
+have any photos given my limited memory, but any help would be greatly
+appreciated. I want to play this game again!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s Picture Book about monsters under the stairs.
+Read around 1995-1997.. I had a paperback children’s book that was
+passed down to me from my aunt. I was born in 1990 so I probably read
+it around 1995-1997 and my aunt was born in the 70s so it’s possible
+it was published in the late 70s or during the 80s (this assumption is
+based on the illustration style) The cover was black depicting
+monsters under stairs and a girl either peeking under or running up
+the stairs, I can’t remember exactly. The plot was a young girl being
+afraid of monsters under the stairs and the end result was that they
+were actually nice and wanted to be her friend. I believe the girl was
+blonde and wearing a pink turtleneck and blue jeans. Any help is
+appreciated! I found it on a website many years ago but lost the link
+before I could purchase it, never to be seen again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

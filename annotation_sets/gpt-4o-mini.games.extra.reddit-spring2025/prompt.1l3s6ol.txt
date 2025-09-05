@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2005] 2d top down space fighter game with. PC
+Early 2000s 2d top down space shooter When characters talked to you it
+showed their portraits. The game had you destroy asteroids or other
+spaceships and collect resources that you brought back to a circular
+mothership. You could then spend the resources on research or
+upgrading your ship. I feel like the game had space or star somewhere
+in the name. It was likely an indie developer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

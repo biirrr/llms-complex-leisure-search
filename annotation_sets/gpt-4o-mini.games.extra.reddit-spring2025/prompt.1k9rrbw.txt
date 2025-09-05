@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s?] 2D puzzle-platformer about fixing water pipes
+in a post-apocalyptic desert. Hi everyone, I'm trying to find an old
+game I saw many years ago  probably around 10 years ago, but it could
+be older than that. Heres what I remember: It was a 2D game with a
+flat/cartoony graphic style. The setting was post-apocalyptic and
+desert-like, with mostly brown, gray, and blue colors (the blue was
+for water and pipes). The main character was possibly a small animal
+(like an otter or something similar?), but now Im not 100% sure  it
+might have even been a human. The main gameplay was about fixing water
+pipes to get water to some destination (maybe a city or a base?). It
+was a puzzle-platformer  you had to carefully place and connect
+pipes, and it wasnt easy; there were obstacles and challenges. The
+camera angles were mixed: sometimes side-view, sometimes top-down
+depending on the scene. There was some kind of story going on, not
+just random levels. I vaguely remember the main character trying to
+save someone. I specifically remember a scene inside a building, where
+you had to shut off a water valve to avoid flooding and drowning. It
+might have been an indie game, but Im not sure. It definitely wasnt
+a big AAA title. It was on PC (Windows), and I think it wasnt a
+mobile game. Does anyone recognize this game? I would really
+appreciate any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

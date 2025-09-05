@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy, Adult or YA. Young man’s role playing game comes to
+life at the entertainment castle close to his home. [s]. A teenage boy
+or young man plays a role playing game similar to D&D. He lives with
+his single mom in a house really close to a castle used for
+entertainment- kind of like a Medieval Times theme park or event
+space, but with actual grounds to explore. He goes up there maybe to
+work or pick up a girlfriend and somehow he is now in the world of his
+game. Adventures ensue, he has to survive, I know his character in the
+game is Brian Boru and I believe that’s who he becomes. I have it in
+my head that the name of the book was ‘Troll’ but for obvious reasons
+searching for that hasn’t worked out. I would really love to find a
+copy and read it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

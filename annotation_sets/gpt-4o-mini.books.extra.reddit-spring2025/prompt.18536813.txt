@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "4 short stories about children learning to get out of
+situations in which they feel violated. [s]. This was a book from the
+80's. It had illustrations. The first story was about a boy whose
+babysitter towels him down after his bath, and he doesn't like it. The
+second story was about a girl who likes playing arcade games and is
+the favorite of the local old creep. The third story was about a girl
+whose stepfather touches her when he puts her to bed. The fourth story
+was about a boy at summer camp whose cabin mate wants to see him
+naked."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction book miscellaneous history about sex. [s]. So
+this is a non-fiction book, inside it gives you witty fun facts about
+all things sex related few things I can remember are - napoleon love
+letters - a king or noblemen chair ( used specifically for sex) - the
+story about first condom - the story about public adultery court in
+france - info about syphilis in middle aged (?) I bought this book in
+2009, my friend borrowed it, it never returned, and we both forgot
+about the title. Please helpp, it's one of the funniest book i've
+read, thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

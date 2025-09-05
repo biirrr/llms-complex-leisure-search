@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX/PS2] [2004-2006] taxi racing game w powerups.
+Platform(s):xbox /ps2 Genre: racing Estimated year of release:
+2004-2006 Graphics/art style: mario kart Notable characters: taxis
+Notable gameplay mechanics: power ups like a giant disc saw and turbo
+Other details: i remember i used to play this game with my brother and
+i remember u could open different paths on the race by using the power
+ups"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

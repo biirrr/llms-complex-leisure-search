@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox] [2020s]Bmx Parkour Game. Theres a game on my Xbox
+Series X, its a type of bmx game, its got different maps, online
+playing. And its got tricks, first person mode, its got a specific
+map, on a mountain, you go down a drop, and then you have to keep
+momentum along a wall before your dropped down a huge jump. Sorry if
+its not super specific specific"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

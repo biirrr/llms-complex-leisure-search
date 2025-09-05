@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000s Flash] Choose your own adventure flash
+game series. I remember in the first game/episode there were people in
+a high rise office and all of a sudden a guy comes in and holds them
+hostage. The game is focused on choosing the right dialogue options so
+the hostage taker won't kill anyone. I think you play as the hostage
+taker a bit in the first game too. Also all the other entries in the
+series has you playing as different characters but your stories are
+all linked. I remember there being like 4 other sequels? I think in
+the sequel you play as the woman that talks down the robber. It's a
+helluva long shot I know, but any help would be appreaciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

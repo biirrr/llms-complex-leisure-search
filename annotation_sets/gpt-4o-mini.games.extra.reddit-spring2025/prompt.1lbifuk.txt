@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc] [2010-2018] spaceship building rougelike pixel style..
+[Pc] [2010-2018] spaceship building rougelike pixel style. So i
+remember a pixel theme, bright coloured game, where you are flying a
+ship you create out of tetris esque parts and weapons, fighting others
+and dislodging ship parts by shooting the connecting block which you
+can then use yo rebuild or redesign your ship on the fly."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

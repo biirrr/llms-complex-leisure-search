@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 1990's / Early 2000's] Platform game where a guy
+with horns that look like this appears. Platform: pc, can't remember
+if it's from a dvd or a floppy disk Genre: Platform, for children
+Graphics: 2d cartoon style, bright colors Notable characters: can only
+remember that a guy with horns like these (as in black / yellow
+colors) appears, can't exactly remember if he was an antagonist or
+what, but i think you could play as him Anything else: i do remember
+the game had italian language, and that the story included magic of
+some sorts, but nothing else unfortunately Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

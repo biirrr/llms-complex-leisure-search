@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown platform][unknown year] extremely limited
+information with his one sorry. Edit: game name is Bramble: The
+Mountain King I saw a clip of a game on TikTok where a young boy was
+killing a monster (at least it looked like a monster) with a sword and
+after it was wounded the player was prompted to stab the monster
+repeatedly. I discovered through the comments that the game will
+prompt you to stab until you stop on your own. (Also no 100% sure if
+Im remembering correctly but I think the boys family may have been
+killed by this monster or another one) again I know this is very
+limited as I dont even remember what the monster looked like but I
+figured Id post to see if anyone can help. Tyia!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

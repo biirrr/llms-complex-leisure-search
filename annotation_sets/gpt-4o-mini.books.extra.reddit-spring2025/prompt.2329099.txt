@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book on the destruction of books [s]. Hi everyone. I picked
+up this book at a library when I was around 11 on the history of the
+destruction of books (i don't think that is its actual title) anyways
+it is a non fiction book by this guy who grew up in the middle east.
+in the introduction he talks about the destruction of libraries in the
+middle east by bombs and war and stuff. I think it was either iraq or
+iran where he grew up. I need this book for a research project so if
+anyone knows of it and could tell me what it is called that would be
+awesome! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

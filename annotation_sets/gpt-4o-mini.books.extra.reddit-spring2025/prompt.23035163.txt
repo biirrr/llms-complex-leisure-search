@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade fiction about a Black girl and white girl
+becoming friends and sitting in a rocket-shaped structure in a field.
+I first read this when I was a child, about 23 years ago. First
+published around 1995-2005. In it, I remember a scene where the girls
+are coloring and the Black girl sees a crayon called “flesh” and the
+white girl sees and realizes the difference in the shades/tones."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

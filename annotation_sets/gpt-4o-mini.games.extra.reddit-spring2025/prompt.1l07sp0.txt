@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[~2005][Pixel game][Console/PC] want to know the title or is
+it on pc. (some illustration of how i remember it) I'm looking for a
+pixel game. I remember in 2014 year, I was in Bulgaria. There, my
+parents bought me a console. I can't remember the manufacturer, but it
+looks like Nintendo 3DS. It was, like, a low-power console that only
+supported pixel games. It was a game where you had to fly a military
+plane. The missions were to attack targets, but I remember spending
+time just flying around the forest for fun. The style was more
+cartoonish than realistic, I can't say for sure, but I have some
+thoughts about it. Maybe this game was hardly somewhere outside of
+this console, or something like that. But if it is on PC, or there is
+a review of it, then I want to know!!! Please give me a possible title
+and preferably a link to a source where I can check out the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

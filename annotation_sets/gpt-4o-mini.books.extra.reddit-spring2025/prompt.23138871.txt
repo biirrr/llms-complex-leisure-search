@@ -1,0 +1,37 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA girl sharing her red lipstick. She envies girls flat
+chest. Girl envies her fuller one. They lie about their ages, to get
+into a club. I've searched years. Can't find this book. I remember it
+in pieces. I read it in my NYC school library in 2001. Maybe published
+earlier. It's about a teen girl. Loner, brunette, self conscious about
+her big breasts. *Spoilers* There's a scene, where she's at a table
+with busty old ladies and wonders how they don't feel their breasts
+being crushed by the table. She puts her own above the table. She
+meets a girl, her age, taller, short haired blonde, maybe in a
+bathroom. Girl's more experienced. I think I remember the girl sharing
+her red lipstick. She envies girls flat chest. Girl envies her fuller
+one. They lie about their ages, to get into a club, and I think it's
+there, she meets an older man. I believe he's blonde, with the name
+Dylan Thomas, or Thomas Dylan. She compares his name to a poet. They
+get involved. He takes her to meet his Asian ex wife at an event,
+showing of her art, of some kind. He takes her virginity, and compares
+her skin to eggshells. He later introduces her to an older man, I
+remember to be dark haired, and heavy. He convinces her to go a date
+with a male friend. He buys her lobster, I think. Don't know if she
+slept with him, but she later tells her guy, that she doesn't like
+him, and he replies that the guy was really hoping she liked him. In
+the end, she finds him in bed with her new friend, and they act like
+it's no big deal. He pulls her to the side, and tells her, he wants
+them to have a threesome, which the friend seems fine with, but says
+he realizes she's not ready for that. She leaves him, and I think
+that's how the book ends."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

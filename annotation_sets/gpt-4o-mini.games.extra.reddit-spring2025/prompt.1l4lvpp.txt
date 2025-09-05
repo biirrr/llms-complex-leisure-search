@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2015] Asking about a game name. I've been looking
+for a video game that I've had many years ago. It was about a girl who
+found out an ufo in their farm, but I'm not sure if she got a necklace
+in the ufo. After awhile, she continued her journey with a robot. The
+character had blonde hair and when you start the game, it would showed
+up a sunflower and a sunflower farm in the menu background. The game
+would started with glitch effect. maybe the game icon was a compass or
+not. The game genre was adventure or hidden objects (maybe). If
+there's anyone who remember this game, I'll be grateful to comment its
+name or any information about."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

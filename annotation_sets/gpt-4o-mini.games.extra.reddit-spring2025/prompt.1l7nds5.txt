@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/MAC][1980s/90s] Travel agency type game. This may be a
+super long shot but I vividly remember playing this game where you
+book people's travel (or something like that) and I only remember
+playing it at my local children's museum in probably the mid-90s. It
+was definitely a pc game or for one of those old square apple
+desktops, and would have been MS-DOS or floppy disk based. Would
+anyone have an idea of what this was?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

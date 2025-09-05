@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s/2000s?]Point and click/adventure game involving
+mummies and a girl named Moira?. Platform(s): PC Genre:
+Adventure/point and click Estimated year of release: 90s/2000s
+Graphics/art style: 2D Notable characters: I want to say a red haired
+guy and a secondary character was a girl named Moira, the game might
+even have opened with the main character reading or writing a letter
+to Moira Notable gameplay mechanics: Point and click mystery game
+involving something to do with mummies, at one point I think Moira
+almost or does get kidnapped by the mummies? Other details: This is
+all I got, hopefully Reddit can come through for me, this has been
+driving me crazy for years!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

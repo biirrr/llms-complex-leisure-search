@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iOS][20142017 not sure] Looking for this game I played
+when I was younger. Okay. The main character is a girl i think. so,
+the game play is that you fall from the sky, i think you came from a
+comet, and you fall down on this planet, and when you do, you travel
+around, and it's like LIMBO with the features, and everything was dark
+yet brightly colored (my drawing kinda helps to articulate that). The
+game set is like side scrolling. As you progress to the game you write
+down in your notebook, writing what you find like the aliens that are
+mostly spider like, caves with these bright gems and a pet that
+accompanies you (can't exactly remember what the pet looks like). You
+can try to hide within those dark features because some aliens try to
+kill you, and the alien planet has like big mushrooms as well. In the
+end, your pet dies and you die as well leaving your last note in your
+notebook. I've been trying to find it again but it's like the game was
+deleted or smth. i feel insane bc when i try to google it, Limbo,
+Inside, Planet of Lana and Badland just pops up =-"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

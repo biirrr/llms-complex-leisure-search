@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Tragic Time Travel Romance, where the couple fell from
+a tower. A grave was made with a statue of them and the female lead's
+pet monkey wrapped around her ankle. THINK it is a Jude Deveraux book
+but NOT Remembrance. Read in 2009.. I read it in 2009 when I had just
+discovered the paperback romance world. I was mostly reading Jude
+Deveraux books, and theres definitely enough similar theming that I
+have always had myself convinced it was Rememberance that I was
+remembering, but after a recent re-read, that is definitely NOT it.
+The fmc DEFINITELY had a small pet monkey, and the ""future"" version
+of her had a love of monkeys. She had a lamp or something with them on
+it. I also remember a scene where she sat in the bath listening to
+opera (was supposed to be another tie to her past-life self)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

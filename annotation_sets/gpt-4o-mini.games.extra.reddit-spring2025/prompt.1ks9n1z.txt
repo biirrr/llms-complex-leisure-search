@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [BEFORE 2013] City building like game but it take place
+in ancient time. Sorry I dont remember much about this game but here
+are what I remember 1.Its take place in ancient times Im pretty sure
+its either rome or greek 2.when my parents bought me the pc I want
+games to be pre installed and half of them are already completed or
+almost complete which includes this game so I dont remember the
+starting point 3.the graphics are not good and a bit grainy (sorry I
+dont known the right words) 4.im not sure about this but when I open
+the game after looking around a bit there is a fire and I dont know
+how to put it out so I always force quit This are all the things I can
+remember right now I said before 2013 because thats when I got my
+computer it could date all the way back to the 1990s"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

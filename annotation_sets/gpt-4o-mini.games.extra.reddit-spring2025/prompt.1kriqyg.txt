@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Point and Click] [Mid 90s] Myst Style Supernatural.
+Platform(s): PC Genre: Point and click adventure Estimated year of
+release: 1994-1999 Graphics/art style: Realistic 3D setting similar to
+Myst or Riven. Maybe some live action actors. Notable characters: The
+main character we play as we do not see. The game is set where you
+must figure out a supernatural mystery using puzzles and putting
+detective like information together. These is hauntings. If I remember
+correctly the supernatural portion almost transformed you to another
+time. The main time set I remember is during the 40s during WW2 in
+United States. One puzzle I remember is having to spin the radio dial
+to find the correct station that gave a clue or maybe a song. The
+point of the mystery was to find out why this woman killed herself and
+was haunting the area. [spoiler] you finally end up putting the pieces
+of a letter together and find out the letter is stating that her
+husband had been killed in the war. Notable gameplay mechanics: Point
+and click with open world meaning you would have to travel back and
+forth to other areas. Thank you all! Its driving me crazy not being
+able to find it!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

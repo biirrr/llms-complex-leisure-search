@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser-Flash or Unity] [2010-2020?] Puppet/toys
+psychologist adventure game. I remember playing it on typical site
+with flash games, but I don't remember the title. The premise is that
+you are a psychologist and you try to help the toys/puppets with their
+problems. Each toy has a seemingly trivial problem, but underneath it
+is serious one like addiction, trauma, depression. You talk to them,
+use items to calm them down or to push the case forward."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

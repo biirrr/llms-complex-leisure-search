@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2017-2019] A game where you staged crime scenes. I
+remember watching a youtuber play the demo of this game. The plot of
+the game was as follows: a crime boss sent you to
+""""""""assassinate"""""""" individuals and take a picture of the
+crime scene but instead you staged the scene and helped the
+individuals escape the country. You could stage the crime scene by
+using different objects you would buy such as pools of blood, and
+moving the victim's body in certain ways. You would win if the picture
+was realistic enough for the boss to believe you. The characters were
+boxy and there was some minor dialogue."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

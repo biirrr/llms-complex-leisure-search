@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy about a girl who fixes magic, finds love with
+a golden dragon prince and has a brother that turns into a phoenix.
+[s]. No idea who the author is or the antagonists. I read this maybe
+4-5 years ago (2019-2020) YA Fantasy vs Adult fantasy (as there are
+some hot sex scenes) female main character lives in a world where
+magic has disappeared, people used to be able to turn into animals and
+their prince was a golden dragon who flew through their lands. She is
+a healer of sorts and has a brother. She starts to heal people, magic
+starts coming back, she eventually can shift into a dragon, falls in
+love which the prince who was cursed along with the land? and plot
+twist: her brother can turn into a phoenix but has to be killed
+first."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

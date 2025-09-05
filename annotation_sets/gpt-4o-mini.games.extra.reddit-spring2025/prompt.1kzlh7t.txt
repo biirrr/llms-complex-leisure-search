@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [97-2005??] Outer-space resource gathering/base
+building game. *****EDIT - FOUND***** Game is called Dark Reign. My
+dad used to have this game on our PC growing up where you were
+essentially just looking around the planets surface for resources to
+build up a base. Based on the pixelated graphics and Isometric view,
+Id say it was late 90s-very early 00s; the graphics were very similar
+to the original Strong Hold Crusader games that we played and I still
+play. One key thing I remember was that the map and the map HUD was
+completely black until you explored an area. To improve game
+performance there was a small section around your vehicle/rover that
+was brightly lit while the surrounding area was less lit, kind of like
+a dull gray. I remember very little details as I played it when I was
+probably around 10-12 years old (I'm 28 now). I very vaguely remember
+running into robots or aliens or something when you were exploring. I
+wanna say it was """"""""\_\_\_\_\_craft"""""""". I know it wasn't
+StarCraft, and from what I've seen online when googling different
+things i remember, I cant find anything in Google images. I did
+stumble upon a game called OutPost 2, and it looks very close to what
+I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

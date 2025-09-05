@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Switch] [unknown] Game where you change the world map. Its
+a game where you only see a world map, and then there are characters
+who say something, if you believe them you draw the world map
+different, and if not then the world map stays that way. I think it
+was hand drawn. Almost a graphical novel. I saw it a few years ago on
+the switch. Can anyone help? Sorry for the english. Solved!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

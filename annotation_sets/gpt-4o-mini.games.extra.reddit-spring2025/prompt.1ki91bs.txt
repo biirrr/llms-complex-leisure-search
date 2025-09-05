@@ -1,0 +1,41 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Vertical pixelated shooter] [Possibly early 2000s,
+played around 2010] [2D top-down, alien invasion theme, J+64
+emulator]. Hi! Im looking for a retro game I used to play many years
+ago (i'm 18 so is not that old), but I cant remember the name. Here
+are the details I recall: * **Genre**: Its a **2D space shooter**
+with **vertical scrolling** (the ship moves left and right, and
+enemies come from the top). * **Story**: Theres an **alien
+invasion**. I dont remember much about the storyline, just that the
+ship fought against space enemies. * **Ships**: You could choose
+between **three ships** of different colors: blue, green, and red.
+Each ship had a different type of shooting: * The **blue ship** fired
+a laser. * The **green ship** fired projectiles in the shape of an
+arc, like a """"""""C"""""""". * The **red ship** also fired
+similarly. * **Graphics**: Im not entirely sure, but the game might
+have been **3D or something close**. The ships and enemies had a
+futuristic design, like *Star-Lord's* ship in *Guardians of the
+Galaxy*. Also i varely rememver that the was pixelated. * **Text**:
+There were **no voice lines**, only text on screen. The game was in
+English, but didnt have a detailed storyline. * **Emulator**: It was
+part of an emulator called **J+64**, which also had games like
+*Bomberman 64*, *Mario Kart 64, zelda and others from ps1*. *
+**Settings**: at the begining we had to get out or in the ship and
+then we move into the **water or the sea**. # Games I considered: *
+**Raystorm**: This one came close, but it was 3D and not quite the
+same. * **Giga Wing**: Similar but not the one I remember. *
+**Rayforce**: Close in style but not exactly it. # Games I ruled out:
+* **Einhander**: Too different, 3D. * **Starblade**: Close but not the
+one I played. Ive been searching for this game for years, and I cant
+find anything about it. If anyone remembers it, I would really
+appreciate any help. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

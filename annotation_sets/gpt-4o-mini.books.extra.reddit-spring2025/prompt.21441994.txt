@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction/self-help: Women and careers, 1990s-2000s? [s].
+My aunt gave my mom this book in the late 90s, early 2000s. I'd guess
+maybe 1997-2005 as a general range? I think it was white and the cover
+was this amazingly silly photoshopped image of a woman in a business
+skirt suit balancing or juggling a baby and a briefcase, or maybe like
+baby toys and a laptop or something. The topic was something about
+""can women have it all?"" I think it was hardback, too, if that
+helps."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

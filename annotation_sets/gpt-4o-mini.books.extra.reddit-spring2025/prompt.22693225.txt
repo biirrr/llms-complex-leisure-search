@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Science. A somewhat controversial
+scientist who studies other homo species discovers proof, he thinks,
+of using fire and perhaps cave markings. Published in 2022-2023. [s].
+I got this from my library's new shelves so it was published either in
+2022 or 2023, though I think it was in 2023. I read it in September I
+believe and I had seen it advertised on Goodreads on the top banner.
+It was a hardcover. The man who wrote it teaches I believe in Cape
+Town at an university. He is the head, I think, of the team
+investigating other homo genus in Africa. They are do explorations of
+cave for this particularly species he has studied the last couple of
+years. He believes that they used fire and maybe even made cave
+markings. Some scientists disagree with his arguments so he is
+somewhat controversial. He lost 50 pounds so that he could go into the
+caves to get a look where they found bones and indication of the
+species. The species was smaller than homo sapiens. He got stuck on
+the way out and it took a while to maneuver himself out. Thanks you."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

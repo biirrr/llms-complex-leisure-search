@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens/ YA fiction set in post-industrial future England,
+only roads and a few cars remain. I read this in about 2018, but sure
+it was quite a bit older. I think it was by someone who usually writes
+for adults (had in my head it was Jane Gardam, but have looked at all
+her books). It's about a family, several children, possibly a cousin
+or two, on a farm in (possibly Yorkshire) England. It's in the future
+where some crisis ( I can't remember if this is explained) means they
+have gone back to a simple agricultural way of life, with only the
+roads / motorways as a reminder of how life used to be. I think they
+find enough fuel to use a last remaining car towards the end of the
+book. I really enjoyed it, and thought I would remember who it was by
+and find it again. But clearly I can't."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

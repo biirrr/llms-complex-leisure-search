@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps2][2005] torchlight like with base to defend.
+Platform(s): ps2 Genre: hack &amp; slash Estimated year of release:
+2000 Graphics/art style: 3D Notable gameplay mechanics: torchlight
+like Other details: its like torchlight but from time to time you will
+get an alert to defend your base, you need to upgrade the base too
+like turrets."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

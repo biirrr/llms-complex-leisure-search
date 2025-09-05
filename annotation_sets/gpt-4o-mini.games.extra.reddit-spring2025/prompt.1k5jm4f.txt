@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015(maybe)] minecrafty game where you'd rank up to
+make it automated. The graphics are like old Minecraft textures. You'd
+start with a pickaxe, mining random blocks like stone, oak logs, and
+dirt. Then you'd craft sticks and other items to unlock more stuff,
+like villagers working for you. https://preview.redd.it/smwwrpjrpgwe1.
+png?width=800&amp;format=png&amp;auto=webp&amp;s=d901bac5ae24e76fcb1ff
+29ff4e8c4096a133c6e"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

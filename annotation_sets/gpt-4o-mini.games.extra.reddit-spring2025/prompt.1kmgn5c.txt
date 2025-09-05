@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows 95-ME][Mid 90s I believe at best] A pre-installed
+demo rpg game for windows. In the early 00's, I got an old laptop at a
+garage sell. Idr what laptop it was nor what the system was, but I
+believe it's windows 98 or me but it was at least 95. On it had
+several games as demos that you could mail money to an address and
+they would unlock the game or give you the full game. One of them was
+an rpg which had a tilemap system with distinct rpg classes. I simply
+remember getting stuck in the wall through some magic spell and I
+could get out of it but I wasn't a high enough level to cast the spell
+so I created another character to cast that spell to get that
+character out. The tilemap has dungeon levels which, I think, stopped
+at level 1 or 2 for the demo. There were mobs you could level up from
+and it was a rather typical rpg, but you could use the arrow
+directional pad to move through the tilemap. As far as the art, I
+remember it being very simple. I vaguely remember there being a
+regular screen where combat happened, but I mostly just remember the
+tilemap."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

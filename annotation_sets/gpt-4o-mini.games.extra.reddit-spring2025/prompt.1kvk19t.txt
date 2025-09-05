@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPad][2011-2015] 3D Game: Boy is in an alien invasion
+rescuing his family. The game starts with a short story. The news
+reports that the world is being invaded by aliens and they're
+abducting humans. They take our protagonist's family, and he must work
+up the courage to get them back. From what I remember, the protagonist
+is blond and wears a metal colander as a helmet. The game is in 3D,
+and we have to go find a plasma-like weapon. I think the weapon shoots
+blue plasma. The aliens are like green jelly, and I think they had red
+eyes. There were some not-so-difficult bosses. The map is like a town
+with medium-wide streets and ordinary houses with gardens. The game
+has slightly saturated and striking colors. The game was for iOS, but
+I haven't found any information about it. Sorry for the vague
+information, I played the game when I was about 5 years old. I had fun
+playing it. Good luck, and thank you very much. I can answer any
+questions."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

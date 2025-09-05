@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Cook book describing preparation of single meal maybe
+written by a monk. I read an excerpt of this book in Lapham's
+Quarterly at least one or two years ago. The excerpt was a very
+detailed description of cutting up an onion, how when you slice it
+open, it expands like it's been under pressure, and the halves do not
+fit together. I looked up the book it was from at the time -- it was a
+long sort of novella written perhaps by a monk in which he describes
+how to prepare an ox or lamb or something over the course of several
+days. It's basically a 200 page prose recipe with spiritual overtones.
+I think the title may be something like ""How to cook a lamb in three
+days"" or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

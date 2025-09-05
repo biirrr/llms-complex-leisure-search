@@ -1,0 +1,41 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Short Story anthology about virginity loss. Title may
+have been First Time or Cherries?. I think I read this between
+2007-2013. I don't remember if it was fiction or nonfiction. I
+remember most of the stories being between opposite sex partners, but
+some same-sex stories. I think there were a dozen stories. The title
+may have been First Time or something to do with cherries? I remember
+cherries on the dark blue or black book cover. One was of a girl who
+didn't want to have sex before marriage, and it hadn't come up between
+her and her boyfriend yet. They were passionately kissing and she
+shifted position on the couch, accidentally crushing a bag of chips
+with her back. ""Very few people think about chips in the heat of
+passion. But tortilla chips have very pointy edges."" The girl's name
+was possibly Beth? She told her boyfriend she wanted to wait and he
+was a little surprised, but fine. They went out for Italian food. The
+server asked if they wanted extra virgin olive oil and they both
+laughed. ""I can bring you butter instead,"" she suggested. ""No,""
+said the boyfriend, taking Beth's hand and smiling. ""This is right.""
+I think the story was called Extra Virgin. Another story in the
+anthology had a title with a math pun. The POV character was a huge
+math nerd. He would give himself pep talks while biking up the hill to
+school. ""Man, I'm feeling kind of obtuse,"" he'd say during a bad
+day, and then, ""I'm feeling absolutely acute!"" on a wonderful day.
+He had a huge crush on a boy in his class, who he was assigned to
+tutor. The boy's name was Matt. After they had sex, Matt ignored him
+and hissed at him when he tried to ask why Matt was ignoring him. Matt
+used homophobic slurs. The POV character realized Matt was struggling
+with his sexuality and he didn't want to have to comfort Matt, since
+he was already out and it had been a hard journey. I think one of the
+stories written about two women having sex involved Catholicism and
+guilt. I'll comment if I remember anything else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

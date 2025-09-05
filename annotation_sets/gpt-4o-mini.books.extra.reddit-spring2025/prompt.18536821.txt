@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy Graphic Novel. Girl with red hair finds out she has
+water? powers. Read around 2010-2012?. Hi I've been thinking about
+this graphic novel lately but I can't remember the name. It was
+fantasy genre. I read it around 2010-2012 I think. It's about the girl
+with red hair and she finds out she has powers. I don't remember if
+she is a witch or a fairy. I believe she has water powers and the
+powers might come from a necklace or something of the sort. She later
+fights crimes and evil people and stuff and there are other girl who
+help her. THIS IS NOT winx club but similar to it. Thanks in advance"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

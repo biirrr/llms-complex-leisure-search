@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "History book on clocks and time measurement: water clocks,
+sun clocks and year calendars (created from sun and moon clocks). [s].
+I started reading this book twice, first it was around 10 years ago
+and last about 5 years ago. I have tried to find it under ""Hunters of
+time"", ""Time keepers"" and things like that. The genre is History.
+It starts from water clocks, sun clocks, moon clocks... describing the
+importance of these clocks for agriculture and normal life. Then
+describes the calendars and how these are a reflection of both sun and
+moon clocks. I really I don't remember more details but I do remember
+that it was quite amazing and interesting topic. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

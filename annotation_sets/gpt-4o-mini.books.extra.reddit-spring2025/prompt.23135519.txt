@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Realistic Fiction about Climate Change and Storm Trauma;
+real disasters mentioned.. Hey, long time no see! This book has been
+on my mind lately and I need to read it. But I can't remember the
+title! I saw this on a list of newly-acquired/soon to be published
+books. This was late 2010's, around 2017-2019. It was YA with a female
+author and was likely American given the subject matter. There wasn't
+much available for it, just the synopsis. The author said she wrote it
+as a response to climate change and how global warming is making
+storms worse and more frequent. The actual book was fictional and for
+YA. It was about a girl with storm trauma from Hurricane Harvey
+hitting her home who ends up going to a support group for storm
+anxiety. There she meets a boy who is mentally shattered from a
+devastating tornado outbreak in the Midwest. I don't remember which
+outbreak this was, it could've been made-up by the author or I just
+don't remember the specific one used. Unfortunately that's all I
+remember because like I said, this wasn't even published yet when I
+first saw it. Did it ever even get published? Is it completely
+different if it did? I guess I'll find out!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Prob early 2020s] A guy got kidnapped with a PC to
+chat. The game was about a guy that got kidnapped and now he's in a
+room with just a PC and you can chat with him, and you can gain his
+trust but if you don't play it for a while the trust Will drop, and
+you need to help him find a way to escape, and it has multiple
+endings. I'm 75% sure the game was in pixel art."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

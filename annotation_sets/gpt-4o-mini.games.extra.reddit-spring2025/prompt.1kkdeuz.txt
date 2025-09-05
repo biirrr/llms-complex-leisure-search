@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2010s] 3rd Person SciFi shooter. Platform(s): PC,
+could be others but definitely PC. Potentially used the old Games for
+Windows Live. Genre: Scifi, 3rd Person shooter Estimated year of
+release: 2011-2013 Graphics/art style: Quasi-realistic, a tiny bit
+cartoony like cel-shaded, but **mostly** realism. Kind of like a
+shittier version of how Jedi: Fallen/Survivor looks today. Notable
+characters: None. Notable gameplay mechanics: Had some sorts of like
+sci-fi or magic powers, mostly was shooting and platforming. IIRC you
+were mostly exploring linear-ish levels outdoors (again akin to Jedi:
+\* games). There was a flying or levitating mechanic. Definitely
+something with fighting humanoid baddies, and maybe(?) fighting small
+dinosaur-ish monsters of some kind. Other details: Was **not** a star
+wars game or anything related to a well-known scifi franchise. It was
+a kind of shitty scifi game set on some random planet. Probably wasn't
+a sequel, it was an original game. It got minorly negative reviews and
+was not very popular. It had a decently large budget (wasn't indie
+probably) and was sold in big stores like Best Buy around the
+2010-2013 period. I remember buying this game from best buy and
+playing it as a kid but I **cannot** remember the name and google-fu
+is no help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

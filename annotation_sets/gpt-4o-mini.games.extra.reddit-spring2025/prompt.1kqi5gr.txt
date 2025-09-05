@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 90s-early 2000s] Character cards (Orc, Dwarf, Dog,
+etc.) used for a dungeoncrawler. **Platform(s):** PC **Genre:**
+Adventure / Dungeoncrawler **Estimated year of release:** Late 1980s -
+1990s **Graphics/art style:** Drawn graphics, top down dungeoncrawler
+**Notable characters:** You had the choice to recruit several
+characters based on 'points' assigned at the beginning of the
+adventure. I recall a male Hero (older dude with a brown helmet
+brandishing a sword), an Amazon, a Dwarf (could disarm traps), an Orc,
+a dog (prevented ambushes), can't recall if there were others. There
+were character portraits of each of the characters which is my
+strongest memory and I recall Orc/Dwarf/Dog being a popular combo
+based on the amount of points you could recruit. Either the Hero or
+Amazon could be partnered with a dog as well. **Notable gameplay
+mechanics:** It was a dungeoncrawler where you descended down through
+some sort of labyrinth, dealing with random encounters. Based on who
+was in your party, certain things would or wouldn't happen. **Other
+details:** This came on one of those old """"""""Best 200 Arcade Game
+CDs"""""""" but I can't recall the specific name. I've attempted to do
+a few searches for this and Dungeon Master is the most common result
+but that wasn't it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

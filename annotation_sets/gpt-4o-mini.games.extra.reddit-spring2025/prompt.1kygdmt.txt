@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [2010s] 2d platformer with retro graphics about a
+knight slaying monsters. Platform(s): PC Genre: platformer Estimated
+year of release: 2014 Graphics/art style: pixel art, retro Notable
+characters: a knight with an open visor in the helmet, boss - a
+monster consisting of many interconnected spheres. By destroying them,
+we shortened it. Notable gameplay mechanics: ... Other details: At
+first, we crossed the moat to get to the castle. It had permadeath and
+colorful graphics, game looked a bit like from NES, probably with some
+grain effect. I'm not sure, but I think the title consisted of two
+words joined together, something like HypeCastle, HexKnight. It is
+very possible that it began with the letter C. Metroidvania games like
+'The Messenger' and 'Axiom Verge' reminded me about that side-
+scroller. Although that game had 'closer view': faces of characters
+were bigger and 'clearer', had more details (like eyes)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

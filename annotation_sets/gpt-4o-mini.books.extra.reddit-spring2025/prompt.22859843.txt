@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Twin sister poses as her twin and is abducted
+to Italy (Sardinia or Sicily possibly) by rich Italian. I think I read
+this in the 1980’s. [s]. Twin sister poses as her twin to enable her
+twin elope with her boyfriend. Boyfriend’s big brother comes on scene
+and demands she comes to Italy with him ( ? abducted her). Loses her
+virginity to brother. Occasionally humorous. Twin eventually escapes
+on back of a motorbike. Cover of book had woman’s lips. Can not
+remember title at all but possibly ‘love’ ‘desire’ or ‘sin’ in title
+but might just have imagined it lol."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

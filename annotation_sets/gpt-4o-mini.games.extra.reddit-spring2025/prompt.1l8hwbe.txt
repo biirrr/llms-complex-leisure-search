@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] 2D side scrolling pogo stick game. Platform(s):
+PC. I remember playing this on a Linux system. It was part of a dump
+of miscellaneous games. Genre: Platformer? Estimated year of release:
+2000s, no later than 2009. I played it in '07 or '08? Graphics/art
+style: Flat and minimalist. The closest thing I can think of
+(especially in terms of the color scheme) is Sugar, Sugar. I remember
+candies (namely peppermint swirls) being a main part of the stage
+designs. Notable characters: There was at least one character with a
+hat and overalls. I feel like there were two of them for a co-op mode.
+Very reminiscent of the Mario brothers, except faceless and without
+mustaches. Notable gameplay mechanics: It was a platformer where you
+used a pogo stick to navigate a stage. I don't think there were any
+enemies, just obstacles like spike traps. Other details: I played this
+during a part of my childhood that I struggle to remember, so there's
+a chance I may be recalling aspects from different games. Pretty sure
+it was an unfinished project from some indie developer."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

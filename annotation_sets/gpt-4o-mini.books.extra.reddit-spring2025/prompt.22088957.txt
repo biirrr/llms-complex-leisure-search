@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir/ Autobiography about sailing in the Mediterranean. I
+thought it was called 7 summers. [s]. It was written by a Sydney
+woman. She and her husband sailed the Med for many years. He fell ill
+in France and was diagnosed with cancer. Can anyone shed any light on
+the title and author please. I think I read it about 15 years ago"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

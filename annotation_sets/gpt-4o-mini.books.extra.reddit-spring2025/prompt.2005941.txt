@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Smile at the thing in the pool [s]. Hey all! I need help
+finding an old picture book. It was read to me when I was little in
+the late 80's. The main character was an anthropomorphic
+animal/monster. I want to say it was a porcupine, but it might have
+been a raccoon or something. Every day, the character would have to
+walk by a pool (or maybe over a bridge), and he would see a ""Thing""
+in the pool that scared him [SPOILER: his reflection]. He asked lots
+of other animals/characters how to deal with the ""Thing"", and they
+gave him aggressive answers (make a scary face, shake a stick at it),
+to which the ""Thing"" always responded in kind. When he finally asks
+his mom, she tells him to ""smile at the thing in the pool"", to which
+the ""Thing"" also responds in kind, and makes our little protagonist
+feel better and less scared. I hope that's useful and not too spoiler-
+filled. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

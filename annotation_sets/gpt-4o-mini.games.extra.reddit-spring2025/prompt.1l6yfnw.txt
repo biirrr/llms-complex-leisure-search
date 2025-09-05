@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015-2020] Voxel ninja games. Platform(s): PC Genre:
+Action Estimated year of release: 2017-2018 Graphics/art style: Voxel,
+paint the town red kind of deal. Notable characters: None, main
+character was a ninja/secret agent Notable gameplay mechanics: You had
+abilities like plungers you could throw and stick to the wall and
+climb on as well as different weapons like a blow dart or a katana.
+Other details: was pretty popular on YouTube, videos by Mattshea and
+CaptainSauce I think, popular around the same time as Burrito Bison
+and those Eat the planet games"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

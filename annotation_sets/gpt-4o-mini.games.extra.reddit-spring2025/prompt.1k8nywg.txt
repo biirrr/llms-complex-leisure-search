@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox] [unknown] Underwater survival with a twist.. I can't
+remember the name of this game for the life of me. I know it's not
+Still Wakes the Deep or Bioshock. But it was an underwater game (I'm
+sure) where you have to survive your way through a wreck haunted by a
+ghost or helped by a ghost. All the while there is a narration of an
+interview detailing the escape whoch you think is you. At the end:
+SPOILERS Turns out the one doing the interview is a colleague who
+escaped right in front of you to the escape capsule and the ending
+scene is you accepting the ghost and walking along the ocean floor
+bed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Mac][Early-mid 90s] FMV shooting game that Im pretty
+sure had Red somewhere in the title.. It was a game I played with
+friend on his Mac at the time, Im pretty sure it was relatively
+contemporary for the time but it was just a cheap FMV rip-off of
+Lethal Enforcers we played with the mouse. I dont believe it was ever
+in the arcades so I dont think it would be a port. The only set piece
+Im pretty sure of is that there was a train yard or a train junkyard,
+or just a regular junkyard. I dont remember any of the characters, or
+if it even had any."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

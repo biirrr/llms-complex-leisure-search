@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90-2006] Fantasy 8-Bit 2D Platformer.
+**Platform(s):** PC? I'm not sure if it was a PC exclusive, but I
+played on Windows 2000 or XP **Genre:** 2D side-scrolling platformer
+**Estimated year of release:** Between the 1990s and 2006
+**Graphics/art style:** It was very colorful, with vivid colors
+(Shovel Knight like) and a fantasy setting; it features more 8-bit
+graphics than a pixel art style, likely due to the time it was
+released **Notable characters:** Unfortunately I remember very little;
+I recall some bouncing yellow ball-shaped enemies, which probably
+bounced in place and served more as environmental obstacles than
+actual mobs. If Im not mistaken, there were also snail-like enemies
+**Notable gameplay mechanics:** It was very basic, but I remember very
+little; similar to Super Mario Advance 4: Super Mario Bros. 3 with
+less verticality though, and a little bit zoomed **Other details:** I
+remember some kind of braziers with blue flames and levels set in
+caves"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

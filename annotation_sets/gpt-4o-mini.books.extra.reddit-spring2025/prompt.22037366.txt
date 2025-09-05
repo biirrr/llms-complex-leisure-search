@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, large paperback compendium of entries on odd
+topics with company/org phone/address details to get further info
+about ""everything"". [s]. I read this as a child in the 80s but I got
+it at a thrift store so I am not sure if it was an 80s book. It was
+non-fiction, paperback, had cartoony illustrations throughout, and was
+a sort of giant compendium of odd or uncommon things. Each entry had
+contact details to call or mail-in to various places or organizations
+for more information. Some entries also included instructions to make
+something or brainteasers to try. As a 6 year old, I thought it was
+encyclopedic and held resources about everything in the universe."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

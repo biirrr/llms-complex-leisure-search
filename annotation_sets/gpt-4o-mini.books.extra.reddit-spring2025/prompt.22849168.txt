@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fiction, Time Travel. The book cover is blue with plain
+windows and little gimmicks like a whale or a traveling back. There is
+this girl and she has a cat. I remember in the beginning the cat dies
+and she has a guy that she sort of dating and she works at the
+bookstore and at the beginning of each chapter. It says a time like 30
+minutes before ( iforget, her name) decided to die. Then when she does
+die, she gets transported to a library of second choices. the
+librarian is a school teacher librarian, that she liked. Then she
+finds the big book about all the choices in her life that she regrets
+and she gets to choose which ones to undo one by one and she gets to
+realize a live if she had chosen different"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

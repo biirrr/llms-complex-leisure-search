@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] Looking for an obscure old PC CD-ROM game. Hi
+everyone, I'm trying to remember the name of an old PC CD-ROM game I
+played around 1015 years ago. It had a story mode that felt like a
+point-and-click adventure, with semi-3D graphics and anthropomorphic
+animal characters. One scene I remember vividly involved a pig
+character (possibly wearing a green pullover/sweater) inside a house,
+early in the game. At one point, you click on a kitchen cupboard
+that's chained shut. When it opens, the pig says something like *Open
+sesame!*. I think the player helps him cook something right after
+that. There were also mini-games scattered throughout the game that
+used the same visual style. I dont think the game was very well
+known. Only one friend I knew had it, and Ive never been able to find
+any images or references to it online since. Any help would be hugely
+appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

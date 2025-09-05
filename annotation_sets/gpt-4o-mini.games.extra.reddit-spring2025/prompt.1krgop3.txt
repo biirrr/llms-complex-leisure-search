@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Not sure, but out for awhile] [Slay the Spire but with
+a party]. Platform(s): Steam, not sure if it came out on consoles or
+not Genre: RPG Estimated year of release: 2020? I don't know
+Graphics/art style: 2D, more cartoonish (western) than anime looking
+but still looked nice. Was not pixel art Notable characters: I forget
+the characters' names, but they all had typical rpg classes like
+rogue, paladin etc. Notable gameplay mechanics: Your party is in the
+left side of the field. All characters (you and the enemies) have
+their own individual turns. Movement, positioning, traps etc. There
+was deck-building for each of the player's characters. I think each
+character had three archetypes you could select from as soon as you
+got that character. I remember there being a male rogue, a female
+paladin, a male swordsman, an old man wizard, and some others but I
+forget. There's a town when you begin, and the town has various
+buildings and shops. Blscksmith, a church or inn or both, etc. Your
+characters wore different types of gear such as weapons, armor, belts
+and whatnot. Deck-based combat, and some gear had built-in 'cards'.
+The game begins with, I think, that first town being attacked by a lot
+of undead. The map had individual nodes that you could travel to and
+from, and sometimes events would occur. I think the cards were in
+green/red/blue format, with green being like agility or dexterity
+(rogue), red being melee or strength (swordsman) and blue being for
+magical things and intelligence. Other details: I could be wrong, but
+I think the name started with a 'G'"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

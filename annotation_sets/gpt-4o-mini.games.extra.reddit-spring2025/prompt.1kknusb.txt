@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2008-2012] A track racing that have an alternative
+""""""""command mode"""""""". Platform:PS3 Genre:Racing EYoR:2008-2012
+Graphics/Art style: it's your basic realistic track racing graphics
+Notable character:nothing Notable gameplay mechanic: it's a normal
+track racing, and while yes you could drive and race around in a car I
+mostly don't do this so I remember basically nothing on that.
+Meanwhile there's an alternate mode where you command the driver and
+can tell them to do stuff (e.g pit and stuff) and watch the race play
+out Other details:I don't remember anything else. I mean other than
+well it's just a track racing and everything that's above. Oh yeah and
+the command mode is a separate game mode than the normal racing mode
+(e.g you can't switch between them in the middle of a race)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

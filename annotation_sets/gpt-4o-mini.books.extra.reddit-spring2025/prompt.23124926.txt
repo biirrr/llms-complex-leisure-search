@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult fiction. Irish neighbors gossiping and telling stories
+to each other. Cover: orange/ yellow, 2 women sitting & talking in a
+black-and-white picture. Irish author.. Hello! I saw a book in a
+bookshop the other day, very interesting, but then I forgot the title!
+I know it is a book about Irish neighbors gossiping and telling
+stories to each other. Each chapter is a story they tell (or at least,
+this seemed to me by the quick look I had). The cover is
+orange/yellow, and there are two women sitting and talking in a
+picture in black and white. The author is Irish. The book was
+published in 2024/2025 max. Or quite recently. I think (but I am not
+sure) that the title started by M. If you have any idea it would help
+me a lot. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

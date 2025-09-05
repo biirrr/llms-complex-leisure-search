@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1][2000s] help me find a vampire hunting game.
+Platform(s): PS1 (Playstation) Genre: Vampire-hunting/demon hunting
+kind of Estimated year of release: 2000s Graphics/art style: gothic
+vampire style (like really dark themed) Notable characters: A guy with
+sword and shotgun Notable gameplay mechanics: it was a third person
+game 3D Other details: If i remember correctly, you first start off in
+smokey kind of village in first level and the main guy is wearing
+black cloths and have a sword with a shotgun. you kill some kind of
+vampire or ghoul type of creatures. in the first level you have some
+kind of steel door that when you go to it you get to meet a vampire
+type girl that tells you that you have to kill the creatures first in
+this area in order to proceed to this metal big door."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

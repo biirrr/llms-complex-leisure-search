@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA or Children’s Fantasy book. I remember a few bits from a
+book I read as a child but I haven’t been able to remember the rest of
+the book or find it.. I think the book had a boy or two brothers who
+went into a alternate world I think there was a island with fairies on
+it somewhere in the world and a black fairy who was involved in the
+worlds politics somehow and the world was in the middle of a major war
+and one of the sides was on the brink of a technological revolution. I
+think the main character was poisoned or cursed by the black fairy at
+some point."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

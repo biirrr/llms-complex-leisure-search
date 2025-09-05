@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000-2005] [PC] Game with Knights of Apocalypse. Hi, hope
+you can help me figure out the title of this game I used to play when
+I was a kid. All I remember is this detail about being a sort of sim-
+city like game with an inferno theme. When you were not playing well,
+there were plagues and diseases, and the final step was having knights
+of apocalypse surfing on lava wiping out your city. Thanks for
+pointing me in the right direction and finding this gem!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPhone ][unknown] story game with murder mystery.
+Platform(s): iPhone AppStore idk if its on anything else Genre:
+interactive Story game Estimated year of release: I dont know
+Graphics/artstyle: I dont really remember, I think it mightve just
+been a typing story but dont take that too seriously because I dont
+remember Notable characters: I dont completely remember but on the
+story I played on there you played as this guy, there was also a some
+kind of moody alternative girl i think? And some other girl that
+nobody liked for some reason, those 2 mightve been the same girl
+though. then theres the old ish man that took you to the island on a
+boat, and then a maid of some sort that was the first killed. Thats I
+all I can remember but I know there was more people. Other details:
+this is a story game with a few different stories (not many) but I
+only read the one where you were playing as this guy that was going to
+a party on an island with a huge mansion and then people started being
+killed. I think the icon had orange on it, and I remember a part where
+they played spin the bottle and I think something happened there. Also
+I think when the maid was killed she had stab wounds and maybe was
+hung? Let me know if you have any questions, Im so desperate to find
+this game again lol Ive been looking everywhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

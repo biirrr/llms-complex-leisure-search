@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Kids book. Young orphans join uncle at circus.. I read
+this YA/kids book sometime in the 90s, I think. I believe it opened
+with a boy & girl twin pair losing their parents. I vaguely remember
+they had to run away from thier guardians to get to their uncle. Their
+uncle was part of a circus, and they didn't get along too well? I
+think the boy was always wearing gloves and being made fun of. At one
+point, he tried to do something nice for his uncle and washed his car
+--and then they squabbled, so the boy smeared mud on the bumper.
+Eventually they made friends and started helping out on the
+preformances. I would like to introduce this to my kiddos now, and
+cannot remember much more about the book, other than I liked it.
+Thanks so much! I believe the author had a large number of kids books
+that my siblings and I enjoyed, but for the life of me I have no idea
+what her name was."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

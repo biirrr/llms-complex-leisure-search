@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] WW1 dogfighting game. Platform(s): PC Genre: 3D
+Ariel Combat Estimated year of release: Early to Mid 2000s
+Graphics/art style: Artsy, not hyper realistic, the weapons fire in a
+slightly cartoonish way Notable characters: I remember seeing the red
+baron plane, the red 3 winged one somewhere, other than that there are
+no cutscenes or humans that appear as far as I remember Notable
+gameplay mechanics: The game is mainly played in a 3rd person
+perspective. Nothing complicated, I used mainly a mouse to control the
+planes movement but I cant remember if theres an option to use a
+joystick Other details: You can use both german and allied biplanes,
+the german planes have an iron cross on the wings painted"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2004] RpgMaker type PC game. Platform(s): PC Genre:
+Turn based Role Play Estimated year of release: 2004ish? Graphics/art
+style: Pixelated Notable characters: I cant remember too well Notable
+gameplay mechanics: Non-linear, seemingly open world with alot of
+dangerous areas. Other details: Possibly the first or second game in a
+trilogy, or it may have just been two games. Name may have began with
+an L. I just remember it having alot of random and cool areas, some
+were very dangerous, besides that it was a pretty generic RPG."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

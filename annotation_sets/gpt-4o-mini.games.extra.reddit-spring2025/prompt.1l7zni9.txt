@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1995-2000] kids adventure/maths game with girl and boy
+defeating monsters in castle ruins. Arghh I can literally see this
+game but am struggling to explain what its purpose was exactly but I
+think there was math involved, it was on my Mums computer and I
+played in the early 2000s, this game couldve been earlier in the 90s
+I remember each round you swapped from girl to boy and are escaping
+through castle ruins completing math equations to defeat monsters, (?)
+it was like Mario POV where you see the characters jumping up or down
+levels I also recall climbing a tree at some point in the game ??? The
+sounds it made were very 8-bitty, the style couldve even been 8-bit
+Thanks in advance for anyone who may remember this& I know its not a
+lot to go off of, feel free to ask questions :-)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

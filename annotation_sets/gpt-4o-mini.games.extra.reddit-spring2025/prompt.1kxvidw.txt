@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii][2010] Farming Sim(?)/Slice of Life. I got recently got
+reminded of this Wii game I played with my sister sometime between
+2009 and 2012, when I was a kid. We no longer have that Wii, so I
+can't just go through the save data to find its name. We never owned
+it either; it was on loan from the library and we never got far, so I
+can only really vaguely describe the intro. It was an open-world game
+that starts with you getting given a farm, and I'm pretty confident it
+had an anime style. A lot of the draw seemed to be exploring the town
+it was set in and meeting the locals, and the parts we played had
+barely any combat. The only encounter we actually had was after
+climbing a beanstalk, where you'd be accosted by a short creature
+that's guarding a sword. Being children who were not good at
+videogames, we always lost that fight and ended up respawning at the
+hospital. There was a character introduction where a girl runs into
+you after you leave a building, there's a mechanic where you get a
+cold if you stay out all night exploring... but my memory of any of
+this is hazy at best."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

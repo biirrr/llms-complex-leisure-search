@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS] [2000-2012] monster creation game. It was a game of
+creating zombie monsters. They were very customizable: you could
+change their arms, legs, torso, head, and so on. Each part had
+different abilities. Then you had to make them fight other monsters,
+At the bottom were the abilities and life of the monsters. I don't
+remember what else"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

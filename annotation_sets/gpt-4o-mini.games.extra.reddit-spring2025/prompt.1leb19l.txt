@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PSX] [2000-2005] Played an Action Game Where My First Level
+is Night City. I am possibly a Cop, there are human enemies in the way
+and at the rooftop. More in description. The game vibes seems like
+Medal of Honor or Fighting Force. I think I started with a gun but
+later there is an obtainable weapon, like a white whip, when I
+activate it, it can follow the enemies, and electrocute them. I only
+played the first level and never continued, it was a leftover game
+from my aunt, after I killed my enemies, I was stuck and could not
+find enemies anymore, don't know where to go. My first time posting
+here. I hope I am clear enough."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

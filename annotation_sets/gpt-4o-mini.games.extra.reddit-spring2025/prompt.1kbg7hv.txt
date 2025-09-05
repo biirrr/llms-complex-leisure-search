@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2008 or before] A 3D platformer I remember playing as a
+child. You play as a little dragon (or crocodile? or some kind of
+lizard?). There are several levels. In level 1 you are in some town.
+In level 2 you are in some cave (maybe a volcano?). In level 3 you
+have to run from a giant chicken through a forest. And in level 4 you
+are in a boat on some lake. I definitely played this but I can't find
+it. Does anyone recognize it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

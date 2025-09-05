@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2023-2025] mysterious, dark, main character is a girl,
+pixel graphics not sure if it even came out yet tbh. Main character is
+a girl, pixel graphics with purple, blue, green colors, sorta top-down
+view, with horror theme, trailer had the girl in a bath, monster
+climbing out of some dark abyss on the left side, It might have not
+been released yet. Thx for answers"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

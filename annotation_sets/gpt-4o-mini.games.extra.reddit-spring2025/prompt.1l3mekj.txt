@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2000s-Early 2010s] MMO about the environment? 2D
+with faceless characters.. An online MMO geared towards children.
+Characters didn't have facial features and were somewhat pixely, like
+taller, skinnier Habbo avatars. Outfit colors depended on what faction
+you were in, which I think had to do with the environment? Or had to
+do with elements such as water, fire, earth, etc. I don't recall any
+animals being involved in the game, and it was mostly used for
+chatting. I think I remember a cafe being one of the big hangout
+spots."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

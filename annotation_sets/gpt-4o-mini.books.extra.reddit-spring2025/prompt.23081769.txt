@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Second Chance Romance, set in a small town/ farm
+vibes. He’s obsessed with her hair.. I read this in the last couple of
+years. I think is part of an interconnected series based around a
+farm. She has super long hair that she never wears down except around
+him. He loves to play with her hair and does it to help her with
+headaches & sinus pain. She has 2 kids and he helps her out with
+looking after them."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

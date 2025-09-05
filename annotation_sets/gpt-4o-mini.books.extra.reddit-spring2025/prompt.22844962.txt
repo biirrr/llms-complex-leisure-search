@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance series. Three adult siblings' rich father
+dies; funeral; set in USA. 2nd chance romance with lawyer who betrayed
+her for father's land he wanted. Famous reality show star? has
+stalker. Brother doesn't want inheritance. Read 2019-2022.. Hello
+beautiful people..the book series as I remember is three books about
+three adult siblings who live all over the country ,their father is
+rich and he dies and the two older sister come home for the funeral
+The first book is about the eldest sister she has a 2nd chance romance
+with a lawyer who knew her father he's young and he betrayed her for a
+peace of land he wanted from her fathe3nd book is about the second
+daughter shes famous i think a reality show star and has a stalker and
+when she comes home for the funeral she stayes with an old grumpty
+friend for protection Book 3 is the brother book he doesnt want his
+inheritance and the fmc is a lawyer O i think their estate called king
+lands or something"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

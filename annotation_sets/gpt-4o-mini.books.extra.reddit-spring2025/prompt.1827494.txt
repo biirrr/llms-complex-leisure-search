@@ -1,0 +1,34 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Diary of young lesbian girl in the early 1900s, from book of
+women's diaries possibly published in '80s [s]. Hi, You guys got my
+last one so quickly, dare I hold out hope for a repeat performance? ;)
+When I was in college, we read an excerpt of a young lesbian girl's
+diary in one of my women's studies or women's history classes. It was
+from a book (an actual book) of women's diaries that I think was
+published in the '80s. Pink cover, maybe? The professor had a copy of
+the book on her desk, but we students only had photocopies of the
+relevant diary. Since we only read the one diary, I can't give details
+as to the contents of the rest of the book, but this particular diary
+was written by a young girl growing up in the early 1900s. Prior to
+the first World War, maybe 1900 to 1912 or something similar? The girl
+was about 10 or 11 when she started the diary. She lived in a small
+town and her father was a shopkeeper. He might have owned a general
+store. She wrote a lot about her friends and most particularly about
+all the crushes she had on young women, especially a teacher. As she
+gets older, she worries about this in the diary and about not falling
+in love with men. I think finally in late high school or college, she
+starts a relationship with a boy, but in the postscript to the diary
+it's revealed that the author did eventually end up coming out as a
+lesbian in the 1950s. Long shot, but I've wondered for years about
+this. I don't think the woman was anyone famous, but I'm not 100% on
+that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

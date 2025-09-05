@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Weird flash 'meta' puzzle game with I think 25
+'levels' that you could move stuff between. I very vaguely remember a
+flash puzzle game I played a long time ago. I think it had 25 levels
+arranged in a 5/5 grid that you could all access immediately and each
+was a puzzle that was hinted by the level's name. The game was purely
+black and white and any objects were just 'shadows' I think. I
+distinctly remember two things about those: \- one of the levels was
+called something like 'on the mouse' and clicking on it showed a
+mouse. The actual puzzle was having to right click *your* mouse and it
+would show a 'complete puzzle' option or something like that; \-
+another level had a cat that you could pick up, drag to the level with
+the mouse, and it would catch the mouse. Not sure what happened next.
+I probably played this on Armor Games if that helps. Any ideas what
+that was?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

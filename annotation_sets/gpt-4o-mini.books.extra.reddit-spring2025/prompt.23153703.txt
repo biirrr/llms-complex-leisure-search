@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Short Story: early 20th c. Retelling of Good King
+Wenceslas.. I saw this story on the Internet, actually, maybe 12-15
+years ago. But its style was old-fashioned; it reminded me of A.A.
+Milne, E. Nesbit, or Rumer Godden. It had a bright, light tone,
+definitely meant for children. Important words were capitalized for
+emphasis, I think. It was a prose retelling of the well-known carol,
+in which King W. and his loyal page brave the snow to bring flesh,
+wine, and firewood to a poor peasant's cottage. Then they leave before
+the peasant gets home, and it describes how surprised and delighted he
+is when he finds what they left. I think the miracle of the heated
+footprints occurs too. It felt Edwardian, but it could have been
+later, from the '20s, or earlier (Victorian)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

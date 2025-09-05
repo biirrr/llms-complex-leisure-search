@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2017] 2D side-scrolling pixel art (16-bits?) shoot
+em up game.. I remembered seeing YouTubers played the demo of this
+game. Its a game about a girl seeking revenge on a gang or something,
+there are humans, werewolves and vampires in the game. After each
+level, you will take a rest in a dilapidated room w/ a fireplace (and
+a cat?), where you can choose your loadout for the next level. Thanks
+in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

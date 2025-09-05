@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance series following brothers that live together.
+I'm looking for a series that I've read in the last few years. It's a
+romance series with each book being about a different brother, I think
+there are 5 or 6 of them. I think they own a logging business and they
+all share a house. As they each find their love interest they add an
+addition for each family onto their house. Each brother takes turns
+preparing each meal. The H falls first and is morally grey about
+capturing his h. I think one of the h's runs a clothing store with her
+mom and another one ends up being the office manager. Does this sound
+familiar to anyone?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

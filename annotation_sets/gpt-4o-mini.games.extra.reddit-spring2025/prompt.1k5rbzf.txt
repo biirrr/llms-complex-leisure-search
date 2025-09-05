@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][Unknown] Animal simulator survival. Platform(s):
+mobile (I think it was on an LG phone) (not sure of others) Genre:
+animal simulator Estimated year of release: 2010-2015 (I truly dont
+know) Graphics/art style: decent realism from what I can remember
+Other details: the animals were atomically correct via gender There
+was a game that I played when I was young about being an animal. I
+believe you started as a rabbit and explored the map to find statues
+to change into animals, I can remember being able to change into a
+bear, deer, or obviously the rabbit. Im sure there were more but i
+cant think of it. The game was online multiplayer, and was very
+realistic for what it was. Any ideas what this could be? It was on
+mobile."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

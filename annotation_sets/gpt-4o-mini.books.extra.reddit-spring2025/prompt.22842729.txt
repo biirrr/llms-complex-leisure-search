@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Odd Science Fiction novel about Halley’s Comet. Read around
+1983. [s]. I’m trying to remember the name of a very strange novel
+about the return of Halley’s Comet in 1985/1986. I read it in
+approximately 1983; it was a trade paperback and quite thick. It was
+very trippy and didn’t have a conventional plot line, which I suspect
+is part of why I find it hard to remember. However, there was one
+thing I will always remember, as it was repeated many times in the
+text. There was a litany of titles given to the comet, and they were
+repeated almost ritualistically. One of these titles, the one burned
+into my brain, was “Cain-raising kind of comet!” I know this is not
+much to go on, but unfortunately it’s all I’ve got. Thanks in advance,
+— HC Edit: I'm reasonably sure that the title didn't include the word
+""comet""--I checked The Internet Speculative Fiction Database for SF
+novels with ""comet"" in the title and it was not included in the
+results. Edit 2: Well, it’s there now. Not sure if I messed up the
+original search or if I just missed it somehow."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

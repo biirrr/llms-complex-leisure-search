@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Web-browser/html?] [2000/2010s] Story choose your own
+adventure about a murder cult. i remember this somewhat popular web-
+series game that had live action actors go through a story about a
+murder cult/organization (i think?) where they would publicize their
+murders online with the text """"""""Don't like, Don't comment, Don't
+share"""""""" or something. I remember some popular youtubers (maybe
+jacksepticeye or markiplier) play through the first few episodes and i
+remember that the first episode takes place at a party. even if the
+game isn't accessible it'd be so dope to be able to atleast watch the
+playthroughs again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

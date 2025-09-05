@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2010s] I'm looking for a web-based 2D game, it's
+a horizontal scrolling shooting game with levels. Very much similar to
+Strike Force Heroes, but animation is more cartoonish.. https://previe
+w.redd.it/j7ve6w50nkye1.jpg?width=847&amp;format=pjpg&amp;auto=webp&am
+p;s=f09d63cf3585a5df4fc0f01a16d23a3f14e6ca39 There are 20\~ characters
+you can unlock (sniper, spy, tank, artillery) and you need to use them
+to clear levels (you can take 1-5 characters). The levels can be in
+the city, jungle etc. And you need to find and kill all the enemies
+without hurting civilians. Here's how the first character you receive
+in the start looks like, it also features on the game thumbnail."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

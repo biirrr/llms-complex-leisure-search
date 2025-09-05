@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early-Mid 2000's] Flash game that opens by killing an
+old woman, then goes back in time section by section to reveal the
+story in reverse. **Platform(s): PC, Flash Game, possibly on something
+like Armor Games (Formerly Games of Gondor)** **Genre:
+Mystery/Platformer** **Estimated year of release: Some time between
+2000 and 2007 I think, but it could be later** **Graphics/art style:
+It was very gloomy in atmosphere, pretty simple in designs. I think it
+was mostly silhouette style characters, just black characters/objects
+on a white background.** **Notable characters: The main character and
+an old lady/witch** **Notable gameplay mechanics: The first level of
+the game you are given a directive of sneaking into a house and
+killing an old lady that's by herself, with no explanation. So you
+sneak in and kill her. The next level goes back in time, and you are
+following a witch through the woods. You eventually get to the house
+where you just killed the old lady. Each section of the game goes back
+in time with a different objective, and it is slowly revealed in
+reverse that the old lady was a witch who just murdered your entire
+village while you were out doing something, so to get revenge, you
+track her through the forest to her home.** **Other details:**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

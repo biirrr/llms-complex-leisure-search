@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction, scientific expedition to SE Asia (?) [s]. I'm
+trying to find a book I read where a man travels with a scientific
+expedition to collect specimens - I believe they went to SE Asia. The
+era might have been ca. 1930s - I'm not sure whether the book would
+have been published contemporaneously or later, but I think I read it
+sometime back in the early '70s (I'm thinking it was probably
+something I got thru Scholastic Book Services.) The key episode I
+remember is where he climbs over a fallen log and accidentally steps
+on a bear and is injured. I also seem to recall discussion of using
+arsenic to dust the skins of small animals and birds they had
+collected. I had thought it was called The Snow Leopard, and recently
+picked up a copy of Peter Mathiessen's book of that title, but that's
+not it. Hope someone remembers this one and can help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

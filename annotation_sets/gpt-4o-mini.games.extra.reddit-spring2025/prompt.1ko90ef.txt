@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2015-2018?] Shooter game inside a mine cart. I
+used to play it on mobile, the characters were similar to the one in
+the photo, in promotional images of the game they showed them with
+scared and frightened expressions. The gameplay was based on killing
+monsters while driving a mine cart. The weapons in the game were
+varied and you could carry several allies inside the car. I can't
+remember what the enemies in the game were like, but they were larger
+beings than the protagonists, with eyes that stood out in the dark and
+features of mammals and insects. A trailer for the game showed one of
+the characters in a completely dark place, armed with a shotgun, maybe
+a pistol. A monster approached him and shot at him, killing him. The
+character was scared, so at that moment, another like him appeared,
+only to be killed by a gunshot to the head. Leaving the guy terrified
+and guilty for causing the death of an ally."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

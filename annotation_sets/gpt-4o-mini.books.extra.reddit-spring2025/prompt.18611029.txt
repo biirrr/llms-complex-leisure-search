@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Gibran’s The Prophet meets Zen & The Art of Motorcycle
+Maintenance in the form of a scheduled-reading self-help book. [s]. I
+remember reading the Wikipedia page for this book a long time ago. The
+main stand-out point is the author asks readers to read the book over
+the course of one year (possibly six months) with one section/chapter
+every day/week. I recall it having a more philosophical bent than most
+commercial self-help books, but self-help might be the genre. It was
+written sometime between 1940 and 1980. I am almost certain the author
+was American, and he draws heavily from his own lifetime and
+experiences ?as a businessman? or ?blue-collar worker?. Another
+remarkable thing about this book compared to others of the kind is
+that the author’s biography, on its face, was not remarkable at all
+save publishing his book of personal wisdom, which received some
+amount of success upon being released. This was the first book (and
+possibly only, although I'm not 100% sure) the writer wrote. Thanks a
+lot for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

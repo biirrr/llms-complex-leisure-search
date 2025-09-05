@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo 3ds/2ds?] [Unknown] A game with mini games only..
+I can't remember the title nor all the mini games but one particular
+one. It had like a purple background and this alligator/crocodile
+thing in a dress and it was 2d platform. the objective of the minigame
+was to """"""""find the flan"""""""". It had a narrator that was
+possibly Australian for every minigame. When you find the flan though,
+the character drops into a giant flan and the minigame ends. I can't
+find anything about it other than that one minigame I remember! Please
+help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android] [2010s] escape room app. On an android phone
+between around 2008-2015. Game was set as an escape room puzzle game.
+Story had a man who was being forced to solve the puzzles, might have
+been amnesiac. I believe he was talking to a woman at some point, and
+the woman helped him learn about how he was trapped in the rooms and
+what he needed to do. I think the woman may have been part of the
+group that forced him to solve puzzles, but was helping him out
+anyway. I think the characters were in an anime art style. The one
+thing I remember definitively was the main character discovered that
+he had some sort of bomb or explosive in his chest/heart that would
+self destruct if he failed the puzzles/refused to complete them Any
+help appreciated. I remember finding the name of the game a few years
+ago but never wrote it down. Would love to see if its possible to
+play nowadays, as I never finished it back in the day."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

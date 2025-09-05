@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Gameboy advance] [2000-2005] platformer where kid would
+replace parts of himself. Didn't get to play is long and i was like 5
+so i barely remember any, but it was a platformer where the kid's
+upgrades were either actual replacements like robot parts, or were
+just manifesting it, but i remember the feet upgrade was green and i
+think was a lizard and acted like a dash or jump. Also feel like the
+game revolved around finding your friends, and your friends had the
+upgrades needed to reach the next one"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

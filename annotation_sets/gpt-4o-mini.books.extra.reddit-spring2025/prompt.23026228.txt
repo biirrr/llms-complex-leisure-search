@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children/ YA Fantasy chapter book. Greek mythology with
+young protagonists (boy and girl, I believe cousins), on a journey.
+Modern setting. Read around 2004-2007. Potential desert on cover?.
+Read around 2004-2007. If I remember, a sort of desert or tree on the
+cover. It is *not* Percy Jackson or the Kane Chronicles anything else
+by Rick Riordan, though it does sound similar! It is also not going to
+be Who Let the Gods Out, as that was published later on. I believe it
+was published to ride the wave of popularity in the mid-2000s of young
+modern protagonists with Greek mythology figures. I do remember there
+being two main characters - a girl and a boy, and I believe they were
+cousins or related somehow. The girl was American and the boy was
+British, I also believe he was Black. I think their journey led them
+to the Underworld/Hades? (And, for the sake of being specific, I
+remember a scene in the book where they argued over whether it was
+called football or soccer as they kicked a ball around!) Thanks :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

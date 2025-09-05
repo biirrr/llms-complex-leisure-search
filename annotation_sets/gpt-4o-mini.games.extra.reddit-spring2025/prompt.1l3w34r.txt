@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Dreamcast][early 2000s][football manager] please help
+identify the game pictured. Platform(s): Dreamcast Genre: Football
+Team Manager Estimated year of release: 2000s Other details: featured
+in this advertisement: [SEGA FOOTBALL CLUB CHAMPIONS 2025  Official
+Announcement Trailer](https://www.youtube.com/watch?v=_6rfDVJydWc)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

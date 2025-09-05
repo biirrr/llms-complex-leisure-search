@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Pre2010] 3rd Person Rpg (not much to go on). I played
+this around 2010 it is similar in graphics quality to a game called
+Enclave. There were 4 non customisable characters a male barbarian
+male dwarf female hunter type woman who started with a quarterstaff
+and a 4th I can lt remember. The plot centered around a sword with a
+skull hilt that I believe talked/narrated cutscenes i believe the
+narration was female but am not 100 percent sure. I never got very far
+so light on details I'm sorry."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

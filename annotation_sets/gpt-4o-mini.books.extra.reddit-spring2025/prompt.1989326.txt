@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "750 Spells and Casts for Witches [s]. Title is something
+similar to 750 Spells and Casts for witches. It was a hardcover book,
+with the front cover being white with green leaves. My SO last saw it
+in Borders around 2003-2004 and lost it many years ago. It was her
+favorite book, and I'm trying to find it for her."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

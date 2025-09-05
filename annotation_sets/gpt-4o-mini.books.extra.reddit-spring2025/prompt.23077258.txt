@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy book. Asian female hero, left handed. Read
+2008-2012.. So when I was in high school I read a book and I can’t
+remember the title for the life of me. I was in high school from
+2008-2012. It was a fiction book that had an Asian girl as the main
+character, I think it could have been China. She was left handed and
+there was myths about left handed people being magical, but it wasn’t
+the case in the book. She started poor and couldn’t count, but learned
+from someone, I think it could have been a dragon or mythical
+creature(?). There was a bad guy who was a liver hunter and would
+implant the livers of people into himself to get their power and he
+wanted her liver since she was left handed. Do you know what this book
+was?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

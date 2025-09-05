@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True story/travel-Africa/1950s? [s]. I read this in 2005,
+I'm pretty sure it was based on true events. One word title. A group
+of disparate people (small group, maybe 6-10 adults) seeking adventure
+go to North Africa (maybe?) in the 1940-1960 period (?) to undertake a
+car journey across part of the desert. A series of mishaps due partly
+to poor planning and an almost complete lack of appropriate knowledge
+about the land, cars, survival, meant that all or most of the
+travellers died. Awful, fabulous story; well-written. Not being able
+to remember the title has been driving me crazy for over 10 years.
+Help me stop the madness :D"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

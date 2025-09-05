@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [2000-2010?] A game similar to Hungry shark, but
+about a squid.. I remember playing this game as a kid. You were a
+purplish squid who started eating really small things and the more it
+ate, the bigger it grow, allowing it to eat bigger creatures that
+before tried to eat you. If you died, you lose all your progress. The
+map was really small and dark, apart from the bottom of the sea I
+don't remember there being anything else. The biggest creature you
+could eat was a whale I think. I also remember there being something
+creepy about it, but I don't remember if was the darkness, the music,
+the sound design or the animals design. I think it had the word
+""""""""Kraken"""""""" in it's name. I could even swear that was it's
+name but, I can't find anything about it. I only found another post
+asking about this game. It is NOT """"""""Tasty Planet""""""""."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[XBOX][year unknown] 3D game, where you kill enemies that
+are types of food then you can equip them to make you stronger. My
+young son is trying to figure out this game but this is all he can
+describe. The limbs acted as kebab sticks and then the food enemy you
+killed would be added to these limbs, increasing your power"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Short Story (by Paul Jennings?) about a boy who
+keeps losing things and then eventually goes into an old manor and
+finds everything he's ever lost. Read around 2008-2009.. One specific
+plot point I remember is that at the beginning of the story the
+protagonist is being forced to do a bully's homework (don't recall why
+exactly), and the bully's handwriting is so bad that he asks his
+little sister to write it out for him so it will look more like the
+bully wrote it, but his sister refuses and tells their mom that he's
+trying to get her to do his homework for him, so he resorts to writing
+it with his left (non-dominant) hand. Possibly the homework also gets
+lost and is one of the things he finds in the manor? Read around
+2008/2009. I had a couple of Paul Jennings collections (almost
+definitely Uncanny, Unreal, and Unbelievable), but I've checked all
+the short stories listed there and I can't find this particular one -
+it's possible this isn't his at all, but it certainly fits right in
+and I don't have any other ideas as to where it might be from. Any
+help would be greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

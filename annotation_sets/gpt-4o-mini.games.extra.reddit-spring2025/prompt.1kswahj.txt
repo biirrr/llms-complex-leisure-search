@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Macintosh][1998ish] Looking for any record of a MacOS cd-
+rom that contained a bunch of demos and two full games (Marathon,
+Abuse). Curious if anyone remembers or can find any info about a MacOS
+game/demo disk I had as a kid. Not looking info about a specific game,
+but instead a full list of everything on the disk; I remember some of
+the games but have definitely forgotten a bunch. The disk had the full
+version of both
+[Marathon](https://en.wikipedia.org/wiki/Marathon_\(video_game\))
+(Bungie, 1994) and
+[Abuse](https://en.wikipedia.org/wiki/Abuse_\(video_game\)) (Crack dot
+Com, 1997). I'm pretty sure these were the only full games on the
+disk. It also had a ton of demos/shareware, the ones I remember are:
+Both of the Marathon sequels
+[Ares](https://en.wikipedia.org/wiki/Ares_\(video_game\)) [Pathways
+into Darkness](https://en.wikipedia.org/wiki/Pathways_into_Darkness)
+[Terminal Velocity](https://en.wikipedia.org/wiki/Terminal_Velocity_\(
+video_game\)) [Odyssey: The Legend of
+Nemesis](https://www.macintoshrepository.org/5057-odyssey-the-legend-
+of-nemesis)
+[Pegleg](https://en.wikipedia.org/wiki/PegLeg_\(video_game\)) [Damage
+Incorporated](https://en.wikipedia.org/wiki/Damage_Incorporated)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

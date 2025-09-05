@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][Late 80s-Early 90s] Shoot 'em up with dinosaurs.
+Pretty much everything that I remember, the game had was a horizontal
+shoot 'em up in which you controlled a spaceship and had to go through
+a jungle. I think I distinctly remember a waterfall and a mechanical
+T-rex boss fight. The ship you controlled was ocre colour with some
+red I think and there was a powerup that gave you two probes above and
+below you that would shoot with you. I remember the artstyle being
+somewhat detailed pixel art but thats about it. This game was in a
+multi-arcade machine of sorts at my hometown and the timeframe I've
+given it's based on from when the pther games at that machine came
+out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][90s-2000s] detective like game with changing aspects.
+Okay this is going to be super unhelpful but ive been going mad trying
+to think of it. All i can really vividly remember is that one of the
+things you can interact with causes monkeys to come out working on a
+car singing grease monkeys to the tune of grease lightning. And im
+pretty sure it had batman esk spinning transitions"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

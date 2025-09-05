@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Paranormal Romance. Jaguar or similar to a Jaguar
+Shapeshifter. Read around 2022.. I read the book in like 2022 but I
+believe it is older than that the book is a shapeshifter romance I
+believe it is jaguars but it could be a cat similar to that the girl
+main character is running from people in her past, And the male main
+character lives in a swamp I believe he has a lot of money if I am
+remembering correctly he has some kind of construction business it is
+a small town and the woman lives down the road from him their first
+time having intercourse is when they are jaguars. I believe it is a
+part of a series"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

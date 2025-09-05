@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "The Best: A 70's (80's?) compendium of fun best things [s].
+A great read with little essays like ""Best meal in the world for any
+money"" and ""Best meal under $500"" and ""Best way to predict the
+winner of a Presidential election,"" but with ""The Best"" in the
+title, there's no chance to Google this title. I think this paperback
+had a blue cover? Please help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

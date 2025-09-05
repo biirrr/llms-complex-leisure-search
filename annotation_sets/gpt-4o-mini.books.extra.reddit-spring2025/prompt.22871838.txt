@@ -1,0 +1,43 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance Motorcycle Club series. Female character in
+one books dies when saving her boyfriends (and member of the clubs)
+son from his ex/sons mother. Club president also dies when saving the
+son. The president is also the male characters dad.. Hi I read a
+motorcycle club book series last year (2023) and I stupidly forgot to
+note them down on my Goodreads profile,I have searched in every way I
+can think on Google and I cannot find the names of them. Any help
+would be really appreciated. It’s driving me crazy. Book 1 of the
+series the female main character gets dared to go to the local
+motorcycle club by her friends and the male main character follows her
+back to her friends and threatens them all. Can’t remember much else
+about the plot but I do know that the female main character owns a
+strip club that she inherited off her uncle. I think at the end
+someone gets shot in the strip club when a family member tries to take
+back the club from her. In another book the motorcycle club is tasked
+to look after the daughter of I think a senitor/someone powerful and
+the male character ends up looking after her at her apartment and
+falling for her. He is messed up about relationships though as he had
+an ex that died and he blamed himself. Another book in the series is
+the female main character is the best friend of the female main
+character in book one and ends up babysitting for the male main
+characters son. They fall for each other but his ex kidnaps the fmc
+and his son. She escaped (after horrible things happen to her). The
+club find the ex with another motorcycle club and when saving the son
+the female gets shot saving the boy and so does the club president
+(who is also the male main characters dad) and they both die. The male
+character ends up leaving town with his son and a woman from the club
+that had an emotional relationship with the president and has been his
+friend for a long time. They fall in love and move back to the club
+together. There is a scene in the book where the dead dad/president
+and girlfriend that died are watching from heaven over the couple.
+Thank you"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

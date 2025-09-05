@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Game Pass] [2020's] Indie puzzle game where you could use
+the perspective of light and shadow to solve various in-world
+puzzles.. My wife and I enjoyed a puzzle game over the quarantine era
+that involves using the character's perspective of light and shadow to
+solve puzzles. I vividly remember a puzzle where you had to cross a
+performance stage with massive spotlights and curtains, and mannequins
+were strategically placed to block your path. I also recall an MC
+Escher style level, although not a lot remained in the brain. There
+was also a Rubic's Cube style puzzle later in the game, in which you
+had to look at specific faces in-world to change the direction they
+were facing. The basis of the game was very much a quest to reach a
+room at the top of some building where you learned the truth of your
+mother, maybe? Leading into a curscene detailing the puzzles and why
+they exist, and going to roll credits. Oh and also a facade of a town
+with a big carousel in the middle! Thank you all in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS4][2015] COD like game with a personal drone. The first
+mission was you inside an enemy facility of sorts. It was dark and the
+only illumination was from red lights. as you were leaving I believe
+you pass would could only be server racks. and at that point in the
+game your only weapon is your drone so you have to sneak around and
+let your drone do all the work. The graphics reminded me of a call of
+duty at the time. I never even got past the first area so I don't even
+know if you ever got a gun."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

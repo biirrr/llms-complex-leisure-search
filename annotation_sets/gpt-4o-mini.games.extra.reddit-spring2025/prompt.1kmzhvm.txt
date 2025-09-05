@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s]A huge 3D FPV Shooter Game. I remember playing it
+on Windows 7. It had goofy cat kinda creepy sounds in a hall where you
+start the game, it starts with you having a knife and a
+pistol/revolver. The game was so tedious that you couldn't save it at
+different levels at all, if you died at say 1 hour through the
+gameplay, it would respawn you back to the first place of spawn in the
+game. You start in the night, in a hallway, you can see the moon, the
+windows in that hall have mosaic pattern [the windows in that hall
+looked like this](https://preview.redd.it/vfy6ufb5hv0f1.png?width=640&
+amp;format=png&amp;auto=webp&amp;s=7b5cb8b6096c45c27800003b4694de56fc4
+a2b25) There is terrain of snow, you enter various buildings, enemy
+NPCs have decent pistols too. You clear enemies as you go ahead in the
+game. There was a made-up flag of that game-based country as well,
+AFAIK the only cutscene it plays is in the beginning in which a big
+aircraft flies over a house/office and some nice russian era music
+plays Additional info: If you stabbed a door/wall with knife, it would
+leave round marks on them"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

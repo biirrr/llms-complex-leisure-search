@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Steam][2010-recent?] A map generator game where you can
+watch a map as civilization rise and fall over time.. I stumbled on
+the game while browsing Steam games and didn't caught its name or
+putting it on my wishlist. Its like a random map generator, there may
+be some parameters you can tweak or something. Then you start the
+game, it will generate a random map that could be a continent and some
+island here and there. There's also some borders being set up with
+civilization and random cities. Then you can fast forward time and
+watch as the border change and the civilization interact with each
+other."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

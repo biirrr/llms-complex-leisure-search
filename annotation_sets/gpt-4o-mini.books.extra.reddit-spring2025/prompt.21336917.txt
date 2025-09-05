@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "New Adult Contemporary Romance Fiction where two people
+share how they met and possibly fell in love almost like a discussion.
+[s]. I skimmed through this book maybe about 4-6 years ago? I vaguely
+remember this book being a love story- as I know there were at least
+two characters in it- and I believe it switched from them being in
+college to their present day. The most distinguishing part of this
+book is that there was “writing” on the sides of the pages that was
+written by the female character- responding or commenting to what the
+male character was saying in the story and there is a possibility that
+the “writing” was in red. This book was written in English and I
+believe it was meant for people in their 20s-30s to read. The book
+itself did not seem that old. I believe the cover was yellow but that
+is all I can remember. POSSIBLE SPOILER - - - - - - - - - I have a
+vague recollection that towards to the end or possibly the end of the
+book the female character writes something on the side of the page
+that causes the male character to stop narrating the story.” But idk
+if I am remembering wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

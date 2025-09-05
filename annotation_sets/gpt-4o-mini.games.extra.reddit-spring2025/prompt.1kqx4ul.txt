@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows PC][90s-00s] Isometric edutainment game about space
+explorer repairing ship. In my second grade, somewhere between
+2001-2003, an edutainment game was installed on our Windows 95/98/00
+school computers, and I've been trying to find it since. A space
+explorer is trapped on a planet and is trying to recover ship parts to
+leave the planet. There are both above- and below-ground segments per
+level, with the first level being a forest or jungle, and one of the
+first parts being a satellite dish or something similar. I vaguely
+remember there being electric gates that you have to answer questions
+to get through. I believe it was math problems, and you could select
+your difficulty to get different levels of math problems. The game was
+in an isometric view. A small part of me remembers there being some
+form of combat, but this is the part I am most unsure about."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

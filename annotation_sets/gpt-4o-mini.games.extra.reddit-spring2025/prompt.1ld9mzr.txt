@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2015-2016] Psychological horror game in pixel art
+style.. I want to find a game. I saw it a few years ago in a gameplay
+on YouTube, but now I can't remember the name. It's in pixel graphics.
+I'd say Viviette and Stardew Valley style. The protagonist is a girl
+with pink hair who wears a traditional Japanese school uniform. She
+goes to a coffee shop to meet her friends, and when she enters, her
+friends are already there. There's a kind of bang and I don't know
+exactly how, but she appears in a completely different place in the
+city. A striking feature of this game is that, every time the
+character dies, an anime-style art depicting the way she died in a
+gore appears on the screen."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

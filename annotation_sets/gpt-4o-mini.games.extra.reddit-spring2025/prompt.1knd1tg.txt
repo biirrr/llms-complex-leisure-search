@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s-20s] A game where you enter different books in
+search of items.. **Platform(s):PC** **Genre: Adventure, RPG (I
+guess?)** **Graphics/art style: I can remember a first person
+perspective and 3D graphics when the main character is out of the
+books, but I believe when inside the books, the style changes.**
+**Notable gameplay mechanics: The game is divided in two sections:
+outside the books, and inside the books. After each book explored, the
+main character goes back to his apartment with orange-ish walls.**
+**Other details: I remember the game being about a world where books
+were forbidden because people were able to hop inside them and bring
+back stuff from the stories. The main character is paid to bring back
+specific items from the stories he explores. I remember his first
+mission is getting back a potion that's capable of bringing back the
+dead, at the end of the first mission you steal the potion from the
+book character when he was about to revive his dead wife.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

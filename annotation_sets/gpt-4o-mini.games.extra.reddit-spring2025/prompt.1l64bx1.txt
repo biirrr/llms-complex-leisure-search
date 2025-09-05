@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Side-scroller action game. Sorry for the lack
+of specific details, but I was thinking about a game I played many
+years ago and was curious to it's name. It was a side-scroller that
+played kind of like the old Prince of Persia or Flashback. I believe
+the MC crash landed (by plane) on a lost island where he meets this
+chick (who is barely dressed, having one breast exposed all the time)
+and fights dinosaurs and other animals. The art style was kind of
+realistic (for the time), but I can't remember much else. I thought it
+was produced by Broderbund games, but I wasn't able to find it in a
+list of their published titles."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

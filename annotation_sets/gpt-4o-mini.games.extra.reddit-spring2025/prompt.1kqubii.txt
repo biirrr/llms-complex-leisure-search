@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown, estimate ~2000] Wild West point and click
+adventure game. Platform(s): PC Genre: Western Point and Click
+Adventure game Estimated year of release: ~2000 Graphics/art style:
+Semi-realistic, graphics &amp; gameplay similar to Syberia Notable
+characters: Iirc the main character was kind of a loser and a bit
+socially inept. Name was Milo? Sorry if your name is Milo, I dont
+think you're a loser. Notable gameplay mechanics: I think it was a
+mystery game, with the main character blundering around trying to
+solve a crime, doing sidequests, etc. Other details: The one oddly
+specific scene that I remember: You see some Native Americans on
+horseback up on a cliff, and if you tried talking to them/said the
+wrong thing they'd shoot you with an arrow. For some reason 5yo me
+thought this was peak comedy (I guess because main character was a
+loser) and repeated this interaction many times."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Set in Texas in either the late 1800's or early 1900's about
+a woman's life and experiences of the times. [s]. I have been looking
+everywhere for the title of this book and have not had any luck. The
+female author's name is on the tip of my tongue but I just can't think
+of it. I know her mother is an intentional homeless person if she's
+still alive. The fictional story begins in Texas in the late 1800's or
+early 1900's. It told of folks living there not having inside plumbing
+and most everyone rode horses for transportation. A woman is the
+center of the story where when we meet her, she's a girl stranded in a
+tree with her little sister during a storm where water is rising. The
+author takes us through this girl's life taking us with her to
+Chicago, her work career as well as her loves. I hope this sounds
+familiar to someone who knows the title and/or author. Thank you so
+much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

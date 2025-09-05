@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MS-DOS][1993] Early 90s, Isometric Group RPG with Overland
+map. You had a band of a few characters. You could travel overland
+(one screen map, no scrolling) to dungeons which had monsters and a
+few rather easy puzzles. The overland map had several cities which
+were at war, your band of heroes belonged to one of those. Armies were
+also moved on that map, I don't remember how the army-battles were
+fought, and if your heroes participated. Overall setting was probably
+japanese, but I don't think that it was one of the KOEI games. Name
+might have been something like 'battle of the five kingdoms'. The game
+box that I bought and misplayced had a silly barbarian on the cover,
+flexing his right arm muscles that were strapped with a metal band."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

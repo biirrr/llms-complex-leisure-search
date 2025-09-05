@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010's] Puzzle/adventure game, you played with an
+agent. It was a puzzle/adventure Flash game where you played as a
+protagonist who was some kind of """"""""agent,"""""""" and you had to
+complete a mission. I remember there was a radar in the top right
+corner, similar to a minimap. There were cute little animations for
+some of the actions you performed. The game graphics were hand-drawn 
+not childish, but with a more mature feel. You could die if you made a
+mistake or if an enemy caught you. I remember there were several
+sequels to this game  each one had a different setting and mission.
+I'm not sure if the protagonist changed, but there were definitely
+parts (1, 2, 3, 4, 5, 6, maybe even more). I think you could collect
+and use items too, though Im not completely sure. I played it as a
+kid, but I had a lot of fun with it. A game that really reminds me of
+it is *Scooby-Doo: The Temple of Lost Souls*. The camera was in third
+person, kind of a top-down view as well."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

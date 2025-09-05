@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Swedish Botanical book, possibly field guide? [s]. Judging
+by the flower names, I'm guessing this is a Swedish flower guide, but
+I'm hoping someone might know exactly what it is. I've seen the image
+around photo sites like WeHeartIt and the like, but of course, no one
+sources their photo. GoogleImage searches have left me no closer.
+Anyone know? SOLVED I actually tracked down the person who took the
+photos, and it's Trädgården i Färg by Gréen Kiær."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

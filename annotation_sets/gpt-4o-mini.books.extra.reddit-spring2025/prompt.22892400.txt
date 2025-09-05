@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Thriller genre, with a group of YA preparing for SATs,
+staying at a cabin by a lake. One of the YA was called Brian. He had
+his girlfriend with him. Went on a boat ride at the lake and someone
+died. [s]. I read this book when I was around 12-13 years old in 1998.
+It was a paperback, had a blue cover with yellow lettering, if I
+recall correctly. The teens were prepping for their SAT's I believe,
+and there's even a mention of how one of them remembers Pennsylvania
+has 2 nn's. One of the kids was called Brian, and was a popular guy.
+The details get fuzzy for me here, however, I believe Brian and his
+girlfriend go out for a late night boat ride on the lake and one of
+them drowns, and this starts a weird turn of events. Would love to
+find this book!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

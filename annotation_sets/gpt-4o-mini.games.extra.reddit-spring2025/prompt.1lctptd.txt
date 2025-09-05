@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] Detective game, where you have to shift the
+camera angle to on of the 4 basestates to puzzle solve. Hubby is
+looking for a game he remembers playing, but doesnt find anything on
+google with his description. He does not know how old the game is but
+he describes it as older. Its apparently a pixel graphic, but with
+a higher resolution. Camera angle is like the sims 3 camera, but you
+could only switch to 4 camera angles like the perspective of different
+sides of a room. He remembers the first lvl being a little
+porterhouse. You arrive by car, the railway barriers are moving up
+and then you have to somehow enter the porterhouse by changing the
+perspective. (Were not native English speakers so I tried to
+translate as good as possible. &gt;.&lt;) I hope someone can help
+&lt;3 Update/Edit: The game has more of a polygon/comic 3d graphic
+than pixelart. Also it is from 2021 on Steam. : (Just to add a better
+description for others who are searching the same game)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Woman becomes upset by two gay men showing affection in
+restaurant. [s]. Shot in the dark, but two of my previous questions
+were just solved, so I have hope for this one. I have a memory of a
+scene in a book, probably from the '80s or '90s, about a woman who
+goes out for a romantic dinner with her husband and is upset by a gay
+male couple who are sitting at the table next to them. I think the men
+start showing affection, and she feels the need to leave the
+restaurant because of it. I don't believe it was purely for homophobic
+reasons, but because the woman's son or brother had AIDS, and she was
+reminded of it by those men. She even says to herself, ""it's not
+their fault,"" before leaving the restaurant. Could be fiction or non-
+fiction, but I would have read it sometime prior to 2001. Thanks mucho
+for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

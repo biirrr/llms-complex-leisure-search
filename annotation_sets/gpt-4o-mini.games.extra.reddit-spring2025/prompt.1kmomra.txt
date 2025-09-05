@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990s] Medieval 3D construction game with a
+helicopter. I came across this unresolved post and I have a distinct
+memory of playing this game as a kid. The most notable memories I have
+are as the original poster described: - Flying around in a wide open
+green landscape - The medieval people you could gather were printed on
+white strut cards - Gameplay had you gather pieces of medieval
+buildings I had borrowed it from a local library at in the early
+2000s. I have been attempting to identify it for a long time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

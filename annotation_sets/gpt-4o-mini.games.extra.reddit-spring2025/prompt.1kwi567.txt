@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2006 - 09] Pixel RPG maker style game where you get
+kidnapped. Platform(s):  PC Genre:  2D top down, more of a story
+driven game Estimated year of release:  around 2006 - 2009
+Graphics/art style:  it was pixel, similar to RPG maker games. It was
+cartoony, the colors were bright yet the mood felt eerie. Also, when
+you're talking to someone, only a dialogue box appears, no character
+sprite like typical RPG maker games. Notable characters:  main
+character is a girl with brown hair and a kid, lives with her grandma.
+ There's also a woman who kidnaps mc and a man who tries to save mc
+from said woman. Notable gameplay mechanics:  iirc it just uses WASD
+for movement, then mouse to click through dialogue  MC wasn't allowed
+to stay outside once it started getting dark.  MC routinely gets some
+flowers for her grandma.  MC wandered around and entered some sort of
+cave, leading to her getting kidnapped.  after getting kidnapped, MC
+wakes up somewhere unfamiliar and gets tasked to kill/scare rats.
+Whenever you hit a rat the screen flashes white. Other details:  I
+played this game with my older sister when I wasn't in school yet so
+my memories of it are very vague, but she does also remember playing
+it. The thing is, she only remembers the same details that I do."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

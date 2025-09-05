@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[idk] [late 2000s early 2010s] zombie/monster game I watched
+as a kid. When I was a kid I watched this YouTuber play some zombie
+game that had multiple characters and their storys. Like I remember a
+brother and sister who were trying to escape through like tunnels or
+mine shafts. And one of the parts that I remember was like a family
+was trying to hide, and of of the zombies/monsters knew they were then
+it like zoomed in on this things face and it took the familys
+daughter. The game also had graphics kinda like resident evil/ silent
+hill, like those Japanese or Chinese games. This has bugged me for
+years and tbh I dont know if its real, made up, or my mind just
+mashed up a bunch or games. Anyway I hope you guys have better luck
+finding it than I did and thanks for the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

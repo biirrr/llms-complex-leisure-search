@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2020] Pixel Art jackpot roll game. It's been very
+popular for some time. I belive it was an Indie game. The game was
+about spinning the wheel and adding symbols to the pool. Every symbol
+had its own value that was added to the score. After each spin you got
+to choose from 3 options to add, and every other spin you could add a
+passive ability for certain symbol types or symbols. You started with
+most of the places blank. The graphic was all pixel art, text
+included. The border of the grid i think was yellow. Symbols were
+displayed in a 4x5 grid (i belive it was 4x5). Some symbols i remember
+are -diamond (light Blue) -coal (black) -pebble (gray) -peach -witch
+(or not)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

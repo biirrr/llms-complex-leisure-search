@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Console] [2007?] Pictures found in the CPK packer. So, CPK
+is an archive format developed by CRI Middleware. It is used in games
+for a variety of platforms. The pictures come from the CPK packer, a
+tool to pack/unpack those archives. The pictures are from 2007 because
+of their date. I'm asking because i'm curious and an image search
+gives nothing The last pic might be from Xenogears?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Christian Devotionals for Teens; Title is a number (# of
+topics in book -- 97? 90 something?). # corresponds to cost of a plane
+ticket the author didn't buy to visit someone (his father?) who ended
+up dying, which he has always regretted. [s]. Book is designed to look
+like pages have been torn, pieced together like a collage. Read around
+2007 or so. I think the cover is blue. Male author (possibly young
+blond guy?), geared towards teens."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

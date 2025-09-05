@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[assumed pc][assumed 2010-2020] famous indie-game. Sorry
+for breaking the format but was reading a story and in it is described
+this boot sequence for a game, the author in his notes says that hes
+describing a real game and its a famous indie game. Its driving me
+crazy because I couldnt find anything typing in different elements of
+whats describe into google. I was hoping someone would know what it is
+since the title screen is described"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

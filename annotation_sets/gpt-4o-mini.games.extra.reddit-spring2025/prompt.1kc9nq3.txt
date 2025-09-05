@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010?] I CANT REMEMBER A GAME THAT SCARED ME SO BAD AS
+A CHILD. Im 18 now and i played the game on a laptop i think when i
+was around maybe 8. I remember there being a gorilla kinda like donkey
+kong and when you lose the gorilla comes really close to the screen
+and thats all i remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

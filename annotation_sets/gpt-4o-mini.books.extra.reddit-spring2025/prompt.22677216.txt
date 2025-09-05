@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction. Social Worker helps abused Nonverbal boy,
+maybe named Charley. He counts like ""un, doo, dree"". Read around
+1985. [s]. Read around 1985. Very emotional struggle Fiction (could
+possibly be nonfiction) about a (social worker, caseworker,
+psychologist) who gets assigned to a boy who is nonverbal or very
+delayed due to abuse or neglect. Boy's name might be Charley. He
+learns to speak with difficulty, counting something like ""un, doo,
+dree"". She relieves stress at a drive thru, often eating a chili
+burger."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

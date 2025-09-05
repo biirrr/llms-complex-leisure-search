@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Classic (1970’s?) coming of age novel in which a teen boy
+loses his virginity to a neighbor who has just learned than her
+husband has been killed in Vietnam; title may be “Summer of ‘69 or
+something like that. A teenage virgin boy has a summer job working for
+a young neighbor whose husband is fighting in Vietnam. He falls in
+love with her and obsesses about sleeping with her. At the end, she
+gets a notification that her husband has been killed in action. In her
+grief, she turns to him for comfort. Probably published in the early
+or mid 1970’s. I thought the title was Summer of ‘69 but cannot find
+it on Goodreads."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

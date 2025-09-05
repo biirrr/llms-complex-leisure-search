@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "SciFi story set in the near future. Fat man with ""clean""
+genes journeys to heroism. [s]. This was a scifi story I read when I
+was a teenager. The main character starts as an unpleasant, fat, and
+unattractive man. When we meet him, he is allowed to have sex with
+prostitutes for free because he has ""clean genes"". The prostitutes
+harvest his sperm for a government genetics program. I think most men
+have damaged sperm? He is not a very pleasant character. He suffers a
+fall from grace of some sort. Slavery, or kidnapping perhaps? He is
+sold? into a gladiator-type school where he is trained. As the main
+character is being trained, he goes through painful physiotherapy to
+shape his fat into muscles. The story includes scenes where the main
+character sees old people wearing video glasses that record criminal
+behavior - this is the part I wish to reread. I seem to remember
+mention of a large building of some sort in the final stages of the
+book, and perhaps an aerial assault. The book was written before 1990.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

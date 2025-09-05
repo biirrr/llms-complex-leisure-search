@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[IOS] [2019] A rhythm game where you can customize your own
+avatar, get married, have kids. While I was looking through my old
+gallery to, yknow, visit old memories, I stumbled upon a screenshot of
+a game that I sort of recognize? I just dont remember the game& I DO
+remember that I had a screenshot of ANOTHER GAME called Sweet Dance,
+which had the similar concept, but looks INCREDIBLY different,
+Graphics and gameplay wise. All I have is this screenshot of said game
+that Im looking for&. Like i said, its NOT Sweet Dance. If you can
+help me, PLEASE Let me know the name of this game!! All I have sadly,
+is this screenshot to offer, it was taken in 2019&. I remember being
+so obsessed with it.. and I would love to revisit it to see where its
+going now! I just want the name of the game cause I kinda wanna
+revisit some old games I played that I randomly got memories of.."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

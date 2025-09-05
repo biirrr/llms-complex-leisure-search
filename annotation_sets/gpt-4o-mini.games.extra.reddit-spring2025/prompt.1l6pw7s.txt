@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][Unknown] Childhood Game / Old YouTube gameplay. Hello!
+I was directed here from another subreddit, so excuse my rambling. I
+have very vivid memories of enjoying this gameplay footage on YouTube
+with no player input, only game audio, when I was younger. I've been
+using keywords of things I remember from it to try and find it again,
+but after three years of looking on my own I realized I might have to
+ask internet strangers for help. The game was cartoonish and had the
+premise of two kingdoms in a capture the flag esc style, sort of like
+clash of clans (with the aspect of soldiers fighting and barricades
+having to be broken through) but the twist was that each side was
+trying to eat the other sides cake first. This sounds really silly but
+I remember being big into the let's play community, and this was my
+favorite game to watch. I distinctly remember there being two queen
+type characters who would be the ones eating the cake when you won /
+lost. I know virtually nothing else about this game but I remember
+watching it would always get my hype and I would think it was funny.
+Everytime I bring it up, people think im crazy so im kinda just hoping
+someone knows what the game might be or the channel with these lets
+plays so i could rewatch them again. Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

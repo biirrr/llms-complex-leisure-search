@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][~2004] Racing game with hovercars and you could build
+your own tracks. It was around 2004, could be a couple years on either
+side of it, but you raced across a lot of different tracks, I vaguely
+remember a story mode but I don't think it was really one, I just
+remember building the tracks were my favorite part. All the cars were
+hovercraft, I don't think there were any weapons or anything. Maybe
+power ups but it's been so long I can not remember clearly"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

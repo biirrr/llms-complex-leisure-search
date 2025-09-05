@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [EARLY 2010s] Pixel art black and white side
+scrolling platformer. Solved: Canabalt Looking for an old mobile game
+I used to play as a kid (not even sure if its still in the App Store,
+probably 10+ years ago now), I remember it being in black and white
+(or maybe it was just night time) and it was raining. It started with
+your character bursting through a glass window at the very left of the
+screen at the start of each attempt and then running along rooftops
+trying to get as far as you could. The whole thing was in a pixel art
+style, and I think there may have been enemies as well. Any help would
+be massively appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

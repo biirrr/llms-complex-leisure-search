@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[DS][2010-2013] A game about mining for materials to create
+swords for arena fight. Platform: Nintendo DS Genre: Action,
+Adventure, Sandbox Estimated Year/s: 2010-2013 Graphics/Artstyle: 2D,
+pixelated, Front on (i.e. Not Isometric) Notable characters: Blonde
+haired protagonist, sibling of similar appearance Notable game
+mechanics: Mining for ore to create new swords/tools, arena action
+combat as a side scroller, level progression through ores acquired
+Further description: Hi all, I am very new to this so apologies for
+any errors but this has been on my mind for far too long now and needs
+a formal request (lol). I used to play a game a lot as a kid on the DS
+where the whole premise was around fighting in a 2D platformer-like
+arena and working to save the protagonists sister/bride (not entirely
+sure sorry). One of the big focuses of the game was that you would go
+and hunt for resources (such as ores, etc) from different areas to
+then make better swords to go into the arena and fight the next boss.
+I vividly remember there being this one stage where the protagonist
+fought in what looked like a play arena shaped like a castle with a
+bright purple sword against a green-ish boss enemy and a crown. The
+art style is pixelated and was similar to Locks Quest but it wasnt
+an isometric top down game. Please let me know if you have any ideas,
+and sorry if I misremembered anything. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

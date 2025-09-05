@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery Comedy heist cheese made from celebrity
+bacteria. I read this book within the last 12 months (so... 2024) but
+I have no idea where I got it from. Not the library. It was set as a
+comedic mystery/heist sort of in the style of Carl Haaisen but
+definitely not one of his. There's a man who contacted by a friend who
+wants to steal a wheel of cheese. It's priceless because it was made
+with the bacteria from some female celebrity's underpants. I think it
+was actually Carrie Fisher. Since she's dead it's not possible for
+this cheese to ever be made again. They get the bacteria from
+housekeepers who steal dirty underpants (I swear this is NOT
+pornography) or handkerchiefs or whatnot. THey discuss the possibility
+of stealing the cheese and either the plan doesn't work or they
+realize it won't and give up. But the handkerchief that was used to
+make the chief is still in existence. They go through all kinds of
+wacky adventures and in the end the handkerchief gets dunked in water?
+That is all I remember. I have tried googling and coming up with
+literally nothing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

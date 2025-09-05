@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s?] Something about runes set in a school. I don't
+remember much about this game, but there was a level set at a school
+and you had to collect runes while being chased by a monster. I think
+it was multiplayer and I remember watching a youtuber play it a while
+ago (8-BitRyan maybe?). Once you had the runes, there was a pedestal
+to place them on. There was also something about invisibility or a
+ghost? I vaguely remember something about searching inside cupboards
+if that helps. My best guess for the year would be 2017, but the game
+might have been made before that and the youtuber only made a video
+then. I've already tried looking through youtube, but searching
+multiple channels for a specific video after almost a decade is
+(un)surprisingly difficult. Any help is appreciated! =O=O=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

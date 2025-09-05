@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MacOS/PC?][2000s] Puzzle game with customizable robots. I
+played a game on Mac in what I think was the early to mid 2000s (not
+sure the exact year). It may have also been available on PC or other
+systems but I am not sure. I think we bought it at BJs, but also not
+sure. The gameplay was birds eye or slightly isometric. You had bots
+that you could customize the upper and lower portions of. The most
+notable part in my memory is that you could have the lower bits be
+treads (fastest), spider legs (slower but better at terrain), or I
+think a third option. It was somewhat of a puzzle game. There would be
+levels with obstacles or objectives, and you'd have to set things up
+(either on your bots or on the level) so your bots could get to the
+objective/end of the maze (and maybe bring something back? Or maybe
+not). You would set up your strategy, and then hit play and watch to
+see how close they came, before making changes and trying again. I
+remember the robots would come out single file like in a tower defense
+game and move across the map. The style was a bit gritty/realistic,
+maybe a bit dystopian. Apologies I know this is very vague. The bit
+about swapping out the movement mechanism is the most memorable
+aspect, though there was also a story and characters that you'd learn
+about between levels."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

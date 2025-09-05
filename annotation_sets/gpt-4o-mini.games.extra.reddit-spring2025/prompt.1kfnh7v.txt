@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2005?] unique keyboard UI, sci-fi game. PS2 I think
+Future/SciFi (shooter?) 2005ish 3D The only thing I remember is that
+when you type, the alphabet of the keyboard was layed out in a helical
+pattern that was oriented in a way you looked down the center of and
+you navigated it by rotating the stick to rotate the helix in order to
+select each letter or symbol. there's only one game with this afaik
+and it was a popular title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

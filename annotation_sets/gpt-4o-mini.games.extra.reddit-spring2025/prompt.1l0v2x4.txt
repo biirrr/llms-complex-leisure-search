@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [Early 2000s] A bleak RPG in which you climb a tower
+to kill god. First-person 3d dungeon crawler would be an apt
+description. It had a grimy and dirty art style with creepy monsters
+scattered around the levels. The combat was really clunky. You would
+start off in a hub area with various NPCs, all being very weird and
+having strange dialogue. I don't remember much else unfortunately. I
+might be wrong about the platform, it might have been on the PS1, but
+i'm not sure since i remember the game looking fairly good. But that
+might just have been rose-tinted glasses and nostalgia."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

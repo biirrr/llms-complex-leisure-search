@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Mid/Late 90's] 4X Space Game. Looking for a game I
+played back in the mid/late 90's, probably around 97 or so. It was a
+4X Space game of colonization, exploration, conquest etc. * Opening
+cinematic featured a cargo ship leaving Earth, moving through the
+solar system, and being attacked by pirates. As it reached its
+destination on Pluto, it was mysteriously sucked into a wormhole.
+Pluto sent a rescue ship and we followed into a big action set piece.
+* FTL was through this wormholes * You could upgrade your planets and
+build custom ships * There were about 6 pre-defined alien races
+(including humans), but you could custom build your own * Planets were
+graded on a Green/Yellow/Red scale for desirability. Different races
+desired different aspects--what was Red for one race might be green
+for another. * It wasn't Master of Orion, Ascendency, or Stars."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

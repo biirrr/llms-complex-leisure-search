@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "English police detective series. Male supervisor but not
+sure of his title. In one of the books the team is stuck on an island
+when a crime happens, they lose communication with the mainland and
+are sequestering everyone on the island to determine who the killer
+was. There are a male and female senior detectives and there may be
+chemistry between them. Believe the main character ( head detective)
+is married but not certain. There are a few books in the series but
+must be 7-10 years since I’ve read them so there may be more now."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

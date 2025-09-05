@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] main character can become corrupted and has
+multiple endings. Hi, I was wondering if anyone can help me identify a
+game I am thinking of. A while back I was reading about it from a
+suggestion I saw on a forum, and I forgot to make a note of it and now
+I can't remember the name of it at all. From what I remember I think
+it was a PC Action Sci-fi game (might have been a shooter), possibly
+set in the future, I seem to remember the game had two different
+endings and it depended on game mechanics. I think you could use some
+kind of A.I. implants to help you out and if you used too many, you
+get the bad ending where the AI admits it was using you, to corrupt
+you, and it ends up taking control of you, and I think in the bad
+ending the main character kills his love interest. The good ending
+avoided that and the main character ended up with his love interest.
+Does anyone know what this game might be please as I've been trying to
+find it again, based on what I remembered to no avail?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

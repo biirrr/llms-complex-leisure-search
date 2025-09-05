@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy series. Cover art was an evil looking man with
+colored ovals on his head. Read around 1995.. I remember reading the
+first book in the series around 95ish. MC is a young woman who helped
+the local wizard/enchanter/bead maker after his shop was broken into
+and his different colored dirt(cannot for the life of me remember the
+word for colored dirt used in glass making) was scattered everywhere.
+She sorted the dirt by feel. The beads were based on a person's eye
+color and could be used to control or read a person's thoughts? Fuzzy
+on this last part."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

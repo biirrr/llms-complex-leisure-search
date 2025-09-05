@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2020's?] low poly indie game about failure of nuclear
+warning messaging. 1st person, it's implied you play as a child. you
+start out doing tasks in a tiny village and the inhabitants are
+blocky/inhuman. it *seems* to be winter and there is some sort of
+festival soon. you are sent out to gather sticks and as you go further
+into the woods you come across warning signs and then a nuclear power
+plant/nuclear waste disposal. at this point the player will probably
+put the pieces together and realize it is a nuclear winter and the
+village is irradiated people who no longer understand the warning
+signs, finding new meaning in them. you go deeper and fall/jump into a
+hole in the nuclear site and at the bottom you find a doll in a little
+chamber. then the game is over. i *think* manlybadasshero might've
+played it and that's where i learned of it. i just don't remember the
+title and searching for """"""""post-apocalyptic"""""""" games is
+nearly impossible."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

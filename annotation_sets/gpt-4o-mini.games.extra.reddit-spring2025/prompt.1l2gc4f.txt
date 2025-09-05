@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc?][2014-2016] Game where you are with your daugther in
+Zombie apocalypse. Pc 2014-2016 Similar to that of """"""""The Last of
+Us part 1"""""""" Kinda like an interactive movie. The most I remember
+is the story you're basically with your daugther living in the middle
+of the forest because the world succumbed to the zombies, the story
+starts with you pointing a gun to your own head and remembering the
+events before this happens, meanwhile you have zombies trying to break
+through the door, outside the door there is a corridor filled with
+cans and other traps as well as some blood; the end of the game you
+have your daugther pointing a gun asking """"""""what dress did mom
+had when she came home infected?"""""""", all this because apparently
+you don't turn into a zombie if u manage to like remember or hold your
+memories/personality. Sorry for bad english"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

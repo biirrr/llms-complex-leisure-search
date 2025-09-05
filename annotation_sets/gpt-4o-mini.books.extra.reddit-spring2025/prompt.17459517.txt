@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book about musical theater with a purple cover and a photo
+of Rita Moreno in West Side Story [s]. It's some book by a guy named
+Stephen or something . Around 300 pages and had something to do with a
+number of years of popular musical theater. It's bugging me because
+otherwise I can't add it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

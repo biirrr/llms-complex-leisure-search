@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [2010s] A 2d game where you protect some sort of
+fort from monsters or aliens. A level or map looked something like
+that picture All characters and enemies are in black. You protect your
+fort from rounds of monsters, I remember one monster is slow but is
+tanky and one is quick and has spider like legs. You can upgrade your
+defenses. The defenses include machine guns. There were also different
+maps or levels I'm not really sure... Before the enemies start
+spawning, the soldiers from outside the fort come inside to protect
+it. I can vividly remember the icon for the gane being red."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Name of non-fictional book about family in early 1900's
+living on Colorado plains. [s]. Hi I was hoping someone could help me
+out. I read a book that I can not remember the author or title of. The
+plot was this young girl and her family get some land from the
+government in Colorado I think it was for the homestead act. They move
+out there to the middle of nowhere on the Colorado plains. They grow
+broomcorn. The winters are really really harsh. They have some kind of
+weirdo neighbor. I think they lived in a sod house or some kind of
+dwelling that was built kinda underground. I believe the author was a
+female. If you think you may know please let me know. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

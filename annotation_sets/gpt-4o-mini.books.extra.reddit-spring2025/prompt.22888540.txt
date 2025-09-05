@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Dark Romance series. The male character meets female
+character after their divorce in hospital as his mother is admitted
+due to heart attack. Read around 2022. Spoiler. [s]. Spoiler This book
+is a series of novel which starts with the female and male character
+meeting after long time of their divorce in hospital as male
+character's mother is in hospital due to heart attack and after that
+they have to stay in the one house due to snowstorm and from there the
+story goes on retelling on why they divorced and how female characters
+father never liked the male character and helped her to get the
+divorce but now he is dead and also how he( male character )becomes
+very rich and takes over her company and to take back the company he
+forces her to marry him again I think I read this book around 2022 and
+the series is not complete and maybe it's 3rd sequence in this novel
+was going to be released by end of 2024"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

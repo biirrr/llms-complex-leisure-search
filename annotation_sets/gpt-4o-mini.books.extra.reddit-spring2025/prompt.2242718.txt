@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Humor/parody book about altered art [s]. Last June, I was in
+a Barnes & Noble and found a hilarious book that was a parody of the
+altered art/mixed-media/Somerset Studio magazine type of art. Like
+vintage/Victorian/Edwardian little girls with fairy or butterfly
+wings, with inspirational messages pasted onto the background. I think
+the cover had a little girl with wings. I think the title had
+something to do with puking rainbows or glitter. The artwork inside
+was all parody, with sarcastic quotes/messages instead of
+inspirational ones. It was a softcover, bigger than a trade paperback
+but not huge. I think it cost about $15 USD. I've tried searching for
+it on Google and Amazon and can't find anything."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

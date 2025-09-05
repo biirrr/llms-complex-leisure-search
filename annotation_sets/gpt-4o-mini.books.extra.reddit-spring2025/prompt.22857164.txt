@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Contemporary fiction. Rural setting, teenage girl living
+alone with her father. [s]. The story is a first-person narrative,
+from the POV of a teenage girl, probably 16 or so. She lives with her
+father, just the two of them and not by choice - the mother's absence
+is an important part of the story. Father and daughter have a
+difficult relationship - the one scene I remember is he made her kneel
+on the kitchen floor as punishment, while he sat at the table reading
+the newspaper. There may have been rice involved, as in either he made
+her kneel on uncooked rice, or he threatened to, or she was grateful
+that he didn't. I don't believe the father is actually abusive to her,
+IIRC it feels more like he's trying to do his best under difficult
+circumstances. Additional details: *Takes place in a small town or
+farming community *Setting is contemporary to the time it was written
+- I think early 2000's *Probably a female author, probably Canadian
+*It's a coming-of-age story, character-driven rather than plot It has
+the same kind of feel as A Complicated Kindness by Miriam Toews, but I
+just re-read it with that scene in mind, and it's definitely not the
+right book. I appreciate everyone's help on this!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

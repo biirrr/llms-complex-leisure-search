@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] Fantasy puzzle game with goblins, fog, banshees,
+and a female narrator. It was a 3D isometric puzzle/management game
+with a realistic fantasy aesthetic. You controlled small goblin-like
+characters, each with 4 different skills (I clearly remember three of
+them: music, gathering, and scholarship/learning). The main enemies
+were like banshees, who brought a creeping fog that lowered your
+characters morale**.** The map started mostly covered in fog, and you
+had to explore and push it back slowly. Sometimes characters had to
+enter the fog to retrieve items and they distract the banshees with
+music. As you advanced, you found other goblins who were lost in the
+fog and joined your group. There was a main story with puzzles, most
+of which were sequential (only a few available at a time). The game
+had a female narrator (voice-over only, no character model). She
+narrated the story during short cutscenes. There were no day-night
+cycles, and the map was predefined, not randomly generated. The
+atmosphere was calm and magical, with Celtic or relaxing music. I
+*think* I downloaded it from a casual game portal like Big Fish Games
+or Reflexive Arcade, but Im not 100% sure. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

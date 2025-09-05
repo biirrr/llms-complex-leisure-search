@@ -1,0 +1,35 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Contemporary Romance: Secret baby. Rich girl to poor,
+builds a event business. Poor guy builds wealth, it’s his wedding
+she’s planning. Her lost family estate is in the mix.. Hi all, thanks
+for looking. This one’s just stuck in my head and I can’t fond it
+anywhere! Ebook Read between 5/10 years ago, could be older in hard
+copy (I don’t remember tech) Set in London(?) in the 1990ish? MFC is
+from a wealthy family (possibly noble), but had inheritance tax issues
+when the grandfather died. The mother was trying to sort it out when
+she died in a car crash. The double inheritance tax issue left the
+estate finished. The team/gov in charge of the estate agreed to sell
+it as is to a rich rocker who wanted everything in place, so MFC had
+no choice but to leave with nothing. As a privileged girl, she had no
+skills, so she started in event planning (parties). Eventually she had
+a well known business. MMC grew up poor and built a huge business.
+Wanted to marry into nobility/wealthy circles to show he made it. His
+bride was a poor/ex-wealthy one who wanted to marry money. The bride
+built this ridiculous wedding saga, and then ran out just before to
+marry her poor love. While sorting out the non refundable wedding
+bits, they give into their attraction… loose touch, missed messages,
+secret baby. MFC is hired to manage a charity function at her old
+estate. The MMC arrives back to find out his new home has been loaned
+out to a charity event, and the event planner is pregnant and he
+thinks she preparing to marry the baby daddy. She thinks he knows the
+baby is his, but chooses not to acknowledge it. Thanks ☺️"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

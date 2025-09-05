@@ -1,0 +1,36 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. American woman meets her ex boyfriend
+(British) years later. She's in her 30s and works in/ owns an art
+gallery. As young art student in Venice, she met boyfriend in Venice
+when they were about 19-20 years old. Read ~2012-13. [s]. Hi, I'm
+looking for a romance novel where the main character (a woman) meets
+her ex boyfriend years later. She's in her 30s and works in an art
+gallery (or maybe owns one, I'm not sure) and met her boyfriend as a
+young art student in Venice, Italy, when they're both about 19-20
+years old. From what I remember, he should be British and she should
+be American, and they had to separate once she had to go back to the
+US. It's mentioned that they tried having a long distance relationship
+but ultimately they broke up and never heard from each other again.
+One day, ten or maybe more years later, she meets him again (she lives
+in the US now) and spends the night with him. But she doesn't
+immediately recognize him and realizes who he is only in the morning,
+when she wakes up in his bed. And for some reason I don't remember,
+she's not happy about finding out that he's her ex. The female
+character reminded me a lot of Becky Bloomwood from the Shopaholic
+Series by Sophie Kinsella (as in, 30-something straight woman who's
+starting to doubt a lot of her life choices). I started reading the
+German translation (it was a paperback edition) in 2012-2013, but the
+original was in English. The author is female and I *think* she's
+British but I'm not sure. The original had probably been published
+between 2008-2010 and was set in those years. I never finished it, so
+I don't know anything else about the plot. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Dark Romance. Woman runs from sexually abusive
+husband, lives in car, gets job in bar, falls for the bar's owner,
+husband finds her... Spoilers.. I was reminded of this book but cannot
+recall the title or author or any of the characters names. The main
+character arrived in a small town and was sleeping in her car. Another
+woman helped her get a job at her brothers bar and a place to stay.
+She falls for the bartender but has a lot of emotional baggage from
+the sexually abusive husband. The husband finds her and tries to
+abduct her but takes the bartender's sister instead. The women tries
+to save the sister but ends up abducted too. The bartender tries to
+save them but the sister does not make it. I've never read a book that
+involved sexual abuse in detail before and it burned into my memory
+but just not the title. I read it within the last 10 years I'd say."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Java] [2010s] Keypad phone game. In this game you can
+select gender of character. You have roomate who helps character at
+start. MC failed last year in story. There are no parents shown in
+this game. There are various groups of students like nerds, goths etc.
+There are heart used to show relations. MC needs to convince these
+group to help him pass. There should be around 5 groups. There are
+jobs in game to earn money, they are mini games mostly. There is
+hookup option for character if relation is high. When pressed charcter
+is pixelated to show hookup scene. In the end mc decide to have
+principal possed to give him degree. Those groups help him to achieve
+that. Principal daughter is also in one of the groups. They sacrifice
+principal pet(parrot maybe) to summon satan, when satan posses
+principal he says he never seen such evil person and he might not be
+able to possess him for long. In the end pricipal regains control and
+cancel his degree but somehow those groups help him to get his degree
+as there is some rule, don't exactly remember this part. This game has
+gameplay similar to paris nights. I played this game on keypad phone,
+around 2008 or something. Download from phoneky website. It's not high
+school hook up or high school days."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

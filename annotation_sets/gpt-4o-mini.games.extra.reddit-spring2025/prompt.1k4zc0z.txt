@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] A really weird cop procedural about negotiation
+skills. PC Cop procedural, choose your own adventure style 2000s very
+pixelated it ranges from a estranged father with a bomb threat to get
+his kids back to romantic compromise the graphics are very rough but
+sort of sexy, and there is a haunting theme song throughout It's
+episodic, and I believe was actually used as a training game for
+people in law enforcement"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

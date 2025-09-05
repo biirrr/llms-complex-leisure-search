@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser Game] [2010?] A game where you are a Red ninja.
+This game, you are a Red ninja(Female, i think), platform et, 2d,
+where you fight Monsters, i Remember the First level which was a
+mansion, and i Remember the game over screen, where you are on a
+sacrificial table, and tied to It, and each life, strange figures
+appear, until the main One, stabs your Heart, any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

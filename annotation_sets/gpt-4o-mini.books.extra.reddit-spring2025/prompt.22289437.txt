@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Holocaust Survivor Memoir - Treblinka - France - lost 2nd
+family to fire also - read circa 1984. [s]. I think fire is in the
+title. It is the survivor memoir of a man who survived Treblinka but
+lost his family to ""the fire"" i.e. the crematoriums. He gives
+details about his survival, building a new life, finding love again
+and becoming a father with his postwar wife. And then...his wife and
+children (and dog?) are killed trying to drive out of a wildfire that
+was threatening their rural home. Their bodies were found still in the
+burnt (yellow) car. He compared the loss of his prewar and postwar
+families. I think he had 1 child with 1st wife and 2 or 3 with 2nd
+wife. This book has haunted me for years. I read it quickly as part of
+my research for a paper in 1984 or 1985, and have wanted to read it
+again ever since. Some details are vague in my mind, such as his
+prewar family situation. He may have been younger than I remember when
+sent to Treblinka and not married."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book read in 80s. Red cover. About growing up in
+an inner city street gang. [s]. I read this book either in either
+middle school or high school. This would make it somewhere between
+1983 and 1989. I think it was a nonfiction autobiography about the
+author growing up in an inner city street gang, told in first person.
+Trade paperback that I remember having a red cover with possibly black
+highlights. The only part I really remember was a scene where the
+writer’s gang kidnapped a rival gang member, tied him to a chair, and
+left him in an abandoned building until he was almost dead from thirst
+and hunger and then burnt him with cigarettes."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

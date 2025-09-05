@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s Science Fiction. Young boy is contacted by a
+small man, builds a space ship, goes to small planet to help a dying
+race. Read in 1950's. Spoiler.. Read in the fifties. Young boy is
+contacted by a small man named “Tyco Brahay” I think. He builds a
+space ship, goes to a small planet and saves the dying race of Mr
+Brahays people because they need sulfur. They get chickens who lay
+eggs and supply the mineral. I think it won an award."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

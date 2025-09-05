@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SUPER NES / MEGADRIVE / SEGA OR PLAYSTATION 1] [90-2000]
+retro game 2d maybe a shooter. Hello guys, Im looking for an old game
+in the 90's I think, sadly I can't remember which console it was :
+Maybe super Nes or megadrive or sega or playstation 1 ... And I
+remember very few things : It was a 2d horziontal view game, I think a
+shooter, but there was no modern weapons or fire weapons (not sure),
+not futurist either. There was 2 level I remember one where we was on
+the walls of a castle, with alot of enemys, maybe some was flying i
+think there was red bird, and you could go very fast, i think therer
+was maybe a mecanic for control the time or the speed, not sure. and
+we could walk back. and at the end we could go under the wall and
+there was some boss / maybe a dragon ? with a chest. And second level
+was in the desert / wastern cowboy, same 2d but I have few memory
+about it. I can't remember the kind of game, maybe a beat them all,or
+shooting game but not sure, I think there was co op too. The game was
+nicely colored and that the only things I remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

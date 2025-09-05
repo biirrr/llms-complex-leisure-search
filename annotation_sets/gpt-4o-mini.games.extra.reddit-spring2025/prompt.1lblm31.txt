@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[computer] [2010s] Help me find a plane crash game!. In this
+game, a man is flying a plane where an unexpected storm hits, and he
+crashes his plane on a tropical island. The levels are object
+searches and at the end of each level you discover an object that
+relates the ending. The game is themed around the Bermuda Triangle,
+and the mysteries that involve it I found this game on a website with
+thousands of games, but could never finish because I had to buy the
+whole thing I played around 2013-14 and very well couldve been a big
+fish game Thanks for reading, and for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

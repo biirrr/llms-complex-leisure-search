@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012-2015] A reverse angry birds game with cats.
+Platform: PC Genre: strategy (tower defense i guess?) Estimated year
+of release: 2012-2015 Graphics: soft, something like a mix of
+Kurzgesagt and old flash point and click games Notable characters: the
+main protagonists which if i remember correctly there are a girl and a
+boy who are siblings, there is also a grandmother character who is
+later revealed to be a robot or a bunch of cats in a trenchcoat
+Notable gameplay mechanics: a reverse of angry birds, you build a base
+around the main characters out of various furniture (like couches n
+lamps n stuff) and then in a corner there it shows what types of cats
+will be thrown onto the characters and you need to make it so they
+dont get thru and scratcg them Other details: later in the game as ive
+said there is the twist with the grandma and if im not mistaken a
+laboratory is revealed under the house"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

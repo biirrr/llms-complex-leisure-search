@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2015-2018~] First person horror game. First post on
+this subreddit! Been trying to find a game I saw on YouTube a few
+years ago, tried finding the video and searching around, didn't get
+anything. Game was released 2015-2018~, maybe sooner or later. First
+person horror adventure like game, had a 3d style, maybe pixel like.
+You play an unnamed character with a TV, maybe it was a VR headset,
+you sit at a table with these VHS tapes and pick one. Each VHS tape
+contains a small horror game, I only remember 2. You make your way
+through a blizzard and hide from a yeti by using bunkers. The other
+was you in the woods, hiding from the goatman. That's all I can
+remember, pls help me as I've been dying to play this game for myself,
+thanks! Edit: Video was made by 8-BitRyan and I'm pretty sure IGP also
+played in case that helps y'all!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

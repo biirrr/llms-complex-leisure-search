@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][?-2018] farm game where you trapped bears. I used to
+play this game on a old laptop I dont fully remember what you did but
+I do remember that you would trap bears or something similar in a cage
+if I remember correctly you where protecting chickens and if you would
+press the exit button a sad farm girl would ask if your sure"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

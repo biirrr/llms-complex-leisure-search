@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance, Harlequin presents: Heroine thinks hero
+(married couple) is still in love with his older married ex-lover.
+Published in last 10 years.. This is a relatively recent HP. Published
+in last 10 years. The hero and heroine get married (likely due to
+pregnancy). Heroine hears a lot about H's previous relationship with
+an older married woman from his relatives at the time of marriage.
+They all hated that woman who was from the same town/island/village
+where the Hero had grown up. The OW was actually an abused wife and
+was not evil as the family thinks. Hero helped her escape and is now
+happily married. But he doesn't explain this to the heroine till the
+end. She is suspicious and actually goes to meet her. Hero explains
+everything, buys her a dream house and grovels in the end."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

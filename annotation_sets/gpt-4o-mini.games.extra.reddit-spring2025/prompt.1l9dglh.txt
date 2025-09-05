@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1990] Pre-installed puzzle game. **Platform(s):** PC
+**Genre:** Puzzle **Estimated year of release:** 90s **Notable
+gameplay mechanics:** it was a game about untangling ropes and
+collecting gems **Other details:** it was a windows 95 pre-installed
+game if I recall correctly"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

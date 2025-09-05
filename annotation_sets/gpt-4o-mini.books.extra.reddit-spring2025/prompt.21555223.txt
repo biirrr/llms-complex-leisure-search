@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir, early childhood, woman author, South(?), humor. [s].
+Trying to remember the name of a memoir I read in 2013/14, wasn’t
+brand new then though. Written by a woman about her early childhood,
+lots of humor, maybe took place in the South, her mother read all the
+time, later author realized her mother was probably dealing with
+mental illness, father took her and her siblings camping in their van
+all the time. One specific detail I remember: author didn’t speak
+until much later than expected, then when she did, she spoke a full
+sentence. Neighbor next door was an animal border I think. Cover was
+possibly a black and white photo. Thanks so much for any tips!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

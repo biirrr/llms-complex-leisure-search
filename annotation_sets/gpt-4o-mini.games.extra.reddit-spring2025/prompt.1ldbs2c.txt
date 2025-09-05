@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [late 2000s-Early 2010s] Top down MMO with a cute
+artstyle where you played as robots(?). The games starts with you
+making a character and using an escape pod to land on an alien planet
+and during or after the tutorial you are given a pistol. the game has
+a cute art style. there were co op dungeon like missions. Top down
+perspective. 3D. IIRC you played as a robot and some enemies were
+plants. It was made by a mainstream company (might be EA or Ubisoft)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

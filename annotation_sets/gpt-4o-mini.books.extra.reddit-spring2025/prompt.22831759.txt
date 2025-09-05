@@ -1,0 +1,33 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-fi book about a woman trying to find her abducted
+son who communicates with her using electronics (?). Read in 2019.
+Spoiler. [s]. I read this book in 2019. I'm not sure it's really sci-
+fi though, but it has some qualities so.. Some school kids went on a
+trip in a bus and reportedly the bus wrecked and, I think, the kids
+all survived except her son whose body wasn't found. So she's
+depressed when suddenly her son starts communicating with her using
+electric waves or something like that to tell her that he had been
+abducted. There was a part where she was trying to convince this guy,
+who I think is her love interest, that she always thought her son was
+too special; the reasons she gave were: 1. A dog they had ran away and
+her son cried endlessly because he knew the dog had also died and not
+just run away 2. The first time he played poker or cards he did
+extremely well and won and she knew it wasn't just beginner's luck.
+Also, there was this part when she had decided to find her son herself
+that he communicated with her using I think a jukebox and another part
+where she enlisted the help of a hypnotist to help open her mind to
+communicate better with her son. Her son is 8 or more but I don't
+think he was up to 12. (view spoiler) [It was scientists who abducted
+him and they were running all these harmful tests on him.That's all I
+can remember. I would love to finish the book and any help would be
+appreciated. Thanks. (hide spoiler)]"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

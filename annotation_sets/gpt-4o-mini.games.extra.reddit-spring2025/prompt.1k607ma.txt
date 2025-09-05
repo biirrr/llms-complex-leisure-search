@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010's] Pony dress up game with race feature.
+Please forgive me for bad English! I remember always playing this game
+on my grandpa's device, but I don't remember if he used Apple or
+Android. After doing some digging on the app store for my phone
+(iPhone) I couldn't find it, which makes me think it might be an
+android only game, but i'm not 100% sure. It was available on the app
+store when I played it, not a computer game. If I remember correctly,
+the game takes place in the sky or in a fantasy setting. I know there
+was a dress up feature but I don't remember much of it. All I can
+remember is you could change the ponies body color. The pony also
+might've had wings. You could feed the pony carrots and other foods.
+There was occasionally an event in the game where you could race, but
+you couldn't do it at any time. I think you had to feed the horse in
+order to get it but I don't remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

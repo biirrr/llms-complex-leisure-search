@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2000s] A minigolf game set in a scifi setting with a
+dark atmosphere. Platform(s): PC Genre: Sports Estimated year of
+release: Mid-late 2000s(?) Graphics/art style: Simple 3D graphics
+Notable characters: None. Notable gameplay mechanics: On the first
+level, you hit the ball into a cannon that you can aim and fire. Other
+details: The first level featured a lava river which you needed a
+cannon to cross, and I think the third level took place inside a
+Pyramid (triangular but not Egyptian) that was filled with lava, and
+the final part of that level had you shooting the ball into the mouth
+of a Buddha statue that I think constantly opened and closed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

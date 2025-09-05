@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Travel Memoir, Non-fiction. Young couple with 2 small
+kids travel by boat across Europe. [s]. Hi all, Looking for a great
+recent book (published in last 10 years from what I remember) I read
+about a year ago about a young couple who decide to take the husband's
+old wooden boat and travel across Europe with their 2 small children.
+Book details: * The book is written from the man and women's
+perspective. *They save up for about year before the man quits his
+job. *They retrofit the boat to make it kid friendly. They get
+noticed/made fun of often for the flotation devices they put all
+around the boat. * They talk about anchoring near Paris and about
+travelling along the Mediterranean Sea * The book is not the following
+titles: South from Alaska, Into The Light, All in The Same Boat, or
+any of the books from the Gifford sailing family. Hope this is enough
+information. Any suggestions would be helpful! Thank-you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

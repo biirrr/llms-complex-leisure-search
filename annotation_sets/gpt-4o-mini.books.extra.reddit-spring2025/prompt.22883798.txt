@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Romance between a duke and his managing
+friend published 2010-2024. In between friends-to-lovers and enemies-
+to-lovers (think verbal sparring). The duke (MMC) makes a list of
+potential brides and has his friend (FMC) help choose between them
+because he trusts her judgement and intellect. They are possibly at a
+house party at the duke's house? They are alone together in a room and
+the duke chooses to kiss her knowing they will get caught. They are
+forced to marry and go through with it... (I can't remember the rest)
+Other random facts I might remember: - the duke chokes on a strawberry
+and his servant gives him sass - the FMC has pale blond hair so the
+duke calls her Sigrid or something like that - there's a scene
+(possibly in the opening) where the duke goes to the FMC's house to
+take tea and visit her"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance: Famous girl falls inlove with boy who has
+cancer. Set in Las Vegas. Hellooo. I´m looking for a book i read maybe
+in 2014-2018. The guy works driving a limo and also makes glass art,
+the girl is a famous singer (I think). They fall in love but the boy
+has cancer or some heart disease. They live in Vegas. I hope someone
+can help me please"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

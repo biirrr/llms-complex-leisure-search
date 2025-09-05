@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2016?][2D Zombie Defense Game] Looking for an old
+zombie survival game I played on Android. Im trying to remember the
+name of a 2D zombie defense game I used to play around 2016 on
+Android. Heres what I remember: """"""""The character is standing at
+the bottom center of the screen, behind sandbags arranged in a half-
+circle. """"""""Zombies come from the top of the screen in waves, from
+different directions but mostly from the front. """"""""The art style
+was cartoonish and clear. """"""""The player doesnt move from
+position, only aims and shoots using different weapons.
+""""""""Weapons could be upgraded, usually up to a gold tier. There
+were golden pistols, rocket launchers, and rifles (AK-like).
+""""""""There was a skill or ability that called down meteors with
+flashy effects. """"""""There were different zombie types: small ones,
+big tanky ones (like a white bear zombie maybe). """"""""Some levels
+had desert environments. """"""""The game had multiple stages and a
+survival mode. """"""""It was free to download, but had in-app
+purchases. """"""""It was a single-player game, no online mode.
+""""""""Touch controls, not twin-stick. """"""""Might have had a skill
+tree (attack, defense, special). Ive checked Zombie Idle Defense
+and similar titles, but its not that one. In the one Im looking for,
+you only control one character and there are no AI teammates. Please
+help if this sounds familiar!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

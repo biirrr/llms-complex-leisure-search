@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2012-2015?] visual novel about a group of people stuck
+in hotel. I remember i didn't play this game personally but i watched
+someone on youtube play a really long time ago. It was a group of i
+think around 6 people? 3 boys 3 girls? I remember the hotel
+receptionist was like.... possessed or something????? But I also
+remember a part where the protag sneaks into a girls bathroom to peep
+while she was showering....... one of the girls boyfriend went out on
+a waterski or something like that to try and escape but i don't think
+the plan worked out. I think it was on an island but that just sounds
+illogical to me but you know .. a possessed hotel receptionist is also
+illogical. For some reason i remember there was a part where the
+protag is looking for the receptionist and she's hiding in a cupboard
+or something like that? Could just be making that up honestly it's
+been so long."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

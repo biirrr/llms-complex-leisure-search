@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1] [late 90s] A game where you pick up a meat cleaver
+off of the counter in a kitchen. Ive been looking for this game for a
+longtime but Ive been searching hard for the last year or so and
+nothing has came up. I remember in the first level you are in a
+kitchen and you pick up a meat cleaver off of the counter to kill
+enemies with it and then you are in an office setting and a helicopter
+appears and starts shooting at you through a window while you duck
+behind office cubicles."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

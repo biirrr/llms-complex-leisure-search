@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-fiction, Middle Eastern girl is kidnapped. [s]. Plot:
+There was some sort of war on her village and her and some other girls
+were kidnapped and sold to a man as sex slaves. They were kept in a
+room with bars on the window, but eventually escaped. They were also
+at some sort of camp or something and there was one man who was being
+very nice to the writer, but he ended up saying he only wanted to
+marry her which upset her. Read: Last year, but the person who owned
+the book may have had it for a while."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

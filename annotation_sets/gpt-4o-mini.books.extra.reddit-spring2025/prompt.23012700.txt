@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery. Murder in an underground city in a Post-
+Apocalyptic World. Read 2000-2010.. First in trilogy. In post-
+apocalyptic world, people live in a vast underground city carved into
+rock. There are homes, businesses, and even a transportation system
+within the cavern. Above ground, the world is devastated, and remnants
+of the old world exist, including a ruined unnamed Library of
+Congress. There is a murder that the two main female characters
+investigate. Their stories run parallel then intertwine: Charlotte
+Mehan: A seamstress and Sgt. Lara Calladine: A police officer who
+investigates crimes within the underground city. Found the characters'
+names and setting using Gemini AI but its suggested book titles and
+author were not correct. Read the in early 2000s (2000-2010). Thanks
+in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

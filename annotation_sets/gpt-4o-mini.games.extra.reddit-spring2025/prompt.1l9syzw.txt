@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Flash] [2000's] Mouse Pointer Keepaway. There was a
+flash game I played some years ago. It was simple enough. Some kind of
+athletic sumo leaps and jumps all over the screen trying to grab your
+mouse pointer and you have to keep your pointer away. Game is over
+when they grab your pointer. I think they acted kind of smug if they
+wom really fast."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

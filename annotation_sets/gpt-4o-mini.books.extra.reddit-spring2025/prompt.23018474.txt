@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Horror, Alt-World book: German and/or WW1 Trench
+Soldiers are teleported either to Hell or an Alt-Dark World. Year:
+2013- 2020 (At the latest) Book cover has a gas mask man on front of
+the book while the background is covered in either red or fire. Story
+blurb has these WW1 Trench Soldiers being taken from their world into
+a worse place. Its either Hell or an Alt-Dark world just as bad. May
+have been mentioned on either Grimdark Magazine, The Weird Sub Reddit,
+Mark Lawrence Indie Books, or the Johnathan Mayberry's blog. It's a 3
+book series."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,38 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010] Low-poly, momentum-based, exploration game /
+platformer. **Platform(s):** PC **Genre:** Momentum-Based 3D
+Platformer / Exploration **Estimated year of release:** 2010
+(guesstimate) **Graphics/art style:** *VERY* low def / poly but still
+3d. Colors were really bright, lots of pinks and oranges. **Notable
+characters:** None, character was like a shape maybe a ball or a wheel
+**Notable gameplay mechanics:** Think [Jet Car
+Stunts](https://apps.apple.com/us/app/jet-car-stunts/id337866370) but
+way less definition, or the momentum based travel of [Exo
+One](https://www.youtube.com/watch?v=hgSfHNHY5Xg), and instead of
+racing you were just free roaming. Game was all about gaining momentum
+to get to new spots of the map, you would find a good downhill slope
+with a ramp at the end, and use that to hit some other platform to
+climb through a city of shapes. I remember trying the same jump / area
+over and over trying to get the angles right to make it into a new
+spot of the map. **Other details:** This was a game I played in middle
+school, somewhere between 2010-2014. I would play it on the school's
+computer, so it didn't need an installer or steam or anything to run
+it. There was a site you could go to and download games that would run
+even on school computers, and there was always some kid with a USB
+with a bunch of those games on it. One of the maps or areas I remember
+was sort of in the middle of the desert, with a big city / temple like
+structure in the middle of it that you would try to climb to the top
+of. There were some loop-de-loops that you had to get a certain amount
+of momentum for or you would fall off. The world looked similar to
+[Superflight](https://store.steampowered.com/app/732430/Superflight/)
+Games I know it was NOT: * Slope * Run 1, 2 or 3 * Proun * Refunct"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

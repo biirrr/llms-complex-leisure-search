@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[SNES or PS1][1990s early 2000s] Looking for a specific
+game. Slice of life JRPG with no combat. I've searched a lot and found
+nothing. It's a JRPG and I'm almost sure it doesn't have (oficial)
+translation. It's a JRPG, isomeric world with """"""""combat""""""""
+but not fights, about a boy life in a town. There's a turn bases
+""""""""combat"""""""", but is social and activity bases, no fighting.
+Also, its about a boy living in a small town in Japan. SNES or PS1.
+Kinda obscure and unknown. Anyone have any clue?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2000s] [PC] PC 2D Horse ranch mystery game for girls.
+UPDATE: FOUND IT. Its called: NIKKI - The first Adventure First of
+all: I'm from Germany! The Game was drawn in 2D, I'd describe it as a
+point and click with mini games, the characters don't move either, but
+talk to each other in freeze-frame. You're a (I think dark haired)
+girl on a horse farm and you click through and talk to different
+people and go to different places. The atmosphere is mysterious and
+there's a mini-game with darts!!! It's not really about the riding
+itself, but the story and conversations with other characters. When I
+played the game, it must have been around 2006-2009."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

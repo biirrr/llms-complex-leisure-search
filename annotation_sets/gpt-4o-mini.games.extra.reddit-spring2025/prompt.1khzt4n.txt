@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020s] A game about flying/managing a sea plane.
+Platform(s): pc Genre: flying/management Estimated year of release:
+2020s Graphics/art style: cartoony realism Notable characters: maybe a
+male and female lead pair Notable gameplay mechanics: you have some
+sort of warehouse/workshop/distillery? you fly out on delivery
+missions in your sea plane, and use the mission rewards, to upgrade
+your plane and workshop. the game was definitely focused on the sea
+plane flying part. I think the game, took place in a 30s European
+town, during some war, though the war wasn´t the main focus Other
+details: i remember that it kept crashing for me, hence why i had
+forgotten about it. all help is greatly appreciated :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

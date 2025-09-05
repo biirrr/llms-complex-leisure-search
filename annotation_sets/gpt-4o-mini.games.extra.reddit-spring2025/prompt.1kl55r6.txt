@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2021 or before]a game about a girl in a white dress and hat
+[MOBILE/PC? ][unknown] Sci-fi FPS. I don't remember its name, she's
+supposedly on a desert island exploring ancient ruins, she has some
+kind of thing with which she can teleport to her room and back to the
+island, according to the plot she met some boy on the island and I
+tried to catch up with him and ask him, but I couldn't, I couldn't go
+through this game any further, the graphics style was pixel art, there
+were no fights, it was purely a puzzle, I remember the girl had a
+partner / partner they didn't run together, but they occasionally
+called, teleportation portal, partner - a gallogram (something like a
+blue square popped up), gg runs around the island bumping into puzzles
+of ruins, some of them just jump through, and there were also those
+where after jumping on a certain platform, part of the structure of
+the ruins disappeared, if you jump on the same platform again, part of
+the structure of the ruins appeared again. The character from the game
+is almost similar to the one in the picture."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

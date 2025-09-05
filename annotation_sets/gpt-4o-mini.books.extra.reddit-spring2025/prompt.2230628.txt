@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Where America is and where needs to be. Few years old [s]. I
+read a sample of a book several years ago and have always wanted to
+read it all, but never found it again. I believe it was two
+international journalists that collaborated on a book talking about
+the way America does things compared to other countries and what
+America needs to do to get on the right track again. It was 2011 when
+I read the sample and I think it was new at that point. If you have
+any suggestions on other current events/politics/government
+suggestions let me know as well! Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

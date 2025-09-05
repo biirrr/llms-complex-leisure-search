@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s] Platformer where you play as a rooster.
+Platform(s): PC Genre: Platformer Estimated year of release: No idea,
+I know I played it in the early 2000s Graphics/art style: 2D
+animation, nothing particularly special Notable characters: Main
+character was a rooster superhero of some kind. I'm pretty sure he
+wore a cape? Notable gameplay mechanics: You jumped on platforms and
+ran around. I feel like there were power-ups but I can't remember any
+of them. Other details: One thing I remember specifically is one kind
+of enemy that when it hit you, it would go 'BEAT IT' and the main
+character would say 'OUCH'."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

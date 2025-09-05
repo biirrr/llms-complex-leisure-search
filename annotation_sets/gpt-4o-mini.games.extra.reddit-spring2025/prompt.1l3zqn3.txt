@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox] [2019-2022] [Team based zmbie first person
+shooter]. Hello Everyone I wanted to ask for help finding a roblox
+game I used to play. It was a team based first person shooter (one
+team being humans, one team being zombies and if humans died they
+joined the zombie team). I remember a couple specific zombie types you
+could play as, one had the ability to charge at an opponent and deal a
+ton of damage but was othrwise weak and another that could use its
+tongue to keep a human in place. I think that the game was similar to
+left 4 dead versus but it was not branded as a roblox version of that.
+I also remember that the lobby music was the jellyfish jam song from
+SpongeBob. If anyone has any idea on what this could be, please do let
+me know."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

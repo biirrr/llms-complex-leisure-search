@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Dystopian fiction. Future U.S. Art/ expression
+forbidden.. A teenage boy lives with his mother and youngster sister.
+The government is trying to control all children by forcing them to
+take drugs, so they all think and behave the same way. The mom is
+involved with the school where the children will get drugged, but she
+only manages to keep her son from getting the drugs – not the
+youngster sister. Younger sister goes freaky, they escape to Canada, I
+believe – and the teenage boy did some kind of artwork in a tent that
+(I think) honored his father, who may have been taken away by the
+government. It turns out he’s pretty well known in Canada, because his
+artwork story has been circulated. They are working on deprogramming
+the younger sister when the book ends, trying to get her back to some
+sort of normalcy. And I want to say the book was from the 1990s or
+early 2000s, and a female author (but any and all of that might be
+wrong). I got a library copy in 2018 at a library book sale (book was
+taken out of circulation). NOT: “The Pill” or “Among the Hidden.”"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

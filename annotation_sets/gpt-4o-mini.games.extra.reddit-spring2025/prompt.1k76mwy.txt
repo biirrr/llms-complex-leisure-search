@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[mobile][2010-2015]Zombie management game like """"""""this
+war of mine"""""""". Am looking for a game that was from like 2015,
+thats just missing from the internet, chat gpt failed , i failed so am
+lookin from the ancient Reddit knowledge. Its game play is very
+similar to """"""""this war of mine"""""""" but only with a single
+character, for what i remember the main plot its that u are looking
+for ur daughter, i remember the game has some rogelike features. The
+combat was very simplistic, like text combat from a dnd game, the only
+3 views of the game were from the shelter like """"""""this war of
+mine"""""""" where u could upgrade ur shelter , the map from were u
+could travel and the exploration options that was basically explore
+more or come back, and there was sometimes an even that u found like a
+hidden room that basically meant that u had to clear it on 1 go or u
+dont get the loot. The style was realistic black and white on the most
+part."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Arcade][1990] Multi-challenge game, one mode involved
+shooting upward through a regenerating rainbow barrier. * Platform:
+arcade * Genre: action (multiple different challenges) * Released:
+Sometimes in the late 80's probably * Graphics/art style: 2D/flat I
+played this game around 1990 at a now-defunct campground arcade in
+Leon, NY. The game had a main menu or screen where you could choose
+from four different challenges using up/down/left/right input. Each
+challenge had a distinct gameplay mode. The one I remember best
+involved a man (maybe an astronaut?) inside a capsule or tube. The
+player could move up/down/left/right but always faced upward and shot
+upward. Above was a multi-colored (possibly rainbow) horizontal
+barrier that kept regenerating from right to left IIRC. The goal was
+to shoot a hole in the barrier and quickly move through it to reach
+the top of the tube. I believe another challenge involved starting at
+the bottom of a vertical playfield, with bats spawning near the top.
+You had to shoot them while making your way toward a target zone near
+the bats' spawn point. That part might be from a different game,
+though  my memorys hazy because I was a small child at the time. I
+dont recall the music or sound effects, and I havent seen this game
+mentioned since. Any ideas? Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

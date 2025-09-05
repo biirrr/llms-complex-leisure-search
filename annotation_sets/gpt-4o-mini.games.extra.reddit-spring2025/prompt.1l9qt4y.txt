@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [early 2000s] First Person Shooter with goofy colourful
+aliens as enemies, set in Berlin. Platforms: PC (only probably) Genre:
+First Person Shooter (maybe 3rd Person) Estimated year of release:
+between 1999 and 2005 Graphics: rather colourful and over the top,
+apart from that quake-like i suppose Notable characters: Not sure
+Notable gameplay mechanics: I remember there being only a handful of
+enemies, all of them being some kind of colourful aliens, the guns
+were rather futuristic as well. Each enemy had a certain strength, so
+the model you meet would decide how hard they would be to kill. Even
+though it was a shooter, it was kind of """"""""kid friendly""""""""
+Other Details: I remember the whole game being set in Berlin. I think
+there was a subway level and some point i think you entered the
+Bundestag. Thanks for the help, really curious if anybody remember
+this fever dream, i didnt find anything yet."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

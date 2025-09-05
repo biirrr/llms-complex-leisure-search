@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy. Knight searching for dragon whose hoard is
+books. Spoiler.. Plot: Knight hired to kill a dragon and keep it from
+stealing the kings money. Female (in human form) ends up injuring
+knight when steeling the money. She keeps the knight with her at her
+hoard for several days before releasing him. Her hoard is made up of
+books. The knight wishes to become her partner, she challenges him to
+find her after she releases him. Spoiler: Knight ends up opening a
+bookstore to lure dragon to him I believe that in the same series
+there is a book about someone whose hoard is stones/gemstones. Read
+this story in the last 1-2 years, unsure how new the book was at the
+time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2004-2007]Stickman game that have the goal to kill
+someone with different approach. \*\*Platform(s): PC \*\* \*\*Genre:
+Click / Puzzle \*\* \*\*Estimated year of release : Early to mid
+2000's \*\* \*\*Graphics/art style: Flash game-ish, Stickman \*\*
+\*\*Notable characters: Main stickman protagonist and someone walking
+\*\* **Notable gameplay mechanics: there's multiple level and each
+level have different way to kill the target** \*\*Other details: So,
+back when I was 6 (2005-ish). I always play this game. It was
+basically stickman game with the main mission of each level to kill
+someone. It was offline game and not connected to internet The person
+that we need to kill is usually walking from the distance Each level
+has different weapon like you need to move the boulder, or you need to
+flick a switch, or kill with boomerang, or there's some twist that you
+need to catch that boomerang or you would struck by it in advance
+level The level is just single map, only the killing method is
+changing Please, it's been 9 years and all I can find are those
+stickman flashgame on website\*\*"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

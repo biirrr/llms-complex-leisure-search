@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Childrens/ Tween? fiction - Young Black living in the city
+and everytime afterschool she went to the corner store with her
+bestfriend.. I don't remember much as what's in the title, I read this
+book in elementary and found it in our library. I remember that the
+main character's name started with a D and whenever someone like her
+friends or kids in the book the book would say ""Hey"" she would say
+""Hay is for horses"" and she would visit the corner store a lot with
+her best friend and one point in the book got in trouble by her mom
+for whatever reason. Also something else I am sure on is the book is
+yellowish/orange with a black girl on it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

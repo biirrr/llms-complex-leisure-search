@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Play as shark monster against other players..
+Platform(s): PC Genre: Some form of PvP where one player is a kaiju
+like monster trying to reach an objective against multiple other
+players. Estimated year of release: 2010-2015 Graphics/art style: A 3D
+cartoony aesthetic with bright and vibrant colors, perhaps leaning to
+a more cell shaded art style. Notable characters: The main monster was
+some sort of walking buff shark, with the traditional shark head
+sitting atop the body. I believe the other players were humans but I'm
+not too sure. Notable gameplay mechanics: The shark would rise out the
+water at the beginning of the match and the objective was to either
+defeat the other players or reach/destroy a certain destination. I
+think the enemy players would have to damage the shark and drain its
+health bar to defeat it thus winning the game for their team. I barely
+recollect there being yellow, circular objective markers for the shark
+to walk towards but this could be a misleading memory. Other details:
+The game was decently popular on YouTube, nothing major as a majority
+of large creators I don't recall ever playing it. I do think it's the
+possible the YouTuber Cartoonz played it, but that's a stretch as far
+as I'm concerned."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

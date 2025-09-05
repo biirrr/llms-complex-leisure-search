@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Plot twist (in comments). Two boys go on an
+adventure (city? jungle?). Troublemaker started fires? Depressing.
+Possibly Australian? author, not a big name author. Read around 2007.
+Spoiler.. Fantasy/ suspense/ twist ending read around 2007 starts off
+with two boys who go on some adventures I think, not sure of the
+setting, city? Jungle? But in the end the story was just this dream
+world created by a boy whose mind was disabled by his brother ( or
+friend? Accidentally I think.. but this isnt revealed until the end.
+So this whole time the story is in the disabled boys head but then
+switches to the other boy's perspective to reveal what really
+happened. Cannot remember anything before the plot twist ending! It
+was really depressing. I think the author was Australian. It is not a
+big name author. I think the character's name was Finn,not sure which
+one. Seems like Finn was a troublemaker who started fires or
+something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

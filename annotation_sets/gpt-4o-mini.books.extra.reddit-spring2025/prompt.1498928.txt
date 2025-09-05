@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "couples elope man murdered woman kidnapped [s]. Years ago I
+read this fiction book about this place that young couples went to
+elope. The men were tortured to death and the women were kept in this
+harem type place but they were forced to dress and act like little
+girls. I thought it was called The Nursery but I must be mistaken
+because putting that into any search engine doesn't return with the
+storyline that I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

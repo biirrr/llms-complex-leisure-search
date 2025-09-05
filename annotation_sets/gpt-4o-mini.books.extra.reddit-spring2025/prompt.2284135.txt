@@ -1,0 +1,26 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "written by a teacher about one of her students who is
+selectively mute - the girl oddly knows how to use an old school video
+recorder - teacher things the girl is being abused [s]. I thought this
+book was by Beatrice sparks, but that wasn't it. I looked thru all
+hers. I believe the author of this book was a psychologist or some
+kind of therapist who wrote books based on their actual patients. It
+was a young adult book. The girl in the story does not talk and the
+teacher seemed like she was on a mission to get her to open up. The
+girl eventually attaches to her and stays after school and spends time
+(the teacher) in a little room. The girl screams bloody murder and
+didn't think anyone could hear.. like a soundproof room. The girl was
+upset by that. The teacher brings in an old school video camera and
+the girl strangely knows how to work it. The teacher seems to think
+there is the possibility that the girl is being sexually abused by her
+father. The girl has 3 or 4 younger sisters."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

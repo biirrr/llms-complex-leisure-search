@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Tropical climate, daughter abused by father after mother
+leaves - mom tried to take girl with her but the girl went back for
+something And got left behind. Fiction 10+ years old Possibly based in
+third world country Definitely based in the tropics Mother runs away
+with another woman (friend or lover, I’m not sure) and tries to take
+her kids with her. Her daughter goes back for something and ends up
+being left behind. Daughter is terribly abused by father after mom
+leaves. They lived in poverty. I believe there was a locked room she
+was never allowed to go into. I believe she eventually gets in and is
+shocked by the contents. There was imagery of birds. SOLVED on another
+forum. Cereus Blooms at Night by Shani Mootoo."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

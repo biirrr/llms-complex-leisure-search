@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][Pre-=2017] Horror game set in large mansion. I'm
+looking for a horror game set in a large mansion. I seem to remember
+one of The Creatures playing it back in the day, either Nova, Sly or
+Immortal, I think. It was a horror game where you pull up to and
+explore a large house/manor in the middle of nowhere. The game was
+either an indie game or maybe just old, pretty poor graphics. I seem
+to remember some mechanic involving lighting candles. Maybe that's how
+you saved? Not sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

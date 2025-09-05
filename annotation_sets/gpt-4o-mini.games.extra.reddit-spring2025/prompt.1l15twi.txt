@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Unknown] [Unknown] horror game about mother who stalks you.
+It's very vivid yet vague memory, I remember then I was stupid little
+girl I used to watch russian gameplay videos and there was this
+game... Graphics and Artstyle: Probably something like old PSP as in a
+Megaman Legends style, everyone around is like somewhat monochrome,
+you have forest and lake location Notable Character: Weird black
+shadowey femmenine like figure, with almost unemotional or unimpressed
+look on the face which is our main monster I'm pretty sure is a woman,
+I remember her being like some sort of mom by the dialogue or
+something (the appearance I remember, pictured here) Gameplay:
+basically classic POV screamer horror plus find certain thing, in this
+one is basically go to houses and find a key with chest in it? And yep
+we should be seen by monster. I didn't seen the rest because of the
+age It's not like I'm hallucinating or something, please believe me
+this game is real=O=O=O"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

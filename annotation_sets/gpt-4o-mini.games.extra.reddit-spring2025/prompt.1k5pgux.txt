@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][1990-2005] Platformer game where the main character is
+a child. SOLVED: Bud Redhead The Time Chase I played the game on PC.
+It was a platformer just like Jumping Jack, and similar games. It was
+an old game, that kinda looked like it was released post SNES era. The
+game was pixelated, but it was a little more detailed than a SNES
+game, maybe like a PSX game. The first level was in the jungle/forest,
+then it had a Castle level and one of the more advanced ones was on a
+spaceship. The main character was a dark skin kid, and I think you
+didn't had any weapons. I really don't know what else I can say.
+Thanks in advance to y'all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

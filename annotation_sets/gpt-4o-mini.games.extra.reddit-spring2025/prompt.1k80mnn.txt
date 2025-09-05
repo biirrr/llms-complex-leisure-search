@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES] [1985-1987] Action Adventure Post Apocalyptic Dungeon
+Crawl. Hi all, I recall playing a game as a translated NES ROM in the
+early 2000s. The game was a top down dungeon crawler with puzzle
+elements. The game was set in a post apocalyptic future where
+technology and magic had mixed. The protagonist was tasked with
+delving four elemental dungeons to gain access to a flying castle to
+defeat a warlord. The game had action elements, very similar to The
+Legend of Zelda. Some things I remember, the game came out around the
+same time as The Legend of Zelda and was outsold by it, leading to no
+export and translation. I think the main character had a pink color or
+hair. The apocalypse may have been caused by a nuclear war. I found
+this game and a short history on an old ROM collection website. Let me
+know if anyone can remember this game or it's title!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

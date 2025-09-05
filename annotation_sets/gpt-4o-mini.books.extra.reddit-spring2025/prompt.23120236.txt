@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Dark Romance – Former stripper working in a bar. Tech
+CEO offers money for a length of time. Read around 2017-2019. Self-
+published.. Hi all, I’m trying to find a dark romance novel. It’s
+probably a self-published. I read it probably 2017-2019 Here’s what I
+remember: The female main character used to be a stripper, but she now
+works at a bar in the city. The bar is described as the only one in
+the city that still has live music. Her boyfriend also works at the
+bar, but he doesn’t own it, and he’s not abusive. One night, a man
+walks into the bar and recognizes her from her stripping days. He’s a
+wealthy tech startup CEO, and he makes her a proposition: he’ll pay
+her for a week or a month to be with him. It wasn’t a super dark or
+taboo story—more of a “mid-dark” romance in tone. I remember reading
+it on Amazon Kindle. If anyone recognizes this, I’d be incredibly
+grateful. Thank you so much in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [00-05?] GTA like game with a cop that would drive
+around doing missions.. Platform(s): PS2 Genre: Action Adventure?
+Estimated year of release: Not sure Graphics/art style: Notable
+characters: Yakuza members, Triad? Notable gameplay mechanics: you'd
+roll around in a non standard police car doing missions. You'd
+sometimes have 2 guns I think and could do a lot of barrel rolls. Also
+hand to hand combat. Think GTA but a while ago. Other details: The
+game was heavily Asian themed and goofy. Think like San Francisco type
+of Chinese / Bruce Lee overdone themes. Or big trouble little China.
+The dude you'd play as would crack jokes and was a cop or something.
+Each mission had some storyline attached and the general themes were
+just goofy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

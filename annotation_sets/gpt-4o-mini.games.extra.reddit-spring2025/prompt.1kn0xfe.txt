@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][Unknown] Minecraft knockoff stuffed with fantasy..
+Platform(s): Mobile, pc? Genre:survival, rpg Estimated year of
+release:2008-2012? Graphics/art style:like a realistic (but crappy)
+shader of blocks was put over minecraft. rendered water ripples, very
+exaggerated lighting looks kinda like survivalcraft. Notable
+characters: it had bosses i remember a giant spider named aragorn or
+something like that. Notable gameplay mechanics: shield and varying
+weaponry Sword, spear and axe were usable. I remember there being
+crossbow and a bow Other details: Had dragons Had little spiders as
+enemies Had wolves Npcs mostly enemies (or i only remember them being
+mad)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

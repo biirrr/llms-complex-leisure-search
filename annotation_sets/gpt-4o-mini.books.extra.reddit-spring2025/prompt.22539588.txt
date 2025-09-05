@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction book about punctuation. NOT Eats, Shoots &
+Leaves. [s]. I recall reading a book a few years ago that I believe
+came out AFTER Eats, Shoots & Leaves: The Zero Tolerance Approach to
+Punctuation that recounted the non-fictional adventures of a few avid
+grammarians that went on a spree correcting signage across America. At
+one point they ran afoul of the law and pointed out that they'd been
+accused of violating public statues (sic) I'm having an extended
+senior moment though and can't recall the name. Can anyone remind me?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

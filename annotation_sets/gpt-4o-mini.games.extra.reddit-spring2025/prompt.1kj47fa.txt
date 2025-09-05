@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile] [maybe late 2000s/2010s] 3D cartoon violent kart
+game. Im looking for an old mobile kart game I used to play when I was
+younger: it was in 3D with a cartoonish graphic, all the characters
+were fat, there was a bit of """"""""gore"""""""" (blood and bones)
+when you hurt your character and maybe explode if you crash, there
+were a lot of costumes for the characters and many of them were
+references to other more popular characters (super Mario, sonic, maybe
+walter white, zelda and many others), it had a mode where you can
+create you own track and try it, dont remenber if it was multiplayer.
+I've made a few sketches of what i can rember of the characters model
+and game icon."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

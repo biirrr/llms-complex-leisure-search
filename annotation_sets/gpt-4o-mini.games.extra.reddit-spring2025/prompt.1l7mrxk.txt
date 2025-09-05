@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc, Flash] [Early 2000s] A game with this HitMan sorta
+vibe. I dont not remember the name nor what website I played it on,
+but as a kid I was hella intrigued by it. Pretty much the game was you
+playing as this character (typical 2d rayman style model) and you were
+dressed like neo almost = and the enemys were like these
+zombie,clown,demons. . . All I generally remember was shooting some
+giant clown head that was pretty wicked and scary looking. Please help
+I am entirely lost.=- Also I forgot to mention it is a 2D slider style
+game (POV). Theres also a lot of gore and I believe cursing Im not
+100% on that but definitely gore."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

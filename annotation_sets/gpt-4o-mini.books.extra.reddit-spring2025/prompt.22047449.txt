@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book of Obituaries. [s]. Hey, there was a book I stumbled
+onto a sample of on Amazon back in 2000s, I think, where it's like a
+book of fictional obituaries, but ones written about real people. To
+clarify, the people are real, but the obituaries written about them
+are fictional. Basically, the author wanted to use the obituary format
+to explore the complicated legacy of various historical figures or
+celebrities. I know one of these obituaries was about the guy who
+invented the AK-47, Mikhail Kalashnikov."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

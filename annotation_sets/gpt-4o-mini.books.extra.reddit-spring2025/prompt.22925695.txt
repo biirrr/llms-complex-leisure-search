@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy. Dark academia book about a guy who’s parents are
+self help gurus, and he’s shown sharpie-ing words out of one of their
+books in a fit of angst to create some sort of poem.. He’s friends
+with another guy, who in their shared science course decides to do
+their project on- I think, extra powered humans (??) (but that’s a
+maybe, I’m not sure). Either him or the friend are apparently
+extremely intelligent and they attend a very prestigious college. I
+only read a little bit of this book before I dropped it, so that’s why
+I only know this much. It was some time earlier this year or last
+year. Any help would be appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

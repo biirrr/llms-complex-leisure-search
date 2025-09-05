@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?] [2010s/early 2020s?] 2D pixel art platformer where you
+climb upwards and make life choices from birth to old age. Hey fellas.
+Im trying to remember the name of a game I both saw in a YouTube
+video **and actually played myself** a few years ago. It was a short
+2D pixel art game  probably less than 30 minutes long. The gameplay
+was vertical platforming with a kind of life simulation concept. You
+started at the bottom of the screen as a baby and had to keep jumping
+upward on platforms while the screen scrolled downward automatically.
+If you stopped or fell behind, youd die. As you climbed, you were
+presented with choices that symbolized life decisions  like school,
+relationships, career, etc. The higher you got, the older your
+character became. By the time you reached the top, you were old, and
+your life path was shaped by the decisions made along the way. The art
+style was pixelated and minimalistic, mostly using cool colors like
+blues and grays. It had a calm, maybe slightly melancholic vibe. Im
+pretty sure it wasnt on Steam  likely a small indie game, maybe
+hosted on [itch.io](http://itch.io), Newgrounds, or something similar.
+Ive searched everywhere and cant find it again. I know its real
+because I played it back then. Anyone know what it might be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

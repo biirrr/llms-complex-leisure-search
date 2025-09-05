@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery. Woman's son and husband died in boating
+accident, her son's lifejacket was found. Years later, she thinks she
+sees her son in a mall. Hires PI. Female author.. Looking for the name
+of a book about a woman who’s son and husband supposedly die in a
+boating accident, I believe a body was found and her son’s lifejacket
+was the only thing of him found . Years later she thinks she sees him
+in a mall (I believe passing on an escalator) from behind based on
+something she heard him say that was special to just the 2 of them .
+Tries to catch up but lost him. Hires a private investigator etc.
+Thankyou !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

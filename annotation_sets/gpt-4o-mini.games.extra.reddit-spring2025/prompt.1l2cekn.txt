@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2000s?] Horror game where theres 2
+detectives/police on a wellness check. I had seen a youtube video
+(couldnt find it again sadly) about this game a while ago so the
+details are a bit foggy I believe the game was point and click as well
+as horror and possibly early 2000s. There are 2 detectives on a house
+call to a massive mansion because someone was concerned about noises
+(screaming maybe?) coming from the house. The detectives are
+originally greeted by a maid who then lets them in and then the
+husband comes out to talk to them allowing them to look around. I
+believe one has a notepad you can write in and there were puzzles as
+well. Most doors were locked and when you finally go upstairs to see
+the wife she is extremely sick looking (i think she is like a zombie
+type thing?) Something happens and i think the husband offers them to
+stay the night(might not be true) I believe she ends up killing the
+husband or the maid? possibly a chase scene in there as well during
+that. After that i dont remember much but thats what stood out."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

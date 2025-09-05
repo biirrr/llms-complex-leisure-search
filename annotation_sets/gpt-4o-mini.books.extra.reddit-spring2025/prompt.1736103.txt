@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction about math - gematria, Warren Weaver, scientific
+formula for beauty [s]. I thought this book was 1,2,3 Infinity, but
+recently I purchased it and it isn't. It is similar in nature -- a
+book aimed at a popular audience about science/math. I think this one
+is more math-focused. The two things I remember that aren't in 1,2,3
+Infinity are: -- A section where the author talks about some
+scientific formula to discover if things are beautiful. He mentions
+the poem ""Kubla Khan"" as the ""official"" most beautiful poem. He
+also discusses which shape is most beautiful (I don't remember but it
+may have been the circle) and maybe even which individual word. There
+may have been some tongue-in-cheek here. -- A section where the author
+talks about gematria. He was discussing it with two coworkers (co-
+authors on another project, perhaps) and they expressed skepticism at
+how it could work. So he made some stuff up right there and then about
+how their names were meaningful, and the example I remember is how
+Warren Weaver's name meant that he would be naturally good at knitting
+war-related activities together. This made sense because of whatever
+project they were working on, which was war-related, and Weaver was
+the boss."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

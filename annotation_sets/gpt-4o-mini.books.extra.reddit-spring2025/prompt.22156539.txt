@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture book 1970s or 80s about an Art Forger or
+Money Counterfeiter I think in Paris.. When I was a little kid I used
+to read a picture book about a guy who was either an art forger or a
+counterfeiter. He lived in an upstairs apartment or in an attic. He
+was very secretive and he was found out because people (neighbors or
+landlord?) could smell the paint fumes from the apartment. This was
+long ago and I was very young so my recollection of details is
+spotty."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

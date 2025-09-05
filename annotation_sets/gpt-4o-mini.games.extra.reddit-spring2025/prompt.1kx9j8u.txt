@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [1997-2005] Old strategy game. Apologies in advance,
+but this post is going to be very vague as I was maybe 4-5 when I
+played this, and I don't remember much. Game was played either on a
+W98 PC or WXP. The first descriptor I can remember is that I vaguely
+recall the game title being a year. Second thing I can remember is
+that you could get married and pick a profession. I recall the game
+being set in an old-timey setting, not quite medieval but still
+obviously not in modern times, and set in a village. Gameplay-wise, it
+was a classic strategy/RPG game with top-down view, you could move the
+camera around with mouse and do.... something. As I said I don't
+recall much but I know the replay value was really good since every
+run would go differently depending on the occupation you chose and
+other factors. If I'm remembering correctly it wasn't much of a
+""""""""war"""""""" game as there wasn't any battling, mostly you
+interacted with the villagers and made choices on how your run would
+go. I might be mistaken though. I know this isn't a lot to go off of,
+but please help, friends, I've had this game in the back of my mind
+for years now. Might update this post with more details once I ask my
+dad about it, in case he remembers anything. Thanks in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

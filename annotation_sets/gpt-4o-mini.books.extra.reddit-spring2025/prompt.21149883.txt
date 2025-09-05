@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir: female academic, dysfunctional childhood. [s]. I
+read this book a year or two ago. It's about a woman who is now an
+academic (literature lecturer perhaps?) The book is about her
+childhood. Her parents had mental health problems. As children she and
+her siblings used to have to root around in the school bins to find
+something to eat for lunch. At one time their family slept in their
+car. Towards the end of the book, and once the author had made it
+through college and gone on to be an academic, she tried to take care
+of her mother (& maybe father as well?), and provide her with
+accommodation, but her mother preferred to live life as a drifter."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Macintosh] [1990s] Possibly Inspector Gadget themed.. The
+game I'm looking to identify was played in elementary school in the
+90s. I believe it was played on the old bubble shaped Macintosh
+computers that used to be in computer labs back in the 90s. There was
+a game I thought was Inspector Gadget themed. You walked sideways and
+it was 2d. There were math puzzles and other puzzles to complete and
+while it was setup like a side scroller, you could reach doors that
+would teleport you to other areas in the building. It looked like
+maybe a school or hospital as far as the environment goes. That's
+about all I can remember. I really thought it was an Inspector Gadget
+game but couldn't find any game like the one I described. TYIA"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii] [2010] Mario multi-sports game. Platform(s): Nintendo
+Wii Genre: Sports game including basketball and hockey among others
+Estimated year of release: I played it in approx 2010 Graphics/art
+style: nintendo style (i dont know what to call this, sorry!) Matches
+were played with one goal/hoop on the left and one on the right,
+similar to fifa Notable characters: Im certain there was a character
+named either The Red Mage or The Red Sage who you would play against
+in the finals of a tournament, but I cant find anything about him
+online. Other than that, standard mario line up Notable gameplay
+mechanics: You could play a 8-team bracket tournament of any sport,
+where the final round would have a match on an airship against a team
+of sages/ninjas (not 100% sure who they were) Other details: It might
+have had power in the name? I can only find Mario Power Tennis
+online but its definitely not that. Im based in the UK so it would
+have most likely been released here. Any help would be huge as Ive
+been looking for this for some time but have no leads :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

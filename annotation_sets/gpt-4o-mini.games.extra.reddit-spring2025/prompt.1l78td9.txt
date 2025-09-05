@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[phone or ipad][2010-2020] game where you knock on someones
+door and annoy them. collectables also come in the shape of mugs. I
+remember this game from fgtv this is a really quick sketch the first
+picture is the house and the second is the guy you annoy (yes it is a
+moustache on his face)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

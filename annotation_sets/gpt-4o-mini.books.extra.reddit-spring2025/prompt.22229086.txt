@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Fantasy/ Horror - Witch traps people into
+paintings if she had something that belonged to them. It was set
+during the winter. The witch would paint of portrait of the person and
+their personal item. Read 1997-2002.. I read this book when I was in
+elementary school. To be safe, somewhere between 1997-2002. The main
+characters were children. It was set during winter. There was an old
+lady that was a witch. She would paint portraits of people and include
+a personal item of theirs that she had in her possession. She would
+then show it to them to trap them into it somehow? The details here
+are a little fuzzy. The group of children break into her house at some
+point and see all of the portraits. Possible Spoiler Ahead One of the
+children who broke into her house and saw all of the portraits drops a
+mitten. The witch uses the mitten to trap that child into a portrait."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

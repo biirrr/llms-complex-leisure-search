@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy Historical. Teen boy plays cards in NY. Young
+Asian escapes human trafficking situation with the use of fireworks.
+Devil at the cross roads theme. Read 2015-2019.. Read this book
+several times from 2015-2019. I know there's some part of building a
+major bridge in NY, but I don't remember which one. The plot involved
+fireworks and trying to claim the city for oneself. I think it's set
+in the 1800s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

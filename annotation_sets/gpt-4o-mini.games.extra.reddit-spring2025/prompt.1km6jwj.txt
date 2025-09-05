@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS1 / PS2] [2000-2006] RC Kart/Car Game. Platform(s): PS1
+or PS2 Genre: Third person, I wouldn't say it was a racing game though
+Estimated year of release: 2000-2006 Graphics/art style: I think it
+was cartoon sort of... Notable characters: No characters Other
+details: I have like a really vivid memory of this game I can only
+remember a few seconds of it but I've thought about this game for so
+many years. You play as what I remember is like some sort of little
+car/kart kind of like an rc-xd from black ops 2 and there is an arena
+of other AI bots with these vehicles and I believe you're meant to
+blow eachother up with upgrades? This could be a wrong memory though
+with some of these details. The map I slightly remember, I want to say
+it was a grassland but in the middle of the map were these steel ramps
+you could go up from all sides to a middle elevated area. I really
+have bad memory regarding this but I know it will all come back to me
+if I see it again."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

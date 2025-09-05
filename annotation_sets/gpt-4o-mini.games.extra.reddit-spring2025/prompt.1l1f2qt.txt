@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Point and click about a woman that gets turned
+into a miniature version of herself. Platform(s): used to play it in a
+windows 7 pc Genre: point and click, puzzle Estimated year of release:
+2010's Graphics/art style: not cartoony nor fully realistic Notable
+characters: a woman that gets turned into a miniature version of
+herself, the man that helps her in their journey Notable gameplay
+mechanics: finding objects, solving puzzles to find more objects.
+Other details: the story is about a woman that turns little and a man
+takes her on journey to fix her, the first two-three levels are a port
+and a ship, then a city. There's something about collecting cherry
+pits and I always got stuck with a train puzzle in the city, the name
+was something close to """"""""Little big journey"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

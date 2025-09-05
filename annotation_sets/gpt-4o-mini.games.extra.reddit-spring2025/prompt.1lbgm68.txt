@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mega Drive][1990s]RTS / God Game. Game was a RTS / God Game
+with a faux-3D representation of the world in the middle of the
+screen. Around this world were three or four people who I guess were
+meant to represent the people you controlled? I'd have played it in
+the mid-90s for the Mega Drive (UK). For years I've been convinced it
+was Megalomania but I looked up some footage and it wasn't, no figures
+around the world. You could send people to attack other villages.
+Anyone have any ideas? Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

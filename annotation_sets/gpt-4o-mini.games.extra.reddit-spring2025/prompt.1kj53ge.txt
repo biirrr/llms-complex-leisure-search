@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2016-] Taxi Game. Im trying to remember the name of an
+old 2D taxi game I used to play on Friv or a similar site. It had a
+top-down view, and you could pick up and drop off passengers around
+the city. One of the main features I remember is that you could run
+over pedestrians, and if you caused too much chaos, the police would
+start chasing you. The gameplay was pretty fast-paced and chaotic, and
+it definitely had a fun, arcade-style feel. If anyone remembers the
+name of this game or has any idea what it might be, Id really
+appreciate the help"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

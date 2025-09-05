@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2014-2016] a point and click game about a cute animal.
+Im trying to find a game from my childhood that i played on
+[poki.com](http://poki.com) or so. I remember that there was a cute
+and sad animal with big adorable eyes and you had to solve puzzles and
+other things. It was 2d and another thing i remeber was the
+melancholic music. there were few games of this series. But i can't
+really remember (srry for the bad english)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

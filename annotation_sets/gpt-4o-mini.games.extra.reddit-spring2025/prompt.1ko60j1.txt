@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2000s] -ish, action adventure fantasy knight game. I
+apologize in advance if some details are sparse, its been 20 or so
+years since i last saw it. Platform(s): ps2 (unaware if its multi)
+Genre: action-adventure (like Medieval, but with a god of war like
+camera view) Estimated year of release: 2004-ish Graphics/art style:
+stylized 3d graphics, kind of like WoW Notable characters: Knight
+protagonist, male, human, short brown? hair, wears iron/silver armor
+but with no helmet Notable gameplay mechanics: you can upgrade your
+sword and armor, armor can be upgraded from silver to gold, you can
+loose your armor and run around in nothing but trousers Other details:
+i vaguely remember you can travel between levels via a worldmap, one
+of the later or last bosses takes place in a flat arena with hills (or
+a castle) in the backgrounds"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

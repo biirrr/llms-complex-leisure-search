@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s?] Third person view game with a name with some
+letters like an abbreviation. Platform(s): PC Genre: Some kind of
+shooter/running game Estimated year of release: 90s? Graphics/art
+style: Third person view, dark environments, almost apocalyptic
+Notable characters: The protagonist is wearing black with a long
+helmet, kinda like the head of the Alien and maybe has some weapon to
+shoot Notable gameplay mechanics: Maybe running in a straight line and
+shooting or avoiding obstacles Other details: Maybe it was set in
+space? Dark and fiery colors like orange/red. The name of the game is
+some letters like an abbreviation. I think there was some comedy.
+Thank you for any ideas!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

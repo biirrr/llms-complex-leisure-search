@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010] [RISING PLATFORM 2D BROWSER RUNNER GAME].
+Platform(s): pc browser/flash game Genre: running platform-rising game
+Estimated year of release: 2010? Graphics/art style: simplistic, 2D
+Notable characters: stickman-looking characters, dozens of hats/skins
+Notable gameplay mechanics: running through gaps in the ground while
+the platform ascends Other details: I am looking for a browser/flash
+game that I played as a kid. It is primarily singleplayer but has a
+multiplayer mode. In the game, you're a (stickman?) character who
+starts off at the surface where there is grass, the ground/platforms
+slowly start rising and you have to jump and run through gaps in the
+ground to survive. As time goes on, the platforms speed up, you
+descend deeper into the underground, you start seeing rocks and
+dinosaur bones and such. If you're too slow, you get squashed at the
+top and lose. The objective is to survive as long as possible, get a
+high score and unlock skins/characters. The art style of the game is
+pretty simplistic. I don't know the release year of the game but I',
+assuming it's from the 2010's. Image #1: my illiustration of the game
+from my memory Images #2 and #3: pictures of similar looking games on
+google, I couldn't find anything better/closer"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

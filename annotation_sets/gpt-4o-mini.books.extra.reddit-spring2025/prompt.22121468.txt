@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir of sexual assault of teen girl by cousin's
+friend. Her affluent, close-knit family didn't believe her. Title: one
+word? Published last few years. [s]. I'm looking for a memoir of a
+young teen girl who was sexually assaulted by her cousin's (p'haps
+brother's) friend at a family overnight. The author was a hyphenated
+(immigrant) American, in an affluent, close-knit family. When she told
+her parents, they disbelieved and shunned her, which was the ongoing
+trauma. It's a recent-ish book (last few years), big seller, and the
+author was frequently interviewed. I believe the memoir had a one-word
+title."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

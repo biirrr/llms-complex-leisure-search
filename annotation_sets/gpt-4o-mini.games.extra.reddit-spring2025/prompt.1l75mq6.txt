@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation] [2013 - 2015's] a princess game [Open world?].
+When I was a kid I used to play a game where a princess walked through
+a garden, the princess had blonde hair and a pink dress, it was
+probably open world and she seemed to be peach, But I can't say it was
+Peach, the console was a PlayStation, probably a PlayStation 2, it was
+connected to a tube TV, I remember the princess being in a gray tower
+with a bridge.I tried searching with the gpt chat and it suggested a
+barbie game very similar to my memories, but I remember the princess
+being shorter and having pastel colors. I forgot to mention but the
+game looked like it was 3D"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

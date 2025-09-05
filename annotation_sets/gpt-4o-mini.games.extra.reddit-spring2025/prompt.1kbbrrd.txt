@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Roblox][2016-2017] A meme facility game. I remember
+frequently playing this game around 2016-2017, or around the time of
+Normal Elevator and Speedrun 4. The game took place in a large
+facility built of long and open halls, those of which had many doors
+on either side. Each door led to a different meme from that time
+period, such as the Nyan cat, the kitchen gun, Bill Nye, etc. Some of
+these areas had items that you could pick up and interact with, though
+I only remember the kitchen gun in-particular. The doodles above
+vaguely depict a few of the areas I remember. They are not guaranteed
+to be accurate, and likely arent."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

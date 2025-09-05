@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fiction about Forensic Pathologist who works on Waco
+incident. [s]. Hi everyone! Hoping you can help! The book I'm trying
+to remember is about a forensic pathologist who worked on the Waco
+incident among others. The book seemed autobiographical in nature. I
+remember he details his first job as working in a beer factory where
+his job was to test the cleanliness of beer, as at the time beer
+companies had a buy-back program from pubs and bars. He also worked in
+firearm forensics or something similar, but had to stop because the
+repeated gunshot recoil from shotguns was permanently damaging his
+shoulder. Not sure if anyone is familiar with this non-fiction book?
+Any suggestions greatly appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

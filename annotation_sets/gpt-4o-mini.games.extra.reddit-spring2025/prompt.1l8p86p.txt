@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [late 2000's to early 2000's] Pixelated horror game
+about exploring a mansion.. Platform(s): PC im pretty sure Genre:
+Horror Estimated year of release: late 2000's to early 2000's
+Graphics/art style: Pixelated, 2d, anime, view is from above. similar
+art style to misao or mad father Notable characters: The main
+character is a guy, i think he had a girlfriend. He explored a creepy
+old mansion that they came upon. I remember just flashbacks from
+watching its gameplay yeeeeeaaaaars ago. Dont know what the genre is
+called, but its similar to ''Mad Father'' or ''Misao"""""""". If i
+remember the plot correctly, then i think it was like a couple found a
+creepy mansion, you play as the boyfriend and you explore the mansion
+and you meet a few random girl characters or something.. dont remember
+much"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

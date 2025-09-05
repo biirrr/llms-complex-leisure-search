@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 90's/late 80's] Space or Sci-fi RTS game.
+Space/sci-fi themed RTS game with 4 tech trees, each with it's own
+color and function. From what I can remember, it was Control(cyan)
+&gt; Energy(magenta) &gt; health?(red) &gt; Engine(yellow). Units from
+each tree would deal corresponding damage to others, destroying them
+when depleting the applicable health bar or converting them in the
+case of control. There was a Mothership unit that was basically the
+MCV that could always move around. There was a ranking system for
+units, and a structure you could build to rank up to a certain point
+on, but couldn't tell you if it actually did anything. I can only
+recall it being listed as """"""""Command"""""""" on my Dad's DOS
+listing."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

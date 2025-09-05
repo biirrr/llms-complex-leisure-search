@@ -1,0 +1,44 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Thriller/ Mystery - Gay male protagonist tries to solve
+murder of best friend/ crush. Read 2014-2019.. Hey all! I'm trying to
+remember the name of a book I never quite finished. I got it from my
+library and started reading it sometime between 2014 - 2019, but I was
+super busy with college classes at the time and didn't get the chance
+to finish it before it was due. I've always wanted to finish it, but
+for some reason I almost immediately forgot the title of it after I
+returned it and haven't been able to find it again. It was a Young
+Adult novel, most likely published in the U.S. It was a
+thriller/mystery. What I remember about it: The protagonist was a
+teenaged boy (I think high school age). He was gay and the book
+started off explaining how a year ago (I believe it was a year), his
+male best friend, whom he had secretly had a crush on, had been
+murdered. I remember that the protagonist had some other friends, one
+of them I think was a girl. I think they had all been friends with the
+guy who had died. I'm not positive, but I think their friend had been
+one of multiple teenagers who had been murdered the previous year, but
+I don't think the killer had been caught. I'm pretty sure the book was
+about the murders starting up again, but I don't know for sure because
+I didn't get that far. I just think the summary may have said
+something about that. I also remember the protagonist living near
+water, I think possibly the ocean? It may have been a coastal town.
+Oh! And I feel like the protagonist had lived next door to his friend
+that got killed, or maybe to one of their other friends. I remember
+something about him looking through a window or someone climbing
+through a window. I also remember something about him finding a note
+that was somehow related to the night his friend died (I think he
+found it in a book or textbook he had borrowed), which started him up
+again having questions about solving the murder. And I know part way
+though the book, he meets another guy (I feel like he was a little bit
+older), that he starts to fall for. Anyway, that was as far as I got
+in the story before I had to return it. Any help is appreciated!
+Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

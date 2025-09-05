@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir written by man - westerners in colonial Africa [s].
+The book is a memoir by a man (probably English) in Africa during the
+early 1900s. At one point he describes a camp scene with some other
+westerners where they posed the question, ""If you could be any
+animal, what would you be?"" And one guy (probably the knowledgeable
+guide) says he would be a bird, and explains why. As I recall it, the
+author was quite taken with the guide's answer. I've tried finding the
+passage in books by Laurens Van der Post, with no luck. But the book
+has that same sort of style, if it's not Van der Post. I think this
+might be the same author who described some scenes with deadly giant
+mambas in one of his books; maybe this same book, maybe not. Or maybe
+that's a different author. I read several similar memoirs at the time,
+maybe ten years ago now. Thank you, everyone!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

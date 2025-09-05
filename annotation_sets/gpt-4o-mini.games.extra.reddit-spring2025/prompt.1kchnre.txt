@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [unknown] an ancient Egypt themed slightly scary
+educational game. I remember a few snapshots but that's it. It was
+first person, you were traveling through a dark maze. It must've been
+made early 2000s or in the 90s. Prompts would pop up and I don't
+remember the UI, but it was either math or typing. There were anks and
+I think they were some sort of powerup or something. Honestly all I
+remember is this scared me really bad when I was like 6 but I was
+wondering if anyone could find any more info, for nostalgias sake."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Travel Fiction, journey of a group of strangers across
+europe on a tour. [s]. I remember reading this book in 2010 but i am
+sure it was published before that. The book revolves around a group of
+people who are headed on a vacation/tour across europe. I cant
+remember correctly but I am guessing the tour operator was a female
+who has a fling with one of the people on the tour. I have been
+searching for this book but cannot find it. I am also entirely not
+sure if this book is similar to 'Without Reservations'. Does without
+reservations have a travel group? Please help. thank you :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

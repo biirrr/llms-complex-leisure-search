@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Late 2000s-Early 2010s] Starwars MMORPG. I remember
+playing this game daily, it was free I believe but you could pay for a
+premium version or something if I remember correctly. You could play
+as padawans and visit different areas. I dont remember too much of
+the game as I was quite young then but I remember it was clone wars
+era and that there was this special event or something in which a
+golden mandalorian costume was given out for players to wear. I
+remember a daily wheel you could spin for rewards like cash or maybe
+costume parts and I think jarjar was the one running it? I dont
+remember bosses or fighting enemies besides droids but its also
+possible I just never did that and instead had fun just running
+around. I believe it got shut down or something at some point but
+thats about all I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

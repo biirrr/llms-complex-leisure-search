@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] Mad scientist and mouse game, with platform
+building. Platform(s): PC, probably not flash, not sure tho Genre:
+Platformer and building the labirynth Estimated year of release: 2010s
+Graphics/art style: 2D, stylised to look like 3D, not pixelart,
+cartoony Notable characters: There was definitely a mad scientist
+going around in the backround, and I'm not sure if you played in his
+favor, or the mice. I'm more leaning towards the scientist being
+player character, but like I mentioned earlier, I'm not sure. Notable
+gameplay mechanics: There was a """"""""labirynth"""""""" that was
+built for the mice. It was in side view, and I remember that you could
+place tetris like blocks in there when playing. There were bombs as
+placeable blocks I think? Also I clearly remember that slime blocks
+that allowed the mice to jump higher (or maybe just allowed them to
+jump at all?) were like pink, with darker color in the middle. The
+mice could drown? and there was probably an option for placing down
+acid, and when the mice went in it a stylised skull icon would show
+up, and then dissapear I think. I know that there was an option to
+build your own map. Other details: The backround of levels was the
+scientists lab, but in map builder they were a dark blue maybe? I know
+it's not transformice, since it's singleplayer, and also I clearly
+remember the mad scientist which isn't in transformice."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

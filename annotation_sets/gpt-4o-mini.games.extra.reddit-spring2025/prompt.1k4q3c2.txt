@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Nintendo] [1995-1999] 2D scroller, a green, disfigured
+protagonist. Used a stick to fight.. The character was green, bald,
+probably disfigured, wore a trenchcoat and had a stick as the primary
+weapon. He would travel through tunnels. And I think there was green
+goo in the tunnels or some enemy would spit green saliva on him. I
+think either the title had the word Swamp in it or there were swamps
+in the game. And I also think he might have been a comic character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

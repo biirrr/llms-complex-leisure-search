@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Early 2010's] 2D indie combat-platformer where you
+fight with a spear.. I remember this game being either positively
+reviewed or covered by IGN, sometime around the 2011-2013 period. You
+controled a character that fought with a spear, no other weapon. It
+was a little bit like the game """"""""Apotheon"""""""", but it had a
+darker aestethic and the gameplay was very punishing. I'm absolutely
+positive the title was one word and it started with the letter O. It's
+stuck in my mind as """"""""Oculus"""""""" but the search ended up
+being fruitless. If anyone has an idea, please let me know! Edit: I
+managed to find it, it was """"""""Oblitus"""""""". The year was later
+than I remembered. Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

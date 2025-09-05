@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ MG Non-fiction. Friendship Bracelet book (part of craft
+kit?). Instructions for love fortune telling with playing cards. Read
+late 1990s/mid 2000s.. I had a book in the late 90s-mid 00s which may
+have been part of a craft kit or have come with some supplies. It was
+primarily about making braided friendship bracelets but also had some
+other things. I specifically remember instructions for a type of love
+fortune telling, using playing cards and stacking them in piles based
+on how many letters were in your crushes name I think? You went
+through and discarded pairs of cards I think and your fortune was told
+in the cards left. This book was around A4 size, paperback and quite
+thin. I believe it was illustrated rather than having photographs in.
+It was very pink and purple and “girly” in style."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

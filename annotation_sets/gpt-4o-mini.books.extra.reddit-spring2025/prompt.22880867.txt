@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Historical Fiction. Pregnant woman who is a prisoner
+on a ship. Read around 2021. Spoiler? [s]. I read this book around
+2021. It was about a woman who was wrongfully convicted of a crime and
+she was put on a ship to the ""colonies"" in America from Europe. She
+was pregnant (possibly from rape?). Many people did not survive the
+journey, as they got sick. She befriended the doctor on board the
+ship. She survived the journey and survived her servant work in the
+colonies and then eventually gained her freedom. I think she found her
+baby in the end? She may have delivered the baby on the ship?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

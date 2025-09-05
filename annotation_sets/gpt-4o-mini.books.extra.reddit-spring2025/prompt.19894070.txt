@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult nonfiction science series of information
+visualization. I am looking for a series of books I remember checking
+out from the public library when I was in high school 10 years ago.
+These books were all hardcover and looked new when I checked them out,
+but might have been a few years old - in my memory, they were
+borderline school textbook-quality. All/almost all were science-
+related, and delivered facts about their respective topics visually in
+the form of images, graphs, charts, and diagrams. I’m positive one of
+the topics was on weather, and another may have been on agriculture
+(although I’m not 100% sure on that second one)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

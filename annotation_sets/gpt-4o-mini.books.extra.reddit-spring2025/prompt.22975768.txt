@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Fantasy read 2-4 years ago. boy who's mother is
+from another world, portal in garden, talking cat, evil uncle and
+dragon. details: -book starts with our MC, a boy who visits a pet shop
+and there a cat starts talking to him -his mother is very frail but is
+known for/can talk to birds and animals -the cat leads the boy to a
+garden which is a portal to another world (the world where his mother
+has also come from) -there is an evil uncle of the boy involved who
+has kept a dragon trapped/caged -at some point our protagonist(s) has
+the dragon hidden inside a factory -at some point they escape on the
+dragon at night - create some sort of distraction with a explosion
+before doing so ?? -there is a fight scene in the garden uncertain
+details: -mother could not return to her world? because of something
+about that evil uncle? and maybe she was frail because she was unable
+to adjust to this world? -takeover of other world? by hostile powers?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

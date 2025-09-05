@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2010s][Browser]. I'm looking for an old browser game
+I used to play around 2014, on Spielaffe.de. It was a match-3 game
+where you swapped adjacent colored blocks to trigger effects. Each
+color was tied to a different hero: - **Purple blocks** powered a
+**wizard** - **Yellow blocks** gave **gold** and opened treasure
+chests when matched in large numbers - Possibly also an archer and a
+knight, not sure what colour You had three lanes (I think) with
+different heroes placed on the right side of the screen, while enemies
+came from the left. The heroes were animated  they would attack
+enemies coming form the left side. You could also equip the heroes
+with loot gained from treasure chests. The game had a map with levels,
+and each level got progressively harder. Enemies and level duration
+were fixed, not random. The graphics were retro-style, not bright or
+modern-looking. The name may have included the word Hero or Heroes,
+but I'm not sure. Does anyone know what game this could be?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

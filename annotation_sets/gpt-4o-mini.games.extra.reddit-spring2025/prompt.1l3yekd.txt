@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc?? Perhaps][Early 2000s] Japanese hentai game , looks
+like to be from the fantasy or supernatural genre.. I found this skin
+on winamp museum and have been I trying ever since to find the source
+of this image , the only information I have is the Readme and the name
+of the Amp . I have tried looking at various games of the genre but
+none have the girl in the picture. I thought at first she was from the
+hack series but that's not a hentai game so I'm really lost.., any
+help is appreciated."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

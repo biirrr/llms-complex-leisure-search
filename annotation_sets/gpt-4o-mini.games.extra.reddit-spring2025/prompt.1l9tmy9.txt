@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][~2018?] RPG SIDESCROLLER PIXEL ART, MAIN CHARACHTER
+ISEKAIED INTO A CASTLE AND TRYING TO ESCAPE. I recall watching a
+pretty long playthrough of it on YouTube a while back, presumably in
+Russian language. I remember a bunch of really specific details, yet
+can't seem to find it with google, neither can I find it on YouTube,
+though I remember being able to look it up just fine by title back
+then. The game starts by a group of friends playing D&amp;D, one
+character being upset at the DM that arrows don't hurt skeletons,
+going to the bathroom and ending up being Isekaied into the game world
+while in the dark. This man is soon possessed by an evil spirit,
+though the spirit ends up being unable to take control and is instead
+trapped in the body for the rest of the game. I also distinctly recall
+the main character trying to trick some sort of deity into using save
+points. There's also a pile of gold early on that just kills you with
+a curse if you pick any of it up. The game has a bunch of areas,
+including the main castle, the archives, the sewers, something hell-
+like, gardens, etc. I also recall one specific relatively late-game
+boss in the archives. A brain that messes with player controls,
+inverting them, using potions in the hotbar and going as far as to use
+a """"""""warp to checkpoint"""""""" item at the very end of the fight
+if it's in the hotbar. The evil spirit trapped in our body also is
+proud of being born """"""""purely"""""""", which comes up as a plot
+point later. I believe the game had a wiki, but it wasn't very
+complete. And that's all I can recall. I periodically remember of this
+game's existence yet never seem to be able to find it. I am losing my
+mind."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

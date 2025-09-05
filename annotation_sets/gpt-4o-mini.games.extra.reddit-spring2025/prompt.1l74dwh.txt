@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [2000-2006] Girl on a payphone cutscene. I remember
+when I was really young my mom brought us a ps2 game. Dont remember
+the cover or the name. I remember at the very beginning the woman main
+character uses a payphone in a concealed building. Could be a sci-fi
+game or just in a parking garage for all I know. Out of all the games
+I remember and found over the years this one has forever eluded me.
+Just curious if this game was a figment of my imagination."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

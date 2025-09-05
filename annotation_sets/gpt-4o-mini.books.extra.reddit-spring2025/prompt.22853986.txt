@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade fiction. Young man finds a stolen painting
+wrapped in brown paper. Tottenham mentioned quite often. British
+author. Read 1983-1984 in England.. I read a book in either 1983 or 84
+when I lived in England. The book was written by a British author. The
+plot was about a young man who found a stolen painting. It seems like
+the painting was wrapped in brown paper. I know Tottenham was
+mentioned in the book quite often. Can anyone help? I am sorry that I
+did not do this correctly, but Alan that is the book I was looking
+for. Thank you very much!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

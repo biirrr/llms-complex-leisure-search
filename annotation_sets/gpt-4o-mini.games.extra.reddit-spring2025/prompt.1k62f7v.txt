@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2008-2011] A flash game very similar to Hotline Miami.
+**Platform(s): PC/Flash game** **Genre: top down shooter** **Estimated
+year of release: 2008-2011** **Graphics/art style: crude ms paint
+style similar to many flash games at the time** **Notable gameplay
+mechanics: gameplay was similar to hotline miami** **Other details: a
+flash game that played similar to hotline miami but preceded it, it
+also reminds of me the game Commandos by Sierra as it took place in
+WWII/generic warI believe and was more then likely the inspiration,
+the goal was to eliminate all the enemies throughout the maps they
+were scattered throughout a building or outside near vehicles. The
+website I played it on was either on miniclip or armor games**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

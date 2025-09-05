@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90's/early 2000] Fantasy RTS games featuring dragons
+and monks. Been trying to find this game for ages, around the time of
+medieval total war 1, corsairs gold, tzar: burden of the crown.
+Fantasy RTS game featuring dragons and golems and such. The most vivid
+unit is a monk carrying a staff over his shoulder and when he attacks
+he makes a wooshing sound. I don't think it was a popular game so no
+age of mythology or stuff like that. The cover art may have had a
+dragon on the wall of a castle or something like that, but I may be
+wrong about that. Please help :("
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

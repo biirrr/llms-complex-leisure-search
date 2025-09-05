@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[UNKNOWN/PC?] [2000s2010s] cartoonish baseball game. I
+remember playing a baseball game with a similar style to backyard
+baseball (cartoon ish) where you started off in a small run down field
+(Sandlot like) and progressively played in bigger fields. It may have
+been a derby-like game, as I vaguely remember the first field maybe
+having a brick wall and the higher up the wall you hit the ball the
+more points you get. There may have been challenges or something that
+once you completed them you move to the next field. I think it may
+have been a browser based game, but I could be wrong. Mid-late 2000s,
+but also could have been early 2010s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

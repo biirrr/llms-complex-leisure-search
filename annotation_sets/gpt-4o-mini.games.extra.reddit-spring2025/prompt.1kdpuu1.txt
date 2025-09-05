@@ -1,0 +1,46 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Around 2000] Japanese Arkanoid-like game with powerups,
+kinda rogue-lite, very colorful and SFX rich. Some very old memory got
+stuck in my mind today, and I have to find an answer. I remember this
+game I've found in an official Italian magazine videogame CD with a
+lot of other games. Unfortunately, I lost not only that CD but also
+forgot what magazine it was. Albeit it's quite niche, if someone has
+played it I'm sure it will remember the name. Here's the deal:
+Platform(s): PC, most surely PC only, probably low budget game
+(probably homemade game?) Genre: Arkanoid-style game a la Breakout
+Estimated year of release: Early 2000 Graphics/art style: Cartoonish,
+very colorful and happy, kinda isometric view (balls and bricks are
+slightly sideview, not from topdown like Arkanoid). Overall, the game
+is very rich of special effects, for sure not like the original
+arkanoid: every time you destroy a brick, you can see a lot of SFX,
+and because you can destroy a lot of them at once you will see a
+massacre of SFX all at once Notable characters: Boss battle each 10
+stages, very often you can encounter hominid creatures, I remember
+that one of the bosses was an ufo that launch you negative powerups
+(like -1 energy) Notable gameplay mechanics: \- Breakout game, so you
+have to destroy all the bricks in the stage \- I remember that basic
+bricks can be destroyed by the ball without having it to bounce the
+ball back, it simply go through. \- You could press SPACE to orient
+where the ball can go, and if you do that you perform some kind of
+""""""""charged"""""""" shot that can break some special bricks,
+useful also for boss battles \- As RNG god decide, you can find
+randmly blue powerups that you can equip before starting the stage on
+subsequent playthrough and you can use them pressing 1-9 number on
+keyboard. I remember that one of the most common powerup is the one
+where you can use to let the ball explode \- These powerups can be
+permanent of single use, if I remember correctly \- You can't
+""""""""lose"""""""" the ball if you miss bouncing it back: it simply
+make you lose one health point. When you reach zero, you lose and you
+have to start over Other details: \- I never got too much of the game
+because all characters where oriental, probably japanese. No english
+language was available"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

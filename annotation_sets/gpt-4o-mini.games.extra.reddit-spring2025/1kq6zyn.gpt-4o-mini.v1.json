@@ -1,0 +1,105 @@
+Here's a JSON object with a ranked list of the best guesses for the game:
+
+
+{
+  "suggestions": [
+    {
+      "answer": "L.A. Noire (2011)",
+      "explanation": "L.A. Noire is a detective adventure game set in a realistic 3D environment, similar to the details described in the request. It features a hardboiled detective theme and involves players solving murder cases.",
+      "confidence": 90
+    },
+    {
+      "answer": "Heavy Rain (2010)",
+      "explanation": "Heavy Rain features multiple playable characters and a strong narrative around detective work, with realistic graphics and interaction mechanics that resemble point-and-click gameplay.",
+      "confidence": 85
+    },
+    {
+      "answer": "The Blackwell Legacy (2006)",
+      "explanation": "This game features a detective story with a focus on solving cases, although it is more of an indie title and might not fit all elements perfectly, especially in graphics style.",
+      "confidence": 75
+    },
+    {
+      "answer": "Sherlock Holmes vs. Jack the Ripper (2009)",
+      "explanation": "This game features a detective narrative with a realistic art style, although it is set in a historical context rather than modern-day gameplay.",
+      "confidence": 70
+    },
+    {
+      "answer": "Max Payne 3 (2012)",
+      "explanation": "While it may stray slightly from the pure detective genre, it features a hardboiled protagonist and involves solving crimes, paired with a dark, gritty atmosphere.",
+      "confidence": 65
+    },
+    {
+      "answer": "Murdered: Soul Suspect (2014)",
+      "explanation": "This game involves a detective solving a murder case from beyond the grave and features a realistic style. The character dynamics and office interactions might align with descriptions.",
+      "confidence": 60
+    },
+    {
+      "answer": "Danganronpa: Trigger Happy Havoc (2010)",
+      "explanation": "Danganronpa mixes mystery and detective elements, although the art style leans more towards anime, which may diverge from the realism described.",
+      "confidence": 55
+    },
+    {
+      "answer": "The Last Express (1997, remastered 2015)",
+      "explanation": "This game has a significant focus on narrative and detective work, though the graphics might not match the 3D realism suggested in the request.",
+      "confidence": 50
+    },
+    {
+      "answer": "The Wolf Among Us (2013)",
+      "explanation": "While more stylized than realistic, this adventure game involves solving mysteries and has a detective theme, with potential matching character designs.",
+      "confidence": 45
+    },
+    {
+      "answer": "Culpa Innata (2007)",
+      "explanation": "This game involves a detective narrative with futuristic elements and relatively realistic graphics, although it is lesser-known.",
+      "confidence": 40
+    },
+    {
+      "answer": "Interrogation: You will be deceived (2019)",
+      "explanation": "Involves detective work and solving cases but may not fit the PS3 platform or the early 2000s timeframe.",
+      "confidence": 35
+    },
+    {
+      "answer": "Puzzle Agent (2010)",
+      "explanation": "This game involves detective work with a point-and-click style, although it leans more towards a cartoonish art style.",
+      "confidence": 30
+    },
+    {
+      "answer": "The Secret of Monkey Island: Special Edition (2009)",
+      "explanation": "This game is a classic point-and-click adventure with detective elements, but it feels too light-hearted and whimsical compared to the described game's tone.",
+      "confidence": 25
+    },
+    {
+      "answer": "The Last Express (1997, remade for various platforms)",
+      "explanation": "While not strictly fits the realistic graphics criteria, it combines adventure and mystery elements, albeit in an older style.",
+      "confidence": 20
+    },
+    {
+      "answer": "Deadly Premonition (2010)",
+      "explanation": "Involves a narrative around a detective solving a murder case with eccentric characters, although it's known for its quirky style rather than full realism.",
+      "confidence": 15
+    },
+    {
+      "answer": "Detective Grimoire (2014)",
+      "explanation": "This game involves mystery-solving but is more crude in graphics; this game would appeal to a younger audience and may not fit the existing description.",
+      "confidence": 10
+    },
+    {
+      "answer": "Yakuza: Dead Souls (2011)",
+      "explanation": "While it features a detective narrative intertwined with Yakuza themes and a blend of realism and over-the-top plot elements, it's unlikely to match your request precisely.",
+      "confidence": 8
+    },
+    {
+      "answer": "Nihilumbra (2013)",
+      "explanation": "This indie game involves puzzles and exploration but is not specifically about detective work and the aesthetic diverges from what’s described.",
+      "confidence": 5
+    },
+    {
+      "answer": "The Walking Dead: Season One (2012)",
+      "explanation": "While engaging and story-driven, it contains very little traditional detective work as it's more focused on survival and narrative.",
+      "confidence": 2
+    }
+  ]
+}
+
+
+The list is organized by confidence score, showcasing the most likely option based on similarity to the details given in the request.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64][1990s] Motorcycle racing game. Platform(s): Nintendo
+64 Genre: Motorcycle racing Estimated year of release: Late 1990s
+Graphics/art style: I remember it was a 3D game but that is about it
+Notable characters: N/A Notable gameplay mechanics: You could race
+both dirt and street bikes. With the dirt bikes in particular there
+were a ton of jumps and you could perform different acrobatic moves.
+Other details: Thanks a lot for any inputs"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

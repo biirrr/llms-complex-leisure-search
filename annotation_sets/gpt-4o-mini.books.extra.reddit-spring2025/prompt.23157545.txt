@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy series with multiple books, traditional knights and
+serfs setting and main character is a magician (maybe) but there is a
+war with an alien/ insect based race coming through a portal. About
+1/2 way through the series the protagonist gets kidnapped to the other
+planet through the portal and I think ends up leading to the downfall
+of that civilization. Read this probably 30+ years ago so maybe in the
+80's"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

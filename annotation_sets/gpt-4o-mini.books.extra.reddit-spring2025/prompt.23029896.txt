@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kid/ Teen Fantasy Graphic Novel series: MC has long pink
+hair and is either in middle school or high school. She has a crush on
+this guy who has a magical secret. Read around 2009-2014. Spoiler.. I
+read this book around 2010-2014 so I don't remember that many details
+anymore and some physical descriptions of characters may be wrong.
+SPOILERS: I remember that the MC finds out that the boy's secret is
+that he is originally from a book or something where he was a very
+minor side character so he chooses to leave. I believe he was a cat in
+that book/other world. There is also another female character who is
+considered a popular girl in school but is originally also from the
+same world as the boy. In that other book world, she was also a
+background character."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

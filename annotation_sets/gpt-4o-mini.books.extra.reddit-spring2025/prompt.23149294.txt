@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Realistic Fiction book series: 17/18 year old girl looks
+for father across the country. Read 2011-2013.. I remember
+reading/having this book between 2011-2013 when I was in middle
+school. It stars a 17 year old girl (possibly 18 because she lamented
+about becoming 18) who is looking for her father during summer break
+(I don't think MC was in school). Don't know if her dad was famous,
+but I know that he was across the country and had abandoned her and
+her mom. I think her mom died or wasn't there at all mentally so FMC
+lived with another family member (aunt maybe). What separated this
+book from all the other ""daughter finds dad"" books was that the FMC
+liked to draw and her drawings and doodles would litter the page. It
+was also in first person(?) and read almost like a diary. Sometimes
+whole pages would be dedicated to her doodles. I remember the cover of
+the page being blue with her face on it. She had a female BFF that was
+her age and an older male friend that was in college. The book ended
+with her leaving them behind and her catching a bus to the west (?)
+side of America. It had to be a series because the book left off on a
+cliffhanger, but I don't recall if the 2nd book was out at the time."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

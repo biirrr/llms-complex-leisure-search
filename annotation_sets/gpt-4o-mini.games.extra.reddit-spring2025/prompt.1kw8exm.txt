@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2000-2012] Isometric Dungeon Crawler. Platform(s):
+PC - Browser Flash Game Genre: Roguelike Dungeon Crawler Estimated
+year of release: 2000-2012 Graphics/art style: Simple art style. The
+map is a big gray area with white wall-less corridors and rooms. Very
+simple animations. Playable character had only running and slashing
+animations, but the character could turn in the isometric environment.
+Notable characters: The playable character is just a bulky suit of
+gray armor with the head of a chosen race. Notable gameplay mechanics:
+You could pick different races that start with different stats and
+abilities. I always chose a Dragon because of its flame-breath attack,
+giving an early advantage. Items collected during the run, like
+helmets or other weapons, could give you different attacks, like frost
+breath, healing surge, etc. I might be wrong, but I think there was a
+limit of two abilities. There were no dashes or special movement
+stuff; you just ran around, swinging your (usually) sword, unless you
+had a magic ranged build going on. Other details: Transitions between
+levels were very simple. It was just a hole in the ground you ran
+into, and without any animation, you fell to another level, and your
+character just bounced off the ground in an idle pose. The game
+might've had a Diablo-style map, where you saw the outlines of the
+entire level, so you could navigate around it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

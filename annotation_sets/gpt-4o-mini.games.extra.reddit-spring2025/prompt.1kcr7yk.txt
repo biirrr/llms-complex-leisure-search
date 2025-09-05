@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[MOBILE] [EARLY 2010s] Idle pet/animal collector game?. This
+is a shot in the dark because this game was most definitely generic.
+It was an idle management/ incremental clicker type game where you
+collected animals. I dont know what kind of animals specifically. It
+was most definitely an iOS game from the early 2010s. Most likely
+2011-2013. It was in a cutesy, girly, 2D style. All I remember is that
+you placed the animals in dog/cat beds on a grid in a house/pet store
+environment, like the examples in the images attached. You could also
+change the floors and the wallpaper/paint of the room you kept the
+animals in. The images attached are VERYYY similar to what this game
+was but what Im looking for was way cuter. I just need the
+satisfaction of knowing what Im remembering even existed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

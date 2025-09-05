@@ -1,0 +1,57 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Southern funny book about a mother who never told her
+daughter, prominent in community, she was adopted. The All-Girl
+Filling Station's Last Reunion by Fannie Flagg ? Booklist: Aging
+daughter of the South Sookie Simmons Poole has trudged along
+cheerfully through life under the shadow of her overbearing mother,
+Lenore. Faced with empty-nest syndrome, Sookie knows she won’t be too
+bored, since Lenore lives right next door and still has her mail
+delivered to Sookie’s house. When a mysterious letter arrives, Sookie
+questions everything she ever knew about her family, and her story
+soon dovetails with that of a proud Polish family from Wisconsin. The
+Jurdabralinskis’ gas station was nearly shuttered when all the area
+men joined up during WWII, but the family’s four girls bravely stepped
+up. Eldest daughter Fritzi was already a great mechanic, having been a
+professional stunt plane pilot in the 1930s. When Fritzi joins the
+WASPS, an elite but downplayed female branch of the U.S. Air Force,
+the story really comes to life. Kirkus: (The following is a combined
+review for THE ALL-GIRL FILLING STATION' and S LAST REUNION) Flagg
+highlights a little-known group in U.S. history and generations of
+families in an appealing story about two women who gather their
+courage, spread their wings and learn, each in her own way, to fly (I
+Still Dream About You, 2010, etc.). After marrying off all three of
+her daughters (one of them twice to the same man), Sookie Poole is
+looking forward to kicking back and spending time with her husband and
+her beloved birds. She's worked hard throughout life to be a good
+mother to her four children and a perfect daughter to her octogenarian
+mother. Lenore Simmons Krackenberry's a legend in Point Clear, Ala.,
+and has always been narcissistic, active in all the ""right""
+organizations, and extremely demanding. She's also become increasingly
+bonkers, a disorder that seems to run in the Simmons family.
+Throughout much of her life, Sookie's never felt as if she's measured
+up to Lenore's exacting standards, and she's terrified she, too, might
+lose her marbles. Then, Sookie receives an envelope filled with old
+documents that turn her world and her beliefs about herself and her
+family topsy-turvy. Her emotional quest for answers leads Sookie down
+a winding yet humorous path, as she meets with a young psychiatrist at
+the local Waffle House and tracks down descendants of a Polish
+immigrant who opened a Phillips 66 filling station in Pulaski, Wis.,
+in 1928. What she discovers about the remarkable Jurdabralinski
+siblings inspires her: Fritzi, the eldest daughter, developed a unique
+idea to keep her father's business operating during difficult times,
+but her true passion involved loftier goals. During World War II, she
+used her exceptional skills to serve her country in an elite program,
+and two of her sisters followed suit. Finding inspiration in their
+professional and personal sacrifices, Sookie discovers her own courage
+to make certain decisions about her life and to accept and take pride
+in the person she is."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

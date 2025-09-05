@@ -1,0 +1,30 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[iPad][2010s] Game similar to whack your boss where you
+click on things and they kill people. Hi there, Im looking for a game
+I accidentally played when I was younger around 2011-2013. It was
+similar to whack your boss, but it had a different art style and was
+coloured in. (And for those who are wondering, I was given an ipad by
+my Mom's coworker one day and he just let me play on his ipad and i
+clicked on this random game and it scared me) I remember there was i
+think a kitchen setting with a bunch of cupboards and drawers and when
+you clicked on a drawer, it would open and a bunch of kitchen knives
+would show up. Then when clicking on the knives, i think it would
+trigger some event where like one of the characters trips and bumps
+into the drawer which causes him to fall, and a knife to fall on his
+head killing him with blood spilling. Like i mentioned before, it was
+fully coloured in and was a cartoony styled game. I think there were
+other ways to kill the characters but I stopped after people started
+dying because it really really scared me. I just wanna know what the
+game was after so long because its been in my memory for over a decade
+and i really cant seem to find it. Any help is greatly appreciated
+Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

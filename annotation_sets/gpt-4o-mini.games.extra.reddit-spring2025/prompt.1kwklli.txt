@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2002] FPS with stealth mechanics and large open levels.
+I've been thinking about this game l've played in the early 2000s
+(must have been 1999-2005max), I remember a large snowy open field as
+the first level. You play in first person, but the game is very
+stealth based. Very easy to die if you get caught. The Ul has a DOOM-
+like portrait of your character on the bottom, and he has a hat on
+(either an aviator hat or a Russian style hat). I think you could ride
+snow mobiles, but I might be wrong. The graphic style overall was kind
+of cartoony. Any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

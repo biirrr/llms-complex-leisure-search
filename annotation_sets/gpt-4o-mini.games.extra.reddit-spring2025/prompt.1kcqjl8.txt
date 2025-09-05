@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NINTENDO 3DS PROBABLY] [Early 2010] Help ^_^. I have that
+worm as a core memory since i saw it in my older brothers friend
+nintendo , im pretty sure its a mechanic enemy and a boss , it
+attacked with lasers but like 15 years passed so I can be very wrong
+at the details , i had a nintendo ds lite and never saw that game .
+Looked very japanese but idk if thats a thing , it was like a mecha
+game , you could aim with the 3ds pencil while the enemy was in the
+upper screen. Im european btw so its not going to be a usa or japan
+only game I tried my best remembering all the details i could , hope
+someone can help and thanks for reading!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

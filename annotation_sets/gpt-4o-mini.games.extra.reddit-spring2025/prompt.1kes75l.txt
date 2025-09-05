@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2020??] Weird space game where you gather orbs to power
+up. hi, im looking for this really weird, disturbing game. You start
+in some clasroom on a planet, you jump from the planet onto another,
+far bigger one (i think??) You eat orbs or something like that, level
+up, the entire game looks kinda dark, purply, i think i remeber the
+graphics looked like they had some noise? There was a boss at the end,
+whole game felt like a drug trip. Sorry for the awful description"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

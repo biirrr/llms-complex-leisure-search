@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Imac G3?][1997-2000]Point and click Puzzle game..
+Platform(s): Was definitely on an Imac at my elementary school Genre:
+Puzzle or adventure Estimated year of release: Most likely between
+1997 and 2000 maybe a little earlier. Graphics/art style: I remember
+the game wasn't all that colorful, I don't think it was strictly black
+and white but im remembering this grungy color and texture. Notable
+characters: I don't remember it having any actual characters and you
+played as if you were in first person. Notable gameplay mechanics:
+Okay so I don't remember much about this game, Ive been trying to find
+it for awhile, I may not be 100% on some of these recalled features.
+The game itself was like some kinda point and click adventure game, I
+think it had some slight prerendered background much like myst, but
+they may have been more 2d, I swear im recalling arrows on the screen
+to move or look around, and a hot bar on the lower part of the screen.
+You would move about what I think was some kinda garden but it also
+had indoor sections or rather I remember this part where you'd enter a
+dark opening into a cave or maze but if you went in without a light (a
+candle i believe) It would be dark so you had to get the candle first
+(i also believe the candle could burn out if you took too long into
+the dark maze). There was another area where you'd have to stack tires
+on 3 different poles or something like that. I swear this was on a
+schools Imac alongside games like amazon trail. Im stumped I just did
+like 2 hours of searching and looking up other games that sounded
+similar. Thanks for any help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Juvenile Nonfiction (?) or based on true story. Little Asian
+girl throws up in man's car after eating crackers, he doesn't get mad.
+She had to go live with man and his family. Read 2012-2013. [s].
+Emily, what was the story's time period and location? I added some
+details to the header/topic title. You can update it by clicking the
+small ""edit"" link after the header. This only works on the full
+Desktop website - not the Mobile website or app. (On the Mobile
+website, click the ""Desktop version"" link at the bottom of the
+page.)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

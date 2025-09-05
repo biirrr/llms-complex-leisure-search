@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[YEAR UNKNOWN] [PLATFORM UNKNOWN] fighting game with the
+name something like """"""""final fight"""""""". I know its not final
+fight, but it's definitely similar to that name, Final Fight brings up
+this old 80's game which isn't it. I know it has some sort of anime
+art style, and as of three or four days ago from this post date a
+wrestler from WWE during Wrestle Mania was revealed to be a playable
+character in it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2000s] wireframe boss battles. I cant remember the
+name of this game I use to play in pc in the 2000s. I think it was a
+web based game but it was definitely all done in wireframe mode and
+the color of the wireframe was either green or white but the objective
+was to destroy the boss ship or boss robot and each level gets
+progressively harder but it was basically a top down shooter in
+wireframe that was just bosses no other enemies. I remember the
+space bar was to shoot and the arrow keys moved your ship."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

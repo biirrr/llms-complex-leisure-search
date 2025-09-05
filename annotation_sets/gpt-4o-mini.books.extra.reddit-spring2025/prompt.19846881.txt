@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book of Wedding Dresses Purchased At Hastings In The Early
+1990s—Beautiful Dresses, Endpapers Were Green and Mauve-Pink Petals
+[s]. This one is such a long shot, but I figured it was worth a try. I
+was *obsessed* with this book and how a white dress could take so many
+different forms. My selfish and clingy mom was freaked out by how much
+I poured over it, I guess she wasn’t ready for the idea of me growing
+up and leaving her, but the truth was I’ve never cared for weddings, I
+was fascinated by design. I can see specific pictures (clear shoes, a
+dress with a cut-out back), and I remember the endpapers on the inside
+were green, pinkish-rose, and maybe white petals (or maybe even
+smears). Definitely made in the early 1990s, q 1995 or before.
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

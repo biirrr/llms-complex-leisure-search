@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[og xbox] [2003-2009] game set in a desert city with
+monsters, ancient eygpt vibes. -It was an rpg game i think, you play
+in a desert city , ancient eygpt type stuff, and theres a lot of
+monsters you kill, i dont know any characters or what the story is ,
+you just fight monsters in this desert i remember they were
+relentless, kept dying over and over, but i was 6 so maybe its because
+i didnt know how to play. -I REMEMBER ONE VIVID DETAIL: The cover had
+a flying girl monster with wings, and her boobs were kinda out, and my
+cousin started licking the cover when he saw it=-"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

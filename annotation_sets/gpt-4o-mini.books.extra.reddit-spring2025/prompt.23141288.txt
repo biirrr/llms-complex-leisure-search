@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy about two time travelling groups fighting each
+other. Read around 2005-2008.. I wish I could remember more about this
+book but I'll try my best. I would've read it around 2005-2008. The
+protagonist was a boy, and he was part of a group of secret time
+travellers. I'm pretty sure they travelled through portals to specific
+time periods I think in order to either fix events that had gone wrong
+in the past, or to ensure that they went as expected. There was a
+rival faction who were also time travelling to the past to mess up the
+events, make them go wrong, or put people into power that they wanted
+there, and it was a back and forth between the heroes and the villains
+to make history go the way they wanted. For some reason I want to say
+the 'good' faction wore green clothing and the 'bad' one wore purple
+but that could be totally wrong."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

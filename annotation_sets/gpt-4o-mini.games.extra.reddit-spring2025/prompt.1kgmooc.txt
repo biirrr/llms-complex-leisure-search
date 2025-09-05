@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC, flash][2007-2010] Side scrolling game about delivering
+cargo with landships. **Platform(s):** pc, kongregate website
+**Genre:** rpg, probably turn based? **Estimated year of release:**
+between 2007-2010 most likely **Graphics/art style:** looked like your
+average flash game with ms paint art - think toss the turtle or learn
+to fly **Notable characters:** don't remember any **Notable gameplay
+mechanics:** you would command a vehicle to deliver cargo from city to
+city and earn money to upgrade. the """"""""best"""""""" late game
+vehicle from what I remember was called a land ship, and was basically
+a pirate ship with wheels. from what I remember you would get ambushed
+by bandits and had to fight them off.. it was probably turn based but
+I don't remember if it was for certain **Other details:** desert map?
+i think"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][90s or early 00s]Puzzle Game Like Myst. Platform: PC
+Genre: Puzzle, Mystery Estimated Year of Release: 90s or early 2000s.
+I would have played it in 2001/2002 Graphics/Art Style: Realistic.
+Like Amber: Journeys Beyond Notable Characters: I think there was a
+man looking for his wife Notable Gameplay Mechanics: First person like
+Myst. Puzzle solving like Myst. Someone would talk and I think it was
+the man narrating Other Details: There was 40s music playing in the
+background. I can't remember if it was ambient or in-game. I'm
+thinking it was in-game because I can picture having to turn the radio
+on and off. It was a mystery and a little spooky. Like maybe the wife
+or it could have been the husband got trapped in something? I remember
+the husband calling out the wife's name. Or saying something like ,
+can you hear me? I'm almost positive there was a garden outside the
+house that you had to search in also. I know this isn't a lot to go
+off of and I apologize if I'm not doing this right. It seems like it
+could be Amber: Journeys Beyond, but the videos I'm seeing aren't
+resonating. But definitely that vibe. I also remember there was a
+weird line that one of the characters would say that me and my friend
+would repeat because it felt silly but, for the life of me, I can't
+remember. Thanks for any help, and I apologize again if this isn't
+much to go on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

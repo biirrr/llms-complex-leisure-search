@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android][~2018][3rd Person Shooter] Alien/zombie shooter
+with blue-shirt guy on cover. The main character was a man wearing a
+blue shirt and holding a gun. The app icon/cover image had no title or
+text  just that man with the gun. The game had a story campaign and
+played from a third-person perspective. The setting was a small town
+with mostly orange rooftops and very simple buildings  no skyscrapers
+or tall modern structures. There were many types of monsters, maybe
+zombies in part 1 and aliens in part 2. In the second game, a giant
+flying saucer appears above the town  and if it spots you, it shoots
+you. There was a cave or underground alien lab where you could get an
+alien weapon. You could buy weapons like machine guns and sniper
+rifles from NPCs. The graphics were 3D but low-poly  kinda like CS
+1.6 level visuals, just slightly better. At the end of part 2, the
+military arrives, and you end up fighting them too. The game was not
+very popular, probably made by a small indie developer. Any help would
+be greatly appreciated  this has been driving me crazy!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

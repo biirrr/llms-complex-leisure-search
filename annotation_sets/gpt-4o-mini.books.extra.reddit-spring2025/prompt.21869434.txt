@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction, Wildlife series. Couple living in
+underdeveloped area of northern US or Canada. They or husband wrote
+stories about various Animals (incl. raccoon?) and wildlife near lake/
+island? Cover: nature scenes. From 1960s/1970s? [s]. My mom had a
+boxed set of maybe half a dozen books that had to have been 50 years
+old. The authors live around wildlife and wrote stories of them. It
+must have been in either the northern US or Canada."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

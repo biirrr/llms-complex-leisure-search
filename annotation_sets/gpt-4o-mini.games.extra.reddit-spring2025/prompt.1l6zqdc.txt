@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC/Android/Flash] [Unknown] Papers Please clone in a
+fantasy setting, possibly NSFW.. Found some footage of this game on
+rednote the other day and got curious. I have a video saved to my
+phone but no URL to share. I've never played it, just wondering if
+anyone knows what it is. I'm led to believe it's not a very recent
+game (possibly 2010-2020), and that it can be played in English."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

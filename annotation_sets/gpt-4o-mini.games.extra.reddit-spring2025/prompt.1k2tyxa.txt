@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Maybe 80s-Early 2000s] [Grid based card game] Looking
+for a game I played in a friend house a lot. Hey, I used to play a
+game on a friend PC back in the early 2000's, and I tried looking for
+it for a long time and found nothing :( Some things I remember: Art
+style was pixelated (not too much) I believe, might have been fantasy
+themed. I remember a blue background, might have others. Played
+against my friend all the time, not sure if there are any other mode.
+Vertical grid: 56 rows × 2-4 columns: Cards are creatures with stats
+(e.g., 5, 3, 8). Cards are placed per row, and attack directly if the
+opposing row is empty. Cards fight if both rows are filled.
+Backgrounds on cards I think  may hint at types or effects. Life
+points for player and maybe for cards. Vine creature or attack effect
+for one of the cards. Thanks for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

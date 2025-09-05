@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2005 - 2010] A Space Racing Game. As the title said,
+it's a racing game in a space theme place, the vehicle they using is
+like hoverbike and they all look the same, the only difference is the
+colour of each hoverbike is different, no power up but they have
+shortcuts and also there's some booster pad if i recall corectly, i
+remember one of the track when they have to pass a multiple mini
+pyramid looking thing, then in different track they have to jump from
+a space rock to another space rock, thats all i can remember, it was
+so fun because of the space theme and there's a lot shortcuts you can
+take. Also im not really sure about the year that game is, i only
+remember i played it around that year i mentioned in the title. Thanks
+in advance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

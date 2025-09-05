@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's/ Middle Grade Fantasy. Boy falls through puddle
+into magical world, ends up having to save a kingdom. Read 2005-2009
+in Australia.. The plot started off in what I think was a modern day
+fictional city, where the protagonist lived - at some stage in his
+childhood I think he had possibly been taken there or kidnapped there?
+He fell through iirc an ordinary puddle on a street (chasing a
+newspaper?? someone was reading a newspaper??) and ended up in this
+classic fantasy land, living in a medieval-type castle. I think he was
+either mistaken for the crown prince there or had to work for the
+crown prince; there was another boy who was an antagonist, and a girl
+protagonist who helped him. There was some work to do with a pigsty,
+and at some stage the protag boy discovered possibly an evil wizard
+using a powerful hourglass to do... something to the kingdom. At some
+stage the boy and girl have to break back into the castle with the
+help of a troupe of travelling, talking, acrobat animals who can scale
+the walls. Someone also ends up swinging on a chandelier. This was
+definitely a series, so some details may be from the later books. It's
+also definitely not Magician's Nephew, despite the puddles!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

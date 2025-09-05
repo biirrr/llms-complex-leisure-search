@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Non-fiction/ Memoir - British woman travels USA by
+train, smoking lots. [s]. Read paperback around 2010 (I think, am not
+sure) may have come out as early as 1990s. Focus of the book is a
+journey taken by train around the USA in a loop. The author spends
+most of the time in the smoking carriages (I did searches for
+""smoking car"" and ""smoking carriage"" but nothing came up) meeting
+interesting people etc. It has details of her childhood spending
+entire days travelling around on the tube's Circle Line which inspired
+the trip. It also has details of her stay in a psychiatric ward.
+Appreciate any help. Apologies if it's something obvious."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

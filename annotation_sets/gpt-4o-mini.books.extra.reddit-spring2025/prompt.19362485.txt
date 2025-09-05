@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Young children's non-fiction book about the future (2000)
+from around 70s. [s]. This is one of these ""what's life going to be
+like in the future"" books - as such, it's obviously one of many, but
+there's a particular one I remember reading as a child and would like
+to reread. I'm pretty sure it was actually called '2000', but can't
+find it by searching on this as so many different books with this in
+the title! Would have been some time in the 80s or late 70s that I
+read it. I think it was a thin hardback book. I recall the format
+being aimed at youngish children; each page had a short paragraph with
+a picture, fairly simple and direct. I think one of the predictions
+was that people would be reading books on screens where they could
+make the pages go forward and back. NB: Someone on another forum just
+suggested 'The Usborne Book Of The Future', and it is *not* that one.
+Thanks."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

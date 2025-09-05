@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2007-2011?] Medieval themed 2D fixed shooter-ish arcade
+game where you throw axes at ogres, goblins, penitents, priests, etc.
+**Platform(s):** PC (don't know if others) **Genre:** Arcade, 2D Fixed
+Shooter or """"""""Gallery Shooter"""""""" kindoff **Estimated year of
+release:** 2007-2011? **Graphics/art style:** 2D Medieval, predominant
+darker tones (gray, green, brown, white, red), kinda detailed artstyle
+(not pixelated), reminiscent of many Reflexive Arcade games, probably
+from that same collection. **Notable characters:** Don't remember if
+you're an Ogre, or if you fight ogres, but you're a warrior fighting
+medieval characters like ogres, goblins, penitents, even priests I
+think. **Notable gameplay mechanics:** The screen was divided in 2
+sections, a big vertical main window one on the left (where all the
+gameplay happens), and a smaller vertical window on the right (where
+you bough upgrades, and checked on your progress, or something like
+that). You play as a warrior, unsure of what kind, maybe an Ogre, that
+is located at the bottom of the screen, only sliding from left to
+right I think. At the top of the screen enemies start popping up from
+behind different scenarios that would fit the medieval theme, like a
+castle, or church, or a camp in the woods, or something like that, and
+kept moving around, some of them also throwing projectiles at you that
+you had to dodge. You progress through levels by throwing projectiles
+like axes (the projectile I remember the most, maybe it was actually
+just axes) to the enemies on the top, and I remember their deaths
+being somewhat graphic?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

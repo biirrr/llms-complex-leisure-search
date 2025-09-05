@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Reverse harem Fantasy/ supernatural Romance where the
+female lead is being tracked/ followed by the male leads. [s]. Hi so I
+don't really remember many details about this book as I read it a few
+years ago. What I do remember Cover: the girl on the front surrounded
+by pink Plot: I really don't remember it well unfortunately but I
+think the FMC hunts monsters/creatures and she runs into one of the
+MMC who she then escapes from, and then him and the rest of the group
+follow her. The MMC may have a brother who is her partner in hunting.
+One of the MMCs turns into a fox/kitsune that can produce heat(?) I
+think once the FMC is found by the men, the reason is a
+misunderstanding so they help her They help her because she's gained
+powers or has just shifted into some animal and needs training"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

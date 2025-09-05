@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][200X] Realistic Detective Game. **Platform(s): PS3**
+**Genre: Detective Adventure** **Estimated year of release: 2000
+something.** **Graphics/art style: Realistic 3D, similar to something
+like LA Noire.** **Notable characters: Two playable characters, I can
+remember. One was a young looking guy with a black jacket that wore
+futuristic looking shades. The other was an older man who looked kind
+of like Eddie Valiant, but without a hat. A more """"""""hardboiled
+detective"""""""" type.** **Notable gameplay mechanics: You pressed
+buttons to interact with environmental objects. The game was similar
+to a point and click adventure game.** **Other details: The game
+revolved around these characters trying to independently solve a
+murder/missing person's case. I don't remember which. I distinctly
+remember a moment where the hardboiled detective is in his office
+looking at the case files. His office was very rustic looking, but I
+don't think the game actually took place across different time
+periods. Also, all of the interaction prompts were PlayStation icons,
+but I don't remember if the game was multiplatform.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

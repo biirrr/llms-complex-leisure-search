@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for an author(s): eccentric British family, may have
+been friends with Virginia Woolf or Bloomsbury. So I am not actually
+looking for a book. I am looking for a sibling set of authors that
+were part of a wealthy eccentric British family. They where what I
+think what would have been classified as early modernist proponents?
+But I am not sure. I think the sister's name was Eugenia. They wrote I
+think their own literary and art journals and were patrons to I think
+Virginia Woolf, or writers similar to the Bloomsbury set. If anyone
+recognizes this family I would appreciate it if you could respond with
+what their family name was? I just can't remember it? I just can't
+find any info about them. I realize this is a little obscure but I
+would really appreciate if anyone could come up with a name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

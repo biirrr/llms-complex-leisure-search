@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [late 90s/early 00s] Point and click style game in a
+sci fi futuristic bar. Only played this game once when I was a kid at
+friend of the familys house. Im pretty sure its point and click and
+you play some kind of human space pilot guy protagonist in this alien
+bar (I think I remember seeing able to see his reflection in a mirror
+at one point), style was sort of cartoonish? Bright colors. I think
+its one of those doing stuff in order to complete a bunch of mini
+quests kind of game, gathering items and stuff. At the time the only
+PC game I had played was Return to Krondor and I remembered being
+blown away by the graphics even though its probably not an amazing
+game, most likely between 1997 and 2000 but I could be off by a few."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

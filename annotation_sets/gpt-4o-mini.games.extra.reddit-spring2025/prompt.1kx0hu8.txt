@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [90s] Chart Music Tycoon. Hey iam searching this old
+pixel game: its a tycoon game and you start with an empty building
+seen through an isometric perspective. now you can build rooms like a
+studio. You can hire musicians and found a band. you can produce them,
+sell records and send them on tour. you are the manager here and can
+produce multiple bands. You have to check insurances and pay loan. it
+was a game with dark and sexist humor, typically for this 90s era i
+guess. its all in a pixel look. the name could be something like
+chartbuster or something."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

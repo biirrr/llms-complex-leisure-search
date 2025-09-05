@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox 360] [2010s] Diesel Punk mech tower defense. Xbox 360
+Tower Defense Mech Shooter. Forgot if it was 3rd or 1st 2010s,
+probably 2011 or so, could be later though. Grimy and kinda dark.
+Little bit cartoony though, like if Bioshock Infinite were darkened,
+almost. Player is with the US Military, otherwise names and such are
+forgotten to me. Mech building to an extent, tower defense and
+upgrading them, weapons overheat rather than run out of Ammo. I
+remember the enemies were made of TVs and had CRT like screens for
+faces and such. Kinda like the squid robots from The Matrix, I
+suppose."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

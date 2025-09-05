@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy read in the late 2010s, half dragon-half human
+female protagonist with silver blood. after watching videos about
+Silver Elite , a seer-like realization came over me that i'd read a
+book with a somewhat similar premise before, many years ago. can't
+remember the title, author or any character names, but i'm certain i
+read it during the mid to late 2010s for a book club. in it, the main
+character is a teen girl who looks mostly human, aside from silver
+scales covering parts of her body. silver elite reminded me of this
+because she may have also had silver blood, which became apparent
+after she (without being too graphic) tried to remove her scales. she
+was also a peasant, and presumably in hiding because she's part
+dragon. now this is totally bugging me. please help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

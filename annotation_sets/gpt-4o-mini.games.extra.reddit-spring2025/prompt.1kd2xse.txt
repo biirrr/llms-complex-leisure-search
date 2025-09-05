@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2004] a third-person fantasy or adventure game with a
+female protagonist. I played it somewhere around 2003-2004 so it could
+be that or a little older. I'm 98% sure it had a female protagonist
+and it took place somewhere in the forests... probably more like a
+rainforest? and there was some ancient mayan-like temple or a magical
+temple (?) at some point. It wasn't an important location, you could
+just run through it. As fas as I remember it didn't feel like a whole
+game, I suspect that it was demo version (which is harder to find) bc
+there was just this one location in the said forest but the game
+didn't move past that even when I finished the mission. The graphics
+seemed pretty alright to me, not atrocious, maybe of the PoP the sands
+of time quality. It also felt like a fantasy game for some reason,
+though I don't remember the plot, just this mental picture in my
+head."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

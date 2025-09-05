@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s?] Horror Visual Novel Game About Escaping Death
+Game. I've been trying to find this game for a while now and it's
+driving me insane all I want is a title just so I know that what I'm
+looking for is real. The game was a horror visual novel that was kind
+of like zero escape or your turn to die in the premise. The cast was a
+group of people (I think criminals?) that were put in a large dirty
+old building. I remeber that the building had staircases in it and
+certain areas were locked up. I also remeber that there was something
+like a game room in an area. The entire group had one masks that I
+think resembled animals and had a single color. Like one character was
+green and another was yellow. From the cast I think there was a child
+like in your turn to die but i think it was a little girl and not a
+boy. It was pretty similar to the games I mentioned before with you
+and everyone trying to figure out why you all are there. If anyone
+knows anything about this game to help me find it or even the title
+itself that would be amazing!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

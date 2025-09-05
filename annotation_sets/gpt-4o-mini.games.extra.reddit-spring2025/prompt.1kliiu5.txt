@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Samsung TV][Late 2010's] Runner platforming game where you
+switch colors between red and yellow to walk on different floors. The
+art style was cubic and simple, with the characters not having arms
+but instead just hands. Both the characters had caps in their
+respective color. The game was 3D and was shot in a sort of birdseye
+view from behind. There was only two buttons, one for jumping and
+another for swapping color. Anyone got any ideas?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

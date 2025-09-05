@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Standalone YA Book from the 90s/very early 00s, deep pink
+cover, main character is a teen girl whose best friend moves away. The
+MC is worried she and her friend will grow apart.. They used to play
+Barbies, using plots from soap operas to drive their play. When the MC
+goes to visit her friend, her friend has a new friend and it’s
+awkward. They all go to the mall and try on clothes (I distinctly
+remember Victoria’s Secret and something about trying on all colors of
+clothes). I want to say the title was only 1 or 2 words. I also
+believe the cover featured the MC as a girl with short, dark hair.
+Thank you 🙏🏻"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

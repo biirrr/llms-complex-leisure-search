@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [mid 2000s] carrera gt on the moon. Platform(s): PC
+flash game Genre: free roam in car Estimated year of release: 2005
+Graphics/art style: realistic Notable characters: porsche carrera gt
+Notable gameplay mechanics: low gravity, drifting, driving Other
+details: I dont recall any objective. It was a sick game on a flash
+game website I would play when I was bored with my main game (unsure
+also, likely rpg?). Driving all over the moon craters and hills,
+getting air."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

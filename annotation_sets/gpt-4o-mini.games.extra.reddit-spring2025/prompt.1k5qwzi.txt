@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late 1990s] help me remember. Okay, it sure where to
+post this, so starting here. I used to play a computer game back in
+the late 90s. From what I remember it was a little girl who was going
+through a story and the game would pause for you as the player to
+decorate/design certain elements. For some reason I always connect the
+color yellow, the show Gullah Gullah Island and a choose your own
+adventure book to this game but literally no idea why. This game is
+just something that regularly pops up in my brain and Ive become
+obsessed with finding out what it is! Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

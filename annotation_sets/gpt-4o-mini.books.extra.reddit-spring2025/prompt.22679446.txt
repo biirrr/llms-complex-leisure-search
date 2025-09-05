@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult MM Romance. Gay guy is a driver for a young
+""straight"" actor, actor realizes he's gay. Hi I read this book a
+couple of years back (maybe 5?). So the plot details are that there is
+a driver or a personal assistant to a young guy (who's very
+beautiful/hot) and the driver is gay. The young guy is a rich kid or
+an actor or something like that but comes across as a jerk initially.
+The young guy also comes across as a womanizer and in one scene he
+asks for a privacy screen in the car that the driver is driving. But
+turns out later that the young guy wasn't actually making out with the
+girls. He was in the closet or this was a ""gay for you"" or ""gay
+awakening"" story for the driver. There is no
+paranormal/fantasy/scifi/historical elements. it's a contemporary
+setting."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

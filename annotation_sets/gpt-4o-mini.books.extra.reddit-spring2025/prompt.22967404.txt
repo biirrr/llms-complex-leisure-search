@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Murder Mystery. Alaska, Gold Mining, Rapist Killer on
+the loose.. This is quite possibly a Dan Stabenow novel. However, I've
+just re-read almost all of her Kate Shugake novels and have yet to
+read this one. The only scene that I truly remember is a husband who
+coerces his wife to come to do a little gold mining or dredging.
+Without her knowledge, he sells everything they own and buys in this
+desolate country. He wants to look for gold full-time. A killer rapist
+finds the wife alone, and she runs. That's all I can remember. This
+may be from Stabenows Lian Campbell series, but I looked at all of the
+synopses, and none of them talk about this. Well, to be fair, I can't
+find this in the Kate Shugak synopses either. Might it be another
+author? HELP! Please help; this is driving me crazy!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

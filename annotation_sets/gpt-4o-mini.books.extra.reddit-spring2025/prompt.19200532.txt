@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction/Historical: Follows a year in New York City,
+multiple authors - ""New York Diaries"". [s]. This is a nonfiction
+book that follows a whole year in New York City. Each day is taken
+from a journal entry, a letter, or a newspaper article that was
+written/published on that day. Authors are varied and include Teddy
+Roosevelt and Andy Warhol. I read this book 5-8 years ago from what I
+remember, the book itself is dated from either the 1990s-mid 2000s."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

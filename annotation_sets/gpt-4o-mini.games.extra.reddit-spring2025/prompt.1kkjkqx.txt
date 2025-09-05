@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2022-23?]Game demo where it was like 2.5D and dialogue-
+based?. There was a game demo where it was like Tell-Tales The Walking
+Dead. You had the options to choose your dialogue and the demo had
+QTEs. The protagonist was like a blonde-hair guy. I'm pretty sure he
+had British/Australian accent. The game demo starts with him having to
+stop for gas, and has to break into a warehouse/supermarket. There he
+gets ambushed by 2 women, and eventually gets one of their guns and
+you have the option to shoot one. Eventually you escape with your
+truck. I remember it was kind of popular on YouTube."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

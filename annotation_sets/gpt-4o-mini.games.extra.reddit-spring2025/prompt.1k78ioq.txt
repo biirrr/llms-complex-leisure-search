@@ -1,0 +1,32 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[nick jr or pbs kids] [2000s] decorating food game with
+realistic human faces on cartoons. (description of the tv show) OKAY
+so basically when my cousin and i were kids we used to watch this show
+on either noggin (nick jr now) or pbs kids&. possibly a different
+channel but im pretty sure it was one of the two&. it was about a
+brother and sister (the sister had pink hair and short pigtails, she
+wore overalls and either yellow gloves or yellow boots.. if not both)
+(the brother had blue??? hair and wore overalls and possibly yellow
+gloves or boots as well). it was like a farming/gardening show, but it
+was ANIMATED and had like human eyes and mouths on the characters
+faces (kinda like annoying orange). (description of the game) ANYWAY,
+the game was basically a decorating game with food. i think the main
+dish was a pancake?? or you got to choose what the main dish was and
+then you got to decorate it with all types of like fruits and
+vegetables and stuff. i think one of the characters would be in the
+corner and occasionally say stuff or would talk whenever you would
+click/hover over something? its been KILLING me for over a decade
+because neither my cousin or i can remember the name of the game or
+where it was even from. ive scrounged the internet hundreds of times
+and have come up with nothing each time. PLEASE, PLEASE HELP =O=O=O (i
+drew a representation from memory, sorry its not my best work =-=-)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

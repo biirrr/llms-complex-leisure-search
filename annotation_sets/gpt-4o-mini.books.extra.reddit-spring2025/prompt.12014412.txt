@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "education reform in Los Angeles area [s]. This is a book I
+read between 2006 and 2009. It was written by a Jewish American
+educator (teacher?) and it was about the reform of the current
+American Public Education System. I believe he was writing about
+public education in Los Angeles area, mainly middle or high school
+levels. I can't remember how many chapters or really even what the
+cover was like. I think the cover was white."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

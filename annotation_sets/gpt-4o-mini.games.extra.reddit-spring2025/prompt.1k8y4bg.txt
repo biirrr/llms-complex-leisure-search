@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s] First person shooter with Aliens as the emeny. I
+remember playing an FPS in the 2000s where aliens are the antagonists.
+At the time my PC was not very capable so it lagged a lot but I
+remember loving the game, so I want to revisit it. So far, I've tried
+""""""""Area 51"""""""" 2005 and it really doesn't seem to be that. So
+I'd like some other options to see if I can find it, or if it actually
+is """"""""Area 51"""""""" and I am misremembering. IIRC there were
+some battles in a spaceship where the Aliens were wearing what seems
+like Astronaut suits - think helmet with big reflective (maybe not
+reflective) visor. They were also shorter than the main character,
+like half the height. the aliens were not as brutal looking as in
+Quake 4 or Unreal 2. More like Mars Attacks style over """"""""aliens
+from hell"""""""". In terms of visual style, I remember it being a
+glossy more realistic looking engine than the hazier ones of the time
+(hazier being quake, doom etc). A lot of colours that I remember are
+shiny silvers, light greens and blue lighting (almost like beams of
+electricity or something like that). I cannot remember much about
+menus, soundtracks or sound effects. I can remember weilding a weapon
+that was like a scoped machine gun (with a greenish scope lens).
+Gameplay style was a fairly short story driven campaign, not open
+world or allowing much exploration Games I know its not: - Area 51
+(probably) - Blacksite Area 51 - Alien Vs Predator - Duke nukem - DOOM
+- Quake - Unreal - Halo - Mass effect - XCOM - Breed Edit: Could it be
+Prey 2006?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

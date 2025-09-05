@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy trilogy, read late 90's, about a metalworker
+that is a god. [s]. The plot details are very hazy, unfortunately. I
+remember early in the series, the protagonist becomes an apprentice to
+an ironsmith / metalworker. His skills progress through the series and
+in the 3rd book, he makes wings that allow him to fly. I also remember
+him transforming into a porpoise or dolphin while in pursuit of
+another character. In the end, he realizes that he is a god that
+reincarnated himself as a human, for what purpose I can't remember.
+Not a lot to work with, but I appreciate any help remembering. :-)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

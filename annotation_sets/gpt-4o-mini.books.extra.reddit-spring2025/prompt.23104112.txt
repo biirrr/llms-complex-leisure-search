@@ -1,0 +1,22 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Pokemon Guide Book. Late 1990s/ early 2000s. Dragon on
+cover.. So, I'm looking for two different Pokémon guides that I read
+as a kid, but for now, we'll start with this one. I don't recall much
+about the contents of the book, but it was one of those ""Unofficial
+Guides"" or something of that sort. The cover featured a female
+trainer and some brown, dragon-like creature that I expect was a
+bootleg Charizard. I think it had information about the games and
+maybe the card game? There was also a book with a Pikachu on the
+cover. It was jumping up, the title I think was just ""Pokemon"" and
+the front cover was yellow. I think this one had similar information
+and I read it right around the same time. Thanks for your help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

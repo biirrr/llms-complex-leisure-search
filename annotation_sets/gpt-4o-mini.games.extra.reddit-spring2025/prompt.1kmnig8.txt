@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~2015] Trying to find this game, Help please. The game
+description: 1. there was like ship cars floating like 1 meter from
+ground, you can jump like fyi meters from ground but then it go back
+down 2. you can't fly in sky, only hoovering near ground that 1 meter
+3. you can do missions like killing npc ships or get cargo from town
+to town 4. its single player game ( at least it was ) 5. It's open
+world 6. you cant get out from ship 7. graphics was 3d not like Old
+games that game was from some kinda 2015 year aprox, i don't really
+know. Thank you in advance. :hug:"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

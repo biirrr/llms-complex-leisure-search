@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ANDROID][2000-2010]Point &amp; Click Satirical Indie Puzzle
+Game. Platform(s): Mobile Genre: Point &amp; Click Puzzle Estimated
+year of release: 2000-2010? Graphics/art style: Hand drawn, a bit
+messy/beginner Notable characters: Protagonist was a girl in high
+school, i think she was bullied? Notable gameplay mechanics: I think
+you could walk around and talk to characters, and had an inventory
+somewhat akin to I Have No Mouth, although without the whole
+interaction buttons on the side. Story focussed, don't think there
+were dialogue options. Other Details: I think the creator(s?) made
+multiple games in the series. It covered somewhat deep topics (i feel
+like there was a suicide or character death or something), but in a
+very ironic joke-y tone. In one of the sequels i think they got stuck
+in purgatory and in another there was a bunch of multiverse travel
+going on."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

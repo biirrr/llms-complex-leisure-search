@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Open World][2014-2018] Open world game where you're and
+outlaw trying to hide from the cops.. Hello! Im looking for a game
+that i remember seeing many gameplays in the past, but cant remember
+the name. The game had a camera that followed your character from
+above, like the old GTAs, and it had the same vibes and style as [The
+Precinct](https://youtube.com/shorts/8pRnzJiUFnY?si=nDbU-junacaqm9wF).
+I remember a specific mission where you had to tow the car of a police
+officer and use a crusher to smash it, then you would deliver it back
+to the police station to surprise him."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

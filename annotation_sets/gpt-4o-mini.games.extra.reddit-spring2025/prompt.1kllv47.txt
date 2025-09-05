@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash game] [2000s] A 2D zombie shooter platformer with
+floating head characters, any ideas ?. Hi, I'm looking for a game from
+my childhood and the golden years of flash games. It was a 2D shooter
+/ platformer where you played a very basic but very customizable
+character : it was a floating head, torso, hands and feet - very
+creative and dynamically animated. I remember shooting zombies in a
+very satisfying gore-fest. Any ideas ?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

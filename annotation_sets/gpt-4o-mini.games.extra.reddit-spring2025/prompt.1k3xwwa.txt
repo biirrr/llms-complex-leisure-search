@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2016-2019 probably] Horror game - child's pov. I'm
+talking about a short horror game where you play as a toddler. (Not
+among the sleep) Plot: It's your birthday and your mom let's you play
+in the garden (and you have to complete tasks such as picking up toys
+etc) but some kind of plushy starts talking and acting weird. Then you
+are brought into the house and served cake (I forgot what happens
+next) The graphics were pretty good from what I can remember. The game
+was 3d and the environment quite colourful and realistic."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

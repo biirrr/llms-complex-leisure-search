@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Humorous Memoir About Handicapped Man. [s]. Hi Everyone! The
+book I am seeking is a humorous memoir written by a man with a major
+handicap about his scary religious experiences growing up. It was
+published some time around Y2K, and was his second book. (His first
+book, also a memoir, was critically acclaimed.) I think the cover was
+yellow with a cartoon on the cover and the word ""God"" is in the
+title, but I'm not positive. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Windows][2010s] A bike game with secrets that pointed to
+some unknown real world treasure. So this is probably easy. It was
+some kind of bike game in 3d, probably in Steam but maybe on consoles
+too. There was some hidden secret meta quest where the community
+started to find clues to locations and things on the real world, and
+each clue pointed to the next one. A huge chain of puzzles and clues
+were uncovered along the years and .. I think it ended with something
+happening in the next century, not sure about this last point. The
+gameplay of the game was just racing or trials, or something related
+to bikes, but was very notorious and unexpected was all this super
+hidden stuff that seemed to belong to another game and genre. Thanks,"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

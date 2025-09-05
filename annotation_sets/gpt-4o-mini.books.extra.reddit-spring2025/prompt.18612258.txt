@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Looking for nonfiction paperback about a woman looking for a
+ghost in New Orleans. [s]. I'm looking for a nonfiction trade
+paperback I would have read about 2003. I think the title was simply
+Ghost, though I may be wrong about that. I think the cover might have
+been green. A woman is trying to find evidence of the existence of a
+ghost in New Orleans. As the story begins, she meets an unsavory man
+who tells her he can give her information if she meets him in a woods
+at night. In spite of the apparent danger, she agrees to meet him. She
+later encounters a woman in New Orleans who's wearing a strange piece
+of jewelry. The woman (if I remember correctly) tells her she's
+playing with fire. The ghost does certain things to the woman, such as
+writing messages in the dust on the TV in the woman's hotel room and
+arranging the coins on her dresser into piles. In spite of these
+incidents, the woman still doesn't think she has adequate evidence of
+the ghost. She's (apparently) hard to convince and wants to actually
+see a life size manifestation of the ghost. Thanks for your help."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

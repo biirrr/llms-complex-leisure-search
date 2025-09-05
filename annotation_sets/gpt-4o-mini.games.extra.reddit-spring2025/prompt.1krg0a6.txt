@@ -1,0 +1,37 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "Lost game: [PC][Early 90s] Turn-based fantasy strategy game
+with 4 teams, single screen board. Hey everyone, Ive been trying to
+rediscover an old game I played as a kid in the 90s  this has been
+haunting me for years, and I actually once found it again but lost the
+name and notes! Time to restart the search... # What I remember: *
+**Platform**: Likely Windows 3.1 or Windows 95 * **Distribution**: Was
+on a **shovelware CD-ROM**, probably with dozens or hundreds of other
+small games * **Genre**: **Turn-based strategy**, fantasy-themed *
+**Visual style**: **Top-down**, **entire board fit on one screen**
+kind of like a 4-player chessboard (not chess) * **Teams**: 4 teams 
+**Red, Blue, Yellow, Green** * Each started on one side of the board
+(top, bottom, left, right) * **Units**: Fantasy units  **dragons**,
+**mages**, **melee fighters**, etc. * **No base building or resource
+collection**  just **tactical combat** * **Very minimal sounds** 
+might have had **one weird song** in the menu or ending * There was
+some mechanic where the **board or teams could rotate** clockwise or
+counterclockwise (this is fuzzy but I distinctly remember something
+about rotating positions) * Graphics were basic but colorful  very
+much that early Windows shareware look * May have had hotseat
+multiplayer, and AI opponents * Used grid-based movement # Its NOT: *
+Heroes of Might and Magic * Warlords * Master of Magic * Slay * Lords
+of Magic * Archon * Battle Bugs * Fantasy General * Any of the known
+SSI/DOS strategy titles I know this is super obscure, but Reddit
+already helped me once years ago when I was trying to find *Bad Toys
+3D*  so I believe in the hive mind again. =O Let me know if this
+rings a bell for anyone."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

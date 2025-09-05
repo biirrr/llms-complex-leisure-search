@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010's] Educational game we had in school.. It was a 2D
+animated game, no 3D anything that I can remember. One section of it
+had a cyclops-looking character with blue skin and was wearing either
+a blue or gray track suit and he was on a treadmill. I think he had
+black hair that kinda looked like dreads. I also remember there was a
+pink version of the blue cyclops character in another minigame. I
+don't remember if it was a typing game or not. Been thinking of this
+off and on for years. lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

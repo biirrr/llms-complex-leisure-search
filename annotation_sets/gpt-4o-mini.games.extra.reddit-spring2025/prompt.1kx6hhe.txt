@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Late 2000s - Early 2010s] Top down browser driving
+game. I'm looking for a browser game I used fo play as a kid, it was
+top down like Freeway Fury and The Heist, but this one had a guy
+singing on the hood of the car and you had to avoid obstacles, also
+the band's MV was played on a small window on the corner"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

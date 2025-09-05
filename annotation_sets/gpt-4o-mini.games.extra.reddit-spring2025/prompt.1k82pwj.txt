@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Early 2000 - 2010?] A game with a side character
+floating above his office chair. **Platform(s): PC** **Genre: Story
+Game?** **Estimated year of release: 2000 - 2010** **Graphics/art
+style: appeared like a Half-life 2 engine game** **Notable characters:
+Guy hovering above office chair who hates main character** **Notable
+gameplay mechanics:** **Other details: I know this is a stretch but my
+friend and I are looking for a game we saw reviewed years ago that had
+a bit of a cult following. It was a detective game with a main
+character who was dumb and the notable other character was a man he
+worked with who hated him and had a pretentious vibe. The coworker
+hovered above his office chair instead properly being seated on the
+object as a visual gag.**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Browser][2003]Early 2000s browser games website. [](https:/
+/www.reddit.com/r/tipofmyjoystick/?f=flair_name%3A%22Removed%20-%20Bad
+%20Title%20(Rule%205)%22) **Platform(s):** Browser **Genre:** Arcade
+**Estimated year of release:** \~2000; accessed circa 2003
+**Graphics/art style:** overall vibe similar to the [windows 3d pipes
+screensaver](https://www.youtube.com/watch?v=tCpnDTzRAjE) **Other
+info:** I remember playing some simple clones of popular arcade style
+games on a website in the early 2000s. I was a young child so I don't
+remember a ton, but I do recall these games - * Sokoban style game.
+multiple difficulties with increasing numbers of boxes to arrange. *
+Tron clone with very simple graphics where you control a small colored
+ball and need to enclose as large a space as possible without being
+hit (by a projectile? my memory is hazy) * Asteroids clone * Pipe
+connector game It wasn't a large website like miniclip. The games all
+felt fairly cohesive, possibly developed by the same guy."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

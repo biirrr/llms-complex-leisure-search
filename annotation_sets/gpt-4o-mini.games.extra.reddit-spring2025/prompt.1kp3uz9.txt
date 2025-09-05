@@ -1,0 +1,14 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[2020s][PC][Indie]red headed boy with axe playformer. You
+can see footage of it here startong at 30 seconds:
+https://youtu.be/YuTGhhinTBQ?si=TmiTWLpJlwzf7OeN"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

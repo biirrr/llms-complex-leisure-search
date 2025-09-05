@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1990s Adult Sci-Fi/ Anthropology book titled ""Link"", can't
+remember authors.. The book is about researchers on an anthropology
+dig that discover the missing link. Along the way you discover they
+are former lovers/divorced, which adds to drama. Genre: Best fit would
+be Sci-Fi, but also a bit of History/Anthropology in the mix. I read
+it in the around 1995/1996 in hardback when I worked at a library, so
+I imagine it came out in early/mid 1990s. Given the short and generic
+title, my google searching has turned up very little help. So turning
+here in the hope that someone might know the book. Any suggestions are
+welcome! Thanks all."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

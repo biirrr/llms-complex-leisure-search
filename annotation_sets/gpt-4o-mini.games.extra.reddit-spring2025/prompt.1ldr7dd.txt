@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2/PS1][unknown] Sci-fi Shooter. There was a game that
+featured both local multiplayer and single-player modes. It starred a
+small, bald character who had a variety of weapons and had to shoot
+robot planes that appeared from the darkness. It was a top-down view
+shooter, and there were rail guns, rocket launchers, etc. It's most
+likely on the PS2, but it may have also been on the PS1. There were
+different maps you could choose from. I remember that sometimes the
+walls would be on fire, it was 3D, and you were on the ground
+running."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

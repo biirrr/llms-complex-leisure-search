@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy. Magical items that enhance powers, spectacles of
+knowledge, ring that makes you strong.. I read this book early 2024
+and I am fairly sure it was just released or it was a new release. It
+was about a group of teenagers, the protagonist was a female. She went
+to a school and it did have one magical class but it did not focus on
+magic. You were only chosen to be in that class if you had powers and
+she didn't at that time. Her mom passed when she was young - it was
+when the world had an earthquake and it swallowed up a bunch of people
+but you later found out that this was when the world split apart from
+the magical world and it became two different realms. They go on to
+discover different magical items - she finds the spectacles of
+knowledge in her grandfathers library but they only work for her one
+friend - I think the name is Max, but I am not sure. She later finds a
+pen that turns into a sword for another friend and I believe a ring
+that when you wear it makes you stronger but drains your life force.
+She discovers a shop that you have to pay with your aura to enter the
+magical world. Later she gets a letter or something like that, that
+lets her travel between worlds. Please help me find this book!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romantic Suspense. Heroine's daughter is kidnapped,
+goes to hero for help (either ex husband and the father of the
+daughter or exboyfriend). Hero is military or private security..
+ROMANCE-SUSPENSE h's daughter is kidnapped, goes to H for help (either
+ex husband and the father of the daughter or exboyfriend). H is
+military or private security. If I remember correctly, it is
+relatively old book, perhaps an author such as Linda Howard or Nora
+Roberts."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

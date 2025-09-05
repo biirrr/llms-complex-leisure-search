@@ -1,0 +1,38 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Sweet Valley High/ University? Tagline: He wants
+me, so why am I so confused?"". This was a paperback book. I read it
+in the early 2000s but I think it was written before that. Elizabeth?
+was dating Ethan, but really wanted to date another guy. She played
+them off and tried to make both boys/young men jealous. Ethan played
+football. At one point, she and her friends cheered him on in the
+stands. ""This can't really compare to (other guy) swimming,"" one of
+Elizabeth's friends, Tasha (?) said. ""Wow, he's going in a straight
+line. He's still swimming in a straight line! Boy, this is exciting,""
+she described an imaginary swim meet dryly. Elizabeth laughed and
+defended her swimmer boyfriend. The book contained multiple POVs. One
+of them was the swimmer boyfriend's POV. He wanted to be with
+Elizabeth, but knew he was being involved in a love triangle and had
+no idea why. He thought and thought about it, even while swimming. He
+finished his daily laps, was still thinking about Elizabeth, and
+thought to himself, ""Well, it's nothing another fifty laps couldn't
+cure."" He jumped back into the pool and a new chapter started. He was
+also struggling with his father remarrying. His dad had remarried a
+Native American woman, whose origins were brought up every sentence
+she was mentioned. The book, though, kept referring to her as American
+Indian, and mentioned a few times that she or her parents had been
+involved in the American Indian Movement. He also clearly thought she
+was hot. I remember being unsettled by this--she was his stepmother
+and clearly uninterested. She was nice to him though, and was trying
+to get to know him. I'm pretty sure Elizabeth wound up with the
+swimmer at the end. The book ended on a cliffhanger of some kind. I'll
+comment if I remember anything else."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

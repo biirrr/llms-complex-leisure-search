@@ -1,0 +1,42 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ios/mobile] [2010s] 2D point and click story - driven game
+where you switch between a boy in space and a girl in a village.
+Hello. The story of the game followed a boy and girl in their
+respective stories. Its implied that the girls story occurs in the
+past whereas the boys occurs in the future. The girl lived in a
+village on a planet whereas the boy lived in a rocket ship. The girls
+story focused on her subverting a catastrophe to the village whereas
+the boys story involved him trying to find a way to escape the rocket
+ship that his mother was keeping him on. We use information from each
+of their stories to help the other as the stories are somehow related.
+Platforms: played on iPad but could have had a pc version as well.
+Genre: story - driven, point and click, side - scrolling, puzzle game,
+with time - related mechanics Estimated year of release: early 2010s
+Graphics or art style: Fixed side view. Everything was in a 2D style
+but you could move freely. The overall style was a stylised cartoony
+look, almost like a childrens book. The female charater had a more
+bright and earthy colour palette as she lived on earth, whereas the
+boy had a more blue colour palette in keeping with the rocket ship he
+lived on. Notable characters: Three characters I remember are the
+girl, the boy and his mother. The girl is black, with a brave
+personality. The boy is white and more cautious. The mother of the boy
+remains hidden throughout the story. The mother only communicates with
+her son through a computer screen and we only see her actual
+appearance after the climax of the story. Notable gameplay mechanics:
+Its predominantly a point and click game. I think you could switch
+between the boys perspective and the girls so there were some
+puzzles related to that. I remember at the end, there was a code that
+the boy had to enter and it was found in the girls side of the story.
+Other: The closest thing I could compare it to is Valiant Hearts. I
+think it was advertised a lot on the apple App Store in the 2010s and
+may have won some awards."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

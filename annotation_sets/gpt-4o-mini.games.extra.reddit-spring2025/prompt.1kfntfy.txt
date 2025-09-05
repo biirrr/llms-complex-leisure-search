@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[FLASH][early 2000s] 2D game with a flying Asian man. An
+early 2000s game where you are playing as an Asian, likely Japanese,
+man who had been just waiting for the bus at the bus stop and suddenly
+understand that he can fly. From this point now, you can move left,
+right, up and down, and your goal is to reach to the sky and then the
+open space where you will finally obtain your real life purpose and
+creativity. There were numerous obstacles of course. Flying phones
+with your boss trying to get you to work on the other end. Woman with
+whom you can turn your head. Different types of homework appliances
+and worldly concerns. If you touch any of these you will get to the
+ground and will have to begin from the start. Platform(s): FLASH
+browser game Genre: Inspirational game Estimated year of release: 00s
+Graphics/art style: Doodles Notable characters: Japanese man"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

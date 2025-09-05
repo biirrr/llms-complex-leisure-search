@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc] [early 2010s] series of surgery games on girlsgogames.
+pls help me find this game series its driving me crazy. it was a
+series of 2d surgery games, i believe on girlsgogames, each of which
+had a different surgery you were performing on someone. i remember
+there was a lot of them but the ones i remember are brain surgery,
+heart surgery, and stomach surgery. with the stomach one specifically,
+i remember someone swallowed something they werent supposed to, maybe
+a marble, and you had to get it out? it was mainly just you doing
+tasks to get through the surgeries (cleaning areas, incisions, etc)
+and if you messed up too many times you lost the patient and had to
+start over"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

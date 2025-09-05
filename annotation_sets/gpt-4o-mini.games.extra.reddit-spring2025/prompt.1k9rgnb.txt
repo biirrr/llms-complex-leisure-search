@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Facebook][2010-2015] Cold War online shooter. Platform(s):
+Facebook Genre: First-person shooter, multiplayer-focused. Estimated
+year of release: Around 20102015 Graphics/art style: 3D Notable
+characters: None, all players were regular soldiers Notable gameplay
+mechanics: Team-based combat with a Cold War USA vs. USSR theme Maps
+included: A military base with hangars A ship-based map Other details:
+The games name may have included """"""""red"""""""" or
+""""""""2"""""""""
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

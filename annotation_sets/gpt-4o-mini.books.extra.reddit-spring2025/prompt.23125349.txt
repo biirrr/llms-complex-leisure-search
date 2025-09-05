@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romance. Female lead is teacher; needs a date for work
+Christmas party. Hires male lead off website. Spoiler.. FMC is
+teacher; needs a date for work Christmas party. Hires MMC off website
+I think the FMC name is Claire. She is being teased by co-workers and
+she makes up a fiancé/boyfriend. They tell her to bring him to
+Christmas Party. She goes to a website to hire a date. MMC takes FMC
+to Christmas party. His stipulation is they can't kiss. End up
+sleeping together after the party in her living room next to her
+Christmas tree. Leaves the next day, but comes back again, telling her
+he needs her. They fight and he leaves again, but then shows up at her
+family cabin where she is staying. MMC is helping his SIL take care of
+kids, and his brother is an addict or alcoholic. They fight again, he
+is afraid of committing, he has a felony type of past. Ends up
+building her a porch swing as an apology and then at the end of the
+book, proposes to her while she's teaching her students on stage while
+rehearsing a play."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unreleased - 2014] Scifi Sandbox Vehicle Game. Hello
+guys! Ok so this one is like very hyper specific, and not well known
+at all, reason for that being It was a small solo dev game. It was
+like a 3D, third person scifi game where the main character is an elf,
+and you have a bunch of unique vehicles and ships on different
+planets. Mind you this at the time didn't have like any dialogue or
+story, at this point in time it was basically like a tech / engine
+demo or sandbox. For the life of me I'd love to check up on the devs
+progress and see how it's been doing, but I can't for the life of me
+remember what it was called. Name began with a Z or X or something...
+If anyone can help me please, thank you! Platform(s): PC Genre:
+Sandbox Estimated year of release: NA Graphics/art style: Scifi
+Notable characters: Protagonist was a female elf type character.
+Notable gameplay mechanics: Vehicle based driving Other details: Solo
+Dev project."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

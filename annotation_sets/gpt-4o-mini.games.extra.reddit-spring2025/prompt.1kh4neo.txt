@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Wii][2015] fitness game set in an imaginary island. Like
+the title says it was a wii game. It wasn't one of the ones where you
+have a little bean shaped avatar however. I remember two of the games
+and thats about it, but they're very distinct. One of the premises was
+being in an underwater tank of glass, and a bunch of fish, sharks, and
+puffer fish would swim up to you and break holes in the glass, and you
+would need to block with your hands and feet to like, heal it, until
+the time elapsed or the tank filled with water. Another was where you
+were kind of on a roller coaster, and you had to stretch out your arms
+and legs to hit targets and strings of bubbles that would get you
+points at the end of the ride. Sorry I don't remember anything more, I
+played it a lot when I was like 11 and just am feeling nostalgic for
+it. Thanks if you can find anything!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

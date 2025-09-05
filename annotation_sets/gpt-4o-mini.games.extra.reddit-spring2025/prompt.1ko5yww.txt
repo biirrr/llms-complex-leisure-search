@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2014] Survival Game. Platform(s): PC Genre: Horror? I
+think. Estimated year of release: at least 10 years ago Graphics/art
+style: somewhat realistic Notable characters: towers that float, which
+have some sort of red objects inside. a flying centipede, and a few
+more that I can't remember. Notable gameplay mechanics: The player
+collects red objects from the floating towers, but if the player takes
+one hit from any enemy then they die, and the player has nothing to
+defend themselves with Other details: nothing that I can recall"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

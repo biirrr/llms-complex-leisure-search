@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy trilogy about land surrounded by mist and shadow
+monsters. Hello please help me find the name of the series. I believe
+it was trilogy and details are sketchy. I believe it was a British
+author due to the spelling of words like “colour”. The main city was
+tierd and had a giant greenhouse or smokehouse where meat was cured
+which had an almost addictive taste. The beasts that were cured could
+be found wild and traveled to the end of the world which was hidden by
+mists. The hero had to navigate a swampland to find it where he
+eventually found himself in another world. The hero was also pursued
+by a villain who I believe was a shadow figure. He created minions who
+persued the hero. I also believe the book was an older book. Thank you
+for your help. I’ll try to promote details as I remember."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

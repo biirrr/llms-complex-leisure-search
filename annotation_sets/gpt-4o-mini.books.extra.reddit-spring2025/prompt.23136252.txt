@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Fantasy or YA book about faery lore- I only have the
+description of the cover- part of the title.. I hope this is allowed,
+i don't have a description of the book, only what the cover looked
+like and part of the title. I'm kicking myself for not taking a
+picture of it when I saw it at a used book shop. The title is Faery
+(something). Faeriest or Faery? it was specifically spelt with the
+F-a-e. Font was typical fantasy style script. I'm guessing by the
+style of the cover that it's an older book, late 2000's - mid 2010s
+maybe. The cover is yellow green, with the picture of a real woman,
+not an illustration. She has blond hair. Fair skin, and you can see
+the outline of faery wings behind her. Only her chest up is shown. She
+was wearing a sleeveless top, im pretty sure its white. She appears to
+be a young adult. The background is yellow light, radiating around
+her, which darkens to the more yellow-green hues. Its a series, with
+other books having a pink-salmon color scheme and a baby blue color
+scheme. Thanks for taking the time to read this!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

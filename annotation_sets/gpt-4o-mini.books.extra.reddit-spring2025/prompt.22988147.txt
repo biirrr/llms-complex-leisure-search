@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Coming of Age novel: Insecure boy from broken home moves
+to beach town, gets a job washing cars, and comes out of his shell.
+Read 2009-2013. Spoilers.. This is a YA novel I read sometime in high
+school (2009-2013). I can't remember if it's specifically an
+Australian-written or -set book but it takes place in a small beach
+town so I get that vibe. It's about an overweight, insecure boy who
+comes from a broken home and has an absent, drug-addicted mother. He
+moves to the beach town (I think to stay with distant relatives) and
+eventually comes up with an idea to start his own business washing
+cars as they travel over the town's car ferry, which gives him his own
+income and lets him come out of his shell to the town's other kids,
+including to a girl he has a crush on. SPOILERS AHEAD: At the start of
+the novel is a mysterious teaser of an unknown woman getting an
+overnight bus to some destination. I believe this is then occasionally
+flashed to during parts of the main plot as she makes her way
+somewhere. Eventually it's revealed that this is the boy's mother
+having discovered where he is and trying to reach him to reconnect,
+but I believe she dies in a car accident before she can make it
+there... ?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

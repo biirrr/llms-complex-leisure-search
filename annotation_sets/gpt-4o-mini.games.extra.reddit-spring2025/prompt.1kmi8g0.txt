@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000~2005] Point and click game where MC's entire
+apartment is taken to another dimension/planet. **Platform(s): PC**
+**Genre: Point and Click** **Estimated year of release: 2000\~2005**
+**Graphics/art style: Cartoonish art, as far as I remember. Setting
+seemed to be a bit futuristic/alien.** **Notable characters: MC/Guy in
+a green robe, aliens, intelligent door.** **Notable gameplay
+mechanics: Whole thing is around the MC trying to find the password
+for a computer while gathering info about the planet/dimension he's
+in.** **Other details: I remember downloading this from a freeware
+site, so don't think it was a commercialy released game. From all I
+remember from the story, guy leaves his apartment during a thuderstorm
+and notices that the whole apartment is in another dimension/planet.
+So he's going around the place trying to get information on where he
+is and how to get back**"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

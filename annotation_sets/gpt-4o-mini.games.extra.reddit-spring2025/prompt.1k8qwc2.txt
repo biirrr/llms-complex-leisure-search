@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][early 2000s?] online chat room game on the moon. I
+dont even remember how old I was or what year but there was an online
+chat room style game where you were on the moon as an astronaut with
+some other players. The lobby had a sky with earth in the distance and
+if you tried hard enough you could jump onto the earth and have your
+character stand on it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

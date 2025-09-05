@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's Picture Book: Boy & girl with same name meet at
+school, become best friends. One moves away and letter got lost. Years
+later, meet again while chasing fireflies.. I read this a long time
+ago -- maybe somewhere b/w 2011 and 2020. It was one of the most
+charming books I've read and it's driving me crazy wanting to find it
+to read to my kids! Children's picture book: Boy and girl with same
+name meet at school, where they both think the desk (labeled with
+their name) is theirs. They become really good friends and do
+everything together. I think they lived in a mountain town. Eventually
+one moves away and I think wrote a letter to the other to explain and
+give contact info, but it went lost. The friend moved far away (maybe
+to Africa?) and had amazing experiences but was always thinking of his
+or her friend. Years later, that character comes back to town during
+the town annual summer celebration. They were both chasing fireflies
+and ran into each other, and immediately reconnected and rekindled
+their friendship. I vaguely remember something about them either
+having a secret language or just a few words that meant something
+special to them, but I'm not sure about that. It's been so long! Thank
+you for helping me!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

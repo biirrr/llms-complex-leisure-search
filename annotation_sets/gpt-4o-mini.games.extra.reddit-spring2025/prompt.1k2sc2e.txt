@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] Solve the Murder of a Girl you Talk to in a
+Morgue. You play as a detective. 2D point and click. I remember most
+of the background graphics looking like chalk or crayon drawings on a
+black background(?) At one point you interrogate a mean man. And the
+correct answer to the investigation varied by difficulty level. If you
+fail, you talk to her as she's angry (and I think blue?) in the
+morgue. At that point, you get the bad ending or neutral ending. I
+believe she smiles if you get the correct answer.Please help, thank
+you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Educational Flash Game] [Mid 2000s] A game that showed
+the dangers of drinking, smoking and junk food on the body. I remember
+this game mainly being on the British CBBC Newsround website and the
+point of the game was to drag all the damaged organs to the correct
+area and it would tell you the damage thatll happen if you drink,
+smoke or eat bad and when completed the guy would die"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

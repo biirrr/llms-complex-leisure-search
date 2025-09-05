@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][late1990s early2000s] Childhood game(played on the
+neighbor's computer). I played it on Windows XP. It was a
+sidescrolling type game. I remember that the graphics were not pixel
+graphics(nice ,crisp for the time). At the beginning of the game, the
+evil character would attack the main character's house or base with a
+yellow robot or mech and leave. As the game progressed, we could get
+on a blue robot and continue with it. But you couldn't always move
+forward with the robot, you had to get off the robot to pass some
+places. The main character was wearing blue or navy blue clothes, like
+a uniform, and he also had a hat (resembling Mario's hat or police a
+hat ). Like mentioned , graphics were good, maybe 2.5D but i'm not
+sure... Probably little-known, obscure game. Hope you can help me find
+it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

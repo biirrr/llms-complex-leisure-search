@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Autobiography of cancer doctor. [s]. I am not an english
+native speaker so at the time I wanted to improve my english i picked
+up this book from a supermarket randomly ( I know, nobody does that
+lol ... !! ) because I just thought it might be interesting. The cover
+seemed nice and I wanted to become a doctor at the time, so I liked
+the idea of reading a book about a doctor and his real stories
+treating cancer patients. I guess the place was in America. I don't
+know where exactly, also i remember vaguely that the doctor was
+Jewish? I remember I loved the book alot, it was around 200 to 300
+page? but it took me more than a month to finish because I had my
+dictionary propped up and i was being a nerd trying to learn all
+vocabulary. the doctor told stories from his own experience treating
+cancer patients. somewhere there was the word ""Hope"", i think in the
+title but not totally sure. I don't remember more useful information
+unfortunately. I read it in 2009 but the book is older i think it was
+written in the last half of twentieth century."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

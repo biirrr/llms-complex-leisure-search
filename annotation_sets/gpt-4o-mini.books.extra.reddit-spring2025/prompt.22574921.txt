@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Romantic Suspense. Woman on the run from abusive
+husband and ends up hiding in an old house by the beach. Works as
+waitress. Scared of male lead. Sketches on the beach, secretly
+sketches him. Spoilers. [s]. She hides in the house but occasionally
+goes to the beach and sketches sitting at a picnic table. She sees a
+guy on the beach often and he sees her too but whenever he tries to
+make conversation she bolts. At some point they do talk and she
+sketches him. He starts helping her around her old house fixing it up.
+She gets an unexpected visit from her husband's friend and gets
+freaked out. Ends up in some sort of conflict and the MMC ends up
+saving her. They find out her husband was involved in human
+trafficking and that the MMC's sister was taken by him and killed."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

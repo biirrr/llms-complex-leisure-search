@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2018-2019]Looking for a cowboy game with zombies, in
+third person, played on PC around 2018-2019. Hello everyone, I'm
+looking for a game I played on PC a few years ago, around 2018 or
+2019. Here's what I remember: """""""" It's a cowboy game with
+realistic graphics, similar to Red Dead 1, but with fewer pixels/less
+polish. """""""" You could play in third person (and I think also in
+first person). """""""" You could ride a horse and had an open world.
+"""""""" There was a kind of police station, small, with two stairs on
+the sides to go up. There, waves of zombie enemies and special
+vampires would appear after certain rounds. """""""" In the story,
+there is a mission where you have to kill a witch who was your wife or
+something like that. Before you mention it, it's not Red Dead DLC or
+anything Red Dead."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

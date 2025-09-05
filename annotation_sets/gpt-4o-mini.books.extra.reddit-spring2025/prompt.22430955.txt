@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Christian Romance. Paratrooper (in U.S. military)
+rescues a teacher on a field trip with students, they're trapped while
+crossing a bridge when a forest fire starts. Hospital. Read around
+2012. [s]. The genre is adult romantic Christian. I think it was made
+sometime after 2000, and I read it around 2012. I believe the author
+was a female. It’s in English and set in a current time period. The
+teacher is on like a field trip with her students, they’re crossing a
+bridge when a forest fire starts. They get trapped on the bridge. She
+tries to get the kids off. A guy paratrooper comes down and rescues
+her. She eventually goes to the hospital, he stays with her. She has
+fallen away from the faith, and he is a Christian. He takes her home.
+She ends up going to bed , and he leaves a Bible on a side table (I
+think the cover of it is camouflage). There is at some point in the
+middle of the book that he takes her for a check up at the hospital.
+When they are leaving (she’s in a wheelchair) she either faints or has
+a panic attack. As time goes on they end up liking each other. Thank
+you so much for any help anyone can provide!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

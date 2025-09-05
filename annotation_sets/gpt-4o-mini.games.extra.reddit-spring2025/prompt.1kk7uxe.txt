@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mid-Late 2000s] [Ps2] Turn based strategy combat, world
+exploring similar to Final Fantasy X.. Hello yall, I have been trying
+to think of this game for a few years now. It's a PS2 game similar to
+final fantasy X in game design. You walk around and interact with
+characters/the world for story and get pulled into encounters where
+you fight akin to FFX turn based system. There is a mechanic when
+casting spells/fighting where you have to time and press a button to
+align a marker around a circular compass-like UI, similar in fashion
+to """"""""Pop the Lock"""""""" game when casting spells/abilities.
+There are 4-5 characters in a squad, and the character design give
+early 1900's feelings. There is a male protagonist that can turn into
+demonic forms, and a female (red hair?) protagonist as well. She
+doesn't turn demonic, I don't think. The game takes place almost in a
+early-mid 1900's European stylized world. The opening cutscene
+specifically has a scene where the girl is in a church, a stick hand
+grenade is thrown in, and the male character turns into a demon-
+creature that shields them with his wings."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

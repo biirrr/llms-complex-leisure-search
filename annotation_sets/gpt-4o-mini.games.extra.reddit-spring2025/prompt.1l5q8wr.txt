@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2] [Early 2000's] Motorcross game where you do tricks in
+a huge arena. Platform: PS2 Demo Disc Genre: Racing/Biking Estimated
+Year of release: Early 2000's Graphics/Art Style: Realism Notable
+Characters: Unnamed Biker Player Character Notable Gameplay mechanics:
+You have a dirt bike and you have to do tricks in an arena by
+yourself, quite a lot like Tony hawks pro skater but on a dirt bike
+Other Details: I remember playing this a lot on a demo disc I got from
+a car boot sale when I was a kid although I never got the full game.
+I'd like to find out if theres any semi modern equivalent to it I
+could buy or emulate on my pc (if theres only console games) but first
+I need to find out what the original game was called. There may have
+been racing against other bikes in traditional tracks on the full
+version but I can only remember doing tricks by myself in a huge
+stadium."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

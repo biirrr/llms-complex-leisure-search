@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS2][2006-2015] Anime-like sci-fi game. Hey, I've been
+trying to remember this game forever, I remember my older brother
+renting it for the ps2 a long time ago around (I think pre 2014??) It
+wasn't based on a show but I do remember the characters being anime-
+like, could be I think 3 different playable characters but I
+specifically remember one of the characters being a woman with brown
+hair in a red outfit, I think it was skin tight, something like a
+leotard maybe? I also remember them being androids but I'm iffy on
+that. I'm not so sure on game play, but I remember it being third
+person or a fixed camera. You kind of explored some concrete walled
+level and I remember the rooms being relatively small, and you could
+get upgrades for your characters. I think there were guns It's been
+driving me nuts for the better part of my life, sometimes I'll just
+think about it, run some google searches and find nothing. I've even
+asked my older and younger brother about it, they remember it too but
+can't think of the name."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

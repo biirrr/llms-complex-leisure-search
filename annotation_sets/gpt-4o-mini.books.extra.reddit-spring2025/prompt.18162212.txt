@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1st person biography about a comedian who retires to the
+Canadian wilderness [s]. I am trying to find a book I read sometime
+between the late 1960's and mid 1970's. It's about a male comedian who
+moves his family to a cabin on a lake somewhere in Canada. They get
+their supplies by float planes. There are snow mobiles in the story,
+but I don't remember why. As far as I know, it's a true story. That's
+about all I remember. I've been trying to get information on this book
+for years, so any help will be GREATLY appreciated!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

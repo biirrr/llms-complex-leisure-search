@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Ps2][2000s] A Ninja fighting game with a robot with a
+Japanese mask that wielded a katana and could fly. There's this one
+Ninja fighting game that my sibling and I played with our cousins when
+we were younger on the Ps2 or Gamecube (i dotn remember) and I am
+trying to remember it. There was this one character that sometimes
+yelled """"""""Ninja!"""""""" when attacking and there was this one
+character who was a robot wearing a Japanese traditional face mask
+with a square frame who wielded a katana and could somehow fly. Can
+anyone help me remember it?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

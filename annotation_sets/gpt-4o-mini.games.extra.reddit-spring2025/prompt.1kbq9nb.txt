@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PS3][2000s]Samurai/Ninja Game with Multiple Playable
+Characters and a Story Mode. It's a game I remember playing as a kid
+for the PS3 or (unlikely but maybe) PS2. It was an Asian style setting
+where you'd work your way through each level fighting whoever popped
+up. It was 3D, over-the-shoulder type fighting. It had I think 4 main
+characters, each with their own specialty. There was a big guy with a
+staff/big stick, he was slow but strong. A dude with a blade, he was
+the main character and the one you got first. I think a range person,
+and maybe a female character. The typical combat archetypes. There was
+a mission at some point where you are in a huge battle, I think you
+could switch between characters at will or when one ran out of health.
+You unlocked different characters as the story went and they met up
+with each other, after a little intro mission for each character. I
+know this could apply to a lot of games, but hopefully I've narrowed
+it down enough. No luck searching """"""""Samurai PS3 game, guy with
+big stick"""""""" on Google, believe it or not."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

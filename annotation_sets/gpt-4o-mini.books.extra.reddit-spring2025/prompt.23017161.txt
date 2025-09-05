@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Kids Thriller - Abandoned theme park, creepy clown and ghost
+girl. Spoilers.. SPOILERS BELOW From what I can remember the book
+follows a group of 3/4 kids getting invited (under suspicious
+circumstances-a red ballon rings a bell) to this abandoned theme park
+close to where they live. The main character tells their mum about
+this and she FREAKS OUT. Despite this, they sneak out one night during
+a sleep over to go. I think it's 2 boys, a girl and possibly a bully
+type character that goes? There's this creepy clown that is haunting
+the theme park and they become trapped inside. Along the way, they
+meet this ghost girl called Milly who helps them escape eventually.
+The plot twist turns out that the ghost girl is the sister of the main
+characters mum who went missing many years ago. This book is a KIDS
+book. So despite the creepy plot it is appropriate for young children.
+I got it from the school library when I was approx 8/9 | think. My
+sister and I have been searching for years but can't find anything.
+Any help would be appreciated!!,"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

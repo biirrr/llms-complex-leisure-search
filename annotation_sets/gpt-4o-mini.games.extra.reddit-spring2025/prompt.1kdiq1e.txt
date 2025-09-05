@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Playstation][2020-2023] Game set in space before the
+creation of the universe. I saw this game on an """"""""All
+Bosses"""""""" complilation video from a while ago. I can't even
+remember much of the gameplay aside from the artstyle. Every character
+simply consisted of floating shapes that would turn into a full
+silhouette when attacking or being damaged. The player character
+consisted of white shapes and a flowing scarf (I think). I vaguely
+remember the gameplay looking like a 2d fighting game, except each
+side would attack in turns. On each attacking turn, the player would
+manually press buttons to do combos and deal """"""""damage"""""""".
+Once a certain damage threshold is reached, the Player can initiate a
+Quick Time event to kill the enemy (or something)."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

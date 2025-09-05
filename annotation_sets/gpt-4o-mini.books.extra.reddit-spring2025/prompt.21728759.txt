@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Memoir about a woman who finds out her husband is a child
+molester. [s]. This is driving me crazy! I've been searching for the
+past hour, and I just can't seem to find a book I'm thinking of. This
+is a newish memoir, I'd say pubbed within the last 3 years, about a
+woman who finds out her husband is a child molester. Not a spoiler,
+since the reader goes in knowing that. The husband didn't molest their
+own kids, as far as I can recall. I believe he targeted children
+through his work, I think at a school or church. The memoir is about
+the woman getting her life back and how her community rallied around
+her. It may have been a Christian book, not sure on that. I was
+positive the book had something like ""awful"" or ""terrible"" in the
+title, along the lines of ""Something Terrible Happened,"" but I'm not
+finding it. It's not A Beautiful, Terrible Thing , but a similar type
+of title. Thanks mucho for any help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

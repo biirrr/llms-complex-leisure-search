@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC and Switch][Unknown] A 2D Action RPG where a boss fight
+has Hatsune Miku music.. I remember watching a video about this game
+where you think you go from your house in a city to a cave and when
+you come out of it the city has changed to look abandoned. I remember
+that in the game you also enter a volcano to stop it from erupting and
+it had something to do with 2 magicians and how one of them was
+rejected to be the successor of their master. The video talked about a
+boss fight having Hatsune Miku music playing in the background too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

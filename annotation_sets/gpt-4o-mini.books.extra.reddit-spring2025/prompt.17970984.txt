@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Lesbian Cross dresser biography [s]. Hello, thought I would
+try this group to find a book I read it in the 90's. I think it was
+published then too.. It was about a lesbian in about 1940's or maybe
+20's. She was a cross dresser and inspirational. She cross dressed. I
+bought it as I had just come out and was absorbing as many lesbian
+books as possible I seem to think her name was jay . Or Kay? I keep
+getting really confused though with other books on that subject. Now I
+don't know if her stage name was ""Lord..."" I'm not hopeful - if you
+read this far... Thank you and I apologise for my complete vagueness.
+:)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

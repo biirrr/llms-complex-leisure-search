@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash] [2000s] Help me find a game of an elf who assembles
+toys.. I'm looking for a game from the early 2000s. The game was about
+an elf who had to assemble toys. Santa Claus sat in a chair
+supervising the elf. If we failed at something, Santa Claus would get
+up and hit the elf with a whip. After so many whippings, the elf would
+faint. I remember this; when the elf received the whipping, he made a
+somewhat terrifying face. The game was point and click, and the place
+was Santa Claus's cabin... I don't remember any more. My brothers and
+I have already found several games, and we're only missing that one.
+It would be a great help if you know anything about the game."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

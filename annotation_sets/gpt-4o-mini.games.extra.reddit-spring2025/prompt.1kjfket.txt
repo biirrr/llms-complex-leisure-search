@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[pc][2020?]Game set in a village where you're told to not
+venture outside the wall, you play a card game with other kids, facade
+for larger mystery. Platform(s): pc Genre: card game turned larger
+mystery Estimated year of release: 2020?? Graphics/art style: 2d pixel
+Notable characters: people in the village Notable gameplay mechanics:
+you play a card game with the other kids in the village and you take
+their card(s) when you win Other details: Game set in a village where
+you're told to not venture outside the wall, you play a card game with
+the other kids in the village. the card game isn't actually the main
+part of the game. if you go outside the village you find clues about
+seemingly a post apocalyptic world, with the cards in the card game
+being depictions of a war that probably actually happened"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,54 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "1990s Adult Fiction set in Russian, NY and Hollywood.
+Spoilers.. 90s Fiction set during Russia revolution/New York and
+Hollywood The daughter of English professor had been living in Russia
+with her father when the Revolution started, She was secretly and
+chastely in love with the married Prince Xavier (I think) who gifts
+her a diamond brooch from Cartier or Faberge. She manages to escape
+Russia with Grand Duchess/Princess Sophie Sophia and her granddaughter
+Tatiana Tania. They are challenged on the train by a Russian General
+but manage to escape. Tatiana’s brother is captured by the same
+General and despite being ordered to kill him he raises him. He has a
+natural son Boris who intensively dislikes the interloper and tries to
+kill him by a wire between two trees whilst he is out riding. The
+women end up in a tenement building in New York and she befriends a
+Jewish pawnbroker. The women of the neighbourhood all pawn their
+husband’s best shirt for 10 cents and redeem them back weekly for
+church/synagog. She swears the child to secrecy about their escape
+from Russia saying it is all a game. When the princess dies the main
+character is forced to try and pawn a diamond she has smuggled out of
+Russia to pay for the funeral. The pawnbroker is suspicious and
+accuses her of theft. During the funeral the child cries out in
+Russian“I don’t like this game / I don’t want to pay this game any
+more, I want Princess Sophie back” and the pawnbroker who can speak
+Russian realises where they are from and the history of the diamond.
+She also makes friends with neighbour woman who is Polish and has a
+lot of children by her husband – possibly Jacob – and she cooks him
+tripe and onions weekly. At some point she is forced to pawn the
+diamond brooch and the buyer immediately contacts someone who had
+registered interest whenever any Russian jewelrey was sold. The man
+who buys the brooch tracks her down and courts and marries her but
+eventually she realises he is not who he seems and after finding and
+taking back the brooch she flees. I believe he is after deeds to
+Russian mines. After fleeing they head back to NY but neighbour has
+moved to LA with her family after being abandoned by her Polish
+husband. She finds a new woman at the house who says ‘Jacob can have
+many more Polish children with me’. Pawnbroker who is secretly in love
+with her also heads to LA and eventually becomes a rich successful
+Hollywood studio-head. The son of the Polish neighbour wants to work
+in studio and goes for the day – he is given a tour by the owner but
+does not realise until one of the staff says “He gave you a private
+tour of the studio today” Tania becomes famous Hollywood star but is
+mentally fragile. I think she marries the pawnbroker turned studio
+head in the end and there is more about the brother/Boris who becomes
+head of the KGB."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

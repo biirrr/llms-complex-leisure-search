@@ -1,0 +1,16 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Pc][2000s-2010s] I found this on an Instagram post and
+remembered playing this game when I was a kid but couldn't find the
+name.. The only thing I remember about this game is that it was a
+snakes and ladders game, and if I remember correctly, it was one of
+the Flash Player games."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

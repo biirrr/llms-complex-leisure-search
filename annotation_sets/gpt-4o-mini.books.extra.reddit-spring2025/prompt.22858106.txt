@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Book: based in England, traveller, plants/flowers. Hello, I
+began and unfinished a book years ago about a boy growing in England
+and how he begins to work in some garden and later on the the Queen 's
+garden and he is sent to travel to other countries and continents in
+search for more rare and beautiful plants and flowers. I stopped there
+and it's been in my mind ever since but don't remember the author nor
+the title. I looked in my library list of books but it is not
+there..."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

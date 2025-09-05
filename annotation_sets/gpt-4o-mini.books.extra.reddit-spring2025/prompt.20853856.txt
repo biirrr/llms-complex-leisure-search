@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "True crime, 80s/90s, a woman discovers her childhood friend
+was murdered and tries to imagine what she went through - may have
+Darkness in title. [s]. I think this was from the late 80s or early
+90s. I thought it was called ""Into that Darkness"", but that seems to
+be wrong. It was a true story, I think set in the North of the US or
+in Canada. Early pages are about an intense teen friendship between
+the writer and a girl who had a more troubled life. By the time the
+writer goes to college they aren't hanging out any more. Some time
+later, the writer discovers her friend has been murdered. The murdered
+woman's life hadn't fulfilled any of her early promise, and the writer
+feels guilt about their very different life stories. The rest of the
+book is about her trying to find out what her friend's life was like
+and, ultimately, forcing herself to imagine the night she died, as a
+way of honouring the friendship she had given up on. That's why I
+thought ""Into that darkness"" was the title, as she dares herself to
+go into the dark and be there for her friend in her last moments."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

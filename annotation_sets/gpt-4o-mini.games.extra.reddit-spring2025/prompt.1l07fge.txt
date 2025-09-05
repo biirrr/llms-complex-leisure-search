@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2014-2019] [Roblox]. You would be on a train that
+would make stips every now and then to weird places. Youd have a time
+limit before the train left and i think you would just die, Most
+importantly though you would be these eg guys with legs. Similar to
+the models of the game """"""""Eg"""""""" on roblox but worse. Is
+appreciate if someone could help me find this childhood game of mine"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,20 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Nonfiction. A search for family history using dna
+geneology techniques. I read this book 15-20 years ago I think. The
+author is documenting the search for her family history. As I recall
+her father’s family were from somewhere in India and her mother’s
+family had Black roots in the Caribbean. I kind of recall the author
+was a science writer from Ontario, Canada -a female. She tried to
+explore and explain and apply early dna geneology techniques available
+to her at the time. The title of the book may have the word tiger in
+it based on my vague memory."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

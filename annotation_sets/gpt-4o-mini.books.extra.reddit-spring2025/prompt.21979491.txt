@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Narrative and line/pencil drawing short story (possibly
+Christian) book about a young man and mistreated little girl, possibly
+1970s or early 1980s. [s]. I would have read this in the
+early/mid-1980s. The story is 1st person from a young man’s
+perspective - he may have a dog and motorcycle - and is set in the
+city. He finds a little girl who has been abandoned and takes her back
+to where he lives, and when his housekeeper(?) is washing her they see
+that she has been beaten. She has a joy of discovery and they go on
+adventures and at one point he makes her a ‘mirror book’ out of two
+small cosmetic mirrors. At the end of the story she has an accident
+(falls on some railings?) and dies in his arms. Quite poetic and
+‘moody’ in a 1970s way, possibly incorporating discussions between
+them about God."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

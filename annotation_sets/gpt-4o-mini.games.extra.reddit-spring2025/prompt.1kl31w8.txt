@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2012]Online Safety flash game with astronauts. [SOLVED]
+Platform(s): PC Genre: Educational Estimated year of release:
+2009-2011? Graphics/art style: Simple, flash style Notable characters:
+A villain who wanted your password Notable gameplay mechanics:
+character customization Other details: When I was in elementary
+school, every year they'd have us do this flash game about online
+safety. I don't remember what it was called but I remember you were
+like an astronaut or a cadet and you had to be online safe. One part I
+remember was the villain asking for your password in exchange for
+something else, I think it was like a cookie or something like that."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

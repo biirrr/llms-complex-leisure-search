@@ -1,0 +1,33 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mac/PC?][Mid/Late 90s] Trying to remember dumb FPS I played
+on a school computer. **Platform(s):** Mac (maybe PC too?). Played on
+iMac G3. **Genre:** FPS / possible Doom clone **Estimated year of
+release:** Mid to late 1990s. Maybe played it '98-'99? **Graphics/art
+style:** Only remember the first level (because I was a kid and sucked
+at the game). I think you start in the first floor of an office
+building or maybe a hotel? There's a big fountain, possibly a
+waterfall, at the very beginning. I think I remember running/jumping
+up the founding and finding some item there. Only made it to the
+""""""""second floor"""""""" once but it might be like an office
+building. **Notable characters:** The enemies maybe kind of look like
+stereotypical mob/mafia guys, like a bunch of guys in suits? I feel
+like I remember blue and salmon/pink colored suits. It's possible that
+you play as a cop who is shooting bad guys but I'm not sure. **Notable
+gameplay mechanics:** Just typical 90s FPS stuff...I think you start
+with a small pistol and that's probably how far I ever got. Hey there!
+Just discovered this sub. I've been trying to think of the name of an
+FPS game I played on a school mac during a summer computer camp for
+forever. No idea how this game even made it to my school's computer
+lab. It wasn't particularly good or groundbreaking, but I'd like to
+try and track it down or watch some gameplay of it...if it exists.
+Thanks hive mind!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

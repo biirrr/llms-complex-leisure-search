@@ -1,0 +1,31 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction. Two best friends struggle when a new boy comes
+into town, main character avoids her school locker. Read 2010-2015.
+Spoiler.. This book has: Two best friends A new boy in town Main
+characters bestfriend likes boy, but they only really date after main
+character turns him down Main characters bestfriend is upset by this
+There’s a dangerous bridge other character like to party at Best
+friend of main character is upset by boy not really liking her and
+goes to party at bridge and dies (not sure if she intentionally
+commits suicide or not) The main character avoids her school locker
+I’m pretty sure she avoids the locker because the last time she opened
+it was when she was told that someone important in her life died and
+it was traumatic for her (possibly her mom) When best friend of main
+character dies she opens her (mc) locker to find notes left from her
+friend when she was alive, even notes she wrote from when she was
+upset about the boy Boy and main character both attend funeral at the
+end There was a poem in the book too about love im pretty sure saying
+something about his (new boys) eyes I read this book somewhere from
+2010 and 2015, but it was pretty old even in that time. Book was
+probably older than that anywhere from 1995 and forward??? anything
+helps, single book, i think the cover was pink."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

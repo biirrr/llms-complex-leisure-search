@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [2010s] looking for a flash game. It's was I believe
+on kizi games and you played like a little alien tank thingy(just a
+circle with a pattern not a real tank), and you would attach
+different weapons as you leveled up, you could get like little spears
+and knifes then build up to cannons and stuff, it's was 2d top down
+just alike agar.io and your objective was to kill the other little
+alien tank dudes that came at you, you could asap have different tank
+shells that did different things and gave you different buffs/debuffs"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

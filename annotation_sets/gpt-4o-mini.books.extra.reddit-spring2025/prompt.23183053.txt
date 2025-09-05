@@ -1,0 +1,21 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Fantasy/ Romance series. Woman who dies in car
+accident is offered a job like a reaper. Foul-mouthed angel guide.
+Spoiler.. The lead character is a woman who dies in a car accident &
+is offered a job, kind of like a reaper. She has a foul-mouthed angel
+that is supposed to guide her. She falls in love with a man (maybe). I
+remember he has to make himself bleed to appease a tree or something
+like that. The woman is taken to a type of hell & is possessed by a
+goddess (?) but the king of that place realizes he like the human girl
+not the goddess. The woman somehow comes back to herself & escapes the
+hell place. I know I’ve read it in the last 4-5 years."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

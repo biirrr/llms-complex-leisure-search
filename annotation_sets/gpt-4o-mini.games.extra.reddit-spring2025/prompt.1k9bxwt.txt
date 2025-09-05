@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile][2010s] Wizard game Dungeon Crawler alla Diablo. I
+recently had a memory lapse of a game I used to play on Android a long
+time ago. However, I don't remember the name. Here's the details:
+**Platform(s): Android** **Genre: RPG / Rogue like / Adventure /
+Single Player / Dungeon crawler / Top Down** **Estimated year of
+release: 2015 - 2019. I played this in 2020, but the release may be a
+few years earlier.** **Graphics/art style: some like pre-rendered
+graphics. Kinda cartoonish or stylized** **Notable characters: A
+wizard who has pitch black skin and a blue or purple robe.** **Notable
+gameplay mechanics: The game has level system, which you get one or
+more points to upgrade your skills; It had several types of magic, and
+depending on which one you use, the color of the wizard's clothes
+changes (Ex: fire magic = red clothes).** **Other details: The game
+was taking place in a cave or tower with several floors full of
+enemies and loot; The game had mage, wizard, quest or adventure in the
+name.** Thats all i know about this game, sorry if i didnt provided
+more details."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

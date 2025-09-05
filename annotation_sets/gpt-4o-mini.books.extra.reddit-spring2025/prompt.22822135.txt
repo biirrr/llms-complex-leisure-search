@@ -1,0 +1,52 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi. Young woman raised in a remote tribe, returns
+to America after her missionary parents pass away, to discover the
+world has become technology depend to the point of replacing
+cellphones with chips in there brains. Spoilers.. A young woman who
+was raised in a remote tribe, by her missionary parents, returns to
+the US after her parents die in an outbreak that kills the whole
+village. The books opens with her struggles as she navigates a boat
+downstream to try and find help. She is disoriented and very ill and
+ends up in an, I believe Brazilian, Hospital. By the time she can
+communicate the need to help the village, and a medical team is
+dispatched the whole village is dead and the medical team must wear
+hazmat suits just to investigate. She goes to the US, because her last
+remaining family is there. In the US she stays with her cousin. She
+learns the world has become completely technology dependent to the
+point smart phones have been replaced by chips in the brain. Due to
+this instant access in the brain to the internet, GPS, phone calls,
+etc. School has quit teaching facts and now teaches research and logic
+skills to help everyone navigate the instant access to all human
+knowledge. She is offered a brain chip but declines as she believes it
+is against Gods plan to mess with the human brain like that. Because
+she declines the brain chip, she is isolated and unable to really
+navigate the modern world. Her cousin is unsympathetic to her choice.
+However, the cousin’s husband is more understanding and helpful to the
+main character and helps her when he can. The main story is the main
+character vs a large corporation that is trying to perfect the ability
+to transfer human consciousness into androids creating eternal life.
+It turns out the main character’s grandfather helped start the company
+with a business partner. Now that the girl is back in the US, the
+corporation believes she has her grandfather’s knowledge or notebook
+or something and are trying to get her. She believes her grandfather
+has dementia and is in a care home, but it turns out the corporation
+has brain micro-bots that can eat and affect the brain. Her
+grandfather doesn't really have dementia, his old business partner is
+keeping him ill, because the grandfather disagreed with the direction
+of the company. And the micro-bots cause the decease that killed the
+girl’s village by eating their brains. The reason the grandfather
+didn't agree with the direction of the company is in early testing of
+transferring human consciousness into androids they discovered this
+disconnects humans from their souls diving them insane. As one of the
+last remaining in the US who believe in God he feels it is wrong to
+disconnect humans from their souls."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][NO LATER THAN 2015] A platformer with a man in a red
+scarf shooting robots set in winter. Hey all! Asking to help me find a
+game I used to play. I am not sure on the exact year, but no later
+then 2015 this is for sure. I played it on a Windows XP laptop. I had
+I downloaded. The game is a platformer. The main character had a long
+red scarf and was dressed in battle gear. The background is set in
+winter (at least the first level was). The objective of the game is to
+move forward and shoot enemies. Every now and then a boss would
+appear. I think one of the boss battles was set on a moving train and
+I somewhat recall a mechanical worm or an octopus as a boss. The vibe
+of the game, as I recall is somewhat reminiscent of Strike Force
+Heroes: the movement and the jumping, rotation of the players hands.
+But the graphics were (I think) more of a Metal Slug type, but the
+movement was not jittery. It is not Risk of Rain, nor it is Metal Slug
+or Fury Unleashed. Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

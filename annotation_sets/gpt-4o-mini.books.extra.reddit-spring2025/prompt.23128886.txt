@@ -1,0 +1,32 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA fiction about a child befriending a wild black fox
+against their family's wishes. Read 2005-2006.. I think the name of
+this novel was ""The Black Fox"" but I can't find a book matching that
+title to what I remember the book being about. I do not remember the
+author's name. I am 90% sure of the title but there is a chance it was
+actually ""The Silver Fox"" or ""The Gray Fox"" I read this book in
+the 5th grade so 2005-2006. The cover had the face/head of a black fox
+and a teal green border. It was a chapter book of maybe 150 pages. The
+plot revolved around a kid (I can't remember if it was a boy or girl)
+who was sent to stay with relatives on a farm (I think an aunt and
+uncle but could have been grandparents). The kid sees a fox around the
+farm and becomes very interested in it. The adults catch a baby fox
+and use it as bait to trap an adult fox. I think the kid tried to
+release the baby fox but I don't entirely remember. I don't remember
+how the book ended. I specifically remember the kid carving notches in
+their suitcase to count the days and walking around outside trying to
+find a new color and being disappointed when they realized it was
+impossible to find a color that didn't already exist. I read this book
+20 years ago and I still think about it and would love to reread it
+despite it being a kid's book. I have had no luck finding it though.
+Does this book sound familiar to anyone? Thank you!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

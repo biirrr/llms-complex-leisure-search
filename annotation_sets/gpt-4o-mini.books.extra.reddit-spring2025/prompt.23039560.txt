@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Middle Grade Historical Fiction. Them taters will be right
+tasty with squirrel. Read 1964-1966.. I read this book when I was,
+likely, in 3rd or 4th grade, which would have been in 1964-66. It was
+about a young girl who lived with her pioneer/frontier family. Her
+father and brothers went out squirrel hunting, and her mother sent her
+out to harvest potatoes from the garden. She complained she was sick
+of eating potatoes, and her mother replied [something like] ""Now,
+them taters will be right tasty with squirrel."" At age 9 or 10 and
+never having known hunger, that line turned my stomach. At age 69 and
+having experience food insecurity, I am much less judgmental and would
+like to read this book again. Can someone can tell me the title and
+author? This request was triggered by 83A in the 2/26/25 NYT
+crossword. Thank you all!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

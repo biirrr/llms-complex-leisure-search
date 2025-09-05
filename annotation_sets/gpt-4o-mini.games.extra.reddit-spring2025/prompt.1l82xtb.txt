@@ -1,0 +1,34 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Mobile/Ipad][2010-2012?] Zombie life sim. Platform(s):
+Mobile I specifically remember seeing it played on an Ipad so I'm
+unsure if it was ever a PC game Genre: Life simulator? Estimated year
+of release: 2010-2011, maybe earlier Graphics/art style: The
+characters were in a 2d flash animated style, I remember the player
+character moving VERY similarly to the Plants vs Zombie animations
+Notable characters: I can't remember any notable NPCs aside from the
+""""""""shopkeep"""""""" who is just a vague man in an apron in my
+memory, and they player character who was VERY notably a zombie but
+you could dress them up? Their was definitely a """"""""scene
+girl"""""""" hair option for your zombie. Notable gameplay mechanics:
+Instead of normal game stats, you'd have hunger and smell and I think
+a third one that was decay-. The hunger could be remedied by eating
+the NPCs or going to the store and buying """"""""faux"""""""" brains,
+you also had a """"""""smell"""""""" bar that could only be remedied
+by buying deodorant/perfume from the same store.I don't remember a way
+to fix decay? The point of the game was to appear as human as possible
+while..doing something. I'm not entirely sure- Other details: I
+remember you could go back to a house to move onto the next day but it
+was a super run down hovel, I think you could customize you're
+appearance but the person playing wasn't able to show me very much
+before they left. You'd just amble from place to place, meeting your
+needs and..eating..people? I assume?"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Non-Fic. Psychology [s]. This book is about the generation
+of young American men in their twenties and thirties. The author, who
+I think is a psychologist, mentions the movie 'Failure to Launch' with
+Matthew McConaughey, so it must have been published in 2006 or later.
+I have a feeling it may have been called 'Saving Our Sons' or
+something similar. I think the cover was brown and may have had a
+picture of the author on the front."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,27 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Steam VR / Oculus Quest][2020s] Sort of rhythm game with
+plants and seeds bouncing around. Platform(s): VR - Steam or Oculus
+Genre: first-person real time puzzler with rhythm aspects Estimated
+year of release: 2020s Graphics/art style: VR - Seemt o recall
+aesthetic is growing plants in greenhouses Notable characters: Notable
+gameplay mechanics: Unfortunately I never got to play it. I'm sure it
+was wishlisted on Steam, but now I can't find it anywhere. ISTR you
+were either a wizard, or some descendant of one, and your job in the
+game was to set up some sort of 'machine' that was powered
+by/constructed of plants in greenhouses, spudding seeds that fly
+through the air to hit targets, which in turn set other things in
+motion. Different plants probably had different effects. Levels were
+(I think) completed by getting your plants to work in conjunction with
+each other so multiple things happened in the right order. Some time
+shifting or freezing might have been involved to help you make this
+happen. Other details: Will edit if anything comes to me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

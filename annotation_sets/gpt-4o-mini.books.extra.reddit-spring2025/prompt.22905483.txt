@@ -1,0 +1,28 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA/ Children's Historical Fiction book set during a war
+where the characters die on a ship. I'm trying to help my friend find
+a book she read in either 2016 or 2017 when she was 10 or 11. She
+doesn't remember much about the front cover other than the fact that
+it was probably blue and maybe had a ship on the front. She says it's
+one of those books that switches perspectives in each chapter - and
+she thinks there's either four or five main characters that it
+alternates between. Two of the characters fall in love with each
+other, and she thinks one of the characters wants to be a nurse.
+Another one is a private in the army who she thinks was really
+arrogant and he either has a made-up girlfriend that he writes letters
+to, or he makes stuff up to write about to his girlfriend. She's
+pretty sure it's set during a war as well, and most if not all of the
+characters end up on this massive ship that ends up sinking. Another
+thing she remembers is that at some point, one of the characters has
+to cross an iced over lake with a girl that's blind and she ends up
+falling into the water and dying. We appreciate any help :)"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi. Planet inhabited by wolf-like beings that live
+in collective groups.. The story unfolds on a foreign planet inhabited
+by intelligent, wolf-like beings that live in collective groups. These
+beings possess a rich culture but are divided into at least two rival
+states engaged in continuous warfare. The narrative follows a human
+family that crash-lands on this unfamiliar planet. In the chaos of
+their arrival, a girl becomes separated from the rest of the family
+members and end up unknowingly infiltrating different factions of the
+conflicting states. Both parts of the family assist their newfound
+allies to make black powder canons. Wolf-like beings live in
+collective groups (that are called individuals), communicating and
+sharing thoughts through ultrasonic sounds. This unique method of
+communication allows the members of the pack to synchronize their
+thoughts and ideas, creating a hive mind. This creates a unique
+culture where groups too near each other will hear each other's
+thoughts. With the human space ship, mold like thing end up in the
+planet. I read the beginning of this book in 2008-2015. I did read
+Finnish translation, so I may not use right terms for local
+inhabitants. Book was not new."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,25 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir: Memoirs of a Panther Tank Commander? [s]. I
+came across a you-tube clip of someone's poorly constructed video of a
+book told by a young German tank commander toward the end of WWII The
+playlist is entitled Memoirs of a Panther Tank Commander but there
+doesn't seem to be a book by that name. (At least not on GoodReads)
+This is NOT the Hans Von Luck book. It's from a guy who'd become his
+tank's commander when the real commander had been killed. The kid is
+only 20 years old and the first chapter that I can find is called ""We
+Must Surrender to the Americans"" No author is cited but the story was
+fascinating despite the bad AI text-to-voice conversion. The guy and
+his younger crew are all hiding in a forest looking to break out of an
+encirclement and make it to the American lines rather than surrender
+to the Soviets and end up in Siberia somewhere I'd love to locate the
+real book but none of the Google searches I tried led me to any gold."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

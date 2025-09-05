@@ -1,0 +1,29 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children's/ YA fiction - Book from likely the 1980s. Foster
+child adopted by single mom, large publisher. Spoilers.. I read this
+book in the early-mid 90s. It was used when it came to me, and I'm
+almost certain it had the classic cover style of 80s youth publishers,
+with the oil-painting cover art surrounded by a solid color border
+that continued around the spine and back cover. [SPOILERS ahead] The
+plot was about a boy in the foster system whose new foster mom is
+single and eccentric. A possibly identifying detail is that she keeps
+a small fake Christmas tree up year round, because ""sometimes you
+want a little Christmas."" She's queer coded--another woman described
+as a friend visits her sometimes, but I don't remember it being
+actually spelled out. She and the boy discuss and agree they would
+like to become a family. She cautions him that the judge may not like
+that she is single and the adoption may not be approved. The adoption
+is approved, and the final scene in the book is them coming home and
+the boy going to the living room to turn on the Christmas tree. Thank
+you for any help. I've tracked down a lot of my childhood reads but
+this one continues to stump me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,16 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Scifi series. Man (ex-military) hired to capture
+creature on another planet. Read 2010-2020.. This part of a 3-4 book
+series. Read last in 2010-2020. Hunter is former military. Uses tank
+in hunt. Creature is huge and nearly indestructable. Meets local woman
+who helps him. Spoiler: creature is telepathic and sentient."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

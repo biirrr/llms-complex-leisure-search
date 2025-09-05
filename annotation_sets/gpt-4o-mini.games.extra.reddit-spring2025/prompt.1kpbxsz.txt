@@ -1,0 +1,25 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[playstation] [2010's] rainy drive scene as a kid in a car.
+Hi, Im trying to find a game I played years ago but cant remember
+the name. Theres a very specific scene I keep thinking about: You
+control a young kid sitting in the back seat of a moving car on a
+rainy night. The kid tries to quietly reach for a toy robot or
+something similar that the mother has placed in the front seat, trying
+not to get caught. The scene feels really emotional and tense. Shortly
+after, i think there was a tragic car accident that seems central to
+the story. The game had realistic graphics for its time and maybe some
+puzzle elements involving getting the toy. i remember the car drives
+in a strange way, almost like a helicopter, not like a normal car. To
+be honest this is probably a childhood dream that I mistook for a
+memory but its been bugging me for years but any help would be amazing
+Thanks!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

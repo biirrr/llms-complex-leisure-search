@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC web browser] [2010-15?] Top down bug survival. Game i
+used to play online as a kid. Think it used to go on the friv game
+website and it was one of the games on there Top down, cartoony
+looking survival game. You had to breed these little green circle bug
+looking things and evil bugs would attack. The camera was fixed but
+the bugs moved about. To be honest they might not have even been bugs,
+this has always just lowkey annoyed me my whole life not being able to
+go back to this game. I probably didnt get far in it so would like to
+complete it lol"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

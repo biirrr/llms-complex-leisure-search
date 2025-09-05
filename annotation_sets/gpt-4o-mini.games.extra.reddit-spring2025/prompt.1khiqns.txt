@@ -1,0 +1,17 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PLATFROM: PS2 OR XBOX360?] [YEAR: NO CLUE] anyone have any
+idea from this small pic what game this is. https://preview.redd.it/g5
+f1x01rwhze1.png?width=1356&amp;format=png&amp;auto=webp&amp;s=865574f9
+966bc26aee1d0e835549207ad115f120 i saw a random youtube video where
+this creator showed 3s of this game and i know i played it before but
+cant remember anything of it"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

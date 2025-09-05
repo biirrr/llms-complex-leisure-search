@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[NES][80s-90s] Sci Fi Flight Combat. I played this game over
+30 years ago and my memory is very hazy. It was a Sci-fi flying game,
+I cant remember if it was top-down, isometric or side-scrolling but I
+think top-down is most likely. The graphics had very basic colours and
+straight lines. I remember pastel pink being quite prominent. You
+would fly your ship around and I remember liking the way the ship
+tilted when you turned, and the 3D appearance of the vector
+graphics. I cant remember the objective but you would come to armoured
+places (i cant remember if this was some kind of giant boss or a place
+on the landscape) and you would need to destroy the armour covering
+certain parts, then I think you could collect something from under it
+maybe. I thought it might have had something like the word Vector in
+the title but I could be confusing that with something else and google
+didnt help. Edit: Further Googling helped me figure out it was Captain
+Skyhawk."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

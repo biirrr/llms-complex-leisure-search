@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000s-2010s][Horse game that took place in a stable,
+think there was a garden]. I remember playing this horse game on my
+parents' computer when I was little (I'm 20 now), I know we had other
+games that were a disc insert so it may have been one of those but
+couldn't seem to find it. I remember feeding the horse apples? Also
+sweeping the stable and putting down hay which was really satisfying.
+I think there was a garden outside and maybe a house too but I'm less
+certain of that. I don't remember having an avatar, it feels like it
+was just caring for the horse in the stable 90% of the time. It was a
+semi-realistic animation style and the sound effects (sweeping,
+feeding) were really calming. I think there may have been calming
+music too."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Sci-Fi. Father and 2 daughters flee apocalyptic
+disease where humans turn into semi-humans. [s]. I think one daughter
+was named Raine or similar. At the start of the book they are stuck in
+traffic. They are taken in by a group, and then one daughter is
+infected and turns into a semi-human, and then the conclusion of the
+book is them all giving up and realizing that this is the next
+evolution of humans."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

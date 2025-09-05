@@ -1,0 +1,17 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fantasy set in the eighteen hundreds, about a
+young woman who is taught how to use a special piece of glass in a
+necklace to identify demons though their disguises in the human by a
+gentleman with a scandalous reputation.. I don't remember anything
+else about the book except for I said in the topic. Please help me
+find it if you can. It's driving me crazy on trying to find it."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

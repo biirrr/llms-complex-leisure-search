@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[android/ios][2012/2013?] Help me find this rail mecha
+shooter that I played on a mobile device a long time ago. It was stage
+based and had bosses at the end of each stage.. I am searching for a
+mecha rail shooter game that I played on an mobile device (ios or
+android? I think) a long time ago. I distinctively remember that one
+of it's stages was a city and at the end of the stage you fight a
+mecha hydra robot boss ? Can't find it on any mecha games for
+Android/ios list at all"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

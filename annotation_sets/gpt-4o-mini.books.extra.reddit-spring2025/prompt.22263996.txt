@@ -1,0 +1,19 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Memoir/ Non-fiction. US Military man's life during and
+after deployment to South Korea, retired after 25 years. Then worked
+at General Dynamics for 20 years. Read around 2004. [s]. Author
+retired as LTC after 25 years in military. Then worked at General
+Dynamics for 20 years. Covering 1970s-pre 9/11; read about 15 years
+ago. Chiefly remarkable for how thoroughly he immersed himself in the
+culture. Towards the end, he says he's going to buy a couple of
+alpacas and live on a mountain somewhere."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

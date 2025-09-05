@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction/ Fantasy. Teenage girl who has visions and tries
+to find kidnapped children. Read 2012-2019.. The book's protagonist is
+a teenage girl who has visions sometimes. She lives with her aunt and
+cousin because her mother passed away after being hit by a truck
+carrying oranges and the girl blames herself bcs she had a vision of
+her mother dying. Her best friend from school runs away and the
+protagonist realises that her best friend was kidnapped by some people
+who were taking in teenagers to play family with (in an abusive way),
+so the protagonist gets herself kidnapped in order to rescue her best
+friend. i read this in middle/high school, and one thing that stuck
+out to me was that the best friend tells the protagonist that she's
+planning to run away because she knew that protagonist was too busy
+drowning in her own misery to care. thanks in advance !"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

@@ -1,0 +1,36 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC or Cross-Platform][2010s] Can Someone Help Me Find This
+2D Scroller Action Game Where You Play as a Humanoid Monster Going
+Against an Evil Man in His Tower?. Edit: ***Solved: Shadow of the
+Beast*** I remember a bunch of vague details about the game: 1. It was
+a 2D scroller action game 2. Might have been a remake of an older game
+3. You play as a humanoid monster that I believe had a mouth full of
+teeth and sharp claws on his arms that might have been similar to
+Marvel Wolverine or [Bakasura's depiction in Smite](https://static.wik
+ia.nocookie.net/smite_gamepedia/images/3/3b/T_Bakasura_Default_Card.pn
+g/revision/latest?cb=20141011061653). 4. You are originally under the
+control of a evil person who sits inside a giant tower that has a
+bunch of souls flying around it. 5. Your first enemies are humans
+where all the men are defenseless monks and the women are warrior
+knights. 6. After you kill everyone in your way, you are met with one
+last monk who lets out a sigh before facing you. After you kill him,
+he is revealed to be your father, and his death frees you from the
+control of the evil guy. You also used to be human before you were
+transformed into a monster. 7. The rest of the game is spent fighting
+his monsters 8. At the end of the game you are presented with three
+options: 1. Spare Him: this causes all the souls to attack and kill
+the man and then you see a vision saying you will one day be human
+again or something like that. 2. Submit to Him: The evil guy turns you
+back into a human and lets you go but he continues to be evil in his
+tower 3. Kill Him: You kill him and take his place as ruler of the
+tower."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

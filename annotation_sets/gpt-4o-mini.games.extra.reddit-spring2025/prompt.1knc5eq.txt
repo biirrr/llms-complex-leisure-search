@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Android] [Late 2010s] Line-based rhythm game. Platform(s):
+Android Genre: Rhythm Estimated year of release: I played it around
+2019 Graphics/art style: Very simplistic / retro, gameplay has a black
+background. Notable characters: None, I don't remember any characters
+in either the game or the branding Notable gameplay mechanics: You
+follow a white line as a dot/circle(?) moves along it, and you'll
+either have to swipe or tap as things move towards the spot on the
+line you're focused on. The camera rotates around in 3d and the line
+bends around, moreso as it gets more difficult. Other details: I
+believe levels had multiple difficulties and there was some sort of
+progression system. The music was techno-y."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,24 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps1][2004]Third person shooter. Platform(s):ps1 Genre:
+shooter?action/adventure? Estimated year of release: between 1994 and
+2006 Graphics/art style: 3d 3rd person. dark and gorey? very simmilar
+to Siphon Filter Notable characters: pretty sure one of the game
+studio logos (or maybe the games logo) was a red cockroach Notable
+gameplay mechanics: pretty sure you just ran forward and shot
+everything in your path while picking up different weapons/upgrades,
+also im pretty sure the beggining of the game was in a tunnel/subway..
+i remember it was kind of dark and spooky for 6 year old me Other
+details: Played this in my uncles ps1 in 2004~2006, so i was around 6
+or 7, i think i didnt know how to read but also im from a spanish
+speaking country and game was in english so i dont have a clue about
+anything storywise. Very simmilar to Siphon filter"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

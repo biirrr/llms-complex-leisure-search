@@ -1,0 +1,30 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction, Book on Rhetoric [s]. Hi everyone. This one I
+have is really going to be a pickle. The book in question deals with
+rhetoric, it's in English, of course, and it looks somewhat like
+George Yule's The Study of English and that type of publications. The
+problem, however, is the fact that I only read a chapter of it which I
+needed for my research, and never took a look at the front page, hence
+I don't have the slightest idea what it's called, who wrote it and
+what color it is. I only vaguely remember that its title wasn't very
+specific. By this I mean that it may have been something formulaic
+like ""the study of"", ""a coursebook of"", etc. The best I can do is
+to put up some quotes. I was dealing with fallacies so I wrote down
+some definitions and the numbers of the pages they appear on so that
+may help. For instance, on page 166 the book talks about
+Overgeneralizing and defines it as ""drawing a larger conclusion than
+the evidence supports"". Or, on page 173 it talks about Guilt by
+Association and defines it as ""an assumption that you are like those
+you associate with"". Or, page 175, Plain folks, ""an appeal that
+implies you should follow the ordinary citizen, the man in the street,
+the simple folk"". I would immensely appreciate any help. Thanks"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

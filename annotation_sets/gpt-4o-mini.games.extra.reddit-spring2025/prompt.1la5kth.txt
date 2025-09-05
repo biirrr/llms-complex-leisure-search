@@ -1,0 +1,35 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Unknown year] Strange Short Cerebral Game that corrupts
+after one playthrough.. Platform: PC as far as I know Genre: Not sure?
+Estimate year of release: Unknown Graphics/art style: Somewhere
+between DOS and 8bit, Black and White, some Red, lots of Purple and
+Blues Notable characters: Of the three areas, I remember a dragon.
+Notable gameplay mechanics: The game didn't really have Mechanics, it
+looked a lot like a dungeon crawler, had selectable areas that after
+talking to whatever was there, the memory area became corrupted and
+couldn't be revisited. Other Details: The game was like a lost cart
+that started to become self aware, but doing so was using up all it's
+memory. The game opens past the menu with a white and black area with
+a red sun, talking about weird stuff, before a menu lets you select
+things to visit. Each conversation with monsters is deep and
+interesting, like they've realized 'the protagonist' isn't coming
+back, and memory is being taken up trying to become more aware of
+itself. After speaking with each, the game becomes unplayable
+completely, pretty much corrupted that same way, with letters
+corrupted and areas unreachable, and it's unable to be played again. I
+saw a video on youtube about it, and played in in browser a while ago,
+but I can't find it again. I don't know if it's from the 90s, 00s, or
+2010s, but it was made to look like a DOS game, and the title screen
+was black with blue and purple for the tittle elements, I think? It
+was less a game, and more a psychological experience. Sorry I don't
+have more."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

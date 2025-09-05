@@ -1,0 +1,105 @@
+Here is a JSON object containing a ranked list of suggestions for the book the user is looking for:
+
+
+{
+  "suggestions": [
+    {
+      "answer": "The Secret, Book & Scone Society by Ellery Adams",
+      "explanation": "This novel features a mysterious small-town setting with eccentric characters and involves a librarian who helps solve local mysteries. The book involves themes of inheritance and community.",
+      "confidence": 0.75
+    },
+    {
+      "answer": "Murder at the Book Club by Lizzie Prescot",
+      "explanation": "The protagonist inherits a property and becomes involved in solving mysteries related to the local community, including a book club setting which aligns with the library aspect.",
+      "confidence": 0.70
+    },
+    {
+      "answer": "Aunt Dimity's Death by Nancy Atherton",
+      "explanation": "This book involves a character who inherits from an eccentric aunt and uncovers mysteries connected to her life and death. It has a cozy mystery vibe that fits with the user's description.",
+      "confidence": 0.65
+    },
+    {
+      "answer": "The Cozy Tea Shop Mysteries series by Joy Avon",
+      "explanation": "This series features a tea shop owner who often gets embroiled in village mysteries. The whimsical setting aligns with the described 'whacky' color scheme.",
+      "confidence": 0.60
+    },
+    {
+      "answer": "The Bookshop on the Corner by Jenny Colgan",
+      "explanation": "While not a strict mystery, this story involves a bookshop owner in a charming village and touches on themes of community, which parallels the idea of setting up a library.",
+      "confidence": 0.55
+    },
+    {
+      "answer": "Mystery at the Old Quarry by Helen Moss",
+      "explanation": "This involves a group of friends solving a mystery, showcasing both friendship and adventure in an eccentric village setting, with elements of inheritance.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "Death in the Family by Tessa Arlen",
+      "explanation": "Focuses on a murder mystery connected to family inheritance in a wealthy setting. The eccentricity of characters may appeal to the user's description.",
+      "confidence": 0.50
+    },
+    {
+      "answer": "The Reading Group by Dianne Setterfield",
+      "explanation": "A community-focused story with themes around books, libraries, and the connections formed within small towns, though it lacks a direct mystery element.",
+      "confidence": 0.45
+    },
+    {
+      "answer": "The Haunting of Maddy Clare by Simone St. James",
+      "explanation": "While primarily a ghost story, it involves solving the mystery of a past event and features eccentric settings, connecting with the user's elements.",
+      "confidence": 0.40
+    },
+    {
+      "answer": "The Library of Lost and Found by Phaedra Patrick",
+      "explanation": "This book involves themes of legacy and discovery in a village setting, along with a focus on books and libraries, though it is more heartfelt than mystery-based.",
+      "confidence": 0.35
+    },
+    {
+      "answer": "The Fatal Fern Affair by Anthony Horowitz",
+      "explanation": "This involves mystery-solving and investigations in unique settings, although it's more of a detective novel than a cozy mystery.",
+      "confidence": 0.30
+    },
+    {
+      "answer": "A Murder is Announced by Agatha Christie",
+      "explanation": "This classic mystery involves a small village setting, yet it does not include the library aspect or the specific details from the request.",
+      "confidence": 0.30
+    },
+    {
+      "answer": "The Cotswold Mysteries by Rebecca Tope",
+      "explanation": "Set in a quirky, rural village with mysteries at its core, the series could relate, but lacks specific characteristics mentioned in the user's query.",
+      "confidence": 0.25
+    },
+    {
+      "answer": "The Book of Secrets by J.J. B. C. Van Buren",
+      "explanation": "This story features dark secrets within a community and involves a focus on books and inherited properties, though evokes a different tone.",
+      "confidence": 0.25
+    },
+    {
+      "answer": "Bookmarked for Death by Lorna Barrett",
+      "explanation": "Featuring a mystery set around a bookstore, this aligns with the library theme but strays from the central plot points given in the request.",
+      "confidence": 0.20
+    },
+    {
+      "answer": "The 7½ Deaths of Evelyn Hardcastle by Stuart Turton",
+      "explanation": "While primarily fantasy mystery, it encapsulates quirky character dynamics and eccentricity but is less connected to the core elements of the user's request.",
+      "confidence": 0.20
+    },
+    {
+      "answer": "A Journey of Dreams by Emma Nevada",
+      "explanation": "This story involves elements of discovery and could fit within a village context, however, it lacks direct mystery elements.",
+      "confidence": 0.15
+    },
+    {
+      "answer": "The House at the End of Hope Street by Menna van Praag",
+      "explanation": "While this story does feature a magical house, it strays from the specific elements of mystery related to inheritance.",
+      "confidence": 0.10
+    },
+    {
+      "answer": "The Owl Was a Baker's Daughter by Alice Melvin",
+      "explanation": "Although whimsical, it's more of a children’s book and does not fit the adult mystery genre requested.",
+      "confidence": 0.05
+    }
+  ]
+}
+ 
+
+This ranking is based on the details provided in the user's request, matching them as closely as possible with the themes of inheritance, eccentric characters, libraries, and mysteries.

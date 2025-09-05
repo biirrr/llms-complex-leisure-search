@@ -1,0 +1,26 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Flash][2015?] pixel-style game featuring a pig with a magic
+gun. The drawing is a vague memory of how I remember the character
+Platform(s): Flash (I played it in browser) Genre: Platformer /
+Adventure Estimated year of release: Around 2015 (could be earlier)
+Graphics/art style: """""""" The game was pixelated, maybe pastel-
+colored or soft in its palette. Notable characters: """""""" Think the
+main character was a pig  it was standing on two legs and looked kind
+of chubby, and I remember its belly moved like it was breathing.
+Notable gameplay mechanics: """""""" It had a sort of open world
+feeling  you could go to different places, but the camera was fixed
+(side view). """""""" I think the pig had a magical-looking gun and
+could shoot, possibly fighting aliens or monsters. """""""" The pig
+mightve worn a crown or a cape, though Im not 100% sure about that.
+I know its a long shot, but if anyone remembers something like this,
+Id be so grateful"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

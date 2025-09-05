@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[ps3 or ps4] [unknown] ww2 game with a window hold out maybe
+in italy. I remember 2 missions, both set at the seaside with houses
+that i think were italian 1. You had to plant charges on german AA
+guns and fight your way through a lot of soldiers, so it wasn't a
+stealth mission 2. The window hold out: just hold of waves of enemies
+from a window I played this game around 2016-17 but the release date
+is most likely not there since i think it was more like on the ps3 not
+the ps4 because the graphics weren't any good This is sadly all i
+remember"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

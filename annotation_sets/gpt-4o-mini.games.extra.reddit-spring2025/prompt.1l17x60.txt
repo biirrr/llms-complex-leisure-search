@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[N64] [unknown] Platformer 3d Sidescroller, Green haired
+protagonist. Im trying to remember a game I played when I was a kid,
+it was a 3d sidescroller/platformer, the protagonist was a green
+haired girl with I believe 2 pig tails, the game revolves around
+grabbing these balls and blocks and following them on a track, a lot
+of the blocks in the game had faces on them, one of the boss fights I
+remember you had to grab the bosses hands and throw them into his
+face."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

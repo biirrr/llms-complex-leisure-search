@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Children’s Fiction where the story went back and forth
+between how a boy imagined moments in his life versus how they
+actually happened. Read 2007-2009. I got this book from my teacher’s
+library, and I believe it was a library edition without a dust jacket.
+It was orange. The boy wanted to be an actor or something along those
+lines and he would always imagine how different events in his life
+would go, before the book would cut back to how the event actually
+went. Two scenes I remember were him climbing a tree, and there was
+one where he was practicing lines or talking to himself in a mirror.
+He had a sister. There was also, at page breaks, a little fish icon
+that would be between paragraphs - maybe denoting when it would switch
+between the fantasy and real world? It’s been driving me crazy for
+years that I can’t remember the title - please help!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

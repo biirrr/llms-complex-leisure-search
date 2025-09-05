@@ -1,0 +1,20 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Computer] [2000's?] looking for a game where you make
+choices about saving energy and recycling and your life depends on
+it.. I dont remember where its from but it was essentially a game that
+made you pick Between choices like using the water to brush your
+teeth, using your bike or a car to get to the store which was
+underground, or wether you had a big or a small dinner (The house was
+like a big treehouse) and you have an energy bar and if you used too
+much energy or polluted it would be game over, also if you neglected
+your character so you had to find a balance."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

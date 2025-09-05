@@ -1,0 +1,29 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Dvadi.com][2017][zombie game]. Hi everyone, Ive been
+trying to find a specific browser game I played around 7 years ago
+(circa 20172018), and it seems to have completely disappeared from
+the internet. Im hoping someone here might recognize it. Heres what
+I remember: It was a top-down zombie shooter. You could only move up
+and down (not left or right). You used various weapons to kill
+zombies. The game had a kind of arena or stadium vibe (but not
+necessarily in a literal stadium). The enemies came from one direction
+(possibly from the right), and you had to survive or kill as many as
+possible. I played it on dvadi.com, which now mostly hosts
+football/soccer games, but back then it had other types of games too.
+It was a browser-based Flash game, and I played it on PC. I dont
+remember the exact name  I always thought of it as Zombie Stadium 
+but that might not be its real title. It didnt seem like a big
+commercial game  more like a simple Flash game, probably made by a
+small developer or part of a Flash collection. If this rings any
+bells, or you know a similar game, please let me know. Ive searched
+everywhere and cant find it. Thanks in advance!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

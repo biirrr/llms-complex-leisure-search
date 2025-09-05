@@ -1,0 +1,27 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fiction: A girl runs away from an abusive/troubled
+situation, and meets a boy named Lennon along the way. Read around
+2016-18.. Hi there, I have been trying to find this book again for
+years. I read it in high school, and have been unable to piece
+together enough clues to find it. The main thing that I vividly
+remember is that the female main character is looking for answers to
+something, and runs away from a rough life. Along the way, she meets a
+boy named Lennon, and eventually also meets his brother (I think
+brother?) Jude. It is a running joke that their parents loved the
+Beatles. I also vividly remember that Lennon and Jude live in quite a
+fancy house, but that's about all I can remember. The book seemed
+fairly new at the time, with some modern themes, I would say it was
+written no more than 5-10 years before I read it. The time period
+seemed modern day but could have been futuristic. I know this is a
+tough one... I wish I could remember more. Thank you in advance for
+the help!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

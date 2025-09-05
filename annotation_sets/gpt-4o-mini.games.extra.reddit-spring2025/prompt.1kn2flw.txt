@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC?][2000-Early 2010] Grid style turn based card game. I
+remember my brothers and I playing a grid style turn based card game
+on a web browser that had some mortal kombat characters or moves in it
+along with other characters as well one of which was a robot like
+entity, and I remember a distinct bug where the """"""""get over
+here"""""""" move of scorpion has a sound bug where the whish or swish
+of the rope being launched repeating indefinitely in the background.
+Sorry I can't give much detail, it's been at the very least a decade."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

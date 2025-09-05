@@ -1,0 +1,54 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Preteen story about a boy who calls a private investigator
+because he thinks his older sister and her boyfriend committed a
+murder. Read mid 1990s. Spoilers.. I read this book when I was around
+10 years old, in the mid-90s. It will have been meant for somebody
+that age or maybe slightly older. The book was written in American
+English and probably published within the previous five or ten years.
+I do not remember anything about the book physically (color, size,
+etc.), but I feel like it was probably softcover and novelette-length.
+The main character, a boy around the age of 10 or 12, begins to
+believe that his sister was an accomplice to a murder committed by her
+boyfriend. He somehow stumbles onto a private investigator, who agrees
+to look into it for free. The private investigator regularly meets his
+clients in secret in some diner or ice cream store or some such. At
+one point the investigator tells the kid over the phone to meet him at
+the regular place, and the kid begins to say ""oh, you mean the one
+at-"" and the investigator snaps at him ""Don't broadcast it, kid!""
+because the PI's line is tapped by the police. Unfortunately the kid
+managed to mention enough of the name of the diner that the detective
+assigned to follow the PI around figured it out. The kid's last name
+is something like Boyd, which proves to be just an excuse for the
+author to have the private investigator tell a police detective (or
+vice versa) that ""a little Boyd told me"". ALMOST ALL THE DETAILS I
+REMEMBER ARE SPOILERS: At the end, all of the kid's evidence for the
+murder, which he wrote down in a notebook of clues to bring the PI,
+turns out to have been a series of wacky misunderstandings. Here are
+the ones I remember: * He overheard his sister and her boyfriend
+talking about ""that little murder between us"", which turned out to
+be the title of a play they were auditioning for or acting in. * He
+found a bucket of water with what he thought was the victim's head
+submerged in it. (I remember the line the kid wrote in the notebook
+being something along the lines of ""There is a HEAD in a bucket"",
+with ""head"" in all caps.) This turned out to be the wig the sister
+was planning to wear in the play, which she was soaking in water
+because it had gotten dirty. * He overheard his sister crying in pain
+and her boyfriend threatening her, which turned out to be the
+boyfriend telling her to hold still while trying to help her put on
+the now-painfully-shrunken wig. However, the private investigator knew
+it was a misunderstanding from the start, and was in fact using the
+kid to unravel a series of thefts that were committed by the kid's
+family's housekeeper, who changes identities all the time and robs
+from her employers and may or may not be the head of a massive
+thieving ring of similar housekeepers. I don't remember how the PI
+realized the two plots are connected."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

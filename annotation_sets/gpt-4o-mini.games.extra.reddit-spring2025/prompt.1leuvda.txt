@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [~90s] Victory screen that fills with treasure
+depending on your score. Platform(s): PC; CD-ROM, maybe floppy disk.
+Genre: maze(?), puzzle(?), educational(?) Estimated year of release:
+early 90s Graphics/art style: I mainly only remember the victory
+screen, which was a mostly/entirely static image of a treasure room,
+detailed enough to make out the treasure objects. Notable characters:
+Notable gameplay mechanics: Other details: I know there's not a lot to
+offer with this one. It was a game when I played when I was young, so
+early 90s, maybe into the 80s. The main thing I remember about it is
+that there was a victory screen with a treasure room, and depending on
+how well you did at the level, it would fill with more or less
+treasure objects. It was mostly pretty obviously treasure, but one
+strange detail I feel like was the case is that one was a fancy
+rocking horse. I mainly remember because I was young enough that I
+could barely manage to beat the level, while my family members were
+always getting treasure. As to what """"""""beating the level""""""""
+meant, the best I can recall is that it was something maze-like. It
+might have been puzzles, or something educational, but mazes sounds
+closer. Hope I'm not making it up. My family remembers it vaguely when
+I prompt them to, but none have any more detail than I do."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

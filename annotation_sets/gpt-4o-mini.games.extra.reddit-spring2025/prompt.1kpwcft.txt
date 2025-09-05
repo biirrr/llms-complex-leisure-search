@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2010s] An RPG maker horror game. Platform(s): PC Genre:
+Horror RPG Estimated year of release: 2010s? Notable characters: You
+play as a little blonde girl who is basically holed up in her house by
+her dad. The mother is missing/dead and is mentioned various times
+throughout the game. Notable gameplay mechanics: I do remember there
+being some timed hiding elements, like the father giving chase to the
+daughter and she had to run/hide. in order to not trigger the
+""""""""bad ending"""""""". Other details: There are some elements
+about abuse (domestic and otherwise), like if you get caught during a
+chase scene and trigger a """"""""bad ending"""""""". There was also a
+point made to show a lot of the little girl's drawings or belongings,
+and I'm pretty sure she wears a white dress. Edit: Solved."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,28 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC Flash Game] [2010's ish] A flash game where you command
+futuristic aerial troops. I played many flash games in the past, but
+there this one particular game that is in my memory that I can't seem
+to find on the internet. This is a 2D, aerial dogfighting game where
+there are 2 (motherships?);' the good side being you, and the enemy
+side. You buy aerial assault troops to fight against the enemy's
+troops. As you destroy the enemy, you get money to buy even more
+powerful troops that will eventually outlast the enemy side, and
+eventually destroy their mother ship. At the end of each round when
+you win, you're remaining troops will fly in a figure 8 formation
+after defeating the enemy mothership The UI of the game is unknown to
+me, but the colors of each side, the good and enemy side, somewhat
+still resemble in my head. The art style has this futuristic look and
+colors shown in my drawing, with the planes and mothership not
+resembling any real life counterparts, but still retains any other 2D
+side scroller fighting game. It's a really fun game, and revisiting
+after many years would be a joyride for me."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

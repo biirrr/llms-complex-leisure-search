@@ -1,0 +1,14 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Nonfiction book about an American doctor who started a
+clinic in South America [s]. Somewhat similar to your book, but mostly
+taking place in Haiti, is Mountains Beyond Mountains by Tracy Kidder."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

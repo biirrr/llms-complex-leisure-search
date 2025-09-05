@@ -1,0 +1,24 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Historical Fiction. Cultural revolution in China.
+Homeless boy joins some sort of kids gang. Read around 2017-2018.
+Spoilers ahead.. Okay sorry if I do this wrong first time. I read this
+book probably in 2017-2018, I was in middle school so I don't remember
+that much. It was set during what I believe was the cultural
+revolution in China, for sure in the past and the main character was a
+boy probably around 12. He was orphaned and fending for himself on the
+street and later on he joins a street gang that was just children.
+*SPOILER INCOMING* I am pretty sure that one of the boys in his gang
+ended up dying. I remember the book possibly having the rising sun on
+it. It's definitely YA and the main characters name MAY BE Liang I'm
+not sure. Plz help it was such a good book I just can't find it
+anywhere!!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

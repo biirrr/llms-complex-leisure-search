@@ -1,0 +1,18 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Mystery - Longmire rescues Henry in a storm/ carries
+to safety. Read in 2023-2024.. Looking for the specific Longmire book
+where Walt carries Henry to safety. During the rescue, he hears
+chanting/singing and believes Henry is singing to him… this is
+referenced in his 7th title, Hell is Empty but I’m having a heckuva
+time finding it. I read in 2023/24 but would have been written in the
+early 20-teens."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

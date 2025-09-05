@@ -1,0 +1,22 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][Year Unknown] Possible Incremental/Idle Game or
+Something Else?. I was clearing my folder when I found a screenshot,
+and Im trying to take another crack at figuring out what game this
+is. Based on the screenshot and my memory, I wanna assume its an
+incremental/clicker game, but I could be wrong. From what I recall,
+the game UI has many interlocked windows (and you can pan around using
+WASD). The only other detail I can recall is that of the many windows,
+3 of them each had a rotating wireframe pyramid that were respectively
+colored blue, pink, and another color I cannot remember. I think the
+best clue likely has to do with the heptagon symbol with the red eye
+and halo + angel wings."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

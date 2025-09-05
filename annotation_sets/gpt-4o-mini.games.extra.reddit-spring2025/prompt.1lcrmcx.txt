@@ -1,0 +1,31 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][unknown] Amusement Park Game with Dinosaurs Theme. Hey
+everyone, When I was a kid, I often visited my mother at her workplace
+just so I could play what was, at the time, my absolute favorite game.
+The computer I used was ancient  one of those chunky old monitors
+with a huge back. My mom would help me launch the game, which was
+buried deep in some folders. Unfortunately, every time I restarted the
+game, all my progress would be lost. The game started by letting you
+choose a theme for an amusement park. The default theme was dinosaurs,
+and you had to unlock additional ones by progressing. I only ever
+managed to unlock the second theme, which was mushroom-based, but
+never made it further than that. The core gameplay was about building
+and managing an amusement park while trying not to go bankrupt. I used
+to build everything randomly, which always led to financial collapse
+in the end. The one thing I remember most vividly is a trampoline
+shaped like a giant dinosaur. One time, with some help from my
+parents, I finally managed to win by adjusting the ticket prices,
+which unlocked the mushroom-themed park. Not long after, my moms
+company relocated and replaced all their computers. Thats when the
+game disappeared  and Ive been trying to find it ever since. If this
+rings a bell for anyone, Id be incredibly grateful for any tips!"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

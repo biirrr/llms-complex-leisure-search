@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "Adult Real Life Story about Repeat Alien Abduction. [s]. I
+read this book some time between 1991 and 1994, it was a true story
+about a woman who had repeat alien abductions throughout her lifetime,
+at some point she mentions she had found an implant on her body from
+the aliens, she believed it was a tracker, and thought they used this
+with many people. One time that she was abducted they introduced her
+to several ""children"" of hers, they had removed ova / ovum from her
+on previous abductions and were creating a mixed breed, and they took
+her to meet her ""children"" with this alien being, and the alien
+""mother"" who was taking care of the children was allowed to watch
+her interactions with her ""children"" so she could learn about
+emotions, because apparently they are not emotional creatures."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

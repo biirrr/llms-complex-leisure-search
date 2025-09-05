@@ -1,0 +1,23 @@
+Identify the book the user is looking for as described in the request
+below:
+
+Request: "YA Fantasy Adventure. Boy receives a gift from his nanny for
+his birthday right before she leaves, and the gift brings him to a new
+world.. It is a book about a boy who receives a gift from his nanny
+for his birthday right before she leaves. His parents have decided
+that the boy no longer needs a nanny because he is too old. The boy
+gets emotional because his nanny was a big part of his life, and he
+doesn't want her to leave, so he locks himself in a room, and somehow,
+the gift transports him to a new world. Once he is transported to the
+fantasy world from the modern world, he opens his eyes, and the boy is
+in the middle of a forest alone with only the things he has in his
+pockets. He happens to have his recorder, and he plays it to keep
+himself calm while walking through the forest."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and author), a field 'explanation'
+containing an explanation of why these books could be the correct
+answer, and a 'confidence' score that represents how confident you are
+of your suggestion.

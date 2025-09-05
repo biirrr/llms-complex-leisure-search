@@ -1,0 +1,21 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[Xbox360] [2010s] A game about a monkey guy fighting robots.
+I really need to find this game because i remember it looking amazing.
+Unfortunately i don't have a copy because my dad sent it back to
+gamestop when i was younger. The game was 3D person, the graphics were
+pretty realistic at the time and maybe you had a big circle beneath
+you to see where you'd end up when you jumped. You played as this
+muscular guy (he maybe had a tail like a monkey) with a stick who had
+to save this lady constantly. The setting was a place overgrown by
+nature that was filled with robots who'd light up. I renember there
+being some platforming sessions inside some giant robots"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

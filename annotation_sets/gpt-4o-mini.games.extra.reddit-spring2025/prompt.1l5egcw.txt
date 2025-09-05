@@ -1,0 +1,19 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC][2000-2010S?][Indie] Horror game that starts out
+""""""""innocent"""""""". I'm trying to remember the name of a kinda
+old short horror game. It had simple 3D graphics and started off
+pretty normalyou had to help a king or something similar. But as you
+progressed, weird things started happening: visual glitches, cheap
+jump scares, and I think at one point there was even a 911 call or
+something like that. I think the title had a number in it, but I'm not
+completely sure."
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,23 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[PC] [Unknown] a Game where you are a girl who has a living
+gun. Im literally on the verge of insanity. I have been looking for
+this game for the past 5 years, it's a game where it takes place on
+apocalyptic like scenario and with a kid to be specific a girl, uses a
+living gun to go throught the place and it was 2D, she was given the
+gun by someone in the beginning of the story, who was at the verge of
+dying Details: the monsters that the game had was kinda alien like or
+insect like in a way, one of the Bosses that i never got throught,
+shooted orange electric like balls on the player. And that's really
+all i can remember...i've drawn how the gun looked like by memory, not
+completely sure it's correct, still if anyone can find this you are a
+flipping legend"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.

@@ -1,0 +1,18 @@
+Identify the game the user is looking for as described in the request
+below:
+
+Request: "[unknown][unknown] massive sword army. Destroy them all to
+win.. I think it was for either GameCube, PS2 or PS3. If it helps, I
+think it was a series of games. Every character uses swords and you
+are bombarded by enemies. You start with many soldiers but your steam
+looses heroes slowly. It's sort of like an extreme version of the Wii
+Sports Resort, mini-game, Sword Showdown. Please forgive me if any of
+these details are incorrect. I'm going with memory. Thx"
+
+Please provide a ranked list of your 20 best guesses for the correct
+answer. Please answer in a JSON object that contains a ranked list of
+suggestions. Each suggestion should contain a field called 'answer'
+containing the suggestion (title and release year), a field
+'explanation' containing an explanation of why these games could be
+the correct answer, and a 'confidence' score that represents how
+confident you are of your suggestion.
