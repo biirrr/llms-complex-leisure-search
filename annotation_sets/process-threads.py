@@ -5,15 +5,15 @@ import os
 from csv import DictReader, DictWriter
 from random import shuffle
 
-TSV_FN = "books-threads.tsv"
-LLM_BASE_DIR = "gpt-4o-mini.books.extra.reddit-spring2025"
+# TSV_FN = "books-threads.tsv"
+# LLM_BASE_DIR = "gpt-4o-mini.books.extra.reddit-spring2025"
 # TSV_FN = "movies-threads.tsv"
 # LLM_BASE_DIR = "gpt-4o-mini.movies.extra.reddit-spring2025"
-# TSV_FN = "games-threads.tsv"
-# LLM_BASE_DIR = "gpt-4o-mini.games.extra.reddit-spring2025"
+TSV_FN = "games-threads.tsv"
+LLM_BASE_DIR = "gpt-4o-mini.games.extra.reddit-spring2025"
 
 GENERATE_EXTRAS = False
-ADD_TITLES = True
+ADD_TITLES = False
 
 UNSOVLED_MAX = 50
 HUMAN_SOLVED_MAX = 50
@@ -186,5 +186,5 @@ with open(os.path.join(output_filename), "w") as out_f:
             human_llm_solved_count = human_llm_solved_count + 1
 
 print(f"Unsolved: {unsolved_count}")  # noqa: T201
-print(f"Human solved: {human_llm_solved_count}")  # noqa: T201
+print(f"Human solved: {human_solved_count}")  # noqa: T201
 print(f"LLM Solved: {human_llm_solved_count}")  # noqa: T201
