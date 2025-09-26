@@ -33,7 +33,12 @@ with open(STATS_FILE) as in_f:
                     "solved_by_OP",
                     "unique_user_replies",
                 ]:
-                    entry["stats"][key] = line[key]
+                    try:
+                        entry["stats"][key] = float(line[key])
+                    except ValueError:
+                        if key in entry["stats"]:
+                            del entry["stats"][key]
+                        pass
 
 with open(ANNOTATED_FILE, "w") as out_f:
     json.dump(annotated, out_f)
